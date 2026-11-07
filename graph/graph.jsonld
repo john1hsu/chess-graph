@@ -8,5 +8,99 @@
     "schema": "https://schema.org/",
     "@base": "https://github.com/john1hsu/chess-graph/id/"
   },
-  "@graph": []
+  "@graph": [
+    {
+      "@id": "kt:alpha-beta-pruning",
+      "@type": "kto:Algorithm",
+      "skos:prefLabel": "Alpha-beta pruning",
+      "skos:definition": "A refinement of minimax game-tree search that skips branches which provably cannot change the value of the root, letting a chess engine reach the same result as full minimax while examining far fewer positions.",
+      "kto:domain": "computer-chess",
+      "dcterms:created": "2026-11-07",
+      "kto:verified": "2026-11-07",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Minimax Algorithm and Alpha-Beta Pruning",
+          "dcterms:publisher": "Computer History Museum (Mastering the Game exhibit)",
+          "schema:url": "https://www.computerhistory.org/chess/the-minimax-algorithm-and-alphabeta-pruning/",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "An analysis of alpha-beta pruning (Knuth & Moore, Artificial Intelligence, 1975)",
+          "dcterms:publisher": "AITopics (AAAI) Classics",
+          "schema:url": "https://aitopics.org/doc/classics:26AE7F7A",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "CS 440/ECE 448 Lecture notes: Games 3",
+          "dcterms:publisher": "University of Illinois Urbana-Champaign (Margaret Fleck)",
+          "schema:url": "https://courses.grainger.illinois.edu/cs440/fa2021/lectures/games3.html",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Alpha-Beta",
+          "dcterms:publisher": "Chess Programming Wiki",
+          "schema:url": "https://www.ChessProgramming.org/Alpha-Beta",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "Alpha-Beta Pruning (Isabelle/HOL formal verification)",
+          "dcterms:publisher": "Tobias Nipkow, Technical University of Munich (isa-afp.org)",
+          "schema:url": "https://www.isa-afp.org/browser_info/current/AFP/Alpha_Beta_Pruning/document.pdf",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/computer-chess/alpha-beta-pruning.md",
+      "skos:altLabel": [
+        "Alpha-beta search",
+        "Alpha-beta algorithm",
+        "Alpha-beta heuristic",
+        "Alphabeta"
+      ],
+      "kto:fen": "r1bqkb1r/pppp1ppp/2n2n2/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 4 4",
+      "skos:broader": [
+        {
+          "@id": "kt:minimax"
+        },
+        {
+          "@id": "kt:game-tree-search"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:move-ordering"
+        },
+        {
+          "@id": "kt:iterative-deepening"
+        },
+        {
+          "@id": "kt:transposition-table"
+        },
+        {
+          "@id": "kt:principal-variation-search"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:minimax"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:john-mccarthy"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:principal-variation-search"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:monte-carlo-tree-search"
+        }
+      ]
+    }
+  ]
 }

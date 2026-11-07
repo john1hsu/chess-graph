@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "id": "kt:alpha-beta-pruning",
+    "title": "Alpha-beta pruning",
+    "aliases": [
+      "Alpha-beta search",
+      "Alpha-beta algorithm",
+      "Alpha-beta heuristic",
+      "Alphabeta"
+    ],
+    "type": "Algorithm",
+    "domain": "computer-chess",
+    "file": "articles/computer-chess/alpha-beta-pruning.md",
+    "created": "2026-11-07",
+    "verified": "2026-11-07",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.computerhistory.org/chess/the-minimax-algorithm-and-alphabeta-pruning/",
+      "https://aitopics.org/doc/classics:26AE7F7A",
+      "https://courses.grainger.illinois.edu/cs440/fa2021/lectures/games3.html",
+      "https://www.ChessProgramming.org/Alpha-Beta",
+      "https://www.isa-afp.org/browser_info/current/AFP/Alpha_Beta_Pruning/document.pdf"
+    ]
+  }
+]

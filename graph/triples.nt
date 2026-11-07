@@ -1,1 +1,53 @@
-
+<https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <http://purl.org/dc/terms/created> "2026-11-07" .
+<https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Algorithm> .
+<https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <http://www.w3.org/2000/01/rdf-schema#label> "Alpha-beta pruning" .
+<https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <http://www.w3.org/2004/02/skos/core#altLabel> "Alpha-beta algorithm" .
+<https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <http://www.w3.org/2004/02/skos/core#altLabel> "Alpha-beta heuristic" .
+<https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <http://www.w3.org/2004/02/skos/core#altLabel> "Alpha-beta search" .
+<https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <http://www.w3.org/2004/02/skos/core#altLabel> "Alphabeta" .
+<https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/game-tree-search> .
+<https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/minimax> .
+<https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <http://www.w3.org/2004/02/skos/core#definition> "A refinement of minimax game-tree search that skips branches which provably cannot change the value of the root, letting a chess engine reach the same result as full minimax while examining far fewer positions." .
+<https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alpha-beta pruning" .
+<https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/iterative-deepening> .
+<https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/move-ordering> .
+<https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/principal-variation-search> .
+<https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/transposition-table> .
+<https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s1> .
+<https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s2> .
+<https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s3> .
+<https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s4> .
+<https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s5> .
+<https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> .
+<https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/minimax> .
+<https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/john-mccarthy> .
+<https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <https://github.com/john1hsu/chess-graph/ontology#domain> "computer-chess" .
+<https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/principal-variation-search> .
+<https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <https://github.com/john1hsu/chess-graph/ontology#fen> "r1bqkb1r/pppp1ppp/2n2n2/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 4 4" .
+<https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-07" .
+<https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s1> <http://purl.org/dc/terms/publisher> "Computer History Museum (Mastering the Game exhibit)" .
+<https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s1> <http://purl.org/dc/terms/title> "The Minimax Algorithm and Alpha-Beta Pruning" .
+<https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s1> <https://schema.org/url> "https://www.computerhistory.org/chess/the-minimax-algorithm-and-alphabeta-pruning/" .
+<https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s2> <http://purl.org/dc/terms/publisher> "AITopics (AAAI) Classics" .
+<https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s2> <http://purl.org/dc/terms/title> "An analysis of alpha-beta pruning (Knuth & Moore, Artificial Intelligence, 1975)" .
+<https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s2> <https://schema.org/url> "https://aitopics.org/doc/classics:26AE7F7A" .
+<https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s3> <http://purl.org/dc/terms/publisher> "University of Illinois Urbana-Champaign (Margaret Fleck)" .
+<https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s3> <http://purl.org/dc/terms/title> "CS 440/ECE 448 Lecture notes: Games 3" .
+<https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s3> <https://schema.org/url> "https://courses.grainger.illinois.edu/cs440/fa2021/lectures/games3.html" .
+<https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s4> <http://purl.org/dc/terms/publisher> "Chess Programming Wiki" .
+<https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s4> <http://purl.org/dc/terms/title> "Alpha-Beta" .
+<https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s4> <https://schema.org/url> "https://www.ChessProgramming.org/Alpha-Beta" .
+<https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s5> <http://purl.org/dc/terms/publisher> "Tobias Nipkow, Technical University of Munich (isa-afp.org)" .
+<https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s5> <http://purl.org/dc/terms/title> "Alpha-Beta Pruning (Isabelle/HOL formal verification)" .
+<https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s5> <https://schema.org/url> "https://www.isa-afp.org/browser_info/current/AFP/Alpha_Beta_Pruning/document.pdf" .
