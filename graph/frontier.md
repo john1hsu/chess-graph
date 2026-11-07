@@ -4,15 +4,16 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:evaluation-function` | `kt:minimax`, `kt:minimax` |
+| `kt:game-tree-search` | `kt:alpha-beta-pruning`, `kt:evaluation-function`, `kt:minimax` |
+| `kt:claude-shannon` | `kt:evaluation-function`, `kt:minimax` |
 | `kt:fide` | `kt:elo-rating-system`, `kt:elo-rating-system` |
-| `kt:game-tree-search` | `kt:alpha-beta-pruning`, `kt:minimax` |
 | `kt:monte-carlo-tree-search` | `kt:alpha-beta-pruning`, `kt:minimax` |
 | `kt:philidor-position` | `kt:lucena-position`, `kt:lucena-position` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
+| `kt:quiescence-search` | `kt:evaluation-function`, `kt:minimax` |
+| `kt:alphazero` | `kt:evaluation-function` |
 | `kt:arpad-elo` | `kt:elo-rating-system` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
-| `kt:claude-shannon` | `kt:minimax` |
 | `kt:cutting-off-the-king` | `kt:lucena-position` |
 | `kt:glicko-rating-system` | `kt:elo-rating-system` |
 | `kt:grandmaster-title` | `kt:elo-rating-system` |
@@ -24,8 +25,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position` |
 | `kt:move-ordering` | `kt:alpha-beta-pruning` |
 | `kt:negamax` | `kt:minimax` |
+| `kt:nnue` | `kt:evaluation-function` |
 | `kt:pawn-promotion` | `kt:lucena-position` |
-| `kt:quiescence-search` | `kt:minimax` |
 | `kt:rook-endgames` | `kt:lucena-position` |
 | `kt:transposition-table` | `kt:alpha-beta-pruning` |
 | `kt:us-chess` | `kt:elo-rating-system` |

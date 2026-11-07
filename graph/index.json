@@ -49,6 +49,34 @@
     ]
   },
   {
+    "id": "kt:evaluation-function",
+    "title": "Evaluation function",
+    "aliases": [
+      "Static evaluation",
+      "Static evaluation function",
+      "Position evaluation",
+      "Positional evaluation function",
+      "Eval function",
+      "Heuristic evaluation function"
+    ],
+    "type": "Algorithm",
+    "domain": "computer-chess",
+    "file": "articles/computer-chess/evaluation-function.md",
+    "created": "2026-11-07",
+    "verified": "2026-11-07",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://www.fermatslibrary.com/s/programming-a-computer-for-playing-chess",
+      "https://www.cefns.nau.edu/~edo/Classes/CS470-570_WWW/Readings/Campbell2002.pdf",
+      "https://stockfishchess.org/blog/2020/introducing-nnue-evaluation/",
+      "https://stockfishchess.org/blog/2024/stockfish-16-1/",
+      "https://discovery.ucl.ac.uk/id/eprint/10069050/",
+      "https://stanford-cs221.github.io/autumn2023-extra/modules/games/evaluation-functions.pdf",
+      "https://github.com/official-stockfish/Stockfish/blob/master/src/evaluate.cpp"
+    ]
+  },
+  {
     "id": "kt:lucena-position",
     "title": "Lucena position",
     "aliases": [

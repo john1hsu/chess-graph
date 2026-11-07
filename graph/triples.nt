@@ -51,6 +51,35 @@
 <https://github.com/john1hsu/chess-graph/id/elo-rating-system> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/fide> .
 <https://github.com/john1hsu/chess-graph/id/elo-rating-system> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/elo-rating-system> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-07" .
+<https://github.com/john1hsu/chess-graph/id/evaluation-function> <http://purl.org/dc/terms/created> "2026-11-07" .
+<https://github.com/john1hsu/chess-graph/id/evaluation-function> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Algorithm> .
+<https://github.com/john1hsu/chess-graph/id/evaluation-function> <http://www.w3.org/2000/01/rdf-schema#label> "Evaluation function" .
+<https://github.com/john1hsu/chess-graph/id/evaluation-function> <http://www.w3.org/2004/02/skos/core#altLabel> "Eval function" .
+<https://github.com/john1hsu/chess-graph/id/evaluation-function> <http://www.w3.org/2004/02/skos/core#altLabel> "Heuristic evaluation function" .
+<https://github.com/john1hsu/chess-graph/id/evaluation-function> <http://www.w3.org/2004/02/skos/core#altLabel> "Position evaluation" .
+<https://github.com/john1hsu/chess-graph/id/evaluation-function> <http://www.w3.org/2004/02/skos/core#altLabel> "Positional evaluation function" .
+<https://github.com/john1hsu/chess-graph/id/evaluation-function> <http://www.w3.org/2004/02/skos/core#altLabel> "Static evaluation function" .
+<https://github.com/john1hsu/chess-graph/id/evaluation-function> <http://www.w3.org/2004/02/skos/core#altLabel> "Static evaluation" .
+<https://github.com/john1hsu/chess-graph/id/evaluation-function> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/game-tree-search> .
+<https://github.com/john1hsu/chess-graph/id/evaluation-function> <http://www.w3.org/2004/02/skos/core#definition> "The part of a chess program that assigns a numerical score to a position without searching further, estimating how good it is for one side; a search such as minimax backs these frontier scores up to choose a move." .
+<https://github.com/john1hsu/chess-graph/id/evaluation-function> <http://www.w3.org/2004/02/skos/core#prefLabel> "Evaluation function" .
+<https://github.com/john1hsu/chess-graph/id/evaluation-function> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/alphazero> .
+<https://github.com/john1hsu/chess-graph/id/evaluation-function> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/nnue> .
+<https://github.com/john1hsu/chess-graph/id/evaluation-function> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/quiescence-search> .
+<https://github.com/john1hsu/chess-graph/id/evaluation-function> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s1> .
+<https://github.com/john1hsu/chess-graph/id/evaluation-function> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s2> .
+<https://github.com/john1hsu/chess-graph/id/evaluation-function> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s3> .
+<https://github.com/john1hsu/chess-graph/id/evaluation-function> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s4> .
+<https://github.com/john1hsu/chess-graph/id/evaluation-function> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s5> .
+<https://github.com/john1hsu/chess-graph/id/evaluation-function> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s6> .
+<https://github.com/john1hsu/chess-graph/id/evaluation-function> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s7> .
+<https://github.com/john1hsu/chess-graph/id/evaluation-function> <https://github.com/john1hsu/chess-graph/ontology#domain> "computer-chess" .
+<https://github.com/john1hsu/chess-graph/id/evaluation-function> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> .
+<https://github.com/john1hsu/chess-graph/id/evaluation-function> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/minimax> .
+<https://github.com/john1hsu/chess-graph/id/evaluation-function> <https://github.com/john1hsu/chess-graph/ontology#fen> "3r2k1/ppp2ppp/8/8/8/2P5/P1P2PPP/3R2K1 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/evaluation-function> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/claude-shannon> .
+<https://github.com/john1hsu/chess-graph/id/evaluation-function> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/evaluation-function> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-07" .
 <https://github.com/john1hsu/chess-graph/id/lucena-position> <http://purl.org/dc/terms/created> "2026-11-07" .
 <https://github.com/john1hsu/chess-graph/id/lucena-position> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#EndgameType> .
 <https://github.com/john1hsu/chess-graph/id/lucena-position> <http://www.w3.org/2000/01/rdf-schema#label> "Lucena position" .
@@ -157,6 +186,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s5> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/arpad-elo-and-the-elo-rating-system?page=0" .
+<https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s1> <http://purl.org/dc/terms/publisher> "Claude E. Shannon, reproduced by Fermat's Library" .
+<https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s1> <http://purl.org/dc/terms/title> "Programming a Computer for Playing Chess (Philosophical Magazine, 1950), full text" .
+<https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s1> <https://schema.org/url> "https://www.fermatslibrary.com/s/programming-a-computer-for-playing-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s2> <http://purl.org/dc/terms/publisher> "M. Campbell, A. J. Hoane Jr., F. Hsu (copy hosted by Northern Arizona University)" .
+<https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s2> <http://purl.org/dc/terms/title> "Deep Blue (Artificial Intelligence 134, 2002)" .
+<https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s2> <https://schema.org/url> "https://www.cefns.nau.edu/~edo/Classes/CS470-570_WWW/Readings/Campbell2002.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s3> <http://purl.org/dc/terms/publisher> "The Stockfish developers (stockfishchess.org)" .
+<https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s3> <http://purl.org/dc/terms/title> "Introducing NNUE Evaluation" .
+<https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s3> <https://schema.org/url> "https://stockfishchess.org/blog/2020/introducing-nnue-evaluation/" .
+<https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s4> <http://purl.org/dc/terms/publisher> "The Stockfish developers (stockfishchess.org)" .
+<https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s4> <http://purl.org/dc/terms/title> "Stockfish 16.1" .
+<https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s4> <https://schema.org/url> "https://stockfishchess.org/blog/2024/stockfish-16-1/" .
+<https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s5> <http://purl.org/dc/terms/publisher> "D. Silver et al., UCL Discovery repository record" .
+<https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s5> <http://purl.org/dc/terms/title> "A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play (Science 362, 2018)" .
+<https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s5> <https://schema.org/url> "https://discovery.ucl.ac.uk/id/eprint/10069050/" .
+<https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s6> <http://purl.org/dc/terms/publisher> "Stanford University" .
+<https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s6> <http://purl.org/dc/terms/title> "CS221 Games module: Evaluation functions (slides)" .
+<https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s6> <https://schema.org/url> "https://stanford-cs221.github.io/autumn2023-extra/modules/games/evaluation-functions.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s7> <http://purl.org/dc/terms/publisher> "The Stockfish developers (official GitHub repository)" .
+<https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s7> <http://purl.org/dc/terms/title> "src/evaluate.cpp (Stockfish source code, master branch)" .
+<https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s7> <https://schema.org/url> "https://github.com/official-stockfish/Stockfish/blob/master/src/evaluate.cpp" .
 <https://github.com/john1hsu/chess-graph/id/source/lucena-position/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
 <https://github.com/john1hsu/chess-graph/id/source/lucena-position/s1> <http://purl.org/dc/terms/title> "The Lucena Position" .
 <https://github.com/john1hsu/chess-graph/id/source/lucena-position/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

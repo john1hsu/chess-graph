@@ -103,6 +103,100 @@
       ]
     },
     {
+      "@id": "kt:evaluation-function",
+      "@type": "kto:Algorithm",
+      "skos:prefLabel": "Evaluation function",
+      "skos:definition": "The part of a chess program that assigns a numerical score to a position without searching further, estimating how good it is for one side; a search such as minimax backs these frontier scores up to choose a move.",
+      "kto:domain": "computer-chess",
+      "dcterms:created": "2026-11-07",
+      "kto:verified": "2026-11-07",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Programming a Computer for Playing Chess (Philosophical Magazine, 1950), full text",
+          "dcterms:publisher": "Claude E. Shannon, reproduced by Fermat's Library",
+          "schema:url": "https://www.fermatslibrary.com/s/programming-a-computer-for-playing-chess",
+          "kto:sourceType": "primary-record"
+        },
+        {
+          "dcterms:title": "Deep Blue (Artificial Intelligence 134, 2002)",
+          "dcterms:publisher": "M. Campbell, A. J. Hoane Jr., F. Hsu (copy hosted by Northern Arizona University)",
+          "schema:url": "https://www.cefns.nau.edu/~edo/Classes/CS470-570_WWW/Readings/Campbell2002.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Introducing NNUE Evaluation",
+          "dcterms:publisher": "The Stockfish developers (stockfishchess.org)",
+          "schema:url": "https://stockfishchess.org/blog/2020/introducing-nnue-evaluation/",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "Stockfish 16.1",
+          "dcterms:publisher": "The Stockfish developers (stockfishchess.org)",
+          "schema:url": "https://stockfishchess.org/blog/2024/stockfish-16-1/",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play (Science 362, 2018)",
+          "dcterms:publisher": "D. Silver et al., UCL Discovery repository record",
+          "schema:url": "https://discovery.ucl.ac.uk/id/eprint/10069050/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "CS221 Games module: Evaluation functions (slides)",
+          "dcterms:publisher": "Stanford University",
+          "schema:url": "https://stanford-cs221.github.io/autumn2023-extra/modules/games/evaluation-functions.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "src/evaluate.cpp (Stockfish source code, master branch)",
+          "dcterms:publisher": "The Stockfish developers (official GitHub repository)",
+          "schema:url": "https://github.com/official-stockfish/Stockfish/blob/master/src/evaluate.cpp",
+          "kto:sourceType": "official-project"
+        }
+      ],
+      "kto:file": "articles/computer-chess/evaluation-function.md",
+      "skos:altLabel": [
+        "Static evaluation",
+        "Static evaluation function",
+        "Position evaluation",
+        "Positional evaluation function",
+        "Eval function",
+        "Heuristic evaluation function"
+      ],
+      "kto:fen": "3r2k1/ppp2ppp/8/8/8/2P5/P1P2PPP/3R2K1 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:game-tree-search"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:nnue"
+        },
+        {
+          "@id": "kt:quiescence-search"
+        },
+        {
+          "@id": "kt:alphazero"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:minimax"
+        },
+        {
+          "@id": "kt:alpha-beta-pruning"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:claude-shannon"
+        }
+      ]
+    },
+    {
       "@id": "kt:minimax",
       "@type": "kto:Algorithm",
       "skos:prefLabel": "Minimax",
