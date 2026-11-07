@@ -26,6 +26,31 @@
 <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <https://github.com/john1hsu/chess-graph/ontology#fen> "r1bqkb1r/pppp1ppp/2n2n2/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 4 4" .
 <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-07" .
+<https://github.com/john1hsu/chess-graph/id/elo-rating-system> <http://purl.org/dc/terms/created> "2026-11-07" .
+<https://github.com/john1hsu/chess-graph/id/elo-rating-system> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#RatingSystem> .
+<https://github.com/john1hsu/chess-graph/id/elo-rating-system> <http://www.w3.org/2000/01/rdf-schema#label> "Elo rating system" .
+<https://github.com/john1hsu/chess-graph/id/elo-rating-system> <http://www.w3.org/2004/02/skos/core#altLabel> "ELO rating" .
+<https://github.com/john1hsu/chess-graph/id/elo-rating-system> <http://www.w3.org/2004/02/skos/core#altLabel> "Elo rating" .
+<https://github.com/john1hsu/chess-graph/id/elo-rating-system> <http://www.w3.org/2004/02/skos/core#altLabel> "Elo system" .
+<https://github.com/john1hsu/chess-graph/id/elo-rating-system> <http://www.w3.org/2004/02/skos/core#altLabel> "Elo" .
+<https://github.com/john1hsu/chess-graph/id/elo-rating-system> <http://www.w3.org/2004/02/skos/core#altLabel> "FIDE rating" .
+<https://github.com/john1hsu/chess-graph/id/elo-rating-system> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-rating-systems> .
+<https://github.com/john1hsu/chess-graph/id/elo-rating-system> <http://www.w3.org/2004/02/skos/core#definition> "The statistical rating method devised by Arpad Elo and adopted by the US Chess Federation in 1960 and FIDE in 1970, in which each player's rating moves after every rating period by a K-factor times the difference between the actual score and the score the rating difference predicted." .
+<https://github.com/john1hsu/chess-graph/id/elo-rating-system> <http://www.w3.org/2004/02/skos/core#prefLabel> "Elo rating system" .
+<https://github.com/john1hsu/chess-graph/id/elo-rating-system> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fide> .
+<https://github.com/john1hsu/chess-graph/id/elo-rating-system> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/grandmaster-title> .
+<https://github.com/john1hsu/chess-graph/id/elo-rating-system> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/us-chess> .
+<https://github.com/john1hsu/chess-graph/id/elo-rating-system> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s1> .
+<https://github.com/john1hsu/chess-graph/id/elo-rating-system> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s2> .
+<https://github.com/john1hsu/chess-graph/id/elo-rating-system> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s3> .
+<https://github.com/john1hsu/chess-graph/id/elo-rating-system> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s4> .
+<https://github.com/john1hsu/chess-graph/id/elo-rating-system> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s5> .
+<https://github.com/john1hsu/chess-graph/id/elo-rating-system> <https://github.com/john1hsu/chess-graph/ontology#alternativeTo> <https://github.com/john1hsu/chess-graph/id/glicko-rating-system> .
+<https://github.com/john1hsu/chess-graph/id/elo-rating-system> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/arpad-elo> .
+<https://github.com/john1hsu/chess-graph/id/elo-rating-system> <https://github.com/john1hsu/chess-graph/ontology#domain> "events-and-organizations" .
+<https://github.com/john1hsu/chess-graph/id/elo-rating-system> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/fide> .
+<https://github.com/john1hsu/chess-graph/id/elo-rating-system> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/elo-rating-system> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-07" .
 <https://github.com/john1hsu/chess-graph/id/lucena-position> <http://purl.org/dc/terms/created> "2026-11-07" .
 <https://github.com/john1hsu/chess-graph/id/lucena-position> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#EndgameType> .
 <https://github.com/john1hsu/chess-graph/id/lucena-position> <http://www.w3.org/2000/01/rdf-schema#label> "Lucena position" .
@@ -107,6 +132,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s5> <https://schema.org/url> "https://www.isa-afp.org/browser_info/current/AFP/Alpha_Beta_Pruning/document.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s1> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
+<https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s1> <http://purl.org/dc/terms/title> "FIDE Rating Regulations (approved by FIDE Council on 15/12/2023, applied from 1 March 2024)" .
+<https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s1> <https://schema.org/url> "https://handbook.fide.com/chapter/B022024" .
+<https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s2> <http://purl.org/dc/terms/publisher> "FIDE (fide.com news, 2 January 2024)" .
+<https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s2> <http://purl.org/dc/terms/title> "New FIDE Rating and Title Regulations come into effect" .
+<https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s2> <https://schema.org/url> "https://www.fide.com/new-fide-rating-and-title-regulations-come-into-effect/" .
+<https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s3> <http://purl.org/dc/terms/publisher> "Mark E. Glickman and Albyn C. Jones (Boston University / Reed College), glicko.net" .
+<https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s3> <http://purl.org/dc/terms/title> "Rating the Chess Rating System" .
+<https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s3> <https://schema.org/url> "https://www.glicko.net/research/chance.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s4> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame (U.S. Chess Hall of Fame inductee page)" .
+<https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s4> <http://purl.org/dc/terms/title> "Arpad Emrick Elo" .
+<https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s4> <https://schema.org/url> "https://develop.worldchesshof.org/node/2359" .
+<https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s5> <http://purl.org/dc/terms/publisher> "Daniel Ross, ChessBase News (16 December 2007)" .
+<https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s5> <http://purl.org/dc/terms/title> "Arpad Elo and the Elo Rating System" .
+<https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s5> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/arpad-elo-and-the-elo-rating-system?page=0" .
 <https://github.com/john1hsu/chess-graph/id/source/lucena-position/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
 <https://github.com/john1hsu/chess-graph/id/source/lucena-position/s1> <http://purl.org/dc/terms/title> "The Lucena Position" .
 <https://github.com/john1hsu/chess-graph/id/source/lucena-position/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

@@ -5,12 +5,17 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:evaluation-function` | `kt:minimax`, `kt:minimax` |
+| `kt:fide` | `kt:elo-rating-system`, `kt:elo-rating-system` |
 | `kt:game-tree-search` | `kt:alpha-beta-pruning`, `kt:minimax` |
 | `kt:monte-carlo-tree-search` | `kt:alpha-beta-pruning`, `kt:minimax` |
 | `kt:philidor-position` | `kt:lucena-position`, `kt:lucena-position` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
+| `kt:arpad-elo` | `kt:elo-rating-system` |
+| `kt:chess-rating-systems` | `kt:elo-rating-system` |
 | `kt:claude-shannon` | `kt:minimax` |
 | `kt:cutting-off-the-king` | `kt:lucena-position` |
+| `kt:glicko-rating-system` | `kt:elo-rating-system` |
+| `kt:grandmaster-title` | `kt:elo-rating-system` |
 | `kt:horizon-effect` | `kt:minimax` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning` |
 | `kt:john-mccarthy` | `kt:alpha-beta-pruning` |
@@ -23,3 +28,4 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:quiescence-search` | `kt:minimax` |
 | `kt:rook-endgames` | `kt:lucena-position` |
 | `kt:transposition-table` | `kt:alpha-beta-pruning` |
+| `kt:us-chess` | `kt:elo-rating-system` |

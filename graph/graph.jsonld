@@ -284,6 +284,88 @@
           "@id": "kt:cutting-off-the-king"
         }
       ]
+    },
+    {
+      "@id": "kt:elo-rating-system",
+      "@type": "kto:RatingSystem",
+      "skos:prefLabel": "Elo rating system",
+      "skos:definition": "The statistical rating method devised by Arpad Elo and adopted by the US Chess Federation in 1960 and FIDE in 1970, in which each player's rating moves after every rating period by a K-factor times the difference between the actual score and the score the rating difference predicted.",
+      "kto:domain": "events-and-organizations",
+      "dcterms:created": "2026-11-07",
+      "kto:verified": "2026-11-07",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "FIDE Rating Regulations (approved by FIDE Council on 15/12/2023, applied from 1 March 2024)",
+          "dcterms:publisher": "FIDE Handbook",
+          "schema:url": "https://handbook.fide.com/chapter/B022024",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "New FIDE Rating and Title Regulations come into effect",
+          "dcterms:publisher": "FIDE (fide.com news, 2 January 2024)",
+          "schema:url": "https://www.fide.com/new-fide-rating-and-title-regulations-come-into-effect/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Rating the Chess Rating System",
+          "dcterms:publisher": "Mark E. Glickman and Albyn C. Jones (Boston University / Reed College), glicko.net",
+          "schema:url": "https://www.glicko.net/research/chance.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Arpad Emrick Elo",
+          "dcterms:publisher": "World Chess Hall of Fame (U.S. Chess Hall of Fame inductee page)",
+          "schema:url": "https://develop.worldchesshof.org/node/2359",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Arpad Elo and the Elo Rating System",
+          "dcterms:publisher": "Daniel Ross, ChessBase News (16 December 2007)",
+          "schema:url": "https://en.chessbase.com/newsroom/post/arpad-elo-and-the-elo-rating-system?page=0",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/events-and-organizations/elo-rating-system.md",
+      "skos:altLabel": [
+        "Elo rating",
+        "Elo system",
+        "Elo",
+        "FIDE rating",
+        "ELO rating"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess-rating-systems"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:us-chess"
+        },
+        {
+          "@id": "kt:grandmaster-title"
+        },
+        {
+          "@id": "kt:fide"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:arpad-elo"
+        }
+      ],
+      "kto:sanctionedBy": [
+        {
+          "@id": "kt:fide"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:glicko-rating-system"
+        }
+      ]
     }
   ]
 }

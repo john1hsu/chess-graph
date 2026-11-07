@@ -24,6 +24,31 @@
     ]
   },
   {
+    "id": "kt:elo-rating-system",
+    "title": "Elo rating system",
+    "aliases": [
+      "Elo rating",
+      "Elo system",
+      "Elo",
+      "FIDE rating",
+      "ELO rating"
+    ],
+    "type": "RatingSystem",
+    "domain": "events-and-organizations",
+    "file": "articles/events-and-organizations/elo-rating-system.md",
+    "created": "2026-11-07",
+    "verified": "2026-11-07",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://handbook.fide.com/chapter/B022024",
+      "https://www.fide.com/new-fide-rating-and-title-regulations-come-into-effect/",
+      "https://www.glicko.net/research/chance.pdf",
+      "https://develop.worldchesshof.org/node/2359",
+      "https://en.chessbase.com/newsroom/post/arpad-elo-and-the-elo-rating-system?page=0"
+    ]
+  },
+  {
     "id": "kt:lucena-position",
     "title": "Lucena position",
     "aliases": [
