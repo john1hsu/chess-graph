@@ -1,0 +1,18 @@
+# Domains the hourly run draws from. Edit freely: add domains, remove ones you
+# don't want, or add seed topics to steer what gets written next. The run picks
+# the least-covered domain for breadth runs and works the frontier for depth runs.
+# Seeds are suggestions, not a queue: skip any that already exist.
+# Mix of club-player foundations and master-level depth.
+
+domains:
+  openings: [ruy-lopez, italian-game, sicilian-defence, najdorf-variation, french-defence, caro-kann-defence, queens-gambit, slav-defence, kings-indian-defence, nimzo-indian-defence, english-opening, london-system, kings-gambit]
+  middlegame-strategy: [isolated-queens-pawn, carlsbad-structure, outpost, weak-squares, bishop-pair, open-files, prophylaxis, minority-attack, initiative, space-advantage, good-and-bad-bishops]
+  tactics: [fork, pin, skewer, discovered-attack, double-check, deflection, decoy, zwischenzug, back-rank-mate, smothered-mate, greek-gift-sacrifice, combination]
+  endgames: [king-and-pawn-endgames, opposition, triangulation, zugzwang, lucena-position, philidor-position, rook-endgames, opposite-coloured-bishops, fortress, endgame-tablebases]
+  rules-and-notation: [fide-laws-of-chess, castling, en-passant, pawn-promotion, stalemate, threefold-repetition, fifty-move-rule, touch-move, algebraic-notation, portable-game-notation, forsyth-edwards-notation, fischer-increment]
+  history: [origins-of-chess, chaturanga, shatranj, romantic-era, hypermodernism, soviet-chess-school, world-chess-championship, immortal-game, fischer-spassky-1972, deep-blue-versus-kasparov]
+  players: [wilhelm-steinitz, emanuel-lasker, jose-raul-capablanca, mikhail-tal, bobby-fischer, garry-kasparov, magnus-carlsen, vera-menchik, judit-polgar, hou-yifan]
+  events-and-organizations: [fide, us-chess, chess-olympiad, candidates-tournament, womens-world-chess-championship, grandmaster-title, elo-rating-system, fair-play-regulations]
+  computer-chess: [stockfish, leela-chess-zero, alphazero, minimax, alpha-beta-pruning, nnue, monte-carlo-tree-search, universal-chess-interface, bitboards, opening-books]
+  training-and-improvement: [calculation, visualization, chunking-theory, deliberate-practice, puzzle-training, opening-repertoire, annotating-your-games, time-management-in-games, einstellung-effect]
+  variants-and-compositions: [chess960, bughouse, correspondence-chess, chess-problems, endgame-studies, retrograde-analysis, helpmate]

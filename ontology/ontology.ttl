@@ -1,0 +1,137 @@
+@prefix kt:   <https://github.com/john1hsu/chess-graph/id/> .
+@prefix kto:  <https://github.com/john1hsu/chess-graph/ontology#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+
+# ---------------------------------------------------------------------------
+# Chess Knowledge Graph ontology
+# Every article is a node. Its class comes from frontmatter `type`; its edges
+# come from `broader` (skos:broader), `related` (skos:related) and `relations`
+# (the typed predicates below). Provenance uses PROV-O.
+# Add a class or property here BEFORE using it in an article. Reuse first.
+# ---------------------------------------------------------------------------
+
+kto: a owl:Ontology ;
+    rdfs:label "Chess Knowledge Graph ontology" ;
+    owl:versionInfo "1.0.0" .
+
+# ---- Classes ---------------------------------------------------------------
+kto:Entity          a owl:Class ; rdfs:label "Entity" .
+kto:Concept         a owl:Class ; rdfs:subClassOf kto:Entity , skos:Concept ;
+    rdfs:comment "A general chess idea that fits no narrower class: tempo, initiative, compensation." .
+
+# Play
+kto:Opening         a owl:Class ; rdfs:subClassOf kto:Concept ;
+    rdfs:comment "A named opening, defence or gambit: Ruy Lopez, Sicilian Defence, Queen's Gambit. Needs `moves`." .
+kto:Variation       a owl:Class ; rdfs:subClassOf kto:Opening ;
+    rdfs:comment "A named line inside an opening: Najdorf Variation, Marshall Attack. Needs `moves`." .
+kto:PawnStructure   a owl:Class ; rdfs:subClassOf kto:Concept ;
+    rdfs:comment "A recurring pawn formation and its plans: isolated queen's pawn, Carlsbad, Maroczy Bind." .
+kto:StrategicConcept a owl:Class ; rdfs:subClassOf kto:Concept ;
+    rdfs:comment "A positional principle: outpost, prophylaxis, bishop pair, weak squares." .
+kto:TacticalMotif   a owl:Class ; rdfs:subClassOf kto:Concept ;
+    rdfs:comment "A tactical device: fork, pin, skewer, deflection, zwischenzug." .
+kto:MatingPattern   a owl:Class ; rdfs:subClassOf kto:TacticalMotif ;
+    rdfs:comment "A named checkmate pattern: back-rank mate, smothered mate, Anastasia's mate." .
+kto:EndgameType     a owl:Class ; rdfs:subClassOf kto:Concept ;
+    rdfs:comment "A class of endgame or a theoretical position: rook endgames, Lucena position, Philidor position." .
+kto:Technique       a owl:Class ; rdfs:subClassOf kto:Concept ;
+    rdfs:comment "A method of play or analysis: opposition, triangulation, blockade, calculation." .
+kto:School          a owl:Class ; rdfs:subClassOf kto:Concept ;
+    rdfs:comment "A school of thought or era of play: Romantic era, Hypermodernism, Soviet School." .
+
+# Rules and formats
+kto:Rule            a owl:Class ; rdfs:subClassOf kto:Entity ;
+    rdfs:comment "A rule of play or competition: castling, en passant, fifty-move rule, touch-move. Must cite a governing-body source." .
+kto:Piece           a owl:Class ; rdfs:subClassOf kto:Entity ;
+    rdfs:comment "A chess piece and how it moves and is valued." .
+kto:Notation        a owl:Class ; rdfs:subClassOf kto:Entity ;
+    rdfs:comment "A way of recording moves or positions: algebraic notation, PGN, FEN, EPD." .
+kto:TimeControl     a owl:Class ; rdfs:subClassOf kto:Entity ;
+    rdfs:comment "A time control or clock method: classical, rapid, blitz, Fischer increment, Bronstein delay." .
+kto:Variant         a owl:Class ; rdfs:subClassOf kto:Entity , schema:Game ;
+    rdfs:comment "A chess variant or historical predecessor: Chess960, bughouse, chaturanga, shatranj." .
+kto:ProblemGenre    a owl:Class ; rdfs:subClassOf kto:Concept ;
+    rdfs:comment "A genre of composed chess: endgame studies, mate-in-n problems, helpmates, retrograde analysis." .
+
+# People, competition and institutions
+kto:Person          a owl:Class ; rdfs:subClassOf kto:Entity , schema:Person ;
+    rdfs:comment "A public figure in chess who is not chiefly a player: theorist, composer, engine author, arbiter, writer." .
+kto:Player          a owl:Class ; rdfs:subClassOf kto:Person ;
+    rdfs:comment "A notable player. Write only about their public chess career; set volatile: true while they are active." .
+kto:Event           a owl:Class ; rdfs:subClassOf kto:Entity , schema:Event ;
+    rdfs:comment "A tournament, match or recurring competition: World Championship 1972, Chess Olympiad, Candidates." .
+kto:Game            a owl:Class ; rdfs:subClassOf kto:Entity , schema:CreativeWork ;
+    rdfs:comment "A specific famous game: the Immortal Game, Deep Blue vs Kasparov game 6. Should include a validated `pgn` block." .
+kto:Organization    a owl:Class ; rdfs:subClassOf kto:Entity , schema:Organization ;
+    rdfs:comment "A federation, club, platform or institution: FIDE, US Chess, ECF, World Chess Hall of Fame." .
+kto:Title           a owl:Class ; rdfs:subClassOf kto:Entity , schema:EducationalOccupationalCredential ;
+    rdfs:comment "A chess title: Grandmaster, International Master, Woman Grandmaster, International Arbiter. Must cite a governing-body source." .
+kto:RatingSystem    a owl:Class ; rdfs:subClassOf kto:Entity ;
+    rdfs:comment "A rating method: Elo, Glicko-2, FIDE rating regulations. Must cite a governing-body or scholarly source." .
+kto:Publication     a owl:Class ; rdfs:subClassOf kto:Entity , schema:CreativeWork ;
+    rdfs:comment "A landmark book, periodical or database: My System, Informant, Encyclopaedia of Chess Openings." .
+
+# Computer chess
+kto:Engine          a owl:Class ; rdfs:subClassOf kto:Entity , schema:SoftwareApplication ;
+    rdfs:comment "A chess engine or program: Stockfish, Leela Chess Zero, AlphaZero, Deep Blue." .
+kto:Software        a owl:Class ; rdfs:subClassOf kto:Entity , schema:SoftwareApplication ;
+    rdfs:comment "Other chess software or protocol: UCI, tablebases, databases, GUIs." .
+kto:Algorithm       a owl:Class ; rdfs:subClassOf kto:Concept ;
+    rdfs:comment "A computing technique: minimax, alpha-beta pruning, NNUE, Monte Carlo tree search, bitboards." .
+
+# Learning
+kto:TrainingMethod  a owl:Class ; rdfs:subClassOf kto:Concept ;
+    rdfs:comment "A way to improve: deliberate practice, puzzle training, annotated game review." .
+kto:CognitiveConcept a owl:Class ; rdfs:subClassOf kto:Concept ;
+    rdfs:comment "Research on chess thinking and expertise: chunking, pattern recognition, Einstellung effect. Needs a scholarly source." .
+
+kto:Source          a owl:Class ; rdfs:subClassOf prov:Entity , schema:CreativeWork .
+
+# ---- Hierarchy (SKOS) ------------------------------------------------------
+# skos:broader / skos:narrower / skos:related are used directly.
+
+# ---- Typed relations -------------------------------------------------------
+kto:partOf          a owl:ObjectProperty , owl:TransitiveProperty ; owl:inverseOf kto:hasPart ; rdfs:label "part of" .
+kto:hasPart         a owl:ObjectProperty ; rdfs:label "has part" .
+kto:dependsOn       a owl:ObjectProperty ; rdfs:label "depends on / requires" .
+kto:enables         a owl:ObjectProperty ; rdfs:label "enables" .
+kto:leadsTo         a owl:ObjectProperty ; rdfs:label "typically leads to (structure, endgame, plan)" .
+kto:transposesTo    a owl:ObjectProperty , owl:SymmetricProperty ; rdfs:label "can transpose to" .
+kto:counters        a owl:ObjectProperty ; owl:inverseOf kto:counteredBy ; rdfs:label "counters / is a remedy against" .
+kto:counteredBy     a owl:ObjectProperty ; rdfs:label "countered by" .
+kto:alternativeTo   a owl:ObjectProperty , owl:SymmetricProperty ; rdfs:label "alternative to (choose between)" .
+kto:contrastsWith   a owl:ObjectProperty , owl:SymmetricProperty ; rdfs:label "contrasts with (commonly confused)" .
+kto:replacedBy      a owl:ObjectProperty ; owl:inverseOf kto:replaces ; rdfs:label "replaced by / superseded by" .
+kto:replaces        a owl:ObjectProperty ; rdfs:label "replaces" .
+kto:exemplifiedBy   a owl:ObjectProperty ; owl:inverseOf kto:exemplifies ; rdfs:range kto:Game ; rdfs:label "exemplified by game" .
+kto:exemplifies     a owl:ObjectProperty ; rdfs:label "exemplifies" .
+kto:governedBy      a owl:ObjectProperty ; rdfs:range kto:Rule ; rdfs:label "governed by rule" .
+kto:sanctionedBy    a owl:ObjectProperty ; rdfs:range kto:Organization ; rdfs:label "sanctioned / awarded by" .
+kto:championedBy    a owl:ObjectProperty ; rdfs:range kto:Person ; rdfs:label "championed / popularized by" .
+kto:developedBy     a owl:ObjectProperty ; rdfs:label "developed / introduced by" .
+kto:namedAfter      a owl:ObjectProperty ; rdfs:label "named after" .
+kto:influencedBy    a owl:ObjectProperty ; rdfs:label "influenced by" .
+kto:memberOf        a owl:ObjectProperty ; rdfs:label "member / representative of (school, federation)" .
+kto:holdsTitle      a owl:ObjectProperty ; rdfs:range kto:Title ; rdfs:label "holds title" .
+kto:playedBy        a owl:ObjectProperty ; rdfs:range kto:Player ; rdfs:label "played by" .
+kto:playedIn        a owl:ObjectProperty ; rdfs:range kto:Event ; rdfs:label "played in event" .
+kto:wonBy           a owl:ObjectProperty ; rdfs:label "won by" .
+kto:authoredBy      a owl:ObjectProperty ; rdfs:range kto:Person ; rdfs:label "written by" .
+kto:usesTechnique   a owl:ObjectProperty ; rdfs:label "uses technique / algorithm" .
+kto:instanceOf      a owl:ObjectProperty ; rdfs:label "instance of" .
+
+# ---- Datatype properties written by scripts/kg.py --------------------------
+kto:verified        a owl:DatatypeProperty ; rdfs:label "date the content was last verified against its sources" .
+kto:volatile        a owl:DatatypeProperty ; rdfs:label "contains time-sensitive facts (active players, ratings, current rules, engines)" .
+kto:status          a owl:DatatypeProperty ; rdfs:label "status: current, historical, superseded, contested, refuted" .
+kto:eco             a owl:DatatypeProperty ; rdfs:label "Encyclopaedia of Chess Openings code(s)" .
+kto:moves           a owl:DatatypeProperty ; rdfs:label "defining move sequence in SAN, validated" .
+kto:fen             a owl:DatatypeProperty ; rdfs:label "key position in FEN, validated" .
+kto:domain          a owl:DatatypeProperty ; rdfs:label "domain" .
+kto:sourceType      a owl:DatatypeProperty ; rdfs:label "source type" .
