@@ -54,6 +54,34 @@
 <https://github.com/john1hsu/chess-graph/id/lucena-position> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/lucena-position> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> .
 <https://github.com/john1hsu/chess-graph/id/lucena-position> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-07" .
+<https://github.com/john1hsu/chess-graph/id/minimax> <http://purl.org/dc/terms/created> "2026-11-07" .
+<https://github.com/john1hsu/chess-graph/id/minimax> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Algorithm> .
+<https://github.com/john1hsu/chess-graph/id/minimax> <http://www.w3.org/2000/01/rdf-schema#label> "Minimax" .
+<https://github.com/john1hsu/chess-graph/id/minimax> <http://www.w3.org/2004/02/skos/core#altLabel> "Mini-max" .
+<https://github.com/john1hsu/chess-graph/id/minimax> <http://www.w3.org/2004/02/skos/core#altLabel> "Minimax algorithm" .
+<https://github.com/john1hsu/chess-graph/id/minimax> <http://www.w3.org/2004/02/skos/core#altLabel> "Minimax search" .
+<https://github.com/john1hsu/chess-graph/id/minimax> <http://www.w3.org/2004/02/skos/core#altLabel> "Minimaxing" .
+<https://github.com/john1hsu/chess-graph/id/minimax> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/game-tree-search> .
+<https://github.com/john1hsu/chess-graph/id/minimax> <http://www.w3.org/2004/02/skos/core#definition> "The basic decision rule of game-tree search: each side is assumed to choose the move best for itself, so values are backed up from the leaves by taking the maximum at the searching side's turns and the minimum at the opponent's, and the move leading to the best backed-up value is played." .
+<https://github.com/john1hsu/chess-graph/id/minimax> <http://www.w3.org/2004/02/skos/core#prefLabel> "Minimax" .
+<https://github.com/john1hsu/chess-graph/id/minimax> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/claude-shannon> .
+<https://github.com/john1hsu/chess-graph/id/minimax> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/evaluation-function> .
+<https://github.com/john1hsu/chess-graph/id/minimax> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/horizon-effect> .
+<https://github.com/john1hsu/chess-graph/id/minimax> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/negamax> .
+<https://github.com/john1hsu/chess-graph/id/minimax> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/quiescence-search> .
+<https://github.com/john1hsu/chess-graph/id/minimax> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/minimax/s1> .
+<https://github.com/john1hsu/chess-graph/id/minimax> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/minimax/s2> .
+<https://github.com/john1hsu/chess-graph/id/minimax> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/minimax/s3> .
+<https://github.com/john1hsu/chess-graph/id/minimax> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/minimax/s4> .
+<https://github.com/john1hsu/chess-graph/id/minimax> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/minimax/s5> .
+<https://github.com/john1hsu/chess-graph/id/minimax> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> .
+<https://github.com/john1hsu/chess-graph/id/minimax> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/evaluation-function> .
+<https://github.com/john1hsu/chess-graph/id/minimax> <https://github.com/john1hsu/chess-graph/ontology#domain> "computer-chess" .
+<https://github.com/john1hsu/chess-graph/id/minimax> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> .
+<https://github.com/john1hsu/chess-graph/id/minimax> <https://github.com/john1hsu/chess-graph/ontology#fen> "6k1/5ppp/4p3/3r4/8/8/5PPP/3Q2K1 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/minimax> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/john-von-neumann> .
+<https://github.com/john1hsu/chess-graph/id/minimax> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/minimax> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-07" .
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s1> <http://purl.org/dc/terms/publisher> "Computer History Museum (Mastering the Game exhibit)" .
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s1> <http://purl.org/dc/terms/title> "The Minimax Algorithm and Alpha-Beta Pruning" .
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -109,3 +137,28 @@
 <https://github.com/john1hsu/chess-graph/id/source/lucena-position/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/lucena-position/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/lucena-position/s6> <https://schema.org/url> "https://www.charlottechesscenter.org/post/simple-rook-and-pawn-vs-rook-part-1-cases-where-the-pawn-wins" .
+<https://github.com/john1hsu/chess-graph/id/source/minimax/s1> <http://purl.org/dc/terms/publisher> "Claude E. Shannon, reproduced by Fermat's Library" .
+<https://github.com/john1hsu/chess-graph/id/source/minimax/s1> <http://purl.org/dc/terms/title> "Programming a Computer for Playing Chess (Philosophical Magazine, 1950), full text" .
+<https://github.com/john1hsu/chess-graph/id/source/minimax/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/minimax/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/minimax/s1> <https://schema.org/url> "https://fermatslibrary.com/s/programming-a-computer-for-playing-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/minimax/s2> <http://purl.org/dc/terms/publisher> "Computer History Museum (Mastering the Game exhibit)" .
+<https://github.com/john1hsu/chess-graph/id/source/minimax/s2> <http://purl.org/dc/terms/title> "Early Theorists" .
+<https://github.com/john1hsu/chess-graph/id/source/minimax/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/minimax/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/minimax/s2> <https://schema.org/url> "https://www.computerhistory.org/chess/early-theorists/" .
+<https://github.com/john1hsu/chess-graph/id/source/minimax/s3> <http://purl.org/dc/terms/publisher> "University of Illinois Urbana-Champaign (Margaret Fleck)" .
+<https://github.com/john1hsu/chess-graph/id/source/minimax/s3> <http://purl.org/dc/terms/title> "CS 440/ECE 448 Lecture notes: Games 2" .
+<https://github.com/john1hsu/chess-graph/id/source/minimax/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/minimax/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/minimax/s3> <https://schema.org/url> "https://courses.grainger.illinois.edu/cs440/fa2021/lectures/games2.html" .
+<https://github.com/john1hsu/chess-graph/id/source/minimax/s4> <http://purl.org/dc/terms/publisher> "University of California, Irvine (David Eppstein)" .
+<https://github.com/john1hsu/chess-graph/id/source/minimax/s4> <http://purl.org/dc/terms/title> "ICS 180A: Strategy and board game programming, lecture of 17 April 1997" .
+<https://github.com/john1hsu/chess-graph/id/source/minimax/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/minimax/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/minimax/s4> <https://schema.org/url> "https://ics.uci.edu/~eppstein/180a/970417.html" .
+<https://github.com/john1hsu/chess-graph/id/source/minimax/s5> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/minimax/s5> <http://purl.org/dc/terms/title> "Mini-max theorem" .
+<https://github.com/john1hsu/chess-graph/id/source/minimax/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/minimax/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/minimax/s5> <https://schema.org/url> "https://www.britannica.com/topic/mini-max-theorem" .

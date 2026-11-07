@@ -49,5 +49,29 @@
       "https://www.chess.com/article/view/the-two-rook-endings-you-must-know",
       "https://www.charlottechesscenter.org/post/simple-rook-and-pawn-vs-rook-part-1-cases-where-the-pawn-wins"
     ]
+  },
+  {
+    "id": "kt:minimax",
+    "title": "Minimax",
+    "aliases": [
+      "Minimax search",
+      "Minimax algorithm",
+      "Minimaxing",
+      "Mini-max"
+    ],
+    "type": "Algorithm",
+    "domain": "computer-chess",
+    "file": "articles/computer-chess/minimax.md",
+    "created": "2026-11-07",
+    "verified": "2026-11-07",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://fermatslibrary.com/s/programming-a-computer-for-playing-chess",
+      "https://www.computerhistory.org/chess/early-theorists/",
+      "https://courses.grainger.illinois.edu/cs440/fa2021/lectures/games2.html",
+      "https://ics.uci.edu/~eppstein/180a/970417.html",
+      "https://www.britannica.com/topic/mini-max-theorem"
+    ]
   }
 ]

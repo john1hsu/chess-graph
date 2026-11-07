@@ -4,17 +4,22 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:minimax` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
+| `kt:evaluation-function` | `kt:minimax`, `kt:minimax` |
+| `kt:game-tree-search` | `kt:alpha-beta-pruning`, `kt:minimax` |
+| `kt:monte-carlo-tree-search` | `kt:alpha-beta-pruning`, `kt:minimax` |
 | `kt:philidor-position` | `kt:lucena-position`, `kt:lucena-position` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
+| `kt:claude-shannon` | `kt:minimax` |
 | `kt:cutting-off-the-king` | `kt:lucena-position` |
-| `kt:game-tree-search` | `kt:alpha-beta-pruning` |
+| `kt:horizon-effect` | `kt:minimax` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning` |
 | `kt:john-mccarthy` | `kt:alpha-beta-pruning` |
+| `kt:john-von-neumann` | `kt:minimax` |
 | `kt:king-and-pawn-endgames` | `kt:lucena-position` |
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position` |
-| `kt:monte-carlo-tree-search` | `kt:alpha-beta-pruning` |
 | `kt:move-ordering` | `kt:alpha-beta-pruning` |
+| `kt:negamax` | `kt:minimax` |
 | `kt:pawn-promotion` | `kt:lucena-position` |
+| `kt:quiescence-search` | `kt:minimax` |
 | `kt:rook-endgames` | `kt:lucena-position` |
 | `kt:transposition-table` | `kt:alpha-beta-pruning` |
