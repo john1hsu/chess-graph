@@ -1,9 +1,9 @@
 # Graph statistics
 
-- Articles (nodes written): **5**
-- Frontier nodes (referenced, unwritten): **26**
-- Edges: **41**
-- Citations: **28**
+- Articles (nodes written): **6**
+- Frontier nodes (referenced, unwritten): **30**
+- Edges: **49**
+- Citations: **34**
 
 - Weakly connected components: **3**
 - Isolated articles (no edges): **0**
@@ -12,33 +12,35 @@
 
 | Node | PageRank | Written |
 |---|---|---|
-| `kt:game-tree-search` | 0.0388 | no |
-| `kt:minimax` | 0.0355 | yes |
-| `kt:alpha-beta-pruning` | 0.0351 | yes |
-| `kt:quiescence-search` | 0.0351 | no |
-| `kt:claude-shannon` | 0.0351 | no |
-| `kt:monte-carlo-tree-search` | 0.0350 | no |
-| `kt:rook-endgames` | 0.0319 | no |
-| `kt:philidor-position` | 0.0319 | no |
-| `kt:pawn-promotion` | 0.0319 | no |
-| `kt:king-and-pawn-endgames` | 0.0319 | no |
-| `kt:luis-ramirez-de-lucena` | 0.0319 | no |
-| `kt:cutting-off-the-king` | 0.0319 | no |
-| `kt:chess-rating-systems` | 0.0319 | no |
-| `kt:us-chess` | 0.0319 | no |
-| `kt:grandmaster-title` | 0.0319 | no |
+| `kt:game-tree-search` | 0.0339 | no |
+| `kt:alpha-beta-pruning` | 0.0333 | yes |
+| `kt:quiescence-search` | 0.0333 | no |
+| `kt:minimax` | 0.0310 | yes |
+| `kt:claude-shannon` | 0.0304 | no |
+| `kt:monte-carlo-tree-search` | 0.0303 | no |
+| `kt:evaluation-function` | 0.0297 | yes |
+| `kt:nnue` | 0.0275 | no |
+| `kt:alphazero` | 0.0275 | no |
+| `kt:move-ordering` | 0.0274 | no |
+| `kt:iterative-deepening` | 0.0274 | no |
+| `kt:transposition-table` | 0.0274 | no |
+| `kt:principal-variation-search` | 0.0274 | no |
+| `kt:john-mccarthy` | 0.0274 | no |
+| `kt:rook-endgames` | 0.0272 | no |
 
-## Communities (Louvain): 4
+## Communities (Louvain): 5
 
-1. `kt:alphazero`, `kt:claude-shannon`, `kt:evaluation-function`, `kt:game-tree-search`, `kt:horizon-effect`, `kt:john-von-neumann`, `kt:minimax`, `kt:monte-carlo-tree-search`, `kt:negamax`, `kt:nnue`, `kt:quiescence-search`
+1. `kt:alphazero`, `kt:claude-shannon`, `kt:evaluation-function`, `kt:game-tree-search`, `kt:horizon-effect`, `kt:john-von-neumann`, `kt:minimax`, `kt:monte-carlo-tree-search`, `kt:negamax`, `kt:nnue`
 2. `kt:cutting-off-the-king`, `kt:king-and-pawn-endgames`, `kt:lucena-position`, `kt:luis-ramirez-de-lucena`, `kt:pawn-promotion`, `kt:philidor-position`, `kt:rook-endgames`
 3. `kt:arpad-elo`, `kt:chess-rating-systems`, `kt:elo-rating-system`, `kt:fide`, `kt:glicko-rating-system`, `kt:grandmaster-title`, `kt:us-chess`
 4. `kt:alpha-beta-pruning`, `kt:iterative-deepening`, `kt:john-mccarthy`, `kt:move-ordering`, `kt:principal-variation-search`, `kt:transposition-table`
+5. `kt:caro-kann-defence`, `kt:deep-blue`, `kt:deep-blue-versus-kasparov`, `kt:garry-kasparov`, `kt:history-of-computer-chess`, `kt:quiescence-search`
 
 ## By type
 
 - Algorithm: 3
 - EndgameType: 1
+- Event: 1
 - RatingSystem: 1
 
 ## By domain
@@ -46,6 +48,7 @@
 - computer-chess: 3
 - endgames: 1
 - events-and-organizations: 1
+- history: 1
 
 ## Freshness
 
@@ -55,3 +58,4 @@
 ## By status
 
 - current: 5
+- historical: 1

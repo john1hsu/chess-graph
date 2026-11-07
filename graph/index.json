@@ -24,6 +24,33 @@
     ]
   },
   {
+    "id": "kt:deep-blue-versus-kasparov",
+    "title": "Deep Blue versus Kasparov",
+    "aliases": [
+      "Kasparov versus Deep Blue",
+      "Deep Blue vs Kasparov",
+      "Kasparov vs Deep Blue",
+      "Deep Blue–Kasparov matches",
+      "Kasparov–Deep Blue rematch",
+      "Deep Blue versus Garry Kasparov"
+    ],
+    "type": "Event",
+    "domain": "history",
+    "file": "articles/history/deep-blue-versus-kasparov.md",
+    "created": "2026-11-07",
+    "verified": "2026-11-07",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://www.cefns.nau.edu/~edo/Classes/CS470-570_WWW/Readings/Campbell2002.pdf",
+      "https://www.computerhistory.org/chess/stl-430b9bbc9c350/",
+      "https://www.computerhistory.org/chess/stl-430b9bbc88ad6/",
+      "https://www.britannica.com/EBchecked/topic/155485/Deep-Blue",
+      "https://archive.spectator.co.uk/article/17th-may-1997/60/simpsons",
+      "https://lehmanns.de/shop/geisteswissenschaften/4604324-9780691090658-behind-deep-blue"
+    ]
+  },
+  {
     "id": "kt:elo-rating-system",
     "title": "Elo rating system",
     "aliases": [

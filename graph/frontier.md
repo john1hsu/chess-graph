@@ -5,18 +5,22 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:game-tree-search` | `kt:alpha-beta-pruning`, `kt:evaluation-function`, `kt:minimax` |
+| `kt:quiescence-search` | `kt:evaluation-function`, `kt:minimax`, `kt:deep-blue-versus-kasparov` |
 | `kt:claude-shannon` | `kt:evaluation-function`, `kt:minimax` |
 | `kt:fide` | `kt:elo-rating-system`, `kt:elo-rating-system` |
 | `kt:monte-carlo-tree-search` | `kt:alpha-beta-pruning`, `kt:minimax` |
 | `kt:philidor-position` | `kt:lucena-position`, `kt:lucena-position` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
-| `kt:quiescence-search` | `kt:evaluation-function`, `kt:minimax` |
 | `kt:alphazero` | `kt:evaluation-function` |
 | `kt:arpad-elo` | `kt:elo-rating-system` |
+| `kt:caro-kann-defence` | `kt:deep-blue-versus-kasparov` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
 | `kt:cutting-off-the-king` | `kt:lucena-position` |
+| `kt:deep-blue` | `kt:deep-blue-versus-kasparov` |
+| `kt:garry-kasparov` | `kt:deep-blue-versus-kasparov` |
 | `kt:glicko-rating-system` | `kt:elo-rating-system` |
 | `kt:grandmaster-title` | `kt:elo-rating-system` |
+| `kt:history-of-computer-chess` | `kt:deep-blue-versus-kasparov` |
 | `kt:horizon-effect` | `kt:minimax` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning` |
 | `kt:john-mccarthy` | `kt:alpha-beta-pruning` |

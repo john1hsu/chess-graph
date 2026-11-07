@@ -460,6 +460,99 @@
           "@id": "kt:glicko-rating-system"
         }
       ]
+    },
+    {
+      "@id": "kt:deep-blue-versus-kasparov",
+      "@type": "kto:Event",
+      "skos:prefLabel": "Deep Blue versus Kasparov",
+      "skos:definition": "The two six-game matches between world champion Garry Kasparov and IBM's chess computer Deep Blue: Kasparov won in Philadelphia in February 1996 by 4–2, and Deep Blue won the New York rematch in May 1997 by 3½–2½, the first match defeat of a reigning world champion by a computer under tournament conditions.",
+      "kto:domain": "history",
+      "dcterms:created": "2026-11-07",
+      "kto:verified": "2026-11-07",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Deep Blue (Artificial Intelligence 134, 2002)",
+          "dcterms:publisher": "M. Campbell, A. J. Hoane Jr., F. Hsu (copy hosted by Northern Arizona University)",
+          "schema:url": "https://www.cefns.nau.edu/~edo/Classes/CS470-570_WWW/Readings/Campbell2002.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Garry Kasparov discusses game highlights after he wins the 1996 match against Deep Blue in Philadelphia, Pennsylvania",
+          "dcterms:publisher": "Computer History Museum (Mastering the Game exhibit, gift of Monroe Newborn)",
+          "schema:url": "https://www.computerhistory.org/chess/stl-430b9bbc9c350/",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Garry Kasparov, C.J. Tan, and Monroe Newborn at the 1997 Deep Blue vs Kasparov re-match press conference",
+          "dcterms:publisher": "Computer History Museum (Mastering the Game exhibit, gift of Monroe Newborn)",
+          "schema:url": "https://www.computerhistory.org/chess/stl-430b9bbc88ad6/",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Deep Blue",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/EBchecked/topic/155485/Deep-Blue",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Simpson's In-the-Strand (chess column), The Spectator, 17 May 1997, p. 60",
+          "dcterms:publisher": "Raymond Keene, The Spectator Archive",
+          "schema:url": "https://archive.spectator.co.uk/article/17th-may-1997/60/simpsons",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Behind Deep Blue: Building the Computer that Defeated the World Chess Champion (Princeton University Press, 2002)",
+          "dcterms:publisher": "Feng-Hsiung Hsu; publisher's details via Lehmanns bookshop",
+          "schema:url": "https://lehmanns.de/shop/geisteswissenschaften/4604324-9780691090658-behind-deep-blue",
+          "kto:sourceType": "book"
+        }
+      ],
+      "kto:file": "articles/history/deep-blue-versus-kasparov.md",
+      "skos:altLabel": [
+        "Kasparov versus Deep Blue",
+        "Deep Blue vs Kasparov",
+        "Kasparov vs Deep Blue",
+        "Deep Blue–Kasparov matches",
+        "Kasparov–Deep Blue rematch",
+        "Deep Blue versus Garry Kasparov"
+      ],
+      "kto:fen": "r1k4r/p2nb1p1/2b4p/1p1n1p2/2PP4/3Q1NB1/1P3PPP/R5K1 b - - 0 19",
+      "skos:broader": [
+        {
+          "@id": "kt:history-of-computer-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:evaluation-function"
+        },
+        {
+          "@id": "kt:alpha-beta-pruning"
+        },
+        {
+          "@id": "kt:caro-kann-defence"
+        }
+      ],
+      "kto:playedBy": [
+        {
+          "@id": "kt:garry-kasparov"
+        }
+      ],
+      "kto:wonBy": [
+        {
+          "@id": "kt:deep-blue"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:alpha-beta-pruning"
+        },
+        {
+          "@id": "kt:quiescence-search"
+        }
+      ]
     }
   ]
 }

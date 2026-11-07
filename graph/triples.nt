@@ -26,6 +26,35 @@
 <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <https://github.com/john1hsu/chess-graph/ontology#fen> "r1bqkb1r/pppp1ppp/2n2n2/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 4 4" .
 <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-07" .
+<https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <http://purl.org/dc/terms/created> "2026-11-07" .
+<https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Event> .
+<https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <http://www.w3.org/2000/01/rdf-schema#label> "Deep Blue versus Kasparov" .
+<https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <http://www.w3.org/2004/02/skos/core#altLabel> "Deep Blue versus Garry Kasparov" .
+<https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <http://www.w3.org/2004/02/skos/core#altLabel> "Deep Blue vs Kasparov" .
+<https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <http://www.w3.org/2004/02/skos/core#altLabel> "Deep Blue–Kasparov matches" .
+<https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <http://www.w3.org/2004/02/skos/core#altLabel> "Kasparov versus Deep Blue" .
+<https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <http://www.w3.org/2004/02/skos/core#altLabel> "Kasparov vs Deep Blue" .
+<https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <http://www.w3.org/2004/02/skos/core#altLabel> "Kasparov–Deep Blue rematch" .
+<https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/history-of-computer-chess> .
+<https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <http://www.w3.org/2004/02/skos/core#definition> "The two six-game matches between world champion Garry Kasparov and IBM's chess computer Deep Blue: Kasparov won in Philadelphia in February 1996 by 4–2, and Deep Blue won the New York rematch in May 1997 by 3½–2½, the first match defeat of a reigning world champion by a computer under tournament conditions." .
+<https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <http://www.w3.org/2004/02/skos/core#prefLabel> "Deep Blue versus Kasparov" .
+<https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> .
+<https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/caro-kann-defence> .
+<https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/evaluation-function> .
+<https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s1> .
+<https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s2> .
+<https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s3> .
+<https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s4> .
+<https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s5> .
+<https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s6> .
+<https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <https://github.com/john1hsu/chess-graph/ontology#domain> "history" .
+<https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <https://github.com/john1hsu/chess-graph/ontology#fen> "r1k4r/p2nb1p1/2b4p/1p1n1p2/2PP4/3Q1NB1/1P3PPP/R5K1 b - - 0 19" .
+<https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <https://github.com/john1hsu/chess-graph/ontology#playedBy> <https://github.com/john1hsu/chess-graph/id/garry-kasparov> .
+<https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> .
+<https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/quiescence-search> .
+<https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-07" .
+<https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/deep-blue> .
 <https://github.com/john1hsu/chess-graph/id/elo-rating-system> <http://purl.org/dc/terms/created> "2026-11-07" .
 <https://github.com/john1hsu/chess-graph/id/elo-rating-system> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#RatingSystem> .
 <https://github.com/john1hsu/chess-graph/id/elo-rating-system> <http://www.w3.org/2000/01/rdf-schema#label> "Elo rating system" .
@@ -161,6 +190,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s5> <https://schema.org/url> "https://www.isa-afp.org/browser_info/current/AFP/Alpha_Beta_Pruning/document.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s1> <http://purl.org/dc/terms/publisher> "M. Campbell, A. J. Hoane Jr., F. Hsu (copy hosted by Northern Arizona University)" .
+<https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s1> <http://purl.org/dc/terms/title> "Deep Blue (Artificial Intelligence 134, 2002)" .
+<https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s1> <https://schema.org/url> "https://www.cefns.nau.edu/~edo/Classes/CS470-570_WWW/Readings/Campbell2002.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s2> <http://purl.org/dc/terms/publisher> "Computer History Museum (Mastering the Game exhibit, gift of Monroe Newborn)" .
+<https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s2> <http://purl.org/dc/terms/title> "Garry Kasparov discusses game highlights after he wins the 1996 match against Deep Blue in Philadelphia, Pennsylvania" .
+<https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s2> <https://schema.org/url> "https://www.computerhistory.org/chess/stl-430b9bbc9c350/" .
+<https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s3> <http://purl.org/dc/terms/publisher> "Computer History Museum (Mastering the Game exhibit, gift of Monroe Newborn)" .
+<https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s3> <http://purl.org/dc/terms/title> "Garry Kasparov, C.J. Tan, and Monroe Newborn at the 1997 Deep Blue vs Kasparov re-match press conference" .
+<https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s3> <https://schema.org/url> "https://www.computerhistory.org/chess/stl-430b9bbc88ad6/" .
+<https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s4> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s4> <http://purl.org/dc/terms/title> "Deep Blue" .
+<https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s4> <https://schema.org/url> "https://www.britannica.com/EBchecked/topic/155485/Deep-Blue" .
+<https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s5> <http://purl.org/dc/terms/publisher> "Raymond Keene, The Spectator Archive" .
+<https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s5> <http://purl.org/dc/terms/title> "Simpson's In-the-Strand (chess column), The Spectator, 17 May 1997, p. 60" .
+<https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s5> <https://schema.org/url> "https://archive.spectator.co.uk/article/17th-may-1997/60/simpsons" .
+<https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s6> <http://purl.org/dc/terms/publisher> "Feng-Hsiung Hsu; publisher's details via Lehmanns bookshop" .
+<https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s6> <http://purl.org/dc/terms/title> "Behind Deep Blue: Building the Computer that Defeated the World Chess Champion (Princeton University Press, 2002)" .
+<https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s6> <https://schema.org/url> "https://lehmanns.de/shop/geisteswissenschaften/4604324-9780691090658-behind-deep-blue" .
 <https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s1> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
 <https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s1> <http://purl.org/dc/terms/title> "FIDE Rating Regulations (approved by FIDE Council on 15/12/2023, applied from 1 March 2024)" .
 <https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
