@@ -26,6 +26,34 @@
 <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <https://github.com/john1hsu/chess-graph/ontology#fen> "r1bqkb1r/pppp1ppp/2n2n2/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 4 4" .
 <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-07" .
+<https://github.com/john1hsu/chess-graph/id/lucena-position> <http://purl.org/dc/terms/created> "2026-11-07" .
+<https://github.com/john1hsu/chess-graph/id/lucena-position> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#EndgameType> .
+<https://github.com/john1hsu/chess-graph/id/lucena-position> <http://www.w3.org/2000/01/rdf-schema#label> "Lucena position" .
+<https://github.com/john1hsu/chess-graph/id/lucena-position> <http://www.w3.org/2004/02/skos/core#altLabel> "Bridge-building" .
+<https://github.com/john1hsu/chess-graph/id/lucena-position> <http://www.w3.org/2004/02/skos/core#altLabel> "Building a bridge" .
+<https://github.com/john1hsu/chess-graph/id/lucena-position> <http://www.w3.org/2004/02/skos/core#altLabel> "Der Brückenbau" .
+<https://github.com/john1hsu/chess-graph/id/lucena-position> <http://www.w3.org/2004/02/skos/core#altLabel> "Lucena" .
+<https://github.com/john1hsu/chess-graph/id/lucena-position> <http://www.w3.org/2004/02/skos/core#altLabel> "Lucena's position" .
+<https://github.com/john1hsu/chess-graph/id/lucena-position> <http://www.w3.org/2004/02/skos/core#altLabel> "Salvio position" .
+<https://github.com/john1hsu/chess-graph/id/lucena-position> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/rook-endgames> .
+<https://github.com/john1hsu/chess-graph/id/lucena-position> <http://www.w3.org/2004/02/skos/core#definition> "The basic winning position in rook and pawn against rook: the stronger side's non-rook pawn stands on the seventh rank with its own king on the queening square and the defending king cut off, and the win is forced by \"building a bridge\" with the rook to shelter the king from checks." .
+<https://github.com/john1hsu/chess-graph/id/lucena-position> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lucena position" .
+<https://github.com/john1hsu/chess-graph/id/lucena-position> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/king-and-pawn-endgames> .
+<https://github.com/john1hsu/chess-graph/id/lucena-position> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/pawn-promotion> .
+<https://github.com/john1hsu/chess-graph/id/lucena-position> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/philidor-position> .
+<https://github.com/john1hsu/chess-graph/id/lucena-position> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/lucena-position/s1> .
+<https://github.com/john1hsu/chess-graph/id/lucena-position> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/lucena-position/s2> .
+<https://github.com/john1hsu/chess-graph/id/lucena-position> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/lucena-position/s3> .
+<https://github.com/john1hsu/chess-graph/id/lucena-position> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/lucena-position/s4> .
+<https://github.com/john1hsu/chess-graph/id/lucena-position> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/lucena-position/s5> .
+<https://github.com/john1hsu/chess-graph/id/lucena-position> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/lucena-position/s6> .
+<https://github.com/john1hsu/chess-graph/id/lucena-position> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/philidor-position> .
+<https://github.com/john1hsu/chess-graph/id/lucena-position> <https://github.com/john1hsu/chess-graph/ontology#domain> "endgames" .
+<https://github.com/john1hsu/chess-graph/id/lucena-position> <https://github.com/john1hsu/chess-graph/ontology#fen> "6K1/3k2P1/8/8/8/8/7r/4R3 w - - 0 4" .
+<https://github.com/john1hsu/chess-graph/id/lucena-position> <https://github.com/john1hsu/chess-graph/ontology#namedAfter> <https://github.com/john1hsu/chess-graph/id/luis-ramirez-de-lucena> .
+<https://github.com/john1hsu/chess-graph/id/lucena-position> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/lucena-position> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> .
+<https://github.com/john1hsu/chess-graph/id/lucena-position> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-07" .
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s1> <http://purl.org/dc/terms/publisher> "Computer History Museum (Mastering the Game exhibit)" .
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s1> <http://purl.org/dc/terms/title> "The Minimax Algorithm and Alpha-Beta Pruning" .
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -51,3 +79,33 @@
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s5> <https://schema.org/url> "https://www.isa-afp.org/browser_info/current/AFP/Alpha_Beta_Pruning/document.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/lucena-position/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/lucena-position/s1> <http://purl.org/dc/terms/title> "The Lucena Position" .
+<https://github.com/john1hsu/chess-graph/id/source/lucena-position/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/lucena-position/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/lucena-position/s1> <https://schema.org/url> "https://chesshistory.com/winter/extra/lucena.html" .
+<https://github.com/john1hsu/chess-graph/id/source/lucena-position/s2> <http://purl.org/dc/terms/publisher> "Sam Shankland, Quality Chess (excerpt hosted by New In Chess)" .
+<https://github.com/john1hsu/chess-graph/id/source/lucena-position/s2> <http://purl.org/dc/terms/title> "Theoretical Rook Endgames (sample pages)" .
+<https://github.com/john1hsu/chess-graph/id/source/lucena-position/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/lucena-position/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/lucena-position/s2> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/8903.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/lucena-position/s3> <http://purl.org/dc/terms/publisher> "Jesús de la Villa, New In Chess (excerpt hosted by Chess Tigers)" .
+<https://github.com/john1hsu/chess-graph/id/source/lucena-position/s3> <http://purl.org/dc/terms/title> "100 Endgames You Must Know, sixth edition (sample pages)" .
+<https://github.com/john1hsu/chess-graph/id/source/lucena-position/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/lucena-position/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/lucena-position/s3> <https://schema.org/url> "https://shop.chess-tigers.de/cdn/shop/files/100endgames.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/lucena-position/s4> <http://purl.org/dc/terms/publisher> "Chess.com (Chess Terms)" .
+<https://github.com/john1hsu/chess-graph/id/source/lucena-position/s4> <http://purl.org/dc/terms/title> "Lucena Position" .
+<https://github.com/john1hsu/chess-graph/id/source/lucena-position/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/lucena-position/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/lucena-position/s4> <https://schema.org/url> "https://www.chess.com/terms/lucena-position-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/lucena-position/s5> <http://purl.org/dc/terms/publisher> "GM Daniel Naroditsky, Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/lucena-position/s5> <http://purl.org/dc/terms/title> "The Two Rook Endings You Must Know" .
+<https://github.com/john1hsu/chess-graph/id/source/lucena-position/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/lucena-position/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/lucena-position/s5> <https://schema.org/url> "https://www.chess.com/article/view/the-two-rook-endings-you-must-know" .
+<https://github.com/john1hsu/chess-graph/id/source/lucena-position/s6> <http://purl.org/dc/terms/publisher> "Charlotte Chess Center" .
+<https://github.com/john1hsu/chess-graph/id/source/lucena-position/s6> <http://purl.org/dc/terms/title> "\"Simple\" Rook and Pawn vs Rook - Part 1: Cases Where the Pawn Wins" .
+<https://github.com/john1hsu/chess-graph/id/source/lucena-position/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/lucena-position/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/lucena-position/s6> <https://schema.org/url> "https://www.charlottechesscenter.org/post/simple-rook-and-pawn-vs-rook-part-1-cases-where-the-pawn-wins" .

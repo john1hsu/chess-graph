@@ -22,5 +22,32 @@
       "https://www.ChessProgramming.org/Alpha-Beta",
       "https://www.isa-afp.org/browser_info/current/AFP/Alpha_Beta_Pruning/document.pdf"
     ]
+  },
+  {
+    "id": "kt:lucena-position",
+    "title": "Lucena position",
+    "aliases": [
+      "Lucena's position",
+      "Lucena",
+      "Building a bridge",
+      "Bridge-building",
+      "Der Brückenbau",
+      "Salvio position"
+    ],
+    "type": "EndgameType",
+    "domain": "endgames",
+    "file": "articles/endgames/lucena-position.md",
+    "created": "2026-11-07",
+    "verified": "2026-11-07",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://chesshistory.com/winter/extra/lucena.html",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/8903.pdf",
+      "https://shop.chess-tigers.de/cdn/shop/files/100endgames.pdf",
+      "https://www.chess.com/terms/lucena-position-chess",
+      "https://www.chess.com/article/view/the-two-rook-endings-you-must-know",
+      "https://www.charlottechesscenter.org/post/simple-rook-and-pawn-vs-rook-part-1-cases-where-the-pawn-wins"
+    ]
   }
 ]

@@ -101,6 +101,96 @@
           "@id": "kt:monte-carlo-tree-search"
         }
       ]
+    },
+    {
+      "@id": "kt:lucena-position",
+      "@type": "kto:EndgameType",
+      "skos:prefLabel": "Lucena position",
+      "skos:definition": "The basic winning position in rook and pawn against rook: the stronger side's non-rook pawn stands on the seventh rank with its own king on the queening square and the defending king cut off, and the win is forced by \"building a bridge\" with the rook to shelter the king from checks.",
+      "kto:domain": "endgames",
+      "dcterms:created": "2026-11-07",
+      "kto:verified": "2026-11-07",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Lucena Position",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://chesshistory.com/winter/extra/lucena.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Theoretical Rook Endgames (sample pages)",
+          "dcterms:publisher": "Sam Shankland, Quality Chess (excerpt hosted by New In Chess)",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/8903.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "100 Endgames You Must Know, sixth edition (sample pages)",
+          "dcterms:publisher": "Jesús de la Villa, New In Chess (excerpt hosted by Chess Tigers)",
+          "schema:url": "https://shop.chess-tigers.de/cdn/shop/files/100endgames.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Lucena Position",
+          "dcterms:publisher": "Chess.com (Chess Terms)",
+          "schema:url": "https://www.chess.com/terms/lucena-position-chess",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The Two Rook Endings You Must Know",
+          "dcterms:publisher": "GM Daniel Naroditsky, Chess.com",
+          "schema:url": "https://www.chess.com/article/view/the-two-rook-endings-you-must-know",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "\"Simple\" Rook and Pawn vs Rook - Part 1: Cases Where the Pawn Wins",
+          "dcterms:publisher": "Charlotte Chess Center",
+          "schema:url": "https://www.charlottechesscenter.org/post/simple-rook-and-pawn-vs-rook-part-1-cases-where-the-pawn-wins",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/endgames/lucena-position.md",
+      "skos:altLabel": [
+        "Lucena's position",
+        "Lucena",
+        "Building a bridge",
+        "Bridge-building",
+        "Der Brückenbau",
+        "Salvio position"
+      ],
+      "kto:fen": "6K1/3k2P1/8/8/8/8/7r/4R3 w - - 0 4",
+      "skos:broader": [
+        {
+          "@id": "kt:rook-endgames"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:philidor-position"
+        },
+        {
+          "@id": "kt:pawn-promotion"
+        },
+        {
+          "@id": "kt:king-and-pawn-endgames"
+        }
+      ],
+      "kto:namedAfter": [
+        {
+          "@id": "kt:luis-ramirez-de-lucena"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:philidor-position"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:cutting-off-the-king"
+        }
+      ]
     }
   ]
 }

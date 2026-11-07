@@ -5,10 +5,16 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:minimax` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
+| `kt:philidor-position` | `kt:lucena-position`, `kt:lucena-position` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
+| `kt:cutting-off-the-king` | `kt:lucena-position` |
 | `kt:game-tree-search` | `kt:alpha-beta-pruning` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning` |
 | `kt:john-mccarthy` | `kt:alpha-beta-pruning` |
+| `kt:king-and-pawn-endgames` | `kt:lucena-position` |
+| `kt:luis-ramirez-de-lucena` | `kt:lucena-position` |
 | `kt:monte-carlo-tree-search` | `kt:alpha-beta-pruning` |
 | `kt:move-ordering` | `kt:alpha-beta-pruning` |
+| `kt:pawn-promotion` | `kt:lucena-position` |
+| `kt:rook-endgames` | `kt:lucena-position` |
 | `kt:transposition-table` | `kt:alpha-beta-pruning` |
