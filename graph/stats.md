@@ -1,9 +1,9 @@
 # Graph statistics
 
-- Articles (nodes written): **24**
+- Articles (nodes written): **25**
 - Frontier nodes (referenced, unwritten): **98**
-- Edges: **213**
-- Citations: **133**
+- Edges: **222**
+- Citations: **138**
 
 - Weakly connected components: **2**
 - Isolated articles (no edges): **0**
@@ -12,21 +12,21 @@
 
 | Node | PageRank | Written |
 |---|---|---|
-| `kt:game-tree-search` | 0.0197 | yes |
-| `kt:evaluation-function` | 0.0178 | yes |
-| `kt:minimax` | 0.0168 | yes |
-| `kt:alpha-beta-pruning` | 0.0167 | yes |
-| `kt:quiescence-search` | 0.0144 | yes |
-| `kt:claude-shannon` | 0.0143 | yes |
-| `kt:horizon-effect` | 0.0127 | yes |
-| `kt:monte-carlo-tree-search` | 0.0121 | yes |
-| `kt:fide-laws-of-chess` | 0.0111 | yes |
-| `kt:move-ordering` | 0.0099 | no |
-| `kt:iterative-deepening` | 0.0098 | no |
-| `kt:transposition-table` | 0.0098 | no |
+| `kt:game-tree-search` | 0.0193 | yes |
+| `kt:evaluation-function` | 0.0175 | yes |
+| `kt:minimax` | 0.0165 | yes |
+| `kt:alpha-beta-pruning` | 0.0164 | yes |
+| `kt:quiescence-search` | 0.0142 | yes |
+| `kt:claude-shannon` | 0.0140 | yes |
+| `kt:horizon-effect` | 0.0125 | yes |
+| `kt:fide-laws-of-chess` | 0.0123 | yes |
+| `kt:monte-carlo-tree-search` | 0.0119 | yes |
+| `kt:pawn-promotion` | 0.0106 | yes |
 | `kt:fide` | 0.0098 | yes |
-| `kt:pawn-promotion` | 0.0097 | yes |
-| `kt:computer-chess` | 0.0096 | yes |
+| `kt:move-ordering` | 0.0098 | no |
+| `kt:iterative-deepening` | 0.0097 | no |
+| `kt:transposition-table` | 0.0097 | no |
+| `kt:computer-chess` | 0.0094 | yes |
 
 ## Communities (Louvain): 8
 
@@ -52,7 +52,7 @@
 - Person: 1
 - Player: 1
 - RatingSystem: 1
-- Rule: 3
+- Rule: 4
 - TacticalMotif: 1
 - Variant: 1
 
@@ -65,17 +65,17 @@
 - middlegame-strategy: 1
 - openings: 1
 - players: 1
-- rules-and-notation: 3
+- rules-and-notation: 4
 - tactics: 1
 - training-and-improvement: 1
 - variants-and-compositions: 1
 
 ## Freshness
 
-- Volatile articles (time-sensitive facts): 8
+- Volatile articles (time-sensitive facts): 9
 - Due for re-verification (older than 180 days): 0
 
 ## By status
 
-- current: 21
+- current: 22
 - historical: 3

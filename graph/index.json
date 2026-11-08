@@ -51,6 +51,35 @@
     ]
   },
   {
+    "id": "kt:castling",
+    "title": "Castling",
+    "aliases": [
+      "Castle",
+      "Castling kingside",
+      "Castling queenside",
+      "O-O",
+      "O-O-O",
+      "Short castling",
+      "Long castling",
+      "Roque",
+      "Rochade"
+    ],
+    "type": "Rule",
+    "domain": "rules-and-notation",
+    "file": "articles/rules-and-notation/castling.md",
+    "created": "2026-11-08",
+    "verified": "2026-11-08",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://arbiters.fide.com/wp-content/uploads/Publications/Manual/Arbiters_Manual_2024.pdf",
+      "https://www.britannica.com/topic/castling",
+      "https://chesshistory.com/winter/extra/castling.html",
+      "https://new.uschess.org/news/evolution-modern-chess-rules-castling",
+      "https://www.chess.com/article/view/dont-get-brainwashed-part-four"
+    ]
+  },
+  {
     "id": "kt:chess960",
     "title": "Chess960",
     "aliases": [

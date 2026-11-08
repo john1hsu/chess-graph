@@ -56,6 +56,38 @@
 <https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <https://github.com/john1hsu/chess-graph/ontology#namedAfter> <https://github.com/john1hsu/chess-graph/id/marcus-kann> .
 <https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/castling> <http://purl.org/dc/terms/created> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/castling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Rule> .
+<https://github.com/john1hsu/chess-graph/id/castling> <http://www.w3.org/2000/01/rdf-schema#label> "Castling" .
+<https://github.com/john1hsu/chess-graph/id/castling> <http://www.w3.org/2004/02/skos/core#altLabel> "Castle" .
+<https://github.com/john1hsu/chess-graph/id/castling> <http://www.w3.org/2004/02/skos/core#altLabel> "Castling kingside" .
+<https://github.com/john1hsu/chess-graph/id/castling> <http://www.w3.org/2004/02/skos/core#altLabel> "Castling queenside" .
+<https://github.com/john1hsu/chess-graph/id/castling> <http://www.w3.org/2004/02/skos/core#altLabel> "Long castling" .
+<https://github.com/john1hsu/chess-graph/id/castling> <http://www.w3.org/2004/02/skos/core#altLabel> "O-O" .
+<https://github.com/john1hsu/chess-graph/id/castling> <http://www.w3.org/2004/02/skos/core#altLabel> "O-O-O" .
+<https://github.com/john1hsu/chess-graph/id/castling> <http://www.w3.org/2004/02/skos/core#altLabel> "Rochade" .
+<https://github.com/john1hsu/chess-graph/id/castling> <http://www.w3.org/2004/02/skos/core#altLabel> "Roque" .
+<https://github.com/john1hsu/chess-graph/id/castling> <http://www.w3.org/2004/02/skos/core#altLabel> "Short castling" .
+<https://github.com/john1hsu/chess-graph/id/castling> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/castling> <http://www.w3.org/2004/02/skos/core#definition> "The special move in which a player moves the king two squares along the first rank towards an unmoved rook and places that rook on the square the king crossed; it counts as a single king move and is allowed only under conditions set out in the FIDE Laws of Chess." .
+<https://github.com/john1hsu/chess-graph/id/castling> <http://www.w3.org/2004/02/skos/core#prefLabel> "Castling" .
+<https://github.com/john1hsu/chess-graph/id/castling> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/algebraic-notation> .
+<https://github.com/john1hsu/chess-graph/id/castling> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess960> .
+<https://github.com/john1hsu/chess-graph/id/castling> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/en-passant> .
+<https://github.com/john1hsu/chess-graph/id/castling> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/king-safety> .
+<https://github.com/john1hsu/chess-graph/id/castling> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/pawn-promotion> .
+<https://github.com/john1hsu/chess-graph/id/castling> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/touch-move> .
+<https://github.com/john1hsu/chess-graph/id/castling> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/castling/s1> .
+<https://github.com/john1hsu/chess-graph/id/castling> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/castling/s2> .
+<https://github.com/john1hsu/chess-graph/id/castling> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/castling/s3> .
+<https://github.com/john1hsu/chess-graph/id/castling> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/castling/s4> .
+<https://github.com/john1hsu/chess-graph/id/castling> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/castling/s5> .
+<https://github.com/john1hsu/chess-graph/id/castling> <https://github.com/john1hsu/chess-graph/ontology#domain> "rules-and-notation" .
+<https://github.com/john1hsu/chess-graph/id/castling> <https://github.com/john1hsu/chess-graph/ontology#fen> "5rk1/ppp3pp/8/3p4/3Pb3/2P5/PP4PP/R3K2R w KQ - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/castling> <https://github.com/john1hsu/chess-graph/ontology#governedBy> <https://github.com/john1hsu/chess-graph/id/touch-move> .
+<https://github.com/john1hsu/chess-graph/id/castling> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/castling> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/castling> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/chess960> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/chess960> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Variant> .
 <https://github.com/john1hsu/chess-graph/id/chess960> <http://www.w3.org/2000/01/rdf-schema#label> "Chess960" .
@@ -663,6 +695,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
 <https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s5> <https://schema.org/url> "https://chessgames.com/perl/chessopening?eco=B10" .
+<https://github.com/john1hsu/chess-graph/id/source/castling/s1> <http://purl.org/dc/terms/publisher> "FIDE Arbiters' Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/castling/s1> <http://purl.org/dc/terms/title> "Arbiters' Manual 2024 (Laws of Chess applied from 1 January 2023, with commentary; Articles 3.8.2, 4.4, 4.7, 7.5, Appendix C and Chess960 Guidelines)" .
+<https://github.com/john1hsu/chess-graph/id/source/castling/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/castling/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/castling/s1> <https://schema.org/url> "https://arbiters.fide.com/wp-content/uploads/Publications/Manual/Arbiters_Manual_2024.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/castling/s2> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/castling/s2> <http://purl.org/dc/terms/title> "castling" .
+<https://github.com/john1hsu/chess-graph/id/source/castling/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/castling/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/castling/s2> <https://schema.org/url> "https://www.britannica.com/topic/castling" .
+<https://github.com/john1hsu/chess-graph/id/source/castling/s3> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/castling/s3> <http://purl.org/dc/terms/title> "Castling in Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/castling/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/castling/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/castling/s3> <https://schema.org/url> "https://chesshistory.com/winter/extra/castling.html" .
+<https://github.com/john1hsu/chess-graph/id/source/castling/s4> <http://purl.org/dc/terms/publisher> "John McCrary, US Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/castling/s4> <http://purl.org/dc/terms/title> "The Evolution of Modern Chess Rules: Castling" .
+<https://github.com/john1hsu/chess-graph/id/source/castling/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/castling/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/castling/s4> <https://schema.org/url> "https://new.uschess.org/news/evolution-modern-chess-rules-castling" .
+<https://github.com/john1hsu/chess-graph/id/source/castling/s5> <http://purl.org/dc/terms/publisher> "GM Gregory Serper, Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/castling/s5> <http://purl.org/dc/terms/title> "The 'Suicidal' Pawn Storm (Don't Get Brainwashed, part 4)" .
+<https://github.com/john1hsu/chess-graph/id/source/castling/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/castling/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/castling/s5> <https://schema.org/url> "https://www.chess.com/article/view/dont-get-brainwashed-part-four" .
 <https://github.com/john1hsu/chess-graph/id/source/chess960/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
 <https://github.com/john1hsu/chess-graph/id/source/chess960/s1> <http://purl.org/dc/terms/title> "FIDE Laws of Chess, Guidelines II. Chess960 Rules" .
 <https://github.com/john1hsu/chess-graph/id/source/chess960/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

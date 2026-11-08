@@ -1645,6 +1645,97 @@
       ]
     },
     {
+      "@id": "kt:castling",
+      "@type": "kto:Rule",
+      "skos:prefLabel": "Castling",
+      "skos:definition": "The special move in which a player moves the king two squares along the first rank towards an unmoved rook and places that rook on the square the king crossed; it counts as a single king move and is allowed only under conditions set out in the FIDE Laws of Chess.",
+      "kto:domain": "rules-and-notation",
+      "dcterms:created": "2026-11-08",
+      "kto:verified": "2026-11-08",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Arbiters' Manual 2024 (Laws of Chess applied from 1 January 2023, with commentary; Articles 3.8.2, 4.4, 4.7, 7.5, Appendix C and Chess960 Guidelines)",
+          "dcterms:publisher": "FIDE Arbiters' Commission",
+          "schema:url": "https://arbiters.fide.com/wp-content/uploads/Publications/Manual/Arbiters_Manual_2024.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "castling",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/castling",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Castling in Chess",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://chesshistory.com/winter/extra/castling.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "The Evolution of Modern Chess Rules: Castling",
+          "dcterms:publisher": "John McCrary, US Chess",
+          "schema:url": "https://new.uschess.org/news/evolution-modern-chess-rules-castling",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The 'Suicidal' Pawn Storm (Don't Get Brainwashed, part 4)",
+          "dcterms:publisher": "GM Gregory Serper, Chess.com",
+          "schema:url": "https://www.chess.com/article/view/dont-get-brainwashed-part-four",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/rules-and-notation/castling.md",
+      "skos:altLabel": [
+        "Castle",
+        "Castling kingside",
+        "Castling queenside",
+        "O-O",
+        "O-O-O",
+        "Short castling",
+        "Long castling",
+        "Roque",
+        "Rochade"
+      ],
+      "kto:fen": "5rk1/ppp3pp/8/3p4/3Pb3/2P5/PP4PP/R3K2R w KQ - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:chess960"
+        },
+        {
+          "@id": "kt:en-passant"
+        },
+        {
+          "@id": "kt:pawn-promotion"
+        },
+        {
+          "@id": "kt:touch-move"
+        },
+        {
+          "@id": "kt:king-safety"
+        },
+        {
+          "@id": "kt:algebraic-notation"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        }
+      ],
+      "kto:governedBy": [
+        {
+          "@id": "kt:touch-move"
+        }
+      ]
+    },
+    {
       "@id": "kt:en-passant",
       "@type": "kto:Rule",
       "skos:prefLabel": "En passant",

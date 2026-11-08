@@ -5,7 +5,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov` |
-| `kt:castling` | `kt:fide-laws-of-chess`, `kt:chess960` |
+| `kt:touch-move` | `kt:castling`, `kt:castling`, `kt:fide-laws-of-chess` |
+| `kt:algebraic-notation` | `kt:castling`, `kt:fide-laws-of-chess` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position` |
 | `kt:forsyth-edwards-notation` | `kt:en-passant`, `kt:chess960` |
 | `kt:grandmaster-title` | `kt:elo-rating-system`, `kt:fide` |
@@ -27,7 +28,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:world-chess-championship-1886` | `kt:world-chess-championship`, `kt:wilhelm-steinitz` |
 | `kt:adolf-anderssen` | `kt:wilhelm-steinitz` |
 | `kt:adriaan-de-groot` | `kt:chunking-theory` |
-| `kt:algebraic-notation` | `kt:fide-laws-of-chess` |
 | `kt:alphazero` | `kt:evaluation-function` |
 | `kt:anatoly-karpov` | `kt:caro-kann-defence` |
 | `kt:arbiter` | `kt:fide-laws-of-chess` |
@@ -70,6 +70,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:johannes-zukertort` | `kt:wilhelm-steinitz` |
 | `kt:john-mccarthy` | `kt:alpha-beta-pruning` |
 | `kt:john-von-neumann` | `kt:minimax` |
+| `kt:king-safety` | `kt:castling` |
 | `kt:leonardo-torres-y-quevedo` | `kt:claude-shannon` |
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position` |
 | `kt:marcus-kann` | `kt:caro-kann-defence` |
@@ -95,7 +96,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:stockfish` | `kt:computer-chess` |
 | `kt:tarrasch-defence` | `kt:isolated-queens-pawn` |
 | `kt:template-theory` | `kt:chunking-theory` |
-| `kt:touch-move` | `kt:fide-laws-of-chess` |
 | `kt:underpromotion` | `kt:pawn-promotion` |
 | `kt:universal-chess-interface` | `kt:chess960` |
 | `kt:us-chess` | `kt:elo-rating-system` |
