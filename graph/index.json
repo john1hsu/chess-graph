@@ -227,6 +227,31 @@
     ]
   },
   {
+    "id": "kt:fide",
+    "title": "FIDE",
+    "aliases": [
+      "International Chess Federation",
+      "World Chess Federation",
+      "Fédération Internationale des Échecs",
+      "Federation Internationale des Echecs"
+    ],
+    "type": "Organization",
+    "domain": "events-and-organizations",
+    "file": "articles/events-and-organizations/fide.md",
+    "created": "2026-11-08",
+    "verified": "2026-11-08",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://handbook.fide.com/files/handbook/FIDECharter2020.pdf",
+      "https://www.fide.com/the-new-fide-charter-what-is-it/",
+      "https://www.fide.com/timur-turlov-elected-president-of-fide/",
+      "https://www.fide.com/?p=50456",
+      "https://www.chesshistory.com/winter/extra/fidehistory.html",
+      "https://en.chessbase.com/newsroom/post/congratulations-fide-turns-100?page=0"
+    ]
+  },
+  {
     "id": "kt:fork",
     "title": "Fork",
     "aliases": [

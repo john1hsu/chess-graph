@@ -1001,6 +1001,89 @@
       ]
     },
     {
+      "@id": "kt:fide",
+      "@type": "kto:Organization",
+      "skos:prefLabel": "FIDE",
+      "skos:definition": "The international governing body of chess, founded in Paris on 20 July 1924 and seated in Lausanne, which issues the Laws of Chess, awards international titles and ratings, and holds the rights to the Chess Olympiad and the World Chess Championship.",
+      "kto:domain": "events-and-organizations",
+      "dcterms:created": "2026-11-08",
+      "kto:verified": "2026-11-08",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "FIDE Charter (in force from 1 March 2020)",
+          "dcterms:publisher": "FIDE Handbook",
+          "schema:url": "https://handbook.fide.com/files/handbook/FIDECharter2020.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "The new FIDE Charter: What is it?",
+          "dcterms:publisher": "FIDE (fide.com news, 15 March 2020)",
+          "schema:url": "https://www.fide.com/the-new-fide-charter-what-is-it/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Timur Turlov elected President of FIDE",
+          "dcterms:publisher": "FIDE (fide.com news, September 2026)",
+          "schema:url": "https://www.fide.com/timur-turlov-elected-president-of-fide/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Main Decisions of the FIDE General Assembly 2026",
+          "dcterms:publisher": "FIDE (fide.com news, September 2026)",
+          "schema:url": "https://www.fide.com/?p=50456",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Chess: The History of FIDE",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://www.chesshistory.com/winter/extra/fidehistory.html",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Congratulations: FIDE turns 100!",
+          "dcterms:publisher": "Frederic Friedel, ChessBase News (20 July 2024)",
+          "schema:url": "https://en.chessbase.com/newsroom/post/congratulations-fide-turns-100?page=0",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/events-and-organizations/fide.md",
+      "skos:altLabel": [
+        "International Chess Federation",
+        "World Chess Federation",
+        "Fédération Internationale des Échecs",
+        "Federation Internationale des Echecs"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess-organizations"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        },
+        {
+          "@id": "kt:elo-rating-system"
+        },
+        {
+          "@id": "kt:grandmaster-title"
+        },
+        {
+          "@id": "kt:chess-olympiad"
+        },
+        {
+          "@id": "kt:world-chess-championship"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:european-chess-union"
+        }
+      ]
+    },
+    {
       "@id": "kt:deep-blue-versus-kasparov",
       "@type": "kto:Event",
       "skos:prefLabel": "Deep Blue versus Kasparov",

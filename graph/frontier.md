@@ -5,7 +5,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov` |
-| `kt:fide` | `kt:elo-rating-system`, `kt:elo-rating-system` |
+| `kt:fide-laws-of-chess` | `kt:fide`, `kt:en-passant` |
+| `kt:grandmaster-title` | `kt:elo-rating-system`, `kt:fide` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:leela-chess-zero` | `kt:computer-chess`, `kt:monte-carlo-tree-search` |
 | `kt:move-ordering` | `kt:alpha-beta-pruning`, `kt:quiescence-search` |
@@ -17,6 +18,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
 | `kt:skewer` | `kt:fork`, `kt:fork` |
 | `kt:transposition-table` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
+| `kt:world-chess-championship` | `kt:fide`, `kt:wilhelm-steinitz` |
 | `kt:adolf-anderssen` | `kt:wilhelm-steinitz` |
 | `kt:adriaan-de-groot` | `kt:chunking-theory` |
 | `kt:alphazero` | `kt:evaluation-function` |
@@ -25,6 +27,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:artificial-intelligence` | `kt:computer-chess` |
 | `kt:blockade` | `kt:isolated-queens-pawn` |
 | `kt:chess-expertise` | `kt:chunking-theory` |
+| `kt:chess-olympiad` | `kt:fide` |
+| `kt:chess-organizations` | `kt:fide` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
 | `kt:chess-tactics` | `kt:fork` |
 | `kt:cognitive-psychology-of-chess` | `kt:chunking-theory` |
@@ -37,12 +41,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:einstellung-effect` | `kt:chunking-theory` |
 | `kt:emanuel-lasker` | `kt:wilhelm-steinitz` |
 | `kt:endgame-tablebases` | `kt:computer-chess` |
-| `kt:fide-laws-of-chess` | `kt:en-passant` |
+| `kt:european-chess-union` | `kt:fide` |
 | `kt:forsyth-edwards-notation` | `kt:en-passant` |
 | `kt:french-defence` | `kt:caro-kann-defence` |
 | `kt:garry-kasparov` | `kt:deep-blue-versus-kasparov` |
 | `kt:glicko-rating-system` | `kt:elo-rating-system` |
-| `kt:grandmaster-title` | `kt:elo-rating-system` |
 | `kt:hanging-pawns` | `kt:isolated-queens-pawn` |
 | `kt:hans-berliner` | `kt:horizon-effect` |
 | `kt:hastings-1895` | `kt:wilhelm-steinitz` |
@@ -81,6 +84,5 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:visualization` | `kt:chunking-theory` |
 | `kt:william-chase` | `kt:chunking-theory` |
 | `kt:world-chess-champion` | `kt:wilhelm-steinitz` |
-| `kt:world-chess-championship` | `kt:wilhelm-steinitz` |
 | `kt:world-chess-championship-1886` | `kt:wilhelm-steinitz` |
 | `kt:zwischenzug` | `kt:fork` |

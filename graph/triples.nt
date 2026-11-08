@@ -249,6 +249,31 @@
 <https://github.com/john1hsu/chess-graph/id/evaluation-function> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/claude-shannon> .
 <https://github.com/john1hsu/chess-graph/id/evaluation-function> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/evaluation-function> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-07" .
+<https://github.com/john1hsu/chess-graph/id/fide> <http://purl.org/dc/terms/created> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/fide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Organization> .
+<https://github.com/john1hsu/chess-graph/id/fide> <http://www.w3.org/2000/01/rdf-schema#label> "FIDE" .
+<https://github.com/john1hsu/chess-graph/id/fide> <http://www.w3.org/2004/02/skos/core#altLabel> "Federation Internationale des Echecs" .
+<https://github.com/john1hsu/chess-graph/id/fide> <http://www.w3.org/2004/02/skos/core#altLabel> "Fédération Internationale des Échecs" .
+<https://github.com/john1hsu/chess-graph/id/fide> <http://www.w3.org/2004/02/skos/core#altLabel> "International Chess Federation" .
+<https://github.com/john1hsu/chess-graph/id/fide> <http://www.w3.org/2004/02/skos/core#altLabel> "World Chess Federation" .
+<https://github.com/john1hsu/chess-graph/id/fide> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-organizations> .
+<https://github.com/john1hsu/chess-graph/id/fide> <http://www.w3.org/2004/02/skos/core#definition> "The international governing body of chess, founded in Paris on 20 July 1924 and seated in Lausanne, which issues the Laws of Chess, awards international titles and ratings, and holds the rights to the Chess Olympiad and the World Chess Championship." .
+<https://github.com/john1hsu/chess-graph/id/fide> <http://www.w3.org/2004/02/skos/core#prefLabel> "FIDE" .
+<https://github.com/john1hsu/chess-graph/id/fide> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-olympiad> .
+<https://github.com/john1hsu/chess-graph/id/fide> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/elo-rating-system> .
+<https://github.com/john1hsu/chess-graph/id/fide> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/fide> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/grandmaster-title> .
+<https://github.com/john1hsu/chess-graph/id/fide> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/fide> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fide/s1> .
+<https://github.com/john1hsu/chess-graph/id/fide> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fide/s2> .
+<https://github.com/john1hsu/chess-graph/id/fide> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fide/s3> .
+<https://github.com/john1hsu/chess-graph/id/fide> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fide/s4> .
+<https://github.com/john1hsu/chess-graph/id/fide> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fide/s5> .
+<https://github.com/john1hsu/chess-graph/id/fide> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fide/s6> .
+<https://github.com/john1hsu/chess-graph/id/fide> <https://github.com/john1hsu/chess-graph/ontology#domain> "events-and-organizations" .
+<https://github.com/john1hsu/chess-graph/id/fide> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/european-chess-union> .
+<https://github.com/john1hsu/chess-graph/id/fide> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/fide> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/fork> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/fork> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TacticalMotif> .
 <https://github.com/john1hsu/chess-graph/id/fork> <http://www.w3.org/2000/01/rdf-schema#label> "Fork" .
@@ -720,6 +745,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
 <https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s7> <https://schema.org/url> "https://github.com/official-stockfish/Stockfish/blob/master/src/evaluate.cpp" .
+<https://github.com/john1hsu/chess-graph/id/source/fide/s1> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
+<https://github.com/john1hsu/chess-graph/id/source/fide/s1> <http://purl.org/dc/terms/title> "FIDE Charter (in force from 1 March 2020)" .
+<https://github.com/john1hsu/chess-graph/id/source/fide/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fide/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/fide/s1> <https://schema.org/url> "https://handbook.fide.com/files/handbook/FIDECharter2020.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/fide/s2> <http://purl.org/dc/terms/publisher> "FIDE (fide.com news, 15 March 2020)" .
+<https://github.com/john1hsu/chess-graph/id/source/fide/s2> <http://purl.org/dc/terms/title> "The new FIDE Charter: What is it?" .
+<https://github.com/john1hsu/chess-graph/id/source/fide/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fide/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/fide/s2> <https://schema.org/url> "https://www.fide.com/the-new-fide-charter-what-is-it/" .
+<https://github.com/john1hsu/chess-graph/id/source/fide/s3> <http://purl.org/dc/terms/publisher> "FIDE (fide.com news, September 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/fide/s3> <http://purl.org/dc/terms/title> "Timur Turlov elected President of FIDE" .
+<https://github.com/john1hsu/chess-graph/id/source/fide/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fide/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/fide/s3> <https://schema.org/url> "https://www.fide.com/timur-turlov-elected-president-of-fide/" .
+<https://github.com/john1hsu/chess-graph/id/source/fide/s4> <http://purl.org/dc/terms/publisher> "FIDE (fide.com news, September 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/fide/s4> <http://purl.org/dc/terms/title> "Main Decisions of the FIDE General Assembly 2026" .
+<https://github.com/john1hsu/chess-graph/id/source/fide/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fide/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/fide/s4> <https://schema.org/url> "https://www.fide.com/?p=50456" .
+<https://github.com/john1hsu/chess-graph/id/source/fide/s5> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/fide/s5> <http://purl.org/dc/terms/title> "Chess: The History of FIDE" .
+<https://github.com/john1hsu/chess-graph/id/source/fide/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fide/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/fide/s5> <https://schema.org/url> "https://www.chesshistory.com/winter/extra/fidehistory.html" .
+<https://github.com/john1hsu/chess-graph/id/source/fide/s6> <http://purl.org/dc/terms/publisher> "Frederic Friedel, ChessBase News (20 July 2024)" .
+<https://github.com/john1hsu/chess-graph/id/source/fide/s6> <http://purl.org/dc/terms/title> "Congratulations: FIDE turns 100!" .
+<https://github.com/john1hsu/chess-graph/id/source/fide/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fide/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/fide/s6> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/congratulations-fide-turns-100?page=0" .
 <https://github.com/john1hsu/chess-graph/id/source/fork/s1> <http://purl.org/dc/terms/publisher> "English Chess Federation" .
 <https://github.com/john1hsu/chess-graph/id/source/fork/s1> <http://purl.org/dc/terms/title> "The Knight Fork (Chess Skills leaflet)" .
 <https://github.com/john1hsu/chess-graph/id/source/fork/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
