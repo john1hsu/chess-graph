@@ -634,6 +634,34 @@
     ]
   },
   {
+    "id": "kt:ruy-lopez",
+    "title": "Ruy Lopez",
+    "aliases": [
+      "Spanish Game",
+      "Spanish Opening",
+      "Spanish",
+      "Ruy López",
+      "Ruy Lopez Opening",
+      "Spanish Torture"
+    ],
+    "type": "Opening",
+    "domain": "openings",
+    "file": "articles/openings/ruy-lopez.md",
+    "created": "2026-11-08",
+    "verified": "2026-11-08",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.britannica.com/print/article/935695",
+      "https://learn.chessbase.com/en/page/the-ruy-lopez",
+      "https://chesshistory.com/winter/extra/marshallgambit.html",
+      "https://www.newinchess.com/the-modern-spanish",
+      "https://www.newinchess.com/the-modernized-ruy-lopez-volume-2",
+      "https://en.chessbase.com/post/25-years-ago-kramnik-beats-kasparov",
+      "https://kwabc.org/en/newsitem/ruy-lopez-de-segura-a-new-biography-sheds-fresh-light-on-a-major-figure-in-chess-history.html"
+    ]
+  },
+  {
     "id": "kt:wilhelm-steinitz",
     "title": "Wilhelm Steinitz",
     "aliases": [

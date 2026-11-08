@@ -7,6 +7,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov` |
 | `kt:touch-move` | `kt:castling`, `kt:castling`, `kt:fide-laws-of-chess` |
 | `kt:algebraic-notation` | `kt:castling`, `kt:fide-laws-of-chess` |
+| `kt:anatoly-karpov` | `kt:caro-kann-defence`, `kt:ruy-lopez` |
 | `kt:blockade` | `kt:isolated-queens-pawn`, `kt:outpost` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position` |
 | `kt:forsyth-edwards-notation` | `kt:en-passant`, `kt:chess960` |
@@ -31,12 +32,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:adolf-anderssen` | `kt:wilhelm-steinitz` |
 | `kt:adriaan-de-groot` | `kt:chunking-theory` |
 | `kt:alphazero` | `kt:evaluation-function` |
-| `kt:anatoly-karpov` | `kt:caro-kann-defence` |
 | `kt:arbiter` | `kt:fide-laws-of-chess` |
 | `kt:aron-nimzowitsch` | `kt:outpost` |
 | `kt:arpad-elo` | `kt:elo-rating-system` |
 | `kt:artificial-intelligence` | `kt:computer-chess` |
 | `kt:backward-pawn` | `kt:outpost` |
+| `kt:berlin-defence` | `kt:ruy-lopez` |
 | `kt:bobby-fischer` | `kt:chess960` |
 | `kt:candidates-tournament` | `kt:world-chess-championship` |
 | `kt:carlsbad-structure` | `kt:pawn-structure` |
@@ -71,6 +72,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:herbert-simon` | `kt:chunking-theory` |
 | `kt:history-of-chess` | `kt:world-chess-championship` |
 | `kt:horatio-caro` | `kt:caro-kann-defence` |
+| `kt:italian-game` | `kt:ruy-lopez` |
 | `kt:johannes-zukertort` | `kt:wilhelm-steinitz` |
 | `kt:john-mccarthy` | `kt:alpha-beta-pruning` |
 | `kt:john-von-neumann` | `kt:minimax` |
@@ -78,10 +80,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:leonardo-torres-y-quevedo` | `kt:claude-shannon` |
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position` |
 | `kt:marcus-kann` | `kt:caro-kann-defence` |
+| `kt:marshall-attack` | `kt:ruy-lopez` |
 | `kt:material-advantage` | `kt:fork` |
 | `kt:mikhail-chigorin` | `kt:wilhelm-steinitz` |
 | `kt:minority-attack` | `kt:pawn-structure` |
 | `kt:negamax` | `kt:minimax` |
+| `kt:open-games` | `kt:ruy-lopez` |
+| `kt:open-ruy-lopez` | `kt:ruy-lopez` |
 | `kt:panov-botvinnik-attack` | `kt:caro-kann-defence` |
 | `kt:passed-pawn` | `kt:pawn-promotion` |
 | `kt:passive-rook-defence` | `kt:philidor-position` |
@@ -89,6 +94,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:proof-number-search` | `kt:game-tree-search` |
 | `kt:queens-gambit-accepted` | `kt:isolated-queens-pawn` |
 | `kt:remi-coulom` | `kt:monte-carlo-tree-search` |
+| `kt:ruy-lopez-de-segura` | `kt:ruy-lopez` |
 | `kt:saavedra-position` | `kt:pawn-promotion` |
 | `kt:semi-open-games` | `kt:caro-kann-defence` |
 | `kt:shuffle-chess` | `kt:chess960` |
@@ -105,6 +111,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:universal-chess-interface` | `kt:chess960` |
 | `kt:us-chess` | `kt:elo-rating-system` |
 | `kt:visualization` | `kt:chunking-theory` |
+| `kt:vladimir-kramnik` | `kt:ruy-lopez` |
 | `kt:weak-squares` | `kt:outpost` |
 | `kt:william-chase` | `kt:chunking-theory` |
 | `kt:zwischenzug` | `kt:fork` |

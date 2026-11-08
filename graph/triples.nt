@@ -699,6 +699,38 @@
 <https://github.com/john1hsu/chess-graph/id/quiescence-search> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/claude-shannon> .
 <https://github.com/john1hsu/chess-graph/id/quiescence-search> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/quiescence-search> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/ruy-lopez> <http://purl.org/dc/terms/created> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/ruy-lopez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Opening> .
+<https://github.com/john1hsu/chess-graph/id/ruy-lopez> <http://www.w3.org/2000/01/rdf-schema#label> "Ruy Lopez" .
+<https://github.com/john1hsu/chess-graph/id/ruy-lopez> <http://www.w3.org/2004/02/skos/core#altLabel> "Ruy Lopez Opening" .
+<https://github.com/john1hsu/chess-graph/id/ruy-lopez> <http://www.w3.org/2004/02/skos/core#altLabel> "Ruy López" .
+<https://github.com/john1hsu/chess-graph/id/ruy-lopez> <http://www.w3.org/2004/02/skos/core#altLabel> "Spanish Game" .
+<https://github.com/john1hsu/chess-graph/id/ruy-lopez> <http://www.w3.org/2004/02/skos/core#altLabel> "Spanish Opening" .
+<https://github.com/john1hsu/chess-graph/id/ruy-lopez> <http://www.w3.org/2004/02/skos/core#altLabel> "Spanish Torture" .
+<https://github.com/john1hsu/chess-graph/id/ruy-lopez> <http://www.w3.org/2004/02/skos/core#altLabel> "Spanish" .
+<https://github.com/john1hsu/chess-graph/id/ruy-lopez> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/open-games> .
+<https://github.com/john1hsu/chess-graph/id/ruy-lopez> <http://www.w3.org/2004/02/skos/core#definition> "An open game arising after 1.e4 e5 2.Nf3 Nc6 3.Bb5, in which White develops the king's bishop to attack the knight that defends e5, preparing quick castling and a later central advance; it is the most frequently played continuation after 1.e4 e5." .
+<https://github.com/john1hsu/chess-graph/id/ruy-lopez> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ruy Lopez" .
+<https://github.com/john1hsu/chess-graph/id/ruy-lopez> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/caro-kann-defence> .
+<https://github.com/john1hsu/chess-graph/id/ruy-lopez> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/italian-game> .
+<https://github.com/john1hsu/chess-graph/id/ruy-lopez> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/ruy-lopez> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s1> .
+<https://github.com/john1hsu/chess-graph/id/ruy-lopez> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s2> .
+<https://github.com/john1hsu/chess-graph/id/ruy-lopez> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s3> .
+<https://github.com/john1hsu/chess-graph/id/ruy-lopez> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s4> .
+<https://github.com/john1hsu/chess-graph/id/ruy-lopez> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s5> .
+<https://github.com/john1hsu/chess-graph/id/ruy-lopez> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s6> .
+<https://github.com/john1hsu/chess-graph/id/ruy-lopez> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s7> .
+<https://github.com/john1hsu/chess-graph/id/ruy-lopez> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/anatoly-karpov> .
+<https://github.com/john1hsu/chess-graph/id/ruy-lopez> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/vladimir-kramnik> .
+<https://github.com/john1hsu/chess-graph/id/ruy-lopez> <https://github.com/john1hsu/chess-graph/ontology#domain> "openings" .
+<https://github.com/john1hsu/chess-graph/id/ruy-lopez> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/berlin-defence> .
+<https://github.com/john1hsu/chess-graph/id/ruy-lopez> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/marshall-attack> .
+<https://github.com/john1hsu/chess-graph/id/ruy-lopez> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/open-ruy-lopez> .
+<https://github.com/john1hsu/chess-graph/id/ruy-lopez> <https://github.com/john1hsu/chess-graph/ontology#moves> "1.e4 e5 2.Nf3 Nc6 3.Bb5" .
+<https://github.com/john1hsu/chess-graph/id/ruy-lopez> <https://github.com/john1hsu/chess-graph/ontology#namedAfter> <https://github.com/john1hsu/chess-graph/id/ruy-lopez-de-segura> .
+<https://github.com/john1hsu/chess-graph/id/ruy-lopez> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/ruy-lopez> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s1> <http://purl.org/dc/terms/publisher> "Computer History Museum (Mastering the Game exhibit)" .
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s1> <http://purl.org/dc/terms/title> "The Minimax Algorithm and Alpha-Beta Pruning" .
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -1389,6 +1421,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s6> <https://schema.org/url> "https://mediocrechess.sourceforge.net/guides/quiescentsearch.html" .
+<https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s1> <http://purl.org/dc/terms/title> "Ruy López de Segura" .
+<https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s1> <https://schema.org/url> "https://www.britannica.com/print/article/935695" .
+<https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s2> <http://purl.org/dc/terms/publisher> "ChessBase Learn" .
+<https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s2> <http://purl.org/dc/terms/title> "The Ruy Lopez" .
+<https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s2> <https://schema.org/url> "https://learn.chessbase.com/en/page/the-ruy-lopez" .
+<https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s3> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s3> <http://purl.org/dc/terms/title> "The Marshall Gambit" .
+<https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s3> <https://schema.org/url> "https://chesshistory.com/winter/extra/marshallgambit.html" .
+<https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s4> <http://purl.org/dc/terms/publisher> "Vassilios Kotronias, Russell Enterprises (2020), New In Chess product page" .
+<https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s4> <http://purl.org/dc/terms/title> "The Modern Spanish: Breyer and Zaitsev Systems" .
+<https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s4> <https://schema.org/url> "https://www.newinchess.com/the-modern-spanish" .
+<https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s5> <http://purl.org/dc/terms/publisher> "Dariusz Swiercz, Thinkers Publishing (2021), New In Chess product page" .
+<https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s5> <http://purl.org/dc/terms/title> "The Modernized Ruy Lopez – Volume 2" .
+<https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s5> <https://schema.org/url> "https://www.newinchess.com/the-modernized-ruy-lopez-volume-2" .
+<https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s6> <http://purl.org/dc/terms/publisher> "ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s6> <http://purl.org/dc/terms/title> "25 Years Ago: Kramnik beats Kasparov" .
+<https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s6> <https://schema.org/url> "https://en.chessbase.com/post/25-years-ago-kramnik-beats-kasparov" .
+<https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s7> <http://purl.org/dc/terms/publisher> "Chess History & Literature Society (kwabc.org)" .
+<https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s7> <http://purl.org/dc/terms/title> "Ruy López de Segura: a new biography sheds fresh light on a major figure in chess history" .
+<https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s7> <https://schema.org/url> "https://kwabc.org/en/newsitem/ruy-lopez-de-segura-a-new-biography-sheds-fresh-light-on-a-major-figure-in-chess-history.html" .
 <https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s1> <http://purl.org/dc/terms/title> "Wilhelm Steinitz" .
 <https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
