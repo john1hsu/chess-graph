@@ -5,7 +5,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov` |
-| `kt:pawn-promotion` | `kt:lucena-position`, `kt:philidor-position`, `kt:en-passant` |
 | `kt:castling` | `kt:fide-laws-of-chess`, `kt:chess960` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position` |
 | `kt:forsyth-edwards-notation` | `kt:en-passant`, `kt:chess960` |
@@ -16,6 +15,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:move-ordering` | `kt:alpha-beta-pruning`, `kt:quiescence-search` |
 | `kt:nnue` | `kt:computer-chess`, `kt:evaluation-function` |
 | `kt:outpost` | `kt:isolated-queens-pawn`, `kt:wilhelm-steinitz` |
+| `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
 | `kt:rook-endgames` | `kt:lucena-position`, `kt:philidor-position` |
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
@@ -72,13 +72,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mikhail-chigorin` | `kt:wilhelm-steinitz` |
 | `kt:negamax` | `kt:minimax` |
 | `kt:panov-botvinnik-attack` | `kt:caro-kann-defence` |
+| `kt:passed-pawn` | `kt:pawn-promotion` |
 | `kt:passive-rook-defence` | `kt:philidor-position` |
-| `kt:pawn` | `kt:en-passant` |
 | `kt:pawn-structure` | `kt:isolated-queens-pawn` |
 | `kt:pin` | `kt:fork` |
 | `kt:proof-number-search` | `kt:game-tree-search` |
 | `kt:queens-gambit-accepted` | `kt:isolated-queens-pawn` |
 | `kt:remi-coulom` | `kt:monte-carlo-tree-search` |
+| `kt:saavedra-position` | `kt:pawn-promotion` |
 | `kt:semi-open-games` | `kt:caro-kann-defence` |
 | `kt:shuffle-chess` | `kt:chess960` |
 | `kt:sicilian-defence` | `kt:caro-kann-defence` |
@@ -90,6 +91,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:tarrasch-defence` | `kt:isolated-queens-pawn` |
 | `kt:template-theory` | `kt:chunking-theory` |
 | `kt:touch-move` | `kt:fide-laws-of-chess` |
+| `kt:underpromotion` | `kt:pawn-promotion` |
 | `kt:universal-chess-interface` | `kt:chess960` |
 | `kt:us-chess` | `kt:elo-rating-system` |
 | `kt:visualization` | `kt:chunking-theory` |

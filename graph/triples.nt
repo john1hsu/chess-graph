@@ -532,6 +532,31 @@
 <https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/chess-graph/ontology#fen> "6k1/1q3ppp/8/8/8/8/1P3PPP/3R2K1 b - - 0 1" .
 <https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/pawn-promotion> <http://purl.org/dc/terms/created> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/pawn-promotion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Rule> .
+<https://github.com/john1hsu/chess-graph/id/pawn-promotion> <http://www.w3.org/2000/01/rdf-schema#label> "Pawn promotion" .
+<https://github.com/john1hsu/chess-graph/id/pawn-promotion> <http://www.w3.org/2004/02/skos/core#altLabel> "Promotion (chess)" .
+<https://github.com/john1hsu/chess-graph/id/pawn-promotion> <http://www.w3.org/2004/02/skos/core#altLabel> "Promotion" .
+<https://github.com/john1hsu/chess-graph/id/pawn-promotion> <http://www.w3.org/2004/02/skos/core#altLabel> "Queening" .
+<https://github.com/john1hsu/chess-graph/id/pawn-promotion> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/pawn-promotion> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/pawn> .
+<https://github.com/john1hsu/chess-graph/id/pawn-promotion> <http://www.w3.org/2004/02/skos/core#definition> "The rule that a pawn reaching the last rank must, as part of the same move, be exchanged for a new queen, rook, bishop or knight of its own colour, regardless of which pieces have already been captured." .
+<https://github.com/john1hsu/chess-graph/id/pawn-promotion> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pawn promotion" .
+<https://github.com/john1hsu/chess-graph/id/pawn-promotion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/en-passant> .
+<https://github.com/john1hsu/chess-graph/id/pawn-promotion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/lucena-position> .
+<https://github.com/john1hsu/chess-graph/id/pawn-promotion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/passed-pawn> .
+<https://github.com/john1hsu/chess-graph/id/pawn-promotion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/philidor-position> .
+<https://github.com/john1hsu/chess-graph/id/pawn-promotion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/saavedra-position> .
+<https://github.com/john1hsu/chess-graph/id/pawn-promotion> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/pawn-promotion/s1> .
+<https://github.com/john1hsu/chess-graph/id/pawn-promotion> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/pawn-promotion/s2> .
+<https://github.com/john1hsu/chess-graph/id/pawn-promotion> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/pawn-promotion/s3> .
+<https://github.com/john1hsu/chess-graph/id/pawn-promotion> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/pawn-promotion/s4> .
+<https://github.com/john1hsu/chess-graph/id/pawn-promotion> <https://github.com/john1hsu/chess-graph/ontology#domain> "rules-and-notation" .
+<https://github.com/john1hsu/chess-graph/id/pawn-promotion> <https://github.com/john1hsu/chess-graph/ontology#fen> "rnb1kbnr/pppp1ppp/8/8/4q3/1P5P/P1PP1Kp1/RNBQ1BNR b kq - 1 7" .
+<https://github.com/john1hsu/chess-graph/id/pawn-promotion> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/underpromotion> .
+<https://github.com/john1hsu/chess-graph/id/pawn-promotion> <https://github.com/john1hsu/chess-graph/ontology#moves> "1.e4 e5 2.f4 exf4 3.b3 Qh4+ 4.g3 fxg3 5.h3 g2+ 6.Ke2 Qxe4+ 7.Kf2 gxh1=N#" .
+<https://github.com/john1hsu/chess-graph/id/pawn-promotion> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/pawn-promotion> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/philidor-position> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/philidor-position> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#EndgameType> .
 <https://github.com/john1hsu/chess-graph/id/philidor-position> <http://www.w3.org/2000/01/rdf-schema#label> "Philidor position" .
@@ -1108,6 +1133,26 @@
 <https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
 <https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s5> <https://schema.org/url> "https://lczero.org/dev/overview" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-promotion/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-promotion/s1> <http://purl.org/dc/terms/title> "FIDE Laws of Chess (applied from 1 January 2023), full text: Articles 3.7, 4.4, 4.6, 7.5 and Appendix A" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-promotion/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-promotion/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-promotion/s1> <https://schema.org/url> "https://rcc.fide.com/fide-laws-of-chess_fulltexthtml/" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-promotion/s2> <http://purl.org/dc/terms/publisher> "John McCrary, US Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-promotion/s2> <http://purl.org/dc/terms/title> "The Evolution of Modern Chess Rules: Pawn Promotion" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-promotion/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-promotion/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-promotion/s2> <https://schema.org/url> "https://new.uschess.org/news/evolution-modern-chess-rules-pawn-promotion" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-promotion/s3> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-promotion/s3> <http://purl.org/dc/terms/title> "Underpromotion in Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-promotion/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-promotion/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-promotion/s3> <https://schema.org/url> "https://chesshistory.com/winter/extra/underpromotion.html" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-promotion/s4> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-promotion/s4> <http://purl.org/dc/terms/title> "pawn promotion" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-promotion/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-promotion/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-promotion/s4> <https://schema.org/url> "https://www.britannica.com/topic/pawn-promotion" .
 <https://github.com/john1hsu/chess-graph/id/source/philidor-position/s1> <http://purl.org/dc/terms/publisher> "Chess.com (Chess Terms)" .
 <https://github.com/john1hsu/chess-graph/id/source/philidor-position/s1> <http://purl.org/dc/terms/title> "Philidor Position" .
 <https://github.com/john1hsu/chess-graph/id/source/philidor-position/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

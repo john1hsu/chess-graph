@@ -482,6 +482,28 @@
     ]
   },
   {
+    "id": "kt:pawn-promotion",
+    "title": "Pawn promotion",
+    "aliases": [
+      "Promotion",
+      "Queening",
+      "Promotion (chess)"
+    ],
+    "type": "Rule",
+    "domain": "rules-and-notation",
+    "file": "articles/rules-and-notation/pawn-promotion.md",
+    "created": "2026-11-08",
+    "verified": "2026-11-08",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://rcc.fide.com/fide-laws-of-chess_fulltexthtml/",
+      "https://new.uschess.org/news/evolution-modern-chess-rules-pawn-promotion",
+      "https://chesshistory.com/winter/extra/underpromotion.html",
+      "https://www.britannica.com/topic/pawn-promotion"
+    ]
+  },
+  {
     "id": "kt:philidor-position",
     "title": "Philidor position",
     "aliases": [
