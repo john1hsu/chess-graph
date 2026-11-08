@@ -4,17 +4,19 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:game-tree-search` | `kt:alpha-beta-pruning`, `kt:evaluation-function`, `kt:minimax` |
+| `kt:claude-shannon` | `kt:evaluation-function`, `kt:game-tree-search`, `kt:minimax` |
+| `kt:monte-carlo-tree-search` | `kt:alpha-beta-pruning`, `kt:game-tree-search`, `kt:minimax` |
 | `kt:quiescence-search` | `kt:evaluation-function`, `kt:minimax`, `kt:deep-blue-versus-kasparov` |
-| `kt:claude-shannon` | `kt:evaluation-function`, `kt:minimax` |
 | `kt:fide` | `kt:elo-rating-system`, `kt:elo-rating-system` |
-| `kt:monte-carlo-tree-search` | `kt:alpha-beta-pruning`, `kt:minimax` |
+| `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:philidor-position` | `kt:lucena-position`, `kt:lucena-position` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
+| `kt:transposition-table` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:alphazero` | `kt:evaluation-function` |
 | `kt:arpad-elo` | `kt:elo-rating-system` |
 | `kt:caro-kann-defence` | `kt:deep-blue-versus-kasparov` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
+| `kt:computer-chess` | `kt:game-tree-search` |
 | `kt:cutting-off-the-king` | `kt:lucena-position` |
 | `kt:deep-blue` | `kt:deep-blue-versus-kasparov` |
 | `kt:garry-kasparov` | `kt:deep-blue-versus-kasparov` |
@@ -22,7 +24,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:grandmaster-title` | `kt:elo-rating-system` |
 | `kt:history-of-computer-chess` | `kt:deep-blue-versus-kasparov` |
 | `kt:horizon-effect` | `kt:minimax` |
-| `kt:iterative-deepening` | `kt:alpha-beta-pruning` |
 | `kt:john-mccarthy` | `kt:alpha-beta-pruning` |
 | `kt:john-von-neumann` | `kt:minimax` |
 | `kt:king-and-pawn-endgames` | `kt:lucena-position` |
@@ -31,6 +32,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:negamax` | `kt:minimax` |
 | `kt:nnue` | `kt:evaluation-function` |
 | `kt:pawn-promotion` | `kt:lucena-position` |
+| `kt:proof-number-search` | `kt:game-tree-search` |
 | `kt:rook-endgames` | `kt:lucena-position` |
-| `kt:transposition-table` | `kt:alpha-beta-pruning` |
+| `kt:solving-chess` | `kt:game-tree-search` |
 | `kt:us-chess` | `kt:elo-rating-system` |

@@ -197,6 +197,98 @@
       ]
     },
     {
+      "@id": "kt:game-tree-search",
+      "@type": "kto:Algorithm",
+      "skos:prefLabel": "Game-tree search",
+      "skos:definition": "The family of methods by which a program chooses a move by exploring the tree of positions reachable from the current one, where nodes are positions, edges are moves and each level is a ply; in chess the tree is far too large to explore fully, so searches are cut off and guided.",
+      "kto:domain": "computer-chess",
+      "dcterms:created": "2026-11-08",
+      "kto:verified": "2026-11-08",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "ICS 180A: Strategy and board game programming, lecture of 17 April 1997",
+          "dcterms:publisher": "University of California, Irvine (David Eppstein)",
+          "schema:url": "https://ics.uci.edu/~eppstein/180a/970417.html",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "ES.268 The Mathematics in Toys and Games, Session 4: AI (lecture notes)",
+          "dcterms:publisher": "MIT OpenCourseWare",
+          "schema:url": "https://ocw.mit.edu/courses/es-268-the-mathematics-in-toys-and-games-spring-2010/7e2bc0702dcc4718b597f3a98592aa09_MITES_268S10_Ses4_AI.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "6.034 Artificial Intelligence, Fall 2010, Lecture 6: Search: Games, Minimax, and Alpha-Beta (transcript)",
+          "dcterms:publisher": "MIT OpenCourseWare (Patrick Winston)",
+          "schema:url": "https://live.ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/7524b662aa86938e45c10c74d3a1ad41_STjW3eH0Cik.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Checkers Is Solved (Science 317, 2007)",
+          "dcterms:publisher": "J. Schaeffer et al., hosted by McGill University",
+          "schema:url": "https://www.cs.mcgill.ca/~dprecup/courses/AI/Materials/checkers_is_solved.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm",
+          "dcterms:publisher": "D. Silver et al. (DeepMind), arXiv",
+          "schema:url": "https://arxiv.org/pdf/1712.01815",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/computer-chess/game-tree-search.md",
+      "skos:altLabel": [
+        "Game tree search",
+        "Game tree",
+        "Adversarial search",
+        "Search tree",
+        "Tree search in games"
+      ],
+      "kto:fen": "rnbqkb1r/pppppppp/5n2/8/2P5/5N2/PP1PPPPP/RNBQKB1R b KQkq - 0 2",
+      "skos:broader": [
+        {
+          "@id": "kt:computer-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:minimax"
+        },
+        {
+          "@id": "kt:alpha-beta-pruning"
+        },
+        {
+          "@id": "kt:evaluation-function"
+        },
+        {
+          "@id": "kt:monte-carlo-tree-search"
+        },
+        {
+          "@id": "kt:solving-chess"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:iterative-deepening"
+        },
+        {
+          "@id": "kt:proof-number-search"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:transposition-table"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:claude-shannon"
+        }
+      ]
+    },
+    {
       "@id": "kt:minimax",
       "@type": "kto:Algorithm",
       "skos:prefLabel": "Minimax",

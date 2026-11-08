@@ -109,6 +109,35 @@
 <https://github.com/john1hsu/chess-graph/id/evaluation-function> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/claude-shannon> .
 <https://github.com/john1hsu/chess-graph/id/evaluation-function> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/evaluation-function> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-07" .
+<https://github.com/john1hsu/chess-graph/id/game-tree-search> <http://purl.org/dc/terms/created> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/game-tree-search> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Algorithm> .
+<https://github.com/john1hsu/chess-graph/id/game-tree-search> <http://www.w3.org/2000/01/rdf-schema#label> "Game-tree search" .
+<https://github.com/john1hsu/chess-graph/id/game-tree-search> <http://www.w3.org/2004/02/skos/core#altLabel> "Adversarial search" .
+<https://github.com/john1hsu/chess-graph/id/game-tree-search> <http://www.w3.org/2004/02/skos/core#altLabel> "Game tree search" .
+<https://github.com/john1hsu/chess-graph/id/game-tree-search> <http://www.w3.org/2004/02/skos/core#altLabel> "Game tree" .
+<https://github.com/john1hsu/chess-graph/id/game-tree-search> <http://www.w3.org/2004/02/skos/core#altLabel> "Search tree" .
+<https://github.com/john1hsu/chess-graph/id/game-tree-search> <http://www.w3.org/2004/02/skos/core#altLabel> "Tree search in games" .
+<https://github.com/john1hsu/chess-graph/id/game-tree-search> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/computer-chess> .
+<https://github.com/john1hsu/chess-graph/id/game-tree-search> <http://www.w3.org/2004/02/skos/core#definition> "The family of methods by which a program chooses a move by exploring the tree of positions reachable from the current one, where nodes are positions, edges are moves and each level is a ply; in chess the tree is far too large to explore fully, so searches are cut off and guided." .
+<https://github.com/john1hsu/chess-graph/id/game-tree-search> <http://www.w3.org/2004/02/skos/core#prefLabel> "Game-tree search" .
+<https://github.com/john1hsu/chess-graph/id/game-tree-search> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> .
+<https://github.com/john1hsu/chess-graph/id/game-tree-search> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/evaluation-function> .
+<https://github.com/john1hsu/chess-graph/id/game-tree-search> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/minimax> .
+<https://github.com/john1hsu/chess-graph/id/game-tree-search> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> .
+<https://github.com/john1hsu/chess-graph/id/game-tree-search> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/solving-chess> .
+<https://github.com/john1hsu/chess-graph/id/game-tree-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s1> .
+<https://github.com/john1hsu/chess-graph/id/game-tree-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s2> .
+<https://github.com/john1hsu/chess-graph/id/game-tree-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s3> .
+<https://github.com/john1hsu/chess-graph/id/game-tree-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s4> .
+<https://github.com/john1hsu/chess-graph/id/game-tree-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s5> .
+<https://github.com/john1hsu/chess-graph/id/game-tree-search> <https://github.com/john1hsu/chess-graph/ontology#domain> "computer-chess" .
+<https://github.com/john1hsu/chess-graph/id/game-tree-search> <https://github.com/john1hsu/chess-graph/ontology#fen> "rnbqkb1r/pppppppp/5n2/8/2P5/5N2/PP1PPPPP/RNBQKB1R b KQkq - 0 2" .
+<https://github.com/john1hsu/chess-graph/id/game-tree-search> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/iterative-deepening> .
+<https://github.com/john1hsu/chess-graph/id/game-tree-search> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/proof-number-search> .
+<https://github.com/john1hsu/chess-graph/id/game-tree-search> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/claude-shannon> .
+<https://github.com/john1hsu/chess-graph/id/game-tree-search> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/game-tree-search> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/transposition-table> .
+<https://github.com/john1hsu/chess-graph/id/game-tree-search> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/lucena-position> <http://purl.org/dc/terms/created> "2026-11-07" .
 <https://github.com/john1hsu/chess-graph/id/lucena-position> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#EndgameType> .
 <https://github.com/john1hsu/chess-graph/id/lucena-position> <http://www.w3.org/2000/01/rdf-schema#label> "Lucena position" .
@@ -280,6 +309,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
 <https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s7> <https://schema.org/url> "https://github.com/official-stockfish/Stockfish/blob/master/src/evaluate.cpp" .
+<https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s1> <http://purl.org/dc/terms/publisher> "University of California, Irvine (David Eppstein)" .
+<https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s1> <http://purl.org/dc/terms/title> "ICS 180A: Strategy and board game programming, lecture of 17 April 1997" .
+<https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s1> <https://schema.org/url> "https://ics.uci.edu/~eppstein/180a/970417.html" .
+<https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s2> <http://purl.org/dc/terms/publisher> "MIT OpenCourseWare" .
+<https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s2> <http://purl.org/dc/terms/title> "ES.268 The Mathematics in Toys and Games, Session 4: AI (lecture notes)" .
+<https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s2> <https://schema.org/url> "https://ocw.mit.edu/courses/es-268-the-mathematics-in-toys-and-games-spring-2010/7e2bc0702dcc4718b597f3a98592aa09_MITES_268S10_Ses4_AI.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s3> <http://purl.org/dc/terms/publisher> "MIT OpenCourseWare (Patrick Winston)" .
+<https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s3> <http://purl.org/dc/terms/title> "6.034 Artificial Intelligence, Fall 2010, Lecture 6: Search: Games, Minimax, and Alpha-Beta (transcript)" .
+<https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s3> <https://schema.org/url> "https://live.ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/7524b662aa86938e45c10c74d3a1ad41_STjW3eH0Cik.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s4> <http://purl.org/dc/terms/publisher> "J. Schaeffer et al., hosted by McGill University" .
+<https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s4> <http://purl.org/dc/terms/title> "Checkers Is Solved (Science 317, 2007)" .
+<https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s4> <https://schema.org/url> "https://www.cs.mcgill.ca/~dprecup/courses/AI/Materials/checkers_is_solved.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s5> <http://purl.org/dc/terms/publisher> "D. Silver et al. (DeepMind), arXiv" .
+<https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s5> <http://purl.org/dc/terms/title> "Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm" .
+<https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s5> <https://schema.org/url> "https://arxiv.org/pdf/1712.01815" .
 <https://github.com/john1hsu/chess-graph/id/source/lucena-position/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
 <https://github.com/john1hsu/chess-graph/id/source/lucena-position/s1> <http://purl.org/dc/terms/title> "The Lucena Position" .
 <https://github.com/john1hsu/chess-graph/id/source/lucena-position/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

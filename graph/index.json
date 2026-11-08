@@ -104,6 +104,31 @@
     ]
   },
   {
+    "id": "kt:game-tree-search",
+    "title": "Game-tree search",
+    "aliases": [
+      "Game tree search",
+      "Game tree",
+      "Adversarial search",
+      "Search tree",
+      "Tree search in games"
+    ],
+    "type": "Algorithm",
+    "domain": "computer-chess",
+    "file": "articles/computer-chess/game-tree-search.md",
+    "created": "2026-11-08",
+    "verified": "2026-11-08",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://ics.uci.edu/~eppstein/180a/970417.html",
+      "https://ocw.mit.edu/courses/es-268-the-mathematics-in-toys-and-games-spring-2010/7e2bc0702dcc4718b597f3a98592aa09_MITES_268S10_Ses4_AI.pdf",
+      "https://live.ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/7524b662aa86938e45c10c74d3a1ad41_STjW3eH0Cik.pdf",
+      "https://www.cs.mcgill.ca/~dprecup/courses/AI/Materials/checkers_is_solved.pdf",
+      "https://arxiv.org/pdf/1712.01815"
+    ]
+  },
+  {
     "id": "kt:lucena-position",
     "title": "Lucena position",
     "aliases": [
