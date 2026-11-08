@@ -645,6 +645,91 @@
           "@id": "kt:quiescence-search"
         }
       ]
+    },
+    {
+      "@id": "kt:isolated-queens-pawn",
+      "@type": "kto:PawnStructure",
+      "skos:prefLabel": "Isolated queen's pawn",
+      "skos:definition": "A pawn structure in which one side has a d-pawn with no friendly pawns on the c- and e-files; it gives its owner space, open files and central outposts in exchange for a static weakness that can be blockaded and attacked, especially as pieces come off.",
+      "kto:domain": "middlegame-strategy",
+      "dcterms:created": "2026-11-08",
+      "kto:verified": "2026-11-08",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Isolated pawn",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/isolated-pawn/article-bibliography",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Isolani – beyond the cliches (sample pages)",
+          "dcterms:publisher": "Semko Semkov, Chess Stars (excerpt hosted by New In Chess)",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/89056.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The isolated d4-pawn / The isolated d5-pawn (sample pages of an isolated-pawn monograph)",
+          "dcterms:publisher": "New In Chess (product sample PDF)",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/7050.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Isolani Strategy: Strengths and Weaknesses of the Isolated Queen's Pawn",
+          "dcterms:publisher": "A. Beliavsky, A. Mikhalchishin, O. Stetsko, Russian Chess House (New In Chess product page)",
+          "schema:url": "https://www.newinchess.com/isolani-chess-strategy",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Isolated Queen's Pawn",
+          "dcterms:publisher": "Chess.com (Chess Terms)",
+          "schema:url": "https://www.chess.com/terms/isolated-queens-pawn-chess",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/middlegame-strategy/isolated-queens-pawn.md",
+      "skos:altLabel": [
+        "IQP",
+        "Isolani",
+        "Isolated d-pawn",
+        "Isolated queen pawn",
+        "Isolated d4-pawn",
+        "Isolated d5-pawn"
+      ],
+      "kto:fen": "rnbq1rk1/pp2bppp/4pn2/8/2BP4/2N2N2/PP3PPP/R1BQ1RK1 w - - 3 9",
+      "skos:broader": [
+        {
+          "@id": "kt:pawn-structure"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:tarrasch-defence"
+        },
+        {
+          "@id": "kt:caro-kann-defence"
+        },
+        {
+          "@id": "kt:queens-gambit-accepted"
+        },
+        {
+          "@id": "kt:outpost"
+        },
+        {
+          "@id": "kt:blockade"
+        }
+      ],
+      "kto:championedBy": [
+        {
+          "@id": "kt:siegbert-tarrasch"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:hanging-pawns"
+        }
+      ]
     }
   ]
 }

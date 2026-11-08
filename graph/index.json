@@ -129,6 +129,32 @@
     ]
   },
   {
+    "id": "kt:isolated-queens-pawn",
+    "title": "Isolated queen's pawn",
+    "aliases": [
+      "IQP",
+      "Isolani",
+      "Isolated d-pawn",
+      "Isolated queen pawn",
+      "Isolated d4-pawn",
+      "Isolated d5-pawn"
+    ],
+    "type": "PawnStructure",
+    "domain": "middlegame-strategy",
+    "file": "articles/middlegame-strategy/isolated-queens-pawn.md",
+    "created": "2026-11-08",
+    "verified": "2026-11-08",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.britannica.com/topic/isolated-pawn/article-bibliography",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/89056.pdf",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/7050.pdf",
+      "https://www.newinchess.com/isolani-chess-strategy",
+      "https://www.chess.com/terms/isolated-queens-pawn-chess"
+    ]
+  },
+  {
     "id": "kt:lucena-position",
     "title": "Lucena position",
     "aliases": [

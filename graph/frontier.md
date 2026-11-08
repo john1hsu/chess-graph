@@ -7,6 +7,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:claude-shannon` | `kt:evaluation-function`, `kt:game-tree-search`, `kt:minimax` |
 | `kt:monte-carlo-tree-search` | `kt:alpha-beta-pruning`, `kt:game-tree-search`, `kt:minimax` |
 | `kt:quiescence-search` | `kt:evaluation-function`, `kt:minimax`, `kt:deep-blue-versus-kasparov` |
+| `kt:caro-kann-defence` | `kt:deep-blue-versus-kasparov`, `kt:isolated-queens-pawn` |
 | `kt:fide` | `kt:elo-rating-system`, `kt:elo-rating-system` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:philidor-position` | `kt:lucena-position`, `kt:lucena-position` |
@@ -14,7 +15,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:transposition-table` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:alphazero` | `kt:evaluation-function` |
 | `kt:arpad-elo` | `kt:elo-rating-system` |
-| `kt:caro-kann-defence` | `kt:deep-blue-versus-kasparov` |
+| `kt:blockade` | `kt:isolated-queens-pawn` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
 | `kt:computer-chess` | `kt:game-tree-search` |
 | `kt:cutting-off-the-king` | `kt:lucena-position` |
@@ -22,6 +23,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:garry-kasparov` | `kt:deep-blue-versus-kasparov` |
 | `kt:glicko-rating-system` | `kt:elo-rating-system` |
 | `kt:grandmaster-title` | `kt:elo-rating-system` |
+| `kt:hanging-pawns` | `kt:isolated-queens-pawn` |
 | `kt:history-of-computer-chess` | `kt:deep-blue-versus-kasparov` |
 | `kt:horizon-effect` | `kt:minimax` |
 | `kt:john-mccarthy` | `kt:alpha-beta-pruning` |
@@ -31,8 +33,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:move-ordering` | `kt:alpha-beta-pruning` |
 | `kt:negamax` | `kt:minimax` |
 | `kt:nnue` | `kt:evaluation-function` |
+| `kt:outpost` | `kt:isolated-queens-pawn` |
 | `kt:pawn-promotion` | `kt:lucena-position` |
+| `kt:pawn-structure` | `kt:isolated-queens-pawn` |
 | `kt:proof-number-search` | `kt:game-tree-search` |
+| `kt:queens-gambit-accepted` | `kt:isolated-queens-pawn` |
 | `kt:rook-endgames` | `kt:lucena-position` |
+| `kt:siegbert-tarrasch` | `kt:isolated-queens-pawn` |
 | `kt:solving-chess` | `kt:game-tree-search` |
+| `kt:tarrasch-defence` | `kt:isolated-queens-pawn` |
 | `kt:us-chess` | `kt:elo-rating-system` |
