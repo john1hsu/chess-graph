@@ -178,6 +178,29 @@
     ]
   },
   {
+    "id": "kt:horizon-effect",
+    "title": "Horizon effect",
+    "aliases": [
+      "Horizon problem",
+      "Negative horizon effect",
+      "Positive horizon effect"
+    ],
+    "type": "Concept",
+    "domain": "computer-chess",
+    "file": "articles/computer-chess/horizon-effect.md",
+    "created": "2026-11-08",
+    "verified": "2026-11-08",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://apps.dtic.mil/sti/pdfs/AD0784881.pdf",
+      "https://mlanthology.org/ijcai/1973/berliner1973ijcai-some",
+      "https://webdocs.cs.ualberta.ca/~tony/RecentPapers/encyc.mac-1991.pdf",
+      "https://bkgm.com/articles/Berliner/ComputerBackgammon/",
+      "https://www.chessprogramming.org/Horizon_Effect"
+    ]
+  },
+  {
     "id": "kt:isolated-queens-pawn",
     "title": "Isolated queen's pawn",
     "aliases": [

@@ -191,6 +191,32 @@
 <https://github.com/john1hsu/chess-graph/id/game-tree-search> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/game-tree-search> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/transposition-table> .
 <https://github.com/john1hsu/chess-graph/id/game-tree-search> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/horizon-effect> <http://purl.org/dc/terms/created> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/horizon-effect> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Concept> .
+<https://github.com/john1hsu/chess-graph/id/horizon-effect> <http://www.w3.org/2000/01/rdf-schema#label> "Horizon effect" .
+<https://github.com/john1hsu/chess-graph/id/horizon-effect> <http://www.w3.org/2004/02/skos/core#altLabel> "Horizon problem" .
+<https://github.com/john1hsu/chess-graph/id/horizon-effect> <http://www.w3.org/2004/02/skos/core#altLabel> "Negative horizon effect" .
+<https://github.com/john1hsu/chess-graph/id/horizon-effect> <http://www.w3.org/2004/02/skos/core#altLabel> "Positive horizon effect" .
+<https://github.com/john1hsu/chess-graph/id/horizon-effect> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/game-tree-search> .
+<https://github.com/john1hsu/chess-graph/id/horizon-effect> <http://www.w3.org/2004/02/skos/core#definition> "The class of misjudgements a depth-limited game-tree search makes because it cannot see past its maximum search depth: it may push an unavoidable loss just beyond that horizon and believe it avoided, or grab a gain too early because its consequences lie out of sight." .
+<https://github.com/john1hsu/chess-graph/id/horizon-effect> <http://www.w3.org/2004/02/skos/core#prefLabel> "Horizon effect" .
+<https://github.com/john1hsu/chess-graph/id/horizon-effect> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/evaluation-function> .
+<https://github.com/john1hsu/chess-graph/id/horizon-effect> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/minimax> .
+<https://github.com/john1hsu/chess-graph/id/horizon-effect> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/quiescence-search> .
+<https://github.com/john1hsu/chess-graph/id/horizon-effect> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/singular-extensions> .
+<https://github.com/john1hsu/chess-graph/id/horizon-effect> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s1> .
+<https://github.com/john1hsu/chess-graph/id/horizon-effect> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s2> .
+<https://github.com/john1hsu/chess-graph/id/horizon-effect> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s3> .
+<https://github.com/john1hsu/chess-graph/id/horizon-effect> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s4> .
+<https://github.com/john1hsu/chess-graph/id/horizon-effect> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s5> .
+<https://github.com/john1hsu/chess-graph/id/horizon-effect> <https://github.com/john1hsu/chess-graph/ontology#counteredBy> <https://github.com/john1hsu/chess-graph/id/quiescence-search> .
+<https://github.com/john1hsu/chess-graph/id/horizon-effect> <https://github.com/john1hsu/chess-graph/ontology#counteredBy> <https://github.com/john1hsu/chess-graph/id/singular-extensions> .
+<https://github.com/john1hsu/chess-graph/id/horizon-effect> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/evaluation-function> .
+<https://github.com/john1hsu/chess-graph/id/horizon-effect> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/hans-berliner> .
+<https://github.com/john1hsu/chess-graph/id/horizon-effect> <https://github.com/john1hsu/chess-graph/ontology#domain> "computer-chess" .
+<https://github.com/john1hsu/chess-graph/id/horizon-effect> <https://github.com/john1hsu/chess-graph/ontology#fen> "5r1k/4Qpq1/4p3/1p1p2P1/2p2P2/1p2P3/3P4/BK6 b - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/horizon-effect> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/horizon-effect> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/isolated-queens-pawn> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/isolated-queens-pawn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#PawnStructure> .
 <https://github.com/john1hsu/chess-graph/id/isolated-queens-pawn> <http://www.w3.org/2000/01/rdf-schema#label> "Isolated queen's pawn" .
@@ -488,6 +514,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s5> <https://schema.org/url> "https://arxiv.org/pdf/1712.01815" .
+<https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s1> <http://purl.org/dc/terms/publisher> "Hans J. Berliner, Carnegie-Mellon University, via DTIC" .
+<https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s1> <http://purl.org/dc/terms/title> "Chess as Problem Solving: The Development of a Tactics Analyzer (PhD dissertation, March 1974)" .
+<https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s1> <https://schema.org/url> "https://apps.dtic.mil/sti/pdfs/AD0784881.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s2> <http://purl.org/dc/terms/publisher> "Hans J. Berliner, ML Anthology record" .
+<https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s2> <http://purl.org/dc/terms/title> "Some Necessary Conditions for a Master Chess Program (IJCAI 1973, pp. 77–85)" .
+<https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s2> <https://schema.org/url> "https://mlanthology.org/ijcai/1973/berliner1973ijcai-some" .
+<https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s3> <http://purl.org/dc/terms/publisher> "T. A. Marsland, University of Alberta" .
+<https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s3> <http://purl.org/dc/terms/title> "Computer Chess and Search (Encyclopedia of Artificial Intelligence, 2nd ed., report version 1991)" .
+<https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s3> <https://schema.org/url> "https://webdocs.cs.ualberta.ca/~tony/RecentPapers/encyc.mac-1991.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s4> <http://purl.org/dc/terms/publisher> "Hans J. Berliner, reproduced by bkgm.com" .
+<https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s4> <http://purl.org/dc/terms/title> "Computer Backgammon (Scientific American 242(6), 1980), reproduction" .
+<https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s4> <https://schema.org/url> "https://bkgm.com/articles/Berliner/ComputerBackgammon/" .
+<https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s5> <http://purl.org/dc/terms/publisher> "Chess Programming Wiki" .
+<https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s5> <http://purl.org/dc/terms/title> "Horizon Effect" .
+<https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s5> <https://schema.org/url> "https://www.chessprogramming.org/Horizon_Effect" .
 <https://github.com/john1hsu/chess-graph/id/source/isolated-queens-pawn/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/isolated-queens-pawn/s1> <http://purl.org/dc/terms/title> "Isolated pawn" .
 <https://github.com/john1hsu/chess-graph/id/source/isolated-queens-pawn/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

@@ -4,7 +4,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:horizon-effect` | `kt:claude-shannon`, `kt:minimax`, `kt:quiescence-search`, `kt:quiescence-search` |
 | `kt:monte-carlo-tree-search` | `kt:alpha-beta-pruning`, `kt:game-tree-search`, `kt:minimax` |
 | `kt:computer-chess` | `kt:claude-shannon`, `kt:game-tree-search` |
 | `kt:fide` | `kt:elo-rating-system`, `kt:elo-rating-system` |
@@ -14,6 +13,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:outpost` | `kt:isolated-queens-pawn`, `kt:wilhelm-steinitz` |
 | `kt:philidor-position` | `kt:lucena-position`, `kt:lucena-position` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
+| `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
 | `kt:transposition-table` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:adolf-anderssen` | `kt:wilhelm-steinitz` |
 | `kt:alphazero` | `kt:evaluation-function` |
@@ -29,6 +29,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:glicko-rating-system` | `kt:elo-rating-system` |
 | `kt:grandmaster-title` | `kt:elo-rating-system` |
 | `kt:hanging-pawns` | `kt:isolated-queens-pawn` |
+| `kt:hans-berliner` | `kt:horizon-effect` |
 | `kt:hastings-1895` | `kt:wilhelm-steinitz` |
 | `kt:horatio-caro` | `kt:caro-kann-defence` |
 | `kt:johannes-zukertort` | `kt:wilhelm-steinitz` |

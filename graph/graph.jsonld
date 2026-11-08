@@ -362,6 +362,93 @@
       ]
     },
     {
+      "@id": "kt:horizon-effect",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Horizon effect",
+      "skos:definition": "The class of misjudgements a depth-limited game-tree search makes because it cannot see past its maximum search depth: it may push an unavoidable loss just beyond that horizon and believe it avoided, or grab a gain too early because its consequences lie out of sight.",
+      "kto:domain": "computer-chess",
+      "dcterms:created": "2026-11-08",
+      "kto:verified": "2026-11-08",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Chess as Problem Solving: The Development of a Tactics Analyzer (PhD dissertation, March 1974)",
+          "dcterms:publisher": "Hans J. Berliner, Carnegie-Mellon University, via DTIC",
+          "schema:url": "https://apps.dtic.mil/sti/pdfs/AD0784881.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Some Necessary Conditions for a Master Chess Program (IJCAI 1973, pp. 77–85)",
+          "dcterms:publisher": "Hans J. Berliner, ML Anthology record",
+          "schema:url": "https://mlanthology.org/ijcai/1973/berliner1973ijcai-some",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Computer Chess and Search (Encyclopedia of Artificial Intelligence, 2nd ed., report version 1991)",
+          "dcterms:publisher": "T. A. Marsland, University of Alberta",
+          "schema:url": "https://webdocs.cs.ualberta.ca/~tony/RecentPapers/encyc.mac-1991.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Computer Backgammon (Scientific American 242(6), 1980), reproduction",
+          "dcterms:publisher": "Hans J. Berliner, reproduced by bkgm.com",
+          "schema:url": "https://bkgm.com/articles/Berliner/ComputerBackgammon/",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Horizon Effect",
+          "dcterms:publisher": "Chess Programming Wiki",
+          "schema:url": "https://www.chessprogramming.org/Horizon_Effect",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/computer-chess/horizon-effect.md",
+      "skos:altLabel": [
+        "Horizon problem",
+        "Negative horizon effect",
+        "Positive horizon effect"
+      ],
+      "kto:fen": "5r1k/4Qpq1/4p3/1p1p2P1/2p2P2/1p2P3/3P4/BK6 b - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:game-tree-search"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:quiescence-search"
+        },
+        {
+          "@id": "kt:minimax"
+        },
+        {
+          "@id": "kt:evaluation-function"
+        },
+        {
+          "@id": "kt:singular-extensions"
+        }
+      ],
+      "kto:counteredBy": [
+        {
+          "@id": "kt:quiescence-search"
+        },
+        {
+          "@id": "kt:singular-extensions"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:hans-berliner"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:evaluation-function"
+        }
+      ]
+    },
+    {
       "@id": "kt:minimax",
       "@type": "kto:Algorithm",
       "skos:prefLabel": "Minimax",
