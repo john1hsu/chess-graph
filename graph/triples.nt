@@ -329,6 +329,36 @@
 <https://github.com/john1hsu/chess-graph/id/minimax> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/john-von-neumann> .
 <https://github.com/john1hsu/chess-graph/id/minimax> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/minimax> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-07" .
+<https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <http://purl.org/dc/terms/created> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Algorithm> .
+<https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <http://www.w3.org/2000/01/rdf-schema#label> "Monte Carlo tree search" .
+<https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <http://www.w3.org/2004/02/skos/core#altLabel> "MCTS" .
+<https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <http://www.w3.org/2004/02/skos/core#altLabel> "Monte Carlo search" .
+<https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <http://www.w3.org/2004/02/skos/core#altLabel> "Monte-Carlo tree search" .
+<https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <http://www.w3.org/2004/02/skos/core#altLabel> "PUCT" .
+<https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <http://www.w3.org/2004/02/skos/core#altLabel> "UCT" .
+<https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <http://www.w3.org/2004/02/skos/core#altLabel> "Upper Confidence bounds applied to Trees" .
+<https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/game-tree-search> .
+<https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <http://www.w3.org/2004/02/skos/core#definition> "A best-first game-tree search that grows an uneven tree by repeated simulations: each iteration selects a path from the root, expands a new node, estimates its value (by a random playout or a neural network) and backs the result up as an average, so effort concentrates on promising moves." .
+<https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <http://www.w3.org/2004/02/skos/core#prefLabel> "Monte Carlo tree search" .
+<https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> .
+<https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/evaluation-function> .
+<https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/horizon-effect> .
+<https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/leela-chess-zero> .
+<https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/minimax> .
+<https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s1> .
+<https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s2> .
+<https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s3> .
+<https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s4> .
+<https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s5> .
+<https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> .
+<https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/minimax> .
+<https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/evaluation-function> .
+<https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/remi-coulom> .
+<https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/chess-graph/ontology#domain> "computer-chess" .
+<https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/chess-graph/ontology#fen> "6k1/1q3ppp/8/8/8/8/1P3PPP/3R2K1 b - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/quiescence-search> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/quiescence-search> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Algorithm> .
 <https://github.com/john1hsu/chess-graph/id/quiescence-search> <http://www.w3.org/2000/01/rdf-schema#label> "Quiescence search" .
@@ -677,6 +707,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/minimax/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/minimax/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
 <https://github.com/john1hsu/chess-graph/id/source/minimax/s5> <https://schema.org/url> "https://www.britannica.com/topic/mini-max-theorem" .
+<https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s1> <http://purl.org/dc/terms/publisher> "Rémi Coulom, author's page" .
+<https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s1> <http://purl.org/dc/terms/title> "Efficient Selectivity and Backup Operators in Monte-Carlo Tree Search (Computers and Games 2006)" .
+<https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s1> <https://schema.org/url> "https://remi-coulom.fr/CG2006" .
+<https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s2> <http://purl.org/dc/terms/publisher> "C. Browne, E. Powley, D. Whitehouse et al., copy hosted by UNAM" .
+<https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s2> <http://purl.org/dc/terms/title> "A Survey of Monte Carlo Tree Search Methods (IEEE Transactions on Computational Intelligence and AI in Games 4(1), March 2012)" .
+<https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s2> <https://schema.org/url> "https://turing.iimas.unam.mx/~luis/cursos/IA2022-1/lecturas/SurveyMCTS.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s3> <http://purl.org/dc/terms/publisher> "L. Kocsis and C. Szepesvári, University of Alberta PapersDB record" .
+<https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s3> <http://purl.org/dc/terms/title> "Bandit Based Monte-Carlo Planning (ECML 2006, pp. 282–293)" .
+<https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s3> <https://schema.org/url> "https://papersdb.cs.ualberta.ca/~papersdb/view_publication.php?pub_id=633" .
+<https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s4> <http://purl.org/dc/terms/publisher> "D. Silver, T. Hubert, J. Schrittwieser et al. (DeepMind), arXiv" .
+<https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s4> <http://purl.org/dc/terms/title> "Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm (arXiv:1712.01815, December 2017)" .
+<https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s4> <https://schema.org/url> "https://arxiv.org/pdf/1712.01815" .
+<https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s5> <http://purl.org/dc/terms/publisher> "Leela Chess Zero project" .
+<https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s5> <http://purl.org/dc/terms/title> "Lc0 developer overview" .
+<https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s5> <https://schema.org/url> "https://lczero.org/dev/overview" .
 <https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s1> <http://purl.org/dc/terms/publisher> "Claude E. Shannon, reproduced by Fermat's Library" .
 <https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s1> <http://purl.org/dc/terms/title> "Programming a Computer for Playing Chess (Philosophical Magazine, 1950), full text" .
 <https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

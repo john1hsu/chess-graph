@@ -542,6 +542,99 @@
       ]
     },
     {
+      "@id": "kt:monte-carlo-tree-search",
+      "@type": "kto:Algorithm",
+      "skos:prefLabel": "Monte Carlo tree search",
+      "skos:definition": "A best-first game-tree search that grows an uneven tree by repeated simulations: each iteration selects a path from the root, expands a new node, estimates its value (by a random playout or a neural network) and backs the result up as an average, so effort concentrates on promising moves.",
+      "kto:domain": "computer-chess",
+      "dcterms:created": "2026-11-08",
+      "kto:verified": "2026-11-08",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Efficient Selectivity and Backup Operators in Monte-Carlo Tree Search (Computers and Games 2006)",
+          "dcterms:publisher": "Rémi Coulom, author's page",
+          "schema:url": "https://remi-coulom.fr/CG2006",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "A Survey of Monte Carlo Tree Search Methods (IEEE Transactions on Computational Intelligence and AI in Games 4(1), March 2012)",
+          "dcterms:publisher": "C. Browne, E. Powley, D. Whitehouse et al., copy hosted by UNAM",
+          "schema:url": "https://turing.iimas.unam.mx/~luis/cursos/IA2022-1/lecturas/SurveyMCTS.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Bandit Based Monte-Carlo Planning (ECML 2006, pp. 282–293)",
+          "dcterms:publisher": "L. Kocsis and C. Szepesvári, University of Alberta PapersDB record",
+          "schema:url": "https://papersdb.cs.ualberta.ca/~papersdb/view_publication.php?pub_id=633",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm (arXiv:1712.01815, December 2017)",
+          "dcterms:publisher": "D. Silver, T. Hubert, J. Schrittwieser et al. (DeepMind), arXiv",
+          "schema:url": "https://arxiv.org/pdf/1712.01815",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Lc0 developer overview",
+          "dcterms:publisher": "Leela Chess Zero project",
+          "schema:url": "https://lczero.org/dev/overview",
+          "kto:sourceType": "official-project"
+        }
+      ],
+      "kto:file": "articles/computer-chess/monte-carlo-tree-search.md",
+      "skos:altLabel": [
+        "Monte-Carlo tree search",
+        "MCTS",
+        "UCT",
+        "Upper Confidence bounds applied to Trees",
+        "PUCT",
+        "Monte Carlo search"
+      ],
+      "kto:fen": "6k1/1q3ppp/8/8/8/8/1P3PPP/3R2K1 b - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:game-tree-search"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:minimax"
+        },
+        {
+          "@id": "kt:alpha-beta-pruning"
+        },
+        {
+          "@id": "kt:evaluation-function"
+        },
+        {
+          "@id": "kt:horizon-effect"
+        },
+        {
+          "@id": "kt:leela-chess-zero"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:alpha-beta-pruning"
+        },
+        {
+          "@id": "kt:minimax"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:remi-coulom"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:evaluation-function"
+        }
+      ]
+    },
+    {
       "@id": "kt:quiescence-search",
       "@type": "kto:Algorithm",
       "skos:prefLabel": "Quiescence search",

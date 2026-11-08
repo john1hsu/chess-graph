@@ -4,7 +4,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:monte-carlo-tree-search` | `kt:alpha-beta-pruning`, `kt:game-tree-search`, `kt:minimax` |
 | `kt:computer-chess` | `kt:claude-shannon`, `kt:game-tree-search` |
 | `kt:fide` | `kt:elo-rating-system`, `kt:elo-rating-system` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:deep-blue-versus-kasparov` |
@@ -39,6 +38,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:john-mccarthy` | `kt:alpha-beta-pruning` |
 | `kt:john-von-neumann` | `kt:minimax` |
 | `kt:king-and-pawn-endgames` | `kt:lucena-position` |
+| `kt:leela-chess-zero` | `kt:monte-carlo-tree-search` |
 | `kt:leonardo-torres-y-quevedo` | `kt:claude-shannon` |
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position` |
 | `kt:marcus-kann` | `kt:caro-kann-defence` |
@@ -50,6 +50,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pawn-structure` | `kt:isolated-queens-pawn` |
 | `kt:proof-number-search` | `kt:game-tree-search` |
 | `kt:queens-gambit-accepted` | `kt:isolated-queens-pawn` |
+| `kt:remi-coulom` | `kt:monte-carlo-tree-search` |
 | `kt:rook-endgames` | `kt:lucena-position` |
 | `kt:semi-open-games` | `kt:caro-kann-defence` |
 | `kt:sicilian-defence` | `kt:caro-kann-defence` |

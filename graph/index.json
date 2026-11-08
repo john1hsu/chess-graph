@@ -304,6 +304,32 @@
     ]
   },
   {
+    "id": "kt:monte-carlo-tree-search",
+    "title": "Monte Carlo tree search",
+    "aliases": [
+      "Monte-Carlo tree search",
+      "MCTS",
+      "UCT",
+      "Upper Confidence bounds applied to Trees",
+      "PUCT",
+      "Monte Carlo search"
+    ],
+    "type": "Algorithm",
+    "domain": "computer-chess",
+    "file": "articles/computer-chess/monte-carlo-tree-search.md",
+    "created": "2026-11-08",
+    "verified": "2026-11-08",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://remi-coulom.fr/CG2006",
+      "https://turing.iimas.unam.mx/~luis/cursos/IA2022-1/lecturas/SurveyMCTS.pdf",
+      "https://papersdb.cs.ualberta.ca/~papersdb/view_publication.php?pub_id=633",
+      "https://arxiv.org/pdf/1712.01815",
+      "https://lczero.org/dev/overview"
+    ]
+  },
+  {
     "id": "kt:quiescence-search",
     "title": "Quiescence search",
     "aliases": [
