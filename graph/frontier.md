@@ -4,11 +4,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:claude-shannon` | `kt:evaluation-function`, `kt:game-tree-search`, `kt:minimax` |
+| `kt:quiescence-search` | `kt:claude-shannon`, `kt:evaluation-function`, `kt:minimax`, `kt:deep-blue-versus-kasparov` |
 | `kt:monte-carlo-tree-search` | `kt:alpha-beta-pruning`, `kt:game-tree-search`, `kt:minimax` |
-| `kt:quiescence-search` | `kt:evaluation-function`, `kt:minimax`, `kt:deep-blue-versus-kasparov` |
 | `kt:caro-kann-defence` | `kt:deep-blue-versus-kasparov`, `kt:isolated-queens-pawn` |
+| `kt:computer-chess` | `kt:claude-shannon`, `kt:game-tree-search` |
 | `kt:fide` | `kt:elo-rating-system`, `kt:elo-rating-system` |
+| `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:deep-blue-versus-kasparov` |
+| `kt:horizon-effect` | `kt:claude-shannon`, `kt:minimax` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:philidor-position` | `kt:lucena-position`, `kt:lucena-position` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
@@ -17,18 +19,16 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:arpad-elo` | `kt:elo-rating-system` |
 | `kt:blockade` | `kt:isolated-queens-pawn` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
-| `kt:computer-chess` | `kt:game-tree-search` |
 | `kt:cutting-off-the-king` | `kt:lucena-position` |
 | `kt:deep-blue` | `kt:deep-blue-versus-kasparov` |
 | `kt:garry-kasparov` | `kt:deep-blue-versus-kasparov` |
 | `kt:glicko-rating-system` | `kt:elo-rating-system` |
 | `kt:grandmaster-title` | `kt:elo-rating-system` |
 | `kt:hanging-pawns` | `kt:isolated-queens-pawn` |
-| `kt:history-of-computer-chess` | `kt:deep-blue-versus-kasparov` |
-| `kt:horizon-effect` | `kt:minimax` |
 | `kt:john-mccarthy` | `kt:alpha-beta-pruning` |
 | `kt:john-von-neumann` | `kt:minimax` |
 | `kt:king-and-pawn-endgames` | `kt:lucena-position` |
+| `kt:leonardo-torres-y-quevedo` | `kt:claude-shannon` |
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position` |
 | `kt:move-ordering` | `kt:alpha-beta-pruning` |
 | `kt:negamax` | `kt:minimax` |

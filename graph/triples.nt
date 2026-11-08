@@ -26,6 +26,29 @@
 <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <https://github.com/john1hsu/chess-graph/ontology#fen> "r1bqkb1r/pppp1ppp/2n2n2/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 4 4" .
 <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-07" .
+<https://github.com/john1hsu/chess-graph/id/claude-shannon> <http://purl.org/dc/terms/created> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/claude-shannon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Person> .
+<https://github.com/john1hsu/chess-graph/id/claude-shannon> <http://www.w3.org/2000/01/rdf-schema#label> "Claude Shannon" .
+<https://github.com/john1hsu/chess-graph/id/claude-shannon> <http://www.w3.org/2004/02/skos/core#altLabel> "C. E. Shannon" .
+<https://github.com/john1hsu/chess-graph/id/claude-shannon> <http://www.w3.org/2004/02/skos/core#altLabel> "Claude E. Shannon" .
+<https://github.com/john1hsu/chess-graph/id/claude-shannon> <http://www.w3.org/2004/02/skos/core#altLabel> "Claude Elwood Shannon" .
+<https://github.com/john1hsu/chess-graph/id/claude-shannon> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/computer-chess> .
+<https://github.com/john1hsu/chess-graph/id/claude-shannon> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/history-of-computer-chess> .
+<https://github.com/john1hsu/chess-graph/id/claude-shannon> <http://www.w3.org/2004/02/skos/core#definition> "American mathematician and engineer (1916–2001), founder of information theory, whose 1950 paper \"Programming a Computer for Playing Chess\" set out the minimax search, evaluation function and Type A / Type B strategies on which chess programs have been built ever since." .
+<https://github.com/john1hsu/chess-graph/id/claude-shannon> <http://www.w3.org/2004/02/skos/core#prefLabel> "Claude Shannon" .
+<https://github.com/john1hsu/chess-graph/id/claude-shannon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/evaluation-function> .
+<https://github.com/john1hsu/chess-graph/id/claude-shannon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/game-tree-search> .
+<https://github.com/john1hsu/chess-graph/id/claude-shannon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/horizon-effect> .
+<https://github.com/john1hsu/chess-graph/id/claude-shannon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/minimax> .
+<https://github.com/john1hsu/chess-graph/id/claude-shannon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/quiescence-search> .
+<https://github.com/john1hsu/chess-graph/id/claude-shannon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s1> .
+<https://github.com/john1hsu/chess-graph/id/claude-shannon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s2> .
+<https://github.com/john1hsu/chess-graph/id/claude-shannon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s3> .
+<https://github.com/john1hsu/chess-graph/id/claude-shannon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s4> .
+<https://github.com/john1hsu/chess-graph/id/claude-shannon> <https://github.com/john1hsu/chess-graph/ontology#domain> "computer-chess" .
+<https://github.com/john1hsu/chess-graph/id/claude-shannon> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/leonardo-torres-y-quevedo> .
+<https://github.com/john1hsu/chess-graph/id/claude-shannon> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/claude-shannon> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <http://purl.org/dc/terms/created> "2026-11-07" .
 <https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Event> .
 <https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <http://www.w3.org/2000/01/rdf-schema#label> "Deep Blue versus Kasparov" .
@@ -247,6 +270,26 @@
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s5> <https://schema.org/url> "https://www.isa-afp.org/browser_info/current/AFP/Alpha_Beta_Pruning/document.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s1> <http://purl.org/dc/terms/publisher> "Claude E. Shannon, reproduced by Fermat's Library" .
+<https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s1> <http://purl.org/dc/terms/title> "Programming a Computer for Playing Chess (Philosophical Magazine, 1950), full text" .
+<https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s1> <https://schema.org/url> "https://fermatslibrary.com/s/programming-a-computer-for-playing-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s2> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s2> <http://purl.org/dc/terms/title> "Claude Shannon" .
+<https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s2> <https://schema.org/url> "https://www.britannica.com/print/article/538577" .
+<https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s3> <http://purl.org/dc/terms/publisher> "Computer History Museum (Mastering the Game exhibit)" .
+<https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s3> <http://purl.org/dc/terms/title> "Shannon and Lasker at Shannon's chess machine" .
+<https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s3> <https://schema.org/url> "https://www.computerhistory.org/chess/stl-430b9bbe92716/" .
+<https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s4> <http://purl.org/dc/terms/publisher> "Scientific American" .
+<https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s4> <http://purl.org/dc/terms/title> "A Chess-Playing Machine (Scientific American, February 1950), author listing" .
+<https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s4> <https://schema.org/url> "https://www.scientificamerican.com/author/claude-e-shannon" .
 <https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s1> <http://purl.org/dc/terms/publisher> "M. Campbell, A. J. Hoane Jr., F. Hsu (copy hosted by Northern Arizona University)" .
 <https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s1> <http://purl.org/dc/terms/title> "Deep Blue (Artificial Intelligence 134, 2002)" .
 <https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

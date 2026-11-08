@@ -24,6 +24,28 @@
     ]
   },
   {
+    "id": "kt:claude-shannon",
+    "title": "Claude Shannon",
+    "aliases": [
+      "Claude E. Shannon",
+      "Claude Elwood Shannon",
+      "C. E. Shannon"
+    ],
+    "type": "Person",
+    "domain": "computer-chess",
+    "file": "articles/computer-chess/claude-shannon.md",
+    "created": "2026-11-08",
+    "verified": "2026-11-08",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://fermatslibrary.com/s/programming-a-computer-for-playing-chess",
+      "https://www.britannica.com/print/article/538577",
+      "https://www.computerhistory.org/chess/stl-430b9bbe92716/",
+      "https://www.scientificamerican.com/author/claude-e-shannon"
+    ]
+  },
+  {
     "id": "kt:deep-blue-versus-kasparov",
     "title": "Deep Blue versus Kasparov",
     "aliases": [
