@@ -4,13 +4,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:quiescence-search` | `kt:claude-shannon`, `kt:evaluation-function`, `kt:minimax`, `kt:deep-blue-versus-kasparov` |
+| `kt:horizon-effect` | `kt:claude-shannon`, `kt:minimax`, `kt:quiescence-search`, `kt:quiescence-search` |
 | `kt:monte-carlo-tree-search` | `kt:alpha-beta-pruning`, `kt:game-tree-search`, `kt:minimax` |
 | `kt:computer-chess` | `kt:claude-shannon`, `kt:game-tree-search` |
 | `kt:fide` | `kt:elo-rating-system`, `kt:elo-rating-system` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:deep-blue-versus-kasparov` |
-| `kt:horizon-effect` | `kt:claude-shannon`, `kt:minimax` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
+| `kt:move-ordering` | `kt:alpha-beta-pruning`, `kt:quiescence-search` |
 | `kt:philidor-position` | `kt:lucena-position`, `kt:lucena-position` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
 | `kt:transposition-table` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
@@ -33,7 +33,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:leonardo-torres-y-quevedo` | `kt:claude-shannon` |
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position` |
 | `kt:marcus-kann` | `kt:caro-kann-defence` |
-| `kt:move-ordering` | `kt:alpha-beta-pruning` |
 | `kt:negamax` | `kt:minimax` |
 | `kt:nnue` | `kt:evaluation-function` |
 | `kt:outpost` | `kt:isolated-queens-pawn` |
@@ -47,5 +46,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:sicilian-defence` | `kt:caro-kann-defence` |
 | `kt:siegbert-tarrasch` | `kt:isolated-queens-pawn` |
 | `kt:solving-chess` | `kt:game-tree-search` |
+| `kt:static-exchange-evaluation` | `kt:quiescence-search` |
 | `kt:tarrasch-defence` | `kt:isolated-queens-pawn` |
 | `kt:us-chess` | `kt:elo-rating-system` |

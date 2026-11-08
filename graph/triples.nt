@@ -275,6 +275,34 @@
 <https://github.com/john1hsu/chess-graph/id/minimax> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/john-von-neumann> .
 <https://github.com/john1hsu/chess-graph/id/minimax> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/minimax> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-07" .
+<https://github.com/john1hsu/chess-graph/id/quiescence-search> <http://purl.org/dc/terms/created> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/quiescence-search> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Algorithm> .
+<https://github.com/john1hsu/chess-graph/id/quiescence-search> <http://www.w3.org/2000/01/rdf-schema#label> "Quiescence search" .
+<https://github.com/john1hsu/chess-graph/id/quiescence-search> <http://www.w3.org/2004/02/skos/core#altLabel> "Capture search" .
+<https://github.com/john1hsu/chess-graph/id/quiescence-search> <http://www.w3.org/2004/02/skos/core#altLabel> "Q-search" .
+<https://github.com/john1hsu/chess-graph/id/quiescence-search> <http://www.w3.org/2004/02/skos/core#altLabel> "Qsearch" .
+<https://github.com/john1hsu/chess-graph/id/quiescence-search> <http://www.w3.org/2004/02/skos/core#altLabel> "Quiescent search" .
+<https://github.com/john1hsu/chess-graph/id/quiescence-search> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/game-tree-search> .
+<https://github.com/john1hsu/chess-graph/id/quiescence-search> <http://www.w3.org/2004/02/skos/core#definition> "A selective extension at the leaves of a chess engine's main search that keeps exploring captures (and sometimes checks) until the position is quiet, so that the evaluation function is only applied to positions where no immediate tactic is about to change the score." .
+<https://github.com/john1hsu/chess-graph/id/quiescence-search> <http://www.w3.org/2004/02/skos/core#prefLabel> "Quiescence search" .
+<https://github.com/john1hsu/chess-graph/id/quiescence-search> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/evaluation-function> .
+<https://github.com/john1hsu/chess-graph/id/quiescence-search> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/horizon-effect> .
+<https://github.com/john1hsu/chess-graph/id/quiescence-search> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/move-ordering> .
+<https://github.com/john1hsu/chess-graph/id/quiescence-search> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/static-exchange-evaluation> .
+<https://github.com/john1hsu/chess-graph/id/quiescence-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s1> .
+<https://github.com/john1hsu/chess-graph/id/quiescence-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s2> .
+<https://github.com/john1hsu/chess-graph/id/quiescence-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s3> .
+<https://github.com/john1hsu/chess-graph/id/quiescence-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s4> .
+<https://github.com/john1hsu/chess-graph/id/quiescence-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s5> .
+<https://github.com/john1hsu/chess-graph/id/quiescence-search> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s6> .
+<https://github.com/john1hsu/chess-graph/id/quiescence-search> <https://github.com/john1hsu/chess-graph/ontology#counters> <https://github.com/john1hsu/chess-graph/id/horizon-effect> .
+<https://github.com/john1hsu/chess-graph/id/quiescence-search> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> .
+<https://github.com/john1hsu/chess-graph/id/quiescence-search> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/evaluation-function> .
+<https://github.com/john1hsu/chess-graph/id/quiescence-search> <https://github.com/john1hsu/chess-graph/ontology#domain> "computer-chess" .
+<https://github.com/john1hsu/chess-graph/id/quiescence-search> <https://github.com/john1hsu/chess-graph/ontology#fen> "r1bqkbnr/pppp1ppp/2n5/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR w KQkq - 2 3" .
+<https://github.com/john1hsu/chess-graph/id/quiescence-search> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/claude-shannon> .
+<https://github.com/john1hsu/chess-graph/id/quiescence-search> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/quiescence-search> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s1> <http://purl.org/dc/terms/publisher> "Computer History Museum (Mastering the Game exhibit)" .
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s1> <http://purl.org/dc/terms/title> "The Minimax Algorithm and Alpha-Beta Pruning" .
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -540,3 +568,33 @@
 <https://github.com/john1hsu/chess-graph/id/source/minimax/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/minimax/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
 <https://github.com/john1hsu/chess-graph/id/source/minimax/s5> <https://schema.org/url> "https://www.britannica.com/topic/mini-max-theorem" .
+<https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s1> <http://purl.org/dc/terms/publisher> "Claude E. Shannon, reproduced by Fermat's Library" .
+<https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s1> <http://purl.org/dc/terms/title> "Programming a Computer for Playing Chess (Philosophical Magazine, 1950), full text" .
+<https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s1> <https://schema.org/url> "https://fermatslibrary.com/s/programming-a-computer-for-playing-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s2> <http://purl.org/dc/terms/publisher> "Matthew Lai, arXiv:1509.01549" .
+<https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s2> <http://purl.org/dc/terms/title> "Giraffe: Using Deep Reinforcement Learning to Play Chess (MSc report, Imperial College London, 2015)" .
+<https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s2> <https://schema.org/url> "https://arxiv.org/pdf/1509.01549" .
+<https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s3> <http://purl.org/dc/terms/publisher> "David Eppstein, University of California, Irvine" .
+<https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s3> <http://purl.org/dc/terms/title> "ICS 180A, Strategy and board game programming: lecture notes, 29 April 1997" .
+<https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s3> <https://schema.org/url> "https://ics.uci.edu/~eppstein/180a/970429.html" .
+<https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s4> <http://purl.org/dc/terms/publisher> "Chess Programming Wiki" .
+<https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s4> <http://purl.org/dc/terms/title> "Quiescence Search" .
+<https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s4> <https://schema.org/url> "https://www.chessprogramming.org:443/Quiescence_Search" .
+<https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s5> <http://purl.org/dc/terms/publisher> "Scilit" .
+<https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s5> <http://purl.org/dc/terms/title> "A generalised quiescence search algorithm (Artificial Intelligence 43(1), 1990), bibliographic record" .
+<https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s5> <https://schema.org/url> "https://scilit.com/publications/0a2e67498063e52c5cd0434c81dc2819" .
+<https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s6> <http://purl.org/dc/terms/publisher> "Jonatan Pettersson, Mediocre Chess (SourceForge)" .
+<https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s6> <http://purl.org/dc/terms/title> "Guide: Quiescent search" .
+<https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s6> <https://schema.org/url> "https://mediocrechess.sourceforge.net/guides/quiescentsearch.html" .

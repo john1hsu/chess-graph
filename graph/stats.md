@@ -1,9 +1,9 @@
 # Graph statistics
 
-- Articles (nodes written): **10**
+- Articles (nodes written): **11**
 - Frontier nodes (referenced, unwritten): **45**
-- Edges: **84**
-- Citations: **53**
+- Edges: **93**
+- Citations: **59**
 
 - Weakly connected components: **3**
 - Isolated articles (no edges): **0**
@@ -12,35 +12,34 @@
 
 | Node | PageRank | Written |
 |---|---|---|
-| `kt:game-tree-search` | 0.0253 | yes |
-| `kt:minimax` | 0.0251 | yes |
-| `kt:quiescence-search` | 0.0247 | no |
-| `kt:alpha-beta-pruning` | 0.0245 | yes |
-| `kt:evaluation-function` | 0.0240 | yes |
-| `kt:claude-shannon` | 0.0225 | yes |
-| `kt:monte-carlo-tree-search` | 0.0222 | no |
-| `kt:horizon-effect` | 0.0198 | no |
-| `kt:iterative-deepening` | 0.0198 | no |
-| `kt:transposition-table` | 0.0198 | no |
-| `kt:computer-chess` | 0.0196 | no |
-| `kt:history-of-computer-chess` | 0.0195 | no |
-| `kt:caro-kann-defence` | 0.0189 | yes |
-| `kt:nnue` | 0.0179 | no |
-| `kt:alphazero` | 0.0179 | no |
+| `kt:game-tree-search` | 0.0285 | yes |
+| `kt:alpha-beta-pruning` | 0.0273 | yes |
+| `kt:evaluation-function` | 0.0267 | yes |
+| `kt:minimax` | 0.0255 | yes |
+| `kt:claude-shannon` | 0.0253 | yes |
+| `kt:quiescence-search` | 0.0246 | yes |
+| `kt:horizon-effect` | 0.0224 | no |
+| `kt:monte-carlo-tree-search` | 0.0220 | no |
+| `kt:move-ordering` | 0.0201 | no |
+| `kt:iterative-deepening` | 0.0196 | no |
+| `kt:transposition-table` | 0.0196 | no |
+| `kt:computer-chess` | 0.0194 | no |
+| `kt:history-of-computer-chess` | 0.0189 | no |
+| `kt:caro-kann-defence` | 0.0179 | yes |
+| `kt:nnue` | 0.0175 | no |
 
-## Communities (Louvain): 7
+## Communities (Louvain): 6
 
-1. `kt:alphazero`, `kt:claude-shannon`, `kt:computer-chess`, `kt:evaluation-function`, `kt:horizon-effect`, `kt:john-von-neumann`, `kt:leonardo-torres-y-quevedo`, `kt:minimax`, `kt:negamax`, `kt:nnue`, `kt:quiescence-search`
-2. `kt:alpha-beta-pruning`, `kt:game-tree-search`, `kt:iterative-deepening`, `kt:john-mccarthy`, `kt:monte-carlo-tree-search`, `kt:move-ordering`, `kt:principal-variation-search`, `kt:proof-number-search`, `kt:solving-chess`, `kt:transposition-table`
+1. `kt:alpha-beta-pruning`, `kt:claude-shannon`, `kt:computer-chess`, `kt:game-tree-search`, `kt:horizon-effect`, `kt:iterative-deepening`, `kt:john-mccarthy`, `kt:john-von-neumann`, `kt:leonardo-torres-y-quevedo`, `kt:minimax`, `kt:monte-carlo-tree-search`, `kt:move-ordering` …
+2. `kt:anatoly-karpov`, `kt:caro-kann-defence`, `kt:french-defence`, `kt:horatio-caro`, `kt:marcus-kann`, `kt:panov-botvinnik-attack`, `kt:semi-open-games`, `kt:sicilian-defence`
 3. `kt:blockade`, `kt:hanging-pawns`, `kt:isolated-queens-pawn`, `kt:outpost`, `kt:pawn-structure`, `kt:queens-gambit-accepted`, `kt:siegbert-tarrasch`, `kt:tarrasch-defence`
-4. `kt:anatoly-karpov`, `kt:caro-kann-defence`, `kt:french-defence`, `kt:horatio-caro`, `kt:marcus-kann`, `kt:panov-botvinnik-attack`, `kt:semi-open-games`, `kt:sicilian-defence`
-5. `kt:cutting-off-the-king`, `kt:king-and-pawn-endgames`, `kt:lucena-position`, `kt:luis-ramirez-de-lucena`, `kt:pawn-promotion`, `kt:philidor-position`, `kt:rook-endgames`
-6. `kt:arpad-elo`, `kt:chess-rating-systems`, `kt:elo-rating-system`, `kt:fide`, `kt:glicko-rating-system`, `kt:grandmaster-title`, `kt:us-chess`
-7. `kt:deep-blue`, `kt:deep-blue-versus-kasparov`, `kt:garry-kasparov`, `kt:history-of-computer-chess`
+4. `kt:cutting-off-the-king`, `kt:king-and-pawn-endgames`, `kt:lucena-position`, `kt:luis-ramirez-de-lucena`, `kt:pawn-promotion`, `kt:philidor-position`, `kt:rook-endgames`
+5. `kt:arpad-elo`, `kt:chess-rating-systems`, `kt:elo-rating-system`, `kt:fide`, `kt:glicko-rating-system`, `kt:grandmaster-title`, `kt:us-chess`
+6. `kt:alphazero`, `kt:deep-blue`, `kt:deep-blue-versus-kasparov`, `kt:evaluation-function`, `kt:garry-kasparov`, `kt:history-of-computer-chess`, `kt:nnue`
 
 ## By type
 
-- Algorithm: 4
+- Algorithm: 5
 - EndgameType: 1
 - Event: 1
 - Opening: 1
@@ -50,7 +49,7 @@
 
 ## By domain
 
-- computer-chess: 5
+- computer-chess: 6
 - endgames: 1
 - events-and-organizations: 1
 - history: 1
@@ -64,5 +63,5 @@
 
 ## By status
 
-- current: 8
+- current: 9
 - historical: 2

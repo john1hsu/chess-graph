@@ -253,5 +253,30 @@
       "https://ics.uci.edu/~eppstein/180a/970417.html",
       "https://www.britannica.com/topic/mini-max-theorem"
     ]
+  },
+  {
+    "id": "kt:quiescence-search",
+    "title": "Quiescence search",
+    "aliases": [
+      "Quiescent search",
+      "Q-search",
+      "Qsearch",
+      "Capture search"
+    ],
+    "type": "Algorithm",
+    "domain": "computer-chess",
+    "file": "articles/computer-chess/quiescence-search.md",
+    "created": "2026-11-08",
+    "verified": "2026-11-08",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://fermatslibrary.com/s/programming-a-computer-for-playing-chess",
+      "https://arxiv.org/pdf/1509.01549",
+      "https://ics.uci.edu/~eppstein/180a/970429.html",
+      "https://www.chessprogramming.org:443/Quiescence_Search",
+      "https://scilit.com/publications/0a2e67498063e52c5cd0434c81dc2819",
+      "https://mediocrechess.sourceforge.net/guides/quiescentsearch.html"
+    ]
   }
 ]

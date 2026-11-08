@@ -455,6 +455,100 @@
       ]
     },
     {
+      "@id": "kt:quiescence-search",
+      "@type": "kto:Algorithm",
+      "skos:prefLabel": "Quiescence search",
+      "skos:definition": "A selective extension at the leaves of a chess engine's main search that keeps exploring captures (and sometimes checks) until the position is quiet, so that the evaluation function is only applied to positions where no immediate tactic is about to change the score.",
+      "kto:domain": "computer-chess",
+      "dcterms:created": "2026-11-08",
+      "kto:verified": "2026-11-08",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Programming a Computer for Playing Chess (Philosophical Magazine, 1950), full text",
+          "dcterms:publisher": "Claude E. Shannon, reproduced by Fermat's Library",
+          "schema:url": "https://fermatslibrary.com/s/programming-a-computer-for-playing-chess",
+          "kto:sourceType": "primary-record"
+        },
+        {
+          "dcterms:title": "Giraffe: Using Deep Reinforcement Learning to Play Chess (MSc report, Imperial College London, 2015)",
+          "dcterms:publisher": "Matthew Lai, arXiv:1509.01549",
+          "schema:url": "https://arxiv.org/pdf/1509.01549",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "ICS 180A, Strategy and board game programming: lecture notes, 29 April 1997",
+          "dcterms:publisher": "David Eppstein, University of California, Irvine",
+          "schema:url": "https://ics.uci.edu/~eppstein/180a/970429.html",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Quiescence Search",
+          "dcterms:publisher": "Chess Programming Wiki",
+          "schema:url": "https://www.chessprogramming.org:443/Quiescence_Search",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "A generalised quiescence search algorithm (Artificial Intelligence 43(1), 1990), bibliographic record",
+          "dcterms:publisher": "Scilit",
+          "schema:url": "https://scilit.com/publications/0a2e67498063e52c5cd0434c81dc2819",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Guide: Quiescent search",
+          "dcterms:publisher": "Jonatan Pettersson, Mediocre Chess (SourceForge)",
+          "schema:url": "https://mediocrechess.sourceforge.net/guides/quiescentsearch.html",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/computer-chess/quiescence-search.md",
+      "skos:altLabel": [
+        "Quiescent search",
+        "Q-search",
+        "Qsearch",
+        "Capture search"
+      ],
+      "kto:fen": "r1bqkbnr/pppp1ppp/2n5/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR w KQkq - 2 3",
+      "skos:broader": [
+        {
+          "@id": "kt:game-tree-search"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:horizon-effect"
+        },
+        {
+          "@id": "kt:evaluation-function"
+        },
+        {
+          "@id": "kt:move-ordering"
+        },
+        {
+          "@id": "kt:static-exchange-evaluation"
+        }
+      ],
+      "kto:counters": [
+        {
+          "@id": "kt:horizon-effect"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:alpha-beta-pruning"
+        },
+        {
+          "@id": "kt:evaluation-function"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:claude-shannon"
+        }
+      ]
+    },
+    {
       "@id": "kt:lucena-position",
       "@type": "kto:EndgameType",
       "skos:prefLabel": "Lucena position",
