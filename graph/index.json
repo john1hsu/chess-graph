@@ -125,6 +125,32 @@
     ]
   },
   {
+    "id": "kt:en-passant",
+    "title": "En passant",
+    "aliases": [
+      "En passant capture",
+      "Capture en passant",
+      "e.p.",
+      "Prise en passant",
+      "In passing"
+    ],
+    "type": "Rule",
+    "domain": "rules-and-notation",
+    "file": "articles/rules-and-notation/en-passant.md",
+    "created": "2026-11-08",
+    "verified": "2026-11-08",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://handbook.fide.com/chapter/E012023",
+      "https://rcc.fide.com/laws-of-chess/",
+      "https://chesshistory.com/winter/extra/enpassant.html",
+      "https://new.uschess.org/news/evolution-modern-chess-rules-en-passant",
+      "https://www.britannica.com/topic/en-passant",
+      "https://chessprogramming.org/Forsyth-Edwards_Notation"
+    ]
+  },
+  {
     "id": "kt:evaluation-function",
     "title": "Evaluation function",
     "aliases": [

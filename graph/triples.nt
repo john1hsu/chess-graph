@@ -133,6 +133,34 @@
 <https://github.com/john1hsu/chess-graph/id/elo-rating-system> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/fide> .
 <https://github.com/john1hsu/chess-graph/id/elo-rating-system> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/elo-rating-system> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-07" .
+<https://github.com/john1hsu/chess-graph/id/en-passant> <http://purl.org/dc/terms/created> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/en-passant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Rule> .
+<https://github.com/john1hsu/chess-graph/id/en-passant> <http://www.w3.org/2000/01/rdf-schema#label> "En passant" .
+<https://github.com/john1hsu/chess-graph/id/en-passant> <http://www.w3.org/2004/02/skos/core#altLabel> "Capture en passant" .
+<https://github.com/john1hsu/chess-graph/id/en-passant> <http://www.w3.org/2004/02/skos/core#altLabel> "En passant capture" .
+<https://github.com/john1hsu/chess-graph/id/en-passant> <http://www.w3.org/2004/02/skos/core#altLabel> "In passing" .
+<https://github.com/john1hsu/chess-graph/id/en-passant> <http://www.w3.org/2004/02/skos/core#altLabel> "Prise en passant" .
+<https://github.com/john1hsu/chess-graph/id/en-passant> <http://www.w3.org/2004/02/skos/core#altLabel> "e.p." .
+<https://github.com/john1hsu/chess-graph/id/en-passant> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/en-passant> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/pawn> .
+<https://github.com/john1hsu/chess-graph/id/en-passant> <http://www.w3.org/2004/02/skos/core#definition> "The special pawn capture in which a pawn that has just advanced two squares from its starting square, landing beside an enemy pawn, may be taken by that pawn as though it had moved only one square; the capture is legal only on the very next move." .
+<https://github.com/john1hsu/chess-graph/id/en-passant> <http://www.w3.org/2004/02/skos/core#prefLabel> "En passant" .
+<https://github.com/john1hsu/chess-graph/id/en-passant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> .
+<https://github.com/john1hsu/chess-graph/id/en-passant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/pawn-promotion> .
+<https://github.com/john1hsu/chess-graph/id/en-passant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/stalemate> .
+<https://github.com/john1hsu/chess-graph/id/en-passant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/threefold-repetition> .
+<https://github.com/john1hsu/chess-graph/id/en-passant> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> .
+<https://github.com/john1hsu/chess-graph/id/en-passant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/en-passant/s1> .
+<https://github.com/john1hsu/chess-graph/id/en-passant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/en-passant/s2> .
+<https://github.com/john1hsu/chess-graph/id/en-passant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/en-passant/s3> .
+<https://github.com/john1hsu/chess-graph/id/en-passant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/en-passant/s4> .
+<https://github.com/john1hsu/chess-graph/id/en-passant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/en-passant/s5> .
+<https://github.com/john1hsu/chess-graph/id/en-passant> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/en-passant/s6> .
+<https://github.com/john1hsu/chess-graph/id/en-passant> <https://github.com/john1hsu/chess-graph/ontology#domain> "rules-and-notation" .
+<https://github.com/john1hsu/chess-graph/id/en-passant> <https://github.com/john1hsu/chess-graph/ontology#fen> "rnbqkbnr/ppp2ppp/4p3/3pP3/8/8/PPPP1PPP/RNBQKBNR w KQkq d6 0 3" .
+<https://github.com/john1hsu/chess-graph/id/en-passant> <https://github.com/john1hsu/chess-graph/ontology#moves> "1.e4 e6 2.e5 d5 3.exd6" .
+<https://github.com/john1hsu/chess-graph/id/en-passant> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/en-passant> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/evaluation-function> <http://purl.org/dc/terms/created> "2026-11-07" .
 <https://github.com/john1hsu/chess-graph/id/evaluation-function> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Algorithm> .
 <https://github.com/john1hsu/chess-graph/id/evaluation-function> <http://www.w3.org/2000/01/rdf-schema#label> "Evaluation function" .
@@ -454,6 +482,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s5> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/arpad-elo-and-the-elo-rating-system?page=0" .
+<https://github.com/john1hsu/chess-graph/id/source/en-passant/s1> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
+<https://github.com/john1hsu/chess-graph/id/source/en-passant/s1> <http://purl.org/dc/terms/title> "FIDE Laws of Chess (effective 1 January 2023), Articles 3.7 and 9.2" .
+<https://github.com/john1hsu/chess-graph/id/source/en-passant/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/en-passant/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/en-passant/s1> <https://schema.org/url> "https://handbook.fide.com/chapter/E012023" .
+<https://github.com/john1hsu/chess-graph/id/source/en-passant/s2> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/en-passant/s2> <http://purl.org/dc/terms/title> "Laws of Chess (2018–2023 texts; 2023 Laws in force)" .
+<https://github.com/john1hsu/chess-graph/id/source/en-passant/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/en-passant/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/en-passant/s2> <https://schema.org/url> "https://rcc.fide.com/laws-of-chess/" .
+<https://github.com/john1hsu/chess-graph/id/source/en-passant/s3> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/en-passant/s3> <http://purl.org/dc/terms/title> "En passant (Chess)" .
+<https://github.com/john1hsu/chess-graph/id/source/en-passant/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/en-passant/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/en-passant/s3> <https://schema.org/url> "https://chesshistory.com/winter/extra/enpassant.html" .
+<https://github.com/john1hsu/chess-graph/id/source/en-passant/s4> <http://purl.org/dc/terms/publisher> "John McCrary, US Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/en-passant/s4> <http://purl.org/dc/terms/title> "The Evolution of Modern Chess Rules: En Passant" .
+<https://github.com/john1hsu/chess-graph/id/source/en-passant/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/en-passant/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/en-passant/s4> <https://schema.org/url> "https://new.uschess.org/news/evolution-modern-chess-rules-en-passant" .
+<https://github.com/john1hsu/chess-graph/id/source/en-passant/s5> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/en-passant/s5> <http://purl.org/dc/terms/title> "en passant" .
+<https://github.com/john1hsu/chess-graph/id/source/en-passant/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/en-passant/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/en-passant/s5> <https://schema.org/url> "https://www.britannica.com/topic/en-passant" .
+<https://github.com/john1hsu/chess-graph/id/source/en-passant/s6> <http://purl.org/dc/terms/publisher> "Chess Programming Wiki" .
+<https://github.com/john1hsu/chess-graph/id/source/en-passant/s6> <http://purl.org/dc/terms/title> "Forsyth-Edwards Notation" .
+<https://github.com/john1hsu/chess-graph/id/source/en-passant/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/en-passant/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/en-passant/s6> <https://schema.org/url> "https://chessprogramming.org/Forsyth-Edwards_Notation" .
 <https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s1> <http://purl.org/dc/terms/publisher> "Claude E. Shannon, reproduced by Fermat's Library" .
 <https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s1> <http://purl.org/dc/terms/title> "Programming a Computer for Playing Chess (Philosophical Magazine, 1950), full text" .
 <https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

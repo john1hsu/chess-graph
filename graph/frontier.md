@@ -11,6 +11,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:move-ordering` | `kt:alpha-beta-pruning`, `kt:quiescence-search` |
 | `kt:outpost` | `kt:isolated-queens-pawn`, `kt:wilhelm-steinitz` |
+| `kt:pawn-promotion` | `kt:lucena-position`, `kt:en-passant` |
 | `kt:philidor-position` | `kt:lucena-position`, `kt:lucena-position` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
@@ -24,6 +25,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cutting-off-the-king` | `kt:lucena-position` |
 | `kt:deep-blue` | `kt:deep-blue-versus-kasparov` |
 | `kt:emanuel-lasker` | `kt:wilhelm-steinitz` |
+| `kt:fide-laws-of-chess` | `kt:en-passant` |
+| `kt:forsyth-edwards-notation` | `kt:en-passant` |
 | `kt:french-defence` | `kt:caro-kann-defence` |
 | `kt:garry-kasparov` | `kt:deep-blue-versus-kasparov` |
 | `kt:glicko-rating-system` | `kt:elo-rating-system` |
@@ -43,7 +46,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:negamax` | `kt:minimax` |
 | `kt:nnue` | `kt:evaluation-function` |
 | `kt:panov-botvinnik-attack` | `kt:caro-kann-defence` |
-| `kt:pawn-promotion` | `kt:lucena-position` |
+| `kt:pawn` | `kt:en-passant` |
 | `kt:pawn-structure` | `kt:isolated-queens-pawn` |
 | `kt:proof-number-search` | `kt:game-tree-search` |
 | `kt:queens-gambit-accepted` | `kt:isolated-queens-pawn` |
@@ -52,9 +55,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:sicilian-defence` | `kt:caro-kann-defence` |
 | `kt:siegbert-tarrasch` | `kt:isolated-queens-pawn` |
 | `kt:solving-chess` | `kt:game-tree-search` |
+| `kt:stalemate` | `kt:en-passant` |
 | `kt:static-exchange-evaluation` | `kt:quiescence-search` |
 | `kt:steinitz-von-bardeleben-hastings-1895` | `kt:wilhelm-steinitz` |
 | `kt:tarrasch-defence` | `kt:isolated-queens-pawn` |
+| `kt:threefold-repetition` | `kt:en-passant` |
 | `kt:us-chess` | `kt:elo-rating-system` |
 | `kt:world-chess-champion` | `kt:wilhelm-steinitz` |
 | `kt:world-chess-championship` | `kt:wilhelm-steinitz` |
