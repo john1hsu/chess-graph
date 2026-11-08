@@ -5,13 +5,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov` |
-| `kt:pawn-structure` | `kt:isolated-queens-pawn`, `kt:outpost`, `kt:outpost` |
 | `kt:touch-move` | `kt:castling`, `kt:castling`, `kt:fide-laws-of-chess` |
 | `kt:algebraic-notation` | `kt:castling`, `kt:fide-laws-of-chess` |
 | `kt:blockade` | `kt:isolated-queens-pawn`, `kt:outpost` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position` |
 | `kt:forsyth-edwards-notation` | `kt:en-passant`, `kt:chess960` |
+| `kt:francois-andre-danican-philidor` | `kt:philidor-position`, `kt:pawn-structure` |
 | `kt:grandmaster-title` | `kt:elo-rating-system`, `kt:fide` |
+| `kt:hanging-pawns` | `kt:isolated-queens-pawn`, `kt:pawn-structure` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:king-and-pawn-endgames` | `kt:lucena-position`, `kt:philidor-position` |
 | `kt:leela-chess-zero` | `kt:computer-chess`, `kt:monte-carlo-tree-search` |
@@ -38,11 +39,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:backward-pawn` | `kt:outpost` |
 | `kt:bobby-fischer` | `kt:chess960` |
 | `kt:candidates-tournament` | `kt:world-chess-championship` |
+| `kt:carlsbad-structure` | `kt:pawn-structure` |
 | `kt:chess` | `kt:fide-laws-of-chess` |
 | `kt:chess-expertise` | `kt:chunking-theory` |
 | `kt:chess-olympiad` | `kt:fide` |
 | `kt:chess-organizations` | `kt:fide` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
+| `kt:chess-strategy` | `kt:pawn-structure` |
 | `kt:chess-tactics` | `kt:fork` |
 | `kt:chess-variants` | `kt:chess960` |
 | `kt:cognitive-psychology-of-chess` | `kt:chunking-theory` |
@@ -58,13 +61,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fide-world-fischer-random-chess-championship` | `kt:chess960` |
 | `kt:fifty-move-rule` | `kt:fide-laws-of-chess` |
 | `kt:fischer-spassky-1972` | `kt:world-chess-championship` |
-| `kt:francois-andre-danican-philidor` | `kt:philidor-position` |
 | `kt:french-defence` | `kt:caro-kann-defence` |
 | `kt:garry-kasparov` | `kt:deep-blue-versus-kasparov` |
 | `kt:glicko-rating-system` | `kt:elo-rating-system` |
 | `kt:good-knight-versus-bad-bishop` | `kt:outpost` |
 | `kt:gukesh-dommaraju` | `kt:world-chess-championship` |
-| `kt:hanging-pawns` | `kt:isolated-queens-pawn` |
 | `kt:hans-berliner` | `kt:horizon-effect` |
 | `kt:hastings-1895` | `kt:wilhelm-steinitz` |
 | `kt:herbert-simon` | `kt:chunking-theory` |
@@ -79,6 +80,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:marcus-kann` | `kt:caro-kann-defence` |
 | `kt:material-advantage` | `kt:fork` |
 | `kt:mikhail-chigorin` | `kt:wilhelm-steinitz` |
+| `kt:minority-attack` | `kt:pawn-structure` |
 | `kt:negamax` | `kt:minimax` |
 | `kt:panov-botvinnik-attack` | `kt:caro-kann-defence` |
 | `kt:passed-pawn` | `kt:pawn-promotion` |

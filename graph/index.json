@@ -558,6 +558,31 @@
     ]
   },
   {
+    "id": "kt:pawn-structure",
+    "title": "Pawn structure",
+    "aliases": [
+      "Pawn formation",
+      "Pawn skeleton",
+      "Pawn configuration"
+    ],
+    "type": "StrategicConcept",
+    "domain": "middlegame-strategy",
+    "file": "articles/middlegame-strategy/pawn-structure.md",
+    "created": "2026-11-08",
+    "verified": "2026-11-08",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.britannica.com/topic/chess/Development-of-theory",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/7495.pdf",
+      "https://www.netgalley.co.uk/catalog/book/34358",
+      "https://www.chess.com/article/view/are-pawns-the-soul-of-chess",
+      "https://www.chess.com/terms/minority-attack-chess",
+      "https://www.chess.com/terms/types-of-pawns",
+      "https://en.chessbase.com/post/understanding-before-moving-96-queen-s-gambit-declined-3"
+    ]
+  },
+  {
     "id": "kt:philidor-position",
     "title": "Philidor position",
     "aliases": [

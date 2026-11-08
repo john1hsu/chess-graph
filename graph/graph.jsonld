@@ -1542,6 +1542,99 @@
       ]
     },
     {
+      "@id": "kt:pawn-structure",
+      "@type": "kto:StrategicConcept",
+      "skos:prefLabel": "Pawn structure",
+      "skos:definition": "The arrangement of both sides' pawns on the board, treated as a semi-permanent framework that decides which squares are strong or weak, where the pieces belong and which plans make sense.",
+      "kto:domain": "middlegame-strategy",
+      "dcterms:created": "2026-11-08",
+      "kto:verified": "2026-11-08",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Chess: Development of theory",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/chess/Development-of-theory",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Chess Structures: A Grandmaster Guide (sample pages)",
+          "dcterms:publisher": "Mauricio Flores Rios, Quality Chess (2014), excerpt hosted by New In Chess",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/7495.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Pawn Structure Chess (publisher's catalogue entry)",
+          "dcterms:publisher": "Andrew Soltis, Batsford / Anova Books (2013), via NetGalley",
+          "schema:url": "https://www.netgalley.co.uk/catalog/book/34358",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Are Pawns The Soul Of Chess?",
+          "dcterms:publisher": "GM Gregory Serper, Chess.com",
+          "schema:url": "https://www.chess.com/article/view/are-pawns-the-soul-of-chess",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Minority Attack",
+          "dcterms:publisher": "Chess.com (Chess Terms)",
+          "schema:url": "https://www.chess.com/terms/minority-attack-chess",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Pawn Types",
+          "dcterms:publisher": "Chess.com (Chess Terms)",
+          "schema:url": "https://www.chess.com/terms/types-of-pawns",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Understanding before Moving 96: Queen's Gambit Declined (3)",
+          "dcterms:publisher": "IM Herman Grooten, ChessBase News (30 October 2022)",
+          "schema:url": "https://en.chessbase.com/post/understanding-before-moving-96-queen-s-gambit-declined-3",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/middlegame-strategy/pawn-structure.md",
+      "skos:altLabel": [
+        "Pawn formation",
+        "Pawn skeleton",
+        "Pawn configuration"
+      ],
+      "kto:fen": "rnbqk2r/pp2bppp/2p2n2/3p2B1/3P4/2N1P3/PP3PPP/R2QKBNR w KQkq - 0 7",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-strategy"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:isolated-queens-pawn"
+        },
+        {
+          "@id": "kt:outpost"
+        },
+        {
+          "@id": "kt:hanging-pawns"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:carlsbad-structure"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:minority-attack"
+        }
+      ],
+      "kto:championedBy": [
+        {
+          "@id": "kt:francois-andre-danican-philidor"
+        }
+      ]
+    },
+    {
       "@id": "kt:caro-kann-defence",
       "@type": "kto:Opening",
       "skos:prefLabel": "Caro-Kann Defence",
