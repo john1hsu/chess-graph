@@ -23,7 +23,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:stalemate` | `kt:en-passant`, `kt:fide-laws-of-chess` |
 | `kt:threefold-repetition` | `kt:en-passant`, `kt:fide-laws-of-chess` |
 | `kt:transposition-table` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
-| `kt:world-chess-championship` | `kt:fide`, `kt:wilhelm-steinitz` |
+| `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:wilhelm-steinitz` |
+| `kt:world-chess-championship-1886` | `kt:world-chess-championship`, `kt:wilhelm-steinitz` |
 | `kt:adolf-anderssen` | `kt:wilhelm-steinitz` |
 | `kt:adriaan-de-groot` | `kt:chunking-theory` |
 | `kt:algebraic-notation` | `kt:fide-laws-of-chess` |
@@ -34,6 +35,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:artificial-intelligence` | `kt:computer-chess` |
 | `kt:blockade` | `kt:isolated-queens-pawn` |
 | `kt:bobby-fischer` | `kt:chess960` |
+| `kt:candidates-tournament` | `kt:world-chess-championship` |
 | `kt:chess` | `kt:fide-laws-of-chess` |
 | `kt:chess-expertise` | `kt:chunking-theory` |
 | `kt:chess-olympiad` | `kt:fide` |
@@ -53,14 +55,17 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:european-chess-union` | `kt:fide` |
 | `kt:fide-world-fischer-random-chess-championship` | `kt:chess960` |
 | `kt:fifty-move-rule` | `kt:fide-laws-of-chess` |
+| `kt:fischer-spassky-1972` | `kt:world-chess-championship` |
 | `kt:francois-andre-danican-philidor` | `kt:philidor-position` |
 | `kt:french-defence` | `kt:caro-kann-defence` |
 | `kt:garry-kasparov` | `kt:deep-blue-versus-kasparov` |
 | `kt:glicko-rating-system` | `kt:elo-rating-system` |
+| `kt:gukesh-dommaraju` | `kt:world-chess-championship` |
 | `kt:hanging-pawns` | `kt:isolated-queens-pawn` |
 | `kt:hans-berliner` | `kt:horizon-effect` |
 | `kt:hastings-1895` | `kt:wilhelm-steinitz` |
 | `kt:herbert-simon` | `kt:chunking-theory` |
+| `kt:history-of-chess` | `kt:world-chess-championship` |
 | `kt:horatio-caro` | `kt:caro-kann-defence` |
 | `kt:johannes-zukertort` | `kt:wilhelm-steinitz` |
 | `kt:john-mccarthy` | `kt:alpha-beta-pruning` |
@@ -96,6 +101,4 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:us-chess` | `kt:elo-rating-system` |
 | `kt:visualization` | `kt:chunking-theory` |
 | `kt:william-chase` | `kt:chunking-theory` |
-| `kt:world-chess-champion` | `kt:wilhelm-steinitz` |
-| `kt:world-chess-championship-1886` | `kt:wilhelm-steinitz` |
 | `kt:zwischenzug` | `kt:fork` |

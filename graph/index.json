@@ -578,5 +578,31 @@
       "https://en.chessbase.com/post/britannica-the-development-of-chess-theory-2",
       "https://www.irlchess.com/hastings/hastings1895_allfiles_v1.1/games_hastings1895/g106.htm"
     ]
+  },
+  {
+    "id": "kt:world-chess-championship",
+    "title": "World Chess Championship",
+    "aliases": [
+      "World Championship (chess)",
+      "FIDE World Championship",
+      "FIDE World Championship Match",
+      "World Chess Championship match",
+      "World Championship Match"
+    ],
+    "type": "Event",
+    "domain": "history",
+    "file": "articles/history/world-chess-championship.md",
+    "created": "2026-11-08",
+    "verified": "2026-11-08",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://worldchesshof.org/wp-content/uploads/2025/02/World-Chess-Championship-Timeline-1.pdf",
+      "https://museum.fide.com/exhibits/kramniks-trophy-for-winning-the-2006-world-championship-match",
+      "https://handbook.fide.com/files/handbook/FWCM2024.pdf",
+      "https://handbook.fide.com/files/handbook/Regulations_for_the_FIDE_Candidates_Tournament_2026.pdf",
+      "https://www.fide.com/fide-world-championship-game-14-gukesh-d-claims-title/",
+      "https://www.fide.com/geneva-to-host-fide-world-championship-match-2026/"
+    ]
   }
 ]

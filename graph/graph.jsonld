@@ -1271,6 +1271,100 @@
       ]
     },
     {
+      "@id": "kt:world-chess-championship",
+      "@type": "kto:Event",
+      "skos:prefLabel": "World Chess Championship",
+      "skos:definition": "The series of matches that decides the world chess champion, from the first official match between Wilhelm Steinitz and Johannes Zukertort in 1886 to the FIDE-run cycle of today, in which the winner of the Candidates Tournament challenges the reigning champion over 14 classical games.",
+      "kto:domain": "history",
+      "dcterms:created": "2026-11-08",
+      "kto:verified": "2026-11-08",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "World Chess Championship Timeline (exhibition panel, PDF)",
+          "dcterms:publisher": "World Chess Hall of Fame",
+          "schema:url": "https://worldchesshof.org/wp-content/uploads/2025/02/World-Chess-Championship-Timeline-1.pdf",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Trophy of the FIDE World Championship Match 2006",
+          "dcterms:publisher": "FIDE Open Chess Museum",
+          "schema:url": "https://museum.fide.com/exhibits/kramniks-trophy-for-winning-the-2006-world-championship-match",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Regulations for the FIDE World Championship Match 2024",
+          "dcterms:publisher": "FIDE Handbook",
+          "schema:url": "https://handbook.fide.com/files/handbook/FWCM2024.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Regulations for the FIDE Candidates Tournament 2026",
+          "dcterms:publisher": "FIDE Handbook",
+          "schema:url": "https://handbook.fide.com/files/handbook/Regulations_for_the_FIDE_Candidates_Tournament_2026.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "FIDE World Championship Game 14: Gukesh D claims title",
+          "dcterms:publisher": "FIDE",
+          "schema:url": "https://www.fide.com/fide-world-championship-game-14-gukesh-d-claims-title/",
+          "kto:sourceType": "primary-record"
+        },
+        {
+          "dcterms:title": "Geneva to host FIDE World Championship Match 2026",
+          "dcterms:publisher": "FIDE",
+          "schema:url": "https://www.fide.com/geneva-to-host-fide-world-championship-match-2026/",
+          "kto:sourceType": "governing-body"
+        }
+      ],
+      "kto:file": "articles/history/world-chess-championship.md",
+      "skos:altLabel": [
+        "World Championship (chess)",
+        "FIDE World Championship",
+        "FIDE World Championship Match",
+        "World Chess Championship match",
+        "World Championship Match"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:history-of-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:world-chess-champion"
+        },
+        {
+          "@id": "kt:wilhelm-steinitz"
+        },
+        {
+          "@id": "kt:candidates-tournament"
+        },
+        {
+          "@id": "kt:gukesh-dommaraju"
+        }
+      ],
+      "kto:sanctionedBy": [
+        {
+          "@id": "kt:fide"
+        }
+      ],
+      "kto:governedBy": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:world-chess-championship-1886"
+        },
+        {
+          "@id": "kt:fischer-spassky-1972"
+        }
+      ]
+    },
+    {
       "@id": "kt:isolated-queens-pawn",
       "@type": "kto:PawnStructure",
       "skos:prefLabel": "Isolated queen's pawn",

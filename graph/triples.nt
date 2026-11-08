@@ -1248,6 +1248,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
 <https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s7> <https://schema.org/url> "https://www.irlchess.com/hastings/hastings1895_allfiles_v1.1/games_hastings1895/g106.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s1> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s1> <http://purl.org/dc/terms/title> "World Chess Championship Timeline (exhibition panel, PDF)" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s1> <https://schema.org/url> "https://worldchesshof.org/wp-content/uploads/2025/02/World-Chess-Championship-Timeline-1.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s2> <http://purl.org/dc/terms/publisher> "FIDE Open Chess Museum" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s2> <http://purl.org/dc/terms/title> "Trophy of the FIDE World Championship Match 2006" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s2> <https://schema.org/url> "https://museum.fide.com/exhibits/kramniks-trophy-for-winning-the-2006-world-championship-match" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s3> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s3> <http://purl.org/dc/terms/title> "Regulations for the FIDE World Championship Match 2024" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s3> <https://schema.org/url> "https://handbook.fide.com/files/handbook/FWCM2024.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s4> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s4> <http://purl.org/dc/terms/title> "Regulations for the FIDE Candidates Tournament 2026" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s4> <https://schema.org/url> "https://handbook.fide.com/files/handbook/Regulations_for_the_FIDE_Candidates_Tournament_2026.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s5> <http://purl.org/dc/terms/publisher> "FIDE" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s5> <http://purl.org/dc/terms/title> "FIDE World Championship Game 14: Gukesh D claims title" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s5> <https://schema.org/url> "https://www.fide.com/fide-world-championship-game-14-gukesh-d-claims-title/" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s6> <http://purl.org/dc/terms/publisher> "FIDE" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s6> <http://purl.org/dc/terms/title> "Geneva to host FIDE World Championship Match 2026" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s6> <https://schema.org/url> "https://www.fide.com/geneva-to-host-fide-world-championship-match-2026/" .
 <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
 <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <http://www.w3.org/2000/01/rdf-schema#label> "Wilhelm Steinitz" .
@@ -1277,3 +1307,31 @@
 <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> .
 <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship> <http://purl.org/dc/terms/created> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Event> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship> <http://www.w3.org/2000/01/rdf-schema#label> "World Chess Championship" .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship> <http://www.w3.org/2004/02/skos/core#altLabel> "FIDE World Championship Match" .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship> <http://www.w3.org/2004/02/skos/core#altLabel> "FIDE World Championship" .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship> <http://www.w3.org/2004/02/skos/core#altLabel> "World Championship (chess)" .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship> <http://www.w3.org/2004/02/skos/core#altLabel> "World Championship Match" .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship> <http://www.w3.org/2004/02/skos/core#altLabel> "World Chess Championship match" .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/history-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship> <http://www.w3.org/2004/02/skos/core#definition> "The series of matches that decides the world chess champion, from the first official match between Wilhelm Steinitz and Johannes Zukertort in 1886 to the FIDE-run cycle of today, in which the winner of the Candidates Tournament challenges the reigning champion over 14 classical games." .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship> <http://www.w3.org/2004/02/skos/core#prefLabel> "World Chess Championship" .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/candidates-tournament> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/world-chess-champion> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s1> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s2> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s3> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s4> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s5> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s6> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship> <https://github.com/john1hsu/chess-graph/ontology#domain> "history" .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship> <https://github.com/john1hsu/chess-graph/ontology#governedBy> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/fide> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
