@@ -73,6 +73,30 @@
     ]
   },
   {
+    "id": "kt:computer-chess",
+    "title": "Computer chess",
+    "aliases": [
+      "Chess programming",
+      "Chess engines",
+      "Machine chess"
+    ],
+    "type": "Concept",
+    "domain": "computer-chess",
+    "file": "articles/computer-chess/computer-chess.md",
+    "created": "2026-11-08",
+    "verified": "2026-11-08",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.britannica.com/topic/chess/Chess-and-artificial-intelligence",
+      "https://www.computerhistory.org/chess/introduction/",
+      "https://www.computerhistory.org/chess/chess-for-everyone/",
+      "https://stockfishchess.org/blog/2020/introducing-nnue-evaluation/",
+      "https://ar5iv.labs.arxiv.org/html/1712.01815",
+      "https://lczero.org/dev/wiki/what-is-lc0"
+    ]
+  },
+  {
     "id": "kt:deep-blue-versus-kasparov",
     "title": "Deep Blue versus Kasparov",
     "aliases": [

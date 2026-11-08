@@ -4,11 +4,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:computer-chess` | `kt:claude-shannon`, `kt:game-tree-search` |
+| `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov` |
 | `kt:fide` | `kt:elo-rating-system`, `kt:elo-rating-system` |
-| `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:deep-blue-versus-kasparov` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
+| `kt:leela-chess-zero` | `kt:computer-chess`, `kt:monte-carlo-tree-search` |
 | `kt:move-ordering` | `kt:alpha-beta-pruning`, `kt:quiescence-search` |
+| `kt:nnue` | `kt:computer-chess`, `kt:evaluation-function` |
 | `kt:outpost` | `kt:isolated-queens-pawn`, `kt:wilhelm-steinitz` |
 | `kt:pawn-promotion` | `kt:lucena-position`, `kt:en-passant` |
 | `kt:philidor-position` | `kt:lucena-position`, `kt:lucena-position` |
@@ -20,6 +21,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alphazero` | `kt:evaluation-function` |
 | `kt:anatoly-karpov` | `kt:caro-kann-defence` |
 | `kt:arpad-elo` | `kt:elo-rating-system` |
+| `kt:artificial-intelligence` | `kt:computer-chess` |
 | `kt:blockade` | `kt:isolated-queens-pawn` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
 | `kt:chess-tactics` | `kt:fork` |
@@ -29,6 +31,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:discovered-attack` | `kt:fork` |
 | `kt:double-check` | `kt:fork` |
 | `kt:emanuel-lasker` | `kt:wilhelm-steinitz` |
+| `kt:endgame-tablebases` | `kt:computer-chess` |
 | `kt:fide-laws-of-chess` | `kt:en-passant` |
 | `kt:forsyth-edwards-notation` | `kt:en-passant` |
 | `kt:french-defence` | `kt:caro-kann-defence` |
@@ -43,14 +46,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:john-mccarthy` | `kt:alpha-beta-pruning` |
 | `kt:john-von-neumann` | `kt:minimax` |
 | `kt:king-and-pawn-endgames` | `kt:lucena-position` |
-| `kt:leela-chess-zero` | `kt:monte-carlo-tree-search` |
 | `kt:leonardo-torres-y-quevedo` | `kt:claude-shannon` |
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position` |
 | `kt:marcus-kann` | `kt:caro-kann-defence` |
 | `kt:material-advantage` | `kt:fork` |
 | `kt:mikhail-chigorin` | `kt:wilhelm-steinitz` |
 | `kt:negamax` | `kt:minimax` |
-| `kt:nnue` | `kt:evaluation-function` |
 | `kt:panov-botvinnik-attack` | `kt:caro-kann-defence` |
 | `kt:pawn` | `kt:en-passant` |
 | `kt:pawn-structure` | `kt:isolated-queens-pawn` |
@@ -66,6 +67,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:stalemate` | `kt:en-passant` |
 | `kt:static-exchange-evaluation` | `kt:quiescence-search` |
 | `kt:steinitz-von-bardeleben-hastings-1895` | `kt:wilhelm-steinitz` |
+| `kt:stockfish` | `kt:computer-chess` |
 | `kt:tarrasch-defence` | `kt:isolated-queens-pawn` |
 | `kt:threefold-repetition` | `kt:en-passant` |
 | `kt:us-chess` | `kt:elo-rating-system` |

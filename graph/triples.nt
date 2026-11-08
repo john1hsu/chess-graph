@@ -79,6 +79,36 @@
 <https://github.com/john1hsu/chess-graph/id/claude-shannon> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/leonardo-torres-y-quevedo> .
 <https://github.com/john1hsu/chess-graph/id/claude-shannon> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/claude-shannon> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/computer-chess> <http://purl.org/dc/terms/created> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/computer-chess> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Concept> .
+<https://github.com/john1hsu/chess-graph/id/computer-chess> <http://www.w3.org/2000/01/rdf-schema#label> "Computer chess" .
+<https://github.com/john1hsu/chess-graph/id/computer-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess engines" .
+<https://github.com/john1hsu/chess-graph/id/computer-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess programming" .
+<https://github.com/john1hsu/chess-graph/id/computer-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Machine chess" .
+<https://github.com/john1hsu/chess-graph/id/computer-chess> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/artificial-intelligence> .
+<https://github.com/john1hsu/chess-graph/id/computer-chess> <http://www.w3.org/2004/02/skos/core#definition> "The design and study of machines and programs that play or analyse chess, from early mechanical and electromechanical devices through search-based programs to today's neural-network engines, and the effects those programs have had on human play, preparation and endgame knowledge." .
+<https://github.com/john1hsu/chess-graph/id/computer-chess> <http://www.w3.org/2004/02/skos/core#prefLabel> "Computer chess" .
+<https://github.com/john1hsu/chess-graph/id/computer-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/claude-shannon> .
+<https://github.com/john1hsu/chess-graph/id/computer-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> .
+<https://github.com/john1hsu/chess-graph/id/computer-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/endgame-tablebases> .
+<https://github.com/john1hsu/chess-graph/id/computer-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/history-of-computer-chess> .
+<https://github.com/john1hsu/chess-graph/id/computer-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/leela-chess-zero> .
+<https://github.com/john1hsu/chess-graph/id/computer-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/stockfish> .
+<https://github.com/john1hsu/chess-graph/id/computer-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/computer-chess/s1> .
+<https://github.com/john1hsu/chess-graph/id/computer-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/computer-chess/s2> .
+<https://github.com/john1hsu/chess-graph/id/computer-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/computer-chess/s3> .
+<https://github.com/john1hsu/chess-graph/id/computer-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/computer-chess/s4> .
+<https://github.com/john1hsu/chess-graph/id/computer-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/computer-chess/s5> .
+<https://github.com/john1hsu/chess-graph/id/computer-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/computer-chess/s6> .
+<https://github.com/john1hsu/chess-graph/id/computer-chess> <https://github.com/john1hsu/chess-graph/ontology#domain> "computer-chess" .
+<https://github.com/john1hsu/chess-graph/id/computer-chess> <https://github.com/john1hsu/chess-graph/ontology#fen> "8/8/8/8/3k4/8/8/R3K3 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/computer-chess> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/evaluation-function> .
+<https://github.com/john1hsu/chess-graph/id/computer-chess> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/game-tree-search> .
+<https://github.com/john1hsu/chess-graph/id/computer-chess> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/computer-chess> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> .
+<https://github.com/john1hsu/chess-graph/id/computer-chess> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> .
+<https://github.com/john1hsu/chess-graph/id/computer-chess> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/nnue> .
+<https://github.com/john1hsu/chess-graph/id/computer-chess> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <http://purl.org/dc/terms/created> "2026-11-07" .
 <https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Event> .
 <https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <http://www.w3.org/2000/01/rdf-schema#label> "Deep Blue versus Kasparov" .
@@ -486,6 +516,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s4> <https://schema.org/url> "https://www.scientificamerican.com/author/claude-e-shannon" .
+<https://github.com/john1hsu/chess-graph/id/source/computer-chess/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/computer-chess/s1> <http://purl.org/dc/terms/title> "Chess: Chess and artificial intelligence" .
+<https://github.com/john1hsu/chess-graph/id/source/computer-chess/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/computer-chess/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/computer-chess/s1> <https://schema.org/url> "https://www.britannica.com/topic/chess/Chess-and-artificial-intelligence" .
+<https://github.com/john1hsu/chess-graph/id/source/computer-chess/s2> <http://purl.org/dc/terms/publisher> "Computer History Museum" .
+<https://github.com/john1hsu/chess-graph/id/source/computer-chess/s2> <http://purl.org/dc/terms/title> "Mastering the Game: A History of Computer Chess — Introduction" .
+<https://github.com/john1hsu/chess-graph/id/source/computer-chess/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/computer-chess/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/computer-chess/s2> <https://schema.org/url> "https://www.computerhistory.org/chess/introduction/" .
+<https://github.com/john1hsu/chess-graph/id/source/computer-chess/s3> <http://purl.org/dc/terms/publisher> "Computer History Museum" .
+<https://github.com/john1hsu/chess-graph/id/source/computer-chess/s3> <http://purl.org/dc/terms/title> "Mastering the Game: A History of Computer Chess — Chess for Everyone" .
+<https://github.com/john1hsu/chess-graph/id/source/computer-chess/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/computer-chess/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/computer-chess/s3> <https://schema.org/url> "https://www.computerhistory.org/chess/chess-for-everyone/" .
+<https://github.com/john1hsu/chess-graph/id/source/computer-chess/s4> <http://purl.org/dc/terms/publisher> "The Stockfish developers" .
+<https://github.com/john1hsu/chess-graph/id/source/computer-chess/s4> <http://purl.org/dc/terms/title> "Introducing NNUE Evaluation (7 August 2020)" .
+<https://github.com/john1hsu/chess-graph/id/source/computer-chess/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/computer-chess/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/computer-chess/s4> <https://schema.org/url> "https://stockfishchess.org/blog/2020/introducing-nnue-evaluation/" .
+<https://github.com/john1hsu/chess-graph/id/source/computer-chess/s5> <http://purl.org/dc/terms/publisher> "D. Silver et al., DeepMind, via arXiv (ar5iv full text)" .
+<https://github.com/john1hsu/chess-graph/id/source/computer-chess/s5> <http://purl.org/dc/terms/title> "Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm (arXiv:1712.01815, December 2017)" .
+<https://github.com/john1hsu/chess-graph/id/source/computer-chess/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/computer-chess/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/computer-chess/s5> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/1712.01815" .
+<https://github.com/john1hsu/chess-graph/id/source/computer-chess/s6> <http://purl.org/dc/terms/publisher> "The Leela Chess Zero project" .
+<https://github.com/john1hsu/chess-graph/id/source/computer-chess/s6> <http://purl.org/dc/terms/title> "What is Lc0?" .
+<https://github.com/john1hsu/chess-graph/id/source/computer-chess/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/computer-chess/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/computer-chess/s6> <https://schema.org/url> "https://lczero.org/dev/wiki/what-is-lc0" .
 <https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s1> <http://purl.org/dc/terms/publisher> "M. Campbell, A. J. Hoane Jr., F. Hsu (copy hosted by Northern Arizona University)" .
 <https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s1> <http://purl.org/dc/terms/title> "Deep Blue (Artificial Intelligence 134, 2002)" .
 <https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
