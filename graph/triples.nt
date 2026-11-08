@@ -56,6 +56,36 @@
 <https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <https://github.com/john1hsu/chess-graph/ontology#namedAfter> <https://github.com/john1hsu/chess-graph/id/marcus-kann> .
 <https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/chess960> <http://purl.org/dc/terms/created> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/chess960> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Variant> .
+<https://github.com/john1hsu/chess-graph/id/chess960> <http://www.w3.org/2000/01/rdf-schema#label> "Chess960" .
+<https://github.com/john1hsu/chess-graph/id/chess960> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess 960" .
+<https://github.com/john1hsu/chess-graph/id/chess960> <http://www.w3.org/2004/02/skos/core#altLabel> "FRC" .
+<https://github.com/john1hsu/chess-graph/id/chess960> <http://www.w3.org/2004/02/skos/core#altLabel> "Fischer Random Chess" .
+<https://github.com/john1hsu/chess-graph/id/chess960> <http://www.w3.org/2004/02/skos/core#altLabel> "Fischer Random" .
+<https://github.com/john1hsu/chess-graph/id/chess960> <http://www.w3.org/2004/02/skos/core#altLabel> "Fischer chess" .
+<https://github.com/john1hsu/chess-graph/id/chess960> <http://www.w3.org/2004/02/skos/core#altLabel> "Fischerandom" .
+<https://github.com/john1hsu/chess-graph/id/chess960> <http://www.w3.org/2004/02/skos/core#altLabel> "Freestyle Chess" .
+<https://github.com/john1hsu/chess-graph/id/chess960> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-variants> .
+<https://github.com/john1hsu/chess-graph/id/chess960> <http://www.w3.org/2004/02/skos/core#definition> "A chess variant devised by Bobby Fischer in which the pieces on the back rank are shuffled before each game, under constraints that keep castling possible and the bishops on opposite colours, giving 960 possible starting positions; all other rules are those of standard chess." .
+<https://github.com/john1hsu/chess-graph/id/chess960> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chess960" .
+<https://github.com/john1hsu/chess-graph/id/chess960> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/castling> .
+<https://github.com/john1hsu/chess-graph/id/chess960> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fide-world-fischer-random-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/chess960> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> .
+<https://github.com/john1hsu/chess-graph/id/chess960> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/universal-chess-interface> .
+<https://github.com/john1hsu/chess-graph/id/chess960> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess960/s1> .
+<https://github.com/john1hsu/chess-graph/id/chess960> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess960/s2> .
+<https://github.com/john1hsu/chess-graph/id/chess960> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess960/s3> .
+<https://github.com/john1hsu/chess-graph/id/chess960> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess960/s4> .
+<https://github.com/john1hsu/chess-graph/id/chess960> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess960/s5> .
+<https://github.com/john1hsu/chess-graph/id/chess960> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess960/s6> .
+<https://github.com/john1hsu/chess-graph/id/chess960> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/bobby-fischer> .
+<https://github.com/john1hsu/chess-graph/id/chess960> <https://github.com/john1hsu/chess-graph/ontology#domain> "variants-and-compositions" .
+<https://github.com/john1hsu/chess-graph/id/chess960> <https://github.com/john1hsu/chess-graph/ontology#governedBy> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/chess960> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/shuffle-chess> .
+<https://github.com/john1hsu/chess-graph/id/chess960> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/fide> .
+<https://github.com/john1hsu/chess-graph/id/chess960> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/chess960> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/chunking-theory> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/chunking-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#CognitiveConcept> .
 <https://github.com/john1hsu/chess-graph/id/chunking-theory> <http://www.w3.org/2000/01/rdf-schema#label> "Chunking theory" .
@@ -550,6 +580,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
 <https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s5> <https://schema.org/url> "https://chessgames.com/perl/chessopening?eco=B10" .
+<https://github.com/john1hsu/chess-graph/id/source/chess960/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/chess960/s1> <http://purl.org/dc/terms/title> "FIDE Laws of Chess, Guidelines II. Chess960 Rules" .
+<https://github.com/john1hsu/chess-graph/id/source/chess960/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess960/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/chess960/s1> <https://schema.org/url> "https://rcc.fide.com/guidelinesii/" .
+<https://github.com/john1hsu/chess-graph/id/source/chess960/s2> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/chess960/s2> <http://purl.org/dc/terms/title> "Chess960" .
+<https://github.com/john1hsu/chess-graph/id/source/chess960/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess960/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/chess960/s2> <https://schema.org/url> "https://britannica.com/topic/chess960" .
+<https://github.com/john1hsu/chess-graph/id/source/chess960/s3> <http://purl.org/dc/terms/publisher> "Susan Polgar, FIDE (fide.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess960/s3> <http://purl.org/dc/terms/title> "History of Chess960" .
+<https://github.com/john1hsu/chess-graph/id/source/chess960/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess960/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/chess960/s3> <https://schema.org/url> "https://www.fide.com/history-of-chess960/" .
+<https://github.com/john1hsu/chess-graph/id/source/chess960/s4> <http://purl.org/dc/terms/publisher> "FIDE" .
+<https://github.com/john1hsu/chess-graph/id/source/chess960/s4> <http://purl.org/dc/terms/title> "Wesley So to defend his FIDE World Fischer Random title" .
+<https://github.com/john1hsu/chess-graph/id/source/chess960/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess960/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/chess960/s4> <https://schema.org/url> "https://www.fide.com/wesley-so-to-defend-his-fide-world-fischer-random-title/" .
+<https://github.com/john1hsu/chess-graph/id/source/chess960/s5> <http://purl.org/dc/terms/publisher> "Jack Rodgers, Chess.com News" .
+<https://github.com/john1hsu/chess-graph/id/source/chess960/s5> <http://purl.org/dc/terms/title> "Hikaru Nakamura Wins Fischer Random World Championship" .
+<https://github.com/john1hsu/chess-graph/id/source/chess960/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess960/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/chess960/s5> <https://schema.org/url> "https://www.chess.com/news/view/wins-fischer-random-world-championship-final-hikaru-nakamura" .
+<https://github.com/john1hsu/chess-graph/id/source/chess960/s6> <http://purl.org/dc/terms/publisher> "Chess Programming Wiki" .
+<https://github.com/john1hsu/chess-graph/id/source/chess960/s6> <http://purl.org/dc/terms/title> "Chess960" .
+<https://github.com/john1hsu/chess-graph/id/source/chess960/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess960/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/chess960/s6> <https://schema.org/url> "https://www.chessprogramming.org/Chess960" .
 <https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s1> <http://purl.org/dc/terms/publisher> "Peter C. R. Lane and Fernand Gobet, University of Hertfordshire Research Archive" .
 <https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s1> <http://purl.org/dc/terms/title> "Perception in chess and beyond: Commentary on Linhares and Freitas (2010) (New Ideas in Psychology 29, 156-161)" .
 <https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

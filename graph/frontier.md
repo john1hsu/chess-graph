@@ -4,8 +4,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
+| `kt:fide-laws-of-chess` | `kt:fide`, `kt:en-passant`, `kt:chess960` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov` |
-| `kt:fide-laws-of-chess` | `kt:fide`, `kt:en-passant` |
+| `kt:forsyth-edwards-notation` | `kt:en-passant`, `kt:chess960` |
 | `kt:grandmaster-title` | `kt:elo-rating-system`, `kt:fide` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:leela-chess-zero` | `kt:computer-chess`, `kt:monte-carlo-tree-search` |
@@ -26,11 +27,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:arpad-elo` | `kt:elo-rating-system` |
 | `kt:artificial-intelligence` | `kt:computer-chess` |
 | `kt:blockade` | `kt:isolated-queens-pawn` |
+| `kt:bobby-fischer` | `kt:chess960` |
+| `kt:castling` | `kt:chess960` |
 | `kt:chess-expertise` | `kt:chunking-theory` |
 | `kt:chess-olympiad` | `kt:fide` |
 | `kt:chess-organizations` | `kt:fide` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
 | `kt:chess-tactics` | `kt:fork` |
+| `kt:chess-variants` | `kt:chess960` |
 | `kt:cognitive-psychology-of-chess` | `kt:chunking-theory` |
 | `kt:combination` | `kt:fork` |
 | `kt:cutting-off-the-king` | `kt:lucena-position` |
@@ -42,7 +46,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:emanuel-lasker` | `kt:wilhelm-steinitz` |
 | `kt:endgame-tablebases` | `kt:computer-chess` |
 | `kt:european-chess-union` | `kt:fide` |
-| `kt:forsyth-edwards-notation` | `kt:en-passant` |
+| `kt:fide-world-fischer-random-chess-championship` | `kt:chess960` |
 | `kt:french-defence` | `kt:caro-kann-defence` |
 | `kt:garry-kasparov` | `kt:deep-blue-versus-kasparov` |
 | `kt:glicko-rating-system` | `kt:elo-rating-system` |
@@ -70,6 +74,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:remi-coulom` | `kt:monte-carlo-tree-search` |
 | `kt:rook-endgames` | `kt:lucena-position` |
 | `kt:semi-open-games` | `kt:caro-kann-defence` |
+| `kt:shuffle-chess` | `kt:chess960` |
 | `kt:sicilian-defence` | `kt:caro-kann-defence` |
 | `kt:siegbert-tarrasch` | `kt:isolated-queens-pawn` |
 | `kt:solving-chess` | `kt:game-tree-search` |
@@ -80,6 +85,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:tarrasch-defence` | `kt:isolated-queens-pawn` |
 | `kt:template-theory` | `kt:chunking-theory` |
 | `kt:threefold-repetition` | `kt:en-passant` |
+| `kt:universal-chess-interface` | `kt:chess960` |
 | `kt:us-chess` | `kt:elo-rating-system` |
 | `kt:visualization` | `kt:chunking-theory` |
 | `kt:william-chase` | `kt:chunking-theory` |

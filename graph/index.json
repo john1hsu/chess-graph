@@ -51,6 +51,34 @@
     ]
   },
   {
+    "id": "kt:chess960",
+    "title": "Chess960",
+    "aliases": [
+      "Fischer Random Chess",
+      "Fischer Random",
+      "Fischerandom",
+      "Fischer chess",
+      "Freestyle Chess",
+      "Chess 960",
+      "FRC"
+    ],
+    "type": "Variant",
+    "domain": "variants-and-compositions",
+    "file": "articles/variants-and-compositions/chess960.md",
+    "created": "2026-11-08",
+    "verified": "2026-11-08",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://rcc.fide.com/guidelinesii/",
+      "https://britannica.com/topic/chess960",
+      "https://www.fide.com/history-of-chess960/",
+      "https://www.fide.com/wesley-so-to-defend-his-fide-world-fischer-random-title/",
+      "https://www.chess.com/news/view/wins-fischer-random-world-championship-final-hikaru-nakamura",
+      "https://www.chessprogramming.org/Chess960"
+    ]
+  },
+  {
     "id": "kt:chunking-theory",
     "title": "Chunking theory",
     "aliases": [
