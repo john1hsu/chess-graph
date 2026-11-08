@@ -14,6 +14,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:philidor-position` | `kt:lucena-position`, `kt:lucena-position` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
+| `kt:skewer` | `kt:fork`, `kt:fork` |
 | `kt:transposition-table` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:adolf-anderssen` | `kt:wilhelm-steinitz` |
 | `kt:alphazero` | `kt:evaluation-function` |
@@ -21,8 +22,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:arpad-elo` | `kt:elo-rating-system` |
 | `kt:blockade` | `kt:isolated-queens-pawn` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
+| `kt:chess-tactics` | `kt:fork` |
+| `kt:combination` | `kt:fork` |
 | `kt:cutting-off-the-king` | `kt:lucena-position` |
 | `kt:deep-blue` | `kt:deep-blue-versus-kasparov` |
+| `kt:discovered-attack` | `kt:fork` |
+| `kt:double-check` | `kt:fork` |
 | `kt:emanuel-lasker` | `kt:wilhelm-steinitz` |
 | `kt:fide-laws-of-chess` | `kt:en-passant` |
 | `kt:forsyth-edwards-notation` | `kt:en-passant` |
@@ -42,12 +47,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:leonardo-torres-y-quevedo` | `kt:claude-shannon` |
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position` |
 | `kt:marcus-kann` | `kt:caro-kann-defence` |
+| `kt:material-advantage` | `kt:fork` |
 | `kt:mikhail-chigorin` | `kt:wilhelm-steinitz` |
 | `kt:negamax` | `kt:minimax` |
 | `kt:nnue` | `kt:evaluation-function` |
 | `kt:panov-botvinnik-attack` | `kt:caro-kann-defence` |
 | `kt:pawn` | `kt:en-passant` |
 | `kt:pawn-structure` | `kt:isolated-queens-pawn` |
+| `kt:pin` | `kt:fork` |
 | `kt:proof-number-search` | `kt:game-tree-search` |
 | `kt:queens-gambit-accepted` | `kt:isolated-queens-pawn` |
 | `kt:remi-coulom` | `kt:monte-carlo-tree-search` |
@@ -65,3 +72,4 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:world-chess-champion` | `kt:wilhelm-steinitz` |
 | `kt:world-chess-championship` | `kt:wilhelm-steinitz` |
 | `kt:world-chess-championship-1886` | `kt:wilhelm-steinitz` |
+| `kt:zwischenzug` | `kt:fork` |

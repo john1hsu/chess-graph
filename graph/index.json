@@ -179,6 +179,32 @@
     ]
   },
   {
+    "id": "kt:fork",
+    "title": "Fork",
+    "aliases": [
+      "Double attack",
+      "Knight fork",
+      "Family fork",
+      "Pawn fork",
+      "Queen fork"
+    ],
+    "type": "TacticalMotif",
+    "domain": "tactics",
+    "file": "articles/tactics/fork.md",
+    "created": "2026-11-08",
+    "verified": "2026-11-08",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.englishchess.org.uk/wp-content/uploads/2010/01/fork.pdf",
+      "https://www.englishchess.org.uk/wp-content/uploads/2010/01/doubleattacks.pdf",
+      "https://www.chesstactics.org/the-double-attack/the-knight-fork/introduction/2_1_1_1.html",
+      "https://learn.chessbase.com/en/page/chess-tactics-double-attack",
+      "https://www.chess.com/terms/fork-chess",
+      "https://www.britannica.com/topic/chess"
+    ]
+  },
+  {
     "id": "kt:game-tree-search",
     "title": "Game-tree search",
     "aliases": [

@@ -190,6 +190,35 @@
 <https://github.com/john1hsu/chess-graph/id/evaluation-function> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/claude-shannon> .
 <https://github.com/john1hsu/chess-graph/id/evaluation-function> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/evaluation-function> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-07" .
+<https://github.com/john1hsu/chess-graph/id/fork> <http://purl.org/dc/terms/created> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/fork> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TacticalMotif> .
+<https://github.com/john1hsu/chess-graph/id/fork> <http://www.w3.org/2000/01/rdf-schema#label> "Fork" .
+<https://github.com/john1hsu/chess-graph/id/fork> <http://www.w3.org/2004/02/skos/core#altLabel> "Double attack" .
+<https://github.com/john1hsu/chess-graph/id/fork> <http://www.w3.org/2004/02/skos/core#altLabel> "Family fork" .
+<https://github.com/john1hsu/chess-graph/id/fork> <http://www.w3.org/2004/02/skos/core#altLabel> "Knight fork" .
+<https://github.com/john1hsu/chess-graph/id/fork> <http://www.w3.org/2004/02/skos/core#altLabel> "Pawn fork" .
+<https://github.com/john1hsu/chess-graph/id/fork> <http://www.w3.org/2004/02/skos/core#altLabel> "Queen fork" .
+<https://github.com/john1hsu/chess-graph/id/fork> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-tactics> .
+<https://github.com/john1hsu/chess-graph/id/fork> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/combination> .
+<https://github.com/john1hsu/chess-graph/id/fork> <http://www.w3.org/2004/02/skos/core#definition> "A tactic in which a single piece attacks two or more enemy pieces at the same time, so that the opponent can usually save only one of them and loses material." .
+<https://github.com/john1hsu/chess-graph/id/fork> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fork" .
+<https://github.com/john1hsu/chess-graph/id/fork> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/discovered-attack> .
+<https://github.com/john1hsu/chess-graph/id/fork> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/double-check> .
+<https://github.com/john1hsu/chess-graph/id/fork> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/pin> .
+<https://github.com/john1hsu/chess-graph/id/fork> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/skewer> .
+<https://github.com/john1hsu/chess-graph/id/fork> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/zwischenzug> .
+<https://github.com/john1hsu/chess-graph/id/fork> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fork/s1> .
+<https://github.com/john1hsu/chess-graph/id/fork> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fork/s2> .
+<https://github.com/john1hsu/chess-graph/id/fork> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fork/s3> .
+<https://github.com/john1hsu/chess-graph/id/fork> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fork/s4> .
+<https://github.com/john1hsu/chess-graph/id/fork> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fork/s5> .
+<https://github.com/john1hsu/chess-graph/id/fork> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fork/s6> .
+<https://github.com/john1hsu/chess-graph/id/fork> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/skewer> .
+<https://github.com/john1hsu/chess-graph/id/fork> <https://github.com/john1hsu/chess-graph/ontology#domain> "tactics" .
+<https://github.com/john1hsu/chess-graph/id/fork> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/material-advantage> .
+<https://github.com/john1hsu/chess-graph/id/fork> <https://github.com/john1hsu/chess-graph/ontology#fen> "2q3k1/5ppp/8/3N4/8/8/5PPP/6K1 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/fork> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/fork> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/game-tree-search> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/game-tree-search> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Algorithm> .
 <https://github.com/john1hsu/chess-graph/id/game-tree-search> <http://www.w3.org/2000/01/rdf-schema#label> "Game-tree search" .
@@ -577,6 +606,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
 <https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s7> <https://schema.org/url> "https://github.com/official-stockfish/Stockfish/blob/master/src/evaluate.cpp" .
+<https://github.com/john1hsu/chess-graph/id/source/fork/s1> <http://purl.org/dc/terms/publisher> "English Chess Federation" .
+<https://github.com/john1hsu/chess-graph/id/source/fork/s1> <http://purl.org/dc/terms/title> "The Knight Fork (Chess Skills leaflet)" .
+<https://github.com/john1hsu/chess-graph/id/source/fork/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fork/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/fork/s1> <https://schema.org/url> "https://www.englishchess.org.uk/wp-content/uploads/2010/01/fork.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/fork/s2> <http://purl.org/dc/terms/publisher> "English Chess Federation" .
+<https://github.com/john1hsu/chess-graph/id/source/fork/s2> <http://purl.org/dc/terms/title> "Double Attacks (Chess Skills leaflet)" .
+<https://github.com/john1hsu/chess-graph/id/source/fork/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fork/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/fork/s2> <https://schema.org/url> "https://www.englishchess.org.uk/wp-content/uploads/2010/01/doubleattacks.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/fork/s3> <http://purl.org/dc/terms/publisher> "Ward Farnsworth, chesstactics.org" .
+<https://github.com/john1hsu/chess-graph/id/source/fork/s3> <http://purl.org/dc/terms/title> "The Knight Fork: Introduction (Predator at the Chessboard)" .
+<https://github.com/john1hsu/chess-graph/id/source/fork/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fork/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/fork/s3> <https://schema.org/url> "https://www.chesstactics.org/the-double-attack/the-knight-fork/introduction/2_1_1_1.html" .
+<https://github.com/john1hsu/chess-graph/id/source/fork/s4> <http://purl.org/dc/terms/publisher> "ChessBase (learn.chessbase.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/fork/s4> <http://purl.org/dc/terms/title> "Chess tactics: Double attack" .
+<https://github.com/john1hsu/chess-graph/id/source/fork/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fork/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/fork/s4> <https://schema.org/url> "https://learn.chessbase.com/en/page/chess-tactics-double-attack" .
+<https://github.com/john1hsu/chess-graph/id/source/fork/s5> <http://purl.org/dc/terms/publisher> "Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/fork/s5> <http://purl.org/dc/terms/title> "Fork (Chess Terms)" .
+<https://github.com/john1hsu/chess-graph/id/source/fork/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fork/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/fork/s5> <https://schema.org/url> "https://www.chess.com/terms/fork-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/fork/s6> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/fork/s6> <http://purl.org/dc/terms/title> "Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/fork/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fork/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/fork/s6> <https://schema.org/url> "https://www.britannica.com/topic/chess" .
 <https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s1> <http://purl.org/dc/terms/publisher> "University of California, Irvine (David Eppstein)" .
 <https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s1> <http://purl.org/dc/terms/title> "ICS 180A: Strategy and board game programming, lecture of 17 April 1997" .
 <https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
