@@ -56,6 +56,35 @@
 <https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <https://github.com/john1hsu/chess-graph/ontology#namedAfter> <https://github.com/john1hsu/chess-graph/id/marcus-kann> .
 <https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/chunking-theory> <http://purl.org/dc/terms/created> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/chunking-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#CognitiveConcept> .
+<https://github.com/john1hsu/chess-graph/id/chunking-theory> <http://www.w3.org/2000/01/rdf-schema#label> "Chunking theory" .
+<https://github.com/john1hsu/chess-graph/id/chunking-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "Chase and Simon chunking theory" .
+<https://github.com/john1hsu/chess-graph/id/chunking-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess chunks" .
+<https://github.com/john1hsu/chess-graph/id/chunking-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "Chunking hypothesis" .
+<https://github.com/john1hsu/chess-graph/id/chunking-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "Perceptual chunking in chess" .
+<https://github.com/john1hsu/chess-graph/id/chunking-theory> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-expertise> .
+<https://github.com/john1hsu/chess-graph/id/chunking-theory> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/chunking-theory> <http://www.w3.org/2004/02/skos/core#definition> "The theory, proposed by William Chase and Herbert Simon in 1973, that chess skill rests on a large store of familiar piece configurations (\"chunks\") held in long-term memory, which strong players recognise as single units and which cue relevant moves." .
+<https://github.com/john1hsu/chess-graph/id/chunking-theory> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chunking theory" .
+<https://github.com/john1hsu/chess-graph/id/chunking-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/deliberate-practice> .
+<https://github.com/john1hsu/chess-graph/id/chunking-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/einstellung-effect> .
+<https://github.com/john1hsu/chess-graph/id/chunking-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/game-tree-search> .
+<https://github.com/john1hsu/chess-graph/id/chunking-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/visualization> .
+<https://github.com/john1hsu/chess-graph/id/chunking-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s1> .
+<https://github.com/john1hsu/chess-graph/id/chunking-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s2> .
+<https://github.com/john1hsu/chess-graph/id/chunking-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s3> .
+<https://github.com/john1hsu/chess-graph/id/chunking-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s4> .
+<https://github.com/john1hsu/chess-graph/id/chunking-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s5> .
+<https://github.com/john1hsu/chess-graph/id/chunking-theory> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/game-tree-search> .
+<https://github.com/john1hsu/chess-graph/id/chunking-theory> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/herbert-simon> .
+<https://github.com/john1hsu/chess-graph/id/chunking-theory> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/william-chase> .
+<https://github.com/john1hsu/chess-graph/id/chunking-theory> <https://github.com/john1hsu/chess-graph/ontology#domain> "training-and-improvement" .
+<https://github.com/john1hsu/chess-graph/id/chunking-theory> <https://github.com/john1hsu/chess-graph/ontology#fen> "r1bq1rk1/ppp2ppp/2np1n2/2b1p3/2B1P3/2NP1N2/PPP2PPP/R1BQ1RK1 w - - 2 7" .
+<https://github.com/john1hsu/chess-graph/id/chunking-theory> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> .
+<https://github.com/john1hsu/chess-graph/id/chunking-theory> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/template-theory> .
+<https://github.com/john1hsu/chess-graph/id/chunking-theory> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/chunking-theory> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/claude-shannon> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/claude-shannon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Person> .
 <https://github.com/john1hsu/chess-graph/id/claude-shannon> <http://www.w3.org/2000/01/rdf-schema#label> "Claude Shannon" .
@@ -496,6 +525,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
 <https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s5> <https://schema.org/url> "https://chessgames.com/perl/chessopening?eco=B10" .
+<https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s1> <http://purl.org/dc/terms/publisher> "Peter C. R. Lane and Fernand Gobet, University of Hertfordshire Research Archive" .
+<https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s1> <http://purl.org/dc/terms/title> "Perception in chess and beyond: Commentary on Linhares and Freitas (2010) (New Ideas in Psychology 29, 156-161)" .
+<https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s1> <https://schema.org/url> "https://uhra.herts.ac.uk/id/eprint/235/1/904357.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s2> <http://purl.org/dc/terms/publisher> "Fernand Gobet and Herbert A. Simon, Springer / Psychonomic Society" .
+<https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s2> <http://purl.org/dc/terms/title> "Recall of random and distorted chess positions: Implications for the theory of expertise (Memory & Cognition 24(4), 493-503)" .
+<https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s2> <https://schema.org/url> "https://link.springer.com/content/pdf/10.3758%2FBF03200937.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s3> <http://purl.org/dc/terms/publisher> "Fernand Gobet and Herbert A. Simon, via CORE" .
+<https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s3> <http://purl.org/dc/terms/title> "Five seconds or sixty? Presentation time in expert memory (Cognitive Science)" .
+<https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s3> <https://schema.org/url> "https://core.ac.uk/download/333524.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s4> <http://purl.org/dc/terms/publisher> "Fernand Gobet, via CORE" .
+<https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s4> <http://purl.org/dc/terms/title> "Implicit learning of expert chess knowledge (AISB Quarterly 114)" .
+<https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s4> <https://schema.org/url> "https://core.ac.uk/download/334663.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s5> <http://purl.org/dc/terms/publisher> "Fernand Gobet, Martyn Lloyd-Kelly and Peter C. R. Lane, Frontiers" .
+<https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s5> <http://purl.org/dc/terms/title> "What's in a name? The multiple meanings of 'chunk' and 'chunking' (Frontiers in Psychology 7:102)" .
+<https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s5> <https://schema.org/url> "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.00102/pdf" .
 <https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s1> <http://purl.org/dc/terms/publisher> "Claude E. Shannon, reproduced by Fermat's Library" .
 <https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s1> <http://purl.org/dc/terms/title> "Programming a Computer for Playing Chess (Philosophical Magazine, 1950), full text" .
 <https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

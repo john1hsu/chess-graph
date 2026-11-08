@@ -1549,6 +1549,102 @@
           "@id": "kt:material-advantage"
         }
       ]
+    },
+    {
+      "@id": "kt:chunking-theory",
+      "@type": "kto:CognitiveConcept",
+      "skos:prefLabel": "Chunking theory",
+      "skos:definition": "The theory, proposed by William Chase and Herbert Simon in 1973, that chess skill rests on a large store of familiar piece configurations (\"chunks\") held in long-term memory, which strong players recognise as single units and which cue relevant moves.",
+      "kto:domain": "training-and-improvement",
+      "dcterms:created": "2026-11-08",
+      "kto:verified": "2026-11-08",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Perception in chess and beyond: Commentary on Linhares and Freitas (2010) (New Ideas in Psychology 29, 156-161)",
+          "dcterms:publisher": "Peter C. R. Lane and Fernand Gobet, University of Hertfordshire Research Archive",
+          "schema:url": "https://uhra.herts.ac.uk/id/eprint/235/1/904357.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Recall of random and distorted chess positions: Implications for the theory of expertise (Memory & Cognition 24(4), 493-503)",
+          "dcterms:publisher": "Fernand Gobet and Herbert A. Simon, Springer / Psychonomic Society",
+          "schema:url": "https://link.springer.com/content/pdf/10.3758%2FBF03200937.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Five seconds or sixty? Presentation time in expert memory (Cognitive Science)",
+          "dcterms:publisher": "Fernand Gobet and Herbert A. Simon, via CORE",
+          "schema:url": "https://core.ac.uk/download/333524.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Implicit learning of expert chess knowledge (AISB Quarterly 114)",
+          "dcterms:publisher": "Fernand Gobet, via CORE",
+          "schema:url": "https://core.ac.uk/download/334663.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "What's in a name? The multiple meanings of 'chunk' and 'chunking' (Frontiers in Psychology 7:102)",
+          "dcterms:publisher": "Fernand Gobet, Martyn Lloyd-Kelly and Peter C. R. Lane, Frontiers",
+          "schema:url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.00102/pdf",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/training-and-improvement/chunking-theory.md",
+      "skos:altLabel": [
+        "Chunking hypothesis",
+        "Chase and Simon chunking theory",
+        "Chess chunks",
+        "Perceptual chunking in chess"
+      ],
+      "kto:fen": "r1bq1rk1/ppp2ppp/2np1n2/2b1p3/2B1P3/2NP1N2/PPP2PPP/R1BQ1RK1 w - - 2 7",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-expertise"
+        },
+        {
+          "@id": "kt:cognitive-psychology-of-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:deliberate-practice"
+        },
+        {
+          "@id": "kt:visualization"
+        },
+        {
+          "@id": "kt:einstellung-effect"
+        },
+        {
+          "@id": "kt:game-tree-search"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:herbert-simon"
+        },
+        {
+          "@id": "kt:william-chase"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:adriaan-de-groot"
+        }
+      ],
+      "kto:leadsTo": [
+        {
+          "@id": "kt:template-theory"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:game-tree-search"
+        }
+      ]
     }
   ]
 }

@@ -51,6 +51,30 @@
     ]
   },
   {
+    "id": "kt:chunking-theory",
+    "title": "Chunking theory",
+    "aliases": [
+      "Chunking hypothesis",
+      "Chase and Simon chunking theory",
+      "Chess chunks",
+      "Perceptual chunking in chess"
+    ],
+    "type": "CognitiveConcept",
+    "domain": "training-and-improvement",
+    "file": "articles/training-and-improvement/chunking-theory.md",
+    "created": "2026-11-08",
+    "verified": "2026-11-08",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://uhra.herts.ac.uk/id/eprint/235/1/904357.pdf",
+      "https://link.springer.com/content/pdf/10.3758%2FBF03200937.pdf",
+      "https://core.ac.uk/download/333524.pdf",
+      "https://core.ac.uk/download/334663.pdf",
+      "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.00102/pdf"
+    ]
+  },
+  {
     "id": "kt:claude-shannon",
     "title": "Claude Shannon",
     "aliases": [

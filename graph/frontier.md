@@ -18,18 +18,23 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:skewer` | `kt:fork`, `kt:fork` |
 | `kt:transposition-table` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:adolf-anderssen` | `kt:wilhelm-steinitz` |
+| `kt:adriaan-de-groot` | `kt:chunking-theory` |
 | `kt:alphazero` | `kt:evaluation-function` |
 | `kt:anatoly-karpov` | `kt:caro-kann-defence` |
 | `kt:arpad-elo` | `kt:elo-rating-system` |
 | `kt:artificial-intelligence` | `kt:computer-chess` |
 | `kt:blockade` | `kt:isolated-queens-pawn` |
+| `kt:chess-expertise` | `kt:chunking-theory` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
 | `kt:chess-tactics` | `kt:fork` |
+| `kt:cognitive-psychology-of-chess` | `kt:chunking-theory` |
 | `kt:combination` | `kt:fork` |
 | `kt:cutting-off-the-king` | `kt:lucena-position` |
 | `kt:deep-blue` | `kt:deep-blue-versus-kasparov` |
+| `kt:deliberate-practice` | `kt:chunking-theory` |
 | `kt:discovered-attack` | `kt:fork` |
 | `kt:double-check` | `kt:fork` |
+| `kt:einstellung-effect` | `kt:chunking-theory` |
 | `kt:emanuel-lasker` | `kt:wilhelm-steinitz` |
 | `kt:endgame-tablebases` | `kt:computer-chess` |
 | `kt:fide-laws-of-chess` | `kt:en-passant` |
@@ -41,6 +46,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hanging-pawns` | `kt:isolated-queens-pawn` |
 | `kt:hans-berliner` | `kt:horizon-effect` |
 | `kt:hastings-1895` | `kt:wilhelm-steinitz` |
+| `kt:herbert-simon` | `kt:chunking-theory` |
 | `kt:horatio-caro` | `kt:caro-kann-defence` |
 | `kt:johannes-zukertort` | `kt:wilhelm-steinitz` |
 | `kt:john-mccarthy` | `kt:alpha-beta-pruning` |
@@ -69,8 +75,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:steinitz-von-bardeleben-hastings-1895` | `kt:wilhelm-steinitz` |
 | `kt:stockfish` | `kt:computer-chess` |
 | `kt:tarrasch-defence` | `kt:isolated-queens-pawn` |
+| `kt:template-theory` | `kt:chunking-theory` |
 | `kt:threefold-repetition` | `kt:en-passant` |
 | `kt:us-chess` | `kt:elo-rating-system` |
+| `kt:visualization` | `kt:chunking-theory` |
+| `kt:william-chase` | `kt:chunking-theory` |
 | `kt:world-chess-champion` | `kt:wilhelm-steinitz` |
 | `kt:world-chess-championship` | `kt:wilhelm-steinitz` |
 | `kt:world-chess-championship-1886` | `kt:wilhelm-steinitz` |
