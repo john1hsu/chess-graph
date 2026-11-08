@@ -2283,6 +2283,92 @@
       ]
     },
     {
+      "@id": "kt:touch-move",
+      "@type": "kto:Rule",
+      "skos:prefLabel": "Touch-move",
+      "skos:definition": "The rule of over-the-board chess that a player on the move who deliberately touches one of their own pieces must move it, and who touches an opponent's piece must capture it, if that is legal; pieces may be adjusted without obligation only after announcing \"j'adoube\" or \"I adjust\".",
+      "kto:domain": "rules-and-notation",
+      "dcterms:created": "2026-11-08",
+      "kto:verified": "2026-11-08",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Article 4: The Act of Moving the Pieces",
+          "dcterms:publisher": "FIDE Rules Commission",
+          "schema:url": "https://rcc.fide.com/article4/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Arbiters' Manual 2024 (Laws of Chess applied from 1 January 2023, Article 4 with commentary)",
+          "dcterms:publisher": "FIDE Arbiters' Commission",
+          "schema:url": "https://arbiters.fide.com/wp-content/uploads/Publications/Manual/Arbiters_Manual_2024.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Summary of differences between the FIDE Laws of Chess and the US Chess Official Rules of Chess, 7th edition (updated 1 January 2022)",
+          "dcterms:publisher": "US Chess",
+          "schema:url": "https://new.uschess.org/sites/default/files/media/documents/uschess-fide-rules-comparison.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "J'adoube",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://chesshistory.com/winter/extra/jadoube.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Laws of Chess: For competitions starting from 1 July 2014 till 30 June 2017",
+          "dcterms:publisher": "FIDE Handbook",
+          "schema:url": "https://handbook.fide.com/chapter/E012014",
+          "kto:sourceType": "governing-body"
+        }
+      ],
+      "kto:file": "articles/rules-and-notation/touch-move.md",
+      "skos:altLabel": [
+        "Touch-move rule",
+        "Touch move",
+        "Touched piece rule",
+        "Touch-move law",
+        "J'adoube",
+        "I adjust",
+        "Adjusting pieces"
+      ],
+      "kto:fen": "4r1k1/5ppp/8/8/8/8/4NPPP/4K2R w K - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:castling"
+        },
+        {
+          "@id": "kt:pawn-promotion"
+        },
+        {
+          "@id": "kt:arbiter"
+        },
+        {
+          "@id": "kt:us-chess"
+        },
+        {
+          "@id": "kt:illegal-move"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:fide"
+        }
+      ]
+    },
+    {
       "@id": "kt:fork",
       "@type": "kto:TacticalMotif",
       "skos:prefLabel": "Fork",

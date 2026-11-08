@@ -5,9 +5,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov` |
-| `kt:touch-move` | `kt:castling`, `kt:castling`, `kt:fide-laws-of-chess` |
 | `kt:algebraic-notation` | `kt:castling`, `kt:fide-laws-of-chess` |
 | `kt:anatoly-karpov` | `kt:caro-kann-defence`, `kt:ruy-lopez` |
+| `kt:arbiter` | `kt:fide-laws-of-chess`, `kt:touch-move` |
 | `kt:blockade` | `kt:isolated-queens-pawn`, `kt:outpost` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position` |
 | `kt:forsyth-edwards-notation` | `kt:en-passant`, `kt:chess960` |
@@ -27,12 +27,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:stalemate` | `kt:en-passant`, `kt:fide-laws-of-chess` |
 | `kt:threefold-repetition` | `kt:en-passant`, `kt:fide-laws-of-chess` |
 | `kt:transposition-table` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
+| `kt:us-chess` | `kt:elo-rating-system`, `kt:touch-move` |
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:wilhelm-steinitz` |
 | `kt:world-chess-championship-1886` | `kt:world-chess-championship`, `kt:wilhelm-steinitz` |
 | `kt:adolf-anderssen` | `kt:wilhelm-steinitz` |
 | `kt:adriaan-de-groot` | `kt:chunking-theory` |
 | `kt:alphazero` | `kt:evaluation-function` |
-| `kt:arbiter` | `kt:fide-laws-of-chess` |
 | `kt:aron-nimzowitsch` | `kt:outpost` |
 | `kt:arpad-elo` | `kt:elo-rating-system` |
 | `kt:artificial-intelligence` | `kt:computer-chess` |
@@ -72,6 +72,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:herbert-simon` | `kt:chunking-theory` |
 | `kt:history-of-chess` | `kt:world-chess-championship` |
 | `kt:horatio-caro` | `kt:caro-kann-defence` |
+| `kt:illegal-move` | `kt:touch-move` |
 | `kt:italian-game` | `kt:ruy-lopez` |
 | `kt:johannes-zukertort` | `kt:wilhelm-steinitz` |
 | `kt:john-mccarthy` | `kt:alpha-beta-pruning` |
@@ -109,7 +110,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:template-theory` | `kt:chunking-theory` |
 | `kt:underpromotion` | `kt:pawn-promotion` |
 | `kt:universal-chess-interface` | `kt:chess960` |
-| `kt:us-chess` | `kt:elo-rating-system` |
 | `kt:visualization` | `kt:chunking-theory` |
 | `kt:vladimir-kramnik` | `kt:ruy-lopez` |
 | `kt:weak-squares` | `kt:outpost` |

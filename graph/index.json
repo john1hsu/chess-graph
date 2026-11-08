@@ -662,6 +662,33 @@
     ]
   },
   {
+    "id": "kt:touch-move",
+    "title": "Touch-move",
+    "aliases": [
+      "Touch-move rule",
+      "Touch move",
+      "Touched piece rule",
+      "Touch-move law",
+      "J'adoube",
+      "I adjust",
+      "Adjusting pieces"
+    ],
+    "type": "Rule",
+    "domain": "rules-and-notation",
+    "file": "articles/rules-and-notation/touch-move.md",
+    "created": "2026-11-08",
+    "verified": "2026-11-08",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://rcc.fide.com/article4/",
+      "https://arbiters.fide.com/wp-content/uploads/Publications/Manual/Arbiters_Manual_2024.pdf",
+      "https://new.uschess.org/sites/default/files/media/documents/uschess-fide-rules-comparison.pdf",
+      "https://chesshistory.com/winter/extra/jadoube.html",
+      "https://handbook.fide.com/chapter/E012014"
+    ]
+  },
+  {
     "id": "kt:wilhelm-steinitz",
     "title": "Wilhelm Steinitz",
     "aliases": [
