@@ -919,6 +919,100 @@
       ]
     },
     {
+      "@id": "kt:philidor-position",
+      "@type": "kto:EndgameType",
+      "skos:prefLabel": "Philidor position",
+      "skos:definition": "The basic drawing method in rook and pawn against rook: with the defending king on the queening square, the defending rook holds its third rank to keep the attacking king out, and once the pawn advances it drops to the far end of the board to check from behind.",
+      "kto:domain": "endgames",
+      "dcterms:created": "2026-11-08",
+      "kto:verified": "2026-11-08",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Philidor Position",
+          "dcterms:publisher": "Chess.com (Chess Terms)",
+          "schema:url": "https://chess.com/terms/philidor-position-chess",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The Two Rook Endings You Must Know",
+          "dcterms:publisher": "GM Daniel Naroditsky, Chess.com",
+          "schema:url": "https://www.chess.com/article/view/the-two-rook-endings-you-must-know",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "You thought you knew the Philidor Position",
+          "dcterms:publisher": "GM Alex Fishbein, American Chess Magazine no. 34 (2023), hosted by chessjournalism.org",
+          "schema:url": "https://chessjournalism.org/wp-content/uploads/2024/06/ACM_34-Instructional-A.-Fishbein_You-thought-you-knew-the-Philidor-Position.pdf",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "100 Endgames You Must Know, fourth edition (sample pages)",
+          "dcterms:publisher": "Jesús de la Villa, New In Chess (2015)",
+          "schema:url": "https://download.boekhuis.nl/9789056916176_fragm-docb.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Analysis of the game of chess; a new edition, greatly enlarged (London: P. Elmsley, 1777)",
+          "dcterms:publisher": "Max Planck Digital Library eBooks catalogue (Eighteenth Century Collections Online, British Library copy)",
+          "schema:url": "https://ebooks.mpdl.mpg.de/ebooks/Record/EB000465577",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Philidor's \"L'Analyze des Echecs\"",
+          "dcterms:publisher": "Thomas W. Ewers, ChessBase News (2016)",
+          "schema:url": "https://en.chessbase.com/post/philidor-s-l-analyze-des-echecs",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/endgames/philidor-position.md",
+      "skos:altLabel": [
+        "Philidor's position",
+        "Third-rank defence",
+        "Third-rank defense",
+        "Philidor's third-rank defence",
+        "Philidor drawing method"
+      ],
+      "kto:fen": "4k3/R7/8/4PK2/8/8/1r6/8 b - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:rook-endgames"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:lucena-position"
+        },
+        {
+          "@id": "kt:king-and-pawn-endgames"
+        },
+        {
+          "@id": "kt:pawn-promotion"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:lucena-position"
+        }
+      ],
+      "kto:namedAfter": [
+        {
+          "@id": "kt:francois-andre-danican-philidor"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:cutting-off-the-king"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:passive-rook-defence"
+        }
+      ]
+    },
+    {
       "@id": "kt:elo-rating-system",
       "@type": "kto:RatingSystem",
       "skos:prefLabel": "Elo rating system",

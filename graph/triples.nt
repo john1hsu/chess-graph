@@ -532,6 +532,34 @@
 <https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/chess-graph/ontology#fen> "6k1/1q3ppp/8/8/8/8/1P3PPP/3R2K1 b - - 0 1" .
 <https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/philidor-position> <http://purl.org/dc/terms/created> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/philidor-position> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#EndgameType> .
+<https://github.com/john1hsu/chess-graph/id/philidor-position> <http://www.w3.org/2000/01/rdf-schema#label> "Philidor position" .
+<https://github.com/john1hsu/chess-graph/id/philidor-position> <http://www.w3.org/2004/02/skos/core#altLabel> "Philidor drawing method" .
+<https://github.com/john1hsu/chess-graph/id/philidor-position> <http://www.w3.org/2004/02/skos/core#altLabel> "Philidor's position" .
+<https://github.com/john1hsu/chess-graph/id/philidor-position> <http://www.w3.org/2004/02/skos/core#altLabel> "Philidor's third-rank defence" .
+<https://github.com/john1hsu/chess-graph/id/philidor-position> <http://www.w3.org/2004/02/skos/core#altLabel> "Third-rank defence" .
+<https://github.com/john1hsu/chess-graph/id/philidor-position> <http://www.w3.org/2004/02/skos/core#altLabel> "Third-rank defense" .
+<https://github.com/john1hsu/chess-graph/id/philidor-position> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/rook-endgames> .
+<https://github.com/john1hsu/chess-graph/id/philidor-position> <http://www.w3.org/2004/02/skos/core#definition> "The basic drawing method in rook and pawn against rook: with the defending king on the queening square, the defending rook holds its third rank to keep the attacking king out, and once the pawn advances it drops to the far end of the board to check from behind." .
+<https://github.com/john1hsu/chess-graph/id/philidor-position> <http://www.w3.org/2004/02/skos/core#prefLabel> "Philidor position" .
+<https://github.com/john1hsu/chess-graph/id/philidor-position> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/king-and-pawn-endgames> .
+<https://github.com/john1hsu/chess-graph/id/philidor-position> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/lucena-position> .
+<https://github.com/john1hsu/chess-graph/id/philidor-position> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/pawn-promotion> .
+<https://github.com/john1hsu/chess-graph/id/philidor-position> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/philidor-position/s1> .
+<https://github.com/john1hsu/chess-graph/id/philidor-position> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/philidor-position/s2> .
+<https://github.com/john1hsu/chess-graph/id/philidor-position> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/philidor-position/s3> .
+<https://github.com/john1hsu/chess-graph/id/philidor-position> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/philidor-position/s4> .
+<https://github.com/john1hsu/chess-graph/id/philidor-position> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/philidor-position/s5> .
+<https://github.com/john1hsu/chess-graph/id/philidor-position> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/philidor-position/s6> .
+<https://github.com/john1hsu/chess-graph/id/philidor-position> <https://github.com/john1hsu/chess-graph/ontology#alternativeTo> <https://github.com/john1hsu/chess-graph/id/passive-rook-defence> .
+<https://github.com/john1hsu/chess-graph/id/philidor-position> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/lucena-position> .
+<https://github.com/john1hsu/chess-graph/id/philidor-position> <https://github.com/john1hsu/chess-graph/ontology#domain> "endgames" .
+<https://github.com/john1hsu/chess-graph/id/philidor-position> <https://github.com/john1hsu/chess-graph/ontology#fen> "4k3/R7/8/4PK2/8/8/1r6/8 b - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/philidor-position> <https://github.com/john1hsu/chess-graph/ontology#namedAfter> <https://github.com/john1hsu/chess-graph/id/francois-andre-danican-philidor> .
+<https://github.com/john1hsu/chess-graph/id/philidor-position> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/philidor-position> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> .
+<https://github.com/john1hsu/chess-graph/id/philidor-position> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/quiescence-search> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/quiescence-search> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Algorithm> .
 <https://github.com/john1hsu/chess-graph/id/quiescence-search> <http://www.w3.org/2000/01/rdf-schema#label> "Quiescence search" .
@@ -1080,6 +1108,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
 <https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s5> <https://schema.org/url> "https://lczero.org/dev/overview" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-position/s1> <http://purl.org/dc/terms/publisher> "Chess.com (Chess Terms)" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-position/s1> <http://purl.org/dc/terms/title> "Philidor Position" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-position/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-position/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-position/s1> <https://schema.org/url> "https://chess.com/terms/philidor-position-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-position/s2> <http://purl.org/dc/terms/publisher> "GM Daniel Naroditsky, Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-position/s2> <http://purl.org/dc/terms/title> "The Two Rook Endings You Must Know" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-position/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-position/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-position/s2> <https://schema.org/url> "https://www.chess.com/article/view/the-two-rook-endings-you-must-know" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-position/s3> <http://purl.org/dc/terms/publisher> "GM Alex Fishbein, American Chess Magazine no. 34 (2023), hosted by chessjournalism.org" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-position/s3> <http://purl.org/dc/terms/title> "You thought you knew the Philidor Position" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-position/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-position/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-position/s3> <https://schema.org/url> "https://chessjournalism.org/wp-content/uploads/2024/06/ACM_34-Instructional-A.-Fishbein_You-thought-you-knew-the-Philidor-Position.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-position/s4> <http://purl.org/dc/terms/publisher> "Jesús de la Villa, New In Chess (2015)" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-position/s4> <http://purl.org/dc/terms/title> "100 Endgames You Must Know, fourth edition (sample pages)" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-position/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-position/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-position/s4> <https://schema.org/url> "https://download.boekhuis.nl/9789056916176_fragm-docb.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-position/s5> <http://purl.org/dc/terms/publisher> "Max Planck Digital Library eBooks catalogue (Eighteenth Century Collections Online, British Library copy)" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-position/s5> <http://purl.org/dc/terms/title> "Analysis of the game of chess; a new edition, greatly enlarged (London: P. Elmsley, 1777)" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-position/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-position/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-position/s5> <https://schema.org/url> "https://ebooks.mpdl.mpg.de/ebooks/Record/EB000465577" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-position/s6> <http://purl.org/dc/terms/publisher> "Thomas W. Ewers, ChessBase News (2016)" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-position/s6> <http://purl.org/dc/terms/title> "Philidor's \"L'Analyze des Echecs\"" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-position/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-position/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-position/s6> <https://schema.org/url> "https://en.chessbase.com/post/philidor-s-l-analyze-des-echecs" .
 <https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s1> <http://purl.org/dc/terms/publisher> "Claude E. Shannon, reproduced by Fermat's Library" .
 <https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s1> <http://purl.org/dc/terms/title> "Programming a Computer for Playing Chess (Philosophical Magazine, 1950), full text" .
 <https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

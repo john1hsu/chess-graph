@@ -5,17 +5,19 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov` |
+| `kt:pawn-promotion` | `kt:lucena-position`, `kt:philidor-position`, `kt:en-passant` |
 | `kt:castling` | `kt:fide-laws-of-chess`, `kt:chess960` |
+| `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position` |
 | `kt:forsyth-edwards-notation` | `kt:en-passant`, `kt:chess960` |
 | `kt:grandmaster-title` | `kt:elo-rating-system`, `kt:fide` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
+| `kt:king-and-pawn-endgames` | `kt:lucena-position`, `kt:philidor-position` |
 | `kt:leela-chess-zero` | `kt:computer-chess`, `kt:monte-carlo-tree-search` |
 | `kt:move-ordering` | `kt:alpha-beta-pruning`, `kt:quiescence-search` |
 | `kt:nnue` | `kt:computer-chess`, `kt:evaluation-function` |
 | `kt:outpost` | `kt:isolated-queens-pawn`, `kt:wilhelm-steinitz` |
-| `kt:pawn-promotion` | `kt:lucena-position`, `kt:en-passant` |
-| `kt:philidor-position` | `kt:lucena-position`, `kt:lucena-position` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
+| `kt:rook-endgames` | `kt:lucena-position`, `kt:philidor-position` |
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
 | `kt:skewer` | `kt:fork`, `kt:fork` |
 | `kt:stalemate` | `kt:en-passant`, `kt:fide-laws-of-chess` |
@@ -41,7 +43,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chess-variants` | `kt:chess960` |
 | `kt:cognitive-psychology-of-chess` | `kt:chunking-theory` |
 | `kt:combination` | `kt:fork` |
-| `kt:cutting-off-the-king` | `kt:lucena-position` |
 | `kt:deep-blue` | `kt:deep-blue-versus-kasparov` |
 | `kt:deliberate-practice` | `kt:chunking-theory` |
 | `kt:discovered-attack` | `kt:fork` |
@@ -52,6 +53,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:european-chess-union` | `kt:fide` |
 | `kt:fide-world-fischer-random-chess-championship` | `kt:chess960` |
 | `kt:fifty-move-rule` | `kt:fide-laws-of-chess` |
+| `kt:francois-andre-danican-philidor` | `kt:philidor-position` |
 | `kt:french-defence` | `kt:caro-kann-defence` |
 | `kt:garry-kasparov` | `kt:deep-blue-versus-kasparov` |
 | `kt:glicko-rating-system` | `kt:elo-rating-system` |
@@ -63,7 +65,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:johannes-zukertort` | `kt:wilhelm-steinitz` |
 | `kt:john-mccarthy` | `kt:alpha-beta-pruning` |
 | `kt:john-von-neumann` | `kt:minimax` |
-| `kt:king-and-pawn-endgames` | `kt:lucena-position` |
 | `kt:leonardo-torres-y-quevedo` | `kt:claude-shannon` |
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position` |
 | `kt:marcus-kann` | `kt:caro-kann-defence` |
@@ -71,13 +72,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mikhail-chigorin` | `kt:wilhelm-steinitz` |
 | `kt:negamax` | `kt:minimax` |
 | `kt:panov-botvinnik-attack` | `kt:caro-kann-defence` |
+| `kt:passive-rook-defence` | `kt:philidor-position` |
 | `kt:pawn` | `kt:en-passant` |
 | `kt:pawn-structure` | `kt:isolated-queens-pawn` |
 | `kt:pin` | `kt:fork` |
 | `kt:proof-number-search` | `kt:game-tree-search` |
 | `kt:queens-gambit-accepted` | `kt:isolated-queens-pawn` |
 | `kt:remi-coulom` | `kt:monte-carlo-tree-search` |
-| `kt:rook-endgames` | `kt:lucena-position` |
 | `kt:semi-open-games` | `kt:caro-kann-defence` |
 | `kt:shuffle-chess` | `kt:chess960` |
 | `kt:sicilian-defence` | `kt:caro-kann-defence` |

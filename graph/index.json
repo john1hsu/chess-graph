@@ -482,6 +482,32 @@
     ]
   },
   {
+    "id": "kt:philidor-position",
+    "title": "Philidor position",
+    "aliases": [
+      "Philidor's position",
+      "Third-rank defence",
+      "Third-rank defense",
+      "Philidor's third-rank defence",
+      "Philidor drawing method"
+    ],
+    "type": "EndgameType",
+    "domain": "endgames",
+    "file": "articles/endgames/philidor-position.md",
+    "created": "2026-11-08",
+    "verified": "2026-11-08",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://chess.com/terms/philidor-position-chess",
+      "https://www.chess.com/article/view/the-two-rook-endings-you-must-know",
+      "https://chessjournalism.org/wp-content/uploads/2024/06/ACM_34-Instructional-A.-Fishbein_You-thought-you-knew-the-Philidor-Position.pdf",
+      "https://download.boekhuis.nl/9789056916176_fragm-docb.pdf",
+      "https://ebooks.mpdl.mpg.de/ebooks/Record/EB000465577",
+      "https://en.chessbase.com/post/philidor-s-l-analyze-des-echecs"
+    ]
+  },
+  {
     "id": "kt:quiescence-search",
     "title": "Quiescence search",
     "aliases": [
