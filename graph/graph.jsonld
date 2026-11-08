@@ -1541,6 +1541,104 @@
       ]
     },
     {
+      "@id": "kt:fide-laws-of-chess",
+      "@type": "kto:Rule",
+      "skos:prefLabel": "FIDE Laws of Chess",
+      "skos:definition": "The official rulebook of over-the-board chess maintained by FIDE, in two parts: the Basic Rules of Play (how the pieces move and how a game ends) and the Competition Rules (clocks, irregularities, recording, draws, conduct and the arbiter), plus appendices for rapid, blitz, notation and play with visually impaired players.",
+      "kto:domain": "rules-and-notation",
+      "dcterms:created": "2026-11-08",
+      "kto:verified": "2026-11-08",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "FIDE Laws of Chess taking effect from 1 January 2023",
+          "dcterms:publisher": "FIDE Handbook",
+          "schema:url": "https://handbook.fide.com/chapter/e012023",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Laws of Chess (2023 Laws in force; 2018–2023 text as historical document)",
+          "dcterms:publisher": "FIDE Rules Commission",
+          "schema:url": "https://rcc.fide.com/laws-of-chess/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "FIDE Laws of Chess 2023",
+          "dcterms:publisher": "FIDE Rules Commission",
+          "schema:url": "https://rcc.fide.com/2022/11/14/fide-laws-of-chess-2023/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "FIDE Arbiters' Manual 2022 (A Brief History of the Laws of Chess)",
+          "dcterms:publisher": "FIDE Arbiters' Commission",
+          "schema:url": "https://arbiters.fide.com/wp-content/uploads/Publications/Manual/ARBManual2022.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "The History of FIDE",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://www.chesshistory.com/winter/extra/fidehistory.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "2nd FIDE Council Meeting, August 23, 2026: List of decisions",
+          "dcterms:publisher": "FIDE",
+          "schema:url": "https://www.fide.com/?p=49091",
+          "kto:sourceType": "governing-body"
+        }
+      ],
+      "kto:file": "articles/rules-and-notation/fide-laws-of-chess.md",
+      "skos:altLabel": [
+        "Laws of Chess",
+        "FIDE Rules of Chess",
+        "FIDE Handbook Laws of Chess",
+        "Official rules of chess"
+      ],
+      "kto:fen": "8/8/8/4k3/8/8/2B5/4K3 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:chess960"
+        },
+        {
+          "@id": "kt:algebraic-notation"
+        },
+        {
+          "@id": "kt:fifty-move-rule"
+        },
+        {
+          "@id": "kt:arbiter"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:fide"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:en-passant"
+        },
+        {
+          "@id": "kt:castling"
+        },
+        {
+          "@id": "kt:stalemate"
+        },
+        {
+          "@id": "kt:threefold-repetition"
+        },
+        {
+          "@id": "kt:touch-move"
+        }
+      ]
+    },
+    {
       "@id": "kt:fork",
       "@type": "kto:TacticalMotif",
       "skos:prefLabel": "Fork",

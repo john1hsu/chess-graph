@@ -279,6 +279,36 @@
 <https://github.com/john1hsu/chess-graph/id/evaluation-function> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/claude-shannon> .
 <https://github.com/john1hsu/chess-graph/id/evaluation-function> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/evaluation-function> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-07" .
+<https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> <http://purl.org/dc/terms/created> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Rule> .
+<https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> <http://www.w3.org/2000/01/rdf-schema#label> "FIDE Laws of Chess" .
+<https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "FIDE Handbook Laws of Chess" .
+<https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "FIDE Rules of Chess" .
+<https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Laws of Chess" .
+<https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Official rules of chess" .
+<https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess> .
+<https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> <http://www.w3.org/2004/02/skos/core#definition> "The official rulebook of over-the-board chess maintained by FIDE, in two parts: the Basic Rules of Play (how the pieces move and how a game ends) and the Competition Rules (clocks, irregularities, recording, draws, conduct and the arbiter), plus appendices for rapid, blitz, notation and play with visually impaired players." .
+<https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> <http://www.w3.org/2004/02/skos/core#prefLabel> "FIDE Laws of Chess" .
+<https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/algebraic-notation> .
+<https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/arbiter> .
+<https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess960> .
+<https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fifty-move-rule> .
+<https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s1> .
+<https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s2> .
+<https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s3> .
+<https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s4> .
+<https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s5> .
+<https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s6> .
+<https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/fide> .
+<https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> <https://github.com/john1hsu/chess-graph/ontology#domain> "rules-and-notation" .
+<https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> <https://github.com/john1hsu/chess-graph/ontology#fen> "8/8/8/4k3/8/8/2B5/4K3 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/castling> .
+<https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/en-passant> .
+<https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/stalemate> .
+<https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/threefold-repetition> .
+<https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/touch-move> .
+<https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/fide> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/fide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Organization> .
 <https://github.com/john1hsu/chess-graph/id/fide> <http://www.w3.org/2000/01/rdf-schema#label> "FIDE" .
@@ -805,6 +835,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
 <https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s7> <https://schema.org/url> "https://github.com/official-stockfish/Stockfish/blob/master/src/evaluate.cpp" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s1> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s1> <http://purl.org/dc/terms/title> "FIDE Laws of Chess taking effect from 1 January 2023" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s1> <https://schema.org/url> "https://handbook.fide.com/chapter/e012023" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s2> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s2> <http://purl.org/dc/terms/title> "Laws of Chess (2023 Laws in force; 2018–2023 text as historical document)" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s2> <https://schema.org/url> "https://rcc.fide.com/laws-of-chess/" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s3> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s3> <http://purl.org/dc/terms/title> "FIDE Laws of Chess 2023" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s3> <https://schema.org/url> "https://rcc.fide.com/2022/11/14/fide-laws-of-chess-2023/" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s4> <http://purl.org/dc/terms/publisher> "FIDE Arbiters' Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s4> <http://purl.org/dc/terms/title> "FIDE Arbiters' Manual 2022 (A Brief History of the Laws of Chess)" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s4> <https://schema.org/url> "https://arbiters.fide.com/wp-content/uploads/Publications/Manual/ARBManual2022.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s5> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s5> <http://purl.org/dc/terms/title> "The History of FIDE" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s5> <https://schema.org/url> "https://www.chesshistory.com/winter/extra/fidehistory.html" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s6> <http://purl.org/dc/terms/publisher> "FIDE" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s6> <http://purl.org/dc/terms/title> "2nd FIDE Council Meeting, August 23, 2026: List of decisions" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s6> <https://schema.org/url> "https://www.fide.com/?p=49091" .
 <https://github.com/john1hsu/chess-graph/id/source/fide/s1> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
 <https://github.com/john1hsu/chess-graph/id/source/fide/s1> <http://purl.org/dc/terms/title> "FIDE Charter (in force from 1 March 2020)" .
 <https://github.com/john1hsu/chess-graph/id/source/fide/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

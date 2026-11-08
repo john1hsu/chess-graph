@@ -4,8 +4,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:fide-laws-of-chess` | `kt:fide`, `kt:en-passant`, `kt:chess960` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov` |
+| `kt:castling` | `kt:fide-laws-of-chess`, `kt:chess960` |
 | `kt:forsyth-edwards-notation` | `kt:en-passant`, `kt:chess960` |
 | `kt:grandmaster-title` | `kt:elo-rating-system`, `kt:fide` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
@@ -18,17 +18,21 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
 | `kt:skewer` | `kt:fork`, `kt:fork` |
+| `kt:stalemate` | `kt:en-passant`, `kt:fide-laws-of-chess` |
+| `kt:threefold-repetition` | `kt:en-passant`, `kt:fide-laws-of-chess` |
 | `kt:transposition-table` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:world-chess-championship` | `kt:fide`, `kt:wilhelm-steinitz` |
 | `kt:adolf-anderssen` | `kt:wilhelm-steinitz` |
 | `kt:adriaan-de-groot` | `kt:chunking-theory` |
+| `kt:algebraic-notation` | `kt:fide-laws-of-chess` |
 | `kt:alphazero` | `kt:evaluation-function` |
 | `kt:anatoly-karpov` | `kt:caro-kann-defence` |
+| `kt:arbiter` | `kt:fide-laws-of-chess` |
 | `kt:arpad-elo` | `kt:elo-rating-system` |
 | `kt:artificial-intelligence` | `kt:computer-chess` |
 | `kt:blockade` | `kt:isolated-queens-pawn` |
 | `kt:bobby-fischer` | `kt:chess960` |
-| `kt:castling` | `kt:chess960` |
+| `kt:chess` | `kt:fide-laws-of-chess` |
 | `kt:chess-expertise` | `kt:chunking-theory` |
 | `kt:chess-olympiad` | `kt:fide` |
 | `kt:chess-organizations` | `kt:fide` |
@@ -47,6 +51,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:endgame-tablebases` | `kt:computer-chess` |
 | `kt:european-chess-union` | `kt:fide` |
 | `kt:fide-world-fischer-random-chess-championship` | `kt:chess960` |
+| `kt:fifty-move-rule` | `kt:fide-laws-of-chess` |
 | `kt:french-defence` | `kt:caro-kann-defence` |
 | `kt:garry-kasparov` | `kt:deep-blue-versus-kasparov` |
 | `kt:glicko-rating-system` | `kt:elo-rating-system` |
@@ -78,13 +83,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:sicilian-defence` | `kt:caro-kann-defence` |
 | `kt:siegbert-tarrasch` | `kt:isolated-queens-pawn` |
 | `kt:solving-chess` | `kt:game-tree-search` |
-| `kt:stalemate` | `kt:en-passant` |
 | `kt:static-exchange-evaluation` | `kt:quiescence-search` |
 | `kt:steinitz-von-bardeleben-hastings-1895` | `kt:wilhelm-steinitz` |
 | `kt:stockfish` | `kt:computer-chess` |
 | `kt:tarrasch-defence` | `kt:isolated-queens-pawn` |
 | `kt:template-theory` | `kt:chunking-theory` |
-| `kt:threefold-repetition` | `kt:en-passant` |
+| `kt:touch-move` | `kt:fide-laws-of-chess` |
 | `kt:universal-chess-interface` | `kt:chess960` |
 | `kt:us-chess` | `kt:elo-rating-system` |
 | `kt:visualization` | `kt:chunking-theory` |

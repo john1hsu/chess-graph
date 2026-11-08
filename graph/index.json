@@ -280,6 +280,31 @@
     ]
   },
   {
+    "id": "kt:fide-laws-of-chess",
+    "title": "FIDE Laws of Chess",
+    "aliases": [
+      "Laws of Chess",
+      "FIDE Rules of Chess",
+      "FIDE Handbook Laws of Chess",
+      "Official rules of chess"
+    ],
+    "type": "Rule",
+    "domain": "rules-and-notation",
+    "file": "articles/rules-and-notation/fide-laws-of-chess.md",
+    "created": "2026-11-08",
+    "verified": "2026-11-08",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://handbook.fide.com/chapter/e012023",
+      "https://rcc.fide.com/laws-of-chess/",
+      "https://rcc.fide.com/2022/11/14/fide-laws-of-chess-2023/",
+      "https://arbiters.fide.com/wp-content/uploads/Publications/Manual/ARBManual2022.pdf",
+      "https://www.chesshistory.com/winter/extra/fidehistory.html",
+      "https://www.fide.com/?p=49091"
+    ]
+  },
+  {
     "id": "kt:fork",
     "title": "Fork",
     "aliases": [
