@@ -511,6 +511,31 @@
     ]
   },
   {
+    "id": "kt:outpost",
+    "title": "Outpost",
+    "aliases": [
+      "Outpost square",
+      "Knight outpost",
+      "Strong square",
+      "Support point"
+    ],
+    "type": "StrategicConcept",
+    "domain": "middlegame-strategy",
+    "file": "articles/middlegame-strategy/outpost.md",
+    "created": "2026-11-08",
+    "verified": "2026-11-08",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.chess.com/terms/outpost-chess",
+      "https://www.chesstactics.org/the-double-attack/the-knight-fork/strategic-implications/2_1_12_1.html",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/9069.pdf",
+      "https://qualitychess.co.uk/wp-content/uploads/2024/02/MySystem-excerpt.pdf",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/8861.pdf",
+      "https://en.chessbase.com/post/the-winning-academy-32-the-hole"
+    ]
+  },
+  {
     "id": "kt:pawn-promotion",
     "title": "Pawn promotion",
     "aliases": [

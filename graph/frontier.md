@@ -5,8 +5,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov` |
+| `kt:pawn-structure` | `kt:isolated-queens-pawn`, `kt:outpost`, `kt:outpost` |
 | `kt:touch-move` | `kt:castling`, `kt:castling`, `kt:fide-laws-of-chess` |
 | `kt:algebraic-notation` | `kt:castling`, `kt:fide-laws-of-chess` |
+| `kt:blockade` | `kt:isolated-queens-pawn`, `kt:outpost` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position` |
 | `kt:forsyth-edwards-notation` | `kt:en-passant`, `kt:chess960` |
 | `kt:grandmaster-title` | `kt:elo-rating-system`, `kt:fide` |
@@ -15,7 +17,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:leela-chess-zero` | `kt:computer-chess`, `kt:monte-carlo-tree-search` |
 | `kt:move-ordering` | `kt:alpha-beta-pruning`, `kt:quiescence-search` |
 | `kt:nnue` | `kt:computer-chess`, `kt:evaluation-function` |
-| `kt:outpost` | `kt:isolated-queens-pawn`, `kt:wilhelm-steinitz` |
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
 | `kt:rook-endgames` | `kt:lucena-position`, `kt:philidor-position` |
@@ -31,9 +32,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alphazero` | `kt:evaluation-function` |
 | `kt:anatoly-karpov` | `kt:caro-kann-defence` |
 | `kt:arbiter` | `kt:fide-laws-of-chess` |
+| `kt:aron-nimzowitsch` | `kt:outpost` |
 | `kt:arpad-elo` | `kt:elo-rating-system` |
 | `kt:artificial-intelligence` | `kt:computer-chess` |
-| `kt:blockade` | `kt:isolated-queens-pawn` |
+| `kt:backward-pawn` | `kt:outpost` |
 | `kt:bobby-fischer` | `kt:chess960` |
 | `kt:candidates-tournament` | `kt:world-chess-championship` |
 | `kt:chess` | `kt:fide-laws-of-chess` |
@@ -60,6 +62,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:french-defence` | `kt:caro-kann-defence` |
 | `kt:garry-kasparov` | `kt:deep-blue-versus-kasparov` |
 | `kt:glicko-rating-system` | `kt:elo-rating-system` |
+| `kt:good-knight-versus-bad-bishop` | `kt:outpost` |
 | `kt:gukesh-dommaraju` | `kt:world-chess-championship` |
 | `kt:hanging-pawns` | `kt:isolated-queens-pawn` |
 | `kt:hans-berliner` | `kt:horizon-effect` |
@@ -80,7 +83,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:panov-botvinnik-attack` | `kt:caro-kann-defence` |
 | `kt:passed-pawn` | `kt:pawn-promotion` |
 | `kt:passive-rook-defence` | `kt:philidor-position` |
-| `kt:pawn-structure` | `kt:isolated-queens-pawn` |
 | `kt:pin` | `kt:fork` |
 | `kt:proof-number-search` | `kt:game-tree-search` |
 | `kt:queens-gambit-accepted` | `kt:isolated-queens-pawn` |
@@ -94,11 +96,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:static-exchange-evaluation` | `kt:quiescence-search` |
 | `kt:steinitz-von-bardeleben-hastings-1895` | `kt:wilhelm-steinitz` |
 | `kt:stockfish` | `kt:computer-chess` |
+| `kt:sveshnikov-variation` | `kt:outpost` |
 | `kt:tarrasch-defence` | `kt:isolated-queens-pawn` |
 | `kt:template-theory` | `kt:chunking-theory` |
 | `kt:underpromotion` | `kt:pawn-promotion` |
 | `kt:universal-chess-interface` | `kt:chess960` |
 | `kt:us-chess` | `kt:elo-rating-system` |
 | `kt:visualization` | `kt:chunking-theory` |
+| `kt:weak-squares` | `kt:outpost` |
 | `kt:william-chase` | `kt:chunking-theory` |
 | `kt:zwischenzug` | `kt:fork` |

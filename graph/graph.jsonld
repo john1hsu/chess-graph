@@ -1450,6 +1450,98 @@
       ]
     },
     {
+      "@id": "kt:outpost",
+      "@type": "kto:StrategicConcept",
+      "skos:prefLabel": "Outpost",
+      "skos:definition": "An advanced square, usually on the opponent's half of the board, where a piece (most often a knight) can be planted because no enemy pawn can attack it; ideally the square is also protected by a friendly pawn and cannot easily be contested by an enemy minor piece.",
+      "kto:domain": "middlegame-strategy",
+      "dcterms:created": "2026-11-08",
+      "kto:verified": "2026-11-08",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Outpost",
+          "dcterms:publisher": "Chess.com (Chess Terms)",
+          "schema:url": "https://www.chess.com/terms/outpost-chess",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The Knight Fork: Strategic implications (Predator at the Chessboard)",
+          "dcterms:publisher": "Ward Farnsworth, chesstactics.org",
+          "schema:url": "https://www.chesstactics.org/the-double-attack/the-knight-fork/strategic-implications/2_1_12_1.html",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Chess Pattern Recognition for Beginners (sample pages)",
+          "dcterms:publisher": "Arthur van de Oudeweetering, New In Chess (2018)",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/9069.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "My System (excerpt)",
+          "dcterms:publisher": "Aron Nimzowitsch, Quality Chess (2007 edition)",
+          "schema:url": "https://qualitychess.co.uk/wp-content/uploads/2024/02/MySystem-excerpt.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Playing the Sveshnikov (sample pages)",
+          "dcterms:publisher": "Milos Pavlovic, Quality Chess (2023), excerpt hosted by New In Chess",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/8861.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The Winning Academy 32: The Hole",
+          "dcterms:publisher": "Jan Markos, ChessBase News (22 April 2024)",
+          "schema:url": "https://en.chessbase.com/post/the-winning-academy-32-the-hole",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/middlegame-strategy/outpost.md",
+      "skos:altLabel": [
+        "Outpost square",
+        "Knight outpost",
+        "Strong square",
+        "Support point"
+      ],
+      "kto:fen": "r1bqkb1r/5p1p/p1np1p2/1p1Np3/4P3/N7/PPP2PPP/R2QKB1R b KQkq - 1 10",
+      "skos:broader": [
+        {
+          "@id": "kt:weak-squares"
+        },
+        {
+          "@id": "kt:pawn-structure"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:isolated-queens-pawn"
+        },
+        {
+          "@id": "kt:blockade"
+        },
+        {
+          "@id": "kt:backward-pawn"
+        },
+        {
+          "@id": "kt:good-knight-versus-bad-bishop"
+        },
+        {
+          "@id": "kt:sveshnikov-variation"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:pawn-structure"
+        }
+      ],
+      "kto:championedBy": [
+        {
+          "@id": "kt:aron-nimzowitsch"
+        }
+      ]
+    },
+    {
       "@id": "kt:caro-kann-defence",
       "@type": "kto:Opening",
       "skos:prefLabel": "Caro-Kann Defence",

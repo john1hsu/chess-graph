@@ -564,6 +564,34 @@
 <https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/chess-graph/ontology#fen> "6k1/1q3ppp/8/8/8/8/1P3PPP/3R2K1 b - - 0 1" .
 <https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/outpost> <http://purl.org/dc/terms/created> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/outpost> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
+<https://github.com/john1hsu/chess-graph/id/outpost> <http://www.w3.org/2000/01/rdf-schema#label> "Outpost" .
+<https://github.com/john1hsu/chess-graph/id/outpost> <http://www.w3.org/2004/02/skos/core#altLabel> "Knight outpost" .
+<https://github.com/john1hsu/chess-graph/id/outpost> <http://www.w3.org/2004/02/skos/core#altLabel> "Outpost square" .
+<https://github.com/john1hsu/chess-graph/id/outpost> <http://www.w3.org/2004/02/skos/core#altLabel> "Strong square" .
+<https://github.com/john1hsu/chess-graph/id/outpost> <http://www.w3.org/2004/02/skos/core#altLabel> "Support point" .
+<https://github.com/john1hsu/chess-graph/id/outpost> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/pawn-structure> .
+<https://github.com/john1hsu/chess-graph/id/outpost> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/weak-squares> .
+<https://github.com/john1hsu/chess-graph/id/outpost> <http://www.w3.org/2004/02/skos/core#definition> "An advanced square, usually on the opponent's half of the board, where a piece (most often a knight) can be planted because no enemy pawn can attack it; ideally the square is also protected by a friendly pawn and cannot easily be contested by an enemy minor piece." .
+<https://github.com/john1hsu/chess-graph/id/outpost> <http://www.w3.org/2004/02/skos/core#prefLabel> "Outpost" .
+<https://github.com/john1hsu/chess-graph/id/outpost> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/backward-pawn> .
+<https://github.com/john1hsu/chess-graph/id/outpost> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/blockade> .
+<https://github.com/john1hsu/chess-graph/id/outpost> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/good-knight-versus-bad-bishop> .
+<https://github.com/john1hsu/chess-graph/id/outpost> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/isolated-queens-pawn> .
+<https://github.com/john1hsu/chess-graph/id/outpost> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/sveshnikov-variation> .
+<https://github.com/john1hsu/chess-graph/id/outpost> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/outpost/s1> .
+<https://github.com/john1hsu/chess-graph/id/outpost> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/outpost/s2> .
+<https://github.com/john1hsu/chess-graph/id/outpost> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/outpost/s3> .
+<https://github.com/john1hsu/chess-graph/id/outpost> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/outpost/s4> .
+<https://github.com/john1hsu/chess-graph/id/outpost> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/outpost/s5> .
+<https://github.com/john1hsu/chess-graph/id/outpost> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/outpost/s6> .
+<https://github.com/john1hsu/chess-graph/id/outpost> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> .
+<https://github.com/john1hsu/chess-graph/id/outpost> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/pawn-structure> .
+<https://github.com/john1hsu/chess-graph/id/outpost> <https://github.com/john1hsu/chess-graph/ontology#domain> "middlegame-strategy" .
+<https://github.com/john1hsu/chess-graph/id/outpost> <https://github.com/john1hsu/chess-graph/ontology#fen> "r1bqkb1r/5p1p/p1np1p2/1p1Np3/4P3/N7/PPP2PPP/R2QKB1R b KQkq - 1 10" .
+<https://github.com/john1hsu/chess-graph/id/outpost> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/outpost> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/pawn-promotion> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/pawn-promotion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Rule> .
 <https://github.com/john1hsu/chess-graph/id/pawn-promotion> <http://www.w3.org/2000/01/rdf-schema#label> "Pawn promotion" .
@@ -1190,6 +1218,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
 <https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s5> <https://schema.org/url> "https://lczero.org/dev/overview" .
+<https://github.com/john1hsu/chess-graph/id/source/outpost/s1> <http://purl.org/dc/terms/publisher> "Chess.com (Chess Terms)" .
+<https://github.com/john1hsu/chess-graph/id/source/outpost/s1> <http://purl.org/dc/terms/title> "Outpost" .
+<https://github.com/john1hsu/chess-graph/id/source/outpost/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/outpost/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/outpost/s1> <https://schema.org/url> "https://www.chess.com/terms/outpost-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/outpost/s2> <http://purl.org/dc/terms/publisher> "Ward Farnsworth, chesstactics.org" .
+<https://github.com/john1hsu/chess-graph/id/source/outpost/s2> <http://purl.org/dc/terms/title> "The Knight Fork: Strategic implications (Predator at the Chessboard)" .
+<https://github.com/john1hsu/chess-graph/id/source/outpost/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/outpost/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/outpost/s2> <https://schema.org/url> "https://www.chesstactics.org/the-double-attack/the-knight-fork/strategic-implications/2_1_12_1.html" .
+<https://github.com/john1hsu/chess-graph/id/source/outpost/s3> <http://purl.org/dc/terms/publisher> "Arthur van de Oudeweetering, New In Chess (2018)" .
+<https://github.com/john1hsu/chess-graph/id/source/outpost/s3> <http://purl.org/dc/terms/title> "Chess Pattern Recognition for Beginners (sample pages)" .
+<https://github.com/john1hsu/chess-graph/id/source/outpost/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/outpost/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/outpost/s3> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/9069.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/outpost/s4> <http://purl.org/dc/terms/publisher> "Aron Nimzowitsch, Quality Chess (2007 edition)" .
+<https://github.com/john1hsu/chess-graph/id/source/outpost/s4> <http://purl.org/dc/terms/title> "My System (excerpt)" .
+<https://github.com/john1hsu/chess-graph/id/source/outpost/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/outpost/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/outpost/s4> <https://schema.org/url> "https://qualitychess.co.uk/wp-content/uploads/2024/02/MySystem-excerpt.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/outpost/s5> <http://purl.org/dc/terms/publisher> "Milos Pavlovic, Quality Chess (2023), excerpt hosted by New In Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/outpost/s5> <http://purl.org/dc/terms/title> "Playing the Sveshnikov (sample pages)" .
+<https://github.com/john1hsu/chess-graph/id/source/outpost/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/outpost/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/outpost/s5> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/8861.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/outpost/s6> <http://purl.org/dc/terms/publisher> "Jan Markos, ChessBase News (22 April 2024)" .
+<https://github.com/john1hsu/chess-graph/id/source/outpost/s6> <http://purl.org/dc/terms/title> "The Winning Academy 32: The Hole" .
+<https://github.com/john1hsu/chess-graph/id/source/outpost/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/outpost/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/outpost/s6> <https://schema.org/url> "https://en.chessbase.com/post/the-winning-academy-32-the-hole" .
 <https://github.com/john1hsu/chess-graph/id/source/pawn-promotion/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
 <https://github.com/john1hsu/chess-graph/id/source/pawn-promotion/s1> <http://purl.org/dc/terms/title> "FIDE Laws of Chess (applied from 1 January 2023), full text: Articles 3.7, 4.4, 4.6, 7.5 and Appendix A" .
 <https://github.com/john1hsu/chess-graph/id/source/pawn-promotion/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
