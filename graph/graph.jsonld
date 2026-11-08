@@ -990,6 +990,108 @@
           "@id": "kt:sicilian-defence"
         }
       ]
+    },
+    {
+      "@id": "kt:wilhelm-steinitz",
+      "@type": "kto:Player",
+      "skos:prefLabel": "Wilhelm Steinitz",
+      "skos:definition": "Prague-born master (1836–1900) who became the first official world chess champion by beating Johannes Zukertort in 1886, held the title until losing to Emanuel Lasker in 1894, and laid the foundations of positional play with his theory of balance and the accumulation of small advantages.",
+      "kto:domain": "players",
+      "dcterms:created": "2026-11-08",
+      "kto:verified": "2026-11-08",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Wilhelm Steinitz",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/biography/Wilhelm-Steinitz",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Wilhelm (William) Steinitz (inductee page)",
+          "dcterms:publisher": "World Chess Hall of Fame",
+          "schema:url": "https://worldchesshof.org/inductee/wilhelm-william-steinitz/",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "World Chess Championship Timeline (exhibition panel, PDF)",
+          "dcterms:publisher": "World Chess Hall of Fame",
+          "schema:url": "https://worldchesshof.org/wp-content/uploads/2025/02/World-Chess-Championship-Timeline-1.pdf",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Wilhelm Steinitz (Open Chess Museum, world champions)",
+          "dcterms:publisher": "FIDE",
+          "schema:url": "https://museum.fide.com/champions/wilhelm-steinitz",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "World Chess Championship :: New York City, Saint Louis, New Orleans 1886",
+          "dcterms:publisher": "OlimpBase (Wojciech Bartelski)",
+          "schema:url": "https://olimpbase.org/ind-wcc/wc1886-wch.html",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "Britannica: The Evolution of Chess Theory (Part 2), by GM Andrew Soltis",
+          "dcterms:publisher": "ChessBase News, republishing Encyclopaedia Britannica with permission",
+          "schema:url": "https://en.chessbase.com/post/britannica-the-development-of-chess-theory-2",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Steinitz, William – von Bardeleben, Curt, Hastings 1895 (from The Hastings Chess Tournament 1895, ed. H. F. Cheshire, 1896)",
+          "dcterms:publisher": "IRLchess digital edition of the tournament book",
+          "schema:url": "https://www.irlchess.com/hastings/hastings1895_allfiles_v1.1/games_hastings1895/g106.htm",
+          "kto:sourceType": "primary-record"
+        }
+      ],
+      "kto:file": "articles/players/wilhelm-steinitz.md",
+      "skos:altLabel": [
+        "William Steinitz",
+        "W. Steinitz",
+        "Steinitz"
+      ],
+      "kto:fen": "r1r4k/pp1q3R/5pp1/3p2N1/6Q1/8/PP3PPP/2R3K1 b - - 0 25",
+      "skos:broader": [
+        {
+          "@id": "kt:world-chess-championship"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:emanuel-lasker"
+        },
+        {
+          "@id": "kt:johannes-zukertort"
+        },
+        {
+          "@id": "kt:mikhail-chigorin"
+        },
+        {
+          "@id": "kt:adolf-anderssen"
+        },
+        {
+          "@id": "kt:outpost"
+        }
+      ],
+      "kto:holdsTitle": [
+        {
+          "@id": "kt:world-chess-champion"
+        }
+      ],
+      "kto:playedIn": [
+        {
+          "@id": "kt:world-chess-championship-1886"
+        },
+        {
+          "@id": "kt:hastings-1895"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:steinitz-von-bardeleben-hastings-1895"
+        }
+      ]
     }
   ]
 }

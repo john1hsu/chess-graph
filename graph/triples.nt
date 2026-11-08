@@ -598,3 +598,67 @@
 <https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s6> <https://schema.org/url> "https://mediocrechess.sourceforge.net/guides/quiescentsearch.html" .
+<https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s1> <http://purl.org/dc/terms/title> "Wilhelm Steinitz" .
+<https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s1> <https://schema.org/url> "https://www.britannica.com/biography/Wilhelm-Steinitz" .
+<https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s2> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
+<https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s2> <http://purl.org/dc/terms/title> "Wilhelm (William) Steinitz (inductee page)" .
+<https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s2> <https://schema.org/url> "https://worldchesshof.org/inductee/wilhelm-william-steinitz/" .
+<https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s3> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
+<https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s3> <http://purl.org/dc/terms/title> "World Chess Championship Timeline (exhibition panel, PDF)" .
+<https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s3> <https://schema.org/url> "https://worldchesshof.org/wp-content/uploads/2025/02/World-Chess-Championship-Timeline-1.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s4> <http://purl.org/dc/terms/publisher> "FIDE" .
+<https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s4> <http://purl.org/dc/terms/title> "Wilhelm Steinitz (Open Chess Museum, world champions)" .
+<https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s4> <https://schema.org/url> "https://museum.fide.com/champions/wilhelm-steinitz" .
+<https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s5> <http://purl.org/dc/terms/publisher> "OlimpBase (Wojciech Bartelski)" .
+<https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s5> <http://purl.org/dc/terms/title> "World Chess Championship :: New York City, Saint Louis, New Orleans 1886" .
+<https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s5> <https://schema.org/url> "https://olimpbase.org/ind-wcc/wc1886-wch.html" .
+<https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s6> <http://purl.org/dc/terms/publisher> "ChessBase News, republishing Encyclopaedia Britannica with permission" .
+<https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s6> <http://purl.org/dc/terms/title> "Britannica: The Evolution of Chess Theory (Part 2), by GM Andrew Soltis" .
+<https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s6> <https://schema.org/url> "https://en.chessbase.com/post/britannica-the-development-of-chess-theory-2" .
+<https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s7> <http://purl.org/dc/terms/publisher> "IRLchess digital edition of the tournament book" .
+<https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s7> <http://purl.org/dc/terms/title> "Steinitz, William – von Bardeleben, Curt, Hastings 1895 (from The Hastings Chess Tournament 1895, ed. H. F. Cheshire, 1896)" .
+<https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s7> <https://schema.org/url> "https://www.irlchess.com/hastings/hastings1895_allfiles_v1.1/games_hastings1895/g106.htm" .
+<https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <http://purl.org/dc/terms/created> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
+<https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <http://www.w3.org/2000/01/rdf-schema#label> "Wilhelm Steinitz" .
+<https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <http://www.w3.org/2004/02/skos/core#altLabel> "Steinitz" .
+<https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <http://www.w3.org/2004/02/skos/core#altLabel> "W. Steinitz" .
+<https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <http://www.w3.org/2004/02/skos/core#altLabel> "William Steinitz" .
+<https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <http://www.w3.org/2004/02/skos/core#definition> "Prague-born master (1836–1900) who became the first official world chess champion by beating Johannes Zukertort in 1886, held the title until losing to Emanuel Lasker in 1894, and laid the foundations of positional play with his theory of balance and the accumulation of small advantages." .
+<https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wilhelm Steinitz" .
+<https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/adolf-anderssen> .
+<https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/emanuel-lasker> .
+<https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/johannes-zukertort> .
+<https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> .
+<https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/outpost> .
+<https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s1> .
+<https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s2> .
+<https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s3> .
+<https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s4> .
+<https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s5> .
+<https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s6> .
+<https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s7> .
+<https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <https://github.com/john1hsu/chess-graph/ontology#domain> "players" .
+<https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> .
+<https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <https://github.com/john1hsu/chess-graph/ontology#fen> "r1r4k/pp1q3R/5pp1/3p2N1/6Q1/8/PP3PPP/2R3K1 b - - 0 25" .
+<https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <https://github.com/john1hsu/chess-graph/ontology#holdsTitle> <https://github.com/john1hsu/chess-graph/id/world-chess-champion> .
+<https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/hastings-1895> .
+<https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> .
+<https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .

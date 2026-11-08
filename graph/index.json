@@ -278,5 +278,30 @@
       "https://scilit.com/publications/0a2e67498063e52c5cd0434c81dc2819",
       "https://mediocrechess.sourceforge.net/guides/quiescentsearch.html"
     ]
+  },
+  {
+    "id": "kt:wilhelm-steinitz",
+    "title": "Wilhelm Steinitz",
+    "aliases": [
+      "William Steinitz",
+      "W. Steinitz",
+      "Steinitz"
+    ],
+    "type": "Player",
+    "domain": "players",
+    "file": "articles/players/wilhelm-steinitz.md",
+    "created": "2026-11-08",
+    "verified": "2026-11-08",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://www.britannica.com/biography/Wilhelm-Steinitz",
+      "https://worldchesshof.org/inductee/wilhelm-william-steinitz/",
+      "https://worldchesshof.org/wp-content/uploads/2025/02/World-Chess-Championship-Timeline-1.pdf",
+      "https://museum.fide.com/champions/wilhelm-steinitz",
+      "https://olimpbase.org/ind-wcc/wc1886-wch.html",
+      "https://en.chessbase.com/post/britannica-the-development-of-chess-theory-2",
+      "https://www.irlchess.com/hastings/hastings1895_allfiles_v1.1/games_hastings1895/g106.htm"
+    ]
   }
 ]

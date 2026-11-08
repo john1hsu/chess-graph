@@ -11,9 +11,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:deep-blue-versus-kasparov` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:move-ordering` | `kt:alpha-beta-pruning`, `kt:quiescence-search` |
+| `kt:outpost` | `kt:isolated-queens-pawn`, `kt:wilhelm-steinitz` |
 | `kt:philidor-position` | `kt:lucena-position`, `kt:lucena-position` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
 | `kt:transposition-table` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
+| `kt:adolf-anderssen` | `kt:wilhelm-steinitz` |
 | `kt:alphazero` | `kt:evaluation-function` |
 | `kt:anatoly-karpov` | `kt:caro-kann-defence` |
 | `kt:arpad-elo` | `kt:elo-rating-system` |
@@ -21,21 +23,24 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
 | `kt:cutting-off-the-king` | `kt:lucena-position` |
 | `kt:deep-blue` | `kt:deep-blue-versus-kasparov` |
+| `kt:emanuel-lasker` | `kt:wilhelm-steinitz` |
 | `kt:french-defence` | `kt:caro-kann-defence` |
 | `kt:garry-kasparov` | `kt:deep-blue-versus-kasparov` |
 | `kt:glicko-rating-system` | `kt:elo-rating-system` |
 | `kt:grandmaster-title` | `kt:elo-rating-system` |
 | `kt:hanging-pawns` | `kt:isolated-queens-pawn` |
+| `kt:hastings-1895` | `kt:wilhelm-steinitz` |
 | `kt:horatio-caro` | `kt:caro-kann-defence` |
+| `kt:johannes-zukertort` | `kt:wilhelm-steinitz` |
 | `kt:john-mccarthy` | `kt:alpha-beta-pruning` |
 | `kt:john-von-neumann` | `kt:minimax` |
 | `kt:king-and-pawn-endgames` | `kt:lucena-position` |
 | `kt:leonardo-torres-y-quevedo` | `kt:claude-shannon` |
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position` |
 | `kt:marcus-kann` | `kt:caro-kann-defence` |
+| `kt:mikhail-chigorin` | `kt:wilhelm-steinitz` |
 | `kt:negamax` | `kt:minimax` |
 | `kt:nnue` | `kt:evaluation-function` |
-| `kt:outpost` | `kt:isolated-queens-pawn` |
 | `kt:panov-botvinnik-attack` | `kt:caro-kann-defence` |
 | `kt:pawn-promotion` | `kt:lucena-position` |
 | `kt:pawn-structure` | `kt:isolated-queens-pawn` |
@@ -47,5 +52,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:siegbert-tarrasch` | `kt:isolated-queens-pawn` |
 | `kt:solving-chess` | `kt:game-tree-search` |
 | `kt:static-exchange-evaluation` | `kt:quiescence-search` |
+| `kt:steinitz-von-bardeleben-hastings-1895` | `kt:wilhelm-steinitz` |
 | `kt:tarrasch-defence` | `kt:isolated-queens-pawn` |
 | `kt:us-chess` | `kt:elo-rating-system` |
+| `kt:world-chess-champion` | `kt:wilhelm-steinitz` |
+| `kt:world-chess-championship` | `kt:wilhelm-steinitz` |
+| `kt:world-chess-championship-1886` | `kt:wilhelm-steinitz` |
