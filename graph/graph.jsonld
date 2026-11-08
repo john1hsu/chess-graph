@@ -803,6 +803,99 @@
           "@id": "kt:hanging-pawns"
         }
       ]
+    },
+    {
+      "@id": "kt:caro-kann-defence",
+      "@type": "kto:Opening",
+      "skos:prefLabel": "Caro-Kann Defence",
+      "skos:definition": "A semi-open defence to 1.e4 in which Black plays 1...c6 to prepare ...d5, challenging White's centre while keeping a sound pawn structure and, in many lines, developing the light-squared bishop before playing ...e6.",
+      "kto:domain": "openings",
+      "dcterms:created": "2026-11-08",
+      "kto:verified": "2026-11-08",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Caro-Kann Defence",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://chesshistory.com/winter/extra/carokann.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "The Caro-Kann Defence",
+          "dcterms:publisher": "ChessBase Learn",
+          "schema:url": "https://learn.chessbase.com/en/page/the-caro-kann-defence",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Playing the Caro-Kann: A Counter-Attacking Repertoire",
+          "dcterms:publisher": "Lars Schandorff, Quality Chess (2021), New In Chess product page",
+          "schema:url": "https://www.newinchess.com/playing-the-caro-kann-schandorff",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Caro-Kann chapter (Advance Variation), sample pages of a 1.e4 repertoire for White",
+          "dcterms:publisher": "New In Chess (product sample PDF)",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/8472.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Caro-Kann (B10) 1 e4 c6",
+          "dcterms:publisher": "Chessgames.com",
+          "schema:url": "https://chessgames.com/perl/chessopening?eco=B10",
+          "kto:sourceType": "database"
+        }
+      ],
+      "kto:file": "articles/openings/caro-kann-defence.md",
+      "skos:altLabel": [
+        "Caro-Kann Defense",
+        "Caro–Kann Defence",
+        "Caro-Kann",
+        "Caro Kann",
+        "Caro's Opening",
+        "Kann Defence"
+      ],
+      "kto:eco": "B10",
+      "kto:moves": "1.e4 c6 2.d4 d5",
+      "skos:broader": [
+        {
+          "@id": "kt:semi-open-games"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:isolated-queens-pawn"
+        },
+        {
+          "@id": "kt:deep-blue-versus-kasparov"
+        },
+        {
+          "@id": "kt:french-defence"
+        }
+      ],
+      "kto:namedAfter": [
+        {
+          "@id": "kt:horatio-caro"
+        },
+        {
+          "@id": "kt:marcus-kann"
+        }
+      ],
+      "kto:leadsTo": [
+        {
+          "@id": "kt:panov-botvinnik-attack"
+        }
+      ],
+      "kto:championedBy": [
+        {
+          "@id": "kt:anatoly-karpov"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:sicilian-defence"
+        }
+      ]
     }
   ]
 }

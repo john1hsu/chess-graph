@@ -26,6 +26,36 @@
 <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <https://github.com/john1hsu/chess-graph/ontology#fen> "r1bqkb1r/pppp1ppp/2n2n2/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 4 4" .
 <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-07" .
+<https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <http://purl.org/dc/terms/created> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Opening> .
+<https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <http://www.w3.org/2000/01/rdf-schema#label> "Caro-Kann Defence" .
+<https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "Caro Kann" .
+<https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "Caro's Opening" .
+<https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "Caro-Kann Defense" .
+<https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "Caro-Kann" .
+<https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "Caro–Kann Defence" .
+<https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "Kann Defence" .
+<https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/semi-open-games> .
+<https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <http://www.w3.org/2004/02/skos/core#definition> "A semi-open defence to 1.e4 in which Black plays 1...c6 to prepare ...d5, challenging White's centre while keeping a sound pawn structure and, in many lines, developing the light-squared bishop before playing ...e6." .
+<https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <http://www.w3.org/2004/02/skos/core#prefLabel> "Caro-Kann Defence" .
+<https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> .
+<https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/french-defence> .
+<https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/isolated-queens-pawn> .
+<https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s1> .
+<https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s2> .
+<https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s3> .
+<https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s4> .
+<https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s5> .
+<https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <https://github.com/john1hsu/chess-graph/ontology#alternativeTo> <https://github.com/john1hsu/chess-graph/id/sicilian-defence> .
+<https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/anatoly-karpov> .
+<https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <https://github.com/john1hsu/chess-graph/ontology#domain> "openings" .
+<https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <https://github.com/john1hsu/chess-graph/ontology#eco> "B10" .
+<https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/panov-botvinnik-attack> .
+<https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <https://github.com/john1hsu/chess-graph/ontology#moves> "1.e4 c6 2.d4 d5" .
+<https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <https://github.com/john1hsu/chess-graph/ontology#namedAfter> <https://github.com/john1hsu/chess-graph/id/horatio-caro> .
+<https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <https://github.com/john1hsu/chess-graph/ontology#namedAfter> <https://github.com/john1hsu/chess-graph/id/marcus-kann> .
+<https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/claude-shannon> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/claude-shannon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Person> .
 <https://github.com/john1hsu/chess-graph/id/claude-shannon> <http://www.w3.org/2000/01/rdf-schema#label> "Claude Shannon" .
@@ -270,6 +300,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s5> <https://schema.org/url> "https://www.isa-afp.org/browser_info/current/AFP/Alpha_Beta_Pruning/document.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s1> <http://purl.org/dc/terms/title> "The Caro-Kann Defence" .
+<https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s1> <https://schema.org/url> "https://chesshistory.com/winter/extra/carokann.html" .
+<https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s2> <http://purl.org/dc/terms/publisher> "ChessBase Learn" .
+<https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s2> <http://purl.org/dc/terms/title> "The Caro-Kann Defence" .
+<https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s2> <https://schema.org/url> "https://learn.chessbase.com/en/page/the-caro-kann-defence" .
+<https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s3> <http://purl.org/dc/terms/publisher> "Lars Schandorff, Quality Chess (2021), New In Chess product page" .
+<https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s3> <http://purl.org/dc/terms/title> "Playing the Caro-Kann: A Counter-Attacking Repertoire" .
+<https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s3> <https://schema.org/url> "https://www.newinchess.com/playing-the-caro-kann-schandorff" .
+<https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s4> <http://purl.org/dc/terms/publisher> "New In Chess (product sample PDF)" .
+<https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s4> <http://purl.org/dc/terms/title> "Caro-Kann chapter (Advance Variation), sample pages of a 1.e4 repertoire for White" .
+<https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s4> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/8472.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s5> <http://purl.org/dc/terms/publisher> "Chessgames.com" .
+<https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s5> <http://purl.org/dc/terms/title> "Caro-Kann (B10) 1 e4 c6" .
+<https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s5> <https://schema.org/url> "https://chessgames.com/perl/chessopening?eco=B10" .
 <https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s1> <http://purl.org/dc/terms/publisher> "Claude E. Shannon, reproduced by Fermat's Library" .
 <https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s1> <http://purl.org/dc/terms/title> "Programming a Computer for Playing Chess (Philosophical Magazine, 1950), full text" .
 <https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

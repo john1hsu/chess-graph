@@ -6,7 +6,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:quiescence-search` | `kt:claude-shannon`, `kt:evaluation-function`, `kt:minimax`, `kt:deep-blue-versus-kasparov` |
 | `kt:monte-carlo-tree-search` | `kt:alpha-beta-pruning`, `kt:game-tree-search`, `kt:minimax` |
-| `kt:caro-kann-defence` | `kt:deep-blue-versus-kasparov`, `kt:isolated-queens-pawn` |
 | `kt:computer-chess` | `kt:claude-shannon`, `kt:game-tree-search` |
 | `kt:fide` | `kt:elo-rating-system`, `kt:elo-rating-system` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:deep-blue-versus-kasparov` |
@@ -16,29 +15,36 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
 | `kt:transposition-table` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:alphazero` | `kt:evaluation-function` |
+| `kt:anatoly-karpov` | `kt:caro-kann-defence` |
 | `kt:arpad-elo` | `kt:elo-rating-system` |
 | `kt:blockade` | `kt:isolated-queens-pawn` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
 | `kt:cutting-off-the-king` | `kt:lucena-position` |
 | `kt:deep-blue` | `kt:deep-blue-versus-kasparov` |
+| `kt:french-defence` | `kt:caro-kann-defence` |
 | `kt:garry-kasparov` | `kt:deep-blue-versus-kasparov` |
 | `kt:glicko-rating-system` | `kt:elo-rating-system` |
 | `kt:grandmaster-title` | `kt:elo-rating-system` |
 | `kt:hanging-pawns` | `kt:isolated-queens-pawn` |
+| `kt:horatio-caro` | `kt:caro-kann-defence` |
 | `kt:john-mccarthy` | `kt:alpha-beta-pruning` |
 | `kt:john-von-neumann` | `kt:minimax` |
 | `kt:king-and-pawn-endgames` | `kt:lucena-position` |
 | `kt:leonardo-torres-y-quevedo` | `kt:claude-shannon` |
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position` |
+| `kt:marcus-kann` | `kt:caro-kann-defence` |
 | `kt:move-ordering` | `kt:alpha-beta-pruning` |
 | `kt:negamax` | `kt:minimax` |
 | `kt:nnue` | `kt:evaluation-function` |
 | `kt:outpost` | `kt:isolated-queens-pawn` |
+| `kt:panov-botvinnik-attack` | `kt:caro-kann-defence` |
 | `kt:pawn-promotion` | `kt:lucena-position` |
 | `kt:pawn-structure` | `kt:isolated-queens-pawn` |
 | `kt:proof-number-search` | `kt:game-tree-search` |
 | `kt:queens-gambit-accepted` | `kt:isolated-queens-pawn` |
 | `kt:rook-endgames` | `kt:lucena-position` |
+| `kt:semi-open-games` | `kt:caro-kann-defence` |
+| `kt:sicilian-defence` | `kt:caro-kann-defence` |
 | `kt:siegbert-tarrasch` | `kt:isolated-queens-pawn` |
 | `kt:solving-chess` | `kt:game-tree-search` |
 | `kt:tarrasch-defence` | `kt:isolated-queens-pawn` |

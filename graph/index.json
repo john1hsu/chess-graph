@@ -24,6 +24,33 @@
     ]
   },
   {
+    "id": "kt:caro-kann-defence",
+    "title": "Caro-Kann Defence",
+    "aliases": [
+      "Caro-Kann Defense",
+      "Caro–Kann Defence",
+      "Caro-Kann",
+      "Caro Kann",
+      "Caro's Opening",
+      "Kann Defence"
+    ],
+    "type": "Opening",
+    "domain": "openings",
+    "file": "articles/openings/caro-kann-defence.md",
+    "created": "2026-11-08",
+    "verified": "2026-11-08",
+    "volatile": false,
+    "status": "current",
+    "eco": "B10",
+    "source_urls": [
+      "https://chesshistory.com/winter/extra/carokann.html",
+      "https://learn.chessbase.com/en/page/the-caro-kann-defence",
+      "https://www.newinchess.com/playing-the-caro-kann-schandorff",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/8472.pdf",
+      "https://chessgames.com/perl/chessopening?eco=B10"
+    ]
+  },
+  {
     "id": "kt:claude-shannon",
     "title": "Claude Shannon",
     "aliases": [
