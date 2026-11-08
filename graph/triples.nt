@@ -254,6 +254,33 @@
 <https://github.com/john1hsu/chess-graph/id/elo-rating-system> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/fide> .
 <https://github.com/john1hsu/chess-graph/id/elo-rating-system> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/elo-rating-system> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-07" .
+<https://github.com/john1hsu/chess-graph/id/emanuel-lasker> <http://purl.org/dc/terms/created> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/emanuel-lasker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
+<https://github.com/john1hsu/chess-graph/id/emanuel-lasker> <http://www.w3.org/2000/01/rdf-schema#label> "Emanuel Lasker" .
+<https://github.com/john1hsu/chess-graph/id/emanuel-lasker> <http://www.w3.org/2004/02/skos/core#altLabel> "Dr. Emanuel Lasker" .
+<https://github.com/john1hsu/chess-graph/id/emanuel-lasker> <http://www.w3.org/2004/02/skos/core#altLabel> "Em. Lasker" .
+<https://github.com/john1hsu/chess-graph/id/emanuel-lasker> <http://www.w3.org/2004/02/skos/core#altLabel> "Lasker" .
+<https://github.com/john1hsu/chess-graph/id/emanuel-lasker> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/emanuel-lasker> <http://www.w3.org/2004/02/skos/core#definition> "German master (1868–1941) and the second official world chess champion, who took the title from Wilhelm Steinitz in 1894 and held it for 27 years until losing to José Raúl Capablanca in 1921, the longest reign in the championship's history; also a mathematician known for his work on ideals." .
+<https://github.com/john1hsu/chess-graph/id/emanuel-lasker> <http://www.w3.org/2004/02/skos/core#prefLabel> "Emanuel Lasker" .
+<https://github.com/john1hsu/chess-graph/id/emanuel-lasker> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> .
+<https://github.com/john1hsu/chess-graph/id/emanuel-lasker> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/ruy-lopez> .
+<https://github.com/john1hsu/chess-graph/id/emanuel-lasker> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> .
+<https://github.com/john1hsu/chess-graph/id/emanuel-lasker> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> .
+<https://github.com/john1hsu/chess-graph/id/emanuel-lasker> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/emanuel-lasker/s1> .
+<https://github.com/john1hsu/chess-graph/id/emanuel-lasker> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/emanuel-lasker/s2> .
+<https://github.com/john1hsu/chess-graph/id/emanuel-lasker> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/emanuel-lasker/s3> .
+<https://github.com/john1hsu/chess-graph/id/emanuel-lasker> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/emanuel-lasker/s4> .
+<https://github.com/john1hsu/chess-graph/id/emanuel-lasker> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/emanuel-lasker/s5> .
+<https://github.com/john1hsu/chess-graph/id/emanuel-lasker> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/emanuel-lasker/s6> .
+<https://github.com/john1hsu/chess-graph/id/emanuel-lasker> <https://github.com/john1hsu/chess-graph/ontology#domain> "players" .
+<https://github.com/john1hsu/chess-graph/id/emanuel-lasker> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/lasker-capablanca-st-petersburg-1914> .
+<https://github.com/john1hsu/chess-graph/id/emanuel-lasker> <https://github.com/john1hsu/chess-graph/ontology#fen> "r1b1r1k1/1pp1n1pp/p1pb1p2/5P2/4P3/1NN5/PPP3PP/R1B2RK1 b - - 0 12" .
+<https://github.com/john1hsu/chess-graph/id/emanuel-lasker> <https://github.com/john1hsu/chess-graph/ontology#holdsTitle> <https://github.com/john1hsu/chess-graph/id/world-chess-champion> .
+<https://github.com/john1hsu/chess-graph/id/emanuel-lasker> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/hastings-1895> .
+<https://github.com/john1hsu/chess-graph/id/emanuel-lasker> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/world-chess-championship-1894> .
+<https://github.com/john1hsu/chess-graph/id/emanuel-lasker> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/emanuel-lasker> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/en-passant> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/en-passant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Rule> .
 <https://github.com/john1hsu/chess-graph/id/en-passant> <http://www.w3.org/2000/01/rdf-schema#label> "En passant" .
@@ -966,6 +993,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s5> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/arpad-elo-and-the-elo-rating-system?page=0" .
+<https://github.com/john1hsu/chess-graph/id/source/emanuel-lasker/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/emanuel-lasker/s1> <http://purl.org/dc/terms/title> "Emanuel Lasker" .
+<https://github.com/john1hsu/chess-graph/id/source/emanuel-lasker/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/emanuel-lasker/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/emanuel-lasker/s1> <https://schema.org/url> "https://www.britannica.com/EBchecked/topic/330989/Emanuel-Lasker" .
+<https://github.com/john1hsu/chess-graph/id/source/emanuel-lasker/s2> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
+<https://github.com/john1hsu/chess-graph/id/source/emanuel-lasker/s2> <http://purl.org/dc/terms/title> "Emanuel Lasker (inductee page)" .
+<https://github.com/john1hsu/chess-graph/id/source/emanuel-lasker/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/emanuel-lasker/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/emanuel-lasker/s2> <https://schema.org/url> "https://worldchesshof.org/?p=929" .
+<https://github.com/john1hsu/chess-graph/id/source/emanuel-lasker/s3> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
+<https://github.com/john1hsu/chess-graph/id/source/emanuel-lasker/s3> <http://purl.org/dc/terms/title> "World Chess Championship Timeline (exhibition panel, PDF)" .
+<https://github.com/john1hsu/chess-graph/id/source/emanuel-lasker/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/emanuel-lasker/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/emanuel-lasker/s3> <https://schema.org/url> "https://worldchesshof.org/wp-content/uploads/2025/02/World-Chess-Championship-Timeline-1.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/emanuel-lasker/s4> <http://purl.org/dc/terms/publisher> "University of St Andrews" .
+<https://github.com/john1hsu/chess-graph/id/source/emanuel-lasker/s4> <http://purl.org/dc/terms/title> "Emanuel Lasker (MacTutor History of Mathematics biography, by J J O'Connor and E F Robertson)" .
+<https://github.com/john1hsu/chess-graph/id/source/emanuel-lasker/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/emanuel-lasker/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/emanuel-lasker/s4> <https://schema.org/url> "https://mathshistory.st-andrews.ac.uk/Biographies/Lasker/" .
+<https://github.com/john1hsu/chess-graph/id/source/emanuel-lasker/s5> <http://purl.org/dc/terms/publisher> "OlimpBase (Wojciech Bartelski)" .
+<https://github.com/john1hsu/chess-graph/id/source/emanuel-lasker/s5> <http://purl.org/dc/terms/title> "World Chess Championship :: NYC, Philadelphia, Montreal 1894" .
+<https://github.com/john1hsu/chess-graph/id/source/emanuel-lasker/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/emanuel-lasker/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/emanuel-lasker/s5> <https://schema.org/url> "https://olimpbase.org/ind-wcc/wc1894-wch.html" .
+<https://github.com/john1hsu/chess-graph/id/source/emanuel-lasker/s6> <http://purl.org/dc/terms/publisher> "Exeter Chess Club" .
+<https://github.com/john1hsu/chess-graph/id/source/emanuel-lasker/s6> <http://purl.org/dc/terms/title> "Ruy Lopez, Exchange Variation: White wins (includes Lasker–Capablanca, St Petersburg 1914)" .
+<https://github.com/john1hsu/chess-graph/id/source/emanuel-lasker/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/emanuel-lasker/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/emanuel-lasker/s6> <https://schema.org/url> "https://exeterchessclub.org.uk/node/817" .
 <https://github.com/john1hsu/chess-graph/id/source/en-passant/s1> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
 <https://github.com/john1hsu/chess-graph/id/source/en-passant/s1> <http://purl.org/dc/terms/title> "FIDE Laws of Chess (effective 1 January 2023), Articles 3.7 and 9.2" .
 <https://github.com/john1hsu/chess-graph/id/source/en-passant/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

@@ -230,6 +230,30 @@
     ]
   },
   {
+    "id": "kt:emanuel-lasker",
+    "title": "Emanuel Lasker",
+    "aliases": [
+      "Dr. Emanuel Lasker",
+      "Em. Lasker",
+      "Lasker"
+    ],
+    "type": "Player",
+    "domain": "players",
+    "file": "articles/players/emanuel-lasker.md",
+    "created": "2026-11-08",
+    "verified": "2026-11-08",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://www.britannica.com/EBchecked/topic/330989/Emanuel-Lasker",
+      "https://worldchesshof.org/?p=929",
+      "https://worldchesshof.org/wp-content/uploads/2025/02/World-Chess-Championship-Timeline-1.pdf",
+      "https://mathshistory.st-andrews.ac.uk/Biographies/Lasker/",
+      "https://olimpbase.org/ind-wcc/wc1894-wch.html",
+      "https://exeterchessclub.org.uk/node/817"
+    ]
+  },
+  {
     "id": "kt:en-passant",
     "title": "En passant",
     "aliases": [

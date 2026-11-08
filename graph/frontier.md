@@ -5,6 +5,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov` |
+| `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:emanuel-lasker`, `kt:wilhelm-steinitz` |
 | `kt:algebraic-notation` | `kt:castling`, `kt:fide-laws-of-chess` |
 | `kt:anatoly-karpov` | `kt:caro-kann-defence`, `kt:ruy-lopez` |
 | `kt:arbiter` | `kt:fide-laws-of-chess`, `kt:touch-move` |
@@ -14,6 +15,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:francois-andre-danican-philidor` | `kt:philidor-position`, `kt:pawn-structure` |
 | `kt:grandmaster-title` | `kt:elo-rating-system`, `kt:fide` |
 | `kt:hanging-pawns` | `kt:isolated-queens-pawn`, `kt:pawn-structure` |
+| `kt:hastings-1895` | `kt:emanuel-lasker`, `kt:wilhelm-steinitz` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:king-and-pawn-endgames` | `kt:lucena-position`, `kt:philidor-position` |
 | `kt:leela-chess-zero` | `kt:computer-chess`, `kt:monte-carlo-tree-search` |
@@ -22,13 +24,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
 | `kt:rook-endgames` | `kt:lucena-position`, `kt:philidor-position` |
+| `kt:siegbert-tarrasch` | `kt:isolated-queens-pawn`, `kt:emanuel-lasker` |
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
 | `kt:skewer` | `kt:fork`, `kt:fork` |
 | `kt:stalemate` | `kt:en-passant`, `kt:fide-laws-of-chess` |
 | `kt:threefold-repetition` | `kt:en-passant`, `kt:fide-laws-of-chess` |
 | `kt:transposition-table` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:us-chess` | `kt:elo-rating-system`, `kt:touch-move` |
-| `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:wilhelm-steinitz` |
 | `kt:world-chess-championship-1886` | `kt:world-chess-championship`, `kt:wilhelm-steinitz` |
 | `kt:adolf-anderssen` | `kt:wilhelm-steinitz` |
 | `kt:adriaan-de-groot` | `kt:chunking-theory` |
@@ -56,7 +58,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:discovered-attack` | `kt:fork` |
 | `kt:double-check` | `kt:fork` |
 | `kt:einstellung-effect` | `kt:chunking-theory` |
-| `kt:emanuel-lasker` | `kt:wilhelm-steinitz` |
 | `kt:endgame-tablebases` | `kt:computer-chess` |
 | `kt:european-chess-union` | `kt:fide` |
 | `kt:fide-world-fischer-random-chess-championship` | `kt:chess960` |
@@ -68,7 +69,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:good-knight-versus-bad-bishop` | `kt:outpost` |
 | `kt:gukesh-dommaraju` | `kt:world-chess-championship` |
 | `kt:hans-berliner` | `kt:horizon-effect` |
-| `kt:hastings-1895` | `kt:wilhelm-steinitz` |
 | `kt:herbert-simon` | `kt:chunking-theory` |
 | `kt:history-of-chess` | `kt:world-chess-championship` |
 | `kt:horatio-caro` | `kt:caro-kann-defence` |
@@ -77,7 +77,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:johannes-zukertort` | `kt:wilhelm-steinitz` |
 | `kt:john-mccarthy` | `kt:alpha-beta-pruning` |
 | `kt:john-von-neumann` | `kt:minimax` |
+| `kt:jose-raul-capablanca` | `kt:emanuel-lasker` |
 | `kt:king-safety` | `kt:castling` |
+| `kt:lasker-capablanca-st-petersburg-1914` | `kt:emanuel-lasker` |
 | `kt:leonardo-torres-y-quevedo` | `kt:claude-shannon` |
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position` |
 | `kt:marcus-kann` | `kt:caro-kann-defence` |
@@ -100,7 +102,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:semi-open-games` | `kt:caro-kann-defence` |
 | `kt:shuffle-chess` | `kt:chess960` |
 | `kt:sicilian-defence` | `kt:caro-kann-defence` |
-| `kt:siegbert-tarrasch` | `kt:isolated-queens-pawn` |
 | `kt:solving-chess` | `kt:game-tree-search` |
 | `kt:static-exchange-evaluation` | `kt:quiescence-search` |
 | `kt:steinitz-von-bardeleben-hastings-1895` | `kt:wilhelm-steinitz` |
@@ -114,4 +115,5 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:vladimir-kramnik` | `kt:ruy-lopez` |
 | `kt:weak-squares` | `kt:outpost` |
 | `kt:william-chase` | `kt:chunking-theory` |
+| `kt:world-chess-championship-1894` | `kt:emanuel-lasker` |
 | `kt:zwischenzug` | `kt:fork` |

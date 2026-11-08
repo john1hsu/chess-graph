@@ -1833,6 +1833,99 @@
       ]
     },
     {
+      "@id": "kt:emanuel-lasker",
+      "@type": "kto:Player",
+      "skos:prefLabel": "Emanuel Lasker",
+      "skos:definition": "German master (1868–1941) and the second official world chess champion, who took the title from Wilhelm Steinitz in 1894 and held it for 27 years until losing to José Raúl Capablanca in 1921, the longest reign in the championship's history; also a mathematician known for his work on ideals.",
+      "kto:domain": "players",
+      "dcterms:created": "2026-11-08",
+      "kto:verified": "2026-11-08",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Emanuel Lasker",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/EBchecked/topic/330989/Emanuel-Lasker",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Emanuel Lasker (inductee page)",
+          "dcterms:publisher": "World Chess Hall of Fame",
+          "schema:url": "https://worldchesshof.org/?p=929",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "World Chess Championship Timeline (exhibition panel, PDF)",
+          "dcterms:publisher": "World Chess Hall of Fame",
+          "schema:url": "https://worldchesshof.org/wp-content/uploads/2025/02/World-Chess-Championship-Timeline-1.pdf",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Emanuel Lasker (MacTutor History of Mathematics biography, by J J O'Connor and E F Robertson)",
+          "dcterms:publisher": "University of St Andrews",
+          "schema:url": "https://mathshistory.st-andrews.ac.uk/Biographies/Lasker/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "World Chess Championship :: NYC, Philadelphia, Montreal 1894",
+          "dcterms:publisher": "OlimpBase (Wojciech Bartelski)",
+          "schema:url": "https://olimpbase.org/ind-wcc/wc1894-wch.html",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "Ruy Lopez, Exchange Variation: White wins (includes Lasker–Capablanca, St Petersburg 1914)",
+          "dcterms:publisher": "Exeter Chess Club",
+          "schema:url": "https://exeterchessclub.org.uk/node/817",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/players/emanuel-lasker.md",
+      "skos:altLabel": [
+        "Dr. Emanuel Lasker",
+        "Em. Lasker",
+        "Lasker"
+      ],
+      "kto:fen": "r1b1r1k1/1pp1n1pp/p1pb1p2/5P2/4P3/1NN5/PPP3PP/R1B2RK1 b - - 0 12",
+      "skos:broader": [
+        {
+          "@id": "kt:world-chess-championship"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:wilhelm-steinitz"
+        },
+        {
+          "@id": "kt:jose-raul-capablanca"
+        },
+        {
+          "@id": "kt:siegbert-tarrasch"
+        },
+        {
+          "@id": "kt:ruy-lopez"
+        }
+      ],
+      "kto:holdsTitle": [
+        {
+          "@id": "kt:world-chess-champion"
+        }
+      ],
+      "kto:playedIn": [
+        {
+          "@id": "kt:world-chess-championship-1894"
+        },
+        {
+          "@id": "kt:hastings-1895"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:lasker-capablanca-st-petersburg-1914"
+        }
+      ]
+    },
+    {
       "@id": "kt:wilhelm-steinitz",
       "@type": "kto:Player",
       "skos:prefLabel": "Wilhelm Steinitz",
