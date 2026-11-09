@@ -159,6 +159,34 @@
     ]
   },
   {
+    "id": "kt:chess-olympiad",
+    "title": "Chess Olympiad",
+    "aliases": [
+      "FIDE Chess Olympiad",
+      "Tournament of Nations",
+      "Women's Chess Olympiad",
+      "Women's Olympiad"
+    ],
+    "type": "Event",
+    "domain": "events-and-organizations",
+    "file": "articles/events-and-organizations/chess-olympiad.md",
+    "created": "2026-11-09",
+    "verified": "2026-11-09",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://handbook.fide.com/files/handbook/Olympiad2022MainCompetition.pdf",
+      "https://museum.fide.com/fide-history",
+      "https://chennai2022.fide.com/tracing-the-history-of-chess-olympiad/",
+      "https://www.olimpbase.org/1927/1927in.html",
+      "https://museum.fide.com/exhibits/gold-medal-of-the-1952-chess-olympiad",
+      "https://olimpbase.org/1976/1976in.html",
+      "https://www.fide.com/india-triumphs-at-45th-chess-olympiad-winning-both-open-and-womens-competitions/",
+      "https://www.fide.com/uzbekistans-dream-finish-olympiad-gold-in-samarkand/",
+      "https://www.europechess.org/uzbekistan-and-china-win-the-46th-chess-olympiad/"
+    ]
+  },
+  {
     "id": "kt:chess960",
     "title": "Chess960",
     "aliases": [

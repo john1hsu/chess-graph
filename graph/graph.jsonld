@@ -1100,6 +1100,112 @@
       ]
     },
     {
+      "@id": "kt:chess-olympiad",
+      "@type": "kto:Event",
+      "skos:prefLabel": "Chess Olympiad",
+      "skos:definition": "The biennial team championship of national chess federations organised by FIDE, held since the first official edition in London in 1927, with Open and Women's sections played as eleven-round Swiss tournaments between teams of four boards scored by match points.",
+      "kto:domain": "events-and-organizations",
+      "dcterms:created": "2026-11-09",
+      "kto:verified": "2026-11-09",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "FIDE Chess Olympiad 2022 — Regulations for the Main Competition",
+          "dcterms:publisher": "FIDE Handbook",
+          "schema:url": "https://handbook.fide.com/files/handbook/Olympiad2022MainCompetition.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "FIDE history",
+          "dcterms:publisher": "FIDE Museum (museum.fide.com)",
+          "schema:url": "https://museum.fide.com/fide-history",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Tracing the History of Chess Olympiad",
+          "dcterms:publisher": "44th Chess Olympiad Chennai 2022 official site (FIDE)",
+          "schema:url": "https://chennai2022.fide.com/tracing-the-history-of-chess-olympiad/",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "1st Chess Olympiad: London 1927",
+          "dcterms:publisher": "OlimpBase, W. Bartelski",
+          "schema:url": "https://www.olimpbase.org/1927/1927in.html",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "Gold medal of the 1952 Chess Olympiad",
+          "dcterms:publisher": "FIDE Museum (museum.fide.com)",
+          "schema:url": "https://museum.fide.com/exhibits/gold-medal-of-the-1952-chess-olympiad",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "22nd Chess Olympiad: Haifa 1976",
+          "dcterms:publisher": "OlimpBase, W. Bartelski",
+          "schema:url": "https://olimpbase.org/1976/1976in.html",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "India triumphs at 45th Chess Olympiad, winning both Open and Women's competitions",
+          "dcterms:publisher": "FIDE (fide.com news, 22 September 2024)",
+          "schema:url": "https://www.fide.com/india-triumphs-at-45th-chess-olympiad-winning-both-open-and-womens-competitions/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Uzbekistan's dream finish: Olympiad gold in Samarkand",
+          "dcterms:publisher": "FIDE (fide.com news, 27 September 2026)",
+          "schema:url": "https://www.fide.com/uzbekistans-dream-finish-olympiad-gold-in-samarkand/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Uzbekistan and China win the 46th Chess Olympiad",
+          "dcterms:publisher": "European Chess Union (europechess.org)",
+          "schema:url": "https://www.europechess.org/uzbekistan-and-china-win-the-46th-chess-olympiad/",
+          "kto:sourceType": "governing-body"
+        }
+      ],
+      "kto:file": "articles/events-and-organizations/chess-olympiad.md",
+      "skos:altLabel": [
+        "FIDE Chess Olympiad",
+        "Tournament of Nations",
+        "Women's Chess Olympiad",
+        "Women's Olympiad"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:team-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:fide"
+        },
+        {
+          "@id": "kt:world-chess-championship"
+        },
+        {
+          "@id": "kt:swiss-system-tournament"
+        },
+        {
+          "@id": "kt:tie-break-regulations"
+        },
+        {
+          "@id": "kt:gukesh-dommaraju"
+        }
+      ],
+      "kto:sanctionedBy": [
+        {
+          "@id": "kt:fide"
+        }
+      ],
+      "kto:governedBy": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        }
+      ]
+    },
+    {
       "@id": "kt:elo-rating-system",
       "@type": "kto:RatingSystem",
       "skos:prefLabel": "Elo rating system",

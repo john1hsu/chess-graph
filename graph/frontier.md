@@ -28,6 +28,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fifty-move-rule` | `kt:fide-laws-of-chess`, `kt:forsyth-edwards-notation` |
 | `kt:francois-andre-danican-philidor` | `kt:philidor-position`, `kt:pawn-structure` |
 | `kt:grandmaster-title` | `kt:elo-rating-system`, `kt:fide` |
+| `kt:gukesh-dommaraju` | `kt:chess-olympiad`, `kt:world-chess-championship` |
 | `kt:hanging-pawns` | `kt:isolated-queens-pawn`, `kt:pawn-structure` |
 | `kt:hastings-1895` | `kt:emanuel-lasker`, `kt:wilhelm-steinitz` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
@@ -61,7 +62,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:carlsbad-structure` | `kt:pawn-structure` |
 | `kt:chess` | `kt:fide-laws-of-chess` |
 | `kt:chess-composition` | `kt:endgame-study` |
-| `kt:chess-olympiad` | `kt:fide` |
 | `kt:chess-organizations` | `kt:fide` |
 | `kt:chess-problems` | `kt:endgame-study` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
@@ -79,7 +79,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:garry-kasparov` | `kt:deep-blue-versus-kasparov` |
 | `kt:glicko-rating-system` | `kt:elo-rating-system` |
 | `kt:good-knight-versus-bad-bishop` | `kt:outpost` |
-| `kt:gukesh-dommaraju` | `kt:world-chess-championship` |
 | `kt:hans-berliner` | `kt:horizon-effect` |
 | `kt:herbert-simon` | `kt:chunking-theory` |
 | `kt:history-of-chess` | `kt:world-chess-championship` |
@@ -122,7 +121,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:steven-j-edwards` | `kt:forsyth-edwards-notation` |
 | `kt:stockfish` | `kt:computer-chess` |
 | `kt:sveshnikov-variation` | `kt:outpost` |
+| `kt:swiss-system-tournament` | `kt:chess-olympiad` |
 | `kt:tarrasch-defence` | `kt:isolated-queens-pawn` |
+| `kt:team-chess` | `kt:chess-olympiad` |
+| `kt:tie-break-regulations` | `kt:chess-olympiad` |
 | `kt:underpromotion` | `kt:pawn-promotion` |
 | `kt:universal-chess-interface` | `kt:chess960` |
 | `kt:visualization` | `kt:chunking-theory` |

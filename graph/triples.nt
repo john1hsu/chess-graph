@@ -179,6 +179,35 @@
 <https://github.com/john1hsu/chess-graph/id/castling> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
 <https://github.com/john1hsu/chess-graph/id/castling> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/castling> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/chess-olympiad> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/chess-olympiad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Event> .
+<https://github.com/john1hsu/chess-graph/id/chess-olympiad> <http://www.w3.org/2000/01/rdf-schema#label> "Chess Olympiad" .
+<https://github.com/john1hsu/chess-graph/id/chess-olympiad> <http://www.w3.org/2004/02/skos/core#altLabel> "FIDE Chess Olympiad" .
+<https://github.com/john1hsu/chess-graph/id/chess-olympiad> <http://www.w3.org/2004/02/skos/core#altLabel> "Tournament of Nations" .
+<https://github.com/john1hsu/chess-graph/id/chess-olympiad> <http://www.w3.org/2004/02/skos/core#altLabel> "Women's Chess Olympiad" .
+<https://github.com/john1hsu/chess-graph/id/chess-olympiad> <http://www.w3.org/2004/02/skos/core#altLabel> "Women's Olympiad" .
+<https://github.com/john1hsu/chess-graph/id/chess-olympiad> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/team-chess> .
+<https://github.com/john1hsu/chess-graph/id/chess-olympiad> <http://www.w3.org/2004/02/skos/core#definition> "The biennial team championship of national chess federations organised by FIDE, held since the first official edition in London in 1927, with Open and Women's sections played as eleven-round Swiss tournaments between teams of four boards scored by match points." .
+<https://github.com/john1hsu/chess-graph/id/chess-olympiad> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chess Olympiad" .
+<https://github.com/john1hsu/chess-graph/id/chess-olympiad> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fide> .
+<https://github.com/john1hsu/chess-graph/id/chess-olympiad> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> .
+<https://github.com/john1hsu/chess-graph/id/chess-olympiad> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/swiss-system-tournament> .
+<https://github.com/john1hsu/chess-graph/id/chess-olympiad> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/tie-break-regulations> .
+<https://github.com/john1hsu/chess-graph/id/chess-olympiad> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/chess-olympiad> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s1> .
+<https://github.com/john1hsu/chess-graph/id/chess-olympiad> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s2> .
+<https://github.com/john1hsu/chess-graph/id/chess-olympiad> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s3> .
+<https://github.com/john1hsu/chess-graph/id/chess-olympiad> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s4> .
+<https://github.com/john1hsu/chess-graph/id/chess-olympiad> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s5> .
+<https://github.com/john1hsu/chess-graph/id/chess-olympiad> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s6> .
+<https://github.com/john1hsu/chess-graph/id/chess-olympiad> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s7> .
+<https://github.com/john1hsu/chess-graph/id/chess-olympiad> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s8> .
+<https://github.com/john1hsu/chess-graph/id/chess-olympiad> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s9> .
+<https://github.com/john1hsu/chess-graph/id/chess-olympiad> <https://github.com/john1hsu/chess-graph/ontology#domain> "events-and-organizations" .
+<https://github.com/john1hsu/chess-graph/id/chess-olympiad> <https://github.com/john1hsu/chess-graph/ontology#governedBy> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/chess-olympiad> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/fide> .
+<https://github.com/john1hsu/chess-graph/id/chess-olympiad> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/chess-olympiad> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/chess960> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/chess960> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Variant> .
 <https://github.com/john1hsu/chess-graph/id/chess960> <http://www.w3.org/2000/01/rdf-schema#label> "Chess960" .
@@ -1179,6 +1208,51 @@
 <https://github.com/john1hsu/chess-graph/id/source/castling/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/castling/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/castling/s5> <https://schema.org/url> "https://www.chess.com/article/view/dont-get-brainwashed-part-four" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s1> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s1> <http://purl.org/dc/terms/title> "FIDE Chess Olympiad 2022 — Regulations for the Main Competition" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s1> <https://schema.org/url> "https://handbook.fide.com/files/handbook/Olympiad2022MainCompetition.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s2> <http://purl.org/dc/terms/publisher> "FIDE Museum (museum.fide.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s2> <http://purl.org/dc/terms/title> "FIDE history" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s2> <https://schema.org/url> "https://museum.fide.com/fide-history" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s3> <http://purl.org/dc/terms/publisher> "44th Chess Olympiad Chennai 2022 official site (FIDE)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s3> <http://purl.org/dc/terms/title> "Tracing the History of Chess Olympiad" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s3> <https://schema.org/url> "https://chennai2022.fide.com/tracing-the-history-of-chess-olympiad/" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s4> <http://purl.org/dc/terms/publisher> "OlimpBase, W. Bartelski" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s4> <http://purl.org/dc/terms/title> "1st Chess Olympiad: London 1927" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s4> <https://schema.org/url> "https://www.olimpbase.org/1927/1927in.html" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s5> <http://purl.org/dc/terms/publisher> "FIDE Museum (museum.fide.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s5> <http://purl.org/dc/terms/title> "Gold medal of the 1952 Chess Olympiad" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s5> <https://schema.org/url> "https://museum.fide.com/exhibits/gold-medal-of-the-1952-chess-olympiad" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s6> <http://purl.org/dc/terms/publisher> "OlimpBase, W. Bartelski" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s6> <http://purl.org/dc/terms/title> "22nd Chess Olympiad: Haifa 1976" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s6> <https://schema.org/url> "https://olimpbase.org/1976/1976in.html" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s7> <http://purl.org/dc/terms/publisher> "FIDE (fide.com news, 22 September 2024)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s7> <http://purl.org/dc/terms/title> "India triumphs at 45th Chess Olympiad, winning both Open and Women's competitions" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s7> <https://schema.org/url> "https://www.fide.com/india-triumphs-at-45th-chess-olympiad-winning-both-open-and-womens-competitions/" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s8> <http://purl.org/dc/terms/publisher> "FIDE (fide.com news, 27 September 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s8> <http://purl.org/dc/terms/title> "Uzbekistan's dream finish: Olympiad gold in Samarkand" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s8> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s8> <https://schema.org/url> "https://www.fide.com/uzbekistans-dream-finish-olympiad-gold-in-samarkand/" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s9> <http://purl.org/dc/terms/publisher> "European Chess Union (europechess.org)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s9> <http://purl.org/dc/terms/title> "Uzbekistan and China win the 46th Chess Olympiad" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s9> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s9> <https://schema.org/url> "https://www.europechess.org/uzbekistan-and-china-win-the-46th-chess-olympiad/" .
 <https://github.com/john1hsu/chess-graph/id/source/chess960/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
 <https://github.com/john1hsu/chess-graph/id/source/chess960/s1> <http://purl.org/dc/terms/title> "FIDE Laws of Chess, Guidelines II. Chess960 Rules" .
 <https://github.com/john1hsu/chess-graph/id/source/chess960/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
