@@ -4,12 +4,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:discovered-attack` | `kt:chess-tactics`, `kt:chess-tactics`, `kt:fork`, `kt:pin`, `kt:skewer` |
-| `kt:combination` | `kt:chess-tactics`, `kt:fork`, `kt:pin`, `kt:skewer` |
-| `kt:material-advantage` | `kt:chess-tactics`, `kt:fork`, `kt:pin`, `kt:skewer` |
+| `kt:combination` | `kt:chess-tactics`, `kt:discovered-attack`, `kt:fork`, `kt:pin`, `kt:skewer` |
+| `kt:material-advantage` | `kt:chess-tactics`, `kt:discovered-attack`, `kt:fork`, `kt:pin`, `kt:skewer` |
 | `kt:stalemate` | `kt:chaturanga`, `kt:en-passant`, `kt:fide-laws-of-chess`, `kt:endgame-study` |
 | `kt:chess` | `kt:chaturanga`, `kt:fide-laws-of-chess`, `kt:chess-tactics` |
 | `kt:chess-strategy` | `kt:blockade`, `kt:pawn-structure`, `kt:chess-tactics` |
+| `kt:double-check` | `kt:discovered-attack`, `kt:discovered-attack`, `kt:fork` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov` |
 | `kt:hypermodernism` | `kt:blockade`, `kt:aron-nimzowitsch`, `kt:aron-nimzowitsch` |
 | `kt:king-and-pawn-endgames` | `kt:lucena-position`, `kt:opposition`, `kt:philidor-position` |
@@ -51,6 +51,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:us-chess` | `kt:elo-rating-system`, `kt:touch-move` |
 | `kt:world-chess-championship-1886` | `kt:world-chess-championship`, `kt:wilhelm-steinitz` |
 | `kt:zugzwang` | `kt:opposition`, `kt:opposition` |
+| `kt:zwischenzug` | `kt:discovered-attack`, `kt:fork` |
 | `kt:abraham-luchins` | `kt:einstellung-effect` |
 | `kt:adolf-anderssen` | `kt:wilhelm-steinitz` |
 | `kt:adriaan-de-groot` | `kt:chunking-theory` |
@@ -71,7 +72,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:david-forsyth` | `kt:forsyth-edwards-notation` |
 | `kt:deep-blue` | `kt:deep-blue-versus-kasparov` |
 | `kt:deliberate-practice` | `kt:chunking-theory` |
-| `kt:double-check` | `kt:fork` |
 | `kt:european-chess-union` | `kt:fide` |
 | `kt:extended-position-description` | `kt:forsyth-edwards-notation` |
 | `kt:fide-world-fischer-random-chess-championship` | `kt:chess960` |
@@ -134,4 +134,3 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:weak-squares` | `kt:outpost` |
 | `kt:william-chase` | `kt:chunking-theory` |
 | `kt:world-chess-championship-1894` | `kt:emanuel-lasker` |
-| `kt:zwischenzug` | `kt:fork` |

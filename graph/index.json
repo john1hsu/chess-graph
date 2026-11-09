@@ -363,6 +363,27 @@
     ]
   },
   {
+    "id": "kt:discovered-attack",
+    "title": "Discovered attack",
+    "aliases": [
+      "Discovery",
+      "Discovered check"
+    ],
+    "type": "TacticalMotif",
+    "domain": "tactics",
+    "file": "articles/tactics/discovered-attack.md",
+    "created": "2026-11-09",
+    "verified": "2026-11-09",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.englishchess.org.uk/wp-content/uploads/2010/01/discoveredattacks.pdf",
+      "https://chesshistory.com/winter/extra/doublecheck.html",
+      "https://learn.chessbase.com/en/page/tactics-the-discovered-attack",
+      "https://www.chess.com/terms/discovered-attack-chess"
+    ]
+  },
+  {
     "id": "kt:einstellung-effect",
     "title": "Einstellung effect",
     "aliases": [

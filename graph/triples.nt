@@ -407,6 +407,31 @@
 <https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/quiescence-search> .
 <https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-07" .
 <https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/deep-blue> .
+<https://github.com/john1hsu/chess-graph/id/discovered-attack> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/discovered-attack> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TacticalMotif> .
+<https://github.com/john1hsu/chess-graph/id/discovered-attack> <http://www.w3.org/2000/01/rdf-schema#label> "Discovered attack" .
+<https://github.com/john1hsu/chess-graph/id/discovered-attack> <http://www.w3.org/2004/02/skos/core#altLabel> "Discovered check" .
+<https://github.com/john1hsu/chess-graph/id/discovered-attack> <http://www.w3.org/2004/02/skos/core#altLabel> "Discovery" .
+<https://github.com/john1hsu/chess-graph/id/discovered-attack> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-tactics> .
+<https://github.com/john1hsu/chess-graph/id/discovered-attack> <http://www.w3.org/2004/02/skos/core#definition> "A tactic in which one piece moves off a line and uncovers an attack by a queen, rook or bishop standing behind it, so that the moving piece and the unmasked piece can create two threats at once." .
+<https://github.com/john1hsu/chess-graph/id/discovered-attack> <http://www.w3.org/2004/02/skos/core#prefLabel> "Discovered attack" .
+<https://github.com/john1hsu/chess-graph/id/discovered-attack> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/combination> .
+<https://github.com/john1hsu/chess-graph/id/discovered-attack> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/double-check> .
+<https://github.com/john1hsu/chess-graph/id/discovered-attack> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fork> .
+<https://github.com/john1hsu/chess-graph/id/discovered-attack> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/pin> .
+<https://github.com/john1hsu/chess-graph/id/discovered-attack> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/skewer> .
+<https://github.com/john1hsu/chess-graph/id/discovered-attack> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/zwischenzug> .
+<https://github.com/john1hsu/chess-graph/id/discovered-attack> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/discovered-attack/s1> .
+<https://github.com/john1hsu/chess-graph/id/discovered-attack> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/discovered-attack/s2> .
+<https://github.com/john1hsu/chess-graph/id/discovered-attack> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/discovered-attack/s3> .
+<https://github.com/john1hsu/chess-graph/id/discovered-attack> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/discovered-attack/s4> .
+<https://github.com/john1hsu/chess-graph/id/discovered-attack> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/fork> .
+<https://github.com/john1hsu/chess-graph/id/discovered-attack> <https://github.com/john1hsu/chess-graph/ontology#domain> "tactics" .
+<https://github.com/john1hsu/chess-graph/id/discovered-attack> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/material-advantage> .
+<https://github.com/john1hsu/chess-graph/id/discovered-attack> <https://github.com/john1hsu/chess-graph/ontology#fen> "4k3/q4ppp/8/8/8/4B3/5PPP/4R1K1 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/discovered-attack> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/double-check> .
+<https://github.com/john1hsu/chess-graph/id/discovered-attack> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/discovered-attack> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/einstellung-effect> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/einstellung-effect> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#CognitiveConcept> .
 <https://github.com/john1hsu/chess-graph/id/einstellung-effect> <http://www.w3.org/2000/01/rdf-schema#label> "Einstellung effect" .
@@ -1506,6 +1531,26 @@
 <https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
 <https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s6> <https://schema.org/url> "https://lehmanns.de/shop/geisteswissenschaften/4604324-9780691090658-behind-deep-blue" .
+<https://github.com/john1hsu/chess-graph/id/source/discovered-attack/s1> <http://purl.org/dc/terms/publisher> "English Chess Federation" .
+<https://github.com/john1hsu/chess-graph/id/source/discovered-attack/s1> <http://purl.org/dc/terms/title> "Discovered Attacks (Chess Skills leaflet)" .
+<https://github.com/john1hsu/chess-graph/id/source/discovered-attack/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/discovered-attack/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/discovered-attack/s1> <https://schema.org/url> "https://www.englishchess.org.uk/wp-content/uploads/2010/01/discoveredattacks.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/discovered-attack/s2> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/discovered-attack/s2> <http://purl.org/dc/terms/title> "Double Check in Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/discovered-attack/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/discovered-attack/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/discovered-attack/s2> <https://schema.org/url> "https://chesshistory.com/winter/extra/doublecheck.html" .
+<https://github.com/john1hsu/chess-graph/id/source/discovered-attack/s3> <http://purl.org/dc/terms/publisher> "ChessBase (learn.chessbase.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/discovered-attack/s3> <http://purl.org/dc/terms/title> "Tactics: 6. Discovered attack" .
+<https://github.com/john1hsu/chess-graph/id/source/discovered-attack/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/discovered-attack/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/discovered-attack/s3> <https://schema.org/url> "https://learn.chessbase.com/en/page/tactics-the-discovered-attack" .
+<https://github.com/john1hsu/chess-graph/id/source/discovered-attack/s4> <http://purl.org/dc/terms/publisher> "Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/discovered-attack/s4> <http://purl.org/dc/terms/title> "Discovered Attack (Chess Terms)" .
+<https://github.com/john1hsu/chess-graph/id/source/discovered-attack/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/discovered-attack/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/discovered-attack/s4> <https://schema.org/url> "https://www.chess.com/terms/discovered-attack-chess" .
 <https://github.com/john1hsu/chess-graph/id/source/einstellung-effect/s1> <http://purl.org/dc/terms/publisher> "Merim Bilalić, Peter McLeod and Fernand Gobet, Brunel University Research Archive" .
 <https://github.com/john1hsu/chess-graph/id/source/einstellung-effect/s1> <http://purl.org/dc/terms/title> "Why good thoughts block better ones: The mechanism of the pernicious Einstellung (set) effect (Cognition, 2008)" .
 <https://github.com/john1hsu/chess-graph/id/source/einstellung-effect/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

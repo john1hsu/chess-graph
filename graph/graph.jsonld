@@ -3229,6 +3229,89 @@
       ]
     },
     {
+      "@id": "kt:discovered-attack",
+      "@type": "kto:TacticalMotif",
+      "skos:prefLabel": "Discovered attack",
+      "skos:definition": "A tactic in which one piece moves off a line and uncovers an attack by a queen, rook or bishop standing behind it, so that the moving piece and the unmasked piece can create two threats at once.",
+      "kto:domain": "tactics",
+      "dcterms:created": "2026-11-09",
+      "kto:verified": "2026-11-09",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Discovered Attacks (Chess Skills leaflet)",
+          "dcterms:publisher": "English Chess Federation",
+          "schema:url": "https://www.englishchess.org.uk/wp-content/uploads/2010/01/discoveredattacks.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Double Check in Chess",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://chesshistory.com/winter/extra/doublecheck.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Tactics: 6. Discovered attack",
+          "dcterms:publisher": "ChessBase (learn.chessbase.com)",
+          "schema:url": "https://learn.chessbase.com/en/page/tactics-the-discovered-attack",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Discovered Attack (Chess Terms)",
+          "dcterms:publisher": "Chess.com",
+          "schema:url": "https://www.chess.com/terms/discovered-attack-chess",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/tactics/discovered-attack.md",
+      "skos:altLabel": [
+        "Discovery",
+        "Discovered check"
+      ],
+      "kto:fen": "4k3/q4ppp/8/8/8/4B3/5PPP/4R1K1 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-tactics"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:double-check"
+        },
+        {
+          "@id": "kt:pin"
+        },
+        {
+          "@id": "kt:skewer"
+        },
+        {
+          "@id": "kt:fork"
+        },
+        {
+          "@id": "kt:combination"
+        },
+        {
+          "@id": "kt:zwischenzug"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:fork"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:material-advantage"
+        }
+      ],
+      "kto:leadsTo": [
+        {
+          "@id": "kt:double-check"
+        }
+      ]
+    },
+    {
       "@id": "kt:fork",
       "@type": "kto:TacticalMotif",
       "skos:prefLabel": "Fork",
