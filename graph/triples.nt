@@ -348,6 +348,33 @@
 <https://github.com/john1hsu/chess-graph/id/claude-shannon> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/leonardo-torres-y-quevedo> .
 <https://github.com/john1hsu/chess-graph/id/claude-shannon> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/claude-shannon> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/combination> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/combination> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Concept> .
+<https://github.com/john1hsu/chess-graph/id/combination> <http://www.w3.org/2000/01/rdf-schema#label> "Combination" .
+<https://github.com/john1hsu/chess-graph/id/combination> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess combination" .
+<https://github.com/john1hsu/chess-graph/id/combination> <http://www.w3.org/2004/02/skos/core#altLabel> "Combinations" .
+<https://github.com/john1hsu/chess-graph/id/combination> <http://www.w3.org/2004/02/skos/core#altLabel> "Combinative play" .
+<https://github.com/john1hsu/chess-graph/id/combination> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-tactics> .
+<https://github.com/john1hsu/chess-graph/id/combination> <http://www.w3.org/2004/02/skos/core#definition> "A forcing sequence of moves, usually built from two or more tactical motifs and often including a sacrifice, by which a player compels a concrete result such as mate, a gain of material or a decisive change in the position." .
+<https://github.com/john1hsu/chess-graph/id/combination> <http://www.w3.org/2004/02/skos/core#prefLabel> "Combination" .
+<https://github.com/john1hsu/chess-graph/id/combination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/back-rank-mate> .
+<https://github.com/john1hsu/chess-graph/id/combination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/discovered-attack> .
+<https://github.com/john1hsu/chess-graph/id/combination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/emanuel-lasker> .
+<https://github.com/john1hsu/chess-graph/id/combination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fork> .
+<https://github.com/john1hsu/chess-graph/id/combination> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/combination/s1> .
+<https://github.com/john1hsu/chess-graph/id/combination> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/combination/s2> .
+<https://github.com/john1hsu/chess-graph/id/combination> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/combination/s3> .
+<https://github.com/john1hsu/chess-graph/id/combination> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/combination/s4> .
+<https://github.com/john1hsu/chess-graph/id/combination> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/combination/s5> .
+<https://github.com/john1hsu/chess-graph/id/combination> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/combination/s6> .
+<https://github.com/john1hsu/chess-graph/id/combination> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/calculation> .
+<https://github.com/john1hsu/chess-graph/id/combination> <https://github.com/john1hsu/chess-graph/ontology#domain> "tactics" .
+<https://github.com/john1hsu/chess-graph/id/combination> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/material-advantage> .
+<https://github.com/john1hsu/chess-graph/id/combination> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/lasker-versus-bauer-amsterdam-1889> .
+<https://github.com/john1hsu/chess-graph/id/combination> <https://github.com/john1hsu/chess-graph/ontology#fen> "4r1k1/3q1ppp/8/8/4Q3/8/5PPP/4R1K1 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/combination> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/combination> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/sacrifice> .
+<https://github.com/john1hsu/chess-graph/id/combination> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/computer-chess> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/computer-chess> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Concept> .
 <https://github.com/john1hsu/chess-graph/id/computer-chess> <http://www.w3.org/2000/01/rdf-schema#label> "Computer chess" .
@@ -1501,6 +1528,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s4> <https://schema.org/url> "https://www.scientificamerican.com/author/claude-e-shannon" .
+<https://github.com/john1hsu/chess-graph/id/source/combination/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/combination/s1> <http://purl.org/dc/terms/title> "What is a Chess Combination?" .
+<https://github.com/john1hsu/chess-graph/id/source/combination/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/combination/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/combination/s1> <https://schema.org/url> "https://www.chesshistory.com/winter/extra/combination.html" .
+<https://github.com/john1hsu/chess-graph/id/source/combination/s2> <http://purl.org/dc/terms/publisher> "IM Jeremy Silman, Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/combination/s2> <http://purl.org/dc/terms/title> "Are Tactics The Same As Combinations?" .
+<https://github.com/john1hsu/chess-graph/id/source/combination/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/combination/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/combination/s2> <https://schema.org/url> "https://www.chess.com/article/view/are-tactics-the-same-as-combinations" .
+<https://github.com/john1hsu/chess-graph/id/source/combination/s3> <http://purl.org/dc/terms/publisher> "International Chess Federation (FIDE), via Google Arts & Culture" .
+<https://github.com/john1hsu/chess-graph/id/source/combination/s3> <http://purl.org/dc/terms/title> "Lasker vs Bauer chess position (Emanuel Lasker)" .
+<https://github.com/john1hsu/chess-graph/id/source/combination/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/combination/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/combination/s3> <https://schema.org/url> "https://artsandculture.google.com/asset/lasker-vs-bauer-chess-position-emanuel-lasker/lgHmqSF4RuWmnQ" .
+<https://github.com/john1hsu/chess-graph/id/source/combination/s4> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/combination/s4> <http://purl.org/dc/terms/title> "Chess Notes (Lasker v Bauer and earlier double bishop sacrifices)" .
+<https://github.com/john1hsu/chess-graph/id/source/combination/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/combination/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/combination/s4> <https://schema.org/url> "https://chesshistory.com/winter/winter175.html" .
+<https://github.com/john1hsu/chess-graph/id/source/combination/s5> <http://purl.org/dc/terms/publisher> "Universiti Teknologi MARA Library" .
+<https://github.com/john1hsu/chess-graph/id/source/combination/s5> <http://purl.org/dc/terms/title> "The art of chess combination: a guide for all players of the game (E. Znosko-Borovsky; Dover, New York, 1959) — catalogue record" .
+<https://github.com/john1hsu/chess-graph/id/source/combination/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/combination/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/combination/s5> <https://schema.org/url> "https://search.library.uitm.edu.my/Record/wils-73794" .
+<https://github.com/john1hsu/chess-graph/id/source/combination/s6> <http://purl.org/dc/terms/publisher> "OverDrive" .
+<https://github.com/john1hsu/chess-graph/id/source/combination/s6> <http://purl.org/dc/terms/title> "The Art of Chess Combination (Dover Chess) — publisher's description" .
+<https://github.com/john1hsu/chess-graph/id/source/combination/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/combination/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/combination/s6> <https://schema.org/url> "https://www.overdrive.com/media/1532247/the-art-of-chess-combination" .
 <https://github.com/john1hsu/chess-graph/id/source/computer-chess/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/computer-chess/s1> <http://purl.org/dc/terms/title> "Chess: Chess and artificial intelligence" .
 <https://github.com/john1hsu/chess-graph/id/source/computer-chess/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

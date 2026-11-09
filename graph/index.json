@@ -312,6 +312,30 @@
     ]
   },
   {
+    "id": "kt:combination",
+    "title": "Combination",
+    "aliases": [
+      "Chess combination",
+      "Combinations",
+      "Combinative play"
+    ],
+    "type": "Concept",
+    "domain": "tactics",
+    "file": "articles/tactics/combination.md",
+    "created": "2026-11-09",
+    "verified": "2026-11-09",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.chesshistory.com/winter/extra/combination.html",
+      "https://www.chess.com/article/view/are-tactics-the-same-as-combinations",
+      "https://artsandculture.google.com/asset/lasker-vs-bauer-chess-position-emanuel-lasker/lgHmqSF4RuWmnQ",
+      "https://chesshistory.com/winter/winter175.html",
+      "https://search.library.uitm.edu.my/Record/wils-73794",
+      "https://www.overdrive.com/media/1532247/the-art-of-chess-combination"
+    ]
+  },
+  {
     "id": "kt:computer-chess",
     "title": "Computer chess",
     "aliases": [

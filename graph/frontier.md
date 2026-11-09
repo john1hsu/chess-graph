@@ -4,9 +4,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:combination` | `kt:chess-tactics`, `kt:discovered-attack`, `kt:fork`, `kt:pin`, `kt:skewer` |
-| `kt:material-advantage` | `kt:chess-tactics`, `kt:discovered-attack`, `kt:fork`, `kt:pin`, `kt:skewer` |
+| `kt:material-advantage` | `kt:chess-tactics`, `kt:combination`, `kt:discovered-attack`, `kt:fork`, `kt:pin`, `kt:skewer` |
 | `kt:stalemate` | `kt:chaturanga`, `kt:en-passant`, `kt:fide-laws-of-chess`, `kt:endgame-study` |
+| `kt:calculation` | `kt:chess-tactics`, `kt:combination`, `kt:einstellung-effect` |
 | `kt:chess` | `kt:chaturanga`, `kt:fide-laws-of-chess`, `kt:chess-tactics` |
 | `kt:chess-strategy` | `kt:blockade`, `kt:pawn-structure`, `kt:chess-tactics` |
 | `kt:double-check` | `kt:discovered-attack`, `kt:discovered-attack`, `kt:fork` |
@@ -20,7 +20,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:emanuel-lasker`, `kt:wilhelm-steinitz` |
 | `kt:anatoly-karpov` | `kt:caro-kann-defence`, `kt:ruy-lopez` |
 | `kt:arbiter` | `kt:fide-laws-of-chess`, `kt:touch-move` |
-| `kt:calculation` | `kt:chess-tactics`, `kt:einstellung-effect` |
 | `kt:chess-expertise` | `kt:chunking-theory`, `kt:einstellung-effect` |
 | `kt:chess-variants` | `kt:chaturanga`, `kt:chess960` |
 | `kt:cognitive-psychology-of-chess` | `kt:chunking-theory`, `kt:einstellung-effect` |
@@ -62,6 +61,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alphazero` | `kt:evaluation-function` |
 | `kt:arpad-elo` | `kt:elo-rating-system` |
 | `kt:artificial-intelligence` | `kt:computer-chess` |
+| `kt:back-rank-mate` | `kt:combination` |
 | `kt:backward-pawn` | `kt:outpost` |
 | `kt:berlin-defence` | `kt:ruy-lopez` |
 | `kt:bobby-fischer` | `kt:chess960` |
@@ -95,6 +95,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:key-squares` | `kt:opposition` |
 | `kt:king-safety` | `kt:castling` |
 | `kt:lasker-capablanca-st-petersburg-1914` | `kt:emanuel-lasker` |
+| `kt:lasker-versus-bauer-amsterdam-1889` | `kt:combination` |
 | `kt:leonardo-torres-y-quevedo` | `kt:claude-shannon` |
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position` |
 | `kt:marcus-kann` | `kt:caro-kann-defence` |
@@ -116,6 +117,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:queens-gambit-accepted` | `kt:isolated-queens-pawn` |
 | `kt:remi-coulom` | `kt:monte-carlo-tree-search` |
 | `kt:ruy-lopez-de-segura` | `kt:ruy-lopez` |
+| `kt:sacrifice` | `kt:combination` |
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:aron-nimzowitsch` |
 | `kt:shuffle-chess` | `kt:chess960` |
 | `kt:smothered-mate` | `kt:einstellung-effect` |

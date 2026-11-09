@@ -3325,6 +3325,101 @@
       ]
     },
     {
+      "@id": "kt:combination",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Combination",
+      "skos:definition": "A forcing sequence of moves, usually built from two or more tactical motifs and often including a sacrifice, by which a player compels a concrete result such as mate, a gain of material or a decisive change in the position.",
+      "kto:domain": "tactics",
+      "dcterms:created": "2026-11-09",
+      "kto:verified": "2026-11-09",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "What is a Chess Combination?",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://www.chesshistory.com/winter/extra/combination.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Are Tactics The Same As Combinations?",
+          "dcterms:publisher": "IM Jeremy Silman, Chess.com",
+          "schema:url": "https://www.chess.com/article/view/are-tactics-the-same-as-combinations",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Lasker vs Bauer chess position (Emanuel Lasker)",
+          "dcterms:publisher": "International Chess Federation (FIDE), via Google Arts & Culture",
+          "schema:url": "https://artsandculture.google.com/asset/lasker-vs-bauer-chess-position-emanuel-lasker/lgHmqSF4RuWmnQ",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Chess Notes (Lasker v Bauer and earlier double bishop sacrifices)",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://chesshistory.com/winter/winter175.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "The art of chess combination: a guide for all players of the game (E. Znosko-Borovsky; Dover, New York, 1959) — catalogue record",
+          "dcterms:publisher": "Universiti Teknologi MARA Library",
+          "schema:url": "https://search.library.uitm.edu.my/Record/wils-73794",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The Art of Chess Combination (Dover Chess) — publisher's description",
+          "dcterms:publisher": "OverDrive",
+          "schema:url": "https://www.overdrive.com/media/1532247/the-art-of-chess-combination",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/tactics/combination.md",
+      "skos:altLabel": [
+        "Chess combination",
+        "Combinations",
+        "Combinative play"
+      ],
+      "kto:fen": "4r1k1/3q1ppp/8/8/4Q3/8/5PPP/4R1K1 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-tactics"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:emanuel-lasker"
+        },
+        {
+          "@id": "kt:back-rank-mate"
+        },
+        {
+          "@id": "kt:discovered-attack"
+        },
+        {
+          "@id": "kt:fork"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:sacrifice"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:calculation"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:material-advantage"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:lasker-versus-bauer-amsterdam-1889"
+        }
+      ]
+    },
+    {
       "@id": "kt:discovered-attack",
       "@type": "kto:TacticalMotif",
       "skos:prefLabel": "Discovered attack",
