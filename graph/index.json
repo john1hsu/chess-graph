@@ -1168,6 +1168,33 @@
     ]
   },
   {
+    "id": "kt:shatranj",
+    "title": "Shatranj",
+    "aliases": [
+      "Chatrang",
+      "Shatrang",
+      "Satranj",
+      "Arabic chess",
+      "Persian chess (medieval)",
+      "Medieval chess"
+    ],
+    "type": "Variant",
+    "domain": "history",
+    "file": "articles/history/shatranj.md",
+    "created": "2026-11-09",
+    "verified": "2026-11-09",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://www.britannica.com/topic/shatranj",
+      "https://www.metmuseum.org/art/collection/search/452204",
+      "https://thinking3d.ac.uk/LibrodelosJuegos",
+      "https://www.worldhistory.org/article/2793/the-history-of-chess/.md",
+      "https://chessvariants.com/historic.dir/shatranj.html",
+      "https://www.thearticle.com/islam-chess-and-the-first-grandmaster"
+    ]
+  },
+  {
     "id": "kt:sicilian-defence",
     "title": "Sicilian Defence",
     "aliases": [

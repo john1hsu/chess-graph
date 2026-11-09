@@ -1295,6 +1295,35 @@
 <https://github.com/john1hsu/chess-graph/id/ruy-lopez> <https://github.com/john1hsu/chess-graph/ontology#namedAfter> <https://github.com/john1hsu/chess-graph/id/ruy-lopez-de-segura> .
 <https://github.com/john1hsu/chess-graph/id/ruy-lopez> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/ruy-lopez> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/shatranj> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/shatranj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Variant> .
+<https://github.com/john1hsu/chess-graph/id/shatranj> <http://www.w3.org/2000/01/rdf-schema#label> "Shatranj" .
+<https://github.com/john1hsu/chess-graph/id/shatranj> <http://www.w3.org/2004/02/skos/core#altLabel> "Arabic chess" .
+<https://github.com/john1hsu/chess-graph/id/shatranj> <http://www.w3.org/2004/02/skos/core#altLabel> "Chatrang" .
+<https://github.com/john1hsu/chess-graph/id/shatranj> <http://www.w3.org/2004/02/skos/core#altLabel> "Medieval chess" .
+<https://github.com/john1hsu/chess-graph/id/shatranj> <http://www.w3.org/2004/02/skos/core#altLabel> "Persian chess (medieval)" .
+<https://github.com/john1hsu/chess-graph/id/shatranj> <http://www.w3.org/2004/02/skos/core#altLabel> "Satranj" .
+<https://github.com/john1hsu/chess-graph/id/shatranj> <http://www.w3.org/2004/02/skos/core#altLabel> "Shatrang" .
+<https://github.com/john1hsu/chess-graph/id/shatranj> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-variants> .
+<https://github.com/john1hsu/chess-graph/id/shatranj> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/history-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/shatranj> <http://www.w3.org/2004/02/skos/core#definition> "The Persian and Arabic form of chess, adopted from the Sasanian game chatrang after the 7th-century Arab conquest of Persia, played with a short-range counsellor and a leaping elephant; it was the game that reached Europe and remained standard there until the late 15th-century rule changes created modern chess." .
+<https://github.com/john1hsu/chess-graph/id/shatranj> <http://www.w3.org/2004/02/skos/core#prefLabel> "Shatranj" .
+<https://github.com/john1hsu/chess-graph/id/shatranj> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chaturanga> .
+<https://github.com/john1hsu/chess-graph/id/shatranj> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-problems> .
+<https://github.com/john1hsu/chess-graph/id/shatranj> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/pawn-promotion> .
+<https://github.com/john1hsu/chess-graph/id/shatranj> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/stalemate> .
+<https://github.com/john1hsu/chess-graph/id/shatranj> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/shatranj/s1> .
+<https://github.com/john1hsu/chess-graph/id/shatranj> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/shatranj/s2> .
+<https://github.com/john1hsu/chess-graph/id/shatranj> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/shatranj/s3> .
+<https://github.com/john1hsu/chess-graph/id/shatranj> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/shatranj/s4> .
+<https://github.com/john1hsu/chess-graph/id/shatranj> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/shatranj/s5> .
+<https://github.com/john1hsu/chess-graph/id/shatranj> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/shatranj/s6> .
+<https://github.com/john1hsu/chess-graph/id/shatranj> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/as-suli> .
+<https://github.com/john1hsu/chess-graph/id/shatranj> <https://github.com/john1hsu/chess-graph/ontology#domain> "history" .
+<https://github.com/john1hsu/chess-graph/id/shatranj> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/chaturanga> .
+<https://github.com/john1hsu/chess-graph/id/shatranj> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/chess> .
+<https://github.com/john1hsu/chess-graph/id/shatranj> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/shatranj> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/sicilian-defence> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/sicilian-defence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Opening> .
 <https://github.com/john1hsu/chess-graph/id/sicilian-defence> <http://www.w3.org/2000/01/rdf-schema#label> "Sicilian Defence" .
@@ -2639,6 +2668,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s7> <https://schema.org/url> "https://kwabc.org/en/newsitem/ruy-lopez-de-segura-a-new-biography-sheds-fresh-light-on-a-major-figure-in-chess-history.html" .
+<https://github.com/john1hsu/chess-graph/id/source/shatranj/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/shatranj/s1> <http://purl.org/dc/terms/title> "Shatranj" .
+<https://github.com/john1hsu/chess-graph/id/source/shatranj/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/shatranj/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/shatranj/s1> <https://schema.org/url> "https://www.britannica.com/topic/shatranj" .
+<https://github.com/john1hsu/chess-graph/id/source/shatranj/s2> <http://purl.org/dc/terms/publisher> "The Metropolitan Museum of Art, Department of Islamic Art" .
+<https://github.com/john1hsu/chess-graph/id/source/shatranj/s2> <http://purl.org/dc/terms/title> "Chess Set (1971.193a–ff), Iran, Nishapur, 12th century" .
+<https://github.com/john1hsu/chess-graph/id/source/shatranj/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/shatranj/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/shatranj/s2> <https://schema.org/url> "https://www.metmuseum.org/art/collection/search/452204" .
+<https://github.com/john1hsu/chess-graph/id/source/shatranj/s3> <http://purl.org/dc/terms/publisher> "Thinking 3D (academic research project on the history of visual communication)" .
+<https://github.com/john1hsu/chess-graph/id/source/shatranj/s3> <http://purl.org/dc/terms/title> "Alfonso X's Libro de los Juegos" .
+<https://github.com/john1hsu/chess-graph/id/source/shatranj/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/shatranj/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/shatranj/s3> <https://schema.org/url> "https://thinking3d.ac.uk/LibrodelosJuegos" .
+<https://github.com/john1hsu/chess-graph/id/source/shatranj/s4> <http://purl.org/dc/terms/publisher> "World History Encyclopedia (Howard Burton)" .
+<https://github.com/john1hsu/chess-graph/id/source/shatranj/s4> <http://purl.org/dc/terms/title> "The History Of Chess: A 1500-year-old Strategy Game" .
+<https://github.com/john1hsu/chess-graph/id/source/shatranj/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/shatranj/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/shatranj/s4> <https://schema.org/url> "https://www.worldhistory.org/article/2793/the-history-of-chess/.md" .
+<https://github.com/john1hsu/chess-graph/id/source/shatranj/s5> <http://purl.org/dc/terms/publisher> "The Chess Variants Pages" .
+<https://github.com/john1hsu/chess-graph/id/source/shatranj/s5> <http://purl.org/dc/terms/title> "Shatranj" .
+<https://github.com/john1hsu/chess-graph/id/source/shatranj/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/shatranj/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/shatranj/s5> <https://schema.org/url> "https://chessvariants.com/historic.dir/shatranj.html" .
+<https://github.com/john1hsu/chess-graph/id/source/shatranj/s6> <http://purl.org/dc/terms/publisher> "TheArticle (Raymond Keene)" .
+<https://github.com/john1hsu/chess-graph/id/source/shatranj/s6> <http://purl.org/dc/terms/title> "Islam, chess and the first grandmaster" .
+<https://github.com/john1hsu/chess-graph/id/source/shatranj/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/shatranj/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/shatranj/s6> <https://schema.org/url> "https://www.thearticle.com/islam-chess-and-the-first-grandmaster" .
 <https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s1> <http://purl.org/dc/terms/publisher> "ChessBase Learn" .
 <https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s1> <http://purl.org/dc/terms/title> "The Sicilian Defence" .
 <https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

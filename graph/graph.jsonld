@@ -1730,6 +1730,101 @@
       ]
     },
     {
+      "@id": "kt:shatranj",
+      "@type": "kto:Variant",
+      "skos:prefLabel": "Shatranj",
+      "skos:definition": "The Persian and Arabic form of chess, adopted from the Sasanian game chatrang after the 7th-century Arab conquest of Persia, played with a short-range counsellor and a leaping elephant; it was the game that reached Europe and remained standard there until the late 15th-century rule changes created modern chess.",
+      "kto:domain": "history",
+      "dcterms:created": "2026-11-09",
+      "kto:verified": "2026-11-09",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Shatranj",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/shatranj",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Chess Set (1971.193a–ff), Iran, Nishapur, 12th century",
+          "dcterms:publisher": "The Metropolitan Museum of Art, Department of Islamic Art",
+          "schema:url": "https://www.metmuseum.org/art/collection/search/452204",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Alfonso X's Libro de los Juegos",
+          "dcterms:publisher": "Thinking 3D (academic research project on the history of visual communication)",
+          "schema:url": "https://thinking3d.ac.uk/LibrodelosJuegos",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The History Of Chess: A 1500-year-old Strategy Game",
+          "dcterms:publisher": "World History Encyclopedia (Howard Burton)",
+          "schema:url": "https://www.worldhistory.org/article/2793/the-history-of-chess/.md",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Shatranj",
+          "dcterms:publisher": "The Chess Variants Pages",
+          "schema:url": "https://chessvariants.com/historic.dir/shatranj.html",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "Islam, chess and the first grandmaster",
+          "dcterms:publisher": "TheArticle (Raymond Keene)",
+          "schema:url": "https://www.thearticle.com/islam-chess-and-the-first-grandmaster",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/history/shatranj.md",
+      "skos:altLabel": [
+        "Chatrang",
+        "Shatrang",
+        "Satranj",
+        "Arabic chess",
+        "Persian chess (medieval)",
+        "Medieval chess"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:history-of-chess"
+        },
+        {
+          "@id": "kt:chess-variants"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:chaturanga"
+        },
+        {
+          "@id": "kt:chess-problems"
+        },
+        {
+          "@id": "kt:stalemate"
+        },
+        {
+          "@id": "kt:pawn-promotion"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:chaturanga"
+        }
+      ],
+      "kto:leadsTo": [
+        {
+          "@id": "kt:chess"
+        }
+      ],
+      "kto:championedBy": [
+        {
+          "@id": "kt:as-suli"
+        }
+      ]
+    },
+    {
       "@id": "kt:world-chess-championship",
       "@type": "kto:Event",
       "skos:prefLabel": "World Chess Championship",
