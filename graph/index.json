@@ -714,6 +714,32 @@
     ]
   },
   {
+    "id": "kt:skewer",
+    "title": "Skewer",
+    "aliases": [
+      "X-ray attack",
+      "Hurdle",
+      "Enfilade",
+      "Spiess",
+      "Back-rank skewer"
+    ],
+    "type": "TacticalMotif",
+    "domain": "tactics",
+    "file": "articles/tactics/skewer.md",
+    "created": "2026-11-09",
+    "verified": "2026-11-09",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.englishchess.org.uk/wp-content/uploads/2010/01/skewers.pdf",
+      "https://www.chesshistory.com/winter/extra/skewer.html",
+      "https://www.chesstactics.org/the-pin-and-the-skewer/the-skewer/simple-skewers-through-the-king/4_5_1_2.html",
+      "https://www.chesstactics.org/the-pin-and-the-skewer/the-skewer/simple-skewers-through-rooks/4_5_3_4.html",
+      "https://learn.chessbase.com/en/page/schachtaktik-der-spiess",
+      "https://www.chess.com/terms/skewer-chess"
+    ]
+  },
+  {
     "id": "kt:touch-move",
     "title": "Touch-move",
     "aliases": [

@@ -2655,6 +2655,99 @@
       ]
     },
     {
+      "@id": "kt:skewer",
+      "@type": "kto:TacticalMotif",
+      "skos:prefLabel": "Skewer",
+      "skos:definition": "A tactic in which a line piece attacks a valuable enemy piece that stands in front of a less valuable one on the same rank, file or diagonal; when the front piece moves away, the piece behind it is captured.",
+      "kto:domain": "tactics",
+      "dcterms:created": "2026-11-09",
+      "kto:verified": "2026-11-09",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Skewers (Chess Skills leaflet)",
+          "dcterms:publisher": "English Chess Federation",
+          "schema:url": "https://www.englishchess.org.uk/wp-content/uploads/2010/01/skewers.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "The Chess Skewer",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://www.chesshistory.com/winter/extra/skewer.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Simple Skewers Through the King (Predator at the Chessboard)",
+          "dcterms:publisher": "Ward Farnsworth, chesstactics.org",
+          "schema:url": "https://www.chesstactics.org/the-pin-and-the-skewer/the-skewer/simple-skewers-through-the-king/4_5_1_2.html",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Simple Skewers Through Rooks (Predator at the Chessboard)",
+          "dcterms:publisher": "Ward Farnsworth, chesstactics.org",
+          "schema:url": "https://www.chesstactics.org/the-pin-and-the-skewer/the-skewer/simple-skewers-through-rooks/4_5_3_4.html",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Chess tactics: the skewer",
+          "dcterms:publisher": "ChessBase (learn.chessbase.com)",
+          "schema:url": "https://learn.chessbase.com/en/page/schachtaktik-der-spiess",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Skewer (Chess Terms)",
+          "dcterms:publisher": "Chess.com",
+          "schema:url": "https://www.chess.com/terms/skewer-chess",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/tactics/skewer.md",
+      "skos:altLabel": [
+        "X-ray attack",
+        "Hurdle",
+        "Enfilade",
+        "Spiess",
+        "Back-rank skewer"
+      ],
+      "kto:fen": "8/2k4r/8/8/8/8/6K1/R7 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-tactics"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:pin"
+        },
+        {
+          "@id": "kt:fork"
+        },
+        {
+          "@id": "kt:discovered-attack"
+        },
+        {
+          "@id": "kt:rook-endgames"
+        },
+        {
+          "@id": "kt:combination"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:pin"
+        },
+        {
+          "@id": "kt:fork"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:material-advantage"
+        }
+      ]
+    },
+    {
       "@id": "kt:chunking-theory",
       "@type": "kto:CognitiveConcept",
       "skos:prefLabel": "Chunking theory",

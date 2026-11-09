@@ -790,6 +790,35 @@
 <https://github.com/john1hsu/chess-graph/id/ruy-lopez> <https://github.com/john1hsu/chess-graph/ontology#namedAfter> <https://github.com/john1hsu/chess-graph/id/ruy-lopez-de-segura> .
 <https://github.com/john1hsu/chess-graph/id/ruy-lopez> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/ruy-lopez> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/skewer> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/skewer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TacticalMotif> .
+<https://github.com/john1hsu/chess-graph/id/skewer> <http://www.w3.org/2000/01/rdf-schema#label> "Skewer" .
+<https://github.com/john1hsu/chess-graph/id/skewer> <http://www.w3.org/2004/02/skos/core#altLabel> "Back-rank skewer" .
+<https://github.com/john1hsu/chess-graph/id/skewer> <http://www.w3.org/2004/02/skos/core#altLabel> "Enfilade" .
+<https://github.com/john1hsu/chess-graph/id/skewer> <http://www.w3.org/2004/02/skos/core#altLabel> "Hurdle" .
+<https://github.com/john1hsu/chess-graph/id/skewer> <http://www.w3.org/2004/02/skos/core#altLabel> "Spiess" .
+<https://github.com/john1hsu/chess-graph/id/skewer> <http://www.w3.org/2004/02/skos/core#altLabel> "X-ray attack" .
+<https://github.com/john1hsu/chess-graph/id/skewer> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-tactics> .
+<https://github.com/john1hsu/chess-graph/id/skewer> <http://www.w3.org/2004/02/skos/core#definition> "A tactic in which a line piece attacks a valuable enemy piece that stands in front of a less valuable one on the same rank, file or diagonal; when the front piece moves away, the piece behind it is captured." .
+<https://github.com/john1hsu/chess-graph/id/skewer> <http://www.w3.org/2004/02/skos/core#prefLabel> "Skewer" .
+<https://github.com/john1hsu/chess-graph/id/skewer> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/combination> .
+<https://github.com/john1hsu/chess-graph/id/skewer> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/discovered-attack> .
+<https://github.com/john1hsu/chess-graph/id/skewer> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fork> .
+<https://github.com/john1hsu/chess-graph/id/skewer> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/pin> .
+<https://github.com/john1hsu/chess-graph/id/skewer> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/rook-endgames> .
+<https://github.com/john1hsu/chess-graph/id/skewer> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/skewer/s1> .
+<https://github.com/john1hsu/chess-graph/id/skewer> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/skewer/s2> .
+<https://github.com/john1hsu/chess-graph/id/skewer> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/skewer/s3> .
+<https://github.com/john1hsu/chess-graph/id/skewer> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/skewer/s4> .
+<https://github.com/john1hsu/chess-graph/id/skewer> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/skewer/s5> .
+<https://github.com/john1hsu/chess-graph/id/skewer> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/skewer/s6> .
+<https://github.com/john1hsu/chess-graph/id/skewer> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/fork> .
+<https://github.com/john1hsu/chess-graph/id/skewer> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/pin> .
+<https://github.com/john1hsu/chess-graph/id/skewer> <https://github.com/john1hsu/chess-graph/ontology#domain> "tactics" .
+<https://github.com/john1hsu/chess-graph/id/skewer> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/material-advantage> .
+<https://github.com/john1hsu/chess-graph/id/skewer> <https://github.com/john1hsu/chess-graph/ontology#fen> "8/2k4r/8/8/8/8/6K1/R7 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/skewer> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/skewer> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
 <https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s1> <http://purl.org/dc/terms/title> "Appendix C. Algebraic Notation (FIDE Laws of Chess)" .
 <https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -1575,6 +1604,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s7> <https://schema.org/url> "https://kwabc.org/en/newsitem/ruy-lopez-de-segura-a-new-biography-sheds-fresh-light-on-a-major-figure-in-chess-history.html" .
+<https://github.com/john1hsu/chess-graph/id/source/skewer/s1> <http://purl.org/dc/terms/publisher> "English Chess Federation" .
+<https://github.com/john1hsu/chess-graph/id/source/skewer/s1> <http://purl.org/dc/terms/title> "Skewers (Chess Skills leaflet)" .
+<https://github.com/john1hsu/chess-graph/id/source/skewer/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/skewer/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/skewer/s1> <https://schema.org/url> "https://www.englishchess.org.uk/wp-content/uploads/2010/01/skewers.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/skewer/s2> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/skewer/s2> <http://purl.org/dc/terms/title> "The Chess Skewer" .
+<https://github.com/john1hsu/chess-graph/id/source/skewer/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/skewer/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/skewer/s2> <https://schema.org/url> "https://www.chesshistory.com/winter/extra/skewer.html" .
+<https://github.com/john1hsu/chess-graph/id/source/skewer/s3> <http://purl.org/dc/terms/publisher> "Ward Farnsworth, chesstactics.org" .
+<https://github.com/john1hsu/chess-graph/id/source/skewer/s3> <http://purl.org/dc/terms/title> "Simple Skewers Through the King (Predator at the Chessboard)" .
+<https://github.com/john1hsu/chess-graph/id/source/skewer/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/skewer/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/skewer/s3> <https://schema.org/url> "https://www.chesstactics.org/the-pin-and-the-skewer/the-skewer/simple-skewers-through-the-king/4_5_1_2.html" .
+<https://github.com/john1hsu/chess-graph/id/source/skewer/s4> <http://purl.org/dc/terms/publisher> "Ward Farnsworth, chesstactics.org" .
+<https://github.com/john1hsu/chess-graph/id/source/skewer/s4> <http://purl.org/dc/terms/title> "Simple Skewers Through Rooks (Predator at the Chessboard)" .
+<https://github.com/john1hsu/chess-graph/id/source/skewer/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/skewer/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/skewer/s4> <https://schema.org/url> "https://www.chesstactics.org/the-pin-and-the-skewer/the-skewer/simple-skewers-through-rooks/4_5_3_4.html" .
+<https://github.com/john1hsu/chess-graph/id/source/skewer/s5> <http://purl.org/dc/terms/publisher> "ChessBase (learn.chessbase.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/skewer/s5> <http://purl.org/dc/terms/title> "Chess tactics: the skewer" .
+<https://github.com/john1hsu/chess-graph/id/source/skewer/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/skewer/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/skewer/s5> <https://schema.org/url> "https://learn.chessbase.com/en/page/schachtaktik-der-spiess" .
+<https://github.com/john1hsu/chess-graph/id/source/skewer/s6> <http://purl.org/dc/terms/publisher> "Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/skewer/s6> <http://purl.org/dc/terms/title> "Skewer (Chess Terms)" .
+<https://github.com/john1hsu/chess-graph/id/source/skewer/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/skewer/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/skewer/s6> <https://schema.org/url> "https://www.chess.com/terms/skewer-chess" .
 <https://github.com/john1hsu/chess-graph/id/source/touch-move/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
 <https://github.com/john1hsu/chess-graph/id/source/touch-move/s1> <http://purl.org/dc/terms/title> "Article 4: The Act of Moving the Pieces" .
 <https://github.com/john1hsu/chess-graph/id/source/touch-move/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

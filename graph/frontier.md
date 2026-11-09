@@ -6,12 +6,17 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:forsyth-edwards-notation` | `kt:algebraic-notation`, `kt:en-passant`, `kt:chess960` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov` |
+| `kt:pin` | `kt:fork`, `kt:skewer`, `kt:skewer` |
+| `kt:rook-endgames` | `kt:lucena-position`, `kt:philidor-position`, `kt:skewer` |
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:emanuel-lasker`, `kt:wilhelm-steinitz` |
 | `kt:anatoly-karpov` | `kt:caro-kann-defence`, `kt:ruy-lopez` |
 | `kt:arbiter` | `kt:fide-laws-of-chess`, `kt:touch-move` |
 | `kt:blockade` | `kt:isolated-queens-pawn`, `kt:outpost` |
+| `kt:chess-tactics` | `kt:fork`, `kt:skewer` |
+| `kt:combination` | `kt:fork`, `kt:skewer` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
+| `kt:discovered-attack` | `kt:fork`, `kt:skewer` |
 | `kt:francois-andre-danican-philidor` | `kt:philidor-position`, `kt:pawn-structure` |
 | `kt:grandmaster-title` | `kt:elo-rating-system`, `kt:fide` |
 | `kt:hanging-pawns` | `kt:isolated-queens-pawn`, `kt:pawn-structure` |
@@ -19,14 +24,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:king-and-pawn-endgames` | `kt:lucena-position`, `kt:philidor-position` |
 | `kt:leela-chess-zero` | `kt:computer-chess`, `kt:monte-carlo-tree-search` |
+| `kt:material-advantage` | `kt:fork`, `kt:skewer` |
 | `kt:move-ordering` | `kt:alpha-beta-pruning`, `kt:quiescence-search` |
 | `kt:nnue` | `kt:computer-chess`, `kt:evaluation-function` |
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
-| `kt:rook-endgames` | `kt:lucena-position`, `kt:philidor-position` |
 | `kt:siegbert-tarrasch` | `kt:isolated-queens-pawn`, `kt:emanuel-lasker` |
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
-| `kt:skewer` | `kt:fork`, `kt:fork` |
 | `kt:stalemate` | `kt:en-passant`, `kt:fide-laws-of-chess` |
 | `kt:threefold-repetition` | `kt:en-passant`, `kt:fide-laws-of-chess` |
 | `kt:transposition-table` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
@@ -49,13 +53,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chess-organizations` | `kt:fide` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
 | `kt:chess-strategy` | `kt:pawn-structure` |
-| `kt:chess-tactics` | `kt:fork` |
 | `kt:chess-variants` | `kt:chess960` |
 | `kt:cognitive-psychology-of-chess` | `kt:chunking-theory` |
-| `kt:combination` | `kt:fork` |
 | `kt:deep-blue` | `kt:deep-blue-versus-kasparov` |
 | `kt:deliberate-practice` | `kt:chunking-theory` |
-| `kt:discovered-attack` | `kt:fork` |
 | `kt:double-check` | `kt:fork` |
 | `kt:einstellung-effect` | `kt:chunking-theory` |
 | `kt:endgame-tablebases` | `kt:computer-chess` |
@@ -84,7 +85,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position` |
 | `kt:marcus-kann` | `kt:caro-kann-defence` |
 | `kt:marshall-attack` | `kt:ruy-lopez` |
-| `kt:material-advantage` | `kt:fork` |
 | `kt:mikhail-chigorin` | `kt:wilhelm-steinitz` |
 | `kt:minority-attack` | `kt:pawn-structure` |
 | `kt:negamax` | `kt:minimax` |
@@ -94,7 +94,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:passed-pawn` | `kt:pawn-promotion` |
 | `kt:passive-rook-defence` | `kt:philidor-position` |
 | `kt:philipp-stamma` | `kt:algebraic-notation` |
-| `kt:pin` | `kt:fork` |
 | `kt:portable-game-notation` | `kt:algebraic-notation` |
 | `kt:proof-number-search` | `kt:game-tree-search` |
 | `kt:queens-gambit-accepted` | `kt:isolated-queens-pawn` |
