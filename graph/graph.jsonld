@@ -1832,6 +1832,106 @@
       ]
     },
     {
+      "@id": "kt:material-advantage",
+      "@type": "kto:StrategicConcept",
+      "skos:prefLabel": "Material advantage",
+      "skos:definition": "Having more or more valuable pieces and pawns than the opponent, measured with conventional piece values (pawn 1, knight and bishop about 3, rook about 5, queen about 9) that guide decisions about exchanges, sacrifices and simplification.",
+      "kto:domain": "middlegame-strategy",
+      "dcterms:created": "2026-11-09",
+      "kto:verified": "2026-11-09",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Assessing Game Balance with AlphaZero: Exploring Alternative Rule Sets in Chess",
+          "dcterms:publisher": "Nenad Tomašev, Ulrich Paquet, Demis Hassabis and Vladimir Kramnik, arXiv:2009.04374 (2020)",
+          "schema:url": "https://arxiv.org/pdf/2009.04374",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The Value of the Chess Pieces",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://chesshistory.com/winter/extra/value.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Chess Fundamentals (Chapter I, section 5: Relative Value of the Pieces)",
+          "dcterms:publisher": "José Raúl Capablanca, Project Gutenberg edition",
+          "schema:url": "https://gutenberg.org/files/33870/33870-h/33870-h.htm",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The Evaluation of Material Imbalances (reprint of the 1999 Chess Life article, with 2012 update)",
+          "dcterms:publisher": "Larry Kaufman, reprinted on danheisman.com",
+          "schema:url": "https://www.danheisman.com/evaluation-of-material-imbalances.html",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "When You're Way Ahead",
+          "dcterms:publisher": "Dan Heisman, Chess.com blog",
+          "schema:url": "https://www.chess.com/blog/danheisman/when-youre-way-ahead",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Exchanging to Win",
+          "dcterms:publisher": "Exeter Chess Club (2010)",
+          "schema:url": "https://exeterchessclub.org.uk/node/808",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/middlegame-strategy/material-advantage.md",
+      "skos:altLabel": [
+        "Material",
+        "Material balance",
+        "Material superiority",
+        "Being ahead in material",
+        "Relative value of the pieces",
+        "Piece values",
+        "Point count"
+      ],
+      "kto:fen": "6k1/ppp2ppp/4b3/8/8/8/P4PPP/3R2K1 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-strategy"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:evaluation-function"
+        },
+        {
+          "@id": "kt:combination"
+        },
+        {
+          "@id": "kt:sacrifice"
+        },
+        {
+          "@id": "kt:bishop-pair"
+        },
+        {
+          "@id": "kt:the-exchange"
+        },
+        {
+          "@id": "kt:simplification"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:piece-values"
+        }
+      ],
+      "kto:leadsTo": [
+        {
+          "@id": "kt:simplification"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:sacrifice"
+        }
+      ]
+    },
+    {
       "@id": "kt:outpost",
       "@type": "kto:StrategicConcept",
       "skos:prefLabel": "Outpost",

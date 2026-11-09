@@ -785,6 +785,34 @@
     ]
   },
   {
+    "id": "kt:material-advantage",
+    "title": "Material advantage",
+    "aliases": [
+      "Material",
+      "Material balance",
+      "Material superiority",
+      "Being ahead in material",
+      "Relative value of the pieces",
+      "Piece values",
+      "Point count"
+    ],
+    "type": "StrategicConcept",
+    "domain": "middlegame-strategy",
+    "file": "articles/middlegame-strategy/material-advantage.md",
+    "created": "2026-11-09",
+    "verified": "2026-11-09",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://arxiv.org/pdf/2009.04374",
+      "https://chesshistory.com/winter/extra/value.html",
+      "https://gutenberg.org/files/33870/33870-h/33870-h.htm",
+      "https://www.danheisman.com/evaluation-of-material-imbalances.html",
+      "https://www.chess.com/blog/danheisman/when-youre-way-ahead",
+      "https://exeterchessclub.org.uk/node/808"
+    ]
+  },
+  {
     "id": "kt:minimax",
     "title": "Minimax",
     "aliases": [

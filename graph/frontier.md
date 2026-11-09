@@ -4,12 +4,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:material-advantage` | `kt:chess-tactics`, `kt:combination`, `kt:discovered-attack`, `kt:fork`, `kt:pin`, `kt:skewer` |
 | `kt:calculation` | `kt:chess-tactics`, `kt:combination`, `kt:deliberate-practice`, `kt:einstellung-effect` |
+| `kt:chess-strategy` | `kt:blockade`, `kt:material-advantage`, `kt:pawn-structure`, `kt:chess-tactics` |
 | `kt:stalemate` | `kt:chaturanga`, `kt:en-passant`, `kt:fide-laws-of-chess`, `kt:endgame-study` |
 | `kt:chess` | `kt:chaturanga`, `kt:fide-laws-of-chess`, `kt:chess-tactics` |
 | `kt:chess-expertise` | `kt:chunking-theory`, `kt:deliberate-practice`, `kt:einstellung-effect` |
-| `kt:chess-strategy` | `kt:blockade`, `kt:pawn-structure`, `kt:chess-tactics` |
 | `kt:cognitive-psychology-of-chess` | `kt:chunking-theory`, `kt:deliberate-practice`, `kt:einstellung-effect` |
 | `kt:double-check` | `kt:discovered-attack`, `kt:discovered-attack`, `kt:fork` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov` |
@@ -18,6 +17,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:passed-pawn` | `kt:blockade`, `kt:blockade`, `kt:pawn-promotion` |
 | `kt:portable-game-notation` | `kt:algebraic-notation`, `kt:forsyth-edwards-notation`, `kt:forsyth-edwards-notation` |
 | `kt:rook-endgames` | `kt:lucena-position`, `kt:philidor-position`, `kt:skewer` |
+| `kt:sacrifice` | `kt:material-advantage`, `kt:material-advantage`, `kt:combination` |
 | `kt:siegbert-tarrasch` | `kt:isolated-queens-pawn`, `kt:aron-nimzowitsch`, `kt:emanuel-lasker` |
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:emanuel-lasker`, `kt:wilhelm-steinitz` |
 | `kt:anatoly-karpov` | `kt:caro-kann-defence`, `kt:ruy-lopez` |
@@ -45,6 +45,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:saavedra-position` | `kt:pawn-promotion`, `kt:endgame-study` |
 | `kt:semi-open-games` | `kt:caro-kann-defence`, `kt:sicilian-defence` |
 | `kt:shatranj` | `kt:chaturanga`, `kt:chaturanga` |
+| `kt:simplification` | `kt:material-advantage`, `kt:material-advantage` |
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
 | `kt:sveshnikov-variation` | `kt:outpost`, `kt:sicilian-defence` |
 | `kt:template-theory` | `kt:chunking-theory`, `kt:einstellung-effect` |
@@ -65,6 +66,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:back-rank-mate` | `kt:combination` |
 | `kt:backward-pawn` | `kt:outpost` |
 | `kt:berlin-defence` | `kt:ruy-lopez` |
+| `kt:bishop-pair` | `kt:material-advantage` |
 | `kt:bobby-fischer` | `kt:chess960` |
 | `kt:candidates-tournament` | `kt:world-chess-championship` |
 | `kt:carlsbad-1929` | `kt:aron-nimzowitsch` |
@@ -112,13 +114,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:panov-botvinnik-attack` | `kt:caro-kann-defence` |
 | `kt:passive-rook-defence` | `kt:philidor-position` |
 | `kt:philipp-stamma` | `kt:algebraic-notation` |
+| `kt:piece-values` | `kt:material-advantage` |
 | `kt:proof-number-search` | `kt:game-tree-search` |
 | `kt:prophylaxis` | `kt:blockade` |
 | `kt:puzzle-training` | `kt:deliberate-practice` |
 | `kt:queens-gambit-accepted` | `kt:isolated-queens-pawn` |
 | `kt:remi-coulom` | `kt:monte-carlo-tree-search` |
 | `kt:ruy-lopez-de-segura` | `kt:ruy-lopez` |
-| `kt:sacrifice` | `kt:combination` |
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:aron-nimzowitsch` |
 | `kt:shuffle-chess` | `kt:chess960` |
 | `kt:smothered-mate` | `kt:einstellung-effect` |
@@ -133,6 +135,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:talent` | `kt:deliberate-practice` |
 | `kt:tarrasch-defence` | `kt:isolated-queens-pawn` |
 | `kt:team-chess` | `kt:chess-olympiad` |
+| `kt:the-exchange` | `kt:material-advantage` |
 | `kt:tie-break-regulations` | `kt:chess-olympiad` |
 | `kt:underpromotion` | `kt:pawn-promotion` |
 | `kt:universal-chess-interface` | `kt:chess960` |

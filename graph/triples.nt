@@ -869,6 +869,38 @@
 <https://github.com/john1hsu/chess-graph/id/lucena-position> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/lucena-position> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> .
 <https://github.com/john1hsu/chess-graph/id/lucena-position> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-07" .
+<https://github.com/john1hsu/chess-graph/id/material-advantage> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/material-advantage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
+<https://github.com/john1hsu/chess-graph/id/material-advantage> <http://www.w3.org/2000/01/rdf-schema#label> "Material advantage" .
+<https://github.com/john1hsu/chess-graph/id/material-advantage> <http://www.w3.org/2004/02/skos/core#altLabel> "Being ahead in material" .
+<https://github.com/john1hsu/chess-graph/id/material-advantage> <http://www.w3.org/2004/02/skos/core#altLabel> "Material balance" .
+<https://github.com/john1hsu/chess-graph/id/material-advantage> <http://www.w3.org/2004/02/skos/core#altLabel> "Material superiority" .
+<https://github.com/john1hsu/chess-graph/id/material-advantage> <http://www.w3.org/2004/02/skos/core#altLabel> "Material" .
+<https://github.com/john1hsu/chess-graph/id/material-advantage> <http://www.w3.org/2004/02/skos/core#altLabel> "Piece values" .
+<https://github.com/john1hsu/chess-graph/id/material-advantage> <http://www.w3.org/2004/02/skos/core#altLabel> "Point count" .
+<https://github.com/john1hsu/chess-graph/id/material-advantage> <http://www.w3.org/2004/02/skos/core#altLabel> "Relative value of the pieces" .
+<https://github.com/john1hsu/chess-graph/id/material-advantage> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-strategy> .
+<https://github.com/john1hsu/chess-graph/id/material-advantage> <http://www.w3.org/2004/02/skos/core#definition> "Having more or more valuable pieces and pawns than the opponent, measured with conventional piece values (pawn 1, knight and bishop about 3, rook about 5, queen about 9) that guide decisions about exchanges, sacrifices and simplification." .
+<https://github.com/john1hsu/chess-graph/id/material-advantage> <http://www.w3.org/2004/02/skos/core#prefLabel> "Material advantage" .
+<https://github.com/john1hsu/chess-graph/id/material-advantage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/bishop-pair> .
+<https://github.com/john1hsu/chess-graph/id/material-advantage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/combination> .
+<https://github.com/john1hsu/chess-graph/id/material-advantage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/evaluation-function> .
+<https://github.com/john1hsu/chess-graph/id/material-advantage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/sacrifice> .
+<https://github.com/john1hsu/chess-graph/id/material-advantage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/simplification> .
+<https://github.com/john1hsu/chess-graph/id/material-advantage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/the-exchange> .
+<https://github.com/john1hsu/chess-graph/id/material-advantage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/material-advantage/s1> .
+<https://github.com/john1hsu/chess-graph/id/material-advantage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/material-advantage/s2> .
+<https://github.com/john1hsu/chess-graph/id/material-advantage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/material-advantage/s3> .
+<https://github.com/john1hsu/chess-graph/id/material-advantage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/material-advantage/s4> .
+<https://github.com/john1hsu/chess-graph/id/material-advantage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/material-advantage/s5> .
+<https://github.com/john1hsu/chess-graph/id/material-advantage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/material-advantage/s6> .
+<https://github.com/john1hsu/chess-graph/id/material-advantage> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/sacrifice> .
+<https://github.com/john1hsu/chess-graph/id/material-advantage> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/piece-values> .
+<https://github.com/john1hsu/chess-graph/id/material-advantage> <https://github.com/john1hsu/chess-graph/ontology#domain> "middlegame-strategy" .
+<https://github.com/john1hsu/chess-graph/id/material-advantage> <https://github.com/john1hsu/chess-graph/ontology#fen> "6k1/ppp2ppp/4b3/8/8/8/P4PPP/3R2K1 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/material-advantage> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/simplification> .
+<https://github.com/john1hsu/chess-graph/id/material-advantage> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/material-advantage> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/minimax> <http://purl.org/dc/terms/created> "2026-11-07" .
 <https://github.com/john1hsu/chess-graph/id/minimax> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Algorithm> .
 <https://github.com/john1hsu/chess-graph/id/minimax> <http://www.w3.org/2000/01/rdf-schema#label> "Minimax" .
@@ -2069,6 +2101,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/lucena-position/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/lucena-position/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/lucena-position/s6> <https://schema.org/url> "https://www.charlottechesscenter.org/post/simple-rook-and-pawn-vs-rook-part-1-cases-where-the-pawn-wins" .
+<https://github.com/john1hsu/chess-graph/id/source/material-advantage/s1> <http://purl.org/dc/terms/publisher> "Nenad Tomašev, Ulrich Paquet, Demis Hassabis and Vladimir Kramnik, arXiv:2009.04374 (2020)" .
+<https://github.com/john1hsu/chess-graph/id/source/material-advantage/s1> <http://purl.org/dc/terms/title> "Assessing Game Balance with AlphaZero: Exploring Alternative Rule Sets in Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/material-advantage/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/material-advantage/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/material-advantage/s1> <https://schema.org/url> "https://arxiv.org/pdf/2009.04374" .
+<https://github.com/john1hsu/chess-graph/id/source/material-advantage/s2> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/material-advantage/s2> <http://purl.org/dc/terms/title> "The Value of the Chess Pieces" .
+<https://github.com/john1hsu/chess-graph/id/source/material-advantage/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/material-advantage/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/material-advantage/s2> <https://schema.org/url> "https://chesshistory.com/winter/extra/value.html" .
+<https://github.com/john1hsu/chess-graph/id/source/material-advantage/s3> <http://purl.org/dc/terms/publisher> "José Raúl Capablanca, Project Gutenberg edition" .
+<https://github.com/john1hsu/chess-graph/id/source/material-advantage/s3> <http://purl.org/dc/terms/title> "Chess Fundamentals (Chapter I, section 5: Relative Value of the Pieces)" .
+<https://github.com/john1hsu/chess-graph/id/source/material-advantage/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/material-advantage/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/material-advantage/s3> <https://schema.org/url> "https://gutenberg.org/files/33870/33870-h/33870-h.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/material-advantage/s4> <http://purl.org/dc/terms/publisher> "Larry Kaufman, reprinted on danheisman.com" .
+<https://github.com/john1hsu/chess-graph/id/source/material-advantage/s4> <http://purl.org/dc/terms/title> "The Evaluation of Material Imbalances (reprint of the 1999 Chess Life article, with 2012 update)" .
+<https://github.com/john1hsu/chess-graph/id/source/material-advantage/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/material-advantage/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/material-advantage/s4> <https://schema.org/url> "https://www.danheisman.com/evaluation-of-material-imbalances.html" .
+<https://github.com/john1hsu/chess-graph/id/source/material-advantage/s5> <http://purl.org/dc/terms/publisher> "Dan Heisman, Chess.com blog" .
+<https://github.com/john1hsu/chess-graph/id/source/material-advantage/s5> <http://purl.org/dc/terms/title> "When You're Way Ahead" .
+<https://github.com/john1hsu/chess-graph/id/source/material-advantage/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/material-advantage/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/material-advantage/s5> <https://schema.org/url> "https://www.chess.com/blog/danheisman/when-youre-way-ahead" .
+<https://github.com/john1hsu/chess-graph/id/source/material-advantage/s6> <http://purl.org/dc/terms/publisher> "Exeter Chess Club (2010)" .
+<https://github.com/john1hsu/chess-graph/id/source/material-advantage/s6> <http://purl.org/dc/terms/title> "Exchanging to Win" .
+<https://github.com/john1hsu/chess-graph/id/source/material-advantage/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/material-advantage/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/material-advantage/s6> <https://schema.org/url> "https://exeterchessclub.org.uk/node/808" .
 <https://github.com/john1hsu/chess-graph/id/source/minimax/s1> <http://purl.org/dc/terms/publisher> "Claude E. Shannon, reproduced by Fermat's Library" .
 <https://github.com/john1hsu/chess-graph/id/source/minimax/s1> <http://purl.org/dc/terms/title> "Programming a Computer for Playing Chess (Philosophical Magazine, 1950), full text" .
 <https://github.com/john1hsu/chess-graph/id/source/minimax/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
