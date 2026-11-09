@@ -58,6 +58,36 @@
 <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <https://github.com/john1hsu/chess-graph/ontology#fen> "r1bqkb1r/pppp1ppp/2n2n2/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 4 4" .
 <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-07" .
+<https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
+<https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <http://www.w3.org/2000/01/rdf-schema#label> "Aron Nimzowitsch" .
+<https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <http://www.w3.org/2004/02/skos/core#altLabel> "Aaron Nimzovich" .
+<https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <http://www.w3.org/2004/02/skos/core#altLabel> "Aaron Nimzowitsch" .
+<https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <http://www.w3.org/2004/02/skos/core#altLabel> "Aron Nimzovich" .
+<https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <http://www.w3.org/2004/02/skos/core#altLabel> "Nimzovich" .
+<https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <http://www.w3.org/2004/02/skos/core#altLabel> "Nimzowitsch" .
+<https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/hypermodernism> .
+<https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <http://www.w3.org/2004/02/skos/core#definition> "Riga-born master and theoretician (1886–1935), regarded as the founder of the hypermodern school, author of My System (1925), and one of the world's three strongest players in the late 1920s, with tournament wins at Dresden 1926 and Carlsbad 1929." .
+<https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aron Nimzowitsch" .
+<https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/blockade> .
+<https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> .
+<https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/nimzo-indian-defence> .
+<https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/outpost> .
+<https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/pin> .
+<https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> .
+<https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s1> .
+<https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s2> .
+<https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s3> .
+<https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s4> .
+<https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s5> .
+<https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s6> .
+<https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <https://github.com/john1hsu/chess-graph/ontology#domain> "players" .
+<https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/saemisch-nimzowitsch-copenhagen-1923> .
+<https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <https://github.com/john1hsu/chess-graph/ontology#fen> "6k1/3q2p1/p2bp2p/3p1r2/1p1Pp3/3bQ1PP/PP1B1rB1/1N2R1RK w - - 0 26" .
+<https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <https://github.com/john1hsu/chess-graph/ontology#memberOf> <https://github.com/john1hsu/chess-graph/id/hypermodernism> .
+<https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/carlsbad-1929> .
+<https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Opening> .
 <https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <http://www.w3.org/2000/01/rdf-schema#label> "Caro-Kann Defence" .
@@ -982,6 +1012,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s5> <https://schema.org/url> "https://www.isa-afp.org/browser_info/current/AFP/Alpha_Beta_Pruning/document.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s1> <http://purl.org/dc/terms/title> "Aron Nimzowitsch" .
+<https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s1> <https://schema.org/url> "https://www.britannica.com/biography/Aron-Nimzowitsch" .
+<https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s2> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
+<https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s2> <http://purl.org/dc/terms/title> "Aron Nimzowitsch (inductee page)" .
+<https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s2> <https://schema.org/url> "https://worldchesshof.org/inductee/aron-nimzowitsch/" .
+<https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s3> <http://purl.org/dc/terms/publisher> "McFarland" .
+<https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s3> <http://purl.org/dc/terms/title> "Aron Nimzowitsch: On the Road to Chess Mastery, 1886–1924 (Per Skjoldager and Jørn Erik Nielsen)" .
+<https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s3> <https://schema.org/url> "https://mcfarlandbooks.com/?p=21093" .
+<https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s4> <http://purl.org/dc/terms/publisher> "Jeremy Silman" .
+<https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s4> <http://purl.org/dc/terms/title> "Review of Aron Nimzowitsch: On the Road to Chess Mastery 1886–1924 (by Donald K. McKim)" .
+<https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s4> <https://schema.org/url> "https://www.jeremysilman.com/?p=2404" .
+<https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s5> <http://purl.org/dc/terms/publisher> "Chess History (Edward Winter)" .
+<https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s5> <http://purl.org/dc/terms/title> "Zugzwang (Chess Notes feature article, by Edward Winter)" .
+<https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s5> <https://schema.org/url> "https://www.chesshistory.com/winter/extra/zugzwang.html" .
+<https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s6> <http://purl.org/dc/terms/publisher> "chessgames.com" .
+<https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s6> <http://purl.org/dc/terms/title> "Friedrich Saemisch vs Aron Nimzowitsch, Copenhagen 1923" .
+<https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s6> <https://schema.org/url> "https://www.chessgames.com/perl/chessgame?gid=1102400" .
 <https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
 <https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s1> <http://purl.org/dc/terms/title> "The Caro-Kann Defence" .
 <https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

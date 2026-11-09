@@ -52,6 +52,32 @@
     ]
   },
   {
+    "id": "kt:aron-nimzowitsch",
+    "title": "Aron Nimzowitsch",
+    "aliases": [
+      "Aaron Nimzowitsch",
+      "Aron Nimzovich",
+      "Aaron Nimzovich",
+      "Nimzowitsch",
+      "Nimzovich"
+    ],
+    "type": "Player",
+    "domain": "players",
+    "file": "articles/players/aron-nimzowitsch.md",
+    "created": "2026-11-09",
+    "verified": "2026-11-09",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://www.britannica.com/biography/Aron-Nimzowitsch",
+      "https://worldchesshof.org/inductee/aron-nimzowitsch/",
+      "https://mcfarlandbooks.com/?p=21093",
+      "https://www.jeremysilman.com/?p=2404",
+      "https://www.chesshistory.com/winter/extra/zugzwang.html",
+      "https://www.chessgames.com/perl/chessgame?gid=1102400"
+    ]
+  },
+  {
     "id": "kt:caro-kann-defence",
     "title": "Caro-Kann Defence",
     "aliases": [

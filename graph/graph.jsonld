@@ -1833,6 +1833,104 @@
       ]
     },
     {
+      "@id": "kt:aron-nimzowitsch",
+      "@type": "kto:Player",
+      "skos:prefLabel": "Aron Nimzowitsch",
+      "skos:definition": "Riga-born master and theoretician (1886–1935), regarded as the founder of the hypermodern school, author of My System (1925), and one of the world's three strongest players in the late 1920s, with tournament wins at Dresden 1926 and Carlsbad 1929.",
+      "kto:domain": "players",
+      "dcterms:created": "2026-11-09",
+      "kto:verified": "2026-11-09",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Aron Nimzowitsch",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/biography/Aron-Nimzowitsch",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Aron Nimzowitsch (inductee page)",
+          "dcterms:publisher": "World Chess Hall of Fame",
+          "schema:url": "https://worldchesshof.org/inductee/aron-nimzowitsch/",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Aron Nimzowitsch: On the Road to Chess Mastery, 1886–1924 (Per Skjoldager and Jørn Erik Nielsen)",
+          "dcterms:publisher": "McFarland",
+          "schema:url": "https://mcfarlandbooks.com/?p=21093",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Review of Aron Nimzowitsch: On the Road to Chess Mastery 1886–1924 (by Donald K. McKim)",
+          "dcterms:publisher": "Jeremy Silman",
+          "schema:url": "https://www.jeremysilman.com/?p=2404",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Zugzwang (Chess Notes feature article, by Edward Winter)",
+          "dcterms:publisher": "Chess History (Edward Winter)",
+          "schema:url": "https://www.chesshistory.com/winter/extra/zugzwang.html",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Friedrich Saemisch vs Aron Nimzowitsch, Copenhagen 1923",
+          "dcterms:publisher": "chessgames.com",
+          "schema:url": "https://www.chessgames.com/perl/chessgame?gid=1102400",
+          "kto:sourceType": "database"
+        }
+      ],
+      "kto:file": "articles/players/aron-nimzowitsch.md",
+      "skos:altLabel": [
+        "Aaron Nimzowitsch",
+        "Aron Nimzovich",
+        "Aaron Nimzovich",
+        "Nimzowitsch",
+        "Nimzovich"
+      ],
+      "kto:fen": "6k1/3q2p1/p2bp2p/3p1r2/1p1Pp3/3bQ1PP/PP1B1rB1/1N2R1RK w - - 0 26",
+      "skos:broader": [
+        {
+          "@id": "kt:hypermodernism"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:siegbert-tarrasch"
+        },
+        {
+          "@id": "kt:jose-raul-capablanca"
+        },
+        {
+          "@id": "kt:blockade"
+        },
+        {
+          "@id": "kt:outpost"
+        },
+        {
+          "@id": "kt:nimzo-indian-defence"
+        },
+        {
+          "@id": "kt:pin"
+        }
+      ],
+      "kto:memberOf": [
+        {
+          "@id": "kt:hypermodernism"
+        }
+      ],
+      "kto:playedIn": [
+        {
+          "@id": "kt:carlsbad-1929"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:saemisch-nimzowitsch-copenhagen-1923"
+        }
+      ]
+    },
+    {
       "@id": "kt:emanuel-lasker",
       "@type": "kto:Player",
       "skos:prefLabel": "Emanuel Lasker",

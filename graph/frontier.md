@@ -4,7 +4,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:aron-nimzowitsch` | `kt:outpost`, `kt:pin`, `kt:pin` |
+| `kt:blockade` | `kt:isolated-queens-pawn`, `kt:outpost`, `kt:aron-nimzowitsch` |
 | `kt:chess-tactics` | `kt:fork`, `kt:pin`, `kt:skewer` |
 | `kt:combination` | `kt:fork`, `kt:pin`, `kt:skewer` |
 | `kt:discovered-attack` | `kt:fork`, `kt:pin`, `kt:skewer` |
@@ -12,11 +12,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:material-advantage` | `kt:fork`, `kt:pin`, `kt:skewer` |
 | `kt:portable-game-notation` | `kt:algebraic-notation`, `kt:forsyth-edwards-notation`, `kt:forsyth-edwards-notation` |
 | `kt:rook-endgames` | `kt:lucena-position`, `kt:philidor-position`, `kt:skewer` |
+| `kt:siegbert-tarrasch` | `kt:isolated-queens-pawn`, `kt:aron-nimzowitsch`, `kt:emanuel-lasker` |
 | `kt:stalemate` | `kt:en-passant`, `kt:fide-laws-of-chess`, `kt:endgame-study` |
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:emanuel-lasker`, `kt:wilhelm-steinitz` |
 | `kt:anatoly-karpov` | `kt:caro-kann-defence`, `kt:ruy-lopez` |
 | `kt:arbiter` | `kt:fide-laws-of-chess`, `kt:touch-move` |
-| `kt:blockade` | `kt:isolated-queens-pawn`, `kt:outpost` |
 | `kt:chess-expertise` | `kt:chunking-theory`, `kt:einstellung-effect` |
 | `kt:cognitive-psychology-of-chess` | `kt:chunking-theory`, `kt:einstellung-effect` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position` |
@@ -27,7 +27,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:grandmaster-title` | `kt:elo-rating-system`, `kt:fide` |
 | `kt:hanging-pawns` | `kt:isolated-queens-pawn`, `kt:pawn-structure` |
 | `kt:hastings-1895` | `kt:emanuel-lasker`, `kt:wilhelm-steinitz` |
+| `kt:hypermodernism` | `kt:aron-nimzowitsch`, `kt:aron-nimzowitsch` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
+| `kt:jose-raul-capablanca` | `kt:aron-nimzowitsch`, `kt:emanuel-lasker` |
 | `kt:king-and-pawn-endgames` | `kt:lucena-position`, `kt:philidor-position` |
 | `kt:leela-chess-zero` | `kt:computer-chess`, `kt:monte-carlo-tree-search` |
 | `kt:move-ordering` | `kt:alpha-beta-pruning`, `kt:quiescence-search` |
@@ -35,7 +37,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
 | `kt:saavedra-position` | `kt:pawn-promotion`, `kt:endgame-study` |
-| `kt:siegbert-tarrasch` | `kt:isolated-queens-pawn`, `kt:emanuel-lasker` |
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
 | `kt:template-theory` | `kt:chunking-theory`, `kt:einstellung-effect` |
 | `kt:threefold-repetition` | `kt:en-passant`, `kt:fide-laws-of-chess` |
@@ -53,6 +54,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:bobby-fischer` | `kt:chess960` |
 | `kt:calculation` | `kt:einstellung-effect` |
 | `kt:candidates-tournament` | `kt:world-chess-championship` |
+| `kt:carlsbad-1929` | `kt:aron-nimzowitsch` |
 | `kt:carlsbad-structure` | `kt:pawn-structure` |
 | `kt:chess` | `kt:fide-laws-of-chess` |
 | `kt:chess-composition` | `kt:endgame-study` |
@@ -85,7 +87,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:johannes-zukertort` | `kt:wilhelm-steinitz` |
 | `kt:john-mccarthy` | `kt:alpha-beta-pruning` |
 | `kt:john-von-neumann` | `kt:minimax` |
-| `kt:jose-raul-capablanca` | `kt:emanuel-lasker` |
 | `kt:king-safety` | `kt:castling` |
 | `kt:lasker-capablanca-st-petersburg-1914` | `kt:emanuel-lasker` |
 | `kt:leonardo-torres-y-quevedo` | `kt:claude-shannon` |
@@ -96,6 +97,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mikhail-chigorin` | `kt:wilhelm-steinitz` |
 | `kt:minority-attack` | `kt:pawn-structure` |
 | `kt:negamax` | `kt:minimax` |
+| `kt:nimzo-indian-defence` | `kt:aron-nimzowitsch` |
 | `kt:open-games` | `kt:ruy-lopez` |
 | `kt:open-ruy-lopez` | `kt:ruy-lopez` |
 | `kt:panov-botvinnik-attack` | `kt:caro-kann-defence` |
@@ -106,6 +108,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:queens-gambit-accepted` | `kt:isolated-queens-pawn` |
 | `kt:remi-coulom` | `kt:monte-carlo-tree-search` |
 | `kt:ruy-lopez-de-segura` | `kt:ruy-lopez` |
+| `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:aron-nimzowitsch` |
 | `kt:semi-open-games` | `kt:caro-kann-defence` |
 | `kt:shuffle-chess` | `kt:chess960` |
 | `kt:sicilian-defence` | `kt:caro-kann-defence` |
