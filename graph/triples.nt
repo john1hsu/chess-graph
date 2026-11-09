@@ -1097,6 +1097,36 @@
 <https://github.com/john1hsu/chess-graph/id/ruy-lopez> <https://github.com/john1hsu/chess-graph/ontology#namedAfter> <https://github.com/john1hsu/chess-graph/id/ruy-lopez-de-segura> .
 <https://github.com/john1hsu/chess-graph/id/ruy-lopez> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/ruy-lopez> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/sicilian-defence> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/sicilian-defence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Opening> .
+<https://github.com/john1hsu/chess-graph/id/sicilian-defence> <http://www.w3.org/2000/01/rdf-schema#label> "Sicilian Defence" .
+<https://github.com/john1hsu/chess-graph/id/sicilian-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "1...c5" .
+<https://github.com/john1hsu/chess-graph/id/sicilian-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "Sicilian Defense" .
+<https://github.com/john1hsu/chess-graph/id/sicilian-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "Sicilian Opening" .
+<https://github.com/john1hsu/chess-graph/id/sicilian-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "Sicilian" .
+<https://github.com/john1hsu/chess-graph/id/sicilian-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "The Sicilian" .
+<https://github.com/john1hsu/chess-graph/id/sicilian-defence> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/semi-open-games> .
+<https://github.com/john1hsu/chess-graph/id/sicilian-defence> <http://www.w3.org/2004/02/skos/core#definition> "A semi-open defence to 1.e4 in which Black answers 1...c5, contesting d4 from the flank and accepting an asymmetrical pawn structure in return for counterplay, typically along the half-open c-file and on the queenside." .
+<https://github.com/john1hsu/chess-graph/id/sicilian-defence> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sicilian Defence" .
+<https://github.com/john1hsu/chess-graph/id/sicilian-defence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/french-defence> .
+<https://github.com/john1hsu/chess-graph/id/sicilian-defence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/outpost> .
+<https://github.com/john1hsu/chess-graph/id/sicilian-defence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/soviet-chess-school> .
+<https://github.com/john1hsu/chess-graph/id/sicilian-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s1> .
+<https://github.com/john1hsu/chess-graph/id/sicilian-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s2> .
+<https://github.com/john1hsu/chess-graph/id/sicilian-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s3> .
+<https://github.com/john1hsu/chess-graph/id/sicilian-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s4> .
+<https://github.com/john1hsu/chess-graph/id/sicilian-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s5> .
+<https://github.com/john1hsu/chess-graph/id/sicilian-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s6> .
+<https://github.com/john1hsu/chess-graph/id/sicilian-defence> <https://github.com/john1hsu/chess-graph/ontology#alternativeTo> <https://github.com/john1hsu/chess-graph/id/caro-kann-defence> .
+<https://github.com/john1hsu/chess-graph/id/sicilian-defence> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/garry-kasparov> .
+<https://github.com/john1hsu/chess-graph/id/sicilian-defence> <https://github.com/john1hsu/chess-graph/ontology#domain> "openings" .
+<https://github.com/john1hsu/chess-graph/id/sicilian-defence> <https://github.com/john1hsu/chess-graph/ontology#eco> "B20" .
+<https://github.com/john1hsu/chess-graph/id/sicilian-defence> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/dragon-variation> .
+<https://github.com/john1hsu/chess-graph/id/sicilian-defence> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/najdorf-variation> .
+<https://github.com/john1hsu/chess-graph/id/sicilian-defence> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/sveshnikov-variation> .
+<https://github.com/john1hsu/chess-graph/id/sicilian-defence> <https://github.com/john1hsu/chess-graph/ontology#moves> "1.e4 c5" .
+<https://github.com/john1hsu/chess-graph/id/sicilian-defence> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/sicilian-defence> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/skewer> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/skewer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TacticalMotif> .
 <https://github.com/john1hsu/chess-graph/id/skewer> <http://www.w3.org/2000/01/rdf-schema#label> "Skewer" .
@@ -2216,6 +2246,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s7> <https://schema.org/url> "https://kwabc.org/en/newsitem/ruy-lopez-de-segura-a-new-biography-sheds-fresh-light-on-a-major-figure-in-chess-history.html" .
+<https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s1> <http://purl.org/dc/terms/publisher> "ChessBase Learn" .
+<https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s1> <http://purl.org/dc/terms/title> "The Sicilian Defence" .
+<https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s1> <https://schema.org/url> "https://learn.chessbase.com/en/page/the-sicilian-defence" .
+<https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s2> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s2> <http://purl.org/dc/terms/title> "Sicilian Defense" .
+<https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s2> <https://schema.org/url> "https://www.britannica.com/topic/Sicilian-Defense" .
+<https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s3> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s3> <http://purl.org/dc/terms/title> "The Sicilian Defence" .
+<https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s3> <https://schema.org/url> "https://chesshistory.com/winter/extra/sicilian.html" .
+<https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s4> <http://purl.org/dc/terms/publisher> "Jesus de la Villa and Max Illingworth, New In Chess (2017), product sample PDF" .
+<https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s4> <http://purl.org/dc/terms/title> "Dismantling the Sicilian, New and Updated Edition (sample pages)" .
+<https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s4> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/9055.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s5> <http://purl.org/dc/terms/publisher> "Ivan Saric, New In Chess (2023), sample PDF" .
+<https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s5> <http://purl.org/dc/terms/title> "The Open Sicilian: An Ambitious White Repertoire for Club Players (sample pages)" .
+<https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s5> <https://schema.org/url> "https://shop.chess-tigers.de/cdn/shop/files/theopen.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s6> <http://purl.org/dc/terms/publisher> "Chessgames.com" .
+<https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s6> <http://purl.org/dc/terms/title> "Sicilian (B20) 1 e4 c5" .
+<https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s6> <https://schema.org/url> "https://chessgames.com/perl/chessopening?eco=B20" .
 <https://github.com/john1hsu/chess-graph/id/source/skewer/s1> <http://purl.org/dc/terms/publisher> "English Chess Federation" .
 <https://github.com/john1hsu/chess-graph/id/source/skewer/s1> <http://purl.org/dc/terms/title> "Skewers (Chess Skills leaflet)" .
 <https://github.com/john1hsu/chess-graph/id/source/skewer/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

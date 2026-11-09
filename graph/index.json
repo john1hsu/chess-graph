@@ -989,6 +989,33 @@
     ]
   },
   {
+    "id": "kt:sicilian-defence",
+    "title": "Sicilian Defence",
+    "aliases": [
+      "Sicilian Defense",
+      "Sicilian",
+      "The Sicilian",
+      "Sicilian Opening",
+      "1...c5"
+    ],
+    "type": "Opening",
+    "domain": "openings",
+    "file": "articles/openings/sicilian-defence.md",
+    "created": "2026-11-09",
+    "verified": "2026-11-09",
+    "volatile": false,
+    "status": "current",
+    "eco": "B20",
+    "source_urls": [
+      "https://learn.chessbase.com/en/page/the-sicilian-defence",
+      "https://www.britannica.com/topic/Sicilian-Defense",
+      "https://chesshistory.com/winter/extra/sicilian.html",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/9055.pdf",
+      "https://shop.chess-tigers.de/cdn/shop/files/theopen.pdf",
+      "https://chessgames.com/perl/chessopening?eco=B20"
+    ]
+  },
+  {
     "id": "kt:skewer",
     "title": "Skewer",
     "aliases": [

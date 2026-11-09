@@ -29,6 +29,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:endgame-tablebases` | `kt:computer-chess`, `kt:endgame-study` |
 | `kt:fifty-move-rule` | `kt:fide-laws-of-chess`, `kt:forsyth-edwards-notation` |
 | `kt:francois-andre-danican-philidor` | `kt:philidor-position`, `kt:pawn-structure` |
+| `kt:french-defence` | `kt:caro-kann-defence`, `kt:sicilian-defence` |
+| `kt:garry-kasparov` | `kt:deep-blue-versus-kasparov`, `kt:sicilian-defence` |
 | `kt:grandmaster-title` | `kt:elo-rating-system`, `kt:fide` |
 | `kt:gukesh-dommaraju` | `kt:chess-olympiad`, `kt:world-chess-championship` |
 | `kt:hanging-pawns` | `kt:isolated-queens-pawn`, `kt:pawn-structure` |
@@ -42,8 +44,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
 | `kt:saavedra-position` | `kt:pawn-promotion`, `kt:endgame-study` |
+| `kt:semi-open-games` | `kt:caro-kann-defence`, `kt:sicilian-defence` |
 | `kt:shatranj` | `kt:chaturanga`, `kt:chaturanga` |
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
+| `kt:sveshnikov-variation` | `kt:outpost`, `kt:sicilian-defence` |
 | `kt:template-theory` | `kt:chunking-theory`, `kt:einstellung-effect` |
 | `kt:threefold-repetition` | `kt:en-passant`, `kt:fide-laws-of-chess` |
 | `kt:transposition-table` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
@@ -72,13 +76,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:david-forsyth` | `kt:forsyth-edwards-notation` |
 | `kt:deep-blue` | `kt:deep-blue-versus-kasparov` |
 | `kt:deliberate-practice` | `kt:chunking-theory` |
+| `kt:dragon-variation` | `kt:sicilian-defence` |
 | `kt:european-chess-union` | `kt:fide` |
 | `kt:extended-position-description` | `kt:forsyth-edwards-notation` |
 | `kt:fide-world-fischer-random-chess-championship` | `kt:chess960` |
 | `kt:fischer-spassky-1972` | `kt:world-chess-championship` |
 | `kt:four-handed-chaturanga` | `kt:chaturanga` |
-| `kt:french-defence` | `kt:caro-kann-defence` |
-| `kt:garry-kasparov` | `kt:deep-blue-versus-kasparov` |
 | `kt:glicko-rating-system` | `kt:elo-rating-system` |
 | `kt:good-knight-versus-bad-bishop` | `kt:outpost` |
 | `kt:hans-berliner` | `kt:horizon-effect` |
@@ -99,6 +102,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:merim-bilalic` | `kt:einstellung-effect` |
 | `kt:mikhail-chigorin` | `kt:wilhelm-steinitz` |
 | `kt:minority-attack` | `kt:pawn-structure` |
+| `kt:najdorf-variation` | `kt:sicilian-defence` |
 | `kt:negamax` | `kt:minimax` |
 | `kt:nimzo-indian-defence` | `kt:aron-nimzowitsch` |
 | `kt:open-games` | `kt:ruy-lopez` |
@@ -113,16 +117,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:remi-coulom` | `kt:monte-carlo-tree-search` |
 | `kt:ruy-lopez-de-segura` | `kt:ruy-lopez` |
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:aron-nimzowitsch` |
-| `kt:semi-open-games` | `kt:caro-kann-defence` |
 | `kt:shuffle-chess` | `kt:chess960` |
-| `kt:sicilian-defence` | `kt:caro-kann-defence` |
 | `kt:smothered-mate` | `kt:einstellung-effect` |
 | `kt:solving-chess` | `kt:game-tree-search` |
+| `kt:soviet-chess-school` | `kt:sicilian-defence` |
 | `kt:static-exchange-evaluation` | `kt:quiescence-search` |
 | `kt:steinitz-von-bardeleben-hastings-1895` | `kt:wilhelm-steinitz` |
 | `kt:steven-j-edwards` | `kt:forsyth-edwards-notation` |
 | `kt:stockfish` | `kt:computer-chess` |
-| `kt:sveshnikov-variation` | `kt:outpost` |
 | `kt:swiss-system-tournament` | `kt:chess-olympiad` |
 | `kt:tarrasch-defence` | `kt:isolated-queens-pawn` |
 | `kt:team-chess` | `kt:chess-olympiad` |
