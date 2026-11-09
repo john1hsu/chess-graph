@@ -1452,6 +1452,103 @@
       ]
     },
     {
+      "@id": "kt:blockade",
+      "@type": "kto:StrategicConcept",
+      "skos:prefLabel": "Blockade",
+      "skos:definition": "The strategy of stopping an enemy pawn, above all a passed or isolated pawn, by planting a piece on the square directly in front of it; systematised by Aron Nimzowitsch, who held that a pawn should be physically blocked rather than merely watched.",
+      "kto:domain": "middlegame-strategy",
+      "dcterms:created": "2026-11-09",
+      "kto:verified": "2026-11-09",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "My System (excerpt)",
+          "dcterms:publisher": "Aron Nimzowitsch, Quality Chess (2007 edition)",
+          "schema:url": "https://qualitychess.co.uk/wp-content/uploads/2024/02/MySystem-excerpt.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "My System & Chess Praxis (sample pages)",
+          "dcterms:publisher": "Aron Nimzowitsch, transl. Robert Sherwood, New In Chess (2016)",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/9027.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The Winning Academy 8: How to Stop a Pawn Avalanche",
+          "dcterms:publisher": "Jan Markos, ChessBase News (18 March 2022)",
+          "schema:url": "https://en.chessbase.com/post/the-winning-academy-8-how-to-stop-a-pawn-avalanche",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Mighty Blockading Knights",
+          "dcterms:publisher": "GM Sundararajan Kidambi, ChessBase India (7 September 2021)",
+          "schema:url": "https://aagaard.chessbase.in/news/Mighty-Blockading-Knights",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Smooth Criminal, Part Three",
+          "dcterms:publisher": "GM Gregory Serper, Chess.com",
+          "schema:url": "https://www.chess.com/article/view/smooth-criminal-part-three",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The Nimzowitsch precepts of positional chess",
+          "dcterms:publisher": "Dennis Monokroussos, ChessBase News (21 November 2007)",
+          "schema:url": "https://en.chessbase.com/post/the-nimzowitsch-precepts-of-positional-che",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/middlegame-strategy/blockade.md",
+      "skos:altLabel": [
+        "Blockading",
+        "Blockader",
+        "Pawn blockade",
+        "Blockade of a passed pawn"
+      ],
+      "kto:fen": "r4rk1/pp3ppp/4bn2/3p4/3N4/4P3/PP3PPP/R4RK1 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-strategy"
+        },
+        {
+          "@id": "kt:pawn-structure"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:passed-pawn"
+        },
+        {
+          "@id": "kt:isolated-queens-pawn"
+        },
+        {
+          "@id": "kt:outpost"
+        },
+        {
+          "@id": "kt:prophylaxis"
+        },
+        {
+          "@id": "kt:hypermodernism"
+        }
+      ],
+      "kto:counters": [
+        {
+          "@id": "kt:passed-pawn"
+        }
+      ],
+      "kto:championedBy": [
+        {
+          "@id": "kt:aron-nimzowitsch"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:pawn-structure"
+        }
+      ]
+    },
+    {
       "@id": "kt:isolated-queens-pawn",
       "@type": "kto:PawnStructure",
       "skos:prefLabel": "Isolated queen's pawn",

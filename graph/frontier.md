@@ -4,13 +4,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:blockade` | `kt:isolated-queens-pawn`, `kt:outpost`, `kt:aron-nimzowitsch` |
 | `kt:chess-tactics` | `kt:fork`, `kt:pin`, `kt:skewer` |
 | `kt:combination` | `kt:fork`, `kt:pin`, `kt:skewer` |
 | `kt:discovered-attack` | `kt:fork`, `kt:pin`, `kt:skewer` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov` |
+| `kt:hypermodernism` | `kt:blockade`, `kt:aron-nimzowitsch`, `kt:aron-nimzowitsch` |
 | `kt:king-and-pawn-endgames` | `kt:lucena-position`, `kt:opposition`, `kt:philidor-position` |
 | `kt:material-advantage` | `kt:fork`, `kt:pin`, `kt:skewer` |
+| `kt:passed-pawn` | `kt:blockade`, `kt:blockade`, `kt:pawn-promotion` |
 | `kt:portable-game-notation` | `kt:algebraic-notation`, `kt:forsyth-edwards-notation`, `kt:forsyth-edwards-notation` |
 | `kt:rook-endgames` | `kt:lucena-position`, `kt:philidor-position`, `kt:skewer` |
 | `kt:siegbert-tarrasch` | `kt:isolated-queens-pawn`, `kt:aron-nimzowitsch`, `kt:emanuel-lasker` |
@@ -19,6 +20,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:anatoly-karpov` | `kt:caro-kann-defence`, `kt:ruy-lopez` |
 | `kt:arbiter` | `kt:fide-laws-of-chess`, `kt:touch-move` |
 | `kt:chess-expertise` | `kt:chunking-theory`, `kt:einstellung-effect` |
+| `kt:chess-strategy` | `kt:blockade`, `kt:pawn-structure` |
 | `kt:cognitive-psychology-of-chess` | `kt:chunking-theory`, `kt:einstellung-effect` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
@@ -28,7 +30,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:grandmaster-title` | `kt:elo-rating-system`, `kt:fide` |
 | `kt:hanging-pawns` | `kt:isolated-queens-pawn`, `kt:pawn-structure` |
 | `kt:hastings-1895` | `kt:emanuel-lasker`, `kt:wilhelm-steinitz` |
-| `kt:hypermodernism` | `kt:aron-nimzowitsch`, `kt:aron-nimzowitsch` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:jose-raul-capablanca` | `kt:aron-nimzowitsch`, `kt:emanuel-lasker` |
 | `kt:leela-chess-zero` | `kt:computer-chess`, `kt:monte-carlo-tree-search` |
@@ -64,7 +65,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chess-organizations` | `kt:fide` |
 | `kt:chess-problems` | `kt:endgame-study` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
-| `kt:chess-strategy` | `kt:pawn-structure` |
 | `kt:chess-variants` | `kt:chess960` |
 | `kt:codex-of-chess-composition` | `kt:endgame-study` |
 | `kt:david-forsyth` | `kt:forsyth-edwards-notation` |
@@ -104,10 +104,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:open-games` | `kt:ruy-lopez` |
 | `kt:open-ruy-lopez` | `kt:ruy-lopez` |
 | `kt:panov-botvinnik-attack` | `kt:caro-kann-defence` |
-| `kt:passed-pawn` | `kt:pawn-promotion` |
 | `kt:passive-rook-defence` | `kt:philidor-position` |
 | `kt:philipp-stamma` | `kt:algebraic-notation` |
 | `kt:proof-number-search` | `kt:game-tree-search` |
+| `kt:prophylaxis` | `kt:blockade` |
 | `kt:queens-gambit-accepted` | `kt:isolated-queens-pawn` |
 | `kt:remi-coulom` | `kt:monte-carlo-tree-search` |
 | `kt:ruy-lopez-de-segura` | `kt:ruy-lopez` |

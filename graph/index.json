@@ -78,6 +78,31 @@
     ]
   },
   {
+    "id": "kt:blockade",
+    "title": "Blockade",
+    "aliases": [
+      "Blockading",
+      "Blockader",
+      "Pawn blockade",
+      "Blockade of a passed pawn"
+    ],
+    "type": "StrategicConcept",
+    "domain": "middlegame-strategy",
+    "file": "articles/middlegame-strategy/blockade.md",
+    "created": "2026-11-09",
+    "verified": "2026-11-09",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://qualitychess.co.uk/wp-content/uploads/2024/02/MySystem-excerpt.pdf",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/9027.pdf",
+      "https://en.chessbase.com/post/the-winning-academy-8-how-to-stop-a-pawn-avalanche",
+      "https://aagaard.chessbase.in/news/Mighty-Blockading-Knights",
+      "https://www.chess.com/article/view/smooth-criminal-part-three",
+      "https://en.chessbase.com/post/the-nimzowitsch-precepts-of-positional-che"
+    ]
+  },
+  {
     "id": "kt:caro-kann-defence",
     "title": "Caro-Kann Defence",
     "aliases": [

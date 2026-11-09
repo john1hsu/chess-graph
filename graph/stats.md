@@ -1,9 +1,9 @@
 # Graph statistics
 
-- Articles (nodes written): **38**
+- Articles (nodes written): **39**
 - Frontier nodes (referenced, unwritten): **127**
-- Edges: **336**
-- Citations: **211**
+- Edges: **346**
+- Citations: **217**
 
 - Weakly connected components: **1**
 - Isolated articles (no edges): **0**
@@ -12,26 +12,26 @@
 
 | Node | PageRank | Written |
 |---|---|---|
-| `kt:game-tree-search` | 0.0141 | yes |
-| `kt:evaluation-function` | 0.0127 | yes |
-| `kt:minimax` | 0.0120 | yes |
-| `kt:alpha-beta-pruning` | 0.0119 | yes |
-| `kt:fide-laws-of-chess` | 0.0118 | yes |
-| `kt:pawn-promotion` | 0.0112 | yes |
-| `kt:quiescence-search` | 0.0103 | yes |
-| `kt:claude-shannon` | 0.0102 | yes |
-| `kt:fide` | 0.0092 | yes |
-| `kt:horizon-effect` | 0.0091 | yes |
-| `kt:monte-carlo-tree-search` | 0.0086 | yes |
-| `kt:castling` | 0.0084 | yes |
-| `kt:en-passant` | 0.0083 | yes |
-| `kt:world-chess-championship` | 0.0072 | yes |
-| `kt:outpost` | 0.0072 | yes |
+| `kt:game-tree-search` | 0.0139 | yes |
+| `kt:evaluation-function` | 0.0125 | yes |
+| `kt:minimax` | 0.0118 | yes |
+| `kt:alpha-beta-pruning` | 0.0117 | yes |
+| `kt:fide-laws-of-chess` | 0.0116 | yes |
+| `kt:pawn-promotion` | 0.0111 | yes |
+| `kt:quiescence-search` | 0.0101 | yes |
+| `kt:claude-shannon` | 0.0100 | yes |
+| `kt:fide` | 0.0091 | yes |
+| `kt:horizon-effect` | 0.0089 | yes |
+| `kt:monte-carlo-tree-search` | 0.0085 | yes |
+| `kt:castling` | 0.0082 | yes |
+| `kt:en-passant` | 0.0082 | yes |
+| `kt:outpost` | 0.0081 | yes |
+| `kt:isolated-queens-pawn` | 0.0075 | yes |
 
 ## Communities (Louvain): 9
 
-1. `kt:alpha-beta-pruning`, `kt:alphazero`, `kt:artificial-intelligence`, `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue`, `kt:deep-blue-versus-kasparov`, `kt:endgame-tablebases`, `kt:evaluation-function`, `kt:game-tree-search`, `kt:garry-kasparov`, `kt:hans-berliner` …
-2. `kt:algebraic-notation`, `kt:arbiter`, `kt:castling`, `kt:chess`, `kt:chess-composition`, `kt:chess-problems`, `kt:codex-of-chess-composition`, `kt:david-forsyth`, `kt:descriptive-notation`, `kt:en-passant`, `kt:endgame-study`, `kt:extended-position-description` …
+1. `kt:alpha-beta-pruning`, `kt:alphazero`, `kt:artificial-intelligence`, `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue`, `kt:deep-blue-versus-kasparov`, `kt:evaluation-function`, `kt:game-tree-search`, `kt:garry-kasparov`, `kt:hans-berliner`, `kt:history-of-computer-chess` …
+2. `kt:algebraic-notation`, `kt:arbiter`, `kt:castling`, `kt:chess`, `kt:chess-composition`, `kt:chess-problems`, `kt:codex-of-chess-composition`, `kt:david-forsyth`, `kt:descriptive-notation`, `kt:en-passant`, `kt:endgame-study`, `kt:endgame-tablebases` …
 3. `kt:aron-nimzowitsch`, `kt:backward-pawn`, `kt:blockade`, `kt:carlsbad-1929`, `kt:carlsbad-structure`, `kt:chess-strategy`, `kt:francois-andre-danican-philidor`, `kt:good-knight-versus-bad-bishop`, `kt:hanging-pawns`, `kt:hypermodernism`, `kt:isolated-queens-pawn`, `kt:jose-raul-capablanca` …
 4. `kt:anatoly-karpov`, `kt:berlin-defence`, `kt:caro-kann-defence`, `kt:french-defence`, `kt:horatio-caro`, `kt:italian-game`, `kt:marcus-kann`, `kt:marshall-attack`, `kt:open-games`, `kt:open-ruy-lopez`, `kt:panov-botvinnik-attack`, `kt:ruy-lopez` …
 5. `kt:adolf-anderssen`, `kt:candidates-tournament`, `kt:emanuel-lasker`, `kt:fischer-spassky-1972`, `kt:gukesh-dommaraju`, `kt:hastings-1895`, `kt:history-of-chess`, `kt:johannes-zukertort`, `kt:lasker-capablanca-st-petersburg-1914`, `kt:mikhail-chigorin`, `kt:steinitz-von-bardeleben-hastings-1895`, `kt:wilhelm-steinitz` …
@@ -56,7 +56,7 @@
 - ProblemGenre: 1
 - RatingSystem: 1
 - Rule: 5
-- StrategicConcept: 2
+- StrategicConcept: 3
 - TacticalMotif: 3
 - Technique: 1
 - Variant: 1
@@ -67,7 +67,7 @@
 - endgames: 3
 - events-and-organizations: 2
 - history: 2
-- middlegame-strategy: 3
+- middlegame-strategy: 4
 - openings: 2
 - players: 3
 - rules-and-notation: 7
@@ -82,5 +82,5 @@
 
 ## By status
 
-- current: 33
+- current: 34
 - historical: 5

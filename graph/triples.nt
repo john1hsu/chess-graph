@@ -88,6 +88,35 @@
 <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/carlsbad-1929> .
 <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/blockade> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/blockade> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
+<https://github.com/john1hsu/chess-graph/id/blockade> <http://www.w3.org/2000/01/rdf-schema#label> "Blockade" .
+<https://github.com/john1hsu/chess-graph/id/blockade> <http://www.w3.org/2004/02/skos/core#altLabel> "Blockade of a passed pawn" .
+<https://github.com/john1hsu/chess-graph/id/blockade> <http://www.w3.org/2004/02/skos/core#altLabel> "Blockader" .
+<https://github.com/john1hsu/chess-graph/id/blockade> <http://www.w3.org/2004/02/skos/core#altLabel> "Blockading" .
+<https://github.com/john1hsu/chess-graph/id/blockade> <http://www.w3.org/2004/02/skos/core#altLabel> "Pawn blockade" .
+<https://github.com/john1hsu/chess-graph/id/blockade> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-strategy> .
+<https://github.com/john1hsu/chess-graph/id/blockade> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/pawn-structure> .
+<https://github.com/john1hsu/chess-graph/id/blockade> <http://www.w3.org/2004/02/skos/core#definition> "The strategy of stopping an enemy pawn, above all a passed or isolated pawn, by planting a piece on the square directly in front of it; systematised by Aron Nimzowitsch, who held that a pawn should be physically blocked rather than merely watched." .
+<https://github.com/john1hsu/chess-graph/id/blockade> <http://www.w3.org/2004/02/skos/core#prefLabel> "Blockade" .
+<https://github.com/john1hsu/chess-graph/id/blockade> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/hypermodernism> .
+<https://github.com/john1hsu/chess-graph/id/blockade> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/isolated-queens-pawn> .
+<https://github.com/john1hsu/chess-graph/id/blockade> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/outpost> .
+<https://github.com/john1hsu/chess-graph/id/blockade> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/passed-pawn> .
+<https://github.com/john1hsu/chess-graph/id/blockade> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/prophylaxis> .
+<https://github.com/john1hsu/chess-graph/id/blockade> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/blockade/s1> .
+<https://github.com/john1hsu/chess-graph/id/blockade> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/blockade/s2> .
+<https://github.com/john1hsu/chess-graph/id/blockade> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/blockade/s3> .
+<https://github.com/john1hsu/chess-graph/id/blockade> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/blockade/s4> .
+<https://github.com/john1hsu/chess-graph/id/blockade> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/blockade/s5> .
+<https://github.com/john1hsu/chess-graph/id/blockade> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/blockade/s6> .
+<https://github.com/john1hsu/chess-graph/id/blockade> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> .
+<https://github.com/john1hsu/chess-graph/id/blockade> <https://github.com/john1hsu/chess-graph/ontology#counters> <https://github.com/john1hsu/chess-graph/id/passed-pawn> .
+<https://github.com/john1hsu/chess-graph/id/blockade> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/pawn-structure> .
+<https://github.com/john1hsu/chess-graph/id/blockade> <https://github.com/john1hsu/chess-graph/ontology#domain> "middlegame-strategy" .
+<https://github.com/john1hsu/chess-graph/id/blockade> <https://github.com/john1hsu/chess-graph/ontology#fen> "r4rk1/pp3ppp/4bn2/3p4/3N4/4P3/PP3PPP/R4RK1 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/blockade> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/blockade> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Opening> .
 <https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <http://www.w3.org/2000/01/rdf-schema#label> "Caro-Kann Defence" .
@@ -1070,6 +1099,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
 <https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s6> <https://schema.org/url> "https://www.chessgames.com/perl/chessgame?gid=1102400" .
+<https://github.com/john1hsu/chess-graph/id/source/blockade/s1> <http://purl.org/dc/terms/publisher> "Aron Nimzowitsch, Quality Chess (2007 edition)" .
+<https://github.com/john1hsu/chess-graph/id/source/blockade/s1> <http://purl.org/dc/terms/title> "My System (excerpt)" .
+<https://github.com/john1hsu/chess-graph/id/source/blockade/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/blockade/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/blockade/s1> <https://schema.org/url> "https://qualitychess.co.uk/wp-content/uploads/2024/02/MySystem-excerpt.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/blockade/s2> <http://purl.org/dc/terms/publisher> "Aron Nimzowitsch, transl. Robert Sherwood, New In Chess (2016)" .
+<https://github.com/john1hsu/chess-graph/id/source/blockade/s2> <http://purl.org/dc/terms/title> "My System & Chess Praxis (sample pages)" .
+<https://github.com/john1hsu/chess-graph/id/source/blockade/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/blockade/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/blockade/s2> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/9027.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/blockade/s3> <http://purl.org/dc/terms/publisher> "Jan Markos, ChessBase News (18 March 2022)" .
+<https://github.com/john1hsu/chess-graph/id/source/blockade/s3> <http://purl.org/dc/terms/title> "The Winning Academy 8: How to Stop a Pawn Avalanche" .
+<https://github.com/john1hsu/chess-graph/id/source/blockade/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/blockade/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/blockade/s3> <https://schema.org/url> "https://en.chessbase.com/post/the-winning-academy-8-how-to-stop-a-pawn-avalanche" .
+<https://github.com/john1hsu/chess-graph/id/source/blockade/s4> <http://purl.org/dc/terms/publisher> "GM Sundararajan Kidambi, ChessBase India (7 September 2021)" .
+<https://github.com/john1hsu/chess-graph/id/source/blockade/s4> <http://purl.org/dc/terms/title> "Mighty Blockading Knights" .
+<https://github.com/john1hsu/chess-graph/id/source/blockade/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/blockade/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/blockade/s4> <https://schema.org/url> "https://aagaard.chessbase.in/news/Mighty-Blockading-Knights" .
+<https://github.com/john1hsu/chess-graph/id/source/blockade/s5> <http://purl.org/dc/terms/publisher> "GM Gregory Serper, Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/blockade/s5> <http://purl.org/dc/terms/title> "Smooth Criminal, Part Three" .
+<https://github.com/john1hsu/chess-graph/id/source/blockade/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/blockade/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/blockade/s5> <https://schema.org/url> "https://www.chess.com/article/view/smooth-criminal-part-three" .
+<https://github.com/john1hsu/chess-graph/id/source/blockade/s6> <http://purl.org/dc/terms/publisher> "Dennis Monokroussos, ChessBase News (21 November 2007)" .
+<https://github.com/john1hsu/chess-graph/id/source/blockade/s6> <http://purl.org/dc/terms/title> "The Nimzowitsch precepts of positional chess" .
+<https://github.com/john1hsu/chess-graph/id/source/blockade/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/blockade/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/blockade/s6> <https://schema.org/url> "https://en.chessbase.com/post/the-nimzowitsch-precepts-of-positional-che" .
 <https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
 <https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s1> <http://purl.org/dc/terms/title> "The Caro-Kann Defence" .
 <https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
