@@ -213,6 +213,33 @@
     ]
   },
   {
+    "id": "kt:chess-problems",
+    "title": "Chess problem",
+    "aliases": [
+      "Chess problems",
+      "Composed problem",
+      "Directmate",
+      "Direct mate",
+      "Mate-in-n problem",
+      "Problem chess"
+    ],
+    "type": "ProblemGenre",
+    "domain": "variants-and-compositions",
+    "file": "articles/variants-and-compositions/chess-problems.md",
+    "created": "2026-11-09",
+    "verified": "2026-11-09",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.britannica.com/topic/chess/Chess-composition",
+      "https://www.wfcc.ch/?p=198",
+      "https://people.math.harvard.edu/~elkies/FS23j.05/glossary_chess.html",
+      "https://www.ozproblems.com/problem-world/chess-problem",
+      "https://www.uschess.org/content/view/8672/471",
+      "https://en.chessbase.com/post/chebase-puzzles-loyds-excelsior-261013"
+    ]
+  },
+  {
     "id": "kt:chess-tactics",
     "title": "Chess tactics",
     "aliases": [

@@ -20,9 +20,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:sacrifice` | `kt:material-advantage`, `kt:material-advantage`, `kt:combination` |
 | `kt:siegbert-tarrasch` | `kt:isolated-queens-pawn`, `kt:aron-nimzowitsch`, `kt:emanuel-lasker` |
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:emanuel-lasker`, `kt:wilhelm-steinitz` |
+| `kt:zugzwang` | `kt:opposition`, `kt:opposition`, `kt:chess-problems` |
 | `kt:anatoly-karpov` | `kt:caro-kann-defence`, `kt:ruy-lopez` |
 | `kt:arbiter` | `kt:fide-laws-of-chess`, `kt:touch-move` |
+| `kt:chess-composition` | `kt:chess-problems`, `kt:endgame-study` |
 | `kt:chess-variants` | `kt:chaturanga`, `kt:chess960` |
+| `kt:codex-of-chess-composition` | `kt:chess-problems`, `kt:endgame-study` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
 | `kt:endgame-tablebases` | `kt:computer-chess`, `kt:endgame-study` |
@@ -54,7 +57,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:triangulation` | `kt:opposition`, `kt:opposition` |
 | `kt:us-chess` | `kt:elo-rating-system`, `kt:touch-move` |
 | `kt:world-chess-championship-1886` | `kt:world-chess-championship`, `kt:wilhelm-steinitz` |
-| `kt:zugzwang` | `kt:opposition`, `kt:opposition` |
 | `kt:zwischenzug` | `kt:discovered-attack`, `kt:fork` |
 | `kt:abraham-luchins` | `kt:einstellung-effect` |
 | `kt:adolf-anderssen` | `kt:wilhelm-steinitz` |
@@ -71,15 +73,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:candidates-tournament` | `kt:world-chess-championship` |
 | `kt:carlsbad-1929` | `kt:aron-nimzowitsch` |
 | `kt:carlsbad-structure` | `kt:pawn-structure` |
-| `kt:chess-composition` | `kt:endgame-study` |
 | `kt:chess-organizations` | `kt:fide` |
-| `kt:chess-problems` | `kt:endgame-study` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
-| `kt:codex-of-chess-composition` | `kt:endgame-study` |
 | `kt:david-forsyth` | `kt:forsyth-edwards-notation` |
 | `kt:deep-blue` | `kt:deep-blue-versus-kasparov` |
 | `kt:dragon-variation` | `kt:sicilian-defence` |
 | `kt:european-chess-union` | `kt:fide` |
+| `kt:excelsior` | `kt:chess-problems` |
 | `kt:extended-position-description` | `kt:forsyth-edwards-notation` |
 | `kt:fide-world-fischer-random-chess-championship` | `kt:chess960` |
 | `kt:fischer-spassky-1972` | `kt:world-chess-championship` |
@@ -87,6 +87,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:glicko-rating-system` | `kt:elo-rating-system` |
 | `kt:good-knight-versus-bad-bishop` | `kt:outpost` |
 | `kt:hans-berliner` | `kt:horizon-effect` |
+| `kt:helpmate` | `kt:chess-problems` |
 | `kt:herbert-simon` | `kt:chunking-theory` |
 | `kt:horatio-caro` | `kt:caro-kann-defence` |
 | `kt:illegal-move` | `kt:touch-move` |
@@ -120,6 +121,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:puzzle-training` | `kt:deliberate-practice` |
 | `kt:queens-gambit-accepted` | `kt:isolated-queens-pawn` |
 | `kt:remi-coulom` | `kt:monte-carlo-tree-search` |
+| `kt:retrograde-analysis` | `kt:chess-problems` |
 | `kt:ruy-lopez-de-segura` | `kt:ruy-lopez` |
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:aron-nimzowitsch` |
 | `kt:shuffle-chess` | `kt:chess960` |

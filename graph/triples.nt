@@ -236,6 +236,36 @@
 <https://github.com/john1hsu/chess-graph/id/chess-olympiad> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/fide> .
 <https://github.com/john1hsu/chess-graph/id/chess-olympiad> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/chess-olympiad> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/chess-problems> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/chess-problems> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#ProblemGenre> .
+<https://github.com/john1hsu/chess-graph/id/chess-problems> <http://www.w3.org/2000/01/rdf-schema#label> "Chess problem" .
+<https://github.com/john1hsu/chess-graph/id/chess-problems> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess problems" .
+<https://github.com/john1hsu/chess-graph/id/chess-problems> <http://www.w3.org/2004/02/skos/core#altLabel> "Composed problem" .
+<https://github.com/john1hsu/chess-graph/id/chess-problems> <http://www.w3.org/2004/02/skos/core#altLabel> "Direct mate" .
+<https://github.com/john1hsu/chess-graph/id/chess-problems> <http://www.w3.org/2004/02/skos/core#altLabel> "Directmate" .
+<https://github.com/john1hsu/chess-graph/id/chess-problems> <http://www.w3.org/2004/02/skos/core#altLabel> "Mate-in-n problem" .
+<https://github.com/john1hsu/chess-graph/id/chess-problems> <http://www.w3.org/2004/02/skos/core#altLabel> "Problem chess" .
+<https://github.com/john1hsu/chess-graph/id/chess-problems> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-composition> .
+<https://github.com/john1hsu/chess-graph/id/chess-problems> <http://www.w3.org/2004/02/skos/core#definition> "A composed chess position with a stated task—most often White to move and force checkmate in a fixed number of moves—whose solution must be unique and whose value lies in the artistic idea it shows." .
+<https://github.com/john1hsu/chess-graph/id/chess-problems> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chess problem" .
+<https://github.com/john1hsu/chess-graph/id/chess-problems> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/endgame-study> .
+<https://github.com/john1hsu/chess-graph/id/chess-problems> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/helpmate> .
+<https://github.com/john1hsu/chess-graph/id/chess-problems> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/pawn-promotion> .
+<https://github.com/john1hsu/chess-graph/id/chess-problems> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/retrograde-analysis> .
+<https://github.com/john1hsu/chess-graph/id/chess-problems> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/zugzwang> .
+<https://github.com/john1hsu/chess-graph/id/chess-problems> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-problems/s1> .
+<https://github.com/john1hsu/chess-graph/id/chess-problems> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-problems/s2> .
+<https://github.com/john1hsu/chess-graph/id/chess-problems> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-problems/s3> .
+<https://github.com/john1hsu/chess-graph/id/chess-problems> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-problems/s4> .
+<https://github.com/john1hsu/chess-graph/id/chess-problems> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-problems/s5> .
+<https://github.com/john1hsu/chess-graph/id/chess-problems> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-problems/s6> .
+<https://github.com/john1hsu/chess-graph/id/chess-problems> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/endgame-study> .
+<https://github.com/john1hsu/chess-graph/id/chess-problems> <https://github.com/john1hsu/chess-graph/ontology#domain> "variants-and-compositions" .
+<https://github.com/john1hsu/chess-graph/id/chess-problems> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/excelsior> .
+<https://github.com/john1hsu/chess-graph/id/chess-problems> <https://github.com/john1hsu/chess-graph/ontology#fen> "n1rb4/1p3p1p/1p6/1R5K/8/p3p1PN/1PP1R3/N6k w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/chess-problems> <https://github.com/john1hsu/chess-graph/ontology#governedBy> <https://github.com/john1hsu/chess-graph/id/codex-of-chess-composition> .
+<https://github.com/john1hsu/chess-graph/id/chess-problems> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/chess-problems> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/chess-tactics> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/chess-tactics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Concept> .
 <https://github.com/john1hsu/chess-graph/id/chess-tactics> <http://www.w3.org/2000/01/rdf-schema#label> "Chess tactics" .
@@ -1481,6 +1511,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s9> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s9> <https://schema.org/url> "https://www.europechess.org/uzbekistan-and-china-win-the-46th-chess-olympiad/" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-problems/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-problems/s1> <http://purl.org/dc/terms/title> "Chess: Chess composition" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-problems/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-problems/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-problems/s1> <https://schema.org/url> "https://www.britannica.com/topic/chess/Chess-composition" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-problems/s2> <http://purl.org/dc/terms/publisher> "World Federation for Chess Composition (WFCC)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-problems/s2> <http://purl.org/dc/terms/title> "Codex of Chess Compositions (version Vilnius 2019)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-problems/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-problems/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-problems/s2> <https://schema.org/url> "https://www.wfcc.ch/?p=198" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-problems/s3> <http://purl.org/dc/terms/publisher> "Harvard University, Department of Mathematics" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-problems/s3> <http://purl.org/dc/terms/title> "Chess glossary (Freshman Seminar 23j: Chess and Mathematics)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-problems/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-problems/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-problems/s3> <https://schema.org/url> "https://people.math.harvard.edu/~elkies/FS23j.05/glossary_chess.html" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-problems/s4> <http://purl.org/dc/terms/publisher> "Peter Wong, OzProblems" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-problems/s4> <http://purl.org/dc/terms/title> "What is a chess problem? (Problem World No. 1)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-problems/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-problems/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-problems/s4> <https://schema.org/url> "https://www.ozproblems.com/problem-world/chess-problem" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-problems/s5> <http://purl.org/dc/terms/publisher> "Gary Kevin Ware, Chess Life Online (US Chess), 22 August 2008" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-problems/s5> <http://purl.org/dc/terms/title> "Start Solving Now: Part I" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-problems/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-problems/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-problems/s5> <https://schema.org/url> "https://www.uschess.org/content/view/8672/471" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-problems/s6> <http://purl.org/dc/terms/publisher> "Frederic Friedel, ChessBase News, 26 October 2013" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-problems/s6> <http://purl.org/dc/terms/title> "ChessBase puzzles: Loyd's Excelsior" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-problems/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-problems/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-problems/s6> <https://schema.org/url> "https://en.chessbase.com/post/chebase-puzzles-loyds-excelsior-261013" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s1> <http://purl.org/dc/terms/title> "Chess Strategy and Tactics" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
