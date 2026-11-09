@@ -1,5 +1,33 @@
 [
   {
+    "id": "kt:algebraic-notation",
+    "title": "Algebraic notation",
+    "aliases": [
+      "Standard algebraic notation",
+      "SAN",
+      "Algebraic chess notation",
+      "Coordinate notation",
+      "Long algebraic notation",
+      "LAN",
+      "Figurine algebraic notation"
+    ],
+    "type": "Notation",
+    "domain": "rules-and-notation",
+    "file": "articles/rules-and-notation/algebraic-notation.md",
+    "created": "2026-11-09",
+    "verified": "2026-11-09",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://rcc.fide.com/?p=880",
+      "https://rcc.fide.com/?p=866",
+      "https://www.britannica.com/topic/algebraic-notation",
+      "https://chesshistory.com/winter/extra/notation.html",
+      "https://www.chess.com/article/view/the-creator-of-algebraic-chess-notation",
+      "https://new.uschess.org/sites/default/files/media/documents/uschess-fide-rules-comparison.pdf"
+    ]
+  },
+  {
     "id": "kt:alpha-beta-pruning",
     "title": "Alpha-beta pruning",
     "aliases": [

@@ -1,3 +1,35 @@
+<https://github.com/john1hsu/chess-graph/id/algebraic-notation> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/algebraic-notation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Notation> .
+<https://github.com/john1hsu/chess-graph/id/algebraic-notation> <http://www.w3.org/2000/01/rdf-schema#label> "Algebraic notation" .
+<https://github.com/john1hsu/chess-graph/id/algebraic-notation> <http://www.w3.org/2004/02/skos/core#altLabel> "Algebraic chess notation" .
+<https://github.com/john1hsu/chess-graph/id/algebraic-notation> <http://www.w3.org/2004/02/skos/core#altLabel> "Coordinate notation" .
+<https://github.com/john1hsu/chess-graph/id/algebraic-notation> <http://www.w3.org/2004/02/skos/core#altLabel> "Figurine algebraic notation" .
+<https://github.com/john1hsu/chess-graph/id/algebraic-notation> <http://www.w3.org/2004/02/skos/core#altLabel> "LAN" .
+<https://github.com/john1hsu/chess-graph/id/algebraic-notation> <http://www.w3.org/2004/02/skos/core#altLabel> "Long algebraic notation" .
+<https://github.com/john1hsu/chess-graph/id/algebraic-notation> <http://www.w3.org/2004/02/skos/core#altLabel> "SAN" .
+<https://github.com/john1hsu/chess-graph/id/algebraic-notation> <http://www.w3.org/2004/02/skos/core#altLabel> "Standard algebraic notation" .
+<https://github.com/john1hsu/chess-graph/id/algebraic-notation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/algebraic-notation> <http://www.w3.org/2004/02/skos/core#definition> "The system for recording chess moves in which each square is named by a file letter (a–h) and a rank number (1–8) from White's side, and a move is written as the piece letter plus the destination square; FIDE recognises it as the only notation for its own events." .
+<https://github.com/john1hsu/chess-graph/id/algebraic-notation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Algebraic notation" .
+<https://github.com/john1hsu/chess-graph/id/algebraic-notation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/castling> .
+<https://github.com/john1hsu/chess-graph/id/algebraic-notation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/descriptive-notation> .
+<https://github.com/john1hsu/chess-graph/id/algebraic-notation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> .
+<https://github.com/john1hsu/chess-graph/id/algebraic-notation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/pawn-promotion> .
+<https://github.com/john1hsu/chess-graph/id/algebraic-notation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/philipp-stamma> .
+<https://github.com/john1hsu/chess-graph/id/algebraic-notation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/portable-game-notation> .
+<https://github.com/john1hsu/chess-graph/id/algebraic-notation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s1> .
+<https://github.com/john1hsu/chess-graph/id/algebraic-notation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s2> .
+<https://github.com/john1hsu/chess-graph/id/algebraic-notation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s3> .
+<https://github.com/john1hsu/chess-graph/id/algebraic-notation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s4> .
+<https://github.com/john1hsu/chess-graph/id/algebraic-notation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s5> .
+<https://github.com/john1hsu/chess-graph/id/algebraic-notation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s6> .
+<https://github.com/john1hsu/chess-graph/id/algebraic-notation> <https://github.com/john1hsu/chess-graph/ontology#domain> "rules-and-notation" .
+<https://github.com/john1hsu/chess-graph/id/algebraic-notation> <https://github.com/john1hsu/chess-graph/ontology#fen> "4k3/8/8/8/8/8/8/4NKN1 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/algebraic-notation> <https://github.com/john1hsu/chess-graph/ontology#governedBy> <https://github.com/john1hsu/chess-graph/id/fide> .
+<https://github.com/john1hsu/chess-graph/id/algebraic-notation> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/algebraic-notation> <https://github.com/john1hsu/chess-graph/ontology#replaces> <https://github.com/john1hsu/chess-graph/id/descriptive-notation> .
+<https://github.com/john1hsu/chess-graph/id/algebraic-notation> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/algebraic-notation> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <http://purl.org/dc/terms/created> "2026-11-07" .
 <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Algorithm> .
 <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <http://www.w3.org/2000/01/rdf-schema#label> "Alpha-beta pruning" .
@@ -758,6 +790,36 @@
 <https://github.com/john1hsu/chess-graph/id/ruy-lopez> <https://github.com/john1hsu/chess-graph/ontology#namedAfter> <https://github.com/john1hsu/chess-graph/id/ruy-lopez-de-segura> .
 <https://github.com/john1hsu/chess-graph/id/ruy-lopez> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/ruy-lopez> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s1> <http://purl.org/dc/terms/title> "Appendix C. Algebraic Notation (FIDE Laws of Chess)" .
+<https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s1> <https://schema.org/url> "https://rcc.fide.com/?p=880" .
+<https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s2> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s2> <http://purl.org/dc/terms/title> "Article 8: The recording of the moves (FIDE Laws of Chess)" .
+<https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s2> <https://schema.org/url> "https://rcc.fide.com/?p=866" .
+<https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s3> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s3> <http://purl.org/dc/terms/title> "algebraic notation" .
+<https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s3> <https://schema.org/url> "https://www.britannica.com/topic/algebraic-notation" .
+<https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s4> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s4> <http://purl.org/dc/terms/title> "Chess Notation" .
+<https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s4> <https://schema.org/url> "https://chesshistory.com/winter/extra/notation.html" .
+<https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s5> <http://purl.org/dc/terms/publisher> "Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s5> <http://purl.org/dc/terms/title> "The Creator of Algebraic Chess Notation (GM Julio Becerra, 4 November 2009)" .
+<https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s5> <https://schema.org/url> "https://www.chess.com/article/view/the-creator-of-algebraic-chess-notation" .
+<https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s6> <http://purl.org/dc/terms/publisher> "US Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s6> <http://purl.org/dc/terms/title> "Summary of differences between the FIDE Laws of Chess and the US Chess Official Rules of Chess, 7th edition (updated 1 January 2022)" .
+<https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s6> <https://schema.org/url> "https://new.uschess.org/sites/default/files/media/documents/uschess-fide-rules-comparison.pdf" .
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s1> <http://purl.org/dc/terms/publisher> "Computer History Museum (Mastering the Game exhibit)" .
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s1> <http://purl.org/dc/terms/title> "The Minimax Algorithm and Alpha-Beta Pruning" .
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

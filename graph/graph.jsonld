@@ -2028,6 +2028,106 @@
       ]
     },
     {
+      "@id": "kt:algebraic-notation",
+      "@type": "kto:Notation",
+      "skos:prefLabel": "Algebraic notation",
+      "skos:definition": "The system for recording chess moves in which each square is named by a file letter (a–h) and a rank number (1–8) from White's side, and a move is written as the piece letter plus the destination square; FIDE recognises it as the only notation for its own events.",
+      "kto:domain": "rules-and-notation",
+      "dcterms:created": "2026-11-09",
+      "kto:verified": "2026-11-09",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Appendix C. Algebraic Notation (FIDE Laws of Chess)",
+          "dcterms:publisher": "FIDE Rules Commission",
+          "schema:url": "https://rcc.fide.com/?p=880",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Article 8: The recording of the moves (FIDE Laws of Chess)",
+          "dcterms:publisher": "FIDE Rules Commission",
+          "schema:url": "https://rcc.fide.com/?p=866",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "algebraic notation",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/algebraic-notation",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Chess Notation",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://chesshistory.com/winter/extra/notation.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "The Creator of Algebraic Chess Notation (GM Julio Becerra, 4 November 2009)",
+          "dcterms:publisher": "Chess.com",
+          "schema:url": "https://www.chess.com/article/view/the-creator-of-algebraic-chess-notation",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Summary of differences between the FIDE Laws of Chess and the US Chess Official Rules of Chess, 7th edition (updated 1 January 2022)",
+          "dcterms:publisher": "US Chess",
+          "schema:url": "https://new.uschess.org/sites/default/files/media/documents/uschess-fide-rules-comparison.pdf",
+          "kto:sourceType": "governing-body"
+        }
+      ],
+      "kto:file": "articles/rules-and-notation/algebraic-notation.md",
+      "skos:altLabel": [
+        "Standard algebraic notation",
+        "SAN",
+        "Algebraic chess notation",
+        "Coordinate notation",
+        "Long algebraic notation",
+        "LAN",
+        "Figurine algebraic notation"
+      ],
+      "kto:fen": "4k3/8/8/8/8/8/8/4NKN1 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:descriptive-notation"
+        },
+        {
+          "@id": "kt:portable-game-notation"
+        },
+        {
+          "@id": "kt:forsyth-edwards-notation"
+        },
+        {
+          "@id": "kt:castling"
+        },
+        {
+          "@id": "kt:pawn-promotion"
+        },
+        {
+          "@id": "kt:philipp-stamma"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        }
+      ],
+      "kto:replaces": [
+        {
+          "@id": "kt:descriptive-notation"
+        }
+      ],
+      "kto:governedBy": [
+        {
+          "@id": "kt:fide"
+        }
+      ]
+    },
+    {
       "@id": "kt:castling",
       "@type": "kto:Rule",
       "skos:prefLabel": "Castling",

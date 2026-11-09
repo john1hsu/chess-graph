@@ -4,14 +4,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
+| `kt:forsyth-edwards-notation` | `kt:algebraic-notation`, `kt:en-passant`, `kt:chess960` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov` |
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:emanuel-lasker`, `kt:wilhelm-steinitz` |
-| `kt:algebraic-notation` | `kt:castling`, `kt:fide-laws-of-chess` |
 | `kt:anatoly-karpov` | `kt:caro-kann-defence`, `kt:ruy-lopez` |
 | `kt:arbiter` | `kt:fide-laws-of-chess`, `kt:touch-move` |
 | `kt:blockade` | `kt:isolated-queens-pawn`, `kt:outpost` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position` |
-| `kt:forsyth-edwards-notation` | `kt:en-passant`, `kt:chess960` |
+| `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
 | `kt:francois-andre-danican-philidor` | `kt:philidor-position`, `kt:pawn-structure` |
 | `kt:grandmaster-title` | `kt:elo-rating-system`, `kt:fide` |
 | `kt:hanging-pawns` | `kt:isolated-queens-pawn`, `kt:pawn-structure` |
@@ -93,7 +93,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:panov-botvinnik-attack` | `kt:caro-kann-defence` |
 | `kt:passed-pawn` | `kt:pawn-promotion` |
 | `kt:passive-rook-defence` | `kt:philidor-position` |
+| `kt:philipp-stamma` | `kt:algebraic-notation` |
 | `kt:pin` | `kt:fork` |
+| `kt:portable-game-notation` | `kt:algebraic-notation` |
 | `kt:proof-number-search` | `kt:game-tree-search` |
 | `kt:queens-gambit-accepted` | `kt:isolated-queens-pawn` |
 | `kt:remi-coulom` | `kt:monte-carlo-tree-search` |
