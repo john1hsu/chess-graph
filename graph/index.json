@@ -159,6 +159,32 @@
     ]
   },
   {
+    "id": "kt:chaturanga",
+    "title": "Chaturanga",
+    "aliases": [
+      "Caturanga",
+      "Shaturanga",
+      "Chaturang",
+      "Chaturanga (game)",
+      "Indian chess (ancient)"
+    ],
+    "type": "Variant",
+    "domain": "history",
+    "file": "articles/history/chaturanga.md",
+    "created": "2026-11-09",
+    "verified": "2026-11-09",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://www.britannica.com/topic/chaturanga",
+      "https://www.britannica.com/topic/chess/History",
+      "https://www.metmuseum.org/exhibitions/listings/2011/the-game-of-kings-medieval-ivory-chessmen-from-the-isle-of-lewis/exhibition-blog/game-of-kings/blog/shah-mat",
+      "https://www.worldhistory.org/article/2793/the-history-of-chess/",
+      "https://chesshistory.com/winter/extra/origins.html",
+      "https://www.chessvariants.org/historic.dir/chaturanga.html"
+    ]
+  },
+  {
     "id": "kt:chess-olympiad",
     "title": "Chess Olympiad",
     "aliases": [

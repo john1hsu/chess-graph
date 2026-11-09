@@ -179,6 +179,34 @@
 <https://github.com/john1hsu/chess-graph/id/castling> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
 <https://github.com/john1hsu/chess-graph/id/castling> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/castling> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/chaturanga> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/chaturanga> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Variant> .
+<https://github.com/john1hsu/chess-graph/id/chaturanga> <http://www.w3.org/2000/01/rdf-schema#label> "Chaturanga" .
+<https://github.com/john1hsu/chess-graph/id/chaturanga> <http://www.w3.org/2004/02/skos/core#altLabel> "Caturanga" .
+<https://github.com/john1hsu/chess-graph/id/chaturanga> <http://www.w3.org/2004/02/skos/core#altLabel> "Chaturang" .
+<https://github.com/john1hsu/chess-graph/id/chaturanga> <http://www.w3.org/2004/02/skos/core#altLabel> "Chaturanga (game)" .
+<https://github.com/john1hsu/chess-graph/id/chaturanga> <http://www.w3.org/2004/02/skos/core#altLabel> "Indian chess (ancient)" .
+<https://github.com/john1hsu/chess-graph/id/chaturanga> <http://www.w3.org/2004/02/skos/core#altLabel> "Shaturanga" .
+<https://github.com/john1hsu/chess-graph/id/chaturanga> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-variants> .
+<https://github.com/john1hsu/chess-graph/id/chaturanga> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/history-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/chaturanga> <http://www.w3.org/2004/02/skos/core#definition> "An Indian war game of the mid-first millennium CE, played on an uncheckered 8×8 board with pieces modelled on the four arms of an army, which historians regard as the earliest recognisable precursor of chess and the ancestor of the Persian game chatrang/shatranj." .
+<https://github.com/john1hsu/chess-graph/id/chaturanga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chaturanga" .
+<https://github.com/john1hsu/chess-graph/id/chaturanga> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess> .
+<https://github.com/john1hsu/chess-graph/id/chaturanga> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/origins-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/chaturanga> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/pawn-promotion> .
+<https://github.com/john1hsu/chess-graph/id/chaturanga> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/shatranj> .
+<https://github.com/john1hsu/chess-graph/id/chaturanga> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/stalemate> .
+<https://github.com/john1hsu/chess-graph/id/chaturanga> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chaturanga/s1> .
+<https://github.com/john1hsu/chess-graph/id/chaturanga> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chaturanga/s2> .
+<https://github.com/john1hsu/chess-graph/id/chaturanga> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chaturanga/s3> .
+<https://github.com/john1hsu/chess-graph/id/chaturanga> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chaturanga/s4> .
+<https://github.com/john1hsu/chess-graph/id/chaturanga> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chaturanga/s5> .
+<https://github.com/john1hsu/chess-graph/id/chaturanga> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chaturanga/s6> .
+<https://github.com/john1hsu/chess-graph/id/chaturanga> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/four-handed-chaturanga> .
+<https://github.com/john1hsu/chess-graph/id/chaturanga> <https://github.com/john1hsu/chess-graph/ontology#domain> "history" .
+<https://github.com/john1hsu/chess-graph/id/chaturanga> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/shatranj> .
+<https://github.com/john1hsu/chess-graph/id/chaturanga> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/chaturanga> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/chess-olympiad> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/chess-olympiad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Event> .
 <https://github.com/john1hsu/chess-graph/id/chess-olympiad> <http://www.w3.org/2000/01/rdf-schema#label> "Chess Olympiad" .
@@ -1238,6 +1266,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/castling/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/castling/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/castling/s5> <https://schema.org/url> "https://www.chess.com/article/view/dont-get-brainwashed-part-four" .
+<https://github.com/john1hsu/chess-graph/id/source/chaturanga/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/chaturanga/s1> <http://purl.org/dc/terms/title> "Chaturanga" .
+<https://github.com/john1hsu/chess-graph/id/source/chaturanga/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chaturanga/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/chaturanga/s1> <https://schema.org/url> "https://www.britannica.com/topic/chaturanga" .
+<https://github.com/john1hsu/chess-graph/id/source/chaturanga/s2> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/chaturanga/s2> <http://purl.org/dc/terms/title> "Chess: History" .
+<https://github.com/john1hsu/chess-graph/id/source/chaturanga/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chaturanga/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/chaturanga/s2> <https://schema.org/url> "https://www.britannica.com/topic/chess/History" .
+<https://github.com/john1hsu/chess-graph/id/source/chaturanga/s3> <http://purl.org/dc/terms/publisher> "The Metropolitan Museum of Art (Maryam Ekhtiar, Department of Islamic Art)" .
+<https://github.com/john1hsu/chess-graph/id/source/chaturanga/s3> <http://purl.org/dc/terms/title> "Shah Mat! (Checkmate!)" .
+<https://github.com/john1hsu/chess-graph/id/source/chaturanga/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chaturanga/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/chaturanga/s3> <https://schema.org/url> "https://www.metmuseum.org/exhibitions/listings/2011/the-game-of-kings-medieval-ivory-chessmen-from-the-isle-of-lewis/exhibition-blog/game-of-kings/blog/shah-mat" .
+<https://github.com/john1hsu/chess-graph/id/source/chaturanga/s4> <http://purl.org/dc/terms/publisher> "World History Encyclopedia (Howard Burton)" .
+<https://github.com/john1hsu/chess-graph/id/source/chaturanga/s4> <http://purl.org/dc/terms/title> "The History Of Chess: A 1500-year-old Strategy Game" .
+<https://github.com/john1hsu/chess-graph/id/source/chaturanga/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chaturanga/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/chaturanga/s4> <https://schema.org/url> "https://www.worldhistory.org/article/2793/the-history-of-chess/" .
+<https://github.com/john1hsu/chess-graph/id/source/chaturanga/s5> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/chaturanga/s5> <http://purl.org/dc/terms/title> "The Origins of Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/chaturanga/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chaturanga/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/chaturanga/s5> <https://schema.org/url> "https://chesshistory.com/winter/extra/origins.html" .
+<https://github.com/john1hsu/chess-graph/id/source/chaturanga/s6> <http://purl.org/dc/terms/publisher> "The Chess Variants Pages" .
+<https://github.com/john1hsu/chess-graph/id/source/chaturanga/s6> <http://purl.org/dc/terms/title> "Chaturanga" .
+<https://github.com/john1hsu/chess-graph/id/source/chaturanga/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chaturanga/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/chaturanga/s6> <https://schema.org/url> "https://www.chessvariants.org/historic.dir/chaturanga.html" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s1> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s1> <http://purl.org/dc/terms/title> "FIDE Chess Olympiad 2022 — Regulations for the Main Competition" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
