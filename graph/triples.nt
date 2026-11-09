@@ -454,6 +454,35 @@
 <https://github.com/john1hsu/chess-graph/id/fork> <https://github.com/john1hsu/chess-graph/ontology#fen> "2q3k1/5ppp/8/3N4/8/8/5PPP/6K1 w - - 0 1" .
 <https://github.com/john1hsu/chess-graph/id/fork> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/fork> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Notation> .
+<https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> <http://www.w3.org/2000/01/rdf-schema#label> "Forsyth–Edwards Notation" .
+<https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> <http://www.w3.org/2004/02/skos/core#altLabel> "FEN record" .
+<https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> <http://www.w3.org/2004/02/skos/core#altLabel> "FEN string" .
+<https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> <http://www.w3.org/2004/02/skos/core#altLabel> "FEN" .
+<https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> <http://www.w3.org/2004/02/skos/core#altLabel> "Forsyth notation" .
+<https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> <http://www.w3.org/2004/02/skos/core#altLabel> "Forsyth-Edwards Notation" .
+<https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/algebraic-notation> .
+<https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> <http://www.w3.org/2004/02/skos/core#definition> "A one-line text format that records a complete chess position in six space-separated fields (piece placement, side to move, castling rights, en passant target, halfmove clock and move number); it extends David Forsyth's 1883 position notation and was standardised by Steven J. Edwards in the 1994 PGN specification." .
+<https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Forsyth–Edwards Notation" .
+<https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/castling> .
+<https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess960> .
+<https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/en-passant> .
+<https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/extended-position-description> .
+<https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fifty-move-rule> .
+<https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/portable-game-notation> .
+<https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/forsyth-edwards-notation/s1> .
+<https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/forsyth-edwards-notation/s2> .
+<https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/forsyth-edwards-notation/s3> .
+<https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/forsyth-edwards-notation/s4> .
+<https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/steven-j-edwards> .
+<https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> <https://github.com/john1hsu/chess-graph/ontology#domain> "rules-and-notation" .
+<https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> <https://github.com/john1hsu/chess-graph/ontology#fen> "rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2" .
+<https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> <https://github.com/john1hsu/chess-graph/ontology#moves> "1.e4 c5 2.Nf3" .
+<https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> <https://github.com/john1hsu/chess-graph/ontology#namedAfter> <https://github.com/john1hsu/chess-graph/id/david-forsyth> .
+<https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/portable-game-notation> .
+<https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/game-tree-search> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/game-tree-search> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Algorithm> .
 <https://github.com/john1hsu/chess-graph/id/game-tree-search> <http://www.w3.org/2000/01/rdf-schema#label> "Game-tree search" .
@@ -1269,6 +1298,26 @@
 <https://github.com/john1hsu/chess-graph/id/source/fork/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/fork/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
 <https://github.com/john1hsu/chess-graph/id/source/fork/s6> <https://schema.org/url> "https://www.britannica.com/topic/chess" .
+<https://github.com/john1hsu/chess-graph/id/source/forsyth-edwards-notation/s1> <http://purl.org/dc/terms/publisher> "Steven J. Edwards (coordinator), rec.games.chess; copy distributed with Apple's Chess application" .
+<https://github.com/john1hsu/chess-graph/id/source/forsyth-edwards-notation/s1> <http://purl.org/dc/terms/title> "Standard: Portable Game Notation Specification and Implementation Guide (revised 1994-03-12), sections 9.7 and 16.1–16.2" .
+<https://github.com/john1hsu/chess-graph/id/source/forsyth-edwards-notation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/forsyth-edwards-notation/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/forsyth-edwards-notation/s1> <https://schema.org/url> "https://opensource.apple.com/source/Chess/Chess-105.0.14/Documentation/PGN-Standard.txt.auto.html" .
+<https://github.com/john1hsu/chess-graph/id/source/forsyth-edwards-notation/s2> <http://purl.org/dc/terms/publisher> "Chess Scotland, history archive" .
+<https://github.com/john1hsu/chess-graph/id/source/forsyth-edwards-notation/s2> <http://purl.org/dc/terms/title> "David Forsyth (compiled by Alan McGowan, updated 23 January 2019)" .
+<https://github.com/john1hsu/chess-graph/id/source/forsyth-edwards-notation/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/forsyth-edwards-notation/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/forsyth-edwards-notation/s2> <https://schema.org/url> "https://www.chessscotland.com/documents/history/biographies/forsyth.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/forsyth-edwards-notation/s3> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/forsyth-edwards-notation/s3> <http://purl.org/dc/terms/title> "Chess Notes by Edward Winter, C.N. 5205: Forsyth notation (4 October 2007)" .
+<https://github.com/john1hsu/chess-graph/id/source/forsyth-edwards-notation/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/forsyth-edwards-notation/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/forsyth-edwards-notation/s3> <https://schema.org/url> "https://chesshistory.com/winter/winter39.html" .
+<https://github.com/john1hsu/chess-graph/id/source/forsyth-edwards-notation/s4> <http://purl.org/dc/terms/publisher> "ChessBase" .
+<https://github.com/john1hsu/chess-graph/id/source/forsyth-edwards-notation/s4> <http://purl.org/dc/terms/title> "FEN Format (ChessBase 18 help)" .
+<https://github.com/john1hsu/chess-graph/id/source/forsyth-edwards-notation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/forsyth-edwards-notation/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/forsyth-edwards-notation/s4> <https://schema.org/url> "https://help.chessbase.com/CBase/18/Eng/fen_format.htm" .
 <https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s1> <http://purl.org/dc/terms/publisher> "University of California, Irvine (David Eppstein)" .
 <https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s1> <http://purl.org/dc/terms/title> "ICS 180A: Strategy and board game programming, lecture of 17 April 1997" .
 <https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

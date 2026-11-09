@@ -412,6 +412,30 @@
     ]
   },
   {
+    "id": "kt:forsyth-edwards-notation",
+    "title": "Forsyth–Edwards Notation",
+    "aliases": [
+      "FEN",
+      "Forsyth-Edwards Notation",
+      "Forsyth notation",
+      "FEN record",
+      "FEN string"
+    ],
+    "type": "Notation",
+    "domain": "rules-and-notation",
+    "file": "articles/rules-and-notation/forsyth-edwards-notation.md",
+    "created": "2026-11-09",
+    "verified": "2026-11-09",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://opensource.apple.com/source/Chess/Chess-105.0.14/Documentation/PGN-Standard.txt.auto.html",
+      "https://www.chessscotland.com/documents/history/biographies/forsyth.htm",
+      "https://chesshistory.com/winter/winter39.html",
+      "https://help.chessbase.com/CBase/18/Eng/fen_format.htm"
+    ]
+  },
+  {
     "id": "kt:game-tree-search",
     "title": "Game-tree search",
     "aliases": [

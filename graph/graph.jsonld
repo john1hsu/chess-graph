@@ -2401,6 +2401,93 @@
       ]
     },
     {
+      "@id": "kt:forsyth-edwards-notation",
+      "@type": "kto:Notation",
+      "skos:prefLabel": "Forsyth–Edwards Notation",
+      "skos:definition": "A one-line text format that records a complete chess position in six space-separated fields (piece placement, side to move, castling rights, en passant target, halfmove clock and move number); it extends David Forsyth's 1883 position notation and was standardised by Steven J. Edwards in the 1994 PGN specification.",
+      "kto:domain": "rules-and-notation",
+      "dcterms:created": "2026-11-09",
+      "kto:verified": "2026-11-09",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Standard: Portable Game Notation Specification and Implementation Guide (revised 1994-03-12), sections 9.7 and 16.1–16.2",
+          "dcterms:publisher": "Steven J. Edwards (coordinator), rec.games.chess; copy distributed with Apple's Chess application",
+          "schema:url": "https://opensource.apple.com/source/Chess/Chess-105.0.14/Documentation/PGN-Standard.txt.auto.html",
+          "kto:sourceType": "primary-record"
+        },
+        {
+          "dcterms:title": "David Forsyth (compiled by Alan McGowan, updated 23 January 2019)",
+          "dcterms:publisher": "Chess Scotland, history archive",
+          "schema:url": "https://www.chessscotland.com/documents/history/biographies/forsyth.htm",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Chess Notes by Edward Winter, C.N. 5205: Forsyth notation (4 October 2007)",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://chesshistory.com/winter/winter39.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "FEN Format (ChessBase 18 help)",
+          "dcterms:publisher": "ChessBase",
+          "schema:url": "https://help.chessbase.com/CBase/18/Eng/fen_format.htm",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/rules-and-notation/forsyth-edwards-notation.md",
+      "skos:altLabel": [
+        "FEN",
+        "Forsyth-Edwards Notation",
+        "Forsyth notation",
+        "FEN record",
+        "FEN string"
+      ],
+      "kto:moves": "1.e4 c5 2.Nf3",
+      "kto:fen": "rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2",
+      "skos:broader": [
+        {
+          "@id": "kt:algebraic-notation"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:portable-game-notation"
+        },
+        {
+          "@id": "kt:extended-position-description"
+        },
+        {
+          "@id": "kt:en-passant"
+        },
+        {
+          "@id": "kt:castling"
+        },
+        {
+          "@id": "kt:fifty-move-rule"
+        },
+        {
+          "@id": "kt:chess960"
+        }
+      ],
+      "kto:namedAfter": [
+        {
+          "@id": "kt:david-forsyth"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:steven-j-edwards"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:portable-game-notation"
+        }
+      ]
+    },
+    {
       "@id": "kt:pawn-promotion",
       "@type": "kto:Rule",
       "skos:prefLabel": "Pawn promotion",
