@@ -1246,5 +1246,30 @@
       "https://www.fide.com/fide-world-championship-game-14-gukesh-d-claims-title/",
       "https://www.fide.com/geneva-to-host-fide-world-championship-match-2026/"
     ]
+  },
+  {
+    "id": "kt:zugzwang",
+    "title": "Zugzwang",
+    "aliases": [
+      "Compulsion to move",
+      "Mutual zugzwang",
+      "Reciprocal zugzwang",
+      "Full-point zugzwang",
+      "Zugzwang position",
+      "Zug"
+    ],
+    "type": "StrategicConcept",
+    "domain": "endgames",
+    "file": "articles/endgames/zugzwang.md",
+    "created": "2026-11-09",
+    "verified": "2026-11-09",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.chesshistory.com/winter/extra/zugzwang.html",
+      "https://reading-clone.eprints-hosting.org/5950/1/2001g_CoW6_H_3-5-Man_Mutual_Zugzwangs_in_Chess.pdf",
+      "https://core.ac.uk/download/12729.pdf",
+      "https://www.chessbase.in/news/Mutual-zugzwang-in-a-pawn-ending"
+    ]
   }
 ]

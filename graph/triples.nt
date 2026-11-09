@@ -2680,6 +2680,26 @@
 <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
 <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s6> <https://schema.org/url> "https://www.fide.com/geneva-to-host-fide-world-championship-match-2026/" .
+<https://github.com/john1hsu/chess-graph/id/source/zugzwang/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/zugzwang/s1> <http://purl.org/dc/terms/title> "Zugzwang (Chess Notes feature article)" .
+<https://github.com/john1hsu/chess-graph/id/source/zugzwang/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/zugzwang/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/zugzwang/s1> <https://schema.org/url> "https://www.chesshistory.com/winter/extra/zugzwang.html" .
+<https://github.com/john1hsu/chess-graph/id/source/zugzwang/s2> <http://purl.org/dc/terms/publisher> "G.McC. Haworth, University of Reading; Computer Olympiad Workshop 6, Maastricht (ICGA, 2001)" .
+<https://github.com/john1hsu/chess-graph/id/source/zugzwang/s2> <http://purl.org/dc/terms/title> "3-5 Man Mutual Zugzwangs in Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/zugzwang/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/zugzwang/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/zugzwang/s2> <https://schema.org/url> "https://reading-clone.eprints-hosting.org/5950/1/2001g_CoW6_H_3-5-Man_Mutual_Zugzwangs_in_Chess.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/zugzwang/s3> <http://purl.org/dc/terms/publisher> "Eiko Bleicher and Guy Haworth, University of Reading (CORE repository)" .
+<https://github.com/john1hsu/chess-graph/id/source/zugzwang/s3> <http://purl.org/dc/terms/title> "6-man Chess and Zugzwangs" .
+<https://github.com/john1hsu/chess-graph/id/source/zugzwang/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/zugzwang/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/zugzwang/s3> <https://schema.org/url> "https://core.ac.uk/download/12729.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/zugzwang/s4> <http://purl.org/dc/terms/publisher> "Satanick Mukhuty, ChessBase India (3 September 2019)" .
+<https://github.com/john1hsu/chess-graph/id/source/zugzwang/s4> <http://purl.org/dc/terms/title> "Mutual zugzwang in a pawn ending" .
+<https://github.com/john1hsu/chess-graph/id/source/zugzwang/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/zugzwang/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/zugzwang/s4> <https://schema.org/url> "https://www.chessbase.in/news/Mutual-zugzwang-in-a-pawn-ending" .
 <https://github.com/john1hsu/chess-graph/id/touch-move> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/touch-move> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Rule> .
 <https://github.com/john1hsu/chess-graph/id/touch-move> <http://www.w3.org/2000/01/rdf-schema#label> "Touch-move" .
@@ -2766,3 +2786,32 @@
 <https://github.com/john1hsu/chess-graph/id/world-chess-championship> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/fide> .
 <https://github.com/john1hsu/chess-graph/id/world-chess-championship> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/world-chess-championship> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/zugzwang> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/zugzwang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
+<https://github.com/john1hsu/chess-graph/id/zugzwang> <http://www.w3.org/2000/01/rdf-schema#label> "Zugzwang" .
+<https://github.com/john1hsu/chess-graph/id/zugzwang> <http://www.w3.org/2004/02/skos/core#altLabel> "Compulsion to move" .
+<https://github.com/john1hsu/chess-graph/id/zugzwang> <http://www.w3.org/2004/02/skos/core#altLabel> "Full-point zugzwang" .
+<https://github.com/john1hsu/chess-graph/id/zugzwang> <http://www.w3.org/2004/02/skos/core#altLabel> "Mutual zugzwang" .
+<https://github.com/john1hsu/chess-graph/id/zugzwang> <http://www.w3.org/2004/02/skos/core#altLabel> "Reciprocal zugzwang" .
+<https://github.com/john1hsu/chess-graph/id/zugzwang> <http://www.w3.org/2004/02/skos/core#altLabel> "Zug" .
+<https://github.com/john1hsu/chess-graph/id/zugzwang> <http://www.w3.org/2004/02/skos/core#altLabel> "Zugzwang position" .
+<https://github.com/john1hsu/chess-graph/id/zugzwang> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-strategy> .
+<https://github.com/john1hsu/chess-graph/id/zugzwang> <http://www.w3.org/2004/02/skos/core#definition> "A position in which the obligation to make a move is a disadvantage: the side to move would get a better result if it could pass. When this holds for both sides at once it is a mutual zugzwang, and the result depends only on whose turn it is." .
+<https://github.com/john1hsu/chess-graph/id/zugzwang> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zugzwang" .
+<https://github.com/john1hsu/chess-graph/id/zugzwang> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-problems> .
+<https://github.com/john1hsu/chess-graph/id/zugzwang> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/endgame-study> .
+<https://github.com/john1hsu/chess-graph/id/zugzwang> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/endgame-tablebases> .
+<https://github.com/john1hsu/chess-graph/id/zugzwang> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/key-squares> .
+<https://github.com/john1hsu/chess-graph/id/zugzwang> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/opposition> .
+<https://github.com/john1hsu/chess-graph/id/zugzwang> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/triangulation> .
+<https://github.com/john1hsu/chess-graph/id/zugzwang> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/zugzwang/s1> .
+<https://github.com/john1hsu/chess-graph/id/zugzwang> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/zugzwang/s2> .
+<https://github.com/john1hsu/chess-graph/id/zugzwang> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/zugzwang/s3> .
+<https://github.com/john1hsu/chess-graph/id/zugzwang> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/zugzwang/s4> .
+<https://github.com/john1hsu/chess-graph/id/zugzwang> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> .
+<https://github.com/john1hsu/chess-graph/id/zugzwang> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/stalemate> .
+<https://github.com/john1hsu/chess-graph/id/zugzwang> <https://github.com/john1hsu/chess-graph/ontology#domain> "endgames" .
+<https://github.com/john1hsu/chess-graph/id/zugzwang> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/saemisch-nimzowitsch-copenhagen-1923> .
+<https://github.com/john1hsu/chess-graph/id/zugzwang> <https://github.com/john1hsu/chess-graph/ontology#fen> "8/8/8/8/8/p7/k2N4/2K5 b - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/zugzwang> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/zugzwang> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .

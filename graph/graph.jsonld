@@ -1100,6 +1100,93 @@
       ]
     },
     {
+      "@id": "kt:zugzwang",
+      "@type": "kto:StrategicConcept",
+      "skos:prefLabel": "Zugzwang",
+      "skos:definition": "A position in which the obligation to make a move is a disadvantage: the side to move would get a better result if it could pass. When this holds for both sides at once it is a mutual zugzwang, and the result depends only on whose turn it is.",
+      "kto:domain": "endgames",
+      "dcterms:created": "2026-11-09",
+      "kto:verified": "2026-11-09",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Zugzwang (Chess Notes feature article)",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://www.chesshistory.com/winter/extra/zugzwang.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "3-5 Man Mutual Zugzwangs in Chess",
+          "dcterms:publisher": "G.McC. Haworth, University of Reading; Computer Olympiad Workshop 6, Maastricht (ICGA, 2001)",
+          "schema:url": "https://reading-clone.eprints-hosting.org/5950/1/2001g_CoW6_H_3-5-Man_Mutual_Zugzwangs_in_Chess.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "6-man Chess and Zugzwangs",
+          "dcterms:publisher": "Eiko Bleicher and Guy Haworth, University of Reading (CORE repository)",
+          "schema:url": "https://core.ac.uk/download/12729.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Mutual zugzwang in a pawn ending",
+          "dcterms:publisher": "Satanick Mukhuty, ChessBase India (3 September 2019)",
+          "schema:url": "https://www.chessbase.in/news/Mutual-zugzwang-in-a-pawn-ending",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/endgames/zugzwang.md",
+      "skos:altLabel": [
+        "Compulsion to move",
+        "Mutual zugzwang",
+        "Reciprocal zugzwang",
+        "Full-point zugzwang",
+        "Zugzwang position",
+        "Zug"
+      ],
+      "kto:fen": "8/8/8/8/8/p7/k2N4/2K5 b - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-strategy"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:opposition"
+        },
+        {
+          "@id": "kt:triangulation"
+        },
+        {
+          "@id": "kt:key-squares"
+        },
+        {
+          "@id": "kt:endgame-tablebases"
+        },
+        {
+          "@id": "kt:endgame-study"
+        },
+        {
+          "@id": "kt:chess-problems"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:saemisch-nimzowitsch-copenhagen-1923"
+        }
+      ],
+      "kto:championedBy": [
+        {
+          "@id": "kt:aron-nimzowitsch"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:stalemate"
+        }
+      ]
+    },
+    {
       "@id": "kt:chess-olympiad",
       "@type": "kto:Event",
       "skos:prefLabel": "Chess Olympiad",
