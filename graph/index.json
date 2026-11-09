@@ -1221,6 +1221,30 @@
     ]
   },
   {
+    "id": "kt:stalemate",
+    "title": "Stalemate",
+    "aliases": [
+      "Stale mate",
+      "Stale",
+      "Draw by stalemate",
+      "Mate ahogado"
+    ],
+    "type": "Rule",
+    "domain": "rules-and-notation",
+    "file": "articles/rules-and-notation/stalemate.md",
+    "created": "2026-11-09",
+    "verified": "2026-11-09",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://rcc.fide.com/article5/",
+      "https://www.chesshistory.com/winter/extra/stalemate.html",
+      "https://new.uschess.org/news/evolution-modern-chess-rules-stalemate",
+      "https://britannica.com/EBchecked/topic/562613/stalemate",
+      "https://en.chessbase.com/post/who-needs-stalemate-let-s-abolish-it-"
+    ]
+  },
+  {
     "id": "kt:touch-move",
     "title": "Touch-move",
     "aliases": [

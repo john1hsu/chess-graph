@@ -2699,6 +2699,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/skewer/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/skewer/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/skewer/s6> <https://schema.org/url> "https://www.chess.com/terms/skewer-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/stalemate/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/stalemate/s1> <http://purl.org/dc/terms/title> "Laws of Chess, Article 5: The Completion of the Game" .
+<https://github.com/john1hsu/chess-graph/id/source/stalemate/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/stalemate/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/stalemate/s1> <https://schema.org/url> "https://rcc.fide.com/article5/" .
+<https://github.com/john1hsu/chess-graph/id/source/stalemate/s2> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/stalemate/s2> <http://purl.org/dc/terms/title> "Stalemate" .
+<https://github.com/john1hsu/chess-graph/id/source/stalemate/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/stalemate/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/stalemate/s2> <https://schema.org/url> "https://www.chesshistory.com/winter/extra/stalemate.html" .
+<https://github.com/john1hsu/chess-graph/id/source/stalemate/s3> <http://purl.org/dc/terms/publisher> "John McCrary, US Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/stalemate/s3> <http://purl.org/dc/terms/title> "The Evolution of Modern Chess Rules: Stalemate" .
+<https://github.com/john1hsu/chess-graph/id/source/stalemate/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/stalemate/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/stalemate/s3> <https://schema.org/url> "https://new.uschess.org/news/evolution-modern-chess-rules-stalemate" .
+<https://github.com/john1hsu/chess-graph/id/source/stalemate/s4> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/stalemate/s4> <http://purl.org/dc/terms/title> "Chess: Object of the game (stalemate)" .
+<https://github.com/john1hsu/chess-graph/id/source/stalemate/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/stalemate/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/stalemate/s4> <https://schema.org/url> "https://britannica.com/EBchecked/topic/562613/stalemate" .
+<https://github.com/john1hsu/chess-graph/id/source/stalemate/s5> <http://purl.org/dc/terms/publisher> "Matt Bishop, ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/stalemate/s5> <http://purl.org/dc/terms/title> "Who needs stalemate? Let's abolish it!" .
+<https://github.com/john1hsu/chess-graph/id/source/stalemate/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/stalemate/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/stalemate/s5> <https://schema.org/url> "https://en.chessbase.com/post/who-needs-stalemate-let-s-abolish-it-" .
 <https://github.com/john1hsu/chess-graph/id/source/touch-move/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
 <https://github.com/john1hsu/chess-graph/id/source/touch-move/s1> <http://purl.org/dc/terms/title> "Article 4: The Act of Moving the Pieces" .
 <https://github.com/john1hsu/chess-graph/id/source/touch-move/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -2809,6 +2834,35 @@
 <https://github.com/john1hsu/chess-graph/id/source/zugzwang/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/zugzwang/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/zugzwang/s4> <https://schema.org/url> "https://www.chessbase.in/news/Mutual-zugzwang-in-a-pawn-ending" .
+<https://github.com/john1hsu/chess-graph/id/stalemate> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/stalemate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Rule> .
+<https://github.com/john1hsu/chess-graph/id/stalemate> <http://www.w3.org/2000/01/rdf-schema#label> "Stalemate" .
+<https://github.com/john1hsu/chess-graph/id/stalemate> <http://www.w3.org/2004/02/skos/core#altLabel> "Draw by stalemate" .
+<https://github.com/john1hsu/chess-graph/id/stalemate> <http://www.w3.org/2004/02/skos/core#altLabel> "Mate ahogado" .
+<https://github.com/john1hsu/chess-graph/id/stalemate> <http://www.w3.org/2004/02/skos/core#altLabel> "Stale mate" .
+<https://github.com/john1hsu/chess-graph/id/stalemate> <http://www.w3.org/2004/02/skos/core#altLabel> "Stale" .
+<https://github.com/john1hsu/chess-graph/id/stalemate> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/draw> .
+<https://github.com/john1hsu/chess-graph/id/stalemate> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/stalemate> <http://www.w3.org/2004/02/skos/core#definition> "The rule that a game is drawn when the player to move has no legal move and their king is not in check; once a win or a loss depending on time and place, it has been a draw everywhere since the mid-nineteenth century." .
+<https://github.com/john1hsu/chess-graph/id/stalemate> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stalemate" .
+<https://github.com/john1hsu/chess-graph/id/stalemate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chaturanga> .
+<https://github.com/john1hsu/chess-graph/id/stalemate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/en-passant> .
+<https://github.com/john1hsu/chess-graph/id/stalemate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/endgame-study> .
+<https://github.com/john1hsu/chess-graph/id/stalemate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/king-and-pawn-endgames> .
+<https://github.com/john1hsu/chess-graph/id/stalemate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/zugzwang> .
+<https://github.com/john1hsu/chess-graph/id/stalemate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/stalemate/s1> .
+<https://github.com/john1hsu/chess-graph/id/stalemate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/stalemate/s2> .
+<https://github.com/john1hsu/chess-graph/id/stalemate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/stalemate/s3> .
+<https://github.com/john1hsu/chess-graph/id/stalemate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/stalemate/s4> .
+<https://github.com/john1hsu/chess-graph/id/stalemate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/stalemate/s5> .
+<https://github.com/john1hsu/chess-graph/id/stalemate> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/checkmate> .
+<https://github.com/john1hsu/chess-graph/id/stalemate> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/dead-position> .
+<https://github.com/john1hsu/chess-graph/id/stalemate> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/zugzwang> .
+<https://github.com/john1hsu/chess-graph/id/stalemate> <https://github.com/john1hsu/chess-graph/ontology#domain> "rules-and-notation" .
+<https://github.com/john1hsu/chess-graph/id/stalemate> <https://github.com/john1hsu/chess-graph/ontology#fen> "k7/2Q5/1K6/8/8/8/8/8 b - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/stalemate> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/stalemate> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/stalemate> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/touch-move> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/touch-move> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Rule> .
 <https://github.com/john1hsu/chess-graph/id/touch-move> <http://www.w3.org/2000/01/rdf-schema#label> "Touch-move" .

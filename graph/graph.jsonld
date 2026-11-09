@@ -3501,6 +3501,98 @@
       ]
     },
     {
+      "@id": "kt:stalemate",
+      "@type": "kto:Rule",
+      "skos:prefLabel": "Stalemate",
+      "skos:definition": "The rule that a game is drawn when the player to move has no legal move and their king is not in check; once a win or a loss depending on time and place, it has been a draw everywhere since the mid-nineteenth century.",
+      "kto:domain": "rules-and-notation",
+      "dcterms:created": "2026-11-09",
+      "kto:verified": "2026-11-09",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Laws of Chess, Article 5: The Completion of the Game",
+          "dcterms:publisher": "FIDE Rules Commission",
+          "schema:url": "https://rcc.fide.com/article5/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Stalemate",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://www.chesshistory.com/winter/extra/stalemate.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "The Evolution of Modern Chess Rules: Stalemate",
+          "dcterms:publisher": "John McCrary, US Chess",
+          "schema:url": "https://new.uschess.org/news/evolution-modern-chess-rules-stalemate",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Chess: Object of the game (stalemate)",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://britannica.com/EBchecked/topic/562613/stalemate",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Who needs stalemate? Let's abolish it!",
+          "dcterms:publisher": "Matt Bishop, ChessBase News",
+          "schema:url": "https://en.chessbase.com/post/who-needs-stalemate-let-s-abolish-it-",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/rules-and-notation/stalemate.md",
+      "skos:altLabel": [
+        "Stale mate",
+        "Stale",
+        "Draw by stalemate",
+        "Mate ahogado"
+      ],
+      "kto:fen": "k7/2Q5/1K6/8/8/8/8/8 b - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        },
+        {
+          "@id": "kt:draw"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:zugzwang"
+        },
+        {
+          "@id": "kt:king-and-pawn-endgames"
+        },
+        {
+          "@id": "kt:endgame-study"
+        },
+        {
+          "@id": "kt:chaturanga"
+        },
+        {
+          "@id": "kt:en-passant"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:checkmate"
+        },
+        {
+          "@id": "kt:zugzwang"
+        },
+        {
+          "@id": "kt:dead-position"
+        }
+      ]
+    },
+    {
       "@id": "kt:touch-move",
       "@type": "kto:Rule",
       "skos:prefLabel": "Touch-move",
