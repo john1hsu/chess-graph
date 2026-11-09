@@ -208,6 +208,36 @@
 <https://github.com/john1hsu/chess-graph/id/chess-olympiad> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/fide> .
 <https://github.com/john1hsu/chess-graph/id/chess-olympiad> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/chess-olympiad> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/chess-tactics> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/chess-tactics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Concept> .
+<https://github.com/john1hsu/chess-graph/id/chess-tactics> <http://www.w3.org/2000/01/rdf-schema#label> "Chess tactics" .
+<https://github.com/john1hsu/chess-graph/id/chess-tactics> <http://www.w3.org/2004/02/skos/core#altLabel> "Tactic" .
+<https://github.com/john1hsu/chess-graph/id/chess-tactics> <http://www.w3.org/2004/02/skos/core#altLabel> "Tactical motifs" .
+<https://github.com/john1hsu/chess-graph/id/chess-tactics> <http://www.w3.org/2004/02/skos/core#altLabel> "Tactical play" .
+<https://github.com/john1hsu/chess-graph/id/chess-tactics> <http://www.w3.org/2004/02/skos/core#altLabel> "Tactics" .
+<https://github.com/john1hsu/chess-graph/id/chess-tactics> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess> .
+<https://github.com/john1hsu/chess-graph/id/chess-tactics> <http://www.w3.org/2004/02/skos/core#definition> "The short-term, concrete side of chess: forcing moves or sequences, worked out by calculation, that win material, give mate or gain another immediate advantage, as opposed to the long-term planning of strategy." .
+<https://github.com/john1hsu/chess-graph/id/chess-tactics> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chess tactics" .
+<https://github.com/john1hsu/chess-graph/id/chess-tactics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/calculation> .
+<https://github.com/john1hsu/chess-graph/id/chess-tactics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/combination> .
+<https://github.com/john1hsu/chess-graph/id/chess-tactics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/discovered-attack> .
+<https://github.com/john1hsu/chess-graph/id/chess-tactics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fork> .
+<https://github.com/john1hsu/chess-graph/id/chess-tactics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/pin> .
+<https://github.com/john1hsu/chess-graph/id/chess-tactics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/skewer> .
+<https://github.com/john1hsu/chess-graph/id/chess-tactics> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s1> .
+<https://github.com/john1hsu/chess-graph/id/chess-tactics> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s2> .
+<https://github.com/john1hsu/chess-graph/id/chess-tactics> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s3> .
+<https://github.com/john1hsu/chess-graph/id/chess-tactics> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s4> .
+<https://github.com/john1hsu/chess-graph/id/chess-tactics> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s5> .
+<https://github.com/john1hsu/chess-graph/id/chess-tactics> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s6> .
+<https://github.com/john1hsu/chess-graph/id/chess-tactics> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/chess-strategy> .
+<https://github.com/john1hsu/chess-graph/id/chess-tactics> <https://github.com/john1hsu/chess-graph/ontology#domain> "tactics" .
+<https://github.com/john1hsu/chess-graph/id/chess-tactics> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/material-advantage> .
+<https://github.com/john1hsu/chess-graph/id/chess-tactics> <https://github.com/john1hsu/chess-graph/ontology#fen> "4k3/q4ppp/8/8/8/4B3/5PPP/4R1K1 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/chess-tactics> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/discovered-attack> .
+<https://github.com/john1hsu/chess-graph/id/chess-tactics> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/fork> .
+<https://github.com/john1hsu/chess-graph/id/chess-tactics> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/chess-tactics> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/chess960> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/chess960> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Variant> .
 <https://github.com/john1hsu/chess-graph/id/chess960> <http://www.w3.org/2000/01/rdf-schema#label> "Chess960" .
@@ -1253,6 +1283,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s9> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s9> <https://schema.org/url> "https://www.europechess.org/uzbekistan-and-china-win-the-46th-chess-olympiad/" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s1> <http://purl.org/dc/terms/title> "Chess Strategy and Tactics" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s1> <https://schema.org/url> "https://chesshistory.com/winter/extra/strategytactics.html" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s2> <http://purl.org/dc/terms/publisher> "National Library of Ireland" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s2> <http://purl.org/dc/terms/title> "Strategy & tactics in chess (Dr. M. Euwe; G. Bell & Sons, London, 1937) — catalogue record" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s2> <https://schema.org/url> "https://catalogue.nli.ie/Record/vtls000404097" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s3> <http://purl.org/dc/terms/publisher> "Ward Farnsworth, chesstactics.org" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s3> <http://purl.org/dc/terms/title> "The Double Threat (The Elements of Tactics: A Primer), Predator at the Chessboard" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s3> <https://schema.org/url> "https://chesstactics.org/introductory-matters/the-elements-of-tactics_a-primer/the-double-threat/1_3_1_1.html" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s4> <http://purl.org/dc/terms/publisher> "English Chess Federation" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s4> <http://purl.org/dc/terms/title> "Discovered Attacks (Chess Skills leaflet)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s4> <https://schema.org/url> "https://www.englishchess.org.uk/wp-content/uploads/2010/01/discoveredattacks.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s5> <http://purl.org/dc/terms/publisher> "Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s5> <http://purl.org/dc/terms/title> "Chess Tactics: 38 Definitions and Examples" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s5> <https://schema.org/url> "https://www.chess.com/article/view/chess-tactics" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s6> <http://purl.org/dc/terms/publisher> "Cambridge University Press, via CORE" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s6> <http://purl.org/dc/terms/title> "Expertise in Chess (Gobet & Charness, Cambridge Handbook of Expertise and Expert Performance, 2006)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s6> <https://schema.org/url> "https://core.ac.uk/download/334186.pdf" .
 <https://github.com/john1hsu/chess-graph/id/source/chess960/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
 <https://github.com/john1hsu/chess-graph/id/source/chess960/s1> <http://purl.org/dc/terms/title> "FIDE Laws of Chess, Guidelines II. Chess960 Rules" .
 <https://github.com/john1hsu/chess-graph/id/source/chess960/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

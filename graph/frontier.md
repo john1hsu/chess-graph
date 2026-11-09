@@ -4,13 +4,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:chess-tactics` | `kt:fork`, `kt:pin`, `kt:skewer` |
-| `kt:combination` | `kt:fork`, `kt:pin`, `kt:skewer` |
-| `kt:discovered-attack` | `kt:fork`, `kt:pin`, `kt:skewer` |
+| `kt:discovered-attack` | `kt:chess-tactics`, `kt:chess-tactics`, `kt:fork`, `kt:pin`, `kt:skewer` |
+| `kt:combination` | `kt:chess-tactics`, `kt:fork`, `kt:pin`, `kt:skewer` |
+| `kt:material-advantage` | `kt:chess-tactics`, `kt:fork`, `kt:pin`, `kt:skewer` |
+| `kt:chess-strategy` | `kt:blockade`, `kt:pawn-structure`, `kt:chess-tactics` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov` |
 | `kt:hypermodernism` | `kt:blockade`, `kt:aron-nimzowitsch`, `kt:aron-nimzowitsch` |
 | `kt:king-and-pawn-endgames` | `kt:lucena-position`, `kt:opposition`, `kt:philidor-position` |
-| `kt:material-advantage` | `kt:fork`, `kt:pin`, `kt:skewer` |
 | `kt:passed-pawn` | `kt:blockade`, `kt:blockade`, `kt:pawn-promotion` |
 | `kt:portable-game-notation` | `kt:algebraic-notation`, `kt:forsyth-edwards-notation`, `kt:forsyth-edwards-notation` |
 | `kt:rook-endgames` | `kt:lucena-position`, `kt:philidor-position`, `kt:skewer` |
@@ -19,8 +19,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:emanuel-lasker`, `kt:wilhelm-steinitz` |
 | `kt:anatoly-karpov` | `kt:caro-kann-defence`, `kt:ruy-lopez` |
 | `kt:arbiter` | `kt:fide-laws-of-chess`, `kt:touch-move` |
+| `kt:calculation` | `kt:chess-tactics`, `kt:einstellung-effect` |
+| `kt:chess` | `kt:fide-laws-of-chess`, `kt:chess-tactics` |
 | `kt:chess-expertise` | `kt:chunking-theory`, `kt:einstellung-effect` |
-| `kt:chess-strategy` | `kt:blockade`, `kt:pawn-structure` |
 | `kt:cognitive-psychology-of-chess` | `kt:chunking-theory`, `kt:einstellung-effect` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
@@ -56,11 +57,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:backward-pawn` | `kt:outpost` |
 | `kt:berlin-defence` | `kt:ruy-lopez` |
 | `kt:bobby-fischer` | `kt:chess960` |
-| `kt:calculation` | `kt:einstellung-effect` |
 | `kt:candidates-tournament` | `kt:world-chess-championship` |
 | `kt:carlsbad-1929` | `kt:aron-nimzowitsch` |
 | `kt:carlsbad-structure` | `kt:pawn-structure` |
-| `kt:chess` | `kt:fide-laws-of-chess` |
 | `kt:chess-composition` | `kt:endgame-study` |
 | `kt:chess-organizations` | `kt:fide` |
 | `kt:chess-problems` | `kt:endgame-study` |

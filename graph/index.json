@@ -187,6 +187,31 @@
     ]
   },
   {
+    "id": "kt:chess-tactics",
+    "title": "Chess tactics",
+    "aliases": [
+      "Tactics",
+      "Tactic",
+      "Tactical play",
+      "Tactical motifs"
+    ],
+    "type": "Concept",
+    "domain": "tactics",
+    "file": "articles/tactics/chess-tactics.md",
+    "created": "2026-11-09",
+    "verified": "2026-11-09",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://chesshistory.com/winter/extra/strategytactics.html",
+      "https://catalogue.nli.ie/Record/vtls000404097",
+      "https://chesstactics.org/introductory-matters/the-elements-of-tactics_a-primer/the-double-threat/1_3_1_1.html",
+      "https://www.englishchess.org.uk/wp-content/uploads/2010/01/discoveredattacks.pdf",
+      "https://www.chess.com/article/view/chess-tactics",
+      "https://core.ac.uk/download/334186.pdf"
+    ]
+  },
+  {
     "id": "kt:chess960",
     "title": "Chess960",
     "aliases": [

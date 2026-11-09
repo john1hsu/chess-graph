@@ -3037,6 +3037,106 @@
       ]
     },
     {
+      "@id": "kt:chess-tactics",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Chess tactics",
+      "skos:definition": "The short-term, concrete side of chess: forcing moves or sequences, worked out by calculation, that win material, give mate or gain another immediate advantage, as opposed to the long-term planning of strategy.",
+      "kto:domain": "tactics",
+      "dcterms:created": "2026-11-09",
+      "kto:verified": "2026-11-09",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Chess Strategy and Tactics",
+          "dcterms:publisher": "Edward Winter, Chess Notes",
+          "schema:url": "https://chesshistory.com/winter/extra/strategytactics.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Strategy & tactics in chess (Dr. M. Euwe; G. Bell & Sons, London, 1937) — catalogue record",
+          "dcterms:publisher": "National Library of Ireland",
+          "schema:url": "https://catalogue.nli.ie/Record/vtls000404097",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The Double Threat (The Elements of Tactics: A Primer), Predator at the Chessboard",
+          "dcterms:publisher": "Ward Farnsworth, chesstactics.org",
+          "schema:url": "https://chesstactics.org/introductory-matters/the-elements-of-tactics_a-primer/the-double-threat/1_3_1_1.html",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Discovered Attacks (Chess Skills leaflet)",
+          "dcterms:publisher": "English Chess Federation",
+          "schema:url": "https://www.englishchess.org.uk/wp-content/uploads/2010/01/discoveredattacks.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Chess Tactics: 38 Definitions and Examples",
+          "dcterms:publisher": "Chess.com",
+          "schema:url": "https://www.chess.com/article/view/chess-tactics",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Expertise in Chess (Gobet & Charness, Cambridge Handbook of Expertise and Expert Performance, 2006)",
+          "dcterms:publisher": "Cambridge University Press, via CORE",
+          "schema:url": "https://core.ac.uk/download/334186.pdf",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/tactics/chess-tactics.md",
+      "skos:altLabel": [
+        "Tactics",
+        "Tactic",
+        "Tactical play",
+        "Tactical motifs"
+      ],
+      "kto:fen": "4k3/q4ppp/8/8/8/4B3/5PPP/4R1K1 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:combination"
+        },
+        {
+          "@id": "kt:fork"
+        },
+        {
+          "@id": "kt:pin"
+        },
+        {
+          "@id": "kt:skewer"
+        },
+        {
+          "@id": "kt:discovered-attack"
+        },
+        {
+          "@id": "kt:calculation"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:chess-strategy"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:fork"
+        },
+        {
+          "@id": "kt:discovered-attack"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:material-advantage"
+        }
+      ]
+    },
+    {
       "@id": "kt:fork",
       "@type": "kto:TacticalMotif",
       "skos:prefLabel": "Fork",
