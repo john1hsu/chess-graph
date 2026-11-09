@@ -733,6 +733,34 @@
 <https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/chess-graph/ontology#fen> "6k1/1q3ppp/8/8/8/8/1P3PPP/3R2K1 b - - 0 1" .
 <https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/opposition> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/opposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Technique> .
+<https://github.com/john1hsu/chess-graph/id/opposition> <http://www.w3.org/2000/01/rdf-schema#label> "Opposition" .
+<https://github.com/john1hsu/chess-graph/id/opposition> <http://www.w3.org/2004/02/skos/core#altLabel> "Diagonal opposition" .
+<https://github.com/john1hsu/chess-graph/id/opposition> <http://www.w3.org/2004/02/skos/core#altLabel> "Direct opposition" .
+<https://github.com/john1hsu/chess-graph/id/opposition> <http://www.w3.org/2004/02/skos/core#altLabel> "Distant opposition" .
+<https://github.com/john1hsu/chess-graph/id/opposition> <http://www.w3.org/2004/02/skos/core#altLabel> "Opposition of the kings" .
+<https://github.com/john1hsu/chess-graph/id/opposition> <http://www.w3.org/2004/02/skos/core#altLabel> "Taking the opposition" .
+<https://github.com/john1hsu/chess-graph/id/opposition> <http://www.w3.org/2004/02/skos/core#altLabel> "The opposition" .
+<https://github.com/john1hsu/chess-graph/id/opposition> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/king-and-pawn-endgames> .
+<https://github.com/john1hsu/chess-graph/id/opposition> <http://www.w3.org/2004/02/skos/core#definition> "The endgame relationship in which the two kings stand on the same file, rank or diagonal with an odd number of squares between them; the side that does not have to move \"has the opposition\" and can force the other king to give way." .
+<https://github.com/john1hsu/chess-graph/id/opposition> <http://www.w3.org/2004/02/skos/core#prefLabel> "Opposition" .
+<https://github.com/john1hsu/chess-graph/id/opposition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/key-squares> .
+<https://github.com/john1hsu/chess-graph/id/opposition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/pawn-promotion> .
+<https://github.com/john1hsu/chess-graph/id/opposition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/triangulation> .
+<https://github.com/john1hsu/chess-graph/id/opposition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/zugzwang> .
+<https://github.com/john1hsu/chess-graph/id/opposition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/opposition/s1> .
+<https://github.com/john1hsu/chess-graph/id/opposition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/opposition/s2> .
+<https://github.com/john1hsu/chess-graph/id/opposition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/opposition/s3> .
+<https://github.com/john1hsu/chess-graph/id/opposition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/opposition/s4> .
+<https://github.com/john1hsu/chess-graph/id/opposition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/opposition/s5> .
+<https://github.com/john1hsu/chess-graph/id/opposition> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/triangulation> .
+<https://github.com/john1hsu/chess-graph/id/opposition> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/zugzwang> .
+<https://github.com/john1hsu/chess-graph/id/opposition> <https://github.com/john1hsu/chess-graph/ontology#domain> "endgames" .
+<https://github.com/john1hsu/chess-graph/id/opposition> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/pawn-promotion> .
+<https://github.com/john1hsu/chess-graph/id/opposition> <https://github.com/john1hsu/chess-graph/ontology#fen> "8/4k3/8/4K3/4P3/8/8/8 b - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/opposition> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/opposition> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/outpost> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/outpost> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
 <https://github.com/john1hsu/chess-graph/id/outpost> <http://www.w3.org/2000/01/rdf-schema#label> "Outpost" .
@@ -1662,6 +1690,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
 <https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s5> <https://schema.org/url> "https://lczero.org/dev/overview" .
+<https://github.com/john1hsu/chess-graph/id/source/opposition/s1> <http://purl.org/dc/terms/publisher> "José Raúl Capablanca, Harcourt, Brace and Howe; Project Gutenberg" .
+<https://github.com/john1hsu/chess-graph/id/source/opposition/s1> <http://purl.org/dc/terms/title> "Chess Fundamentals (1921), Project Gutenberg eBook #33870" .
+<https://github.com/john1hsu/chess-graph/id/source/opposition/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/opposition/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/opposition/s1> <https://schema.org/url> "https://gutenberg.org/files/33870/33870-h/33870-h.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/opposition/s2> <http://purl.org/dc/terms/publisher> "Edward Lasker; Project Gutenberg" .
+<https://github.com/john1hsu/chess-graph/id/source/opposition/s2> <http://purl.org/dc/terms/title> "Chess Strategy (1915), Project Gutenberg eBook #5614" .
+<https://github.com/john1hsu/chess-graph/id/source/opposition/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/opposition/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/opposition/s2> <https://schema.org/url> "https://gutenberg.org/cache/epub/5614/pg5614-images.html" .
+<https://github.com/john1hsu/chess-graph/id/source/opposition/s3> <http://purl.org/dc/terms/publisher> "Chess.com (Chess Terms)" .
+<https://github.com/john1hsu/chess-graph/id/source/opposition/s3> <http://purl.org/dc/terms/title> "Opposition" .
+<https://github.com/john1hsu/chess-graph/id/source/opposition/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/opposition/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/opposition/s3> <https://schema.org/url> "https://www.chess.com/terms/opposition-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/opposition/s4> <http://purl.org/dc/terms/publisher> "ChessBase Learn" .
+<https://github.com/john1hsu/chess-graph/id/source/opposition/s4> <http://purl.org/dc/terms/title> "10 The opposition of the kings" .
+<https://github.com/john1hsu/chess-graph/id/source/opposition/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/opposition/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/opposition/s4> <https://schema.org/url> "https://learn.chessbase.com/en/page/die-opposition-der-konige" .
+<https://github.com/john1hsu/chess-graph/id/source/opposition/s5> <http://purl.org/dc/terms/publisher> "Mark Dvoretsky, revised by Karsten Müller, Russell Enterprises (2020)" .
+<https://github.com/john1hsu/chess-graph/id/source/opposition/s5> <http://purl.org/dc/terms/title> "Dvoretsky's Endgame Manual, fifth edition (excerpt with table of contents)" .
+<https://github.com/john1hsu/chess-graph/id/source/opposition/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/opposition/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/opposition/s5> <https://schema.org/url> "https://shop.chess-tigers.de/cdn/shop/files/dem5_excerpt.pdf" .
 <https://github.com/john1hsu/chess-graph/id/source/outpost/s1> <http://purl.org/dc/terms/publisher> "Chess.com (Chess Terms)" .
 <https://github.com/john1hsu/chess-graph/id/source/outpost/s1> <http://purl.org/dc/terms/title> "Outpost" .
 <https://github.com/john1hsu/chess-graph/id/source/outpost/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

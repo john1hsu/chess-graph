@@ -662,6 +662,32 @@
     ]
   },
   {
+    "id": "kt:opposition",
+    "title": "Opposition",
+    "aliases": [
+      "The opposition",
+      "Direct opposition",
+      "Distant opposition",
+      "Diagonal opposition",
+      "Taking the opposition",
+      "Opposition of the kings"
+    ],
+    "type": "Technique",
+    "domain": "endgames",
+    "file": "articles/endgames/opposition.md",
+    "created": "2026-11-09",
+    "verified": "2026-11-09",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://gutenberg.org/files/33870/33870-h/33870-h.htm",
+      "https://gutenberg.org/cache/epub/5614/pg5614-images.html",
+      "https://www.chess.com/terms/opposition-chess",
+      "https://learn.chessbase.com/en/page/die-opposition-der-konige",
+      "https://shop.chess-tigers.de/cdn/shop/files/dem5_excerpt.pdf"
+    ]
+  },
+  {
     "id": "kt:outpost",
     "title": "Outpost",
     "aliases": [

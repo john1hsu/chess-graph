@@ -919,6 +919,93 @@
       ]
     },
     {
+      "@id": "kt:opposition",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Opposition",
+      "skos:definition": "The endgame relationship in which the two kings stand on the same file, rank or diagonal with an odd number of squares between them; the side that does not have to move \"has the opposition\" and can force the other king to give way.",
+      "kto:domain": "endgames",
+      "dcterms:created": "2026-11-09",
+      "kto:verified": "2026-11-09",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Chess Fundamentals (1921), Project Gutenberg eBook #33870",
+          "dcterms:publisher": "José Raúl Capablanca, Harcourt, Brace and Howe; Project Gutenberg",
+          "schema:url": "https://gutenberg.org/files/33870/33870-h/33870-h.htm",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Chess Strategy (1915), Project Gutenberg eBook #5614",
+          "dcterms:publisher": "Edward Lasker; Project Gutenberg",
+          "schema:url": "https://gutenberg.org/cache/epub/5614/pg5614-images.html",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Opposition",
+          "dcterms:publisher": "Chess.com (Chess Terms)",
+          "schema:url": "https://www.chess.com/terms/opposition-chess",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "10 The opposition of the kings",
+          "dcterms:publisher": "ChessBase Learn",
+          "schema:url": "https://learn.chessbase.com/en/page/die-opposition-der-konige",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Dvoretsky's Endgame Manual, fifth edition (excerpt with table of contents)",
+          "dcterms:publisher": "Mark Dvoretsky, revised by Karsten Müller, Russell Enterprises (2020)",
+          "schema:url": "https://shop.chess-tigers.de/cdn/shop/files/dem5_excerpt.pdf",
+          "kto:sourceType": "book"
+        }
+      ],
+      "kto:file": "articles/endgames/opposition.md",
+      "skos:altLabel": [
+        "The opposition",
+        "Direct opposition",
+        "Distant opposition",
+        "Diagonal opposition",
+        "Taking the opposition",
+        "Opposition of the kings"
+      ],
+      "kto:fen": "8/4k3/8/4K3/4P3/8/8/8 b - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:king-and-pawn-endgames"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:zugzwang"
+        },
+        {
+          "@id": "kt:key-squares"
+        },
+        {
+          "@id": "kt:triangulation"
+        },
+        {
+          "@id": "kt:pawn-promotion"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:zugzwang"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:pawn-promotion"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:triangulation"
+        }
+      ]
+    },
+    {
       "@id": "kt:philidor-position",
       "@type": "kto:EndgameType",
       "skos:prefLabel": "Philidor position",
