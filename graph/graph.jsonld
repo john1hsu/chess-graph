@@ -2931,6 +2931,80 @@
       ]
     },
     {
+      "@id": "kt:einstellung-effect",
+      "@type": "kto:CognitiveConcept",
+      "skos:prefLabel": "Einstellung effect",
+      "skos:definition": "The tendency for a familiar idea, triggered by features of a position, to stop a player from finding a better solution; in chess it was shown by Bilalić, McLeod and Gobet to work by steering experts' attention towards squares linked to the first idea.",
+      "kto:domain": "training-and-improvement",
+      "dcterms:created": "2026-11-09",
+      "kto:verified": "2026-11-09",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Why good thoughts block better ones: The mechanism of the pernicious Einstellung (set) effect (Cognition, 2008)",
+          "dcterms:publisher": "Merim Bilalić, Peter McLeod and Fernand Gobet, Brunel University Research Archive",
+          "schema:url": "https://bura.brunel.ac.uk/bitstream/2438/2276/1/Einstellung-Cognition.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The mechanism of the Einstellung (set) effect: A pervasive source of cognitive bias",
+          "dcterms:publisher": "Merim Bilalić, Peter McLeod and Fernand Gobet, Brunel University Research Archive",
+          "schema:url": "https://bura.brunel.ac.uk/bitstream/2438/5777/1/Fulltext.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Mechanisms and Boundary Conditions of the Einstellung Effect in Chess: Evidence from Eye Movements (PLoS ONE 8(10): e75796)",
+          "dcterms:publisher": "Heather Sheridan and Eyal M. Reingold, University of Southampton ePrints",
+          "schema:url": "https://eprints.soton.ac.uk/367562/1/Sheridan%2520%2526%2520Reingold%2520%25282013%2529%2520PLOS%2520ONE.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Why Good Thoughts Block Better Ones (Scientific American, March 2014)",
+          "dcterms:publisher": "Merim Bilalić and Peter McLeod, University of Klagenfurt",
+          "schema:url": "https://cognition.aau.at/download/Publikationen/Bilalic/Bilalic_McLeod_2014.pdf",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/training-and-improvement/einstellung-effect.md",
+      "skos:altLabel": [
+        "Einstellung",
+        "Set effect",
+        "Mental set",
+        "Einstellung (set) effect"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:cognitive-psychology-of-chess"
+        },
+        {
+          "@id": "kt:chess-expertise"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:chunking-theory"
+        },
+        {
+          "@id": "kt:template-theory"
+        },
+        {
+          "@id": "kt:calculation"
+        },
+        {
+          "@id": "kt:smothered-mate"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:abraham-luchins"
+        },
+        {
+          "@id": "kt:merim-bilalic"
+        }
+      ]
+    },
+    {
       "@id": "kt:chess960",
       "@type": "kto:Variant",
       "skos:prefLabel": "Chess960",

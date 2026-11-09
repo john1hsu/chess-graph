@@ -233,6 +233,29 @@
     ]
   },
   {
+    "id": "kt:einstellung-effect",
+    "title": "Einstellung effect",
+    "aliases": [
+      "Einstellung",
+      "Set effect",
+      "Mental set",
+      "Einstellung (set) effect"
+    ],
+    "type": "CognitiveConcept",
+    "domain": "training-and-improvement",
+    "file": "articles/training-and-improvement/einstellung-effect.md",
+    "created": "2026-11-09",
+    "verified": "2026-11-09",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://bura.brunel.ac.uk/bitstream/2438/2276/1/Einstellung-Cognition.pdf",
+      "https://bura.brunel.ac.uk/bitstream/2438/5777/1/Fulltext.pdf",
+      "https://eprints.soton.ac.uk/367562/1/Sheridan%2520%2526%2520Reingold%2520%25282013%2529%2520PLOS%2520ONE.pdf",
+      "https://cognition.aau.at/download/Publikationen/Bilalic/Bilalic_McLeod_2014.pdf"
+    ]
+  },
+  {
     "id": "kt:elo-rating-system",
     "title": "Elo rating system",
     "aliases": [

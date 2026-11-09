@@ -261,6 +261,30 @@
 <https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/quiescence-search> .
 <https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-07" .
 <https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/deep-blue> .
+<https://github.com/john1hsu/chess-graph/id/einstellung-effect> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/einstellung-effect> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#CognitiveConcept> .
+<https://github.com/john1hsu/chess-graph/id/einstellung-effect> <http://www.w3.org/2000/01/rdf-schema#label> "Einstellung effect" .
+<https://github.com/john1hsu/chess-graph/id/einstellung-effect> <http://www.w3.org/2004/02/skos/core#altLabel> "Einstellung (set) effect" .
+<https://github.com/john1hsu/chess-graph/id/einstellung-effect> <http://www.w3.org/2004/02/skos/core#altLabel> "Einstellung" .
+<https://github.com/john1hsu/chess-graph/id/einstellung-effect> <http://www.w3.org/2004/02/skos/core#altLabel> "Mental set" .
+<https://github.com/john1hsu/chess-graph/id/einstellung-effect> <http://www.w3.org/2004/02/skos/core#altLabel> "Set effect" .
+<https://github.com/john1hsu/chess-graph/id/einstellung-effect> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-expertise> .
+<https://github.com/john1hsu/chess-graph/id/einstellung-effect> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/einstellung-effect> <http://www.w3.org/2004/02/skos/core#definition> "The tendency for a familiar idea, triggered by features of a position, to stop a player from finding a better solution; in chess it was shown by Bilalić, McLeod and Gobet to work by steering experts' attention towards squares linked to the first idea." .
+<https://github.com/john1hsu/chess-graph/id/einstellung-effect> <http://www.w3.org/2004/02/skos/core#prefLabel> "Einstellung effect" .
+<https://github.com/john1hsu/chess-graph/id/einstellung-effect> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/calculation> .
+<https://github.com/john1hsu/chess-graph/id/einstellung-effect> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chunking-theory> .
+<https://github.com/john1hsu/chess-graph/id/einstellung-effect> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/smothered-mate> .
+<https://github.com/john1hsu/chess-graph/id/einstellung-effect> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/template-theory> .
+<https://github.com/john1hsu/chess-graph/id/einstellung-effect> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/einstellung-effect/s1> .
+<https://github.com/john1hsu/chess-graph/id/einstellung-effect> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/einstellung-effect/s2> .
+<https://github.com/john1hsu/chess-graph/id/einstellung-effect> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/einstellung-effect/s3> .
+<https://github.com/john1hsu/chess-graph/id/einstellung-effect> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/einstellung-effect/s4> .
+<https://github.com/john1hsu/chess-graph/id/einstellung-effect> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/abraham-luchins> .
+<https://github.com/john1hsu/chess-graph/id/einstellung-effect> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/merim-bilalic> .
+<https://github.com/john1hsu/chess-graph/id/einstellung-effect> <https://github.com/john1hsu/chess-graph/ontology#domain> "training-and-improvement" .
+<https://github.com/john1hsu/chess-graph/id/einstellung-effect> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/einstellung-effect> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/elo-rating-system> <http://purl.org/dc/terms/created> "2026-11-07" .
 <https://github.com/john1hsu/chess-graph/id/elo-rating-system> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#RatingSystem> .
 <https://github.com/john1hsu/chess-graph/id/elo-rating-system> <http://www.w3.org/2000/01/rdf-schema#label> "Elo rating system" .
@@ -1088,6 +1112,26 @@
 <https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
 <https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s6> <https://schema.org/url> "https://lehmanns.de/shop/geisteswissenschaften/4604324-9780691090658-behind-deep-blue" .
+<https://github.com/john1hsu/chess-graph/id/source/einstellung-effect/s1> <http://purl.org/dc/terms/publisher> "Merim Bilalić, Peter McLeod and Fernand Gobet, Brunel University Research Archive" .
+<https://github.com/john1hsu/chess-graph/id/source/einstellung-effect/s1> <http://purl.org/dc/terms/title> "Why good thoughts block better ones: The mechanism of the pernicious Einstellung (set) effect (Cognition, 2008)" .
+<https://github.com/john1hsu/chess-graph/id/source/einstellung-effect/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/einstellung-effect/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/einstellung-effect/s1> <https://schema.org/url> "https://bura.brunel.ac.uk/bitstream/2438/2276/1/Einstellung-Cognition.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/einstellung-effect/s2> <http://purl.org/dc/terms/publisher> "Merim Bilalić, Peter McLeod and Fernand Gobet, Brunel University Research Archive" .
+<https://github.com/john1hsu/chess-graph/id/source/einstellung-effect/s2> <http://purl.org/dc/terms/title> "The mechanism of the Einstellung (set) effect: A pervasive source of cognitive bias" .
+<https://github.com/john1hsu/chess-graph/id/source/einstellung-effect/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/einstellung-effect/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/einstellung-effect/s2> <https://schema.org/url> "https://bura.brunel.ac.uk/bitstream/2438/5777/1/Fulltext.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/einstellung-effect/s3> <http://purl.org/dc/terms/publisher> "Heather Sheridan and Eyal M. Reingold, University of Southampton ePrints" .
+<https://github.com/john1hsu/chess-graph/id/source/einstellung-effect/s3> <http://purl.org/dc/terms/title> "The Mechanisms and Boundary Conditions of the Einstellung Effect in Chess: Evidence from Eye Movements (PLoS ONE 8(10): e75796)" .
+<https://github.com/john1hsu/chess-graph/id/source/einstellung-effect/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/einstellung-effect/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/einstellung-effect/s3> <https://schema.org/url> "https://eprints.soton.ac.uk/367562/1/Sheridan%2520%2526%2520Reingold%2520%25282013%2529%2520PLOS%2520ONE.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/einstellung-effect/s4> <http://purl.org/dc/terms/publisher> "Merim Bilalić and Peter McLeod, University of Klagenfurt" .
+<https://github.com/john1hsu/chess-graph/id/source/einstellung-effect/s4> <http://purl.org/dc/terms/title> "Why Good Thoughts Block Better Ones (Scientific American, March 2014)" .
+<https://github.com/john1hsu/chess-graph/id/source/einstellung-effect/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/einstellung-effect/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/einstellung-effect/s4> <https://schema.org/url> "https://cognition.aau.at/download/Publikationen/Bilalic/Bilalic_McLeod_2014.pdf" .
 <https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s1> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
 <https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s1> <http://purl.org/dc/terms/title> "FIDE Rating Regulations (approved by FIDE Council on 15/12/2023, applied from 1 March 2024)" .
 <https://github.com/john1hsu/chess-graph/id/source/elo-rating-system/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

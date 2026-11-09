@@ -12,7 +12,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:anatoly-karpov` | `kt:caro-kann-defence`, `kt:ruy-lopez` |
 | `kt:arbiter` | `kt:fide-laws-of-chess`, `kt:touch-move` |
 | `kt:blockade` | `kt:isolated-queens-pawn`, `kt:outpost` |
+| `kt:chess-expertise` | `kt:chunking-theory`, `kt:einstellung-effect` |
 | `kt:chess-tactics` | `kt:fork`, `kt:skewer` |
+| `kt:cognitive-psychology-of-chess` | `kt:chunking-theory`, `kt:einstellung-effect` |
 | `kt:combination` | `kt:fork`, `kt:skewer` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
@@ -33,10 +35,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:siegbert-tarrasch` | `kt:isolated-queens-pawn`, `kt:emanuel-lasker` |
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
 | `kt:stalemate` | `kt:en-passant`, `kt:fide-laws-of-chess` |
+| `kt:template-theory` | `kt:chunking-theory`, `kt:einstellung-effect` |
 | `kt:threefold-repetition` | `kt:en-passant`, `kt:fide-laws-of-chess` |
 | `kt:transposition-table` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:us-chess` | `kt:elo-rating-system`, `kt:touch-move` |
 | `kt:world-chess-championship-1886` | `kt:world-chess-championship`, `kt:wilhelm-steinitz` |
+| `kt:abraham-luchins` | `kt:einstellung-effect` |
 | `kt:adolf-anderssen` | `kt:wilhelm-steinitz` |
 | `kt:adriaan-de-groot` | `kt:chunking-theory` |
 | `kt:alphazero` | `kt:evaluation-function` |
@@ -46,21 +50,19 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:backward-pawn` | `kt:outpost` |
 | `kt:berlin-defence` | `kt:ruy-lopez` |
 | `kt:bobby-fischer` | `kt:chess960` |
+| `kt:calculation` | `kt:einstellung-effect` |
 | `kt:candidates-tournament` | `kt:world-chess-championship` |
 | `kt:carlsbad-structure` | `kt:pawn-structure` |
 | `kt:chess` | `kt:fide-laws-of-chess` |
-| `kt:chess-expertise` | `kt:chunking-theory` |
 | `kt:chess-olympiad` | `kt:fide` |
 | `kt:chess-organizations` | `kt:fide` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
 | `kt:chess-strategy` | `kt:pawn-structure` |
 | `kt:chess-variants` | `kt:chess960` |
-| `kt:cognitive-psychology-of-chess` | `kt:chunking-theory` |
 | `kt:david-forsyth` | `kt:forsyth-edwards-notation` |
 | `kt:deep-blue` | `kt:deep-blue-versus-kasparov` |
 | `kt:deliberate-practice` | `kt:chunking-theory` |
 | `kt:double-check` | `kt:fork` |
-| `kt:einstellung-effect` | `kt:chunking-theory` |
 | `kt:endgame-tablebases` | `kt:computer-chess` |
 | `kt:european-chess-union` | `kt:fide` |
 | `kt:extended-position-description` | `kt:forsyth-edwards-notation` |
@@ -87,6 +89,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position` |
 | `kt:marcus-kann` | `kt:caro-kann-defence` |
 | `kt:marshall-attack` | `kt:ruy-lopez` |
+| `kt:merim-bilalic` | `kt:einstellung-effect` |
 | `kt:mikhail-chigorin` | `kt:wilhelm-steinitz` |
 | `kt:minority-attack` | `kt:pawn-structure` |
 | `kt:negamax` | `kt:minimax` |
@@ -104,6 +107,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:semi-open-games` | `kt:caro-kann-defence` |
 | `kt:shuffle-chess` | `kt:chess960` |
 | `kt:sicilian-defence` | `kt:caro-kann-defence` |
+| `kt:smothered-mate` | `kt:einstellung-effect` |
 | `kt:solving-chess` | `kt:game-tree-search` |
 | `kt:static-exchange-evaluation` | `kt:quiescence-search` |
 | `kt:steinitz-von-bardeleben-hastings-1895` | `kt:wilhelm-steinitz` |
@@ -111,7 +115,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:stockfish` | `kt:computer-chess` |
 | `kt:sveshnikov-variation` | `kt:outpost` |
 | `kt:tarrasch-defence` | `kt:isolated-queens-pawn` |
-| `kt:template-theory` | `kt:chunking-theory` |
 | `kt:underpromotion` | `kt:pawn-promotion` |
 | `kt:universal-chess-interface` | `kt:chess960` |
 | `kt:visualization` | `kt:chunking-theory` |
