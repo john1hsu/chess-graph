@@ -4,11 +4,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:chess-strategy` | `kt:zugzwang`, `kt:blockade`, `kt:material-advantage`, `kt:pawn-structure`, `kt:chess-tactics` |
 | `kt:stalemate` | `kt:zugzwang`, `kt:chaturanga`, `kt:en-passant`, `kt:fide-laws-of-chess`, `kt:endgame-study` |
+| `kt:chess` | `kt:chaturanga`, `kt:chess-strategy`, `kt:fide-laws-of-chess`, `kt:chess-tactics` |
 | `kt:chess-expertise` | `kt:calculation`, `kt:chunking-theory`, `kt:deliberate-practice`, `kt:einstellung-effect` |
 | `kt:cognitive-psychology-of-chess` | `kt:calculation`, `kt:chunking-theory`, `kt:deliberate-practice`, `kt:einstellung-effect` |
-| `kt:chess` | `kt:chaturanga`, `kt:fide-laws-of-chess`, `kt:chess-tactics` |
 | `kt:double-check` | `kt:discovered-attack`, `kt:discovered-attack`, `kt:fork` |
 | `kt:endgame-tablebases` | `kt:computer-chess`, `kt:zugzwang`, `kt:endgame-study` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov` |

@@ -1834,6 +1834,94 @@
       ]
     },
     {
+      "@id": "kt:chess-strategy",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Chess strategy",
+      "skos:definition": "The long-term side of chess: judging a position by its lasting features (pawn structure, weak squares, space, piece placement, king safety) and choosing aims and plans, as opposed to the concrete calculation of tactics.",
+      "kto:domain": "middlegame-strategy",
+      "dcterms:created": "2026-11-09",
+      "kto:verified": "2026-11-09",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Chess: Development of theory",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/chess/Development-of-theory",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Chess Strategy and Tactics",
+          "dcterms:publisher": "Edward Winter, Chess Notes",
+          "schema:url": "https://chesshistory.com/winter/extra/strategytactics.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Chess Strategy (Edward Lasker, tr. J. du Mont; G. Bell & Sons), Project Gutenberg eBook #5614",
+          "dcterms:publisher": "Project Gutenberg",
+          "schema:url": "https://gutenberg.org/files/5614/5614-h/5614-h.htm",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Chess Fundamentals (José Raúl Capablanca, 1921), Project Gutenberg eBook #33870",
+          "dcterms:publisher": "Project Gutenberg",
+          "schema:url": "https://www.gutenberg.org/cache/epub/33870/pg33870-images.html",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Nimzowitsch's My System",
+          "dcterms:publisher": "Edward Winter, Chess Notes",
+          "schema:url": "https://chesshistory.com/winter/extra/mysystem.html",
+          "kto:sourceType": "reference"
+        }
+      ],
+      "kto:file": "articles/middlegame-strategy/chess-strategy.md",
+      "skos:altLabel": [
+        "Strategy",
+        "Positional play",
+        "Strategic play",
+        "Positional chess"
+      ],
+      "kto:fen": "2r2rk1/1p2bppp/p2p4/3Np3/4P3/8/PPP2PPP/3R1RK1 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:material-advantage"
+        },
+        {
+          "@id": "kt:blockade"
+        },
+        {
+          "@id": "kt:isolated-queens-pawn"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:chess-tactics"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:pawn-structure"
+        },
+        {
+          "@id": "kt:outpost"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:wilhelm-steinitz"
+        },
+        {
+          "@id": "kt:aron-nimzowitsch"
+        }
+      ]
+    },
+    {
       "@id": "kt:isolated-queens-pawn",
       "@type": "kto:PawnStructure",
       "skos:prefLabel": "Isolated queen's pawn",

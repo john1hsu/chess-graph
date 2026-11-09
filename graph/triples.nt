@@ -295,6 +295,33 @@
 <https://github.com/john1hsu/chess-graph/id/chess-problems> <https://github.com/john1hsu/chess-graph/ontology#governedBy> <https://github.com/john1hsu/chess-graph/id/codex-of-chess-composition> .
 <https://github.com/john1hsu/chess-graph/id/chess-problems> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/chess-problems> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/chess-strategy> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/chess-strategy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Concept> .
+<https://github.com/john1hsu/chess-graph/id/chess-strategy> <http://www.w3.org/2000/01/rdf-schema#label> "Chess strategy" .
+<https://github.com/john1hsu/chess-graph/id/chess-strategy> <http://www.w3.org/2004/02/skos/core#altLabel> "Positional chess" .
+<https://github.com/john1hsu/chess-graph/id/chess-strategy> <http://www.w3.org/2004/02/skos/core#altLabel> "Positional play" .
+<https://github.com/john1hsu/chess-graph/id/chess-strategy> <http://www.w3.org/2004/02/skos/core#altLabel> "Strategic play" .
+<https://github.com/john1hsu/chess-graph/id/chess-strategy> <http://www.w3.org/2004/02/skos/core#altLabel> "Strategy" .
+<https://github.com/john1hsu/chess-graph/id/chess-strategy> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess> .
+<https://github.com/john1hsu/chess-graph/id/chess-strategy> <http://www.w3.org/2004/02/skos/core#definition> "The long-term side of chess: judging a position by its lasting features (pawn structure, weak squares, space, piece placement, king safety) and choosing aims and plans, as opposed to the concrete calculation of tactics." .
+<https://github.com/john1hsu/chess-graph/id/chess-strategy> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chess strategy" .
+<https://github.com/john1hsu/chess-graph/id/chess-strategy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/blockade> .
+<https://github.com/john1hsu/chess-graph/id/chess-strategy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/isolated-queens-pawn> .
+<https://github.com/john1hsu/chess-graph/id/chess-strategy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/material-advantage> .
+<https://github.com/john1hsu/chess-graph/id/chess-strategy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-strategy/s1> .
+<https://github.com/john1hsu/chess-graph/id/chess-strategy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-strategy/s2> .
+<https://github.com/john1hsu/chess-graph/id/chess-strategy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-strategy/s3> .
+<https://github.com/john1hsu/chess-graph/id/chess-strategy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-strategy/s4> .
+<https://github.com/john1hsu/chess-graph/id/chess-strategy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-strategy/s5> .
+<https://github.com/john1hsu/chess-graph/id/chess-strategy> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/chess-tactics> .
+<https://github.com/john1hsu/chess-graph/id/chess-strategy> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> .
+<https://github.com/john1hsu/chess-graph/id/chess-strategy> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> .
+<https://github.com/john1hsu/chess-graph/id/chess-strategy> <https://github.com/john1hsu/chess-graph/ontology#domain> "middlegame-strategy" .
+<https://github.com/john1hsu/chess-graph/id/chess-strategy> <https://github.com/john1hsu/chess-graph/ontology#fen> "2r2rk1/1p2bppp/p2p4/3Np3/4P3/8/PPP2PPP/3R1RK1 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/chess-strategy> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/outpost> .
+<https://github.com/john1hsu/chess-graph/id/chess-strategy> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/pawn-structure> .
+<https://github.com/john1hsu/chess-graph/id/chess-strategy> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/chess-strategy> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/chess-tactics> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/chess-tactics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Concept> .
 <https://github.com/john1hsu/chess-graph/id/chess-tactics> <http://www.w3.org/2000/01/rdf-schema#label> "Chess tactics" .
@@ -1600,6 +1627,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/chess-problems/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/chess-problems/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-problems/s6> <https://schema.org/url> "https://en.chessbase.com/post/chebase-puzzles-loyds-excelsior-261013" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-strategy/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-strategy/s1> <http://purl.org/dc/terms/title> "Chess: Development of theory" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-strategy/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-strategy/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-strategy/s1> <https://schema.org/url> "https://www.britannica.com/topic/chess/Development-of-theory" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-strategy/s2> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-strategy/s2> <http://purl.org/dc/terms/title> "Chess Strategy and Tactics" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-strategy/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-strategy/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-strategy/s2> <https://schema.org/url> "https://chesshistory.com/winter/extra/strategytactics.html" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-strategy/s3> <http://purl.org/dc/terms/publisher> "Project Gutenberg" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-strategy/s3> <http://purl.org/dc/terms/title> "Chess Strategy (Edward Lasker, tr. J. du Mont; G. Bell & Sons), Project Gutenberg eBook #5614" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-strategy/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-strategy/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-strategy/s3> <https://schema.org/url> "https://gutenberg.org/files/5614/5614-h/5614-h.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-strategy/s4> <http://purl.org/dc/terms/publisher> "Project Gutenberg" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-strategy/s4> <http://purl.org/dc/terms/title> "Chess Fundamentals (José Raúl Capablanca, 1921), Project Gutenberg eBook #33870" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-strategy/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-strategy/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-strategy/s4> <https://schema.org/url> "https://www.gutenberg.org/cache/epub/33870/pg33870-images.html" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-strategy/s5> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-strategy/s5> <http://purl.org/dc/terms/title> "Nimzowitsch's My System" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-strategy/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-strategy/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-strategy/s5> <https://schema.org/url> "https://chesshistory.com/winter/extra/mysystem.html" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s1> <http://purl.org/dc/terms/title> "Chess Strategy and Tactics" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

@@ -265,6 +265,30 @@
     ]
   },
   {
+    "id": "kt:chess-strategy",
+    "title": "Chess strategy",
+    "aliases": [
+      "Strategy",
+      "Positional play",
+      "Strategic play",
+      "Positional chess"
+    ],
+    "type": "Concept",
+    "domain": "middlegame-strategy",
+    "file": "articles/middlegame-strategy/chess-strategy.md",
+    "created": "2026-11-09",
+    "verified": "2026-11-09",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.britannica.com/topic/chess/Development-of-theory",
+      "https://chesshistory.com/winter/extra/strategytactics.html",
+      "https://gutenberg.org/files/5614/5614-h/5614-h.htm",
+      "https://www.gutenberg.org/cache/epub/33870/pg33870-images.html",
+      "https://chesshistory.com/winter/extra/mysystem.html"
+    ]
+  },
+  {
     "id": "kt:chess-tactics",
     "title": "Chess tactics",
     "aliases": [
