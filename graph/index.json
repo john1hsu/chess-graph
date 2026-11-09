@@ -785,6 +785,33 @@
     ]
   },
   {
+    "id": "kt:grandmaster-title",
+    "title": "Grandmaster title",
+    "aliases": [
+      "Grandmaster",
+      "GM",
+      "International Grandmaster",
+      "IGM",
+      "FIDE Grandmaster",
+      "GM title"
+    ],
+    "type": "Title",
+    "domain": "events-and-organizations",
+    "file": "articles/events-and-organizations/grandmaster-title.md",
+    "created": "2026-11-09",
+    "verified": "2026-11-09",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://handbook.fide.com/chapter/B012024",
+      "https://handbook.fide.com/chapter/B01DirectTitles2026",
+      "https://museum.fide.com/fide-history",
+      "https://www.britannica.com/topic/International-Grandmaster",
+      "https://chesshistory.com/winter/extra/grandmasters.html",
+      "https://www.mieses.info/en/fide-grandmaster-1950.html"
+    ]
+  },
+  {
     "id": "kt:horizon-effect",
     "title": "Horizon effect",
     "aliases": [

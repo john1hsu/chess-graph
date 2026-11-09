@@ -1458,6 +1458,93 @@
       ]
     },
     {
+      "@id": "kt:grandmaster-title",
+      "@type": "kto:Title",
+      "skos:prefLabel": "Grandmaster title",
+      "skos:definition": "The highest lifetime playing title awarded by FIDE, introduced in 1950 and today earned either through grandmaster norms plus a 2500 rating or directly by winning specified championships.",
+      "kto:domain": "events-and-organizations",
+      "dcterms:created": "2026-11-09",
+      "kto:verified": "2026-11-09",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "FIDE Title Regulations effective from 1 January 2024",
+          "dcterms:publisher": "FIDE Handbook (B.01)",
+          "schema:url": "https://handbook.fide.com/chapter/B012024",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Table for Direct Titles effective from 1 January 2026",
+          "dcterms:publisher": "FIDE Handbook (B.01)",
+          "schema:url": "https://handbook.fide.com/chapter/B01DirectTitles2026",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "FIDE History",
+          "dcterms:publisher": "FIDE Museum",
+          "schema:url": "https://museum.fide.com/fide-history",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "International Grandmaster",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/International-Grandmaster",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Grandmasters",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://chesshistory.com/winter/extra/grandmasters.html",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The First FIDE Grandmasters 1950",
+          "dcterms:publisher": "Johannes Geppert, mieses.info",
+          "schema:url": "https://www.mieses.info/en/fide-grandmaster-1950.html",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/events-and-organizations/grandmaster-title.md",
+      "skos:altLabel": [
+        "Grandmaster",
+        "GM",
+        "International Grandmaster",
+        "IGM",
+        "FIDE Grandmaster",
+        "GM title"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess-titles"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:fide"
+        },
+        {
+          "@id": "kt:elo-rating-system"
+        },
+        {
+          "@id": "kt:international-master-title"
+        },
+        {
+          "@id": "kt:fair-play-regulations"
+        }
+      ],
+      "kto:sanctionedBy": [
+        {
+          "@id": "kt:fide"
+        }
+      ],
+      "kto:governedBy": [
+        {
+          "@id": "kt:fide-title-regulations"
+        }
+      ]
+    },
+    {
       "@id": "kt:chaturanga",
       "@type": "kto:Variant",
       "skos:prefLabel": "Chaturanga",

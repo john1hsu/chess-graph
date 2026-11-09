@@ -32,7 +32,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:francois-andre-danican-philidor` | `kt:philidor-position`, `kt:pawn-structure` |
 | `kt:french-defence` | `kt:caro-kann-defence`, `kt:sicilian-defence` |
 | `kt:garry-kasparov` | `kt:deep-blue-versus-kasparov`, `kt:sicilian-defence` |
-| `kt:grandmaster-title` | `kt:elo-rating-system`, `kt:fide` |
 | `kt:gukesh-dommaraju` | `kt:chess-olympiad`, `kt:world-chess-championship` |
 | `kt:hanging-pawns` | `kt:isolated-queens-pawn`, `kt:pawn-structure` |
 | `kt:hastings-1895` | `kt:emanuel-lasker`, `kt:wilhelm-steinitz` |
@@ -77,12 +76,15 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:carlsbad-structure` | `kt:pawn-structure` |
 | `kt:chess-organizations` | `kt:fide` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
+| `kt:chess-titles` | `kt:grandmaster-title` |
 | `kt:david-forsyth` | `kt:forsyth-edwards-notation` |
 | `kt:deep-blue` | `kt:deep-blue-versus-kasparov` |
 | `kt:dragon-variation` | `kt:sicilian-defence` |
 | `kt:european-chess-union` | `kt:fide` |
 | `kt:excelsior` | `kt:chess-problems` |
 | `kt:extended-position-description` | `kt:forsyth-edwards-notation` |
+| `kt:fair-play-regulations` | `kt:grandmaster-title` |
+| `kt:fide-title-regulations` | `kt:grandmaster-title` |
 | `kt:fide-world-fischer-random-chess-championship` | `kt:chess960` |
 | `kt:fischer-spassky-1972` | `kt:world-chess-championship` |
 | `kt:four-handed-chaturanga` | `kt:chaturanga` |
@@ -93,6 +95,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:herbert-simon` | `kt:chunking-theory` |
 | `kt:horatio-caro` | `kt:caro-kann-defence` |
 | `kt:illegal-move` | `kt:touch-move` |
+| `kt:international-master-title` | `kt:grandmaster-title` |
 | `kt:italian-game` | `kt:ruy-lopez` |
 | `kt:johannes-zukertort` | `kt:wilhelm-steinitz` |
 | `kt:john-mccarthy` | `kt:alpha-beta-pruning` |

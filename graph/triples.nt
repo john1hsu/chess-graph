@@ -873,6 +873,33 @@
 <https://github.com/john1hsu/chess-graph/id/game-tree-search> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/game-tree-search> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/transposition-table> .
 <https://github.com/john1hsu/chess-graph/id/game-tree-search> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/grandmaster-title> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/grandmaster-title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Title> .
+<https://github.com/john1hsu/chess-graph/id/grandmaster-title> <http://www.w3.org/2000/01/rdf-schema#label> "Grandmaster title" .
+<https://github.com/john1hsu/chess-graph/id/grandmaster-title> <http://www.w3.org/2004/02/skos/core#altLabel> "FIDE Grandmaster" .
+<https://github.com/john1hsu/chess-graph/id/grandmaster-title> <http://www.w3.org/2004/02/skos/core#altLabel> "GM title" .
+<https://github.com/john1hsu/chess-graph/id/grandmaster-title> <http://www.w3.org/2004/02/skos/core#altLabel> "GM" .
+<https://github.com/john1hsu/chess-graph/id/grandmaster-title> <http://www.w3.org/2004/02/skos/core#altLabel> "Grandmaster" .
+<https://github.com/john1hsu/chess-graph/id/grandmaster-title> <http://www.w3.org/2004/02/skos/core#altLabel> "IGM" .
+<https://github.com/john1hsu/chess-graph/id/grandmaster-title> <http://www.w3.org/2004/02/skos/core#altLabel> "International Grandmaster" .
+<https://github.com/john1hsu/chess-graph/id/grandmaster-title> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-titles> .
+<https://github.com/john1hsu/chess-graph/id/grandmaster-title> <http://www.w3.org/2004/02/skos/core#definition> "The highest lifetime playing title awarded by FIDE, introduced in 1950 and today earned either through grandmaster norms plus a 2500 rating or directly by winning specified championships." .
+<https://github.com/john1hsu/chess-graph/id/grandmaster-title> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grandmaster title" .
+<https://github.com/john1hsu/chess-graph/id/grandmaster-title> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/elo-rating-system> .
+<https://github.com/john1hsu/chess-graph/id/grandmaster-title> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fair-play-regulations> .
+<https://github.com/john1hsu/chess-graph/id/grandmaster-title> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fide> .
+<https://github.com/john1hsu/chess-graph/id/grandmaster-title> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/international-master-title> .
+<https://github.com/john1hsu/chess-graph/id/grandmaster-title> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s1> .
+<https://github.com/john1hsu/chess-graph/id/grandmaster-title> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s2> .
+<https://github.com/john1hsu/chess-graph/id/grandmaster-title> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s3> .
+<https://github.com/john1hsu/chess-graph/id/grandmaster-title> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s4> .
+<https://github.com/john1hsu/chess-graph/id/grandmaster-title> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s5> .
+<https://github.com/john1hsu/chess-graph/id/grandmaster-title> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s6> .
+<https://github.com/john1hsu/chess-graph/id/grandmaster-title> <https://github.com/john1hsu/chess-graph/ontology#domain> "events-and-organizations" .
+<https://github.com/john1hsu/chess-graph/id/grandmaster-title> <https://github.com/john1hsu/chess-graph/ontology#governedBy> <https://github.com/john1hsu/chess-graph/id/fide-title-regulations> .
+<https://github.com/john1hsu/chess-graph/id/grandmaster-title> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/fide> .
+<https://github.com/john1hsu/chess-graph/id/grandmaster-title> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/grandmaster-title> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/horizon-effect> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/horizon-effect> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Concept> .
 <https://github.com/john1hsu/chess-graph/id/horizon-effect> <http://www.w3.org/2000/01/rdf-schema#label> "Horizon effect" .
@@ -2192,6 +2219,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s5> <https://schema.org/url> "https://arxiv.org/pdf/1712.01815" .
+<https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s1> <http://purl.org/dc/terms/publisher> "FIDE Handbook (B.01)" .
+<https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s1> <http://purl.org/dc/terms/title> "FIDE Title Regulations effective from 1 January 2024" .
+<https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s1> <https://schema.org/url> "https://handbook.fide.com/chapter/B012024" .
+<https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s2> <http://purl.org/dc/terms/publisher> "FIDE Handbook (B.01)" .
+<https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s2> <http://purl.org/dc/terms/title> "Table for Direct Titles effective from 1 January 2026" .
+<https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s2> <https://schema.org/url> "https://handbook.fide.com/chapter/B01DirectTitles2026" .
+<https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s3> <http://purl.org/dc/terms/publisher> "FIDE Museum" .
+<https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s3> <http://purl.org/dc/terms/title> "FIDE History" .
+<https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s3> <https://schema.org/url> "https://museum.fide.com/fide-history" .
+<https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s4> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s4> <http://purl.org/dc/terms/title> "International Grandmaster" .
+<https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s4> <https://schema.org/url> "https://www.britannica.com/topic/International-Grandmaster" .
+<https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s5> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s5> <http://purl.org/dc/terms/title> "Grandmasters" .
+<https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s5> <https://schema.org/url> "https://chesshistory.com/winter/extra/grandmasters.html" .
+<https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s6> <http://purl.org/dc/terms/publisher> "Johannes Geppert, mieses.info" .
+<https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s6> <http://purl.org/dc/terms/title> "The First FIDE Grandmasters 1950" .
+<https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s6> <https://schema.org/url> "https://www.mieses.info/en/fide-grandmaster-1950.html" .
 <https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s1> <http://purl.org/dc/terms/publisher> "Hans J. Berliner, Carnegie-Mellon University, via DTIC" .
 <https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s1> <http://purl.org/dc/terms/title> "Chess as Problem Solving: The Development of a Tactics Analyzer (PhD dissertation, March 1974)" .
 <https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
