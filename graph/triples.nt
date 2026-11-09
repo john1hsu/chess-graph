@@ -434,6 +434,32 @@
 <https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/quiescence-search> .
 <https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-07" .
 <https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/deep-blue> .
+<https://github.com/john1hsu/chess-graph/id/deliberate-practice> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/deliberate-practice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#CognitiveConcept> .
+<https://github.com/john1hsu/chess-graph/id/deliberate-practice> <http://www.w3.org/2000/01/rdf-schema#label> "Deliberate practice" .
+<https://github.com/john1hsu/chess-graph/id/deliberate-practice> <http://www.w3.org/2004/02/skos/core#altLabel> "10,000-hour rule" .
+<https://github.com/john1hsu/chess-graph/id/deliberate-practice> <http://www.w3.org/2004/02/skos/core#altLabel> "Deliberate practice theory" .
+<https://github.com/john1hsu/chess-graph/id/deliberate-practice> <http://www.w3.org/2004/02/skos/core#altLabel> "Deliberate-practice framework" .
+<https://github.com/john1hsu/chess-graph/id/deliberate-practice> <http://www.w3.org/2004/02/skos/core#altLabel> "Serious study alone" .
+<https://github.com/john1hsu/chess-graph/id/deliberate-practice> <http://www.w3.org/2004/02/skos/core#altLabel> "Ten thousand hour rule" .
+<https://github.com/john1hsu/chess-graph/id/deliberate-practice> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-expertise> .
+<https://github.com/john1hsu/chess-graph/id/deliberate-practice> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/deliberate-practice> <http://www.w3.org/2004/02/skos/core#definition> "Effortful, structured activity designed specifically to improve performance, proposed by Ericsson, Krampe and Tesch-Römer in 1993 as the main cause of expert skill; in chess it is usually measured as hours of serious study alone, which predicts rating strongly but explains only part of the differences between players." .
+<https://github.com/john1hsu/chess-graph/id/deliberate-practice> <http://www.w3.org/2004/02/skos/core#prefLabel> "Deliberate practice" .
+<https://github.com/john1hsu/chess-graph/id/deliberate-practice> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/calculation> .
+<https://github.com/john1hsu/chess-graph/id/deliberate-practice> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chunking-theory> .
+<https://github.com/john1hsu/chess-graph/id/deliberate-practice> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/einstellung-effect> .
+<https://github.com/john1hsu/chess-graph/id/deliberate-practice> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/puzzle-training> .
+<https://github.com/john1hsu/chess-graph/id/deliberate-practice> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/deliberate-practice/s1> .
+<https://github.com/john1hsu/chess-graph/id/deliberate-practice> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/deliberate-practice/s2> .
+<https://github.com/john1hsu/chess-graph/id/deliberate-practice> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/deliberate-practice/s3> .
+<https://github.com/john1hsu/chess-graph/id/deliberate-practice> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/deliberate-practice/s4> .
+<https://github.com/john1hsu/chess-graph/id/deliberate-practice> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/talent> .
+<https://github.com/john1hsu/chess-graph/id/deliberate-practice> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/starting-age> .
+<https://github.com/john1hsu/chess-graph/id/deliberate-practice> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/anders-ericsson> .
+<https://github.com/john1hsu/chess-graph/id/deliberate-practice> <https://github.com/john1hsu/chess-graph/ontology#domain> "training-and-improvement" .
+<https://github.com/john1hsu/chess-graph/id/deliberate-practice> <https://github.com/john1hsu/chess-graph/ontology#status> "contested" .
+<https://github.com/john1hsu/chess-graph/id/deliberate-practice> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/discovered-attack> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/discovered-attack> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TacticalMotif> .
 <https://github.com/john1hsu/chess-graph/id/discovered-attack> <http://www.w3.org/2000/01/rdf-schema#label> "Discovered attack" .
@@ -1618,6 +1644,26 @@
 <https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
 <https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s6> <https://schema.org/url> "https://lehmanns.de/shop/geisteswissenschaften/4604324-9780691090658-behind-deep-blue" .
+<https://github.com/john1hsu/chess-graph/id/source/deliberate-practice/s1> <http://purl.org/dc/terms/publisher> "Fernand Gobet and Guillermo Campitelli, via CORE" .
+<https://github.com/john1hsu/chess-graph/id/source/deliberate-practice/s1> <http://purl.org/dc/terms/title> "The Role of Domain-Specific Practice, Handedness and Starting Age in Chess (Developmental Psychology 43, 159-172)" .
+<https://github.com/john1hsu/chess-graph/id/source/deliberate-practice/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/deliberate-practice/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/deliberate-practice/s1> <https://schema.org/url> "https://core.ac.uk/download/333345.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/deliberate-practice/s2> <http://purl.org/dc/terms/publisher> "David Z. Hambrick, Frederick L. Oswald, Erik M. Altmann, Elizabeth J. Meinz, Fernand Gobet and Guillermo Campitelli, University of Liverpool Repository" .
+<https://github.com/john1hsu/chess-graph/id/source/deliberate-practice/s2> <http://purl.org/dc/terms/title> "Deliberate practice: Is that all it takes to become an expert? (Intelligence 45, 34-45)" .
+<https://github.com/john1hsu/chess-graph/id/source/deliberate-practice/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/deliberate-practice/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/deliberate-practice/s2> <https://schema.org/url> "https://livrepository.liverpool.ac.uk/3002338/1/Hambrick%20et%20al%20--%20Deliberate%20Practice%20-%20Is%20That%20All%20It%20Takes%20To%20Become%20An%20Expert.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/deliberate-practice/s3> <http://purl.org/dc/terms/publisher> "Guillermo Campitelli and Fernand Gobet, via CORE" .
+<https://github.com/john1hsu/chess-graph/id/source/deliberate-practice/s3> <http://purl.org/dc/terms/title> "The Role of Practice in Chess: A Longitudinal Study (Learning and Individual Differences)" .
+<https://github.com/john1hsu/chess-graph/id/source/deliberate-practice/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/deliberate-practice/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/deliberate-practice/s3> <https://schema.org/url> "https://core.ac.uk/download/334073.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/deliberate-practice/s4> <http://purl.org/dc/terms/publisher> "Brooke N. Macnamara and Megha Maitra, PubMed Central" .
+<https://github.com/john1hsu/chess-graph/id/source/deliberate-practice/s4> <http://purl.org/dc/terms/title> "The role of deliberate practice in expert performance: revisiting Ericsson, Krampe & Tesch-Römer (1993) (Royal Society Open Science 6: 190327)" .
+<https://github.com/john1hsu/chess-graph/id/source/deliberate-practice/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/deliberate-practice/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/deliberate-practice/s4> <https://schema.org/url> "https://pmc.ncbi.nlm.nih.gov/articles/PMC6731745" .
 <https://github.com/john1hsu/chess-graph/id/source/discovered-attack/s1> <http://purl.org/dc/terms/publisher> "English Chess Federation" .
 <https://github.com/john1hsu/chess-graph/id/source/discovered-attack/s1> <http://purl.org/dc/terms/title> "Discovered Attacks (Chess Skills leaflet)" .
 <https://github.com/john1hsu/chess-graph/id/source/discovered-attack/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

@@ -3874,6 +3874,88 @@
       ]
     },
     {
+      "@id": "kt:deliberate-practice",
+      "@type": "kto:CognitiveConcept",
+      "skos:prefLabel": "Deliberate practice",
+      "skos:definition": "Effortful, structured activity designed specifically to improve performance, proposed by Ericsson, Krampe and Tesch-Römer in 1993 as the main cause of expert skill; in chess it is usually measured as hours of serious study alone, which predicts rating strongly but explains only part of the differences between players.",
+      "kto:domain": "training-and-improvement",
+      "dcterms:created": "2026-11-09",
+      "kto:verified": "2026-11-09",
+      "kto:status": "contested",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Role of Domain-Specific Practice, Handedness and Starting Age in Chess (Developmental Psychology 43, 159-172)",
+          "dcterms:publisher": "Fernand Gobet and Guillermo Campitelli, via CORE",
+          "schema:url": "https://core.ac.uk/download/333345.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Deliberate practice: Is that all it takes to become an expert? (Intelligence 45, 34-45)",
+          "dcterms:publisher": "David Z. Hambrick, Frederick L. Oswald, Erik M. Altmann, Elizabeth J. Meinz, Fernand Gobet and Guillermo Campitelli, University of Liverpool Repository",
+          "schema:url": "https://livrepository.liverpool.ac.uk/3002338/1/Hambrick%20et%20al%20--%20Deliberate%20Practice%20-%20Is%20That%20All%20It%20Takes%20To%20Become%20An%20Expert.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Role of Practice in Chess: A Longitudinal Study (Learning and Individual Differences)",
+          "dcterms:publisher": "Guillermo Campitelli and Fernand Gobet, via CORE",
+          "schema:url": "https://core.ac.uk/download/334073.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The role of deliberate practice in expert performance: revisiting Ericsson, Krampe & Tesch-Römer (1993) (Royal Society Open Science 6: 190327)",
+          "dcterms:publisher": "Brooke N. Macnamara and Megha Maitra, PubMed Central",
+          "schema:url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6731745",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/training-and-improvement/deliberate-practice.md",
+      "skos:altLabel": [
+        "Deliberate practice theory",
+        "Deliberate-practice framework",
+        "Serious study alone",
+        "Ten thousand hour rule",
+        "10,000-hour rule"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess-expertise"
+        },
+        {
+          "@id": "kt:cognitive-psychology-of-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:chunking-theory"
+        },
+        {
+          "@id": "kt:calculation"
+        },
+        {
+          "@id": "kt:puzzle-training"
+        },
+        {
+          "@id": "kt:einstellung-effect"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:anders-ericsson"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:talent"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:starting-age"
+        }
+      ]
+    },
+    {
       "@id": "kt:einstellung-effect",
       "@type": "kto:CognitiveConcept",
       "skos:prefLabel": "Einstellung effect",

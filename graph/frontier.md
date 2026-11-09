@@ -5,10 +5,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:material-advantage` | `kt:chess-tactics`, `kt:combination`, `kt:discovered-attack`, `kt:fork`, `kt:pin`, `kt:skewer` |
+| `kt:calculation` | `kt:chess-tactics`, `kt:combination`, `kt:deliberate-practice`, `kt:einstellung-effect` |
 | `kt:stalemate` | `kt:chaturanga`, `kt:en-passant`, `kt:fide-laws-of-chess`, `kt:endgame-study` |
-| `kt:calculation` | `kt:chess-tactics`, `kt:combination`, `kt:einstellung-effect` |
 | `kt:chess` | `kt:chaturanga`, `kt:fide-laws-of-chess`, `kt:chess-tactics` |
+| `kt:chess-expertise` | `kt:chunking-theory`, `kt:deliberate-practice`, `kt:einstellung-effect` |
 | `kt:chess-strategy` | `kt:blockade`, `kt:pawn-structure`, `kt:chess-tactics` |
+| `kt:cognitive-psychology-of-chess` | `kt:chunking-theory`, `kt:deliberate-practice`, `kt:einstellung-effect` |
 | `kt:double-check` | `kt:discovered-attack`, `kt:discovered-attack`, `kt:fork` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov` |
 | `kt:hypermodernism` | `kt:blockade`, `kt:aron-nimzowitsch`, `kt:aron-nimzowitsch` |
@@ -20,9 +22,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:emanuel-lasker`, `kt:wilhelm-steinitz` |
 | `kt:anatoly-karpov` | `kt:caro-kann-defence`, `kt:ruy-lopez` |
 | `kt:arbiter` | `kt:fide-laws-of-chess`, `kt:touch-move` |
-| `kt:chess-expertise` | `kt:chunking-theory`, `kt:einstellung-effect` |
 | `kt:chess-variants` | `kt:chaturanga`, `kt:chess960` |
-| `kt:cognitive-psychology-of-chess` | `kt:chunking-theory`, `kt:einstellung-effect` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
 | `kt:endgame-tablebases` | `kt:computer-chess`, `kt:endgame-study` |
@@ -59,6 +59,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:adolf-anderssen` | `kt:wilhelm-steinitz` |
 | `kt:adriaan-de-groot` | `kt:chunking-theory` |
 | `kt:alphazero` | `kt:evaluation-function` |
+| `kt:anders-ericsson` | `kt:deliberate-practice` |
 | `kt:arpad-elo` | `kt:elo-rating-system` |
 | `kt:artificial-intelligence` | `kt:computer-chess` |
 | `kt:back-rank-mate` | `kt:combination` |
@@ -75,7 +76,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:codex-of-chess-composition` | `kt:endgame-study` |
 | `kt:david-forsyth` | `kt:forsyth-edwards-notation` |
 | `kt:deep-blue` | `kt:deep-blue-versus-kasparov` |
-| `kt:deliberate-practice` | `kt:chunking-theory` |
 | `kt:dragon-variation` | `kt:sicilian-defence` |
 | `kt:european-chess-union` | `kt:fide` |
 | `kt:extended-position-description` | `kt:forsyth-edwards-notation` |
@@ -114,6 +114,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:philipp-stamma` | `kt:algebraic-notation` |
 | `kt:proof-number-search` | `kt:game-tree-search` |
 | `kt:prophylaxis` | `kt:blockade` |
+| `kt:puzzle-training` | `kt:deliberate-practice` |
 | `kt:queens-gambit-accepted` | `kt:isolated-queens-pawn` |
 | `kt:remi-coulom` | `kt:monte-carlo-tree-search` |
 | `kt:ruy-lopez-de-segura` | `kt:ruy-lopez` |
@@ -123,11 +124,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:smothered-mate` | `kt:einstellung-effect` |
 | `kt:solving-chess` | `kt:game-tree-search` |
 | `kt:soviet-chess-school` | `kt:sicilian-defence` |
+| `kt:starting-age` | `kt:deliberate-practice` |
 | `kt:static-exchange-evaluation` | `kt:quiescence-search` |
 | `kt:steinitz-von-bardeleben-hastings-1895` | `kt:wilhelm-steinitz` |
 | `kt:steven-j-edwards` | `kt:forsyth-edwards-notation` |
 | `kt:stockfish` | `kt:computer-chess` |
 | `kt:swiss-system-tournament` | `kt:chess-olympiad` |
+| `kt:talent` | `kt:deliberate-practice` |
 | `kt:tarrasch-defence` | `kt:isolated-queens-pawn` |
 | `kt:team-chess` | `kt:chess-olympiad` |
 | `kt:tie-break-regulations` | `kt:chess-olympiad` |
