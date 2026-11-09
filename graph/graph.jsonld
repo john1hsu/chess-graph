@@ -3878,6 +3878,105 @@
       ]
     },
     {
+      "@id": "kt:calculation",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Calculation",
+      "skos:definition": "The skill of working out concrete sequences of moves and replies in one's head before moving; Kotov taught it as choosing candidate moves and examining each branch of a \"tree of analysis\", and research since de Groot shows that stronger players search faster, deeper and more selectively.",
+      "kto:domain": "training-and-improvement",
+      "dcterms:created": "2026-11-09",
+      "kto:verified": "2026-11-09",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Think Like a Grandmaster (A. A. Kotov)",
+          "dcterms:publisher": "Batsford Books",
+          "schema:url": "https://www.batsfordbooks.com/1136192",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Adriaan Dingeman de Groot (1914–2006) — obituary, Psychologische Rundschau",
+          "dcterms:publisher": "Fernand Gobet and Jochen Musch, Brunel University Research Archive",
+          "schema:url": "https://bura.brunel.ac.uk/bitstream/2438/2617/1/De%20Groot%20Obituary%20-%20%20Psychologische%20Rundschau.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Chess players' thinking revisited (Swiss Journal of Psychology 57, 1998)",
+          "dcterms:publisher": "Fernand Gobet, Brunel University Research Archive",
+          "schema:url": "https://bura.brunel.ac.uk/bitstream/2438/822/4/1791.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Adaptive expert decision making: Skilled chessplayers search more and deeper (ICGA Journal 27(4), 2004)",
+          "dcterms:publisher": "Guillermo Campitelli and Fernand Gobet, Brunel University Research Archive",
+          "schema:url": "https://bura.brunel.ac.uk/bitstream/2438/825/1/Gobet_Search_ICGA.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Winning Academy 15: How to avoid blunders (part 1)",
+          "dcterms:publisher": "Jan Markos (GM), ChessBase News",
+          "schema:url": "https://en.chessbase.com/post/the-winning-academy-15-how-to-avoid-blunders-part-1",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Christiansen v Karpov, Hoogovens, Wijk aan Zee 1993 (game score)",
+          "dcterms:publisher": "Lichess study",
+          "schema:url": "https://lichess.org/study/embed/nkXYPOHc/SSa6JLCz",
+          "kto:sourceType": "database"
+        }
+      ],
+      "kto:file": "articles/training-and-improvement/calculation.md",
+      "skos:altLabel": [
+        "Calculating variations",
+        "Chess calculation",
+        "Analysis of variations",
+        "Tree of analysis"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess-expertise"
+        },
+        {
+          "@id": "kt:cognitive-psychology-of-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:chess-tactics"
+        },
+        {
+          "@id": "kt:combination"
+        },
+        {
+          "@id": "kt:einstellung-effect"
+        },
+        {
+          "@id": "kt:game-tree-search"
+        },
+        {
+          "@id": "kt:visualization"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:candidate-moves"
+        },
+        {
+          "@id": "kt:progressive-deepening"
+        }
+      ],
+      "kto:championedBy": [
+        {
+          "@id": "kt:alexander-kotov"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:adriaan-de-groot"
+        }
+      ]
+    },
+    {
       "@id": "kt:chunking-theory",
       "@type": "kto:CognitiveConcept",
       "skos:prefLabel": "Chunking theory",

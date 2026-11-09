@@ -117,6 +117,35 @@
 <https://github.com/john1hsu/chess-graph/id/blockade> <https://github.com/john1hsu/chess-graph/ontology#fen> "r4rk1/pp3ppp/4bn2/3p4/3N4/4P3/PP3PPP/R4RK1 w - - 0 1" .
 <https://github.com/john1hsu/chess-graph/id/blockade> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/blockade> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/calculation> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/calculation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Technique> .
+<https://github.com/john1hsu/chess-graph/id/calculation> <http://www.w3.org/2000/01/rdf-schema#label> "Calculation" .
+<https://github.com/john1hsu/chess-graph/id/calculation> <http://www.w3.org/2004/02/skos/core#altLabel> "Analysis of variations" .
+<https://github.com/john1hsu/chess-graph/id/calculation> <http://www.w3.org/2004/02/skos/core#altLabel> "Calculating variations" .
+<https://github.com/john1hsu/chess-graph/id/calculation> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess calculation" .
+<https://github.com/john1hsu/chess-graph/id/calculation> <http://www.w3.org/2004/02/skos/core#altLabel> "Tree of analysis" .
+<https://github.com/john1hsu/chess-graph/id/calculation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-expertise> .
+<https://github.com/john1hsu/chess-graph/id/calculation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/calculation> <http://www.w3.org/2004/02/skos/core#definition> "The skill of working out concrete sequences of moves and replies in one's head before moving; Kotov taught it as choosing candidate moves and examining each branch of a \"tree of analysis\", and research since de Groot shows that stronger players search faster, deeper and more selectively." .
+<https://github.com/john1hsu/chess-graph/id/calculation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calculation" .
+<https://github.com/john1hsu/chess-graph/id/calculation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-tactics> .
+<https://github.com/john1hsu/chess-graph/id/calculation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/combination> .
+<https://github.com/john1hsu/chess-graph/id/calculation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/einstellung-effect> .
+<https://github.com/john1hsu/chess-graph/id/calculation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/game-tree-search> .
+<https://github.com/john1hsu/chess-graph/id/calculation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/visualization> .
+<https://github.com/john1hsu/chess-graph/id/calculation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/calculation/s1> .
+<https://github.com/john1hsu/chess-graph/id/calculation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/calculation/s2> .
+<https://github.com/john1hsu/chess-graph/id/calculation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/calculation/s3> .
+<https://github.com/john1hsu/chess-graph/id/calculation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/calculation/s4> .
+<https://github.com/john1hsu/chess-graph/id/calculation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/calculation/s5> .
+<https://github.com/john1hsu/chess-graph/id/calculation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/calculation/s6> .
+<https://github.com/john1hsu/chess-graph/id/calculation> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/alexander-kotov> .
+<https://github.com/john1hsu/chess-graph/id/calculation> <https://github.com/john1hsu/chess-graph/ontology#domain> "training-and-improvement" .
+<https://github.com/john1hsu/chess-graph/id/calculation> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/candidate-moves> .
+<https://github.com/john1hsu/chess-graph/id/calculation> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/progressive-deepening> .
+<https://github.com/john1hsu/chess-graph/id/calculation> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> .
+<https://github.com/john1hsu/chess-graph/id/calculation> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/calculation> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Opening> .
 <https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <http://www.w3.org/2000/01/rdf-schema#label> "Caro-Kann Defence" .
@@ -1386,6 +1415,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/blockade/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/blockade/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/blockade/s6> <https://schema.org/url> "https://en.chessbase.com/post/the-nimzowitsch-precepts-of-positional-che" .
+<https://github.com/john1hsu/chess-graph/id/source/calculation/s1> <http://purl.org/dc/terms/publisher> "Batsford Books" .
+<https://github.com/john1hsu/chess-graph/id/source/calculation/s1> <http://purl.org/dc/terms/title> "Think Like a Grandmaster (A. A. Kotov)" .
+<https://github.com/john1hsu/chess-graph/id/source/calculation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/calculation/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/calculation/s1> <https://schema.org/url> "https://www.batsfordbooks.com/1136192" .
+<https://github.com/john1hsu/chess-graph/id/source/calculation/s2> <http://purl.org/dc/terms/publisher> "Fernand Gobet and Jochen Musch, Brunel University Research Archive" .
+<https://github.com/john1hsu/chess-graph/id/source/calculation/s2> <http://purl.org/dc/terms/title> "Adriaan Dingeman de Groot (1914–2006) — obituary, Psychologische Rundschau" .
+<https://github.com/john1hsu/chess-graph/id/source/calculation/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/calculation/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/calculation/s2> <https://schema.org/url> "https://bura.brunel.ac.uk/bitstream/2438/2617/1/De%20Groot%20Obituary%20-%20%20Psychologische%20Rundschau.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/calculation/s3> <http://purl.org/dc/terms/publisher> "Fernand Gobet, Brunel University Research Archive" .
+<https://github.com/john1hsu/chess-graph/id/source/calculation/s3> <http://purl.org/dc/terms/title> "Chess players' thinking revisited (Swiss Journal of Psychology 57, 1998)" .
+<https://github.com/john1hsu/chess-graph/id/source/calculation/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/calculation/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/calculation/s3> <https://schema.org/url> "https://bura.brunel.ac.uk/bitstream/2438/822/4/1791.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/calculation/s4> <http://purl.org/dc/terms/publisher> "Guillermo Campitelli and Fernand Gobet, Brunel University Research Archive" .
+<https://github.com/john1hsu/chess-graph/id/source/calculation/s4> <http://purl.org/dc/terms/title> "Adaptive expert decision making: Skilled chessplayers search more and deeper (ICGA Journal 27(4), 2004)" .
+<https://github.com/john1hsu/chess-graph/id/source/calculation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/calculation/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/calculation/s4> <https://schema.org/url> "https://bura.brunel.ac.uk/bitstream/2438/825/1/Gobet_Search_ICGA.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/calculation/s5> <http://purl.org/dc/terms/publisher> "Jan Markos (GM), ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/calculation/s5> <http://purl.org/dc/terms/title> "The Winning Academy 15: How to avoid blunders (part 1)" .
+<https://github.com/john1hsu/chess-graph/id/source/calculation/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/calculation/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/calculation/s5> <https://schema.org/url> "https://en.chessbase.com/post/the-winning-academy-15-how-to-avoid-blunders-part-1" .
+<https://github.com/john1hsu/chess-graph/id/source/calculation/s6> <http://purl.org/dc/terms/publisher> "Lichess study" .
+<https://github.com/john1hsu/chess-graph/id/source/calculation/s6> <http://purl.org/dc/terms/title> "Christiansen v Karpov, Hoogovens, Wijk aan Zee 1993 (game score)" .
+<https://github.com/john1hsu/chess-graph/id/source/calculation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/calculation/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/calculation/s6> <https://schema.org/url> "https://lichess.org/study/embed/nkXYPOHc/SSa6JLCz" .
 <https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
 <https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s1> <http://purl.org/dc/terms/title> "The Caro-Kann Defence" .
 <https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

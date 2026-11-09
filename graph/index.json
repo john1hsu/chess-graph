@@ -103,6 +103,31 @@
     ]
   },
   {
+    "id": "kt:calculation",
+    "title": "Calculation",
+    "aliases": [
+      "Calculating variations",
+      "Chess calculation",
+      "Analysis of variations",
+      "Tree of analysis"
+    ],
+    "type": "Technique",
+    "domain": "training-and-improvement",
+    "file": "articles/training-and-improvement/calculation.md",
+    "created": "2026-11-09",
+    "verified": "2026-11-09",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.batsfordbooks.com/1136192",
+      "https://bura.brunel.ac.uk/bitstream/2438/2617/1/De%20Groot%20Obituary%20-%20%20Psychologische%20Rundschau.pdf",
+      "https://bura.brunel.ac.uk/bitstream/2438/822/4/1791.pdf",
+      "https://bura.brunel.ac.uk/bitstream/2438/825/1/Gobet_Search_ICGA.pdf",
+      "https://en.chessbase.com/post/the-winning-academy-15-how-to-avoid-blunders-part-1",
+      "https://lichess.org/study/embed/nkXYPOHc/SSa6JLCz"
+    ]
+  },
+  {
     "id": "kt:caro-kann-defence",
     "title": "Caro-Kann Defence",
     "aliases": [

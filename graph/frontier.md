@@ -4,12 +4,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:calculation` | `kt:chess-tactics`, `kt:combination`, `kt:deliberate-practice`, `kt:einstellung-effect` |
+| `kt:chess-expertise` | `kt:calculation`, `kt:chunking-theory`, `kt:deliberate-practice`, `kt:einstellung-effect` |
 | `kt:chess-strategy` | `kt:blockade`, `kt:material-advantage`, `kt:pawn-structure`, `kt:chess-tactics` |
+| `kt:cognitive-psychology-of-chess` | `kt:calculation`, `kt:chunking-theory`, `kt:deliberate-practice`, `kt:einstellung-effect` |
 | `kt:stalemate` | `kt:chaturanga`, `kt:en-passant`, `kt:fide-laws-of-chess`, `kt:endgame-study` |
 | `kt:chess` | `kt:chaturanga`, `kt:fide-laws-of-chess`, `kt:chess-tactics` |
-| `kt:chess-expertise` | `kt:chunking-theory`, `kt:deliberate-practice`, `kt:einstellung-effect` |
-| `kt:cognitive-psychology-of-chess` | `kt:chunking-theory`, `kt:deliberate-practice`, `kt:einstellung-effect` |
 | `kt:double-check` | `kt:discovered-attack`, `kt:discovered-attack`, `kt:fork` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov` |
 | `kt:hypermodernism` | `kt:blockade`, `kt:aron-nimzowitsch`, `kt:aron-nimzowitsch` |
@@ -21,6 +20,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:siegbert-tarrasch` | `kt:isolated-queens-pawn`, `kt:aron-nimzowitsch`, `kt:emanuel-lasker` |
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:emanuel-lasker`, `kt:wilhelm-steinitz` |
 | `kt:zugzwang` | `kt:opposition`, `kt:opposition`, `kt:chess-problems` |
+| `kt:adriaan-de-groot` | `kt:calculation`, `kt:chunking-theory` |
 | `kt:anatoly-karpov` | `kt:caro-kann-defence`, `kt:ruy-lopez` |
 | `kt:arbiter` | `kt:fide-laws-of-chess`, `kt:touch-move` |
 | `kt:chess-composition` | `kt:chess-problems`, `kt:endgame-study` |
@@ -56,11 +56,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:transposition-table` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:triangulation` | `kt:opposition`, `kt:opposition` |
 | `kt:us-chess` | `kt:elo-rating-system`, `kt:touch-move` |
+| `kt:visualization` | `kt:calculation`, `kt:chunking-theory` |
 | `kt:world-chess-championship-1886` | `kt:world-chess-championship`, `kt:wilhelm-steinitz` |
 | `kt:zwischenzug` | `kt:discovered-attack`, `kt:fork` |
 | `kt:abraham-luchins` | `kt:einstellung-effect` |
 | `kt:adolf-anderssen` | `kt:wilhelm-steinitz` |
-| `kt:adriaan-de-groot` | `kt:chunking-theory` |
+| `kt:alexander-kotov` | `kt:calculation` |
 | `kt:alphazero` | `kt:evaluation-function` |
 | `kt:anders-ericsson` | `kt:deliberate-practice` |
 | `kt:arpad-elo` | `kt:elo-rating-system` |
@@ -70,6 +71,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:berlin-defence` | `kt:ruy-lopez` |
 | `kt:bishop-pair` | `kt:material-advantage` |
 | `kt:bobby-fischer` | `kt:chess960` |
+| `kt:candidate-moves` | `kt:calculation` |
 | `kt:candidates-tournament` | `kt:world-chess-championship` |
 | `kt:carlsbad-1929` | `kt:aron-nimzowitsch` |
 | `kt:carlsbad-structure` | `kt:pawn-structure` |
@@ -116,6 +118,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:passive-rook-defence` | `kt:philidor-position` |
 | `kt:philipp-stamma` | `kt:algebraic-notation` |
 | `kt:piece-values` | `kt:material-advantage` |
+| `kt:progressive-deepening` | `kt:calculation` |
 | `kt:proof-number-search` | `kt:game-tree-search` |
 | `kt:prophylaxis` | `kt:blockade` |
 | `kt:puzzle-training` | `kt:deliberate-practice` |
@@ -141,7 +144,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:tie-break-regulations` | `kt:chess-olympiad` |
 | `kt:underpromotion` | `kt:pawn-promotion` |
 | `kt:universal-chess-interface` | `kt:chess960` |
-| `kt:visualization` | `kt:chunking-theory` |
 | `kt:vladimir-kramnik` | `kt:ruy-lopez` |
 | `kt:weak-squares` | `kt:outpost` |
 | `kt:william-chase` | `kt:chunking-theory` |
