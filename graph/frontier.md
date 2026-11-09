@@ -12,6 +12,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:material-advantage` | `kt:fork`, `kt:pin`, `kt:skewer` |
 | `kt:portable-game-notation` | `kt:algebraic-notation`, `kt:forsyth-edwards-notation`, `kt:forsyth-edwards-notation` |
 | `kt:rook-endgames` | `kt:lucena-position`, `kt:philidor-position`, `kt:skewer` |
+| `kt:stalemate` | `kt:en-passant`, `kt:fide-laws-of-chess`, `kt:endgame-study` |
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:emanuel-lasker`, `kt:wilhelm-steinitz` |
 | `kt:anatoly-karpov` | `kt:caro-kann-defence`, `kt:ruy-lopez` |
 | `kt:arbiter` | `kt:fide-laws-of-chess`, `kt:touch-move` |
@@ -20,6 +21,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cognitive-psychology-of-chess` | `kt:chunking-theory`, `kt:einstellung-effect` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
+| `kt:endgame-tablebases` | `kt:computer-chess`, `kt:endgame-study` |
 | `kt:fifty-move-rule` | `kt:fide-laws-of-chess`, `kt:forsyth-edwards-notation` |
 | `kt:francois-andre-danican-philidor` | `kt:philidor-position`, `kt:pawn-structure` |
 | `kt:grandmaster-title` | `kt:elo-rating-system`, `kt:fide` |
@@ -32,9 +34,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:nnue` | `kt:computer-chess`, `kt:evaluation-function` |
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
+| `kt:saavedra-position` | `kt:pawn-promotion`, `kt:endgame-study` |
 | `kt:siegbert-tarrasch` | `kt:isolated-queens-pawn`, `kt:emanuel-lasker` |
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
-| `kt:stalemate` | `kt:en-passant`, `kt:fide-laws-of-chess` |
 | `kt:template-theory` | `kt:chunking-theory`, `kt:einstellung-effect` |
 | `kt:threefold-repetition` | `kt:en-passant`, `kt:fide-laws-of-chess` |
 | `kt:transposition-table` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
@@ -53,16 +55,18 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:candidates-tournament` | `kt:world-chess-championship` |
 | `kt:carlsbad-structure` | `kt:pawn-structure` |
 | `kt:chess` | `kt:fide-laws-of-chess` |
+| `kt:chess-composition` | `kt:endgame-study` |
 | `kt:chess-olympiad` | `kt:fide` |
 | `kt:chess-organizations` | `kt:fide` |
+| `kt:chess-problems` | `kt:endgame-study` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
 | `kt:chess-strategy` | `kt:pawn-structure` |
 | `kt:chess-variants` | `kt:chess960` |
+| `kt:codex-of-chess-composition` | `kt:endgame-study` |
 | `kt:david-forsyth` | `kt:forsyth-edwards-notation` |
 | `kt:deep-blue` | `kt:deep-blue-versus-kasparov` |
 | `kt:deliberate-practice` | `kt:chunking-theory` |
 | `kt:double-check` | `kt:fork` |
-| `kt:endgame-tablebases` | `kt:computer-chess` |
 | `kt:european-chess-union` | `kt:fide` |
 | `kt:extended-position-description` | `kt:forsyth-edwards-notation` |
 | `kt:fide-world-fischer-random-chess-championship` | `kt:chess960` |
@@ -102,7 +106,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:queens-gambit-accepted` | `kt:isolated-queens-pawn` |
 | `kt:remi-coulom` | `kt:monte-carlo-tree-search` |
 | `kt:ruy-lopez-de-segura` | `kt:ruy-lopez` |
-| `kt:saavedra-position` | `kt:pawn-promotion` |
 | `kt:semi-open-games` | `kt:caro-kann-defence` |
 | `kt:shuffle-chess` | `kt:chess960` |
 | `kt:sicilian-defence` | `kt:caro-kann-defence` |

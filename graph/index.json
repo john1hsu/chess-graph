@@ -331,6 +331,32 @@
     ]
   },
   {
+    "id": "kt:endgame-study",
+    "title": "Endgame study",
+    "aliases": [
+      "Chess study",
+      "Study",
+      "Endgame studies",
+      "Composed study",
+      "Etude"
+    ],
+    "type": "ProblemGenre",
+    "domain": "variants-and-compositions",
+    "file": "articles/variants-and-compositions/endgame-study.md",
+    "created": "2026-11-09",
+    "verified": "2026-11-09",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://www.britannica.com/topic/chess/Chess-composition",
+      "https://www.wfcc.ch/?p=198",
+      "https://people.math.harvard.edu/~elkies/FS23j.06/glossary_chess.html",
+      "https://timkr.home.xs4all.nl/chess/saavedra.htm",
+      "https://www.chessscotland.com/documents/history/biographies/saavedra.htm",
+      "https://en.chessbase.com/post/study-of-the-month-2019-8"
+    ]
+  },
+  {
     "id": "kt:evaluation-function",
     "title": "Evaluation function",
     "aliases": [

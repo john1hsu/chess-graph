@@ -365,6 +365,33 @@
 <https://github.com/john1hsu/chess-graph/id/en-passant> <https://github.com/john1hsu/chess-graph/ontology#moves> "1.e4 e6 2.e5 d5 3.exd6" .
 <https://github.com/john1hsu/chess-graph/id/en-passant> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/en-passant> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/endgame-study> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/endgame-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#ProblemGenre> .
+<https://github.com/john1hsu/chess-graph/id/endgame-study> <http://www.w3.org/2000/01/rdf-schema#label> "Endgame study" .
+<https://github.com/john1hsu/chess-graph/id/endgame-study> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess study" .
+<https://github.com/john1hsu/chess-graph/id/endgame-study> <http://www.w3.org/2004/02/skos/core#altLabel> "Composed study" .
+<https://github.com/john1hsu/chess-graph/id/endgame-study> <http://www.w3.org/2004/02/skos/core#altLabel> "Endgame studies" .
+<https://github.com/john1hsu/chess-graph/id/endgame-study> <http://www.w3.org/2004/02/skos/core#altLabel> "Etude" .
+<https://github.com/john1hsu/chess-graph/id/endgame-study> <http://www.w3.org/2004/02/skos/core#altLabel> "Study" .
+<https://github.com/john1hsu/chess-graph/id/endgame-study> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-composition> .
+<https://github.com/john1hsu/chess-graph/id/endgame-study> <http://www.w3.org/2004/02/skos/core#definition> "A composed chess position, usually with few pieces and resembling a game ending, in which White must force a win or a draw against best defence with no limit on the number of moves; the solution must be unique in its essential line." .
+<https://github.com/john1hsu/chess-graph/id/endgame-study> <http://www.w3.org/2004/02/skos/core#prefLabel> "Endgame study" .
+<https://github.com/john1hsu/chess-graph/id/endgame-study> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-problems> .
+<https://github.com/john1hsu/chess-graph/id/endgame-study> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/endgame-tablebases> .
+<https://github.com/john1hsu/chess-graph/id/endgame-study> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/pawn-promotion> .
+<https://github.com/john1hsu/chess-graph/id/endgame-study> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/stalemate> .
+<https://github.com/john1hsu/chess-graph/id/endgame-study> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/endgame-study/s1> .
+<https://github.com/john1hsu/chess-graph/id/endgame-study> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/endgame-study/s2> .
+<https://github.com/john1hsu/chess-graph/id/endgame-study> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/endgame-study/s3> .
+<https://github.com/john1hsu/chess-graph/id/endgame-study> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/endgame-study/s4> .
+<https://github.com/john1hsu/chess-graph/id/endgame-study> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/endgame-study/s5> .
+<https://github.com/john1hsu/chess-graph/id/endgame-study> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/endgame-study/s6> .
+<https://github.com/john1hsu/chess-graph/id/endgame-study> <https://github.com/john1hsu/chess-graph/ontology#domain> "variants-and-compositions" .
+<https://github.com/john1hsu/chess-graph/id/endgame-study> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/saavedra-position> .
+<https://github.com/john1hsu/chess-graph/id/endgame-study> <https://github.com/john1hsu/chess-graph/ontology#fen> "8/8/1KP5/3r4/8/8/8/k7 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/endgame-study> <https://github.com/john1hsu/chess-graph/ontology#governedBy> <https://github.com/john1hsu/chess-graph/id/codex-of-chess-composition> .
+<https://github.com/john1hsu/chess-graph/id/endgame-study> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/endgame-study> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/evaluation-function> <http://purl.org/dc/terms/created> "2026-11-07" .
 <https://github.com/john1hsu/chess-graph/id/evaluation-function> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Algorithm> .
 <https://github.com/john1hsu/chess-graph/id/evaluation-function> <http://www.w3.org/2000/01/rdf-schema#label> "Evaluation function" .
@@ -1245,6 +1272,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/en-passant/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/en-passant/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/en-passant/s6> <https://schema.org/url> "https://chessprogramming.org/Forsyth-Edwards_Notation" .
+<https://github.com/john1hsu/chess-graph/id/source/endgame-study/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/endgame-study/s1> <http://purl.org/dc/terms/title> "Chess: Chess composition" .
+<https://github.com/john1hsu/chess-graph/id/source/endgame-study/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/endgame-study/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/endgame-study/s1> <https://schema.org/url> "https://www.britannica.com/topic/chess/Chess-composition" .
+<https://github.com/john1hsu/chess-graph/id/source/endgame-study/s2> <http://purl.org/dc/terms/publisher> "World Federation for Chess Composition (WFCC)" .
+<https://github.com/john1hsu/chess-graph/id/source/endgame-study/s2> <http://purl.org/dc/terms/title> "Codex of Chess Compositions (version Vilnius 2019)" .
+<https://github.com/john1hsu/chess-graph/id/source/endgame-study/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/endgame-study/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/endgame-study/s2> <https://schema.org/url> "https://www.wfcc.ch/?p=198" .
+<https://github.com/john1hsu/chess-graph/id/source/endgame-study/s3> <http://purl.org/dc/terms/publisher> "Harvard University, Department of Mathematics" .
+<https://github.com/john1hsu/chess-graph/id/source/endgame-study/s3> <http://purl.org/dc/terms/title> "Chess glossary (Freshman Seminar 23j: Chess and Mathematics)" .
+<https://github.com/john1hsu/chess-graph/id/source/endgame-study/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/endgame-study/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/endgame-study/s3> <https://schema.org/url> "https://people.math.harvard.edu/~elkies/FS23j.06/glossary_chess.html" .
+<https://github.com/john1hsu/chess-graph/id/source/endgame-study/s4> <http://purl.org/dc/terms/publisher> "Tim Krabbé, Chess Curiosities" .
+<https://github.com/john1hsu/chess-graph/id/source/endgame-study/s4> <http://purl.org/dc/terms/title> "The discovery of the Saavedra position, with the original 1895 Weekly Citizen columns" .
+<https://github.com/john1hsu/chess-graph/id/source/endgame-study/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/endgame-study/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/endgame-study/s4> <https://schema.org/url> "https://timkr.home.xs4all.nl/chess/saavedra.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/endgame-study/s5> <http://purl.org/dc/terms/publisher> "Chess Scotland, history biographies" .
+<https://github.com/john1hsu/chess-graph/id/source/endgame-study/s5> <http://purl.org/dc/terms/title> "Fernando Saavedra" .
+<https://github.com/john1hsu/chess-graph/id/source/endgame-study/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/endgame-study/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/endgame-study/s5> <https://schema.org/url> "https://www.chessscotland.com/documents/history/biographies/saavedra.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/endgame-study/s6> <http://purl.org/dc/terms/publisher> "Siegfried Hornecker, ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/endgame-study/s6> <http://purl.org/dc/terms/title> "Understanding chess composition competition (Study of the Month, August 2019)" .
+<https://github.com/john1hsu/chess-graph/id/source/endgame-study/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/endgame-study/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/endgame-study/s6> <https://schema.org/url> "https://en.chessbase.com/post/study-of-the-month-2019-8" .
 <https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s1> <http://purl.org/dc/terms/publisher> "Claude E. Shannon, reproduced by Fermat's Library" .
 <https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s1> <http://purl.org/dc/terms/title> "Programming a Computer for Playing Chess (Philosophical Magazine, 1950), full text" .
 <https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

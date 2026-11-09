@@ -3190,6 +3190,93 @@
           "@id": "kt:shuffle-chess"
         }
       ]
+    },
+    {
+      "@id": "kt:endgame-study",
+      "@type": "kto:ProblemGenre",
+      "skos:prefLabel": "Endgame study",
+      "skos:definition": "A composed chess position, usually with few pieces and resembling a game ending, in which White must force a win or a draw against best defence with no limit on the number of moves; the solution must be unique in its essential line.",
+      "kto:domain": "variants-and-compositions",
+      "dcterms:created": "2026-11-09",
+      "kto:verified": "2026-11-09",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Chess: Chess composition",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/chess/Chess-composition",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Codex of Chess Compositions (version Vilnius 2019)",
+          "dcterms:publisher": "World Federation for Chess Composition (WFCC)",
+          "schema:url": "https://www.wfcc.ch/?p=198",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Chess glossary (Freshman Seminar 23j: Chess and Mathematics)",
+          "dcterms:publisher": "Harvard University, Department of Mathematics",
+          "schema:url": "https://people.math.harvard.edu/~elkies/FS23j.06/glossary_chess.html",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The discovery of the Saavedra position, with the original 1895 Weekly Citizen columns",
+          "dcterms:publisher": "Tim Krabbé, Chess Curiosities",
+          "schema:url": "https://timkr.home.xs4all.nl/chess/saavedra.htm",
+          "kto:sourceType": "primary-record"
+        },
+        {
+          "dcterms:title": "Fernando Saavedra",
+          "dcterms:publisher": "Chess Scotland, history biographies",
+          "schema:url": "https://www.chessscotland.com/documents/history/biographies/saavedra.htm",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Understanding chess composition competition (Study of the Month, August 2019)",
+          "dcterms:publisher": "Siegfried Hornecker, ChessBase News",
+          "schema:url": "https://en.chessbase.com/post/study-of-the-month-2019-8",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/variants-and-compositions/endgame-study.md",
+      "skos:altLabel": [
+        "Chess study",
+        "Study",
+        "Endgame studies",
+        "Composed study",
+        "Etude"
+      ],
+      "kto:fen": "8/8/1KP5/3r4/8/8/8/k7 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-composition"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:chess-problems"
+        },
+        {
+          "@id": "kt:endgame-tablebases"
+        },
+        {
+          "@id": "kt:pawn-promotion"
+        },
+        {
+          "@id": "kt:stalemate"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:saavedra-position"
+        }
+      ],
+      "kto:governedBy": [
+        {
+          "@id": "kt:codex-of-chess-composition"
+        }
+      ]
     }
   ]
 }
