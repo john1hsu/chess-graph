@@ -2742,6 +2742,95 @@
       ]
     },
     {
+      "@id": "kt:pin",
+      "@type": "kto:TacticalMotif",
+      "skos:prefLabel": "Pin",
+      "skos:definition": "A tactic in which a bishop, rook or queen attacks an enemy piece that cannot move off the line without exposing a more valuable piece, usually the king or queen, standing behind it.",
+      "kto:domain": "tactics",
+      "dcterms:created": "2026-11-09",
+      "kto:verified": "2026-11-09",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Pin (Chess Skills leaflet)",
+          "dcterms:publisher": "English Chess Federation",
+          "schema:url": "https://www.englishchess.org.uk/wp-content/uploads/2010/01/pin.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "The Chess Pin",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://www.chesshistory.com/winter/extra/pin.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Simple Relative Pins (Predator at the Chessboard)",
+          "dcterms:publisher": "Ward Farnsworth, chesstactics.org",
+          "schema:url": "https://www.chesstactics.org/the-pin-and-the-skewer/the-relative-pin/simple-relative-pins/4_4_1_1.html",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Tactics by Paul Littlewood – The Pin",
+          "dcterms:publisher": "English Chess Federation (ChessMoves, via Chess.com)",
+          "schema:url": "https://www.chess.com/blog/EnglishChessFederati/tactics-by-paul-littlewood-the-pin",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Pin (Chess Terms)",
+          "dcterms:publisher": "Chess.com",
+          "schema:url": "https://www.chess.com/terms/pin-chess",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/tactics/pin.md",
+      "skos:altLabel": [
+        "Absolute pin",
+        "Relative pin",
+        "Pinned piece",
+        "Cross pin",
+        "Half-pin"
+      ],
+      "kto:fen": "4k3/pp3ppp/2n5/1B6/3P4/8/PPP2PPP/4K3 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-tactics"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:skewer"
+        },
+        {
+          "@id": "kt:fork"
+        },
+        {
+          "@id": "kt:discovered-attack"
+        },
+        {
+          "@id": "kt:combination"
+        },
+        {
+          "@id": "kt:aron-nimzowitsch"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:skewer"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:material-advantage"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:aron-nimzowitsch"
+        }
+      ]
+    },
+    {
       "@id": "kt:skewer",
       "@type": "kto:TacticalMotif",
       "skos:prefLabel": "Skewer",

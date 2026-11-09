@@ -4,8 +4,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
+| `kt:aron-nimzowitsch` | `kt:outpost`, `kt:pin`, `kt:pin` |
+| `kt:chess-tactics` | `kt:fork`, `kt:pin`, `kt:skewer` |
+| `kt:combination` | `kt:fork`, `kt:pin`, `kt:skewer` |
+| `kt:discovered-attack` | `kt:fork`, `kt:pin`, `kt:skewer` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov` |
-| `kt:pin` | `kt:fork`, `kt:skewer`, `kt:skewer` |
+| `kt:material-advantage` | `kt:fork`, `kt:pin`, `kt:skewer` |
 | `kt:portable-game-notation` | `kt:algebraic-notation`, `kt:forsyth-edwards-notation`, `kt:forsyth-edwards-notation` |
 | `kt:rook-endgames` | `kt:lucena-position`, `kt:philidor-position`, `kt:skewer` |
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:emanuel-lasker`, `kt:wilhelm-steinitz` |
@@ -13,12 +17,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:arbiter` | `kt:fide-laws-of-chess`, `kt:touch-move` |
 | `kt:blockade` | `kt:isolated-queens-pawn`, `kt:outpost` |
 | `kt:chess-expertise` | `kt:chunking-theory`, `kt:einstellung-effect` |
-| `kt:chess-tactics` | `kt:fork`, `kt:skewer` |
 | `kt:cognitive-psychology-of-chess` | `kt:chunking-theory`, `kt:einstellung-effect` |
-| `kt:combination` | `kt:fork`, `kt:skewer` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
-| `kt:discovered-attack` | `kt:fork`, `kt:skewer` |
 | `kt:fifty-move-rule` | `kt:fide-laws-of-chess`, `kt:forsyth-edwards-notation` |
 | `kt:francois-andre-danican-philidor` | `kt:philidor-position`, `kt:pawn-structure` |
 | `kt:grandmaster-title` | `kt:elo-rating-system`, `kt:fide` |
@@ -27,7 +28,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:king-and-pawn-endgames` | `kt:lucena-position`, `kt:philidor-position` |
 | `kt:leela-chess-zero` | `kt:computer-chess`, `kt:monte-carlo-tree-search` |
-| `kt:material-advantage` | `kt:fork`, `kt:skewer` |
 | `kt:move-ordering` | `kt:alpha-beta-pruning`, `kt:quiescence-search` |
 | `kt:nnue` | `kt:computer-chess`, `kt:evaluation-function` |
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
@@ -44,7 +44,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:adolf-anderssen` | `kt:wilhelm-steinitz` |
 | `kt:adriaan-de-groot` | `kt:chunking-theory` |
 | `kt:alphazero` | `kt:evaluation-function` |
-| `kt:aron-nimzowitsch` | `kt:outpost` |
 | `kt:arpad-elo` | `kt:elo-rating-system` |
 | `kt:artificial-intelligence` | `kt:computer-chess` |
 | `kt:backward-pawn` | `kt:outpost` |

@@ -708,6 +708,31 @@
     ]
   },
   {
+    "id": "kt:pin",
+    "title": "Pin",
+    "aliases": [
+      "Absolute pin",
+      "Relative pin",
+      "Pinned piece",
+      "Cross pin",
+      "Half-pin"
+    ],
+    "type": "TacticalMotif",
+    "domain": "tactics",
+    "file": "articles/tactics/pin.md",
+    "created": "2026-11-09",
+    "verified": "2026-11-09",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.englishchess.org.uk/wp-content/uploads/2010/01/pin.pdf",
+      "https://www.chesshistory.com/winter/extra/pin.html",
+      "https://www.chesstactics.org/the-pin-and-the-skewer/the-relative-pin/simple-relative-pins/4_4_1_1.html",
+      "https://www.chess.com/blog/EnglishChessFederati/tactics-by-paul-littlewood-the-pin",
+      "https://www.chess.com/terms/pin-chess"
+    ]
+  },
+  {
     "id": "kt:quiescence-search",
     "title": "Quiescence search",
     "aliases": [

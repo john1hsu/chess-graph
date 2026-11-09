@@ -783,6 +783,34 @@
 <https://github.com/john1hsu/chess-graph/id/philidor-position> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/philidor-position> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> .
 <https://github.com/john1hsu/chess-graph/id/philidor-position> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/pin> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/pin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TacticalMotif> .
+<https://github.com/john1hsu/chess-graph/id/pin> <http://www.w3.org/2000/01/rdf-schema#label> "Pin" .
+<https://github.com/john1hsu/chess-graph/id/pin> <http://www.w3.org/2004/02/skos/core#altLabel> "Absolute pin" .
+<https://github.com/john1hsu/chess-graph/id/pin> <http://www.w3.org/2004/02/skos/core#altLabel> "Cross pin" .
+<https://github.com/john1hsu/chess-graph/id/pin> <http://www.w3.org/2004/02/skos/core#altLabel> "Half-pin" .
+<https://github.com/john1hsu/chess-graph/id/pin> <http://www.w3.org/2004/02/skos/core#altLabel> "Pinned piece" .
+<https://github.com/john1hsu/chess-graph/id/pin> <http://www.w3.org/2004/02/skos/core#altLabel> "Relative pin" .
+<https://github.com/john1hsu/chess-graph/id/pin> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-tactics> .
+<https://github.com/john1hsu/chess-graph/id/pin> <http://www.w3.org/2004/02/skos/core#definition> "A tactic in which a bishop, rook or queen attacks an enemy piece that cannot move off the line without exposing a more valuable piece, usually the king or queen, standing behind it." .
+<https://github.com/john1hsu/chess-graph/id/pin> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pin" .
+<https://github.com/john1hsu/chess-graph/id/pin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> .
+<https://github.com/john1hsu/chess-graph/id/pin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/combination> .
+<https://github.com/john1hsu/chess-graph/id/pin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/discovered-attack> .
+<https://github.com/john1hsu/chess-graph/id/pin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fork> .
+<https://github.com/john1hsu/chess-graph/id/pin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/skewer> .
+<https://github.com/john1hsu/chess-graph/id/pin> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/pin/s1> .
+<https://github.com/john1hsu/chess-graph/id/pin> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/pin/s2> .
+<https://github.com/john1hsu/chess-graph/id/pin> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/pin/s3> .
+<https://github.com/john1hsu/chess-graph/id/pin> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/pin/s4> .
+<https://github.com/john1hsu/chess-graph/id/pin> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/pin/s5> .
+<https://github.com/john1hsu/chess-graph/id/pin> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/skewer> .
+<https://github.com/john1hsu/chess-graph/id/pin> <https://github.com/john1hsu/chess-graph/ontology#domain> "tactics" .
+<https://github.com/john1hsu/chess-graph/id/pin> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/material-advantage> .
+<https://github.com/john1hsu/chess-graph/id/pin> <https://github.com/john1hsu/chess-graph/ontology#fen> "4k3/pp3ppp/2n5/1B6/3P4/8/PPP2PPP/4K3 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/pin> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> .
+<https://github.com/john1hsu/chess-graph/id/pin> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/pin> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/quiescence-search> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/quiescence-search> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Algorithm> .
 <https://github.com/john1hsu/chess-graph/id/quiescence-search> <http://www.w3.org/2000/01/rdf-schema#label> "Quiescence search" .
@@ -1632,6 +1660,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/philidor-position/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/philidor-position/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/philidor-position/s6> <https://schema.org/url> "https://en.chessbase.com/post/philidor-s-l-analyze-des-echecs" .
+<https://github.com/john1hsu/chess-graph/id/source/pin/s1> <http://purl.org/dc/terms/publisher> "English Chess Federation" .
+<https://github.com/john1hsu/chess-graph/id/source/pin/s1> <http://purl.org/dc/terms/title> "The Pin (Chess Skills leaflet)" .
+<https://github.com/john1hsu/chess-graph/id/source/pin/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/pin/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/pin/s1> <https://schema.org/url> "https://www.englishchess.org.uk/wp-content/uploads/2010/01/pin.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/pin/s2> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/pin/s2> <http://purl.org/dc/terms/title> "The Chess Pin" .
+<https://github.com/john1hsu/chess-graph/id/source/pin/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/pin/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/pin/s2> <https://schema.org/url> "https://www.chesshistory.com/winter/extra/pin.html" .
+<https://github.com/john1hsu/chess-graph/id/source/pin/s3> <http://purl.org/dc/terms/publisher> "Ward Farnsworth, chesstactics.org" .
+<https://github.com/john1hsu/chess-graph/id/source/pin/s3> <http://purl.org/dc/terms/title> "Simple Relative Pins (Predator at the Chessboard)" .
+<https://github.com/john1hsu/chess-graph/id/source/pin/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/pin/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/pin/s3> <https://schema.org/url> "https://www.chesstactics.org/the-pin-and-the-skewer/the-relative-pin/simple-relative-pins/4_4_1_1.html" .
+<https://github.com/john1hsu/chess-graph/id/source/pin/s4> <http://purl.org/dc/terms/publisher> "English Chess Federation (ChessMoves, via Chess.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/pin/s4> <http://purl.org/dc/terms/title> "Tactics by Paul Littlewood – The Pin" .
+<https://github.com/john1hsu/chess-graph/id/source/pin/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/pin/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/pin/s4> <https://schema.org/url> "https://www.chess.com/blog/EnglishChessFederati/tactics-by-paul-littlewood-the-pin" .
+<https://github.com/john1hsu/chess-graph/id/source/pin/s5> <http://purl.org/dc/terms/publisher> "Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/pin/s5> <http://purl.org/dc/terms/title> "Pin (Chess Terms)" .
+<https://github.com/john1hsu/chess-graph/id/source/pin/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/pin/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/pin/s5> <https://schema.org/url> "https://www.chess.com/terms/pin-chess" .
 <https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s1> <http://purl.org/dc/terms/publisher> "Claude E. Shannon, reproduced by Fermat's Library" .
 <https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s1> <http://purl.org/dc/terms/title> "Programming a Computer for Playing Chess (Philosophical Magazine, 1950), full text" .
 <https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
