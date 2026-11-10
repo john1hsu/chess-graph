@@ -1,3 +1,29 @@
+<https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Person> .
+<https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> <http://www.w3.org/2000/01/rdf-schema#label> "Adriaan de Groot" .
+<https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> <http://www.w3.org/2004/02/skos/core#altLabel> "A. D. de Groot" .
+<https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> <http://www.w3.org/2004/02/skos/core#altLabel> "Adriaan D. de Groot" .
+<https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> <http://www.w3.org/2004/02/skos/core#altLabel> "Adriaan Dingeman de Groot" .
+<https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> <http://www.w3.org/2004/02/skos/core#altLabel> "Adrianus Dingeman de Groot" .
+<https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> <http://www.w3.org/2004/02/skos/core#definition> "Dutch psychologist and chess master (1914–2006) who represented the Netherlands at two Chess Olympiads and whose 1946 thesis, translated as Thought and Choice in Chess, founded the experimental study of how chess players think, search and remember positions." .
+<https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> <http://www.w3.org/2004/02/skos/core#prefLabel> "Adriaan de Groot" .
+<https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/calculation> .
+<https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-expertise> .
+<https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chunking-theory> .
+<https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/herbert-simon> .
+<https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/template-theory> .
+<https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s1> .
+<https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s2> .
+<https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s3> .
+<https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s4> .
+<https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s5> .
+<https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s6> .
+<https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> <https://github.com/john1hsu/chess-graph/ontology#domain> "training-and-improvement" .
+<https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/otto-selz> .
+<https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/chess-olympiad> .
+<https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/algebraic-notation> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/algebraic-notation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Notation> .
 <https://github.com/john1hsu/chess-graph/id/algebraic-notation> <http://www.w3.org/2000/01/rdf-schema#label> "Algebraic notation" .
@@ -1493,6 +1519,36 @@
 <https://github.com/john1hsu/chess-graph/id/skewer> <https://github.com/john1hsu/chess-graph/ontology#fen> "8/2k4r/8/8/8/8/6K1/R7 w - - 0 1" .
 <https://github.com/john1hsu/chess-graph/id/skewer> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/skewer> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s1> <http://purl.org/dc/terms/publisher> "Fernand Gobet and Jörg Musch, Brunel University Research Archive" .
+<https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s1> <http://purl.org/dc/terms/title> "Adriaan Dingeman de Groot (1914–2006) — obituary, Psychologische Rundschau" .
+<https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s1> <https://schema.org/url> "https://bura.brunel.ac.uk/bitstream/2438/2617/1/De%20Groot%20Obituary%20-%20%20Psychologische%20Rundschau.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s2> <http://purl.org/dc/terms/publisher> "Fernand Gobet, Brunel University Research Archive" .
+<https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s2> <http://purl.org/dc/terms/title> "Chess players' thinking revisited (Swiss Journal of Psychology 57, 1998)" .
+<https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s2> <https://schema.org/url> "https://bura.brunel.ac.uk/bitstream/2438/822/4/1791.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s3> <http://purl.org/dc/terms/publisher> "University of Amsterdam, Album Academicum" .
+<https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s3> <http://purl.org/dc/terms/title> "prof. dr. A.D. de Groot, 1914 - 2006" .
+<https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s3> <https://schema.org/url> "https://albumacademicum.uva.nl/en/id/id002135" .
+<https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s4> <http://purl.org/dc/terms/publisher> "Vittorio Busato, APS Observer (Association for Psychological Science)" .
+<https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s4> <http://purl.org/dc/terms/title> "In Memoriam: Adriaan Dingeman de Groot (1914 – 2006)" .
+<https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s4> <https://schema.org/url> "https://www.psychologicalscience.org/observer/in-memoriam-adriaan-dingeman-de-groot-1914-2006" .
+<https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s5> <http://purl.org/dc/terms/publisher> "OlimpBase" .
+<https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s5> <http://purl.org/dc/terms/title> "De Groot, Adrianus — Olympiad record" .
+<https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s5> <https://schema.org/url> "https://olimpbase.org/players/3rd1lz3i.html" .
+<https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s6> <http://purl.org/dc/terms/publisher> "Chess History & Literature Society (KWA BC)" .
+<https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s6> <http://purl.org/dc/terms/title> "Adrianus Dingeman de Groot 1914 - 2006: Chess player and chess psychologist" .
+<https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s6> <https://schema.org/url> "https://kwabc.org/en/newsitem/adrianus-dingeman-de-groot-1914-2006-chess-player-and-chess-psychologist.html" .
 <https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
 <https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s1> <http://purl.org/dc/terms/title> "Appendix C. Algebraic Notation (FIDE Laws of Chess)" .
 <https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

@@ -4417,6 +4417,94 @@
       ]
     },
     {
+      "@id": "kt:adriaan-de-groot",
+      "@type": "kto:Person",
+      "skos:prefLabel": "Adriaan de Groot",
+      "skos:definition": "Dutch psychologist and chess master (1914–2006) who represented the Netherlands at two Chess Olympiads and whose 1946 thesis, translated as Thought and Choice in Chess, founded the experimental study of how chess players think, search and remember positions.",
+      "kto:domain": "training-and-improvement",
+      "dcterms:created": "2026-11-10",
+      "kto:verified": "2026-11-10",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Adriaan Dingeman de Groot (1914–2006) — obituary, Psychologische Rundschau",
+          "dcterms:publisher": "Fernand Gobet and Jörg Musch, Brunel University Research Archive",
+          "schema:url": "https://bura.brunel.ac.uk/bitstream/2438/2617/1/De%20Groot%20Obituary%20-%20%20Psychologische%20Rundschau.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Chess players' thinking revisited (Swiss Journal of Psychology 57, 1998)",
+          "dcterms:publisher": "Fernand Gobet, Brunel University Research Archive",
+          "schema:url": "https://bura.brunel.ac.uk/bitstream/2438/822/4/1791.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "prof. dr. A.D. de Groot, 1914 - 2006",
+          "dcterms:publisher": "University of Amsterdam, Album Academicum",
+          "schema:url": "https://albumacademicum.uva.nl/en/id/id002135",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "In Memoriam: Adriaan Dingeman de Groot (1914 – 2006)",
+          "dcterms:publisher": "Vittorio Busato, APS Observer (Association for Psychological Science)",
+          "schema:url": "https://www.psychologicalscience.org/observer/in-memoriam-adriaan-dingeman-de-groot-1914-2006",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "De Groot, Adrianus — Olympiad record",
+          "dcterms:publisher": "OlimpBase",
+          "schema:url": "https://olimpbase.org/players/3rd1lz3i.html",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "Adrianus Dingeman de Groot 1914 - 2006: Chess player and chess psychologist",
+          "dcterms:publisher": "Chess History & Literature Society (KWA BC)",
+          "schema:url": "https://kwabc.org/en/newsitem/adrianus-dingeman-de-groot-1914-2006-chess-player-and-chess-psychologist.html",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/training-and-improvement/adriaan-de-groot.md",
+      "skos:altLabel": [
+        "Adriaan Dingeman de Groot",
+        "Adrianus Dingeman de Groot",
+        "A. D. de Groot",
+        "Adriaan D. de Groot"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:cognitive-psychology-of-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:chess-expertise"
+        },
+        {
+          "@id": "kt:chunking-theory"
+        },
+        {
+          "@id": "kt:calculation"
+        },
+        {
+          "@id": "kt:herbert-simon"
+        },
+        {
+          "@id": "kt:template-theory"
+        }
+      ],
+      "kto:playedIn": [
+        {
+          "@id": "kt:chess-olympiad"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:otto-selz"
+        }
+      ]
+    },
+    {
       "@id": "kt:calculation",
       "@type": "kto:Technique",
       "skos:prefLabel": "Calculation",

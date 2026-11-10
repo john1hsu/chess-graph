@@ -1,5 +1,30 @@
 [
   {
+    "id": "kt:adriaan-de-groot",
+    "title": "Adriaan de Groot",
+    "aliases": [
+      "Adriaan Dingeman de Groot",
+      "Adrianus Dingeman de Groot",
+      "A. D. de Groot",
+      "Adriaan D. de Groot"
+    ],
+    "type": "Person",
+    "domain": "training-and-improvement",
+    "file": "articles/training-and-improvement/adriaan-de-groot.md",
+    "created": "2026-11-10",
+    "verified": "2026-11-10",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://bura.brunel.ac.uk/bitstream/2438/2617/1/De%20Groot%20Obituary%20-%20%20Psychologische%20Rundschau.pdf",
+      "https://bura.brunel.ac.uk/bitstream/2438/822/4/1791.pdf",
+      "https://albumacademicum.uva.nl/en/id/id002135",
+      "https://www.psychologicalscience.org/observer/in-memoriam-adriaan-dingeman-de-groot-1914-2006",
+      "https://olimpbase.org/players/3rd1lz3i.html",
+      "https://kwabc.org/en/newsitem/adrianus-dingeman-de-groot-1914-2006-chess-player-and-chess-psychologist.html"
+    ]
+  },
+  {
     "id": "kt:algebraic-notation",
     "title": "Algebraic notation",
     "aliases": [
