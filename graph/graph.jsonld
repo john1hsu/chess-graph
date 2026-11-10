@@ -1634,6 +1634,104 @@
       ]
     },
     {
+      "@id": "kt:candidates-tournament",
+      "@type": "kto:Event",
+      "skos:prefLabel": "Candidates Tournament",
+      "skos:definition": "The FIDE qualifying event whose winner earns the right to challenge the reigning world champion; first held in Budapest in 1950, run as knockout matches from 1965, and since 2013 an eight-player double round robin of 14 rounds, with a parallel Women's Candidates for the women's title.",
+      "kto:domain": "events-and-organizations",
+      "dcterms:created": "2026-11-10",
+      "kto:verified": "2026-11-10",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Regulations for the FIDE Candidates Tournament 2026",
+          "dcterms:publisher": "FIDE Handbook",
+          "schema:url": "https://handbook.fide.com/files/handbook/Regulations_for_the_FIDE_Candidates_Tournament_2026.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "History of the Candidates: From Budapest (1950) to Cyprus (2026)",
+          "dcterms:publisher": "FIDE (fide.com news, 3 February 2026)",
+          "schema:url": "https://www.fide.com/?p=43388",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Sindarov storms to Candidates victory",
+          "dcterms:publisher": "FIDE (fide.com news, 14 April 2026)",
+          "schema:url": "https://www.fide.com/sindarov-storms-to-candidates-victory-womens-title-hangs-in-the-balance/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Vaishali conquers Women's Candidates to set up world title showdown against Ju Wenjun",
+          "dcterms:publisher": "FIDE (fide.com news, 15 April 2026)",
+          "schema:url": "https://www.fide.com/vaishali-conquers-womens-candidates-to-set-up-world-title-showdown-against-ju-wenjun/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Candidates R14: Sindarov achieves record-breaking score, Giri and Caruana grab wins",
+          "dcterms:publisher": "ChessBase News (Carlos Alberto Colodro, 16 April 2026)",
+          "schema:url": "https://en.chessbase.com/post/candidates-tournament-2026-o-14",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Sindarov, Vaishali Triumph: 7 FIDE Candidates Conclusions",
+          "dcterms:publisher": "Chess.com News (Colin McGourty, April 2026)",
+          "schema:url": "https://www.chess.com/news/view/sindarov-vaishali-win-7-fide-candidates-2026-conclusions",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/events-and-organizations/candidates-tournament.md",
+      "skos:altLabel": [
+        "FIDE Candidates Tournament",
+        "Candidates",
+        "FIDE Candidates",
+        "Candidates Matches"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:world-chess-championship"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:fide"
+        },
+        {
+          "@id": "kt:gukesh-dommaraju"
+        },
+        {
+          "@id": "kt:bobby-fischer"
+        },
+        {
+          "@id": "kt:anatoly-karpov"
+        },
+        {
+          "@id": "kt:womens-world-chess-championship"
+        }
+      ],
+      "kto:sanctionedBy": [
+        {
+          "@id": "kt:fide"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:world-chess-championship"
+        }
+      ],
+      "kto:governedBy": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        }
+      ],
+      "kto:wonBy": [
+        {
+          "@id": "kt:javokhir-sindarov"
+        }
+      ]
+    },
+    {
       "@id": "kt:chess-olympiad",
       "@type": "kto:Event",
       "skos:prefLabel": "Chess Olympiad",

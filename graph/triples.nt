@@ -232,6 +232,34 @@
 <https://github.com/john1hsu/chess-graph/id/calculation> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> .
 <https://github.com/john1hsu/chess-graph/id/calculation> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/calculation> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/candidates-tournament> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/candidates-tournament> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Event> .
+<https://github.com/john1hsu/chess-graph/id/candidates-tournament> <http://www.w3.org/2000/01/rdf-schema#label> "Candidates Tournament" .
+<https://github.com/john1hsu/chess-graph/id/candidates-tournament> <http://www.w3.org/2004/02/skos/core#altLabel> "Candidates Matches" .
+<https://github.com/john1hsu/chess-graph/id/candidates-tournament> <http://www.w3.org/2004/02/skos/core#altLabel> "Candidates" .
+<https://github.com/john1hsu/chess-graph/id/candidates-tournament> <http://www.w3.org/2004/02/skos/core#altLabel> "FIDE Candidates Tournament" .
+<https://github.com/john1hsu/chess-graph/id/candidates-tournament> <http://www.w3.org/2004/02/skos/core#altLabel> "FIDE Candidates" .
+<https://github.com/john1hsu/chess-graph/id/candidates-tournament> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/candidates-tournament> <http://www.w3.org/2004/02/skos/core#definition> "The FIDE qualifying event whose winner earns the right to challenge the reigning world champion; first held in Budapest in 1950, run as knockout matches from 1965, and since 2013 an eight-player double round robin of 14 rounds, with a parallel Women's Candidates for the women's title." .
+<https://github.com/john1hsu/chess-graph/id/candidates-tournament> <http://www.w3.org/2004/02/skos/core#prefLabel> "Candidates Tournament" .
+<https://github.com/john1hsu/chess-graph/id/candidates-tournament> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/anatoly-karpov> .
+<https://github.com/john1hsu/chess-graph/id/candidates-tournament> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/bobby-fischer> .
+<https://github.com/john1hsu/chess-graph/id/candidates-tournament> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fide> .
+<https://github.com/john1hsu/chess-graph/id/candidates-tournament> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> .
+<https://github.com/john1hsu/chess-graph/id/candidates-tournament> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/candidates-tournament> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s1> .
+<https://github.com/john1hsu/chess-graph/id/candidates-tournament> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s2> .
+<https://github.com/john1hsu/chess-graph/id/candidates-tournament> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s3> .
+<https://github.com/john1hsu/chess-graph/id/candidates-tournament> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s4> .
+<https://github.com/john1hsu/chess-graph/id/candidates-tournament> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s5> .
+<https://github.com/john1hsu/chess-graph/id/candidates-tournament> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s6> .
+<https://github.com/john1hsu/chess-graph/id/candidates-tournament> <https://github.com/john1hsu/chess-graph/ontology#domain> "events-and-organizations" .
+<https://github.com/john1hsu/chess-graph/id/candidates-tournament> <https://github.com/john1hsu/chess-graph/ontology#governedBy> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/candidates-tournament> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/candidates-tournament> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/fide> .
+<https://github.com/john1hsu/chess-graph/id/candidates-tournament> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/candidates-tournament> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/candidates-tournament> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> .
 <https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Opening> .
 <https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <http://www.w3.org/2000/01/rdf-schema#label> "Caro-Kann Defence" .
@@ -2250,6 +2278,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/calculation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/calculation/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
 <https://github.com/john1hsu/chess-graph/id/source/calculation/s6> <https://schema.org/url> "https://lichess.org/study/embed/nkXYPOHc/SSa6JLCz" .
+<https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s1> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
+<https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s1> <http://purl.org/dc/terms/title> "Regulations for the FIDE Candidates Tournament 2026" .
+<https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s1> <https://schema.org/url> "https://handbook.fide.com/files/handbook/Regulations_for_the_FIDE_Candidates_Tournament_2026.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s2> <http://purl.org/dc/terms/publisher> "FIDE (fide.com news, 3 February 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s2> <http://purl.org/dc/terms/title> "History of the Candidates: From Budapest (1950) to Cyprus (2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s2> <https://schema.org/url> "https://www.fide.com/?p=43388" .
+<https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s3> <http://purl.org/dc/terms/publisher> "FIDE (fide.com news, 14 April 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s3> <http://purl.org/dc/terms/title> "Sindarov storms to Candidates victory" .
+<https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s3> <https://schema.org/url> "https://www.fide.com/sindarov-storms-to-candidates-victory-womens-title-hangs-in-the-balance/" .
+<https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s4> <http://purl.org/dc/terms/publisher> "FIDE (fide.com news, 15 April 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s4> <http://purl.org/dc/terms/title> "Vaishali conquers Women's Candidates to set up world title showdown against Ju Wenjun" .
+<https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s4> <https://schema.org/url> "https://www.fide.com/vaishali-conquers-womens-candidates-to-set-up-world-title-showdown-against-ju-wenjun/" .
+<https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s5> <http://purl.org/dc/terms/publisher> "ChessBase News (Carlos Alberto Colodro, 16 April 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s5> <http://purl.org/dc/terms/title> "Candidates R14: Sindarov achieves record-breaking score, Giri and Caruana grab wins" .
+<https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s5> <https://schema.org/url> "https://en.chessbase.com/post/candidates-tournament-2026-o-14" .
+<https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s6> <http://purl.org/dc/terms/publisher> "Chess.com News (Colin McGourty, April 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s6> <http://purl.org/dc/terms/title> "Sindarov, Vaishali Triumph: 7 FIDE Candidates Conclusions" .
+<https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s6> <https://schema.org/url> "https://www.chess.com/news/view/sindarov-vaishali-win-7-fide-candidates-2026-conclusions" .
 <https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
 <https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s1> <http://purl.org/dc/terms/title> "The Caro-Kann Defence" .
 <https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

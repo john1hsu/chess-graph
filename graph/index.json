@@ -202,6 +202,31 @@
     ]
   },
   {
+    "id": "kt:candidates-tournament",
+    "title": "Candidates Tournament",
+    "aliases": [
+      "FIDE Candidates Tournament",
+      "Candidates",
+      "FIDE Candidates",
+      "Candidates Matches"
+    ],
+    "type": "Event",
+    "domain": "events-and-organizations",
+    "file": "articles/events-and-organizations/candidates-tournament.md",
+    "created": "2026-11-10",
+    "verified": "2026-11-10",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://handbook.fide.com/files/handbook/Regulations_for_the_FIDE_Candidates_Tournament_2026.pdf",
+      "https://www.fide.com/?p=43388",
+      "https://www.fide.com/sindarov-storms-to-candidates-victory-womens-title-hangs-in-the-balance/",
+      "https://www.fide.com/vaishali-conquers-womens-candidates-to-set-up-world-title-showdown-against-ju-wenjun/",
+      "https://en.chessbase.com/post/candidates-tournament-2026-o-14",
+      "https://www.chess.com/news/view/sindarov-vaishali-win-7-fide-candidates-2026-conclusions"
+    ]
+  },
+  {
     "id": "kt:caro-kann-defence",
     "title": "Caro-Kann Defence",
     "aliases": [
