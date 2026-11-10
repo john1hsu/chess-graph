@@ -1012,6 +1012,31 @@
     ]
   },
   {
+    "id": "kt:king-and-pawn-endgames",
+    "title": "King and pawn endgames",
+    "aliases": [
+      "Pawn endgames",
+      "Pawn endings",
+      "King and pawn endings",
+      "King-and-pawn endgame",
+      "K+P endgames",
+      "Pure pawn endings"
+    ],
+    "type": "EndgameType",
+    "domain": "endgames",
+    "file": "articles/endgames/king-and-pawn-endgames.md",
+    "created": "2026-11-10",
+    "verified": "2026-11-10",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://gutenberg.org/cache/epub/33870/pg33870-images.html",
+      "https://gutenberg.org/cache/epub/5614/pg5614-images.html",
+      "https://shop.chess-tigers.de/cdn/shop/files/dem5_excerpt.pdf",
+      "https://www.chess.com/terms/square-rule-chess"
+    ]
+  },
+  {
     "id": "kt:lucena-position",
     "title": "Lucena position",
     "aliases": [

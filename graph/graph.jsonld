@@ -829,6 +829,90 @@
       ]
     },
     {
+      "@id": "kt:king-and-pawn-endgames",
+      "@type": "kto:EndgameType",
+      "skos:prefLabel": "King and pawn endgames",
+      "skos:definition": "Endgames in which only kings and pawns remain on the board. Because no pieces can make waiting moves or stop a passed pawn from a distance, they turn on exact counting of tempi, king activity, the opposition and the creation of passed pawns.",
+      "kto:domain": "endgames",
+      "dcterms:created": "2026-11-10",
+      "kto:verified": "2026-11-10",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Chess Fundamentals (1921), Project Gutenberg eBook #33870",
+          "dcterms:publisher": "José Raúl Capablanca, Harcourt, Brace and Howe; Project Gutenberg",
+          "schema:url": "https://gutenberg.org/cache/epub/33870/pg33870-images.html",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Chess Strategy (1915), Project Gutenberg eBook #5614",
+          "dcterms:publisher": "Edward Lasker; Project Gutenberg",
+          "schema:url": "https://gutenberg.org/cache/epub/5614/pg5614-images.html",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Dvoretsky's Endgame Manual, fifth edition (excerpt with table of contents)",
+          "dcterms:publisher": "Mark Dvoretsky, revised by Karsten Müller, Russell Enterprises (2020)",
+          "schema:url": "https://shop.chess-tigers.de/cdn/shop/files/dem5_excerpt.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Square Rule",
+          "dcterms:publisher": "Chess.com (Chess Terms)",
+          "schema:url": "https://www.chess.com/terms/square-rule-chess",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/endgames/king-and-pawn-endgames.md",
+      "skos:altLabel": [
+        "Pawn endgames",
+        "Pawn endings",
+        "King and pawn endings",
+        "King-and-pawn endgame",
+        "K+P endgames",
+        "Pure pawn endings"
+      ],
+      "kto:fen": "6k1/ppp5/8/PPP5/8/8/8/6K1 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-endgame"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:pawn-promotion"
+        },
+        {
+          "@id": "kt:passed-pawn"
+        },
+        {
+          "@id": "kt:key-squares"
+        },
+        {
+          "@id": "kt:stalemate"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:opposition"
+        },
+        {
+          "@id": "kt:triangulation"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:zugzwang"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:rule-of-the-square"
+        }
+      ]
+    },
+    {
       "@id": "kt:lucena-position",
       "@type": "kto:EndgameType",
       "skos:prefLabel": "Lucena position",
