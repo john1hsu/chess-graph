@@ -2567,6 +2567,96 @@
       ]
     },
     {
+      "@id": "kt:french-defence",
+      "@type": "kto:Opening",
+      "skos:prefLabel": "French Defence",
+      "skos:definition": "A semi-open defence to 1.e4 in which Black answers 1...e6 and follows with ...d5, building a solid e6–d5 pawn wedge that challenges White's centre at the cost of hemming in the c8-bishop.",
+      "kto:domain": "openings",
+      "dcterms:created": "2026-11-10",
+      "kto:verified": "2026-11-10",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The French Defence",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://chesshistory.com/winter/extra/frenchdefence.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "The French Defence: Move by Move (sample pages: preface and Chapter Four, Steinitz Variation)",
+          "dcterms:publisher": "Damian Lemos, Everyman Chess (2021), New In Chess product sample PDF",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/8400.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Playing the French",
+          "dcterms:publisher": "Jacob Aagaard and Nikolaos Ntirlis, Quality Chess (2013), New In Chess product page",
+          "schema:url": "https://newinchess.com/playing-the-french-chess",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "A Classical Guide to the French Defence (Powerbook/Powerbase 2021)",
+          "dcterms:publisher": "Yannick Pelletier, ChessBase shop product page",
+          "schema:url": "https://shop.chessbase.com/en/products/pelletier_a_classical_guide_to_the_french_powerbook_powerbase_2021",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The French Defence – Structures, Tactics and Plans Vol. 1 & 2",
+          "dcterms:publisher": "Mihail Marin, ChessBase shop product page",
+          "schema:url": "https://shop.chessbase.com/en/products/marin_french_structures_tactics_plans_vol_1_and_2_andpowerbook_and_base",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "French Defense (C00) 1 e4 e6",
+          "dcterms:publisher": "Chessgames.com",
+          "schema:url": "https://chessgames.com/perl/chessopening?eco=C00",
+          "kto:sourceType": "database"
+        }
+      ],
+      "kto:file": "articles/openings/french-defence.md",
+      "skos:altLabel": [
+        "French Defense",
+        "French Opening",
+        "French Game",
+        "Partie Française"
+      ],
+      "kto:eco": "C00",
+      "kto:moves": "1.e4 e6 2.d4 d5",
+      "skos:broader": [
+        {
+          "@id": "kt:semi-open-games"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:caro-kann-defence"
+        },
+        {
+          "@id": "kt:sicilian-defence"
+        },
+        {
+          "@id": "kt:pawn-structure"
+        },
+        {
+          "@id": "kt:good-and-bad-bishops"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:caro-kann-defence"
+        },
+        {
+          "@id": "kt:sicilian-defence"
+        }
+      ],
+      "kto:leadsTo": [
+        {
+          "@id": "kt:winawer-variation"
+        }
+      ]
+    },
+    {
       "@id": "kt:ruy-lopez",
       "@type": "kto:Opening",
       "skos:prefLabel": "Ruy Lopez",

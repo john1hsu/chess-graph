@@ -18,6 +18,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:portable-game-notation` | `kt:algebraic-notation`, `kt:forsyth-edwards-notation`, `kt:forsyth-edwards-notation` |
 | `kt:rook-endgames` | `kt:lucena-position`, `kt:philidor-position`, `kt:skewer` |
 | `kt:sacrifice` | `kt:material-advantage`, `kt:material-advantage`, `kt:combination` |
+| `kt:semi-open-games` | `kt:caro-kann-defence`, `kt:french-defence`, `kt:sicilian-defence` |
 | `kt:siegbert-tarrasch` | `kt:isolated-queens-pawn`, `kt:aron-nimzowitsch`, `kt:emanuel-lasker` |
 | `kt:triangulation` | `kt:opposition`, `kt:opposition`, `kt:zugzwang` |
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:emanuel-lasker`, `kt:wilhelm-steinitz` |
@@ -29,7 +30,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
 | `kt:fifty-move-rule` | `kt:fide-laws-of-chess`, `kt:forsyth-edwards-notation` |
 | `kt:francois-andre-danican-philidor` | `kt:philidor-position`, `kt:pawn-structure` |
-| `kt:french-defence` | `kt:caro-kann-defence`, `kt:sicilian-defence` |
 | `kt:garry-kasparov` | `kt:deep-blue-versus-kasparov`, `kt:sicilian-defence` |
 | `kt:gukesh-dommaraju` | `kt:chess-olympiad`, `kt:world-chess-championship` |
 | `kt:hanging-pawns` | `kt:isolated-queens-pawn`, `kt:pawn-structure` |
@@ -44,7 +44,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
 | `kt:saavedra-position` | `kt:pawn-promotion`, `kt:endgame-study` |
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:zugzwang`, `kt:aron-nimzowitsch` |
-| `kt:semi-open-games` | `kt:caro-kann-defence`, `kt:sicilian-defence` |
 | `kt:simplification` | `kt:material-advantage`, `kt:material-advantage` |
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
 | `kt:starting-age` | `kt:chess-expertise`, `kt:deliberate-practice` |
@@ -92,6 +91,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fischer-spassky-1972` | `kt:world-chess-championship` |
 | `kt:four-handed-chaturanga` | `kt:chaturanga` |
 | `kt:glicko-rating-system` | `kt:elo-rating-system` |
+| `kt:good-and-bad-bishops` | `kt:french-defence` |
 | `kt:good-knight-versus-bad-bishop` | `kt:outpost` |
 | `kt:hans-berliner` | `kt:horizon-effect` |
 | `kt:helpmate` | `kt:chess-problems` |
@@ -149,4 +149,5 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:vladimir-kramnik` | `kt:ruy-lopez` |
 | `kt:weak-squares` | `kt:outpost` |
 | `kt:william-chase` | `kt:chunking-theory` |
+| `kt:winawer-variation` | `kt:french-defence` |
 | `kt:world-chess-championship-1894` | `kt:emanuel-lasker` |

@@ -870,6 +870,34 @@
 <https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/portable-game-notation> .
 <https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/french-defence> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/french-defence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Opening> .
+<https://github.com/john1hsu/chess-graph/id/french-defence> <http://www.w3.org/2000/01/rdf-schema#label> "French Defence" .
+<https://github.com/john1hsu/chess-graph/id/french-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "French Defense" .
+<https://github.com/john1hsu/chess-graph/id/french-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "French Game" .
+<https://github.com/john1hsu/chess-graph/id/french-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "French Opening" .
+<https://github.com/john1hsu/chess-graph/id/french-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "Partie Française" .
+<https://github.com/john1hsu/chess-graph/id/french-defence> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/semi-open-games> .
+<https://github.com/john1hsu/chess-graph/id/french-defence> <http://www.w3.org/2004/02/skos/core#definition> "A semi-open defence to 1.e4 in which Black answers 1...e6 and follows with ...d5, building a solid e6–d5 pawn wedge that challenges White's centre at the cost of hemming in the c8-bishop." .
+<https://github.com/john1hsu/chess-graph/id/french-defence> <http://www.w3.org/2004/02/skos/core#prefLabel> "French Defence" .
+<https://github.com/john1hsu/chess-graph/id/french-defence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/caro-kann-defence> .
+<https://github.com/john1hsu/chess-graph/id/french-defence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> .
+<https://github.com/john1hsu/chess-graph/id/french-defence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/pawn-structure> .
+<https://github.com/john1hsu/chess-graph/id/french-defence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/sicilian-defence> .
+<https://github.com/john1hsu/chess-graph/id/french-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/french-defence/s1> .
+<https://github.com/john1hsu/chess-graph/id/french-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/french-defence/s2> .
+<https://github.com/john1hsu/chess-graph/id/french-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/french-defence/s3> .
+<https://github.com/john1hsu/chess-graph/id/french-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/french-defence/s4> .
+<https://github.com/john1hsu/chess-graph/id/french-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/french-defence/s5> .
+<https://github.com/john1hsu/chess-graph/id/french-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/french-defence/s6> .
+<https://github.com/john1hsu/chess-graph/id/french-defence> <https://github.com/john1hsu/chess-graph/ontology#alternativeTo> <https://github.com/john1hsu/chess-graph/id/caro-kann-defence> .
+<https://github.com/john1hsu/chess-graph/id/french-defence> <https://github.com/john1hsu/chess-graph/ontology#alternativeTo> <https://github.com/john1hsu/chess-graph/id/sicilian-defence> .
+<https://github.com/john1hsu/chess-graph/id/french-defence> <https://github.com/john1hsu/chess-graph/ontology#domain> "openings" .
+<https://github.com/john1hsu/chess-graph/id/french-defence> <https://github.com/john1hsu/chess-graph/ontology#eco> "C00" .
+<https://github.com/john1hsu/chess-graph/id/french-defence> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/winawer-variation> .
+<https://github.com/john1hsu/chess-graph/id/french-defence> <https://github.com/john1hsu/chess-graph/ontology#moves> "1.e4 e6 2.d4 d5" .
+<https://github.com/john1hsu/chess-graph/id/french-defence> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/french-defence> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/game-tree-search> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/game-tree-search> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Algorithm> .
 <https://github.com/john1hsu/chess-graph/id/game-tree-search> <http://www.w3.org/2000/01/rdf-schema#label> "Game-tree search" .
@@ -2269,6 +2297,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/forsyth-edwards-notation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/forsyth-edwards-notation/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/forsyth-edwards-notation/s4> <https://schema.org/url> "https://help.chessbase.com/CBase/18/Eng/fen_format.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/french-defence/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/french-defence/s1> <http://purl.org/dc/terms/title> "The French Defence" .
+<https://github.com/john1hsu/chess-graph/id/source/french-defence/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/french-defence/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/french-defence/s1> <https://schema.org/url> "https://chesshistory.com/winter/extra/frenchdefence.html" .
+<https://github.com/john1hsu/chess-graph/id/source/french-defence/s2> <http://purl.org/dc/terms/publisher> "Damian Lemos, Everyman Chess (2021), New In Chess product sample PDF" .
+<https://github.com/john1hsu/chess-graph/id/source/french-defence/s2> <http://purl.org/dc/terms/title> "The French Defence: Move by Move (sample pages: preface and Chapter Four, Steinitz Variation)" .
+<https://github.com/john1hsu/chess-graph/id/source/french-defence/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/french-defence/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/french-defence/s2> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/8400.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/french-defence/s3> <http://purl.org/dc/terms/publisher> "Jacob Aagaard and Nikolaos Ntirlis, Quality Chess (2013), New In Chess product page" .
+<https://github.com/john1hsu/chess-graph/id/source/french-defence/s3> <http://purl.org/dc/terms/title> "Playing the French" .
+<https://github.com/john1hsu/chess-graph/id/source/french-defence/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/french-defence/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/french-defence/s3> <https://schema.org/url> "https://newinchess.com/playing-the-french-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/french-defence/s4> <http://purl.org/dc/terms/publisher> "Yannick Pelletier, ChessBase shop product page" .
+<https://github.com/john1hsu/chess-graph/id/source/french-defence/s4> <http://purl.org/dc/terms/title> "A Classical Guide to the French Defence (Powerbook/Powerbase 2021)" .
+<https://github.com/john1hsu/chess-graph/id/source/french-defence/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/french-defence/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/french-defence/s4> <https://schema.org/url> "https://shop.chessbase.com/en/products/pelletier_a_classical_guide_to_the_french_powerbook_powerbase_2021" .
+<https://github.com/john1hsu/chess-graph/id/source/french-defence/s5> <http://purl.org/dc/terms/publisher> "Mihail Marin, ChessBase shop product page" .
+<https://github.com/john1hsu/chess-graph/id/source/french-defence/s5> <http://purl.org/dc/terms/title> "The French Defence – Structures, Tactics and Plans Vol. 1 & 2" .
+<https://github.com/john1hsu/chess-graph/id/source/french-defence/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/french-defence/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/french-defence/s5> <https://schema.org/url> "https://shop.chessbase.com/en/products/marin_french_structures_tactics_plans_vol_1_and_2_andpowerbook_and_base" .
+<https://github.com/john1hsu/chess-graph/id/source/french-defence/s6> <http://purl.org/dc/terms/publisher> "Chessgames.com" .
+<https://github.com/john1hsu/chess-graph/id/source/french-defence/s6> <http://purl.org/dc/terms/title> "French Defense (C00) 1 e4 e6" .
+<https://github.com/john1hsu/chess-graph/id/source/french-defence/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/french-defence/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/french-defence/s6> <https://schema.org/url> "https://chessgames.com/perl/chessopening?eco=C00" .
 <https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s1> <http://purl.org/dc/terms/publisher> "University of California, Irvine (David Eppstein)" .
 <https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s1> <http://purl.org/dc/terms/title> "ICS 180A: Strategy and board game programming, lecture of 17 April 1997" .
 <https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

@@ -784,6 +784,32 @@
     ]
   },
   {
+    "id": "kt:french-defence",
+    "title": "French Defence",
+    "aliases": [
+      "French Defense",
+      "French Opening",
+      "French Game",
+      "Partie Française"
+    ],
+    "type": "Opening",
+    "domain": "openings",
+    "file": "articles/openings/french-defence.md",
+    "created": "2026-11-10",
+    "verified": "2026-11-10",
+    "volatile": false,
+    "status": "current",
+    "eco": "C00",
+    "source_urls": [
+      "https://chesshistory.com/winter/extra/frenchdefence.html",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/8400.pdf",
+      "https://newinchess.com/playing-the-french-chess",
+      "https://shop.chessbase.com/en/products/pelletier_a_classical_guide_to_the_french_powerbook_powerbase_2021",
+      "https://shop.chessbase.com/en/products/marin_french_structures_tactics_plans_vol_1_and_2_andpowerbook_and_base",
+      "https://chessgames.com/perl/chessopening?eco=C00"
+    ]
+  },
+  {
     "id": "kt:game-tree-search",
     "title": "Game-tree search",
     "aliases": [
