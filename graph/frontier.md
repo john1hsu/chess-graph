@@ -5,10 +5,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:chess` | `kt:chaturanga`, `kt:history-of-chess`, `kt:shatranj`, `kt:chess-strategy`, `kt:fide-laws-of-chess`, `kt:chess-tactics` |
+| `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:bobby-fischer`, `kt:emanuel-lasker`, `kt:jose-raul-capablanca`, `kt:wilhelm-steinitz` |
 | `kt:endgame-tablebases` | `kt:computer-chess`, `kt:rook-endgames`, `kt:zugzwang`, `kt:endgame-study` |
 | `kt:siegbert-tarrasch` | `kt:hypermodernism`, `kt:isolated-queens-pawn`, `kt:aron-nimzowitsch`, `kt:emanuel-lasker` |
 | `kt:triangulation` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:opposition`, `kt:zugzwang` |
-| `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:emanuel-lasker`, `kt:jose-raul-capablanca`, `kt:wilhelm-steinitz` |
+| `kt:anatoly-karpov` | `kt:caro-kann-defence`, `kt:ruy-lopez`, `kt:bobby-fischer` |
 | `kt:chess-composition` | `kt:chess-problems`, `kt:endgame-study`, `kt:helpmate` |
 | `kt:chess-endgame` | `kt:king-and-pawn-endgames`, `kt:passed-pawn`, `kt:rook-endgames` |
 | `kt:chess-variants` | `kt:chaturanga`, `kt:shatranj`, `kt:chess960` |
@@ -24,14 +25,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:semi-open-games` | `kt:caro-kann-defence`, `kt:french-defence`, `kt:sicilian-defence` |
 | `kt:soviet-chess-school` | `kt:history-of-chess`, `kt:hypermodernism`, `kt:sicilian-defence` |
 | `kt:template-theory` | `kt:adriaan-de-groot`, `kt:chunking-theory`, `kt:einstellung-effect` |
-| `kt:anatoly-karpov` | `kt:caro-kann-defence`, `kt:ruy-lopez` |
 | `kt:arbiter` | `kt:fide-laws-of-chess`, `kt:touch-move` |
-| `kt:bobby-fischer` | `kt:us-chess`, `kt:chess960` |
 | `kt:checkmate` | `kt:stalemate`, `kt:helpmate` |
 | `kt:chess-organizations` | `kt:fide`, `kt:us-chess` |
 | `kt:dead-position` | `kt:stalemate`, `kt:helpmate` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
 | `kt:fifty-move-rule` | `kt:fide-laws-of-chess`, `kt:forsyth-edwards-notation` |
+| `kt:fischer-spassky-1972` | `kt:world-chess-championship`, `kt:bobby-fischer` |
 | `kt:francois-andre-danican-philidor` | `kt:philidor-position`, `kt:pawn-structure` |
 | `kt:garry-kasparov` | `kt:deep-blue-versus-kasparov`, `kt:sicilian-defence` |
 | `kt:gukesh-dommaraju` | `kt:chess-olympiad`, `kt:world-chess-championship` |
@@ -57,6 +57,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:talent` | `kt:chess-expertise`, `kt:deliberate-practice` |
 | `kt:threefold-repetition` | `kt:en-passant`, `kt:fide-laws-of-chess` |
 | `kt:transposition-table` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
+| `kt:us-chess-championship` | `kt:us-chess`, `kt:bobby-fischer` |
 | `kt:visualization` | `kt:calculation`, `kt:chunking-theory` |
 | `kt:world-chess-championship-1886` | `kt:world-chess-championship`, `kt:wilhelm-steinitz` |
 | `kt:zwischenzug` | `kt:discovered-attack`, `kt:fork` |
@@ -77,6 +78,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:berlin-defence` | `kt:ruy-lopez` |
 | `kt:bishop-pair` | `kt:material-advantage` |
 | `kt:blindfold-chess` | `kt:cognitive-psychology-of-chess` |
+| `kt:boris-spassky` | `kt:bobby-fischer` |
 | `kt:breakthrough` | `kt:passed-pawn` |
 | `kt:candidate-moves` | `kt:calculation` |
 | `kt:candidates-tournament` | `kt:world-chess-championship` |
@@ -96,8 +98,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fair-play-regulations` | `kt:grandmaster-title` |
 | `kt:fide-title-regulations` | `kt:grandmaster-title` |
 | `kt:fide-world-fischer-random-chess-championship` | `kt:chess960` |
-| `kt:fischer-spassky-1972` | `kt:world-chess-championship` |
 | `kt:four-handed-chaturanga` | `kt:chaturanga` |
+| `kt:game-of-the-century` | `kt:bobby-fischer` |
 | `kt:glicko-rating-system` | `kt:elo-rating-system` |
 | `kt:good-and-bad-bishops` | `kt:french-defence` |
 | `kt:good-knight-versus-bad-bishop` | `kt:outpost` |
@@ -155,9 +157,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:team-chess` | `kt:chess-olympiad` |
 | `kt:the-exchange` | `kt:material-advantage` |
 | `kt:tie-break-regulations` | `kt:chess-olympiad` |
+| `kt:tigran-petrosian` | `kt:bobby-fischer` |
 | `kt:underpromotion` | `kt:pawn-promotion` |
 | `kt:universal-chess-interface` | `kt:chess960` |
-| `kt:us-chess-championship` | `kt:us-chess` |
 | `kt:vancura-position` | `kt:rook-endgames` |
 | `kt:vladimir-kramnik` | `kt:ruy-lopez` |
 | `kt:weak-squares` | `kt:outpost` |

@@ -143,6 +143,36 @@
 <https://github.com/john1hsu/chess-graph/id/blockade> <https://github.com/john1hsu/chess-graph/ontology#fen> "r4rk1/pp3ppp/4bn2/3p4/3N4/4P3/PP3PPP/R4RK1 w - - 0 1" .
 <https://github.com/john1hsu/chess-graph/id/blockade> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/blockade> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/bobby-fischer> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/bobby-fischer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
+<https://github.com/john1hsu/chess-graph/id/bobby-fischer> <http://www.w3.org/2000/01/rdf-schema#label> "Bobby Fischer" .
+<https://github.com/john1hsu/chess-graph/id/bobby-fischer> <http://www.w3.org/2004/02/skos/core#altLabel> "Fischer" .
+<https://github.com/john1hsu/chess-graph/id/bobby-fischer> <http://www.w3.org/2004/02/skos/core#altLabel> "R. J. Fischer" .
+<https://github.com/john1hsu/chess-graph/id/bobby-fischer> <http://www.w3.org/2004/02/skos/core#altLabel> "Robert J. Fischer" .
+<https://github.com/john1hsu/chess-graph/id/bobby-fischer> <http://www.w3.org/2004/02/skos/core#altLabel> "Robert James Fischer" .
+<https://github.com/john1hsu/chess-graph/id/bobby-fischer> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/bobby-fischer> <http://www.w3.org/2004/02/skos/core#definition> "American grandmaster (1943–2008) and the eleventh world chess champion, who won all eight US Championships he entered, swept the 1971 Candidates cycle and beat Boris Spassky in Reykjavík in 1972, then forfeited the title to Anatoly Karpov in 1975 without playing another official game." .
+<https://github.com/john1hsu/chess-graph/id/bobby-fischer> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bobby Fischer" .
+<https://github.com/john1hsu/chess-graph/id/bobby-fischer> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/anatoly-karpov> .
+<https://github.com/john1hsu/chess-graph/id/bobby-fischer> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/boris-spassky> .
+<https://github.com/john1hsu/chess-graph/id/bobby-fischer> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess960> .
+<https://github.com/john1hsu/chess-graph/id/bobby-fischer> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/tigran-petrosian> .
+<https://github.com/john1hsu/chess-graph/id/bobby-fischer> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/us-chess> .
+<https://github.com/john1hsu/chess-graph/id/bobby-fischer> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s1> .
+<https://github.com/john1hsu/chess-graph/id/bobby-fischer> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s2> .
+<https://github.com/john1hsu/chess-graph/id/bobby-fischer> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s3> .
+<https://github.com/john1hsu/chess-graph/id/bobby-fischer> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s4> .
+<https://github.com/john1hsu/chess-graph/id/bobby-fischer> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s5> .
+<https://github.com/john1hsu/chess-graph/id/bobby-fischer> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s6> .
+<https://github.com/john1hsu/chess-graph/id/bobby-fischer> <https://github.com/john1hsu/chess-graph/ontology#domain> "players" .
+<https://github.com/john1hsu/chess-graph/id/bobby-fischer> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/game-of-the-century> .
+<https://github.com/john1hsu/chess-graph/id/bobby-fischer> <https://github.com/john1hsu/chess-graph/ontology#fen> "r3r1k1/pp3pbp/1qp1b1p1/2B5/2BP4/Q1n2N2/P4PPP/3R1K1R w - - 4 18" .
+<https://github.com/john1hsu/chess-graph/id/bobby-fischer> <https://github.com/john1hsu/chess-graph/ontology#holdsTitle> <https://github.com/john1hsu/chess-graph/id/grandmaster-title> .
+<https://github.com/john1hsu/chess-graph/id/bobby-fischer> <https://github.com/john1hsu/chess-graph/ontology#holdsTitle> <https://github.com/john1hsu/chess-graph/id/world-chess-champion> .
+<https://github.com/john1hsu/chess-graph/id/bobby-fischer> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> .
+<https://github.com/john1hsu/chess-graph/id/bobby-fischer> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/us-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/bobby-fischer> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/bobby-fischer> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/calculation> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/calculation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Technique> .
 <https://github.com/john1hsu/chess-graph/id/calculation> <http://www.w3.org/2000/01/rdf-schema#label> "Calculation" .
@@ -1861,6 +1891,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/blockade/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/blockade/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/blockade/s6> <https://schema.org/url> "https://en.chessbase.com/post/the-nimzowitsch-precepts-of-positional-che" .
+<https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s1> <http://purl.org/dc/terms/title> "Bobby Fischer" .
+<https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s1> <https://schema.org/url> "https://www.britannica.com/biography/Bobby-Fischer" .
+<https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s2> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
+<https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s2> <http://purl.org/dc/terms/title> "Robert (Bobby) James Fischer (inductee page)" .
+<https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s2> <https://schema.org/url> "https://worldchesshof.org/inductee/robert-james-fischer/" .
+<https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s3> <http://purl.org/dc/terms/publisher> "OlimpBase (Wojciech Bartelski)" .
+<https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s3> <http://purl.org/dc/terms/title> "FIDE World Chess Championship cycle 1969-1972: Candidates' quarterfinals" .
+<https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s3> <https://schema.org/url> "https://olimpbase.org/ind-wcc/wc1972-candqf.html" .
+<https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s4> <http://purl.org/dc/terms/publisher> "OlimpBase (Wojciech Bartelski)" .
+<https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s4> <http://purl.org/dc/terms/title> "FIDE World Chess Championship cycle 1969-1972: Candidates' semifinals" .
+<https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s4> <https://schema.org/url> "https://www.olimpbase.org/ind-wcc/wc1972-candsf.html" .
+<https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s5> <http://purl.org/dc/terms/publisher> "OlimpBase (Wojciech Bartelski)" .
+<https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s5> <http://purl.org/dc/terms/title> "FIDE World Chess Championship cycle 1969-1972: Candidates' final" .
+<https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s5> <https://schema.org/url> "https://www.olimpbase.org/ind-wcc/wc1972-candf.html" .
+<https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s6> <http://purl.org/dc/terms/publisher> "Chess History Center (Edward Winter)" .
+<https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s6> <http://purl.org/dc/terms/title> "The Byrne v Fischer 'Game of the Century' (Chess Notes feature article by Edward Winter)" .
+<https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s6> <https://schema.org/url> "https://chesshistory.com/winter/extra/byrnefischer.html" .
 <https://github.com/john1hsu/chess-graph/id/source/calculation/s1> <http://purl.org/dc/terms/publisher> "Batsford Books" .
 <https://github.com/john1hsu/chess-graph/id/source/calculation/s1> <http://purl.org/dc/terms/title> "Think Like a Grandmaster (A. A. Kotov)" .
 <https://github.com/john1hsu/chess-graph/id/source/calculation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

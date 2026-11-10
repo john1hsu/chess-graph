@@ -3593,6 +3593,106 @@
       ]
     },
     {
+      "@id": "kt:bobby-fischer",
+      "@type": "kto:Player",
+      "skos:prefLabel": "Bobby Fischer",
+      "skos:definition": "American grandmaster (1943–2008) and the eleventh world chess champion, who won all eight US Championships he entered, swept the 1971 Candidates cycle and beat Boris Spassky in Reykjavík in 1972, then forfeited the title to Anatoly Karpov in 1975 without playing another official game.",
+      "kto:domain": "players",
+      "dcterms:created": "2026-11-10",
+      "kto:verified": "2026-11-10",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Bobby Fischer",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/biography/Bobby-Fischer",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Robert (Bobby) James Fischer (inductee page)",
+          "dcterms:publisher": "World Chess Hall of Fame",
+          "schema:url": "https://worldchesshof.org/inductee/robert-james-fischer/",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "FIDE World Chess Championship cycle 1969-1972: Candidates' quarterfinals",
+          "dcterms:publisher": "OlimpBase (Wojciech Bartelski)",
+          "schema:url": "https://olimpbase.org/ind-wcc/wc1972-candqf.html",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "FIDE World Chess Championship cycle 1969-1972: Candidates' semifinals",
+          "dcterms:publisher": "OlimpBase (Wojciech Bartelski)",
+          "schema:url": "https://www.olimpbase.org/ind-wcc/wc1972-candsf.html",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "FIDE World Chess Championship cycle 1969-1972: Candidates' final",
+          "dcterms:publisher": "OlimpBase (Wojciech Bartelski)",
+          "schema:url": "https://www.olimpbase.org/ind-wcc/wc1972-candf.html",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "The Byrne v Fischer 'Game of the Century' (Chess Notes feature article by Edward Winter)",
+          "dcterms:publisher": "Chess History Center (Edward Winter)",
+          "schema:url": "https://chesshistory.com/winter/extra/byrnefischer.html",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/players/bobby-fischer.md",
+      "skos:altLabel": [
+        "Robert James Fischer",
+        "Robert J. Fischer",
+        "R. J. Fischer",
+        "Fischer"
+      ],
+      "kto:fen": "r3r1k1/pp3pbp/1qp1b1p1/2B5/2BP4/Q1n2N2/P4PPP/3R1K1R w - - 4 18",
+      "skos:broader": [
+        {
+          "@id": "kt:world-chess-championship"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:chess960"
+        },
+        {
+          "@id": "kt:us-chess"
+        },
+        {
+          "@id": "kt:anatoly-karpov"
+        },
+        {
+          "@id": "kt:boris-spassky"
+        },
+        {
+          "@id": "kt:tigran-petrosian"
+        }
+      ],
+      "kto:holdsTitle": [
+        {
+          "@id": "kt:world-chess-champion"
+        },
+        {
+          "@id": "kt:grandmaster-title"
+        }
+      ],
+      "kto:playedIn": [
+        {
+          "@id": "kt:fischer-spassky-1972"
+        },
+        {
+          "@id": "kt:us-chess-championship"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:game-of-the-century"
+        }
+      ]
+    },
+    {
       "@id": "kt:emanuel-lasker",
       "@type": "kto:Player",
       "skos:prefLabel": "Emanuel Lasker",
