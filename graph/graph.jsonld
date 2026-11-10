@@ -1744,6 +1744,100 @@
       ]
     },
     {
+      "@id": "kt:fair-play-regulations",
+      "@type": "kto:Rule",
+      "skos:prefLabel": "Fair play regulations",
+      "skos:definition": "FIDE's rules for preventing, investigating and sanctioning cheating in rated chess: they define cheating and lesser fair-play violations, set statistical thresholds for presumed cheating, route complaints through the Fair Play Commission, and grade tournaments into three levels of anti-cheating protection.",
+      "kto:domain": "events-and-organizations",
+      "dcterms:created": "2026-11-10",
+      "kto:verified": "2026-11-10",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Fair Play Regulations (approved 10 November 2024, applied from 18 November 2024)",
+          "dcterms:publisher": "FIDE Handbook",
+          "schema:url": "https://handbook.fide.com/files/handbook/FPL_Regulations_2024.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Fair Play Protection Measures (approved 10 November 2024, applied from 18 November 2024)",
+          "dcterms:publisher": "FIDE Handbook",
+          "schema:url": "https://handbook.fide.com/files/handbook/FPL_Protection_Measures_2024.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Article 11: The Conduct of the Players",
+          "dcterms:publisher": "FIDE Rules Commission",
+          "schema:url": "https://rcc.fide.com/?p=872",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Changes of the article 11.3.b. of the Laws of Chess (Takis Nikolopoulos, 17 September 2014)",
+          "dcterms:publisher": "FIDE Arbiters' Commission",
+          "schema:url": "https://arbiters.fide.com/?p=1410",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Intrinsic Chess Ratings (Kenneth W. Regan and Guy Haworth, Proceedings of AAAI 2011, pp. 834-839)",
+          "dcterms:publisher": "University at Buffalo Research Connect",
+          "schema:url": "https://researchconnect.buffalo.edu/en/publications/intrinsic-chess-ratings/",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/events-and-organizations/fair-play-regulations.md",
+      "skos:altLabel": [
+        "FIDE Fair Play Regulations",
+        "Anti-cheating regulations",
+        "FIDE Anti-Cheating Regulations",
+        "Anti-cheating rules",
+        "Fair play rules",
+        "Fair Play Protection Measures"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:fide-handbook"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        },
+        {
+          "@id": "kt:grandmaster-title"
+        },
+        {
+          "@id": "kt:arbiter"
+        },
+        {
+          "@id": "kt:computer-chess"
+        },
+        {
+          "@id": "kt:elo-rating-system"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:fide"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        }
+      ],
+      "kto:governedBy": [
+        {
+          "@id": "kt:fide-ethics-and-disciplinary-code"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:intrinsic-performance-rating"
+        }
+      ]
+    },
+    {
       "@id": "kt:fide",
       "@type": "kto:Organization",
       "skos:prefLabel": "FIDE",

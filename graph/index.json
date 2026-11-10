@@ -811,6 +811,32 @@
     ]
   },
   {
+    "id": "kt:fair-play-regulations",
+    "title": "Fair play regulations",
+    "aliases": [
+      "FIDE Fair Play Regulations",
+      "Anti-cheating regulations",
+      "FIDE Anti-Cheating Regulations",
+      "Anti-cheating rules",
+      "Fair play rules",
+      "Fair Play Protection Measures"
+    ],
+    "type": "Rule",
+    "domain": "events-and-organizations",
+    "file": "articles/events-and-organizations/fair-play-regulations.md",
+    "created": "2026-11-10",
+    "verified": "2026-11-10",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://handbook.fide.com/files/handbook/FPL_Regulations_2024.pdf",
+      "https://handbook.fide.com/files/handbook/FPL_Protection_Measures_2024.pdf",
+      "https://rcc.fide.com/?p=872",
+      "https://arbiters.fide.com/?p=1410",
+      "https://researchconnect.buffalo.edu/en/publications/intrinsic-chess-ratings/"
+    ]
+  },
+  {
     "id": "kt:fide",
     "title": "FIDE",
     "aliases": [

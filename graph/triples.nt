@@ -900,6 +900,35 @@
 <https://github.com/john1hsu/chess-graph/id/evaluation-function> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/claude-shannon> .
 <https://github.com/john1hsu/chess-graph/id/evaluation-function> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/evaluation-function> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-07" .
+<https://github.com/john1hsu/chess-graph/id/fair-play-regulations> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/fair-play-regulations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Rule> .
+<https://github.com/john1hsu/chess-graph/id/fair-play-regulations> <http://www.w3.org/2000/01/rdf-schema#label> "Fair play regulations" .
+<https://github.com/john1hsu/chess-graph/id/fair-play-regulations> <http://www.w3.org/2004/02/skos/core#altLabel> "Anti-cheating regulations" .
+<https://github.com/john1hsu/chess-graph/id/fair-play-regulations> <http://www.w3.org/2004/02/skos/core#altLabel> "Anti-cheating rules" .
+<https://github.com/john1hsu/chess-graph/id/fair-play-regulations> <http://www.w3.org/2004/02/skos/core#altLabel> "FIDE Anti-Cheating Regulations" .
+<https://github.com/john1hsu/chess-graph/id/fair-play-regulations> <http://www.w3.org/2004/02/skos/core#altLabel> "FIDE Fair Play Regulations" .
+<https://github.com/john1hsu/chess-graph/id/fair-play-regulations> <http://www.w3.org/2004/02/skos/core#altLabel> "Fair Play Protection Measures" .
+<https://github.com/john1hsu/chess-graph/id/fair-play-regulations> <http://www.w3.org/2004/02/skos/core#altLabel> "Fair play rules" .
+<https://github.com/john1hsu/chess-graph/id/fair-play-regulations> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/fide-handbook> .
+<https://github.com/john1hsu/chess-graph/id/fair-play-regulations> <http://www.w3.org/2004/02/skos/core#definition> "FIDE's rules for preventing, investigating and sanctioning cheating in rated chess: they define cheating and lesser fair-play violations, set statistical thresholds for presumed cheating, route complaints through the Fair Play Commission, and grade tournaments into three levels of anti-cheating protection." .
+<https://github.com/john1hsu/chess-graph/id/fair-play-regulations> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fair play regulations" .
+<https://github.com/john1hsu/chess-graph/id/fair-play-regulations> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/arbiter> .
+<https://github.com/john1hsu/chess-graph/id/fair-play-regulations> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/computer-chess> .
+<https://github.com/john1hsu/chess-graph/id/fair-play-regulations> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/elo-rating-system> .
+<https://github.com/john1hsu/chess-graph/id/fair-play-regulations> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/fair-play-regulations> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/grandmaster-title> .
+<https://github.com/john1hsu/chess-graph/id/fair-play-regulations> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fair-play-regulations/s1> .
+<https://github.com/john1hsu/chess-graph/id/fair-play-regulations> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fair-play-regulations/s2> .
+<https://github.com/john1hsu/chess-graph/id/fair-play-regulations> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fair-play-regulations/s3> .
+<https://github.com/john1hsu/chess-graph/id/fair-play-regulations> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fair-play-regulations/s4> .
+<https://github.com/john1hsu/chess-graph/id/fair-play-regulations> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fair-play-regulations/s5> .
+<https://github.com/john1hsu/chess-graph/id/fair-play-regulations> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/fair-play-regulations> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/fide> .
+<https://github.com/john1hsu/chess-graph/id/fair-play-regulations> <https://github.com/john1hsu/chess-graph/ontology#domain> "events-and-organizations" .
+<https://github.com/john1hsu/chess-graph/id/fair-play-regulations> <https://github.com/john1hsu/chess-graph/ontology#governedBy> <https://github.com/john1hsu/chess-graph/id/fide-ethics-and-disciplinary-code> .
+<https://github.com/john1hsu/chess-graph/id/fair-play-regulations> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/fair-play-regulations> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/intrinsic-performance-rating> .
+<https://github.com/john1hsu/chess-graph/id/fair-play-regulations> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Rule> .
 <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> <http://www.w3.org/2000/01/rdf-schema#label> "FIDE Laws of Chess" .
@@ -2730,6 +2759,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
 <https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s7> <https://schema.org/url> "https://github.com/official-stockfish/Stockfish/blob/master/src/evaluate.cpp" .
+<https://github.com/john1hsu/chess-graph/id/source/fair-play-regulations/s1> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
+<https://github.com/john1hsu/chess-graph/id/source/fair-play-regulations/s1> <http://purl.org/dc/terms/title> "Fair Play Regulations (approved 10 November 2024, applied from 18 November 2024)" .
+<https://github.com/john1hsu/chess-graph/id/source/fair-play-regulations/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fair-play-regulations/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/fair-play-regulations/s1> <https://schema.org/url> "https://handbook.fide.com/files/handbook/FPL_Regulations_2024.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/fair-play-regulations/s2> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
+<https://github.com/john1hsu/chess-graph/id/source/fair-play-regulations/s2> <http://purl.org/dc/terms/title> "Fair Play Protection Measures (approved 10 November 2024, applied from 18 November 2024)" .
+<https://github.com/john1hsu/chess-graph/id/source/fair-play-regulations/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fair-play-regulations/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/fair-play-regulations/s2> <https://schema.org/url> "https://handbook.fide.com/files/handbook/FPL_Protection_Measures_2024.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/fair-play-regulations/s3> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/fair-play-regulations/s3> <http://purl.org/dc/terms/title> "Article 11: The Conduct of the Players" .
+<https://github.com/john1hsu/chess-graph/id/source/fair-play-regulations/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fair-play-regulations/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/fair-play-regulations/s3> <https://schema.org/url> "https://rcc.fide.com/?p=872" .
+<https://github.com/john1hsu/chess-graph/id/source/fair-play-regulations/s4> <http://purl.org/dc/terms/publisher> "FIDE Arbiters' Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/fair-play-regulations/s4> <http://purl.org/dc/terms/title> "Changes of the article 11.3.b. of the Laws of Chess (Takis Nikolopoulos, 17 September 2014)" .
+<https://github.com/john1hsu/chess-graph/id/source/fair-play-regulations/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fair-play-regulations/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/fair-play-regulations/s4> <https://schema.org/url> "https://arbiters.fide.com/?p=1410" .
+<https://github.com/john1hsu/chess-graph/id/source/fair-play-regulations/s5> <http://purl.org/dc/terms/publisher> "University at Buffalo Research Connect" .
+<https://github.com/john1hsu/chess-graph/id/source/fair-play-regulations/s5> <http://purl.org/dc/terms/title> "Intrinsic Chess Ratings (Kenneth W. Regan and Guy Haworth, Proceedings of AAAI 2011, pp. 834-839)" .
+<https://github.com/john1hsu/chess-graph/id/source/fair-play-regulations/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fair-play-regulations/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/fair-play-regulations/s5> <https://schema.org/url> "https://researchconnect.buffalo.edu/en/publications/intrinsic-chess-ratings/" .
 <https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s1> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
 <https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s1> <http://purl.org/dc/terms/title> "FIDE Laws of Chess taking effect from 1 January 2023" .
 <https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
