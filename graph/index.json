@@ -1321,6 +1321,36 @@
     ]
   },
   {
+    "id": "kt:nimzo-indian-defence",
+    "title": "Nimzo-Indian Defence",
+    "aliases": [
+      "Nimzo-Indian Defense",
+      "Nimzo-Indian",
+      "Nimzo Indian",
+      "Nimzowitsch-Indian Defence",
+      "Nimzowitsch-Indian Defense",
+      "Nimzoindisch",
+      "Nimzo"
+    ],
+    "type": "Opening",
+    "domain": "openings",
+    "file": "articles/openings/nimzo-indian-defence.md",
+    "created": "2026-11-10",
+    "verified": "2026-11-10",
+    "volatile": false,
+    "status": "current",
+    "eco": "E20",
+    "source_urls": [
+      "https://chesshistory.com/winter/extra/indianopenings.html",
+      "https://www.britannica.com/print/article/415505",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/7669.pdf",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/7030.pdf",
+      "https://chess.co.uk/products/the-nimzo-indian-move-by-move-john-emms",
+      "https://www.365chess.com/eco/E20_Nimzo-Indian_defence",
+      "https://www.chessgames.com/perl/chessopening?eco=E20"
+    ]
+  },
+  {
     "id": "kt:opposition",
     "title": "Opposition",
     "aliases": [

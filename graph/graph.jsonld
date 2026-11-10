@@ -3398,6 +3398,115 @@
       ]
     },
     {
+      "@id": "kt:nimzo-indian-defence",
+      "@type": "kto:Opening",
+      "skos:prefLabel": "Nimzo-Indian Defence",
+      "skos:definition": "A hypermodern defence to 1.d4 arising after 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4, in which Black pins the c3-knight to fight for e4 with pieces and is often ready to give up the bishop pair in return for damaging White's pawn structure.",
+      "kto:domain": "openings",
+      "dcterms:created": "2026-11-10",
+      "kto:verified": "2026-11-10",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Indian Openings in Chess",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://chesshistory.com/winter/extra/indianopenings.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Aron Nimzowitsch",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/print/article/415505",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Grandmaster Repertoire: The Nimzo-Indian Defence (sample pages: preface and contents)",
+          "dcterms:publisher": "Michael Roiz, Quality Chess (2016), New In Chess product sample PDF",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/7669.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The Nimzo-Indian: Move by Move (sample pages: introduction and contents)",
+          "dcterms:publisher": "John Emms, Everyman Chess (2011), New In Chess product sample PDF",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/7030.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The Nimzo-Indian: Move by Move",
+          "dcterms:publisher": "John Emms, Everyman Chess, CHESS Magazine shop product page",
+          "schema:url": "https://chess.co.uk/products/the-nimzo-indian-move-by-move-john-emms",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "E20 Nimzo-Indian defence",
+          "dcterms:publisher": "365Chess.com",
+          "schema:url": "https://www.365chess.com/eco/E20_Nimzo-Indian_defence",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "Nimzo-Indian (E20) 1 d4 Nf6 2 c4 e6 3 Nc3 Bb4",
+          "dcterms:publisher": "Chessgames.com",
+          "schema:url": "https://www.chessgames.com/perl/chessopening?eco=E20",
+          "kto:sourceType": "database"
+        }
+      ],
+      "kto:file": "articles/openings/nimzo-indian-defence.md",
+      "skos:altLabel": [
+        "Nimzo-Indian Defense",
+        "Nimzo-Indian",
+        "Nimzo Indian",
+        "Nimzowitsch-Indian Defence",
+        "Nimzowitsch-Indian Defense",
+        "Nimzoindisch",
+        "Nimzo"
+      ],
+      "kto:eco": "E20",
+      "kto:moves": "1.d4 Nf6 2.c4 e6 3.Nc3 Bb4",
+      "skos:broader": [
+        {
+          "@id": "kt:indian-defences"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:queens-gambit"
+        },
+        {
+          "@id": "kt:hypermodernism"
+        },
+        {
+          "@id": "kt:bishop-pair"
+        },
+        {
+          "@id": "kt:pawn-structure"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:aron-nimzowitsch"
+        }
+      ],
+      "kto:namedAfter": [
+        {
+          "@id": "kt:aron-nimzowitsch"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:queens-gambit-declined"
+        }
+      ],
+      "kto:leadsTo": [
+        {
+          "@id": "kt:rubinstein-variation"
+        },
+        {
+          "@id": "kt:samisch-variation"
+        }
+      ]
+    },
+    {
       "@id": "kt:queens-gambit",
       "@type": "kto:Opening",
       "skos:prefLabel": "Queen's Gambit",
