@@ -938,6 +938,29 @@
     ]
   },
   {
+    "id": "kt:history-of-chess",
+    "title": "History of chess",
+    "aliases": [
+      "Chess history",
+      "Evolution of chess",
+      "Development of chess"
+    ],
+    "type": "Concept",
+    "domain": "history",
+    "file": "articles/history/history-of-chess.md",
+    "created": "2026-11-10",
+    "verified": "2026-11-10",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://www.britannica.com/topic/chess/History",
+      "https://www.britannica.com/topic/chess/Development-of-theory",
+      "https://data.cerl.org/istc/il00317000",
+      "https://his.fide.com/2026/05/08/chess-in-the-19th-century-milestones-of-1886/",
+      "https://www.computerhistory.org/collections/catalog/102645318"
+    ]
+  },
+  {
     "id": "kt:horizon-effect",
     "title": "Horizon effect",
     "aliases": [

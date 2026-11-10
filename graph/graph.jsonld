@@ -2001,6 +2001,89 @@
       ]
     },
     {
+      "@id": "kt:history-of-chess",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "History of chess",
+      "skos:definition": "The development of chess from its Indian precursor chaturanga (by the 7th century CE) through Persian and Arabic shatranj and medieval Europe to the late-15th-century \"new\" game with a powerful queen and long-range bishop, and on to organized tournaments, the world championship, FIDE and the computer era.",
+      "kto:domain": "history",
+      "dcterms:created": "2026-11-10",
+      "kto:verified": "2026-11-10",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Chess: History",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/chess/History",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Chess: Development of theory",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/chess/Development-of-theory",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Lucena, Luis de: Repetición de amores, y Arte de ajedres (ISTC il00317000)",
+          "dcterms:publisher": "Incunabula Short Title Catalogue, Consortium of European Research Libraries",
+          "schema:url": "https://data.cerl.org/istc/il00317000",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Chess in the 19th century. Milestones of 1886",
+          "dcterms:publisher": "FIDE Historical Committee (Sergio Ernesto Negri)",
+          "schema:url": "https://his.fide.com/2026/05/08/chess-in-the-19th-century-milestones-of-1886/",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Deep Blue team after 1997 Deep Blue vs. Kasparov re-match in New York City, New York (102645318)",
+          "dcterms:publisher": "Computer History Museum",
+          "schema:url": "https://www.computerhistory.org/collections/catalog/102645318",
+          "kto:sourceType": "archive"
+        }
+      ],
+      "kto:file": "articles/history/history-of-chess.md",
+      "skos:altLabel": [
+        "Chess history",
+        "Evolution of chess",
+        "Development of chess"
+      ],
+      "kto:fen": "rnb1kbnr/pppp1ppp/8/4p3/6Pq/5P2/PPPPP2P/RNBQKBNR w KQkq - 1 3",
+      "skos:broader": [
+        {
+          "@id": "kt:chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:origins-of-chess"
+        },
+        {
+          "@id": "kt:world-chess-championship"
+        },
+        {
+          "@id": "kt:deep-blue-versus-kasparov"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:chaturanga"
+        },
+        {
+          "@id": "kt:shatranj"
+        },
+        {
+          "@id": "kt:romantic-era"
+        },
+        {
+          "@id": "kt:hypermodernism"
+        },
+        {
+          "@id": "kt:soviet-chess-school"
+        }
+      ]
+    },
+    {
       "@id": "kt:hypermodernism",
       "@type": "kto:School",
       "skos:prefLabel": "Hypermodernism",

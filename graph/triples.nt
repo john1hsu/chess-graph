@@ -1036,6 +1036,32 @@
 <https://github.com/john1hsu/chess-graph/id/helpmate> <https://github.com/john1hsu/chess-graph/ontology#governedBy> <https://github.com/john1hsu/chess-graph/id/codex-of-chess-composition> .
 <https://github.com/john1hsu/chess-graph/id/helpmate> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/helpmate> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/history-of-chess> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/history-of-chess> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Concept> .
+<https://github.com/john1hsu/chess-graph/id/history-of-chess> <http://www.w3.org/2000/01/rdf-schema#label> "History of chess" .
+<https://github.com/john1hsu/chess-graph/id/history-of-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess history" .
+<https://github.com/john1hsu/chess-graph/id/history-of-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Development of chess" .
+<https://github.com/john1hsu/chess-graph/id/history-of-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Evolution of chess" .
+<https://github.com/john1hsu/chess-graph/id/history-of-chess> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess> .
+<https://github.com/john1hsu/chess-graph/id/history-of-chess> <http://www.w3.org/2004/02/skos/core#definition> "The development of chess from its Indian precursor chaturanga (by the 7th century CE) through Persian and Arabic shatranj and medieval Europe to the late-15th-century \"new\" game with a powerful queen and long-range bishop, and on to organized tournaments, the world championship, FIDE and the computer era." .
+<https://github.com/john1hsu/chess-graph/id/history-of-chess> <http://www.w3.org/2004/02/skos/core#prefLabel> "History of chess" .
+<https://github.com/john1hsu/chess-graph/id/history-of-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> .
+<https://github.com/john1hsu/chess-graph/id/history-of-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/origins-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/history-of-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/history-of-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/history-of-chess/s1> .
+<https://github.com/john1hsu/chess-graph/id/history-of-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/history-of-chess/s2> .
+<https://github.com/john1hsu/chess-graph/id/history-of-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/history-of-chess/s3> .
+<https://github.com/john1hsu/chess-graph/id/history-of-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/history-of-chess/s4> .
+<https://github.com/john1hsu/chess-graph/id/history-of-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/history-of-chess/s5> .
+<https://github.com/john1hsu/chess-graph/id/history-of-chess> <https://github.com/john1hsu/chess-graph/ontology#domain> "history" .
+<https://github.com/john1hsu/chess-graph/id/history-of-chess> <https://github.com/john1hsu/chess-graph/ontology#fen> "rnb1kbnr/pppp1ppp/8/4p3/6Pq/5P2/PPPPP2P/RNBQKBNR w KQkq - 1 3" .
+<https://github.com/john1hsu/chess-graph/id/history-of-chess> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/chaturanga> .
+<https://github.com/john1hsu/chess-graph/id/history-of-chess> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/hypermodernism> .
+<https://github.com/john1hsu/chess-graph/id/history-of-chess> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/romantic-era> .
+<https://github.com/john1hsu/chess-graph/id/history-of-chess> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/shatranj> .
+<https://github.com/john1hsu/chess-graph/id/history-of-chess> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/soviet-chess-school> .
+<https://github.com/john1hsu/chess-graph/id/history-of-chess> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/history-of-chess> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/horizon-effect> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/horizon-effect> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Concept> .
 <https://github.com/john1hsu/chess-graph/id/horizon-effect> <http://www.w3.org/2000/01/rdf-schema#label> "Horizon effect" .
@@ -2672,6 +2698,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/helpmate/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/helpmate/s8> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/helpmate/s8> <https://schema.org/url> "https://www.chessvariants.com/problems.dir/helpmates.html" .
+<https://github.com/john1hsu/chess-graph/id/source/history-of-chess/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/history-of-chess/s1> <http://purl.org/dc/terms/title> "Chess: History" .
+<https://github.com/john1hsu/chess-graph/id/source/history-of-chess/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/history-of-chess/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/history-of-chess/s1> <https://schema.org/url> "https://www.britannica.com/topic/chess/History" .
+<https://github.com/john1hsu/chess-graph/id/source/history-of-chess/s2> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/history-of-chess/s2> <http://purl.org/dc/terms/title> "Chess: Development of theory" .
+<https://github.com/john1hsu/chess-graph/id/source/history-of-chess/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/history-of-chess/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/history-of-chess/s2> <https://schema.org/url> "https://www.britannica.com/topic/chess/Development-of-theory" .
+<https://github.com/john1hsu/chess-graph/id/source/history-of-chess/s3> <http://purl.org/dc/terms/publisher> "Incunabula Short Title Catalogue, Consortium of European Research Libraries" .
+<https://github.com/john1hsu/chess-graph/id/source/history-of-chess/s3> <http://purl.org/dc/terms/title> "Lucena, Luis de: Repetición de amores, y Arte de ajedres (ISTC il00317000)" .
+<https://github.com/john1hsu/chess-graph/id/source/history-of-chess/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/history-of-chess/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/history-of-chess/s3> <https://schema.org/url> "https://data.cerl.org/istc/il00317000" .
+<https://github.com/john1hsu/chess-graph/id/source/history-of-chess/s4> <http://purl.org/dc/terms/publisher> "FIDE Historical Committee (Sergio Ernesto Negri)" .
+<https://github.com/john1hsu/chess-graph/id/source/history-of-chess/s4> <http://purl.org/dc/terms/title> "Chess in the 19th century. Milestones of 1886" .
+<https://github.com/john1hsu/chess-graph/id/source/history-of-chess/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/history-of-chess/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/history-of-chess/s4> <https://schema.org/url> "https://his.fide.com/2026/05/08/chess-in-the-19th-century-milestones-of-1886/" .
+<https://github.com/john1hsu/chess-graph/id/source/history-of-chess/s5> <http://purl.org/dc/terms/publisher> "Computer History Museum" .
+<https://github.com/john1hsu/chess-graph/id/source/history-of-chess/s5> <http://purl.org/dc/terms/title> "Deep Blue team after 1997 Deep Blue vs. Kasparov re-match in New York City, New York (102645318)" .
+<https://github.com/john1hsu/chess-graph/id/source/history-of-chess/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/history-of-chess/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/history-of-chess/s5> <https://schema.org/url> "https://www.computerhistory.org/collections/catalog/102645318" .
 <https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s1> <http://purl.org/dc/terms/publisher> "Hans J. Berliner, Carnegie-Mellon University, via DTIC" .
 <https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s1> <http://purl.org/dc/terms/title> "Chess as Problem Solving: The Development of a Tactics Analyzer (PhD dissertation, March 1974)" .
 <https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
