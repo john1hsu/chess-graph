@@ -6,14 +6,15 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:chess` | `kt:chaturanga`, `kt:history-of-chess`, `kt:shatranj`, `kt:chess-strategy`, `kt:fide-laws-of-chess`, `kt:chess-tactics` |
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:bobby-fischer`, `kt:emanuel-lasker`, `kt:jose-raul-capablanca`, `kt:wilhelm-steinitz` |
+| `kt:chess-composition` | `kt:chess-problems`, `kt:endgame-study`, `kt:helpmate`, `kt:retrograde-analysis` |
 | `kt:chess-endgame` | `kt:endgame-tablebases`, `kt:king-and-pawn-endgames`, `kt:passed-pawn`, `kt:rook-endgames` |
+| `kt:codex-of-chess-composition` | `kt:chess-problems`, `kt:endgame-study`, `kt:helpmate`, `kt:retrograde-analysis` |
 | `kt:siegbert-tarrasch` | `kt:hypermodernism`, `kt:isolated-queens-pawn`, `kt:aron-nimzowitsch`, `kt:emanuel-lasker` |
 | `kt:triangulation` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:opposition`, `kt:zugzwang` |
 | `kt:anatoly-karpov` | `kt:caro-kann-defence`, `kt:ruy-lopez`, `kt:bobby-fischer` |
-| `kt:chess-composition` | `kt:chess-problems`, `kt:endgame-study`, `kt:helpmate` |
 | `kt:chess-variants` | `kt:chaturanga`, `kt:shatranj`, `kt:chess960` |
-| `kt:codex-of-chess-composition` | `kt:chess-problems`, `kt:endgame-study`, `kt:helpmate` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position`, `kt:rook-endgames` |
+| `kt:dead-position` | `kt:stalemate`, `kt:helpmate`, `kt:retrograde-analysis` |
 | `kt:double-check` | `kt:discovered-attack`, `kt:discovered-attack`, `kt:fork` |
 | `kt:fifty-move-rule` | `kt:endgame-tablebases`, `kt:fide-laws-of-chess`, `kt:forsyth-edwards-notation` |
 | `kt:herbert-simon` | `kt:adriaan-de-groot`, `kt:chunking-theory`, `kt:cognitive-psychology-of-chess` |
@@ -21,7 +22,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:key-squares` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:zugzwang` |
 | `kt:nimzo-indian-defence` | `kt:hypermodernism`, `kt:queens-gambit`, `kt:aron-nimzowitsch` |
 | `kt:portable-game-notation` | `kt:algebraic-notation`, `kt:forsyth-edwards-notation`, `kt:forsyth-edwards-notation` |
-| `kt:retrograde-analysis` | `kt:endgame-tablebases`, `kt:chess-problems`, `kt:helpmate` |
 | `kt:sacrifice` | `kt:material-advantage`, `kt:material-advantage`, `kt:combination` |
 | `kt:semi-open-games` | `kt:caro-kann-defence`, `kt:french-defence`, `kt:sicilian-defence` |
 | `kt:soviet-chess-school` | `kt:history-of-chess`, `kt:hypermodernism`, `kt:sicilian-defence` |
@@ -29,7 +29,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:arbiter` | `kt:fide-laws-of-chess`, `kt:touch-move` |
 | `kt:checkmate` | `kt:stalemate`, `kt:helpmate` |
 | `kt:chess-organizations` | `kt:fide`, `kt:us-chess` |
-| `kt:dead-position` | `kt:stalemate`, `kt:helpmate` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
 | `kt:fischer-spassky-1972` | `kt:world-chess-championship`, `kt:bobby-fischer` |
 | `kt:francois-andre-danican-philidor` | `kt:philidor-position`, `kt:pawn-structure` |
@@ -134,12 +133,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:philipp-stamma` | `kt:algebraic-notation` |
 | `kt:piece-values` | `kt:material-advantage` |
 | `kt:progressive-deepening` | `kt:calculation` |
+| `kt:proof-game` | `kt:retrograde-analysis` |
 | `kt:proof-number-search` | `kt:game-tree-search` |
 | `kt:puzzle-training` | `kt:deliberate-practice` |
 | `kt:queens-gambit-declined` | `kt:queens-gambit` |
 | `kt:remi-coulom` | `kt:monte-carlo-tree-search` |
 | `kt:reti-opening` | `kt:hypermodernism` |
 | `kt:reti-versus-bogoljubow-new-york-1924` | `kt:hypermodernism` |
+| `kt:retractor` | `kt:retrograde-analysis` |
 | `kt:richard-reti` | `kt:hypermodernism` |
 | `kt:romantic-era` | `kt:history-of-chess` |
 | `kt:ruy-lopez-de-segura` | `kt:ruy-lopez` |

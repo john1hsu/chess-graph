@@ -1634,6 +1634,38 @@
 <https://github.com/john1hsu/chess-graph/id/quiescence-search> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/claude-shannon> .
 <https://github.com/john1hsu/chess-graph/id/quiescence-search> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/quiescence-search> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#ProblemGenre> .
+<https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <http://www.w3.org/2000/01/rdf-schema#label> "Retrograde analysis" .
+<https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <http://www.w3.org/2004/02/skos/core#altLabel> "Retro analysis" .
+<https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <http://www.w3.org/2004/02/skos/core#altLabel> "Retro problems" .
+<https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <http://www.w3.org/2004/02/skos/core#altLabel> "Retro-analysis" .
+<https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <http://www.w3.org/2004/02/skos/core#altLabel> "Retroanalysis" .
+<https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <http://www.w3.org/2004/02/skos/core#altLabel> "Retrograde analytical problems" .
+<https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <http://www.w3.org/2004/02/skos/core#altLabel> "Retros" .
+<https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-composition> .
+<https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-problems> .
+<https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <http://www.w3.org/2004/02/skos/core#definition> "The deduction of the play that must have led to a chess position (its legality, whose move it is, the last move played, castling and en passant rights), used both as a genre of composed problems and, by extension, as the backward algorithm that generates endgame tablebases." .
+<https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <http://www.w3.org/2004/02/skos/core#prefLabel> "Retrograde analysis" .
+<https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/castling> .
+<https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/dead-position> .
+<https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/en-passant> .
+<https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/endgame-tablebases> .
+<https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/helpmate> .
+<https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s1> .
+<https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s2> .
+<https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s3> .
+<https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s4> .
+<https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s5> .
+<https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s6> .
+<https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <https://github.com/john1hsu/chess-graph/ontology#domain> "variants-and-compositions" .
+<https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/endgame-tablebases> .
+<https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <https://github.com/john1hsu/chess-graph/ontology#fen> "1nbqkbnr/p1p1pppp/3p4/8/8/8/1PPP1PPP/RNBQKBNR b KQk - 4 7" .
+<https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <https://github.com/john1hsu/chess-graph/ontology#governedBy> <https://github.com/john1hsu/chess-graph/id/codex-of-chess-composition> .
+<https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/proof-game> .
+<https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/retractor> .
+<https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/rook-endgames> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/rook-endgames> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#EndgameType> .
 <https://github.com/john1hsu/chess-graph/id/rook-endgames> <http://www.w3.org/2000/01/rdf-schema#label> "Rook endgames" .
@@ -3400,6 +3432,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s6> <https://schema.org/url> "https://mediocrechess.sourceforge.net/guides/quiescentsearch.html" .
+<https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s1> <http://purl.org/dc/terms/publisher> "World Federation for Chess Composition (WFCC)" .
+<https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s1> <http://purl.org/dc/terms/title> "Codex of Chess Compositions (version Vilnius 2019)" .
+<https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s1> <https://schema.org/url> "https://www.wfcc.ch/?p=198" .
+<https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s2> <http://purl.org/dc/terms/publisher> "British Chess Problem Society, The Problemist" .
+<https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s2> <http://purl.org/dc/terms/title> "Retrograde Analysis (beginners' guide)" .
+<https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s2> <https://schema.org/url> "https://mail.theproblemist.org/beginner.pl?type=b_ret" .
+<https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s3> <http://purl.org/dc/terms/publisher> "Alexander George, Amherst College (first published in diagrammes, 1994)" .
+<https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s3> <http://purl.org/dc/terms/title> "Conventions in Retroanalysis: A Plea for Consistency and Completeness" .
+<https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s3> <https://schema.org/url> "https://ageorge.people.amherst.edu/AG/Retroanalysis.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s4> <http://purl.org/dc/terms/publisher> "Josh Brunner, Erik D. Demaine, Dylan Hendrickson and Julian Wellman, MIT CSAIL" .
+<https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s4> <http://purl.org/dc/terms/title> "Complexity of Retrograde and Helpmate Chess Problems: Even Cooperative Chess is Hard (arXiv:2010.09271)" .
+<https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s4> <https://schema.org/url> "https://arxiv.org/abs/2010.09271" .
+<https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s5> <http://purl.org/dc/terms/publisher> "Ren Wu and Donald F. Beal, More Games of No Chance (MSRI Publications, Vol. 42, 2002)" .
+<https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s5> <http://purl.org/dc/terms/title> "A Memory Efficient Retrograde Algorithm and Its Application To Chinese Chess Endgames" .
+<https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s5> <https://schema.org/url> "https://library.slmath.org/books/Book42/files/wu.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s6> <http://purl.org/dc/terms/publisher> "Peter Wong, OzProblems (Walkabout, 17 April 2020)" .
+<https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s6> <http://purl.org/dc/terms/title> "Special conventions in retro-analytical problems" .
+<https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s6> <https://schema.org/url> "https://www.ozproblems.com/walkabout/walkabout2020/apr17" .
 <https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s1> <http://purl.org/dc/terms/publisher> "Karsten Müller and Yakov Konoval, Gambit Publications (2016); New In Chess shop page" .
 <https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s1> <http://purl.org/dc/terms/title> "Understanding Rook Endgames" .
 <https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

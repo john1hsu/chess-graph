@@ -1472,6 +1472,33 @@
     ]
   },
   {
+    "id": "kt:retrograde-analysis",
+    "title": "Retrograde analysis",
+    "aliases": [
+      "Retroanalysis",
+      "Retro-analysis",
+      "Retro analysis",
+      "Retros",
+      "Retro problems",
+      "Retrograde analytical problems"
+    ],
+    "type": "ProblemGenre",
+    "domain": "variants-and-compositions",
+    "file": "articles/variants-and-compositions/retrograde-analysis.md",
+    "created": "2026-11-10",
+    "verified": "2026-11-10",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.wfcc.ch/?p=198",
+      "https://mail.theproblemist.org/beginner.pl?type=b_ret",
+      "https://ageorge.people.amherst.edu/AG/Retroanalysis.pdf",
+      "https://arxiv.org/abs/2010.09271",
+      "https://library.slmath.org/books/Book42/files/wu.pdf",
+      "https://www.ozproblems.com/walkabout/walkabout2020/apr17"
+    ]
+  },
+  {
     "id": "kt:rook-endgames",
     "title": "Rook endgames",
     "aliases": [

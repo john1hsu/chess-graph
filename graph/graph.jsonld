@@ -6336,6 +6336,108 @@
           "@id": "kt:max-lange"
         }
       ]
+    },
+    {
+      "@id": "kt:retrograde-analysis",
+      "@type": "kto:ProblemGenre",
+      "skos:prefLabel": "Retrograde analysis",
+      "skos:definition": "The deduction of the play that must have led to a chess position (its legality, whose move it is, the last move played, castling and en passant rights), used both as a genre of composed problems and, by extension, as the backward algorithm that generates endgame tablebases.",
+      "kto:domain": "variants-and-compositions",
+      "dcterms:created": "2026-11-10",
+      "kto:verified": "2026-11-10",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Codex of Chess Compositions (version Vilnius 2019)",
+          "dcterms:publisher": "World Federation for Chess Composition (WFCC)",
+          "schema:url": "https://www.wfcc.ch/?p=198",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Retrograde Analysis (beginners' guide)",
+          "dcterms:publisher": "British Chess Problem Society, The Problemist",
+          "schema:url": "https://mail.theproblemist.org/beginner.pl?type=b_ret",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Conventions in Retroanalysis: A Plea for Consistency and Completeness",
+          "dcterms:publisher": "Alexander George, Amherst College (first published in diagrammes, 1994)",
+          "schema:url": "https://ageorge.people.amherst.edu/AG/Retroanalysis.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Complexity of Retrograde and Helpmate Chess Problems: Even Cooperative Chess is Hard (arXiv:2010.09271)",
+          "dcterms:publisher": "Josh Brunner, Erik D. Demaine, Dylan Hendrickson and Julian Wellman, MIT CSAIL",
+          "schema:url": "https://arxiv.org/abs/2010.09271",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "A Memory Efficient Retrograde Algorithm and Its Application To Chinese Chess Endgames",
+          "dcterms:publisher": "Ren Wu and Donald F. Beal, More Games of No Chance (MSRI Publications, Vol. 42, 2002)",
+          "schema:url": "https://library.slmath.org/books/Book42/files/wu.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Special conventions in retro-analytical problems",
+          "dcterms:publisher": "Peter Wong, OzProblems (Walkabout, 17 April 2020)",
+          "schema:url": "https://www.ozproblems.com/walkabout/walkabout2020/apr17",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/variants-and-compositions/retrograde-analysis.md",
+      "skos:altLabel": [
+        "Retroanalysis",
+        "Retro-analysis",
+        "Retro analysis",
+        "Retros",
+        "Retro problems",
+        "Retrograde analytical problems"
+      ],
+      "kto:fen": "1nbqkbnr/p1p1pppp/3p4/8/8/8/1PPP1PPP/RNBQKBNR b KQk - 4 7",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-composition"
+        },
+        {
+          "@id": "kt:chess-problems"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:helpmate"
+        },
+        {
+          "@id": "kt:endgame-tablebases"
+        },
+        {
+          "@id": "kt:en-passant"
+        },
+        {
+          "@id": "kt:castling"
+        },
+        {
+          "@id": "kt:dead-position"
+        }
+      ],
+      "kto:governedBy": [
+        {
+          "@id": "kt:codex-of-chess-composition"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:proof-game"
+        },
+        {
+          "@id": "kt:retractor"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:endgame-tablebases"
+        }
+      ]
     }
   ]
 }
