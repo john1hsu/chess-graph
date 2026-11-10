@@ -729,6 +729,36 @@
     ]
   },
   {
+    "id": "kt:endgame-tablebases",
+    "title": "Endgame tablebases",
+    "aliases": [
+      "Endgame tablebase",
+      "Tablebase",
+      "Tablebases",
+      "Endgame databases",
+      "Endgame tables",
+      "Syzygy tablebases",
+      "Lomonosov tablebases",
+      "Nalimov tablebases",
+      "EGTB"
+    ],
+    "type": "Software",
+    "domain": "endgames",
+    "file": "articles/endgames/endgame-tablebases.md",
+    "created": "2026-11-10",
+    "verified": "2026-11-10",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://reading-clone.eprints-hosting.org/4593/1/2001h_ICGA_J_H_Depth_by_The_Rule.pdf",
+      "https://journal-vniispk.ru/0361-7688/article/view/176783",
+      "https://github.com/official-stockfish/Stockfish/wiki/UCI-Protocol-and-Stockfish-Commands",
+      "https://lichess.org/blog/W3WeMyQAACQAdfAL/7-piece-syzygy-tablebases-are-complete",
+      "https://en.chessbase.com/post/8-piece-endgame-tablebases-first-findings-and-interview",
+      "https://research.swtch.com/chess"
+    ]
+  },
+  {
     "id": "kt:evaluation-function",
     "title": "Evaluation function",
     "aliases": [
