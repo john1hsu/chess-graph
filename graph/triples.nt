@@ -460,6 +460,31 @@
 <https://github.com/john1hsu/chess-graph/id/claude-shannon> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/leonardo-torres-y-quevedo> .
 <https://github.com/john1hsu/chess-graph/id/claude-shannon> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/claude-shannon> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#CognitiveConcept> .
+<https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> <http://www.w3.org/2000/01/rdf-schema#label> "Cognitive psychology of chess" .
+<https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess cognition" .
+<https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess psychology research" .
+<https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Cognitive science of chess" .
+<https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Psychology of chess" .
+<https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/cognitive-science> .
+<https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> <http://www.w3.org/2004/02/skos/core#definition> "The scientific study of the mental processes behind chess play: perception, memory, imagery, search and decision making. Running from Alfred Binet's 1894 work on blindfold players to modern eye-tracking and brain imaging, it has used chess as a standard laboratory task for studying expertise." .
+<https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cognitive psychology of chess" .
+<https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/blindfold-chess> .
+<https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/calculation> .
+<https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/einstellung-effect> .
+<https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/cognitive-psychology-of-chess/s1> .
+<https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/cognitive-psychology-of-chess/s2> .
+<https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/cognitive-psychology-of-chess/s3> .
+<https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/cognitive-psychology-of-chess/s4> .
+<https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> <https://github.com/john1hsu/chess-graph/ontology#domain> "training-and-improvement" .
+<https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/chess-expertise> .
+<https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/chunking-theory> .
+<https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> .
+<https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/alfred-binet> .
+<https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/herbert-simon> .
+<https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/combination> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/combination> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Concept> .
 <https://github.com/john1hsu/chess-graph/id/combination> <http://www.w3.org/2000/01/rdf-schema#label> "Combination" .
@@ -1887,6 +1912,26 @@
 <https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s4> <https://schema.org/url> "https://www.scientificamerican.com/author/claude-e-shannon" .
+<https://github.com/john1hsu/chess-graph/id/source/cognitive-psychology-of-chess/s1> <http://purl.org/dc/terms/publisher> "Fernand Gobet and Neil Charness, Cambridge University Press 2006, via CORE" .
+<https://github.com/john1hsu/chess-graph/id/source/cognitive-psychology-of-chess/s1> <http://purl.org/dc/terms/title> "Expertise in Chess (Cambridge Handbook of Expertise and Expert Performance, pp. 523-538)" .
+<https://github.com/john1hsu/chess-graph/id/source/cognitive-psychology-of-chess/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/cognitive-psychology-of-chess/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/cognitive-psychology-of-chess/s1> <https://schema.org/url> "https://core.ac.uk/download/334186.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/cognitive-psychology-of-chess/s2> <http://purl.org/dc/terms/publisher> "Guillermo Campitelli and Fernand Gobet, University of Nottingham, via CORE" .
+<https://github.com/john1hsu/chess-graph/id/source/cognitive-psychology-of-chess/s2> <http://purl.org/dc/terms/title> "The mind's eye in blindfold chess" .
+<https://github.com/john1hsu/chess-graph/id/source/cognitive-psychology-of-chess/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/cognitive-psychology-of-chess/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/cognitive-psychology-of-chess/s2> <https://schema.org/url> "https://core.ac.uk/download/333506.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/cognitive-psychology-of-chess/s3> <http://purl.org/dc/terms/publisher> "Reingold, Charness, Pomplun and Stampe, via University of Massachusetts Boston" .
+<https://github.com/john1hsu/chess-graph/id/source/cognitive-psychology-of-chess/s3> <http://purl.org/dc/terms/title> "Visual Span in Expert Chess Players: Evidence From Eye Movements (Psychological Science 12(1))" .
+<https://github.com/john1hsu/chess-graph/id/source/cognitive-psychology-of-chess/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/cognitive-psychology-of-chess/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/cognitive-psychology-of-chess/s3> <https://schema.org/url> "https://www.cs.umb.edu/~marc/pubs/reingold_et_al_psysci2001.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/cognitive-psychology-of-chess/s4> <http://purl.org/dc/terms/publisher> "Williams, Palace, Welsh and Brooks, Liverpool John Moores University Research Online" .
+<https://github.com/john1hsu/chess-graph/id/source/cognitive-psychology-of-chess/s4> <http://purl.org/dc/terms/title> "Neural correlates of chess expertise: a systematic review of brain imaging studies comparing expert versus novice players (Brain Mechanisms, 2025)" .
+<https://github.com/john1hsu/chess-graph/id/source/cognitive-psychology-of-chess/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/cognitive-psychology-of-chess/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/cognitive-psychology-of-chess/s4> <https://schema.org/url> "https://researchonline.ljmu.ac.uk/id/eprint/26593/" .
 <https://github.com/john1hsu/chess-graph/id/source/combination/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
 <https://github.com/john1hsu/chess-graph/id/source/combination/s1> <http://purl.org/dc/terms/title> "What is a Chess Combination?" .
 <https://github.com/john1hsu/chess-graph/id/source/combination/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

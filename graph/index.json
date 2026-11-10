@@ -412,6 +412,29 @@
     ]
   },
   {
+    "id": "kt:cognitive-psychology-of-chess",
+    "title": "Cognitive psychology of chess",
+    "aliases": [
+      "Psychology of chess",
+      "Chess psychology research",
+      "Chess cognition",
+      "Cognitive science of chess"
+    ],
+    "type": "CognitiveConcept",
+    "domain": "training-and-improvement",
+    "file": "articles/training-and-improvement/cognitive-psychology-of-chess.md",
+    "created": "2026-11-10",
+    "verified": "2026-11-10",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://core.ac.uk/download/334186.pdf",
+      "https://core.ac.uk/download/333506.pdf",
+      "https://www.cs.umb.edu/~marc/pubs/reingold_et_al_psysci2001.pdf",
+      "https://researchonline.ljmu.ac.uk/id/eprint/26593/"
+    ]
+  },
+  {
     "id": "kt:combination",
     "title": "Combination",
     "aliases": [

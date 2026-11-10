@@ -4694,6 +4694,85 @@
       ]
     },
     {
+      "@id": "kt:cognitive-psychology-of-chess",
+      "@type": "kto:CognitiveConcept",
+      "skos:prefLabel": "Cognitive psychology of chess",
+      "skos:definition": "The scientific study of the mental processes behind chess play: perception, memory, imagery, search and decision making. Running from Alfred Binet's 1894 work on blindfold players to modern eye-tracking and brain imaging, it has used chess as a standard laboratory task for studying expertise.",
+      "kto:domain": "training-and-improvement",
+      "dcterms:created": "2026-11-10",
+      "kto:verified": "2026-11-10",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Expertise in Chess (Cambridge Handbook of Expertise and Expert Performance, pp. 523-538)",
+          "dcterms:publisher": "Fernand Gobet and Neil Charness, Cambridge University Press 2006, via CORE",
+          "schema:url": "https://core.ac.uk/download/334186.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The mind's eye in blindfold chess",
+          "dcterms:publisher": "Guillermo Campitelli and Fernand Gobet, University of Nottingham, via CORE",
+          "schema:url": "https://core.ac.uk/download/333506.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Visual Span in Expert Chess Players: Evidence From Eye Movements (Psychological Science 12(1))",
+          "dcterms:publisher": "Reingold, Charness, Pomplun and Stampe, via University of Massachusetts Boston",
+          "schema:url": "https://www.cs.umb.edu/~marc/pubs/reingold_et_al_psysci2001.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Neural correlates of chess expertise: a systematic review of brain imaging studies comparing expert versus novice players (Brain Mechanisms, 2025)",
+          "dcterms:publisher": "Williams, Palace, Welsh and Brooks, Liverpool John Moores University Research Online",
+          "schema:url": "https://researchonline.ljmu.ac.uk/id/eprint/26593/",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/training-and-improvement/cognitive-psychology-of-chess.md",
+      "skos:altLabel": [
+        "Psychology of chess",
+        "Chess psychology research",
+        "Chess cognition",
+        "Cognitive science of chess"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:cognitive-science"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:calculation"
+        },
+        {
+          "@id": "kt:einstellung-effect"
+        },
+        {
+          "@id": "kt:blindfold-chess"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:chess-expertise"
+        },
+        {
+          "@id": "kt:chunking-theory"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:alfred-binet"
+        },
+        {
+          "@id": "kt:adriaan-de-groot"
+        },
+        {
+          "@id": "kt:herbert-simon"
+        }
+      ]
+    },
+    {
       "@id": "kt:deliberate-practice",
       "@type": "kto:CognitiveConcept",
       "skos:prefLabel": "Deliberate practice",

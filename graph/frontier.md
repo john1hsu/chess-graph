@@ -5,9 +5,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:chess` | `kt:chaturanga`, `kt:shatranj`, `kt:chess-strategy`, `kt:fide-laws-of-chess`, `kt:chess-tactics` |
-| `kt:cognitive-psychology-of-chess` | `kt:calculation`, `kt:chess-expertise`, `kt:chunking-theory`, `kt:deliberate-practice`, `kt:einstellung-effect` |
+| `kt:adriaan-de-groot` | `kt:calculation`, `kt:chess-expertise`, `kt:chunking-theory`, `kt:cognitive-psychology-of-chess` |
 | `kt:king-and-pawn-endgames` | `kt:lucena-position`, `kt:opposition`, `kt:philidor-position`, `kt:stalemate` |
-| `kt:adriaan-de-groot` | `kt:calculation`, `kt:chess-expertise`, `kt:chunking-theory` |
 | `kt:chess-variants` | `kt:chaturanga`, `kt:shatranj`, `kt:chess960` |
 | `kt:double-check` | `kt:discovered-attack`, `kt:discovered-attack`, `kt:fork` |
 | `kt:endgame-tablebases` | `kt:computer-chess`, `kt:zugzwang`, `kt:endgame-study` |
@@ -34,6 +33,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:gukesh-dommaraju` | `kt:chess-olympiad`, `kt:world-chess-championship` |
 | `kt:hanging-pawns` | `kt:isolated-queens-pawn`, `kt:pawn-structure` |
 | `kt:hastings-1895` | `kt:emanuel-lasker`, `kt:wilhelm-steinitz` |
+| `kt:herbert-simon` | `kt:chunking-theory`, `kt:cognitive-psychology-of-chess` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:jose-raul-capablanca` | `kt:aron-nimzowitsch`, `kt:emanuel-lasker` |
 | `kt:key-squares` | `kt:opposition`, `kt:zugzwang` |
@@ -59,6 +59,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:abraham-luchins` | `kt:einstellung-effect` |
 | `kt:adolf-anderssen` | `kt:wilhelm-steinitz` |
 | `kt:alexander-kotov` | `kt:calculation` |
+| `kt:alfred-binet` | `kt:cognitive-psychology-of-chess` |
 | `kt:alphazero` | `kt:evaluation-function` |
 | `kt:anders-ericsson` | `kt:deliberate-practice` |
 | `kt:arpad-elo` | `kt:elo-rating-system` |
@@ -68,6 +69,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:backward-pawn` | `kt:outpost` |
 | `kt:berlin-defence` | `kt:ruy-lopez` |
 | `kt:bishop-pair` | `kt:material-advantage` |
+| `kt:blindfold-chess` | `kt:cognitive-psychology-of-chess` |
 | `kt:bobby-fischer` | `kt:chess960` |
 | `kt:candidate-moves` | `kt:calculation` |
 | `kt:candidates-tournament` | `kt:world-chess-championship` |
@@ -77,6 +79,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chess-organizations` | `kt:fide` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
 | `kt:chess-titles` | `kt:grandmaster-title` |
+| `kt:cognitive-science` | `kt:cognitive-psychology-of-chess` |
 | `kt:david-forsyth` | `kt:forsyth-edwards-notation` |
 | `kt:dead-position` | `kt:stalemate` |
 | `kt:deep-blue` | `kt:deep-blue-versus-kasparov` |
@@ -95,7 +98,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:good-knight-versus-bad-bishop` | `kt:outpost` |
 | `kt:hans-berliner` | `kt:horizon-effect` |
 | `kt:helpmate` | `kt:chess-problems` |
-| `kt:herbert-simon` | `kt:chunking-theory` |
 | `kt:horatio-caro` | `kt:caro-kann-defence` |
 | `kt:illegal-move` | `kt:touch-move` |
 | `kt:international-master-title` | `kt:grandmaster-title` |
