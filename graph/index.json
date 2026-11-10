@@ -1039,6 +1039,31 @@
     ]
   },
   {
+    "id": "kt:garry-kasparov",
+    "title": "Garry Kasparov",
+    "aliases": [
+      "Garri Kasparov",
+      "Gary Kasparov",
+      "Garry Kimovich Kasparov",
+      "Kasparov"
+    ],
+    "type": "Player",
+    "domain": "players",
+    "file": "articles/players/garry-kasparov.md",
+    "created": "2026-11-10",
+    "verified": "2026-11-10",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://www.britannica.com/print/article/313020",
+      "https://worldchesshof.org/inductee/garry-kasparov/",
+      "https://museum.fide.com/champions/garry-kasparov",
+      "https://chessgames.com/perl/chess.pl?tid=95710",
+      "https://en.chessbase.com/post/throwback-thursday-kasparov-wijjk-1999",
+      "https://www.chess.com/news/view/25-years-ago-kasparov-topalov-1999"
+    ]
+  },
+  {
     "id": "kt:grandmaster-title",
     "title": "Grandmaster title",
     "aliases": [

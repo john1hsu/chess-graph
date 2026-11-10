@@ -1155,6 +1155,37 @@
 <https://github.com/john1hsu/chess-graph/id/game-tree-search> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/game-tree-search> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/transposition-table> .
 <https://github.com/john1hsu/chess-graph/id/game-tree-search> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/garry-kasparov> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/garry-kasparov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
+<https://github.com/john1hsu/chess-graph/id/garry-kasparov> <http://www.w3.org/2000/01/rdf-schema#label> "Garry Kasparov" .
+<https://github.com/john1hsu/chess-graph/id/garry-kasparov> <http://www.w3.org/2004/02/skos/core#altLabel> "Garri Kasparov" .
+<https://github.com/john1hsu/chess-graph/id/garry-kasparov> <http://www.w3.org/2004/02/skos/core#altLabel> "Garry Kimovich Kasparov" .
+<https://github.com/john1hsu/chess-graph/id/garry-kasparov> <http://www.w3.org/2004/02/skos/core#altLabel> "Gary Kasparov" .
+<https://github.com/john1hsu/chess-graph/id/garry-kasparov> <http://www.w3.org/2004/02/skos/core#altLabel> "Kasparov" .
+<https://github.com/john1hsu/chess-graph/id/garry-kasparov> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/garry-kasparov> <http://www.w3.org/2004/02/skos/core#definition> "Soviet-born grandmaster (born 1963) and the thirteenth world chess champion, who took the title from Anatoly Karpov in 1985 at 22, defended it against him three times, broke with FIDE in 1993, lost the classical title to Vladimir Kramnik in 2000 and retired from competitive chess in 2005." .
+<https://github.com/john1hsu/chess-graph/id/garry-kasparov> <http://www.w3.org/2004/02/skos/core#prefLabel> "Garry Kasparov" .
+<https://github.com/john1hsu/chess-graph/id/garry-kasparov> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/anatoly-karpov> .
+<https://github.com/john1hsu/chess-graph/id/garry-kasparov> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> .
+<https://github.com/john1hsu/chess-graph/id/garry-kasparov> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/mikhail-botvinnik> .
+<https://github.com/john1hsu/chess-graph/id/garry-kasparov> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/sicilian-defence> .
+<https://github.com/john1hsu/chess-graph/id/garry-kasparov> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/vladimir-kramnik> .
+<https://github.com/john1hsu/chess-graph/id/garry-kasparov> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s1> .
+<https://github.com/john1hsu/chess-graph/id/garry-kasparov> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s2> .
+<https://github.com/john1hsu/chess-graph/id/garry-kasparov> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s3> .
+<https://github.com/john1hsu/chess-graph/id/garry-kasparov> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s4> .
+<https://github.com/john1hsu/chess-graph/id/garry-kasparov> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s5> .
+<https://github.com/john1hsu/chess-graph/id/garry-kasparov> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s6> .
+<https://github.com/john1hsu/chess-graph/id/garry-kasparov> <https://github.com/john1hsu/chess-graph/ontology#domain> "players" .
+<https://github.com/john1hsu/chess-graph/id/garry-kasparov> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/kasparov-versus-topalov-wijk-aan-zee-1999> .
+<https://github.com/john1hsu/chess-graph/id/garry-kasparov> <https://github.com/john1hsu/chess-graph/ontology#fen> "b2r3r/k4p1p/p2q1np1/NppP4/3p1Q2/P4PPB/1PP4P/1K1RR3 w - - 1 24" .
+<https://github.com/john1hsu/chess-graph/id/garry-kasparov> <https://github.com/john1hsu/chess-graph/ontology#holdsTitle> <https://github.com/john1hsu/chess-graph/id/grandmaster-title> .
+<https://github.com/john1hsu/chess-graph/id/garry-kasparov> <https://github.com/john1hsu/chess-graph/ontology#holdsTitle> <https://github.com/john1hsu/chess-graph/id/world-chess-champion> .
+<https://github.com/john1hsu/chess-graph/id/garry-kasparov> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/mikhail-botvinnik> .
+<https://github.com/john1hsu/chess-graph/id/garry-kasparov> <https://github.com/john1hsu/chess-graph/ontology#memberOf> <https://github.com/john1hsu/chess-graph/id/soviet-chess-school> .
+<https://github.com/john1hsu/chess-graph/id/garry-kasparov> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> .
+<https://github.com/john1hsu/chess-graph/id/garry-kasparov> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/garry-kasparov> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/grandmaster-title> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/grandmaster-title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Title> .
 <https://github.com/john1hsu/chess-graph/id/grandmaster-title> <http://www.w3.org/2000/01/rdf-schema#label> "Grandmaster title" .
@@ -3089,6 +3120,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s5> <https://schema.org/url> "https://arxiv.org/pdf/1712.01815" .
+<https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s1> <http://purl.org/dc/terms/title> "Garry Kasparov" .
+<https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s1> <https://schema.org/url> "https://www.britannica.com/print/article/313020" .
+<https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s2> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
+<https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s2> <http://purl.org/dc/terms/title> "Garry Kasparov (inductee page)" .
+<https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s2> <https://schema.org/url> "https://worldchesshof.org/inductee/garry-kasparov/" .
+<https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s3> <http://purl.org/dc/terms/publisher> "FIDE Museum" .
+<https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s3> <http://purl.org/dc/terms/title> "Garry Kasparov (World Champions gallery)" .
+<https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s3> <https://schema.org/url> "https://museum.fide.com/champions/garry-kasparov" .
+<https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s4> <http://purl.org/dc/terms/publisher> "chessgames.com" .
+<https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s4> <http://purl.org/dc/terms/title> "Hoogovens Group A (1999), Wijk aan Zee — tournament crosstable" .
+<https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s4> <https://schema.org/url> "https://chessgames.com/perl/chess.pl?tid=95710" .
+<https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s5> <http://purl.org/dc/terms/publisher> "ChessBase News (Carlos Alberto Colodro)" .
+<https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s5> <http://purl.org/dc/terms/title> "Throwback Thursday: Kasparov's immortal" .
+<https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s5> <https://schema.org/url> "https://en.chessbase.com/post/throwback-thursday-kasparov-wijjk-1999" .
+<https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s6> <http://purl.org/dc/terms/publisher> "Chess.com News (Peter Doggers)" .
+<https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s6> <http://purl.org/dc/terms/title> "25 Years Ago: Kasparov's Immortal Game Vs. Topalov" .
+<https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s6> <https://schema.org/url> "https://www.chess.com/news/view/25-years-ago-kasparov-topalov-1999" .
 <https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s1> <http://purl.org/dc/terms/publisher> "FIDE Handbook (B.01)" .
 <https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s1> <http://purl.org/dc/terms/title> "FIDE Title Regulations effective from 1 January 2024" .
 <https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

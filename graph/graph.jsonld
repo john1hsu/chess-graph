@@ -4169,6 +4169,113 @@
       ]
     },
     {
+      "@id": "kt:garry-kasparov",
+      "@type": "kto:Player",
+      "skos:prefLabel": "Garry Kasparov",
+      "skos:definition": "Soviet-born grandmaster (born 1963) and the thirteenth world chess champion, who took the title from Anatoly Karpov in 1985 at 22, defended it against him three times, broke with FIDE in 1993, lost the classical title to Vladimir Kramnik in 2000 and retired from competitive chess in 2005.",
+      "kto:domain": "players",
+      "dcterms:created": "2026-11-10",
+      "kto:verified": "2026-11-10",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Garry Kasparov",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/print/article/313020",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Garry Kasparov (inductee page)",
+          "dcterms:publisher": "World Chess Hall of Fame",
+          "schema:url": "https://worldchesshof.org/inductee/garry-kasparov/",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Garry Kasparov (World Champions gallery)",
+          "dcterms:publisher": "FIDE Museum",
+          "schema:url": "https://museum.fide.com/champions/garry-kasparov",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Hoogovens Group A (1999), Wijk aan Zee — tournament crosstable",
+          "dcterms:publisher": "chessgames.com",
+          "schema:url": "https://chessgames.com/perl/chess.pl?tid=95710",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "Throwback Thursday: Kasparov's immortal",
+          "dcterms:publisher": "ChessBase News (Carlos Alberto Colodro)",
+          "schema:url": "https://en.chessbase.com/post/throwback-thursday-kasparov-wijjk-1999",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "25 Years Ago: Kasparov's Immortal Game Vs. Topalov",
+          "dcterms:publisher": "Chess.com News (Peter Doggers)",
+          "schema:url": "https://www.chess.com/news/view/25-years-ago-kasparov-topalov-1999",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/players/garry-kasparov.md",
+      "skos:altLabel": [
+        "Garri Kasparov",
+        "Gary Kasparov",
+        "Garry Kimovich Kasparov",
+        "Kasparov"
+      ],
+      "kto:fen": "b2r3r/k4p1p/p2q1np1/NppP4/3p1Q2/P4PPB/1PP4P/1K1RR3 w - - 1 24",
+      "skos:broader": [
+        {
+          "@id": "kt:world-chess-championship"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:anatoly-karpov"
+        },
+        {
+          "@id": "kt:deep-blue-versus-kasparov"
+        },
+        {
+          "@id": "kt:sicilian-defence"
+        },
+        {
+          "@id": "kt:mikhail-botvinnik"
+        },
+        {
+          "@id": "kt:vladimir-kramnik"
+        }
+      ],
+      "kto:holdsTitle": [
+        {
+          "@id": "kt:world-chess-champion"
+        },
+        {
+          "@id": "kt:grandmaster-title"
+        }
+      ],
+      "kto:playedIn": [
+        {
+          "@id": "kt:deep-blue-versus-kasparov"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:mikhail-botvinnik"
+        }
+      ],
+      "kto:memberOf": [
+        {
+          "@id": "kt:soviet-chess-school"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:kasparov-versus-topalov-wijk-aan-zee-1999"
+        }
+      ]
+    },
+    {
       "@id": "kt:jose-raul-capablanca",
       "@type": "kto:Player",
       "skos:prefLabel": "José Raúl Capablanca",
