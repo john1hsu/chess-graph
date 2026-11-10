@@ -1090,6 +1090,34 @@
 <https://github.com/john1hsu/chess-graph/id/isolated-queens-pawn> <https://github.com/john1hsu/chess-graph/ontology#fen> "rnbq1rk1/pp2bppp/4pn2/8/2BP4/2N2N2/PP3PPP/R1BQ1RK1 w - - 3 9" .
 <https://github.com/john1hsu/chess-graph/id/isolated-queens-pawn> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/isolated-queens-pawn> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
+<https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <http://www.w3.org/2000/01/rdf-schema#label> "José Raúl Capablanca" .
+<https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <http://www.w3.org/2004/02/skos/core#altLabel> "Capablanca" .
+<https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <http://www.w3.org/2004/02/skos/core#altLabel> "J. R. Capablanca" .
+<https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <http://www.w3.org/2004/02/skos/core#altLabel> "Jose Raul Capablanca" .
+<https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <http://www.w3.org/2004/02/skos/core#altLabel> "The Human Chess Machine" .
+<https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <http://www.w3.org/2004/02/skos/core#definition> "Cuban master (1888–1942) and the third official world chess champion, who took the title from Emanuel Lasker in 1921 without losing a game and held it until Alexander Alekhine beat him in 1927; celebrated for clear positional play and endgame technique." .
+<https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <http://www.w3.org/2004/02/skos/core#prefLabel> "José Raúl Capablanca" .
+<https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/alexander-alekhine> .
+<https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> .
+<https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/emanuel-lasker> .
+<https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/isolated-queens-pawn> .
+<https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s1> .
+<https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s2> .
+<https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s3> .
+<https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s4> .
+<https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s5> .
+<https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s6> .
+<https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <https://github.com/john1hsu/chess-graph/ontology#domain> "players" .
+<https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/lasker-capablanca-havana-1921-game-10> .
+<https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <https://github.com/john1hsu/chess-graph/ontology#fen> "2r3k1/p3npp1/1q2p2p/3p4/3P4/8/PPQ1NPPP/3R2K1 w - - 0 25" .
+<https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <https://github.com/john1hsu/chess-graph/ontology#holdsTitle> <https://github.com/john1hsu/chess-graph/id/world-chess-champion> .
+<https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/world-chess-championship-1921> .
+<https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/world-chess-championship-1927> .
+<https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/lucena-position> <http://purl.org/dc/terms/created> "2026-11-07" .
 <https://github.com/john1hsu/chess-graph/id/lucena-position> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#EndgameType> .
 <https://github.com/john1hsu/chess-graph/id/lucena-position> <http://www.w3.org/2000/01/rdf-schema#label> "Lucena position" .
@@ -2604,6 +2632,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/isolated-queens-pawn/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/isolated-queens-pawn/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/isolated-queens-pawn/s5> <https://schema.org/url> "https://www.chess.com/terms/isolated-queens-pawn-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s1> <http://purl.org/dc/terms/title> "José Raúl Capablanca" .
+<https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s1> <https://schema.org/url> "https://www.britannica.com/biography/Jose-Raul-Capablanca" .
+<https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s2> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
+<https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s2> <http://purl.org/dc/terms/title> "José Raúl Capablanca (inductee page)" .
+<https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s2> <https://schema.org/url> "https://worldchesshof.org/?p=934" .
+<https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s3> <http://purl.org/dc/terms/publisher> "OlimpBase (Wojciech Bartelski)" .
+<https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s3> <http://purl.org/dc/terms/title> "World Chess Championship :: Havana 1921" .
+<https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s3> <https://schema.org/url> "https://www.olimpbase.org/ind-wcc/wc1921-wch.html" .
+<https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s4> <http://purl.org/dc/terms/publisher> "OlimpBase (Wojciech Bartelski)" .
+<https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s4> <http://purl.org/dc/terms/title> "World Chess Championship :: Buenos Aires 1927" .
+<https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s4> <https://schema.org/url> "https://www.olimpbase.org/ind-wcc/wc1927-wch.html" .
+<https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s5> <http://purl.org/dc/terms/publisher> "Project Gutenberg" .
+<https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s5> <http://purl.org/dc/terms/title> "Chess Fundamentals, by José Raúl Capablanca (Project Gutenberg eBook 33870)" .
+<https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s5> <https://schema.org/url> "https://gutenberg.org/cache/epub/33870/pg33870-images.html" .
+<https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s6> <http://purl.org/dc/terms/publisher> "Jeremy Silman" .
+<https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s6> <http://purl.org/dc/terms/title> "Capablanca Move by Move (review by John Watson, with the score of Lasker–Capablanca, Havana 1921, game 10)" .
+<https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s6> <https://schema.org/url> "https://www.jeremysilman.com/?p=2476" .
 <https://github.com/john1hsu/chess-graph/id/source/lucena-position/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
 <https://github.com/john1hsu/chess-graph/id/source/lucena-position/s1> <http://purl.org/dc/terms/title> "The Lucena Position" .
 <https://github.com/john1hsu/chess-graph/id/source/lucena-position/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

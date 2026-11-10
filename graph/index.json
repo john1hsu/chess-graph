@@ -987,6 +987,31 @@
     ]
   },
   {
+    "id": "kt:jose-raul-capablanca",
+    "title": "José Raúl Capablanca",
+    "aliases": [
+      "Jose Raul Capablanca",
+      "Capablanca",
+      "J. R. Capablanca",
+      "The Human Chess Machine"
+    ],
+    "type": "Player",
+    "domain": "players",
+    "file": "articles/players/jose-raul-capablanca.md",
+    "created": "2026-11-10",
+    "verified": "2026-11-10",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://www.britannica.com/biography/Jose-Raul-Capablanca",
+      "https://worldchesshof.org/?p=934",
+      "https://www.olimpbase.org/ind-wcc/wc1921-wch.html",
+      "https://www.olimpbase.org/ind-wcc/wc1927-wch.html",
+      "https://gutenberg.org/cache/epub/33870/pg33870-images.html",
+      "https://www.jeremysilman.com/?p=2476"
+    ]
+  },
+  {
     "id": "kt:lucena-position",
     "title": "Lucena position",
     "aliases": [

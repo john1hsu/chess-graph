@@ -3049,6 +3049,100 @@
       ]
     },
     {
+      "@id": "kt:jose-raul-capablanca",
+      "@type": "kto:Player",
+      "skos:prefLabel": "José Raúl Capablanca",
+      "skos:definition": "Cuban master (1888–1942) and the third official world chess champion, who took the title from Emanuel Lasker in 1921 without losing a game and held it until Alexander Alekhine beat him in 1927; celebrated for clear positional play and endgame technique.",
+      "kto:domain": "players",
+      "dcterms:created": "2026-11-10",
+      "kto:verified": "2026-11-10",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "José Raúl Capablanca",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/biography/Jose-Raul-Capablanca",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "José Raúl Capablanca (inductee page)",
+          "dcterms:publisher": "World Chess Hall of Fame",
+          "schema:url": "https://worldchesshof.org/?p=934",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "World Chess Championship :: Havana 1921",
+          "dcterms:publisher": "OlimpBase (Wojciech Bartelski)",
+          "schema:url": "https://www.olimpbase.org/ind-wcc/wc1921-wch.html",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "World Chess Championship :: Buenos Aires 1927",
+          "dcterms:publisher": "OlimpBase (Wojciech Bartelski)",
+          "schema:url": "https://www.olimpbase.org/ind-wcc/wc1927-wch.html",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "Chess Fundamentals, by José Raúl Capablanca (Project Gutenberg eBook 33870)",
+          "dcterms:publisher": "Project Gutenberg",
+          "schema:url": "https://gutenberg.org/cache/epub/33870/pg33870-images.html",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Capablanca Move by Move (review by John Watson, with the score of Lasker–Capablanca, Havana 1921, game 10)",
+          "dcterms:publisher": "Jeremy Silman",
+          "schema:url": "https://www.jeremysilman.com/?p=2476",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/players/jose-raul-capablanca.md",
+      "skos:altLabel": [
+        "Jose Raul Capablanca",
+        "Capablanca",
+        "J. R. Capablanca",
+        "The Human Chess Machine"
+      ],
+      "kto:fen": "2r3k1/p3npp1/1q2p2p/3p4/3P4/8/PPQ1NPPP/3R2K1 w - - 0 25",
+      "skos:broader": [
+        {
+          "@id": "kt:world-chess-championship"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:emanuel-lasker"
+        },
+        {
+          "@id": "kt:alexander-alekhine"
+        },
+        {
+          "@id": "kt:aron-nimzowitsch"
+        },
+        {
+          "@id": "kt:isolated-queens-pawn"
+        }
+      ],
+      "kto:holdsTitle": [
+        {
+          "@id": "kt:world-chess-champion"
+        }
+      ],
+      "kto:playedIn": [
+        {
+          "@id": "kt:world-chess-championship-1921"
+        },
+        {
+          "@id": "kt:world-chess-championship-1927"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:lasker-capablanca-havana-1921-game-10"
+        }
+      ]
+    },
+    {
       "@id": "kt:wilhelm-steinitz",
       "@type": "kto:Player",
       "skos:prefLabel": "Wilhelm Steinitz",
