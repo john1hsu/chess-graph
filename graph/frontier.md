@@ -4,11 +4,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:chess` | `kt:chaturanga`, `kt:history-of-chess`, `kt:shatranj`, `kt:chess-strategy`, `kt:fide-laws-of-chess`, `kt:chess-tactics` |
+| `kt:chess` | `kt:chaturanga`, `kt:history-of-chess`, `kt:shatranj`, `kt:chess-strategy`, `kt:fide-laws-of-chess`, `kt:chess-tactics`, `kt:chess-composition` |
+| `kt:codex-of-chess-composition` | `kt:chess-composition`, `kt:chess-problems`, `kt:endgame-study`, `kt:helpmate`, `kt:retrograde-analysis` |
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:bobby-fischer`, `kt:emanuel-lasker`, `kt:jose-raul-capablanca`, `kt:wilhelm-steinitz` |
-| `kt:chess-composition` | `kt:chess-problems`, `kt:endgame-study`, `kt:helpmate`, `kt:retrograde-analysis` |
 | `kt:chess-endgame` | `kt:endgame-tablebases`, `kt:king-and-pawn-endgames`, `kt:passed-pawn`, `kt:rook-endgames` |
-| `kt:codex-of-chess-composition` | `kt:chess-problems`, `kt:endgame-study`, `kt:helpmate`, `kt:retrograde-analysis` |
 | `kt:siegbert-tarrasch` | `kt:hypermodernism`, `kt:isolated-queens-pawn`, `kt:aron-nimzowitsch`, `kt:emanuel-lasker` |
 | `kt:triangulation` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:opposition`, `kt:zugzwang` |
 | `kt:anatoly-karpov` | `kt:caro-kann-defence`, `kt:ruy-lopez`, `kt:bobby-fischer` |
@@ -30,6 +29,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:checkmate` | `kt:stalemate`, `kt:helpmate` |
 | `kt:chess-organizations` | `kt:fide`, `kt:us-chess` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
+| `kt:excelsior` | `kt:chess-composition`, `kt:chess-problems` |
 | `kt:fischer-spassky-1972` | `kt:world-chess-championship`, `kt:bobby-fischer` |
 | `kt:francois-andre-danican-philidor` | `kt:philidor-position`, `kt:pawn-structure` |
 | `kt:garry-kasparov` | `kt:deep-blue-versus-kasparov`, `kt:sicilian-defence` |
@@ -92,7 +92,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:dragon-variation` | `kt:sicilian-defence` |
 | `kt:draw` | `kt:stalemate` |
 | `kt:european-chess-union` | `kt:fide` |
-| `kt:excelsior` | `kt:chess-problems` |
 | `kt:extended-position-description` | `kt:forsyth-edwards-notation` |
 | `kt:fair-play-regulations` | `kt:grandmaster-title` |
 | `kt:fide-title-regulations` | `kt:grandmaster-title` |
@@ -169,3 +168,4 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:world-chess-championship-1894` | `kt:emanuel-lasker` |
 | `kt:world-chess-championship-1921` | `kt:jose-raul-capablanca` |
 | `kt:world-chess-championship-1927` | `kt:jose-raul-capablanca` |
+| `kt:world-federation-for-chess-composition` | `kt:chess-composition` |

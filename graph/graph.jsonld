@@ -5950,6 +5950,106 @@
       ]
     },
     {
+      "@id": "kt:chess-composition",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Chess composition",
+      "skos:definition": "The art of constructing chess positions with a stated task (a stipulation) and a unique intended solution, comprising endgame studies, orthodox problems and heterodox (fairy) problems, and organised internationally by the World Federation for Chess Composition (WFCC).",
+      "kto:domain": "variants-and-compositions",
+      "dcterms:created": "2026-11-10",
+      "kto:verified": "2026-11-10",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Chess: Chess composition",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/chess/Chess-composition",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Codex for Chess Composition (version Vilnius 2019)",
+          "dcterms:publisher": "World Federation for Chess Composition (WFCC)",
+          "schema:url": "https://www.wfcc.ch/?p=198",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "WFCC Statutes (Hersonissos, Crete, 19 October 2010), with Annex III: Attribution of titles",
+          "dcterms:publisher": "World Federation for Chess Composition (WFCC)",
+          "schema:url": "https://www.wfcc.ch/?p=435",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "The 50th Anniversary Meeting of the Permanent Commission for Chess Composition (Klaus Wenda)",
+          "dcterms:publisher": "World Federation for Chess Composition (WFCC)",
+          "schema:url": "https://wfcc.ch/?p=381",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "53rd PCCC meeting, Crete 2010",
+          "dcterms:publisher": "World Federation for Chess Composition (WFCC)",
+          "schema:url": "https://www.wfcc.ch/?p=206",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "World Chess Composition Tournament (WCCT): general rules",
+          "dcterms:publisher": "World Federation for Chess Composition (WFCC)",
+          "schema:url": "https://wfcc.ch/?p=508",
+          "kto:sourceType": "governing-body"
+        }
+      ],
+      "kto:file": "articles/variants-and-compositions/chess-composition.md",
+      "skos:altLabel": [
+        "Compositional chess",
+        "Chess compositions",
+        "Composed chess"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:chess-problems"
+        },
+        {
+          "@id": "kt:endgame-study"
+        },
+        {
+          "@id": "kt:helpmate"
+        },
+        {
+          "@id": "kt:retrograde-analysis"
+        },
+        {
+          "@id": "kt:fide"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:chess-problems"
+        },
+        {
+          "@id": "kt:endgame-study"
+        }
+      ],
+      "kto:governedBy": [
+        {
+          "@id": "kt:codex-of-chess-composition"
+        }
+      ],
+      "kto:sanctionedBy": [
+        {
+          "@id": "kt:world-federation-for-chess-composition"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:excelsior"
+        }
+      ]
+    },
+    {
       "@id": "kt:chess-problems",
       "@type": "kto:ProblemGenre",
       "skos:prefLabel": "Chess problem",

@@ -292,6 +292,34 @@
 <https://github.com/john1hsu/chess-graph/id/chaturanga> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/shatranj> .
 <https://github.com/john1hsu/chess-graph/id/chaturanga> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/chaturanga> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/chess-composition> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/chess-composition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Concept> .
+<https://github.com/john1hsu/chess-graph/id/chess-composition> <http://www.w3.org/2000/01/rdf-schema#label> "Chess composition" .
+<https://github.com/john1hsu/chess-graph/id/chess-composition> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess compositions" .
+<https://github.com/john1hsu/chess-graph/id/chess-composition> <http://www.w3.org/2004/02/skos/core#altLabel> "Composed chess" .
+<https://github.com/john1hsu/chess-graph/id/chess-composition> <http://www.w3.org/2004/02/skos/core#altLabel> "Compositional chess" .
+<https://github.com/john1hsu/chess-graph/id/chess-composition> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess> .
+<https://github.com/john1hsu/chess-graph/id/chess-composition> <http://www.w3.org/2004/02/skos/core#definition> "The art of constructing chess positions with a stated task (a stipulation) and a unique intended solution, comprising endgame studies, orthodox problems and heterodox (fairy) problems, and organised internationally by the World Federation for Chess Composition (WFCC)." .
+<https://github.com/john1hsu/chess-graph/id/chess-composition> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chess composition" .
+<https://github.com/john1hsu/chess-graph/id/chess-composition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-problems> .
+<https://github.com/john1hsu/chess-graph/id/chess-composition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/endgame-study> .
+<https://github.com/john1hsu/chess-graph/id/chess-composition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fide> .
+<https://github.com/john1hsu/chess-graph/id/chess-composition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/helpmate> .
+<https://github.com/john1hsu/chess-graph/id/chess-composition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/retrograde-analysis> .
+<https://github.com/john1hsu/chess-graph/id/chess-composition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-composition/s1> .
+<https://github.com/john1hsu/chess-graph/id/chess-composition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-composition/s2> .
+<https://github.com/john1hsu/chess-graph/id/chess-composition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-composition/s3> .
+<https://github.com/john1hsu/chess-graph/id/chess-composition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-composition/s4> .
+<https://github.com/john1hsu/chess-graph/id/chess-composition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-composition/s5> .
+<https://github.com/john1hsu/chess-graph/id/chess-composition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-composition/s6> .
+<https://github.com/john1hsu/chess-graph/id/chess-composition> <https://github.com/john1hsu/chess-graph/ontology#domain> "variants-and-compositions" .
+<https://github.com/john1hsu/chess-graph/id/chess-composition> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/excelsior> .
+<https://github.com/john1hsu/chess-graph/id/chess-composition> <https://github.com/john1hsu/chess-graph/ontology#governedBy> <https://github.com/john1hsu/chess-graph/id/codex-of-chess-composition> .
+<https://github.com/john1hsu/chess-graph/id/chess-composition> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/chess-problems> .
+<https://github.com/john1hsu/chess-graph/id/chess-composition> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/endgame-study> .
+<https://github.com/john1hsu/chess-graph/id/chess-composition> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/world-federation-for-chess-composition> .
+<https://github.com/john1hsu/chess-graph/id/chess-composition> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/chess-composition> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/chess-expertise> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/chess-expertise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#CognitiveConcept> .
 <https://github.com/john1hsu/chess-graph/id/chess-expertise> <http://www.w3.org/2000/01/rdf-schema#label> "Chess expertise" .
@@ -2097,6 +2125,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/chaturanga/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/chaturanga/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/chaturanga/s6> <https://schema.org/url> "https://www.chessvariants.org/historic.dir/chaturanga.html" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-composition/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-composition/s1> <http://purl.org/dc/terms/title> "Chess: Chess composition" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-composition/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-composition/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-composition/s1> <https://schema.org/url> "https://www.britannica.com/topic/chess/Chess-composition" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-composition/s2> <http://purl.org/dc/terms/publisher> "World Federation for Chess Composition (WFCC)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-composition/s2> <http://purl.org/dc/terms/title> "Codex for Chess Composition (version Vilnius 2019)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-composition/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-composition/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-composition/s2> <https://schema.org/url> "https://www.wfcc.ch/?p=198" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-composition/s3> <http://purl.org/dc/terms/publisher> "World Federation for Chess Composition (WFCC)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-composition/s3> <http://purl.org/dc/terms/title> "WFCC Statutes (Hersonissos, Crete, 19 October 2010), with Annex III: Attribution of titles" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-composition/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-composition/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-composition/s3> <https://schema.org/url> "https://www.wfcc.ch/?p=435" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-composition/s4> <http://purl.org/dc/terms/publisher> "World Federation for Chess Composition (WFCC)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-composition/s4> <http://purl.org/dc/terms/title> "The 50th Anniversary Meeting of the Permanent Commission for Chess Composition (Klaus Wenda)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-composition/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-composition/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-composition/s4> <https://schema.org/url> "https://wfcc.ch/?p=381" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-composition/s5> <http://purl.org/dc/terms/publisher> "World Federation for Chess Composition (WFCC)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-composition/s5> <http://purl.org/dc/terms/title> "53rd PCCC meeting, Crete 2010" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-composition/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-composition/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-composition/s5> <https://schema.org/url> "https://www.wfcc.ch/?p=206" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-composition/s6> <http://purl.org/dc/terms/publisher> "World Federation for Chess Composition (WFCC)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-composition/s6> <http://purl.org/dc/terms/title> "World Chess Composition Tournament (WCCT): general rules" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-composition/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-composition/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-composition/s6> <https://schema.org/url> "https://wfcc.ch/?p=508" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-expertise/s1> <http://purl.org/dc/terms/publisher> "Burgoyne, Sala, Gobet, Macnamara, Campitelli and Hambrick, via University of Zurich" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-expertise/s1> <http://purl.org/dc/terms/title> "The relationship between cognitive ability and chess skill: A comprehensive meta-analysis (Intelligence 59, 72-83)" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-expertise/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

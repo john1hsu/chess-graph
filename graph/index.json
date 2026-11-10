@@ -260,6 +260,30 @@
     ]
   },
   {
+    "id": "kt:chess-composition",
+    "title": "Chess composition",
+    "aliases": [
+      "Compositional chess",
+      "Chess compositions",
+      "Composed chess"
+    ],
+    "type": "Concept",
+    "domain": "variants-and-compositions",
+    "file": "articles/variants-and-compositions/chess-composition.md",
+    "created": "2026-11-10",
+    "verified": "2026-11-10",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://www.britannica.com/topic/chess/Chess-composition",
+      "https://www.wfcc.ch/?p=198",
+      "https://www.wfcc.ch/?p=435",
+      "https://wfcc.ch/?p=381",
+      "https://www.wfcc.ch/?p=206",
+      "https://wfcc.ch/?p=508"
+    ]
+  },
+  {
     "id": "kt:chess-expertise",
     "title": "Chess expertise",
     "aliases": [
