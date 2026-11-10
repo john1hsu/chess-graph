@@ -1475,6 +1475,33 @@
     ]
   },
   {
+    "id": "kt:us-chess",
+    "title": "US Chess",
+    "aliases": [
+      "United States Chess Federation",
+      "US Chess Federation",
+      "U.S. Chess Federation",
+      "USCF",
+      "U.S. Chess"
+    ],
+    "type": "Organization",
+    "domain": "events-and-organizations",
+    "file": "articles/events-and-organizations/us-chess.md",
+    "created": "2026-11-10",
+    "verified": "2026-11-10",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://www.uschess.org/content/blogsection/12/35/",
+      "https://new.uschess.org/news/us-chess-seeks-executive-director-2025",
+      "https://new.uschess.org/news/us-chess-executive-board-votes-move-organizations-headquarters",
+      "https://pubs.royle.com/article/Our+Membership+Through+The+Years/4569200/790658/article.html",
+      "https://new.uschess.org/sites/default/files/media/documents/us-chess-rule-book-online-only-edition-chp-1-8-24-20.pdf",
+      "https://new.uschess.org/news/7th-edition-rule-book-free-chapters-updated-2023",
+      "https://www.glicko.net/research/chance.pdf"
+    ]
+  },
+  {
     "id": "kt:wilhelm-steinitz",
     "title": "Wilhelm Steinitz",
     "aliases": [

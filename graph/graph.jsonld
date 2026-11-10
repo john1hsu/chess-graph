@@ -1629,6 +1629,96 @@
       ]
     },
     {
+      "@id": "kt:us-chess",
+      "@type": "kto:Organization",
+      "skos:prefLabel": "US Chess",
+      "skos:definition": "The national governing body for chess in the United States and its member federation in FIDE, founded in 1939 by the merger of the American Chess Federation and the National Chess Federation; it runs the national rating system, sanctions rated tournaments and publishes the Official Rules of Chess.",
+      "kto:domain": "events-and-organizations",
+      "dcterms:created": "2026-11-10",
+      "kto:verified": "2026-11-10",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "About USCF",
+          "dcterms:publisher": "US Chess (uschess.org)",
+          "schema:url": "https://www.uschess.org/content/blogsection/12/35/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "US Chess Seeks Executive Director (2025)",
+          "dcterms:publisher": "US Chess (new.uschess.org news, 18 September 2025)",
+          "schema:url": "https://new.uschess.org/news/us-chess-seeks-executive-director-2025",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "US Chess Executive Board Votes to Move Organization's Headquarters",
+          "dcterms:publisher": "US Chess (new.uschess.org news, 5 January 2022)",
+          "schema:url": "https://new.uschess.org/news/us-chess-executive-board-votes-move-organizations-headquarters",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Our Membership Through The Years",
+          "dcterms:publisher": "Melinda Matthews and Natasha Roberts, Chess Life (May 2023)",
+          "schema:url": "https://pubs.royle.com/article/Our+Membership+Through+The+Years/4569200/790658/article.html",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "US Chess Federation's Official Rules of Chess, 7th edition, Chapter 1 (online edition, revised 24 August 2020)",
+          "dcterms:publisher": "US Chess",
+          "schema:url": "https://new.uschess.org/sites/default/files/media/documents/us-chess-rule-book-online-only-edition-chp-1-8-24-20.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "7th Edition Rule Book Free Chapters (Updated for 2026)",
+          "dcterms:publisher": "US Chess (new.uschess.org news)",
+          "schema:url": "https://new.uschess.org/news/7th-edition-rule-book-free-chapters-updated-2023",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Rating the Chess Rating System",
+          "dcterms:publisher": "Mark E. Glickman and Albyn C. Jones (Boston University / Reed College), glicko.net",
+          "schema:url": "https://www.glicko.net/research/chance.pdf",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/events-and-organizations/us-chess.md",
+      "skos:altLabel": [
+        "United States Chess Federation",
+        "US Chess Federation",
+        "U.S. Chess Federation",
+        "USCF",
+        "U.S. Chess"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess-organizations"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:elo-rating-system"
+        },
+        {
+          "@id": "kt:touch-move"
+        },
+        {
+          "@id": "kt:bobby-fischer"
+        },
+        {
+          "@id": "kt:saint-louis-chess-club"
+        },
+        {
+          "@id": "kt:us-chess-championship"
+        }
+      ],
+      "kto:memberOf": [
+        {
+          "@id": "kt:fide"
+        }
+      ]
+    },
+    {
       "@id": "kt:chaturanga",
       "@type": "kto:Variant",
       "skos:prefLabel": "Chaturanga",

@@ -26,7 +26,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:template-theory` | `kt:adriaan-de-groot`, `kt:chunking-theory`, `kt:einstellung-effect` |
 | `kt:anatoly-karpov` | `kt:caro-kann-defence`, `kt:ruy-lopez` |
 | `kt:arbiter` | `kt:fide-laws-of-chess`, `kt:touch-move` |
+| `kt:bobby-fischer` | `kt:us-chess`, `kt:chess960` |
 | `kt:checkmate` | `kt:stalemate`, `kt:helpmate` |
+| `kt:chess-organizations` | `kt:fide`, `kt:us-chess` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position` |
 | `kt:dead-position` | `kt:stalemate`, `kt:helpmate` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
@@ -52,7 +54,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:talent` | `kt:chess-expertise`, `kt:deliberate-practice` |
 | `kt:threefold-repetition` | `kt:en-passant`, `kt:fide-laws-of-chess` |
 | `kt:transposition-table` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
-| `kt:us-chess` | `kt:elo-rating-system`, `kt:touch-move` |
 | `kt:visualization` | `kt:calculation`, `kt:chunking-theory` |
 | `kt:world-chess-championship-1886` | `kt:world-chess-championship`, `kt:wilhelm-steinitz` |
 | `kt:zwischenzug` | `kt:discovered-attack`, `kt:fork` |
@@ -71,13 +72,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:berlin-defence` | `kt:ruy-lopez` |
 | `kt:bishop-pair` | `kt:material-advantage` |
 | `kt:blindfold-chess` | `kt:cognitive-psychology-of-chess` |
-| `kt:bobby-fischer` | `kt:chess960` |
 | `kt:candidate-moves` | `kt:calculation` |
 | `kt:candidates-tournament` | `kt:world-chess-championship` |
 | `kt:carlsbad-1929` | `kt:aron-nimzowitsch` |
 | `kt:carlsbad-structure` | `kt:pawn-structure` |
 | `kt:chess-endgame` | `kt:king-and-pawn-endgames` |
-| `kt:chess-organizations` | `kt:fide` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
 | `kt:chess-titles` | `kt:grandmaster-title` |
 | `kt:cognitive-science` | `kt:cognitive-psychology-of-chess` |
@@ -135,6 +134,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:remi-coulom` | `kt:monte-carlo-tree-search` |
 | `kt:rule-of-the-square` | `kt:king-and-pawn-endgames` |
 | `kt:ruy-lopez-de-segura` | `kt:ruy-lopez` |
+| `kt:saint-louis-chess-club` | `kt:us-chess` |
 | `kt:selfmate` | `kt:helpmate` |
 | `kt:shuffle-chess` | `kt:chess960` |
 | `kt:smothered-mate` | `kt:einstellung-effect` |
@@ -151,6 +151,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:tie-break-regulations` | `kt:chess-olympiad` |
 | `kt:underpromotion` | `kt:pawn-promotion` |
 | `kt:universal-chess-interface` | `kt:chess960` |
+| `kt:us-chess-championship` | `kt:us-chess` |
 | `kt:vladimir-kramnik` | `kt:ruy-lopez` |
 | `kt:weak-squares` | `kt:outpost` |
 | `kt:william-chase` | `kt:chunking-theory` |

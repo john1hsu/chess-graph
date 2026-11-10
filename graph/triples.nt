@@ -3190,6 +3190,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/touch-move/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/touch-move/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
 <https://github.com/john1hsu/chess-graph/id/source/touch-move/s5> <https://schema.org/url> "https://handbook.fide.com/chapter/E012014" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess/s1> <http://purl.org/dc/terms/publisher> "US Chess (uschess.org)" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess/s1> <http://purl.org/dc/terms/title> "About USCF" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess/s1> <https://schema.org/url> "https://www.uschess.org/content/blogsection/12/35/" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess/s2> <http://purl.org/dc/terms/publisher> "US Chess (new.uschess.org news, 18 September 2025)" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess/s2> <http://purl.org/dc/terms/title> "US Chess Seeks Executive Director (2025)" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess/s2> <https://schema.org/url> "https://new.uschess.org/news/us-chess-seeks-executive-director-2025" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess/s3> <http://purl.org/dc/terms/publisher> "US Chess (new.uschess.org news, 5 January 2022)" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess/s3> <http://purl.org/dc/terms/title> "US Chess Executive Board Votes to Move Organization's Headquarters" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess/s3> <https://schema.org/url> "https://new.uschess.org/news/us-chess-executive-board-votes-move-organizations-headquarters" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess/s4> <http://purl.org/dc/terms/publisher> "Melinda Matthews and Natasha Roberts, Chess Life (May 2023)" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess/s4> <http://purl.org/dc/terms/title> "Our Membership Through The Years" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess/s4> <https://schema.org/url> "https://pubs.royle.com/article/Our+Membership+Through+The+Years/4569200/790658/article.html" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess/s5> <http://purl.org/dc/terms/publisher> "US Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess/s5> <http://purl.org/dc/terms/title> "US Chess Federation's Official Rules of Chess, 7th edition, Chapter 1 (online edition, revised 24 August 2020)" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess/s5> <https://schema.org/url> "https://new.uschess.org/sites/default/files/media/documents/us-chess-rule-book-online-only-edition-chp-1-8-24-20.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess/s6> <http://purl.org/dc/terms/publisher> "US Chess (new.uschess.org news)" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess/s6> <http://purl.org/dc/terms/title> "7th Edition Rule Book Free Chapters (Updated for 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess/s6> <https://schema.org/url> "https://new.uschess.org/news/7th-edition-rule-book-free-chapters-updated-2023" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess/s7> <http://purl.org/dc/terms/publisher> "Mark E. Glickman and Albyn C. Jones (Boston University / Reed College), glicko.net" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess/s7> <http://purl.org/dc/terms/title> "Rating the Chess Rating System" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess/s7> <https://schema.org/url> "https://www.glicko.net/research/chance.pdf" .
 <https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s1> <http://purl.org/dc/terms/title> "Wilhelm Steinitz" .
 <https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -3333,6 +3368,33 @@
 <https://github.com/john1hsu/chess-graph/id/touch-move> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
 <https://github.com/john1hsu/chess-graph/id/touch-move> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/touch-move> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/us-chess> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/us-chess> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Organization> .
+<https://github.com/john1hsu/chess-graph/id/us-chess> <http://www.w3.org/2000/01/rdf-schema#label> "US Chess" .
+<https://github.com/john1hsu/chess-graph/id/us-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "U.S. Chess Federation" .
+<https://github.com/john1hsu/chess-graph/id/us-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "U.S. Chess" .
+<https://github.com/john1hsu/chess-graph/id/us-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "US Chess Federation" .
+<https://github.com/john1hsu/chess-graph/id/us-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "USCF" .
+<https://github.com/john1hsu/chess-graph/id/us-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "United States Chess Federation" .
+<https://github.com/john1hsu/chess-graph/id/us-chess> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-organizations> .
+<https://github.com/john1hsu/chess-graph/id/us-chess> <http://www.w3.org/2004/02/skos/core#definition> "The national governing body for chess in the United States and its member federation in FIDE, founded in 1939 by the merger of the American Chess Federation and the National Chess Federation; it runs the national rating system, sanctions rated tournaments and publishes the Official Rules of Chess." .
+<https://github.com/john1hsu/chess-graph/id/us-chess> <http://www.w3.org/2004/02/skos/core#prefLabel> "US Chess" .
+<https://github.com/john1hsu/chess-graph/id/us-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/bobby-fischer> .
+<https://github.com/john1hsu/chess-graph/id/us-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/elo-rating-system> .
+<https://github.com/john1hsu/chess-graph/id/us-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/saint-louis-chess-club> .
+<https://github.com/john1hsu/chess-graph/id/us-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/touch-move> .
+<https://github.com/john1hsu/chess-graph/id/us-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/us-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/us-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/us-chess/s1> .
+<https://github.com/john1hsu/chess-graph/id/us-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/us-chess/s2> .
+<https://github.com/john1hsu/chess-graph/id/us-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/us-chess/s3> .
+<https://github.com/john1hsu/chess-graph/id/us-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/us-chess/s4> .
+<https://github.com/john1hsu/chess-graph/id/us-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/us-chess/s5> .
+<https://github.com/john1hsu/chess-graph/id/us-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/us-chess/s6> .
+<https://github.com/john1hsu/chess-graph/id/us-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/us-chess/s7> .
+<https://github.com/john1hsu/chess-graph/id/us-chess> <https://github.com/john1hsu/chess-graph/ontology#domain> "events-and-organizations" .
+<https://github.com/john1hsu/chess-graph/id/us-chess> <https://github.com/john1hsu/chess-graph/ontology#memberOf> <https://github.com/john1hsu/chess-graph/id/fide> .
+<https://github.com/john1hsu/chess-graph/id/us-chess> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/us-chess> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
 <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <http://www.w3.org/2000/01/rdf-schema#label> "Wilhelm Steinitz" .
