@@ -7,7 +7,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chess` | `kt:chaturanga`, `kt:shatranj`, `kt:chess-strategy`, `kt:fide-laws-of-chess`, `kt:chess-tactics` |
 | `kt:adriaan-de-groot` | `kt:calculation`, `kt:chess-expertise`, `kt:chunking-theory`, `kt:cognitive-psychology-of-chess` |
 | `kt:king-and-pawn-endgames` | `kt:lucena-position`, `kt:opposition`, `kt:philidor-position`, `kt:stalemate` |
+| `kt:chess-composition` | `kt:chess-problems`, `kt:endgame-study`, `kt:helpmate` |
 | `kt:chess-variants` | `kt:chaturanga`, `kt:shatranj`, `kt:chess960` |
+| `kt:codex-of-chess-composition` | `kt:chess-problems`, `kt:endgame-study`, `kt:helpmate` |
 | `kt:double-check` | `kt:discovered-attack`, `kt:discovered-attack`, `kt:fork` |
 | `kt:endgame-tablebases` | `kt:computer-chess`, `kt:zugzwang`, `kt:endgame-study` |
 | `kt:history-of-chess` | `kt:chaturanga`, `kt:shatranj`, `kt:world-chess-championship` |
@@ -23,9 +25,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:emanuel-lasker`, `kt:wilhelm-steinitz` |
 | `kt:anatoly-karpov` | `kt:caro-kann-defence`, `kt:ruy-lopez` |
 | `kt:arbiter` | `kt:fide-laws-of-chess`, `kt:touch-move` |
-| `kt:chess-composition` | `kt:chess-problems`, `kt:endgame-study` |
-| `kt:codex-of-chess-composition` | `kt:chess-problems`, `kt:endgame-study` |
+| `kt:checkmate` | `kt:stalemate`, `kt:helpmate` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position` |
+| `kt:dead-position` | `kt:stalemate`, `kt:helpmate` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
 | `kt:fifty-move-rule` | `kt:fide-laws-of-chess`, `kt:forsyth-edwards-notation` |
 | `kt:francois-andre-danican-philidor` | `kt:philidor-position`, `kt:pawn-structure` |
@@ -42,6 +44,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:nnue` | `kt:computer-chess`, `kt:evaluation-function` |
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
+| `kt:retrograde-analysis` | `kt:chess-problems`, `kt:helpmate` |
 | `kt:saavedra-position` | `kt:pawn-promotion`, `kt:endgame-study` |
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:zugzwang`, `kt:aron-nimzowitsch` |
 | `kt:simplification` | `kt:material-advantage`, `kt:material-advantage` |
@@ -75,13 +78,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:candidates-tournament` | `kt:world-chess-championship` |
 | `kt:carlsbad-1929` | `kt:aron-nimzowitsch` |
 | `kt:carlsbad-structure` | `kt:pawn-structure` |
-| `kt:checkmate` | `kt:stalemate` |
 | `kt:chess-organizations` | `kt:fide` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
 | `kt:chess-titles` | `kt:grandmaster-title` |
 | `kt:cognitive-science` | `kt:cognitive-psychology-of-chess` |
 | `kt:david-forsyth` | `kt:forsyth-edwards-notation` |
-| `kt:dead-position` | `kt:stalemate` |
 | `kt:deep-blue` | `kt:deep-blue-versus-kasparov` |
 | `kt:dragon-variation` | `kt:sicilian-defence` |
 | `kt:draw` | `kt:stalemate` |
@@ -97,7 +98,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:good-and-bad-bishops` | `kt:french-defence` |
 | `kt:good-knight-versus-bad-bishop` | `kt:outpost` |
 | `kt:hans-berliner` | `kt:horizon-effect` |
-| `kt:helpmate` | `kt:chess-problems` |
 | `kt:horatio-caro` | `kt:caro-kann-defence` |
 | `kt:illegal-move` | `kt:touch-move` |
 | `kt:international-master-title` | `kt:grandmaster-title` |
@@ -112,6 +112,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position` |
 | `kt:marcus-kann` | `kt:caro-kann-defence` |
 | `kt:marshall-attack` | `kt:ruy-lopez` |
+| `kt:max-lange` | `kt:helpmate` |
 | `kt:merim-bilalic` | `kt:einstellung-effect` |
 | `kt:mikhail-chigorin` | `kt:wilhelm-steinitz` |
 | `kt:minority-attack` | `kt:pawn-structure` |
@@ -131,8 +132,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:puzzle-training` | `kt:deliberate-practice` |
 | `kt:queens-gambit-accepted` | `kt:isolated-queens-pawn` |
 | `kt:remi-coulom` | `kt:monte-carlo-tree-search` |
-| `kt:retrograde-analysis` | `kt:chess-problems` |
 | `kt:ruy-lopez-de-segura` | `kt:ruy-lopez` |
+| `kt:selfmate` | `kt:helpmate` |
 | `kt:shuffle-chess` | `kt:chess960` |
 | `kt:smothered-mate` | `kt:einstellung-effect` |
 | `kt:solving-chess` | `kt:game-tree-search` |

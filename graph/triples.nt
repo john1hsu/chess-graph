@@ -979,6 +979,37 @@
 <https://github.com/john1hsu/chess-graph/id/grandmaster-title> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/fide> .
 <https://github.com/john1hsu/chess-graph/id/grandmaster-title> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/grandmaster-title> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/helpmate> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/helpmate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#ProblemGenre> .
+<https://github.com/john1hsu/chess-graph/id/helpmate> <http://www.w3.org/2000/01/rdf-schema#label> "Helpmate" .
+<https://github.com/john1hsu/chess-graph/id/helpmate> <http://www.w3.org/2004/02/skos/core#altLabel> "Co-operative mate" .
+<https://github.com/john1hsu/chess-graph/id/helpmate> <http://www.w3.org/2004/02/skos/core#altLabel> "Cooperative mate" .
+<https://github.com/john1hsu/chess-graph/id/helpmate> <http://www.w3.org/2004/02/skos/core#altLabel> "Help-mate" .
+<https://github.com/john1hsu/chess-graph/id/helpmate> <http://www.w3.org/2004/02/skos/core#altLabel> "Helpmates" .
+<https://github.com/john1hsu/chess-graph/id/helpmate> <http://www.w3.org/2004/02/skos/core#altLabel> "h#" .
+<https://github.com/john1hsu/chess-graph/id/helpmate> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-composition> .
+<https://github.com/john1hsu/chess-graph/id/helpmate> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-problems> .
+<https://github.com/john1hsu/chess-graph/id/helpmate> <http://www.w3.org/2004/02/skos/core#definition> "A chess problem genre in which Black moves first and cooperates with White so that the black king is checkmated in a stated number of moves; the solution is a single cooperative line, and composers usually give several thematically linked solutions or twins." .
+<https://github.com/john1hsu/chess-graph/id/helpmate> <http://www.w3.org/2004/02/skos/core#prefLabel> "Helpmate" .
+<https://github.com/john1hsu/chess-graph/id/helpmate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/checkmate> .
+<https://github.com/john1hsu/chess-graph/id/helpmate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/dead-position> .
+<https://github.com/john1hsu/chess-graph/id/helpmate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/endgame-study> .
+<https://github.com/john1hsu/chess-graph/id/helpmate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/retrograde-analysis> .
+<https://github.com/john1hsu/chess-graph/id/helpmate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/helpmate/s1> .
+<https://github.com/john1hsu/chess-graph/id/helpmate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/helpmate/s2> .
+<https://github.com/john1hsu/chess-graph/id/helpmate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/helpmate/s3> .
+<https://github.com/john1hsu/chess-graph/id/helpmate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/helpmate/s4> .
+<https://github.com/john1hsu/chess-graph/id/helpmate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/helpmate/s5> .
+<https://github.com/john1hsu/chess-graph/id/helpmate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/helpmate/s6> .
+<https://github.com/john1hsu/chess-graph/id/helpmate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/helpmate/s7> .
+<https://github.com/john1hsu/chess-graph/id/helpmate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/helpmate/s8> .
+<https://github.com/john1hsu/chess-graph/id/helpmate> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/selfmate> .
+<https://github.com/john1hsu/chess-graph/id/helpmate> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/max-lange> .
+<https://github.com/john1hsu/chess-graph/id/helpmate> <https://github.com/john1hsu/chess-graph/ontology#domain> "variants-and-compositions" .
+<https://github.com/john1hsu/chess-graph/id/helpmate> <https://github.com/john1hsu/chess-graph/ontology#fen> "4R3/8/Q7/1B1p4/2bpR3/P2kr3/6K1/6b1 b - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/helpmate> <https://github.com/john1hsu/chess-graph/ontology#governedBy> <https://github.com/john1hsu/chess-graph/id/codex-of-chess-composition> .
+<https://github.com/john1hsu/chess-graph/id/helpmate> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/helpmate> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/horizon-effect> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/horizon-effect> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Concept> .
 <https://github.com/john1hsu/chess-graph/id/horizon-effect> <http://www.w3.org/2000/01/rdf-schema#label> "Horizon effect" .
@@ -2427,6 +2458,46 @@
 <https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s6> <https://schema.org/url> "https://www.mieses.info/en/fide-grandmaster-1950.html" .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s1> <http://purl.org/dc/terms/title> "Chess: Chess composition" .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s1> <https://schema.org/url> "https://www.britannica.com/topic/chess/Chess-composition" .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s2> <http://purl.org/dc/terms/publisher> "World Federation for Chess Composition (WFCC)" .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s2> <http://purl.org/dc/terms/title> "Codex of Chess Compositions (version Vilnius 2019)" .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s2> <https://schema.org/url> "https://www.wfcc.ch/?p=198" .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s3> <http://purl.org/dc/terms/publisher> "Harvard University, Department of Mathematics" .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s3> <http://purl.org/dc/terms/title> "Chess glossary (Freshman Seminar 23j: Chess and Mathematics)" .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s3> <https://schema.org/url> "https://people.math.harvard.edu/~elkies/FS23j.05/glossary_chess.html" .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s4> <http://purl.org/dc/terms/publisher> "Josh Brunner, Erik D. Demaine, Dylan Hendrickson and Julian Wellman, MIT CSAIL" .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s4> <http://purl.org/dc/terms/title> "Complexity of Retrograde and Helpmate Chess Problems: Even Cooperative Chess is Hard (arXiv:2010.09271)" .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s4> <https://schema.org/url> "https://ar5iv.labs.arxiv.org/html/2010.09271" .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s5> <http://purl.org/dc/terms/publisher> "Peter Wong, OzProblems" .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s5> <http://purl.org/dc/terms/title> "Helpmates (Problem World)" .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s5> <https://schema.org/url> "https://www.ozproblems.com/problem-world/helpmates" .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s6> <http://purl.org/dc/terms/publisher> "Peter Wong, OzProblems (Walkabout, 29 November 2014)" .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s6> <http://purl.org/dc/terms/title> "Helpmates of the 'distant' future – Part 1" .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s6> <https://schema.org/url> "https://www.ozproblems.com/walkabout/walkabout2014/nov29" .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s7> <http://purl.org/dc/terms/publisher> "British Chess Problem Society, The Problemist" .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s7> <http://purl.org/dc/terms/title> "Helpmates (beginners' guide)" .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s7> <https://schema.org/url> "https://mail.theproblemist.org/beginner.pl?type=b_hm" .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s8> <http://purl.org/dc/terms/publisher> "Hans Bodlaender, The Chess Variant Pages" .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s8> <http://purl.org/dc/terms/title> "Helpmate in Two (T. Garai, Probleemblad 1989)" .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s8> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/helpmate/s8> <https://schema.org/url> "https://www.chessvariants.com/problems.dir/helpmates.html" .
 <https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s1> <http://purl.org/dc/terms/publisher> "Hans J. Berliner, Carnegie-Mellon University, via DTIC" .
 <https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s1> <http://purl.org/dc/terms/title> "Chess as Problem Solving: The Development of a Tactics Analyzer (PhD dissertation, March 1974)" .
 <https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

@@ -885,6 +885,34 @@
     ]
   },
   {
+    "id": "kt:helpmate",
+    "title": "Helpmate",
+    "aliases": [
+      "Helpmates",
+      "Help-mate",
+      "Cooperative mate",
+      "Co-operative mate",
+      "h#"
+    ],
+    "type": "ProblemGenre",
+    "domain": "variants-and-compositions",
+    "file": "articles/variants-and-compositions/helpmate.md",
+    "created": "2026-11-10",
+    "verified": "2026-11-10",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.britannica.com/topic/chess/Chess-composition",
+      "https://www.wfcc.ch/?p=198",
+      "https://people.math.harvard.edu/~elkies/FS23j.05/glossary_chess.html",
+      "https://ar5iv.labs.arxiv.org/html/2010.09271",
+      "https://www.ozproblems.com/problem-world/helpmates",
+      "https://www.ozproblems.com/walkabout/walkabout2014/nov29",
+      "https://mail.theproblemist.org/beginner.pl?type=b_hm",
+      "https://www.chessvariants.com/problems.dir/helpmates.html"
+    ]
+  },
+  {
     "id": "kt:horizon-effect",
     "title": "Horizon effect",
     "aliases": [
