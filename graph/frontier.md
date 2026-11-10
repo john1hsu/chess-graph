@@ -5,15 +5,16 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:chess` | `kt:chaturanga`, `kt:history-of-chess`, `kt:shatranj`, `kt:chess-strategy`, `kt:fide-laws-of-chess`, `kt:chess-tactics` |
-| `kt:rook-endgames` | `kt:lucena-position`, `kt:passed-pawn`, `kt:philidor-position`, `kt:skewer` |
+| `kt:endgame-tablebases` | `kt:computer-chess`, `kt:rook-endgames`, `kt:zugzwang`, `kt:endgame-study` |
 | `kt:siegbert-tarrasch` | `kt:hypermodernism`, `kt:isolated-queens-pawn`, `kt:aron-nimzowitsch`, `kt:emanuel-lasker` |
 | `kt:triangulation` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:opposition`, `kt:zugzwang` |
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:emanuel-lasker`, `kt:jose-raul-capablanca`, `kt:wilhelm-steinitz` |
 | `kt:chess-composition` | `kt:chess-problems`, `kt:endgame-study`, `kt:helpmate` |
+| `kt:chess-endgame` | `kt:king-and-pawn-endgames`, `kt:passed-pawn`, `kt:rook-endgames` |
 | `kt:chess-variants` | `kt:chaturanga`, `kt:shatranj`, `kt:chess960` |
 | `kt:codex-of-chess-composition` | `kt:chess-problems`, `kt:endgame-study`, `kt:helpmate` |
+| `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position`, `kt:rook-endgames` |
 | `kt:double-check` | `kt:discovered-attack`, `kt:discovered-attack`, `kt:fork` |
-| `kt:endgame-tablebases` | `kt:computer-chess`, `kt:zugzwang`, `kt:endgame-study` |
 | `kt:herbert-simon` | `kt:adriaan-de-groot`, `kt:chunking-theory`, `kt:cognitive-psychology-of-chess` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov` |
 | `kt:key-squares` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:zugzwang` |
@@ -27,9 +28,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:arbiter` | `kt:fide-laws-of-chess`, `kt:touch-move` |
 | `kt:bobby-fischer` | `kt:us-chess`, `kt:chess960` |
 | `kt:checkmate` | `kt:stalemate`, `kt:helpmate` |
-| `kt:chess-endgame` | `kt:king-and-pawn-endgames`, `kt:passed-pawn` |
 | `kt:chess-organizations` | `kt:fide`, `kt:us-chess` |
-| `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position` |
 | `kt:dead-position` | `kt:stalemate`, `kt:helpmate` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
 | `kt:fifty-move-rule` | `kt:fide-laws-of-chess`, `kt:forsyth-edwards-notation` |
@@ -159,6 +158,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:underpromotion` | `kt:pawn-promotion` |
 | `kt:universal-chess-interface` | `kt:chess960` |
 | `kt:us-chess-championship` | `kt:us-chess` |
+| `kt:vancura-position` | `kt:rook-endgames` |
 | `kt:vladimir-kramnik` | `kt:ruy-lopez` |
 | `kt:weak-squares` | `kt:outpost` |
 | `kt:william-chase` | `kt:chunking-theory` |

@@ -1417,6 +1417,31 @@
     ]
   },
   {
+    "id": "kt:rook-endgames",
+    "title": "Rook endgames",
+    "aliases": [
+      "Rook endings",
+      "Rook and pawn endgames",
+      "Rook and pawn endings",
+      "Rook endgame"
+    ],
+    "type": "EndgameType",
+    "domain": "endgames",
+    "file": "articles/endgames/rook-endgames.md",
+    "created": "2026-11-10",
+    "verified": "2026-11-10",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.newinchess.com/understanding-rook-endgames",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/2703.pdf",
+      "https://pubs.royle.com/article/Now+For+Rook+Endings/4628396/800160/article.html",
+      "https://chessjournalism.org/wp-content/uploads/2025/06/ACM_043_Instructional-Alex-Fishbein-Vancura-and-Fellas-56e5e37b8f240cfeb8342366dd431b5e.pdf",
+      "https://en.chessbase.com/post/karsten-mueller-understanding-the-vancura-draw",
+      "https://en.chessbase.com/post/some-rook-endings-are-drawn-some-are-not"
+    ]
+  },
+  {
     "id": "kt:ruy-lopez",
     "title": "Ruy Lopez",
     "aliases": [

@@ -1281,6 +1281,92 @@
       ]
     },
     {
+      "@id": "kt:rook-endgames",
+      "@type": "kto:EndgameType",
+      "skos:prefLabel": "Rook endgames",
+      "skos:definition": "Endgames in which each side's remaining pieces are rooks (usually one each) plus pawns; they are the most frequent type of endgame in practice, and their outcome depends heavily on the activity of rook and king rather than on material alone.",
+      "kto:domain": "endgames",
+      "dcterms:created": "2026-11-10",
+      "kto:verified": "2026-11-10",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Understanding Rook Endgames",
+          "dcterms:publisher": "Karsten Müller and Yakov Konoval, Gambit Publications (2016); New In Chess shop page",
+          "schema:url": "https://www.newinchess.com/understanding-rook-endgames",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Dvoretsky's Endgame Manual, fourth edition (excerpt: contents)",
+          "dcterms:publisher": "Mark Dvoretsky, Russell Enterprises (2014); excerpt hosted by New In Chess",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/2703.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Now For Rook Endings",
+          "dcterms:publisher": "Tatev Abrahamyan, Chess Life (US Chess), September 2023",
+          "schema:url": "https://pubs.royle.com/article/Now+For+Rook+Endings/4628396/800160/article.html",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Vancura and Fellas",
+          "dcterms:publisher": "GM Alex Fishbein, American Chess Magazine no. 43, hosted by chessjournalism.org",
+          "schema:url": "https://chessjournalism.org/wp-content/uploads/2025/06/ACM_043_Instructional-Alex-Fishbein-Vancura-and-Fellas-56e5e37b8f240cfeb8342366dd431b5e.pdf",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Karsten Müller: Understanding the Vancura draw",
+          "dcterms:publisher": "ChessBase News (2014)",
+          "schema:url": "https://en.chessbase.com/post/karsten-mueller-understanding-the-vancura-draw",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Some rook endings are drawn, some are not",
+          "dcterms:publisher": "Karsten Müller, ChessBase News (2025)",
+          "schema:url": "https://en.chessbase.com/post/some-rook-endings-are-drawn-some-are-not",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/endgames/rook-endgames.md",
+      "skos:altLabel": [
+        "Rook endings",
+        "Rook and pawn endgames",
+        "Rook and pawn endings",
+        "Rook endgame"
+      ],
+      "kto:fen": "R7/6k1/P4r2/8/3K4/8/8/8 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-endgame"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:passed-pawn"
+        },
+        {
+          "@id": "kt:endgame-tablebases"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:lucena-position"
+        },
+        {
+          "@id": "kt:philidor-position"
+        },
+        {
+          "@id": "kt:vancura-position"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:cutting-off-the-king"
+        }
+      ]
+    },
+    {
       "@id": "kt:zugzwang",
       "@type": "kto:StrategicConcept",
       "skos:prefLabel": "Zugzwang",

@@ -1570,6 +1570,32 @@
 <https://github.com/john1hsu/chess-graph/id/quiescence-search> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/claude-shannon> .
 <https://github.com/john1hsu/chess-graph/id/quiescence-search> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/quiescence-search> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/rook-endgames> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/rook-endgames> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#EndgameType> .
+<https://github.com/john1hsu/chess-graph/id/rook-endgames> <http://www.w3.org/2000/01/rdf-schema#label> "Rook endgames" .
+<https://github.com/john1hsu/chess-graph/id/rook-endgames> <http://www.w3.org/2004/02/skos/core#altLabel> "Rook and pawn endgames" .
+<https://github.com/john1hsu/chess-graph/id/rook-endgames> <http://www.w3.org/2004/02/skos/core#altLabel> "Rook and pawn endings" .
+<https://github.com/john1hsu/chess-graph/id/rook-endgames> <http://www.w3.org/2004/02/skos/core#altLabel> "Rook endgame" .
+<https://github.com/john1hsu/chess-graph/id/rook-endgames> <http://www.w3.org/2004/02/skos/core#altLabel> "Rook endings" .
+<https://github.com/john1hsu/chess-graph/id/rook-endgames> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-endgame> .
+<https://github.com/john1hsu/chess-graph/id/rook-endgames> <http://www.w3.org/2004/02/skos/core#definition> "Endgames in which each side's remaining pieces are rooks (usually one each) plus pawns; they are the most frequent type of endgame in practice, and their outcome depends heavily on the activity of rook and king rather than on material alone." .
+<https://github.com/john1hsu/chess-graph/id/rook-endgames> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rook endgames" .
+<https://github.com/john1hsu/chess-graph/id/rook-endgames> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/endgame-tablebases> .
+<https://github.com/john1hsu/chess-graph/id/rook-endgames> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/passed-pawn> .
+<https://github.com/john1hsu/chess-graph/id/rook-endgames> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s1> .
+<https://github.com/john1hsu/chess-graph/id/rook-endgames> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s2> .
+<https://github.com/john1hsu/chess-graph/id/rook-endgames> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s3> .
+<https://github.com/john1hsu/chess-graph/id/rook-endgames> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s4> .
+<https://github.com/john1hsu/chess-graph/id/rook-endgames> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s5> .
+<https://github.com/john1hsu/chess-graph/id/rook-endgames> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s6> .
+<https://github.com/john1hsu/chess-graph/id/rook-endgames> <https://github.com/john1hsu/chess-graph/ontology#domain> "endgames" .
+<https://github.com/john1hsu/chess-graph/id/rook-endgames> <https://github.com/john1hsu/chess-graph/ontology#fen> "R7/6k1/P4r2/8/3K4/8/8/8 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/rook-endgames> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/lucena-position> .
+<https://github.com/john1hsu/chess-graph/id/rook-endgames> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/philidor-position> .
+<https://github.com/john1hsu/chess-graph/id/rook-endgames> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/vancura-position> .
+<https://github.com/john1hsu/chess-graph/id/rook-endgames> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/rook-endgames> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> .
+<https://github.com/john1hsu/chess-graph/id/rook-endgames> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/ruy-lopez> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/ruy-lopez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Opening> .
 <https://github.com/john1hsu/chess-graph/id/ruy-lopez> <http://www.w3.org/2000/01/rdf-schema#label> "Ruy Lopez" .
@@ -3250,6 +3276,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s6> <https://schema.org/url> "https://mediocrechess.sourceforge.net/guides/quiescentsearch.html" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s1> <http://purl.org/dc/terms/publisher> "Karsten Müller and Yakov Konoval, Gambit Publications (2016); New In Chess shop page" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s1> <http://purl.org/dc/terms/title> "Understanding Rook Endgames" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s1> <https://schema.org/url> "https://www.newinchess.com/understanding-rook-endgames" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s2> <http://purl.org/dc/terms/publisher> "Mark Dvoretsky, Russell Enterprises (2014); excerpt hosted by New In Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s2> <http://purl.org/dc/terms/title> "Dvoretsky's Endgame Manual, fourth edition (excerpt: contents)" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s2> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/2703.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s3> <http://purl.org/dc/terms/publisher> "Tatev Abrahamyan, Chess Life (US Chess), September 2023" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s3> <http://purl.org/dc/terms/title> "Now For Rook Endings" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s3> <https://schema.org/url> "https://pubs.royle.com/article/Now+For+Rook+Endings/4628396/800160/article.html" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s4> <http://purl.org/dc/terms/publisher> "GM Alex Fishbein, American Chess Magazine no. 43, hosted by chessjournalism.org" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s4> <http://purl.org/dc/terms/title> "Vancura and Fellas" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s4> <https://schema.org/url> "https://chessjournalism.org/wp-content/uploads/2025/06/ACM_043_Instructional-Alex-Fishbein-Vancura-and-Fellas-56e5e37b8f240cfeb8342366dd431b5e.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s5> <http://purl.org/dc/terms/publisher> "ChessBase News (2014)" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s5> <http://purl.org/dc/terms/title> "Karsten Müller: Understanding the Vancura draw" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s5> <https://schema.org/url> "https://en.chessbase.com/post/karsten-mueller-understanding-the-vancura-draw" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s6> <http://purl.org/dc/terms/publisher> "Karsten Müller, ChessBase News (2025)" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s6> <http://purl.org/dc/terms/title> "Some rook endings are drawn, some are not" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s6> <https://schema.org/url> "https://en.chessbase.com/post/some-rook-endings-are-drawn-some-are-not" .
 <https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s1> <http://purl.org/dc/terms/title> "Ruy López de Segura" .
 <https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
