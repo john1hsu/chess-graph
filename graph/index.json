@@ -486,6 +486,32 @@
     ]
   },
   {
+    "id": "kt:codex-of-chess-composition",
+    "title": "Codex of Chess Composition",
+    "aliases": [
+      "Codex for Chess Composition",
+      "Codex of Chess Compositions",
+      "WFCC Codex",
+      "PCCC Codex",
+      "Codex"
+    ],
+    "type": "Rule",
+    "domain": "variants-and-compositions",
+    "file": "articles/variants-and-compositions/codex-of-chess-composition.md",
+    "created": "2026-11-10",
+    "verified": "2026-11-10",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://www.wfcc.ch/?p=198",
+      "https://www.wfcc.ch/wp-content/uploads/2019-Vilnius.pdf",
+      "https://www.wfcc.ch/wp-content/uploads/WCCC-2022-Fujairah-minutes.pdf",
+      "https://www.wfcc.ch/1999-2012/pccc50/",
+      "https://en.chessbase.com/post/study-of-the-month-2019-8",
+      "https://www.janko.at/Schach/Regeln/Codex/index.htm"
+    ]
+  },
+  {
     "id": "kt:cognitive-psychology-of-chess",
     "title": "Cognitive psychology of chess",
     "aliases": [

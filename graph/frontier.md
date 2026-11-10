@@ -5,7 +5,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:chess` | `kt:chaturanga`, `kt:history-of-chess`, `kt:shatranj`, `kt:chess-strategy`, `kt:fide-laws-of-chess`, `kt:chess-tactics`, `kt:chess-composition` |
-| `kt:codex-of-chess-composition` | `kt:chess-composition`, `kt:chess-problems`, `kt:endgame-study`, `kt:helpmate`, `kt:retrograde-analysis` |
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:bobby-fischer`, `kt:emanuel-lasker`, `kt:jose-raul-capablanca`, `kt:wilhelm-steinitz` |
 | `kt:chess-endgame` | `kt:endgame-tablebases`, `kt:king-and-pawn-endgames`, `kt:passed-pawn`, `kt:rook-endgames` |
 | `kt:siegbert-tarrasch` | `kt:hypermodernism`, `kt:isolated-queens-pawn`, `kt:aron-nimzowitsch`, `kt:emanuel-lasker` |
@@ -59,6 +58,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:us-chess-championship` | `kt:us-chess`, `kt:bobby-fischer` |
 | `kt:visualization` | `kt:calculation`, `kt:chunking-theory` |
 | `kt:world-chess-championship-1886` | `kt:world-chess-championship`, `kt:wilhelm-steinitz` |
+| `kt:world-federation-for-chess-composition` | `kt:chess-composition`, `kt:codex-of-chess-composition` |
 | `kt:zwischenzug` | `kt:discovered-attack`, `kt:fork` |
 | `kt:abraham-luchins` | `kt:einstellung-effect` |
 | `kt:adolf-anderssen` | `kt:wilhelm-steinitz` |
@@ -133,6 +133,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:passive-rook-defence` | `kt:philidor-position` |
 | `kt:philipp-stamma` | `kt:algebraic-notation` |
 | `kt:piece-values` | `kt:material-advantage` |
+| `kt:priority-and-anticipation` | `kt:codex-of-chess-composition` |
 | `kt:progressive-deepening` | `kt:calculation` |
 | `kt:proof-game` | `kt:retrograde-analysis` |
 | `kt:proof-number-search` | `kt:game-tree-search` |
@@ -170,4 +171,3 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:world-chess-championship-1894` | `kt:emanuel-lasker` |
 | `kt:world-chess-championship-1921` | `kt:jose-raul-capablanca` |
 | `kt:world-chess-championship-1927` | `kt:jose-raul-capablanca` |
-| `kt:world-federation-for-chess-composition` | `kt:chess-composition` |

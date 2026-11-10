@@ -6338,6 +6338,104 @@
       ]
     },
     {
+      "@id": "kt:codex-of-chess-composition",
+      "@type": "kto:Rule",
+      "skos:prefLabel": "Codex of Chess Composition",
+      "skos:definition": "The World Federation for Chess Composition's descriptive rulebook for composed chess: it defines what a composition, solution, cook, dual and anticipation are, sets the conventions for legality, castling, en passant and drawing rules in diagrams, and gives guidance on publication, priority and tournaments.",
+      "kto:domain": "variants-and-compositions",
+      "dcterms:created": "2026-11-10",
+      "kto:verified": "2026-11-10",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Codex of Chess Compositions (version Vilnius 2019)",
+          "dcterms:publisher": "World Federation for Chess Composition (WFCC)",
+          "schema:url": "https://www.wfcc.ch/?p=198",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "62nd Ordinary Meeting (World Congress), Vilnius, 17–24 August 2019: minutes",
+          "dcterms:publisher": "World Federation for Chess Composition (WFCC)",
+          "schema:url": "https://www.wfcc.ch/wp-content/uploads/2019-Vilnius.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "64th Ordinary Meeting (World Congress), Fujairah, 12–19 November 2022: minutes",
+          "dcterms:publisher": "World Federation for Chess Composition (WFCC)",
+          "schema:url": "https://www.wfcc.ch/wp-content/uploads/WCCC-2022-Fujairah-minutes.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "50th Anniversary Meeting of the PCCC (Klaus Wenda, 2007)",
+          "dcterms:publisher": "World Federation for Chess Composition (WFCC)",
+          "schema:url": "https://www.wfcc.ch/1999-2012/pccc50/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Understanding chess composition competition (Study of the Month, Siegfried Hornecker)",
+          "dcterms:publisher": "ChessBase News",
+          "schema:url": "https://en.chessbase.com/post/study-of-the-month-2019-8",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Codex for Chess Composition (PCCC text, as of 1 July 2001), hosted by Alois Janko",
+          "dcterms:publisher": "janko.at",
+          "schema:url": "https://www.janko.at/Schach/Regeln/Codex/index.htm",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/variants-and-compositions/codex-of-chess-composition.md",
+      "skos:altLabel": [
+        "Codex for Chess Composition",
+        "Codex of Chess Compositions",
+        "WFCC Codex",
+        "PCCC Codex",
+        "Codex"
+      ],
+      "kto:fen": "4k3/8/8/8/8/8/8/R3K2R w KQ - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-composition"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:chess-problems"
+        },
+        {
+          "@id": "kt:endgame-study"
+        },
+        {
+          "@id": "kt:retrograde-analysis"
+        },
+        {
+          "@id": "kt:helpmate"
+        },
+        {
+          "@id": "kt:castling"
+        },
+        {
+          "@id": "kt:en-passant"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:world-federation-for-chess-composition"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:priority-and-anticipation"
+        }
+      ]
+    },
+    {
       "@id": "kt:endgame-study",
       "@type": "kto:ProblemGenre",
       "skos:prefLabel": "Endgame study",
