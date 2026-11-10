@@ -84,6 +84,36 @@
 <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <https://github.com/john1hsu/chess-graph/ontology#fen> "r1bqkb1r/pppp1ppp/2n2n2/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 4 4" .
 <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-07" .
+<https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
+<https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <http://www.w3.org/2000/01/rdf-schema#label> "Anatoly Karpov" .
+<https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <http://www.w3.org/2004/02/skos/core#altLabel> "Anatoli Karpov" .
+<https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <http://www.w3.org/2004/02/skos/core#altLabel> "Anatolij Karpov" .
+<https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <http://www.w3.org/2004/02/skos/core#altLabel> "Anatoly Yevgenyevich Karpov" .
+<https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <http://www.w3.org/2004/02/skos/core#altLabel> "Karpov" .
+<https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <http://www.w3.org/2004/02/skos/core#definition> "Soviet-Russian grandmaster (born 1951) and the twelfth world chess champion, who received the title in 1975 when Bobby Fischer declined to defend it, held it until losing to Garry Kasparov in 1985, and was later FIDE world champion from 1993 to 1999; famous for prophylactic, positional play." .
+<https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <http://www.w3.org/2004/02/skos/core#prefLabel> "Anatoly Karpov" .
+<https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/bobby-fischer> .
+<https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/caro-kann-defence> .
+<https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/garry-kasparov> .
+<https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/prophylaxis> .
+<https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/ruy-lopez> .
+<https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/viktor-korchnoi> .
+<https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s1> .
+<https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s2> .
+<https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s3> .
+<https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s4> .
+<https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s5> .
+<https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <https://github.com/john1hsu/chess-graph/ontology#domain> "players" .
+<https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/karpov-versus-unzicker-nice-1974> .
+<https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <https://github.com/john1hsu/chess-graph/ontology#fen> "r1rq1bk1/Bn1b1p1p/3p1np1/1p1Pp3/1Pp1P3/2P2NNP/R2Q1PP1/1B2R1K1 b - - 3 24" .
+<https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <https://github.com/john1hsu/chess-graph/ontology#holdsTitle> <https://github.com/john1hsu/chess-graph/id/grandmaster-title> .
+<https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <https://github.com/john1hsu/chess-graph/ontology#holdsTitle> <https://github.com/john1hsu/chess-graph/id/world-chess-champion> .
+<https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <https://github.com/john1hsu/chess-graph/ontology#memberOf> <https://github.com/john1hsu/chess-graph/id/soviet-chess-school> .
+<https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/chess-olympiad> .
+<https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
 <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <http://www.w3.org/2000/01/rdf-schema#label> "Aron Nimzowitsch" .
@@ -2075,6 +2105,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s5> <https://schema.org/url> "https://www.isa-afp.org/browser_info/current/AFP/Alpha_Beta_Pruning/document.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s1> <http://purl.org/dc/terms/title> "Anatoly Yevgenyevich Karpov" .
+<https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s1> <https://schema.org/url> "https://www.britannica.com:443/print/article/312655" .
+<https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s2> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
+<https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s2> <http://purl.org/dc/terms/title> "Anatoly Karpov (inductee page)" .
+<https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s2> <https://schema.org/url> "https://worldchesshof.org/node/2385" .
+<https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s3> <http://purl.org/dc/terms/publisher> "FIDE Museum" .
+<https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s3> <http://purl.org/dc/terms/title> "Anatoly Karpov (World Champions gallery)" .
+<https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s3> <https://schema.org/url> "https://museum.fide.com/champions/anatoly-karpov" .
+<https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s4> <http://purl.org/dc/terms/publisher> "Rafael Leitão (GM), rafaelleitao.com" .
+<https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s4> <http://purl.org/dc/terms/title> "Karpov x Unzicker" .
+<https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s4> <https://schema.org/url> "https://rafaelleitao.com/karpov-x-unzicker" .
+<https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s5> <http://purl.org/dc/terms/publisher> "Cape Argus via PressReader" .
+<https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s5> <http://purl.org/dc/terms/title> "Mark Rubery Chess (column, 23 May 2019)" .
+<https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s5> <https://schema.org/url> "https://www.pressreader.com/south-africa/cape-argus/20190523/281814285330502" .
 <https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s1> <http://purl.org/dc/terms/title> "Aron Nimzowitsch" .
 <https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

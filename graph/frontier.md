@@ -5,10 +5,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:chess` | `kt:chess-endgame`, `kt:chaturanga`, `kt:history-of-chess`, `kt:shatranj`, `kt:chess-strategy`, `kt:fide-laws-of-chess`, `kt:chess-tactics`, `kt:chess-composition` |
-| `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:bobby-fischer`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:jose-raul-capablanca`, `kt:wilhelm-steinitz` |
-| `kt:anatoly-karpov` | `kt:caro-kann-defence`, `kt:ruy-lopez`, `kt:bobby-fischer`, `kt:garry-kasparov` |
+| `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:jose-raul-capablanca`, `kt:wilhelm-steinitz` |
+| `kt:soviet-chess-school` | `kt:history-of-chess`, `kt:hypermodernism`, `kt:sicilian-defence`, `kt:anatoly-karpov`, `kt:garry-kasparov` |
 | `kt:siegbert-tarrasch` | `kt:hypermodernism`, `kt:isolated-queens-pawn`, `kt:aron-nimzowitsch`, `kt:emanuel-lasker` |
-| `kt:soviet-chess-school` | `kt:history-of-chess`, `kt:hypermodernism`, `kt:sicilian-defence`, `kt:garry-kasparov` |
 | `kt:triangulation` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:opposition`, `kt:zugzwang` |
 | `kt:arbiter` | `kt:fair-play-regulations`, `kt:fide-laws-of-chess`, `kt:touch-move` |
 | `kt:chess-variants` | `kt:chaturanga`, `kt:shatranj`, `kt:chess960` |
@@ -20,6 +19,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov` |
 | `kt:key-squares` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:zugzwang` |
 | `kt:portable-game-notation` | `kt:algebraic-notation`, `kt:forsyth-edwards-notation`, `kt:forsyth-edwards-notation` |
+| `kt:prophylaxis` | `kt:hypermodernism`, `kt:blockade`, `kt:anatoly-karpov` |
 | `kt:sacrifice` | `kt:material-advantage`, `kt:material-advantage`, `kt:combination` |
 | `kt:semi-open-games` | `kt:caro-kann-defence`, `kt:french-defence`, `kt:sicilian-defence` |
 | `kt:template-theory` | `kt:adriaan-de-groot`, `kt:chunking-theory`, `kt:einstellung-effect` |
@@ -41,7 +41,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:origins-of-chess` | `kt:chaturanga`, `kt:history-of-chess` |
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
-| `kt:prophylaxis` | `kt:hypermodernism`, `kt:blockade` |
 | `kt:queens-gambit-accepted` | `kt:isolated-queens-pawn`, `kt:queens-gambit` |
 | `kt:queens-gambit-declined` | `kt:nimzo-indian-defence`, `kt:queens-gambit` |
 | `kt:rule-of-the-square` | `kt:king-and-pawn-endgames`, `kt:passed-pawn` |
@@ -112,6 +111,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:johannes-zukertort` | `kt:wilhelm-steinitz` |
 | `kt:john-mccarthy` | `kt:alpha-beta-pruning` |
 | `kt:john-von-neumann` | `kt:minimax` |
+| `kt:karpov-versus-unzicker-nice-1974` | `kt:anatoly-karpov` |
 | `kt:kasparov-versus-topalov-wijk-aan-zee-1999` | `kt:garry-kasparov` |
 | `kt:ken-thompson` | `kt:endgame-tablebases` |
 | `kt:king-safety` | `kt:castling` |
@@ -167,6 +167,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:underpromotion` | `kt:pawn-promotion` |
 | `kt:universal-chess-interface` | `kt:chess960` |
 | `kt:vancura-position` | `kt:rook-endgames` |
+| `kt:viktor-korchnoi` | `kt:anatoly-karpov` |
 | `kt:weak-squares` | `kt:outpost` |
 | `kt:william-chase` | `kt:chunking-theory` |
 | `kt:winawer-variation` | `kt:french-defence` |

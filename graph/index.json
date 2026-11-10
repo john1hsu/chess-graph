@@ -77,6 +77,30 @@
     ]
   },
   {
+    "id": "kt:anatoly-karpov",
+    "title": "Anatoly Karpov",
+    "aliases": [
+      "Anatoli Karpov",
+      "Anatolij Karpov",
+      "Anatoly Yevgenyevich Karpov",
+      "Karpov"
+    ],
+    "type": "Player",
+    "domain": "players",
+    "file": "articles/players/anatoly-karpov.md",
+    "created": "2026-11-10",
+    "verified": "2026-11-10",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://www.britannica.com:443/print/article/312655",
+      "https://worldchesshof.org/node/2385",
+      "https://museum.fide.com/champions/anatoly-karpov",
+      "https://rafaelleitao.com/karpov-x-unzicker",
+      "https://www.pressreader.com/south-africa/cape-argus/20190523/281814285330502"
+    ]
+  },
+  {
     "id": "kt:aron-nimzowitsch",
     "title": "Aron Nimzowitsch",
     "aliases": [

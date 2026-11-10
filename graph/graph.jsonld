@@ -3878,6 +3878,105 @@
       ]
     },
     {
+      "@id": "kt:anatoly-karpov",
+      "@type": "kto:Player",
+      "skos:prefLabel": "Anatoly Karpov",
+      "skos:definition": "Soviet-Russian grandmaster (born 1951) and the twelfth world chess champion, who received the title in 1975 when Bobby Fischer declined to defend it, held it until losing to Garry Kasparov in 1985, and was later FIDE world champion from 1993 to 1999; famous for prophylactic, positional play.",
+      "kto:domain": "players",
+      "dcterms:created": "2026-11-10",
+      "kto:verified": "2026-11-10",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Anatoly Yevgenyevich Karpov",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com:443/print/article/312655",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Anatoly Karpov (inductee page)",
+          "dcterms:publisher": "World Chess Hall of Fame",
+          "schema:url": "https://worldchesshof.org/node/2385",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Anatoly Karpov (World Champions gallery)",
+          "dcterms:publisher": "FIDE Museum",
+          "schema:url": "https://museum.fide.com/champions/anatoly-karpov",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Karpov x Unzicker",
+          "dcterms:publisher": "Rafael Leitão (GM), rafaelleitao.com",
+          "schema:url": "https://rafaelleitao.com/karpov-x-unzicker",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Mark Rubery Chess (column, 23 May 2019)",
+          "dcterms:publisher": "Cape Argus via PressReader",
+          "schema:url": "https://www.pressreader.com/south-africa/cape-argus/20190523/281814285330502",
+          "kto:sourceType": "news"
+        }
+      ],
+      "kto:file": "articles/players/anatoly-karpov.md",
+      "skos:altLabel": [
+        "Anatoli Karpov",
+        "Anatolij Karpov",
+        "Anatoly Yevgenyevich Karpov",
+        "Karpov"
+      ],
+      "kto:fen": "r1rq1bk1/Bn1b1p1p/3p1np1/1p1Pp3/1Pp1P3/2P2NNP/R2Q1PP1/1B2R1K1 b - - 3 24",
+      "skos:broader": [
+        {
+          "@id": "kt:world-chess-championship"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:garry-kasparov"
+        },
+        {
+          "@id": "kt:bobby-fischer"
+        },
+        {
+          "@id": "kt:viktor-korchnoi"
+        },
+        {
+          "@id": "kt:ruy-lopez"
+        },
+        {
+          "@id": "kt:caro-kann-defence"
+        },
+        {
+          "@id": "kt:prophylaxis"
+        }
+      ],
+      "kto:holdsTitle": [
+        {
+          "@id": "kt:world-chess-champion"
+        },
+        {
+          "@id": "kt:grandmaster-title"
+        }
+      ],
+      "kto:memberOf": [
+        {
+          "@id": "kt:soviet-chess-school"
+        }
+      ],
+      "kto:playedIn": [
+        {
+          "@id": "kt:chess-olympiad"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:karpov-versus-unzicker-nice-1974"
+        }
+      ]
+    },
+    {
       "@id": "kt:aron-nimzowitsch",
       "@type": "kto:Player",
       "skos:prefLabel": "Aron Nimzowitsch",
