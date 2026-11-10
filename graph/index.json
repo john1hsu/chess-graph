@@ -284,6 +284,31 @@
     ]
   },
   {
+    "id": "kt:chess-endgame",
+    "title": "Chess endgame",
+    "aliases": [
+      "Endgame",
+      "Endgame (chess)",
+      "End game",
+      "Ending",
+      "Endings",
+      "Endgame phase"
+    ],
+    "type": "Concept",
+    "domain": "endgames",
+    "file": "articles/endgames/chess-endgame.md",
+    "created": "2026-11-10",
+    "verified": "2026-11-10",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.britannica.com/topic/endgame-chess",
+      "https://gutenberg.org/cache/epub/33870/pg33870-images.html",
+      "https://newinchess.com/fundamental-chess-endings",
+      "https://www.silmanjamespress.com/catalogs/silmans-complete-endgame-course"
+    ]
+  },
+  {
     "id": "kt:chess-expertise",
     "title": "Chess expertise",
     "aliases": [

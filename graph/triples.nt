@@ -320,6 +320,32 @@
 <https://github.com/john1hsu/chess-graph/id/chess-composition> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/world-federation-for-chess-composition> .
 <https://github.com/john1hsu/chess-graph/id/chess-composition> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/chess-composition> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/chess-endgame> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/chess-endgame> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Concept> .
+<https://github.com/john1hsu/chess-graph/id/chess-endgame> <http://www.w3.org/2000/01/rdf-schema#label> "Chess endgame" .
+<https://github.com/john1hsu/chess-graph/id/chess-endgame> <http://www.w3.org/2004/02/skos/core#altLabel> "End game" .
+<https://github.com/john1hsu/chess-graph/id/chess-endgame> <http://www.w3.org/2004/02/skos/core#altLabel> "Endgame (chess)" .
+<https://github.com/john1hsu/chess-graph/id/chess-endgame> <http://www.w3.org/2004/02/skos/core#altLabel> "Endgame phase" .
+<https://github.com/john1hsu/chess-graph/id/chess-endgame> <http://www.w3.org/2004/02/skos/core#altLabel> "Endgame" .
+<https://github.com/john1hsu/chess-graph/id/chess-endgame> <http://www.w3.org/2004/02/skos/core#altLabel> "Ending" .
+<https://github.com/john1hsu/chess-graph/id/chess-endgame> <http://www.w3.org/2004/02/skos/core#altLabel> "Endings" .
+<https://github.com/john1hsu/chess-graph/id/chess-endgame> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess> .
+<https://github.com/john1hsu/chess-graph/id/chess-endgame> <http://www.w3.org/2004/02/skos/core#definition> "The final phase of a chess game, reached after most pieces have been exchanged, in which pawn promotion becomes the dominant theme and the king turns from a piece to be sheltered into an active fighting unit." .
+<https://github.com/john1hsu/chess-graph/id/chess-endgame> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chess endgame" .
+<https://github.com/john1hsu/chess-graph/id/chess-endgame> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-strategy> .
+<https://github.com/john1hsu/chess-graph/id/chess-endgame> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/endgame-tablebases> .
+<https://github.com/john1hsu/chess-graph/id/chess-endgame> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-endgame/s1> .
+<https://github.com/john1hsu/chess-graph/id/chess-endgame> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-endgame/s2> .
+<https://github.com/john1hsu/chess-graph/id/chess-endgame> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-endgame/s3> .
+<https://github.com/john1hsu/chess-graph/id/chess-endgame> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-endgame/s4> .
+<https://github.com/john1hsu/chess-graph/id/chess-endgame> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> .
+<https://github.com/john1hsu/chess-graph/id/chess-endgame> <https://github.com/john1hsu/chess-graph/ontology#domain> "endgames" .
+<https://github.com/john1hsu/chess-graph/id/chess-endgame> <https://github.com/john1hsu/chess-graph/ontology#fen> "8/4k3/8/8/4K3/8/4P3/8 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/chess-endgame> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/king-and-pawn-endgames> .
+<https://github.com/john1hsu/chess-graph/id/chess-endgame> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/rook-endgames> .
+<https://github.com/john1hsu/chess-graph/id/chess-endgame> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/chess-endgame> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/opposition> .
+<https://github.com/john1hsu/chess-graph/id/chess-endgame> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/chess-expertise> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/chess-expertise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#CognitiveConcept> .
 <https://github.com/john1hsu/chess-graph/id/chess-expertise> <http://www.w3.org/2000/01/rdf-schema#label> "Chess expertise" .
@@ -2248,6 +2274,26 @@
 <https://github.com/john1hsu/chess-graph/id/source/chess-composition/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/chess-composition/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-composition/s6> <https://schema.org/url> "https://wfcc.ch/?p=508" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-endgame/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-endgame/s1> <http://purl.org/dc/terms/title> "endgame (chess)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-endgame/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-endgame/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-endgame/s1> <https://schema.org/url> "https://www.britannica.com/topic/endgame-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-endgame/s2> <http://purl.org/dc/terms/publisher> "José Raúl Capablanca, Harcourt, Brace and Howe; Project Gutenberg" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-endgame/s2> <http://purl.org/dc/terms/title> "Chess Fundamentals (1921), Project Gutenberg eBook #33870" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-endgame/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-endgame/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-endgame/s2> <https://schema.org/url> "https://gutenberg.org/cache/epub/33870/pg33870-images.html" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-endgame/s3> <http://purl.org/dc/terms/publisher> "Karsten Müller and Frank Lamprecht, Gambit Publications (2001); New In Chess shop page" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-endgame/s3> <http://purl.org/dc/terms/title> "Fundamental Chess Endings" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-endgame/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-endgame/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-endgame/s3> <https://schema.org/url> "https://newinchess.com/fundamental-chess-endings" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-endgame/s4> <http://purl.org/dc/terms/publisher> "Jeremy Silman, Siles Press / Silman-James Press; publisher's catalogue page" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-endgame/s4> <http://purl.org/dc/terms/title> "Silman's Complete Endgame Course: From Beginner to Master" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-endgame/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-endgame/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-endgame/s4> <https://schema.org/url> "https://www.silmanjamespress.com/catalogs/silmans-complete-endgame-course" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-expertise/s1> <http://purl.org/dc/terms/publisher> "Burgoyne, Sala, Gobet, Macnamara, Campitelli and Hambrick, via University of Zurich" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-expertise/s1> <http://purl.org/dc/terms/title> "The relationship between cognitive ability and chess skill: A comprehensive meta-analysis (Intelligence 59, 72-83)" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-expertise/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
