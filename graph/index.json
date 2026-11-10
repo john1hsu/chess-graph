@@ -961,6 +961,31 @@
     ]
   },
   {
+    "id": "kt:hypermodernism",
+    "title": "Hypermodernism",
+    "aliases": [
+      "Hypermodern school",
+      "Hypermodern chess",
+      "Hypermoderns",
+      "Hypermodern movement"
+    ],
+    "type": "School",
+    "domain": "history",
+    "file": "articles/history/hypermodernism.md",
+    "created": "2026-11-10",
+    "verified": "2026-11-10",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://www.britannica.com/topic/Hypermodernism",
+      "https://en.chessbase.com/post/britannica-the-development-of-chess-theory-3",
+      "https://www.britannica.com/biography/Richard-Reti",
+      "https://worldchesshof.org/inductee/richard-reti/",
+      "https://www.britannica.com/biography/Aron-Nimzowitsch",
+      "https://spectator.com/article/hypermodern/"
+    ]
+  },
+  {
     "id": "kt:isolated-queens-pawn",
     "title": "Isolated queen's pawn",
     "aliases": [

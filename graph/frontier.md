@@ -5,7 +5,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:chess` | `kt:chaturanga`, `kt:shatranj`, `kt:chess-strategy`, `kt:fide-laws-of-chess`, `kt:chess-tactics` |
+| `kt:history-of-chess` | `kt:chaturanga`, `kt:hypermodernism`, `kt:shatranj`, `kt:world-chess-championship` |
 | `kt:rook-endgames` | `kt:lucena-position`, `kt:passed-pawn`, `kt:philidor-position`, `kt:skewer` |
+| `kt:siegbert-tarrasch` | `kt:hypermodernism`, `kt:isolated-queens-pawn`, `kt:aron-nimzowitsch`, `kt:emanuel-lasker` |
 | `kt:triangulation` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:opposition`, `kt:zugzwang` |
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:emanuel-lasker`, `kt:jose-raul-capablanca`, `kt:wilhelm-steinitz` |
 | `kt:chess-composition` | `kt:chess-problems`, `kt:endgame-study`, `kt:helpmate` |
@@ -14,14 +16,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:double-check` | `kt:discovered-attack`, `kt:discovered-attack`, `kt:fork` |
 | `kt:endgame-tablebases` | `kt:computer-chess`, `kt:zugzwang`, `kt:endgame-study` |
 | `kt:herbert-simon` | `kt:adriaan-de-groot`, `kt:chunking-theory`, `kt:cognitive-psychology-of-chess` |
-| `kt:history-of-chess` | `kt:chaturanga`, `kt:shatranj`, `kt:world-chess-championship` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov` |
-| `kt:hypermodernism` | `kt:blockade`, `kt:aron-nimzowitsch`, `kt:aron-nimzowitsch` |
 | `kt:key-squares` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:zugzwang` |
 | `kt:portable-game-notation` | `kt:algebraic-notation`, `kt:forsyth-edwards-notation`, `kt:forsyth-edwards-notation` |
 | `kt:sacrifice` | `kt:material-advantage`, `kt:material-advantage`, `kt:combination` |
 | `kt:semi-open-games` | `kt:caro-kann-defence`, `kt:french-defence`, `kt:sicilian-defence` |
-| `kt:siegbert-tarrasch` | `kt:isolated-queens-pawn`, `kt:aron-nimzowitsch`, `kt:emanuel-lasker` |
 | `kt:template-theory` | `kt:adriaan-de-groot`, `kt:chunking-theory`, `kt:einstellung-effect` |
 | `kt:anatoly-karpov` | `kt:caro-kann-defence`, `kt:ruy-lopez` |
 | `kt:arbiter` | `kt:fide-laws-of-chess`, `kt:touch-move` |
@@ -41,15 +40,18 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:leela-chess-zero` | `kt:computer-chess`, `kt:monte-carlo-tree-search` |
 | `kt:move-ordering` | `kt:alpha-beta-pruning`, `kt:quiescence-search` |
+| `kt:nimzo-indian-defence` | `kt:hypermodernism`, `kt:aron-nimzowitsch` |
 | `kt:nnue` | `kt:computer-chess`, `kt:evaluation-function` |
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
+| `kt:prophylaxis` | `kt:hypermodernism`, `kt:blockade` |
 | `kt:retrograde-analysis` | `kt:chess-problems`, `kt:helpmate` |
 | `kt:rule-of-the-square` | `kt:king-and-pawn-endgames`, `kt:passed-pawn` |
 | `kt:saavedra-position` | `kt:pawn-promotion`, `kt:endgame-study` |
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:zugzwang`, `kt:aron-nimzowitsch` |
 | `kt:simplification` | `kt:material-advantage`, `kt:material-advantage` |
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
+| `kt:soviet-chess-school` | `kt:hypermodernism`, `kt:sicilian-defence` |
 | `kt:starting-age` | `kt:chess-expertise`, `kt:deliberate-practice` |
 | `kt:sveshnikov-variation` | `kt:outpost`, `kt:sicilian-defence` |
 | `kt:talent` | `kt:chess-expertise`, `kt:deliberate-practice` |
@@ -60,6 +62,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:zwischenzug` | `kt:discovered-attack`, `kt:fork` |
 | `kt:abraham-luchins` | `kt:einstellung-effect` |
 | `kt:adolf-anderssen` | `kt:wilhelm-steinitz` |
+| `kt:alekhines-defence` | `kt:hypermodernism` |
 | `kt:alexander-alekhine` | `kt:jose-raul-capablanca` |
 | `kt:alexander-kotov` | `kt:calculation` |
 | `kt:alfred-binet` | `kt:cognitive-psychology-of-chess` |
@@ -118,7 +121,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:minority-attack` | `kt:pawn-structure` |
 | `kt:najdorf-variation` | `kt:sicilian-defence` |
 | `kt:negamax` | `kt:minimax` |
-| `kt:nimzo-indian-defence` | `kt:aron-nimzowitsch` |
 | `kt:open-games` | `kt:ruy-lopez` |
 | `kt:open-ruy-lopez` | `kt:ruy-lopez` |
 | `kt:origins-of-chess` | `kt:chaturanga` |
@@ -129,17 +131,18 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:piece-values` | `kt:material-advantage` |
 | `kt:progressive-deepening` | `kt:calculation` |
 | `kt:proof-number-search` | `kt:game-tree-search` |
-| `kt:prophylaxis` | `kt:blockade` |
 | `kt:puzzle-training` | `kt:deliberate-practice` |
 | `kt:queens-gambit-accepted` | `kt:isolated-queens-pawn` |
 | `kt:remi-coulom` | `kt:monte-carlo-tree-search` |
+| `kt:reti-opening` | `kt:hypermodernism` |
+| `kt:reti-versus-bogoljubow-new-york-1924` | `kt:hypermodernism` |
+| `kt:richard-reti` | `kt:hypermodernism` |
 | `kt:ruy-lopez-de-segura` | `kt:ruy-lopez` |
 | `kt:saint-louis-chess-club` | `kt:us-chess` |
 | `kt:selfmate` | `kt:helpmate` |
 | `kt:shuffle-chess` | `kt:chess960` |
 | `kt:smothered-mate` | `kt:einstellung-effect` |
 | `kt:solving-chess` | `kt:game-tree-search` |
-| `kt:soviet-chess-school` | `kt:sicilian-defence` |
 | `kt:static-exchange-evaluation` | `kt:quiescence-search` |
 | `kt:steinitz-von-bardeleben-hastings-1895` | `kt:wilhelm-steinitz` |
 | `kt:steven-j-edwards` | `kt:forsyth-edwards-notation` |

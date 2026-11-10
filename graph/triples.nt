@@ -1062,6 +1062,37 @@
 <https://github.com/john1hsu/chess-graph/id/horizon-effect> <https://github.com/john1hsu/chess-graph/ontology#fen> "5r1k/4Qpq1/4p3/1p1p2P1/2p2P2/1p2P3/3P4/BK6 b - - 0 1" .
 <https://github.com/john1hsu/chess-graph/id/horizon-effect> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/horizon-effect> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/hypermodernism> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/hypermodernism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#School> .
+<https://github.com/john1hsu/chess-graph/id/hypermodernism> <http://www.w3.org/2000/01/rdf-schema#label> "Hypermodernism" .
+<https://github.com/john1hsu/chess-graph/id/hypermodernism> <http://www.w3.org/2004/02/skos/core#altLabel> "Hypermodern chess" .
+<https://github.com/john1hsu/chess-graph/id/hypermodernism> <http://www.w3.org/2004/02/skos/core#altLabel> "Hypermodern movement" .
+<https://github.com/john1hsu/chess-graph/id/hypermodernism> <http://www.w3.org/2004/02/skos/core#altLabel> "Hypermodern school" .
+<https://github.com/john1hsu/chess-graph/id/hypermodernism> <http://www.w3.org/2004/02/skos/core#altLabel> "Hypermoderns" .
+<https://github.com/john1hsu/chess-graph/id/hypermodernism> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-strategy> .
+<https://github.com/john1hsu/chess-graph/id/hypermodernism> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/history-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/hypermodernism> <http://www.w3.org/2004/02/skos/core#definition> "A school of chess thought that arose among central European masters after the First World War, led by Aron Nimzowitsch and Richard Réti, which challenged the classical doctrine of Steinitz and Tarrasch by arguing that the centre can be controlled from a distance by pieces rather than occupied early by pawns." .
+<https://github.com/john1hsu/chess-graph/id/hypermodernism> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hypermodernism" .
+<https://github.com/john1hsu/chess-graph/id/hypermodernism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/blockade> .
+<https://github.com/john1hsu/chess-graph/id/hypermodernism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/prophylaxis> .
+<https://github.com/john1hsu/chess-graph/id/hypermodernism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> .
+<https://github.com/john1hsu/chess-graph/id/hypermodernism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/soviet-chess-school> .
+<https://github.com/john1hsu/chess-graph/id/hypermodernism> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> .
+<https://github.com/john1hsu/chess-graph/id/hypermodernism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s1> .
+<https://github.com/john1hsu/chess-graph/id/hypermodernism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s2> .
+<https://github.com/john1hsu/chess-graph/id/hypermodernism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s3> .
+<https://github.com/john1hsu/chess-graph/id/hypermodernism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s4> .
+<https://github.com/john1hsu/chess-graph/id/hypermodernism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s5> .
+<https://github.com/john1hsu/chess-graph/id/hypermodernism> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s6> .
+<https://github.com/john1hsu/chess-graph/id/hypermodernism> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> .
+<https://github.com/john1hsu/chess-graph/id/hypermodernism> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/richard-reti> .
+<https://github.com/john1hsu/chess-graph/id/hypermodernism> <https://github.com/john1hsu/chess-graph/ontology#domain> "history" .
+<https://github.com/john1hsu/chess-graph/id/hypermodernism> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/reti-versus-bogoljubow-new-york-1924> .
+<https://github.com/john1hsu/chess-graph/id/hypermodernism> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/alekhines-defence> .
+<https://github.com/john1hsu/chess-graph/id/hypermodernism> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/nimzo-indian-defence> .
+<https://github.com/john1hsu/chess-graph/id/hypermodernism> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/reti-opening> .
+<https://github.com/john1hsu/chess-graph/id/hypermodernism> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/hypermodernism> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/isolated-queens-pawn> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/isolated-queens-pawn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#PawnStructure> .
 <https://github.com/john1hsu/chess-graph/id/isolated-queens-pawn> <http://www.w3.org/2000/01/rdf-schema#label> "Isolated queen's pawn" .
@@ -2666,6 +2697,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s5> <https://schema.org/url> "https://www.chessprogramming.org/Horizon_Effect" .
+<https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s1> <http://purl.org/dc/terms/title> "Hypermodernism" .
+<https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s1> <https://schema.org/url> "https://www.britannica.com/topic/Hypermodernism" .
+<https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s2> <http://purl.org/dc/terms/publisher> "ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s2> <http://purl.org/dc/terms/title> "Britannica: The Evolution of Chess Theory (Part 3) — Andrew Soltis's Britannica text on the development of theory" .
+<https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s2> <https://schema.org/url> "https://en.chessbase.com/post/britannica-the-development-of-chess-theory-3" .
+<https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s3> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s3> <http://purl.org/dc/terms/title> "Richard Réti" .
+<https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s3> <https://schema.org/url> "https://www.britannica.com/biography/Richard-Reti" .
+<https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s4> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
+<https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s4> <http://purl.org/dc/terms/title> "Richard Réti (inductee page)" .
+<https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s4> <https://schema.org/url> "https://worldchesshof.org/inductee/richard-reti/" .
+<https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s5> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s5> <http://purl.org/dc/terms/title> "Aron Nimzowitsch" .
+<https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s5> <https://schema.org/url> "https://www.britannica.com/biography/Aron-Nimzowitsch" .
+<https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s6> <http://purl.org/dc/terms/publisher> "The Spectator" .
+<https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s6> <http://purl.org/dc/terms/title> "Hypermodern (Raymond Keene, chess column, 21 January 2017)" .
+<https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s6> <https://schema.org/url> "https://spectator.com/article/hypermodern/" .
 <https://github.com/john1hsu/chess-graph/id/source/isolated-queens-pawn/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/isolated-queens-pawn/s1> <http://purl.org/dc/terms/title> "Isolated pawn" .
 <https://github.com/john1hsu/chess-graph/id/source/isolated-queens-pawn/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

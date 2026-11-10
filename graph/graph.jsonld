@@ -2001,6 +2001,111 @@
       ]
     },
     {
+      "@id": "kt:hypermodernism",
+      "@type": "kto:School",
+      "skos:prefLabel": "Hypermodernism",
+      "skos:definition": "A school of chess thought that arose among central European masters after the First World War, led by Aron Nimzowitsch and Richard Réti, which challenged the classical doctrine of Steinitz and Tarrasch by arguing that the centre can be controlled from a distance by pieces rather than occupied early by pawns.",
+      "kto:domain": "history",
+      "dcterms:created": "2026-11-10",
+      "kto:verified": "2026-11-10",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Hypermodernism",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/Hypermodernism",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Britannica: The Evolution of Chess Theory (Part 3) — Andrew Soltis's Britannica text on the development of theory",
+          "dcterms:publisher": "ChessBase News",
+          "schema:url": "https://en.chessbase.com/post/britannica-the-development-of-chess-theory-3",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Richard Réti",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/biography/Richard-Reti",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Richard Réti (inductee page)",
+          "dcterms:publisher": "World Chess Hall of Fame",
+          "schema:url": "https://worldchesshof.org/inductee/richard-reti/",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Aron Nimzowitsch",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/biography/Aron-Nimzowitsch",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Hypermodern (Raymond Keene, chess column, 21 January 2017)",
+          "dcterms:publisher": "The Spectator",
+          "schema:url": "https://spectator.com/article/hypermodern/",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/history/hypermodernism.md",
+      "skos:altLabel": [
+        "Hypermodern school",
+        "Hypermodern chess",
+        "Hypermoderns",
+        "Hypermodern movement"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess-strategy"
+        },
+        {
+          "@id": "kt:history-of-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:siegbert-tarrasch"
+        },
+        {
+          "@id": "kt:wilhelm-steinitz"
+        },
+        {
+          "@id": "kt:prophylaxis"
+        },
+        {
+          "@id": "kt:blockade"
+        },
+        {
+          "@id": "kt:soviet-chess-school"
+        }
+      ],
+      "kto:championedBy": [
+        {
+          "@id": "kt:aron-nimzowitsch"
+        },
+        {
+          "@id": "kt:richard-reti"
+        }
+      ],
+      "kto:leadsTo": [
+        {
+          "@id": "kt:nimzo-indian-defence"
+        },
+        {
+          "@id": "kt:reti-opening"
+        },
+        {
+          "@id": "kt:alekhines-defence"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:reti-versus-bogoljubow-new-york-1924"
+        }
+      ]
+    },
+    {
       "@id": "kt:shatranj",
       "@type": "kto:Variant",
       "skos:prefLabel": "Shatranj",
