@@ -210,6 +210,30 @@
     ]
   },
   {
+    "id": "kt:chess-expertise",
+    "title": "Chess expertise",
+    "aliases": [
+      "Chess skill",
+      "Expertise in chess",
+      "Expert performance in chess",
+      "Chess mastery",
+      "Individual differences in chess skill"
+    ],
+    "type": "CognitiveConcept",
+    "domain": "training-and-improvement",
+    "file": "articles/training-and-improvement/chess-expertise.md",
+    "created": "2026-11-10",
+    "verified": "2026-11-10",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.psychologie.uzh.ch/dam/jcr:4b13cd49-3e58-409f-988e-1e73693e1e0b/Burgoyne.Intelligence.2016.pdf",
+      "https://core.ac.uk/download/333345.pdf",
+      "https://hhs.purdue.edu/skill-learning-and-performance-lab/wp-content/uploads/sites/43/2024/08/Burgoyne-ImpactDomainSpecificExperience-2019.pdf",
+      "https://link.springer.com/article/10.3758/s13428-016-0782-5"
+    ]
+  },
+  {
     "id": "kt:chess-olympiad",
     "title": "Chess Olympiad",
     "aliases": [

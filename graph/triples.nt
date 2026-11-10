@@ -236,6 +236,32 @@
 <https://github.com/john1hsu/chess-graph/id/chaturanga> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/shatranj> .
 <https://github.com/john1hsu/chess-graph/id/chaturanga> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/chaturanga> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/chess-expertise> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/chess-expertise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#CognitiveConcept> .
+<https://github.com/john1hsu/chess-graph/id/chess-expertise> <http://www.w3.org/2000/01/rdf-schema#label> "Chess expertise" .
+<https://github.com/john1hsu/chess-graph/id/chess-expertise> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess mastery" .
+<https://github.com/john1hsu/chess-graph/id/chess-expertise> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess skill" .
+<https://github.com/john1hsu/chess-graph/id/chess-expertise> <http://www.w3.org/2004/02/skos/core#altLabel> "Expert performance in chess" .
+<https://github.com/john1hsu/chess-graph/id/chess-expertise> <http://www.w3.org/2004/02/skos/core#altLabel> "Expertise in chess" .
+<https://github.com/john1hsu/chess-graph/id/chess-expertise> <http://www.w3.org/2004/02/skos/core#altLabel> "Individual differences in chess skill" .
+<https://github.com/john1hsu/chess-graph/id/chess-expertise> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/chess-expertise> <http://www.w3.org/2004/02/skos/core#definition> "The study of what makes strong chess players strong: how chess skill is measured, how it develops over a lifetime, and how much of it is explained by practice, starting age and general cognitive ability. Chess has long served psychology as a model domain for expertise research." .
+<https://github.com/john1hsu/chess-graph/id/chess-expertise> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chess expertise" .
+<https://github.com/john1hsu/chess-graph/id/chess-expertise> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/calculation> .
+<https://github.com/john1hsu/chess-graph/id/chess-expertise> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chunking-theory> .
+<https://github.com/john1hsu/chess-graph/id/chess-expertise> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/deliberate-practice> .
+<https://github.com/john1hsu/chess-graph/id/chess-expertise> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/einstellung-effect> .
+<https://github.com/john1hsu/chess-graph/id/chess-expertise> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/elo-rating-system> .
+<https://github.com/john1hsu/chess-graph/id/chess-expertise> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-expertise/s1> .
+<https://github.com/john1hsu/chess-graph/id/chess-expertise> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-expertise/s2> .
+<https://github.com/john1hsu/chess-graph/id/chess-expertise> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-expertise/s3> .
+<https://github.com/john1hsu/chess-graph/id/chess-expertise> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-expertise/s4> .
+<https://github.com/john1hsu/chess-graph/id/chess-expertise> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/talent> .
+<https://github.com/john1hsu/chess-graph/id/chess-expertise> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/starting-age> .
+<https://github.com/john1hsu/chess-graph/id/chess-expertise> <https://github.com/john1hsu/chess-graph/ontology#domain> "training-and-improvement" .
+<https://github.com/john1hsu/chess-graph/id/chess-expertise> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> .
+<https://github.com/john1hsu/chess-graph/id/chess-expertise> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/chess-expertise> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/chess-olympiad> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/chess-olympiad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Event> .
 <https://github.com/john1hsu/chess-graph/id/chess-olympiad> <http://www.w3.org/2000/01/rdf-schema#label> "Chess Olympiad" .
@@ -1608,6 +1634,26 @@
 <https://github.com/john1hsu/chess-graph/id/source/chaturanga/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/chaturanga/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/chaturanga/s6> <https://schema.org/url> "https://www.chessvariants.org/historic.dir/chaturanga.html" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-expertise/s1> <http://purl.org/dc/terms/publisher> "Burgoyne, Sala, Gobet, Macnamara, Campitelli and Hambrick, via University of Zurich" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-expertise/s1> <http://purl.org/dc/terms/title> "The relationship between cognitive ability and chess skill: A comprehensive meta-analysis (Intelligence 59, 72-83)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-expertise/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-expertise/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-expertise/s1> <https://schema.org/url> "https://www.psychologie.uzh.ch/dam/jcr:4b13cd49-3e58-409f-988e-1e73693e1e0b/Burgoyne.Intelligence.2016.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-expertise/s2> <http://purl.org/dc/terms/publisher> "Fernand Gobet and Guillermo Campitelli, via CORE" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-expertise/s2> <http://purl.org/dc/terms/title> "The Role of Domain-Specific Practice, Handedness and Starting Age in Chess (Developmental Psychology 43, 159-172)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-expertise/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-expertise/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-expertise/s2> <https://schema.org/url> "https://core.ac.uk/download/333345.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-expertise/s3> <http://purl.org/dc/terms/publisher> "Burgoyne, Nye, Macnamara, Charness and Hambrick, via Purdue University" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-expertise/s3> <http://purl.org/dc/terms/title> "The Impact of Domain-Specific Experience on Chess Skill: Reanalysis of a Key Study (American Journal of Psychology 132(1), 27-38)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-expertise/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-expertise/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-expertise/s3> <https://schema.org/url> "https://hhs.purdue.edu/skill-learning-and-performance-lab/wp-content/uploads/sites/43/2024/08/Burgoyne-ImpactDomainSpecificExperience-2019.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-expertise/s4> <http://purl.org/dc/terms/publisher> "Nemanja Vaci and Merim Bilalić, Springer / Psychonomic Society" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-expertise/s4> <http://purl.org/dc/terms/title> "Chess databases as a research vehicle in psychology: Modeling large data (Behavior Research Methods 49(4), 1227-1240)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-expertise/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-expertise/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-expertise/s4> <https://schema.org/url> "https://link.springer.com/article/10.3758/s13428-016-0782-5" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s1> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s1> <http://purl.org/dc/terms/title> "FIDE Chess Olympiad 2022 — Regulations for the Main Competition" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

@@ -4426,6 +4426,88 @@
       ]
     },
     {
+      "@id": "kt:chess-expertise",
+      "@type": "kto:CognitiveConcept",
+      "skos:prefLabel": "Chess expertise",
+      "skos:definition": "The study of what makes strong chess players strong: how chess skill is measured, how it develops over a lifetime, and how much of it is explained by practice, starting age and general cognitive ability. Chess has long served psychology as a model domain for expertise research.",
+      "kto:domain": "training-and-improvement",
+      "dcterms:created": "2026-11-10",
+      "kto:verified": "2026-11-10",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The relationship between cognitive ability and chess skill: A comprehensive meta-analysis (Intelligence 59, 72-83)",
+          "dcterms:publisher": "Burgoyne, Sala, Gobet, Macnamara, Campitelli and Hambrick, via University of Zurich",
+          "schema:url": "https://www.psychologie.uzh.ch/dam/jcr:4b13cd49-3e58-409f-988e-1e73693e1e0b/Burgoyne.Intelligence.2016.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Role of Domain-Specific Practice, Handedness and Starting Age in Chess (Developmental Psychology 43, 159-172)",
+          "dcterms:publisher": "Fernand Gobet and Guillermo Campitelli, via CORE",
+          "schema:url": "https://core.ac.uk/download/333345.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Impact of Domain-Specific Experience on Chess Skill: Reanalysis of a Key Study (American Journal of Psychology 132(1), 27-38)",
+          "dcterms:publisher": "Burgoyne, Nye, Macnamara, Charness and Hambrick, via Purdue University",
+          "schema:url": "https://hhs.purdue.edu/skill-learning-and-performance-lab/wp-content/uploads/sites/43/2024/08/Burgoyne-ImpactDomainSpecificExperience-2019.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Chess databases as a research vehicle in psychology: Modeling large data (Behavior Research Methods 49(4), 1227-1240)",
+          "dcterms:publisher": "Nemanja Vaci and Merim Bilalić, Springer / Psychonomic Society",
+          "schema:url": "https://link.springer.com/article/10.3758/s13428-016-0782-5",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/training-and-improvement/chess-expertise.md",
+      "skos:altLabel": [
+        "Chess skill",
+        "Expertise in chess",
+        "Expert performance in chess",
+        "Chess mastery",
+        "Individual differences in chess skill"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:cognitive-psychology-of-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:deliberate-practice"
+        },
+        {
+          "@id": "kt:chunking-theory"
+        },
+        {
+          "@id": "kt:calculation"
+        },
+        {
+          "@id": "kt:einstellung-effect"
+        },
+        {
+          "@id": "kt:elo-rating-system"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:starting-age"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:talent"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:adriaan-de-groot"
+        }
+      ]
+    },
+    {
       "@id": "kt:chunking-theory",
       "@type": "kto:CognitiveConcept",
       "skos:prefLabel": "Chunking theory",

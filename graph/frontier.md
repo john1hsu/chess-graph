@@ -5,9 +5,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:chess` | `kt:chaturanga`, `kt:shatranj`, `kt:chess-strategy`, `kt:fide-laws-of-chess`, `kt:chess-tactics` |
-| `kt:chess-expertise` | `kt:calculation`, `kt:chunking-theory`, `kt:deliberate-practice`, `kt:einstellung-effect` |
-| `kt:cognitive-psychology-of-chess` | `kt:calculation`, `kt:chunking-theory`, `kt:deliberate-practice`, `kt:einstellung-effect` |
+| `kt:cognitive-psychology-of-chess` | `kt:calculation`, `kt:chess-expertise`, `kt:chunking-theory`, `kt:deliberate-practice`, `kt:einstellung-effect` |
 | `kt:king-and-pawn-endgames` | `kt:lucena-position`, `kt:opposition`, `kt:philidor-position`, `kt:stalemate` |
+| `kt:adriaan-de-groot` | `kt:calculation`, `kt:chess-expertise`, `kt:chunking-theory` |
 | `kt:chess-variants` | `kt:chaturanga`, `kt:shatranj`, `kt:chess960` |
 | `kt:double-check` | `kt:discovered-attack`, `kt:discovered-attack`, `kt:fork` |
 | `kt:endgame-tablebases` | `kt:computer-chess`, `kt:zugzwang`, `kt:endgame-study` |
@@ -21,7 +21,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:siegbert-tarrasch` | `kt:isolated-queens-pawn`, `kt:aron-nimzowitsch`, `kt:emanuel-lasker` |
 | `kt:triangulation` | `kt:opposition`, `kt:opposition`, `kt:zugzwang` |
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:emanuel-lasker`, `kt:wilhelm-steinitz` |
-| `kt:adriaan-de-groot` | `kt:calculation`, `kt:chunking-theory` |
 | `kt:anatoly-karpov` | `kt:caro-kann-defence`, `kt:ruy-lopez` |
 | `kt:arbiter` | `kt:fide-laws-of-chess`, `kt:touch-move` |
 | `kt:chess-composition` | `kt:chess-problems`, `kt:endgame-study` |
@@ -48,7 +47,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:semi-open-games` | `kt:caro-kann-defence`, `kt:sicilian-defence` |
 | `kt:simplification` | `kt:material-advantage`, `kt:material-advantage` |
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
+| `kt:starting-age` | `kt:chess-expertise`, `kt:deliberate-practice` |
 | `kt:sveshnikov-variation` | `kt:outpost`, `kt:sicilian-defence` |
+| `kt:talent` | `kt:chess-expertise`, `kt:deliberate-practice` |
 | `kt:template-theory` | `kt:chunking-theory`, `kt:einstellung-effect` |
 | `kt:threefold-repetition` | `kt:en-passant`, `kt:fide-laws-of-chess` |
 | `kt:transposition-table` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
@@ -134,13 +135,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:smothered-mate` | `kt:einstellung-effect` |
 | `kt:solving-chess` | `kt:game-tree-search` |
 | `kt:soviet-chess-school` | `kt:sicilian-defence` |
-| `kt:starting-age` | `kt:deliberate-practice` |
 | `kt:static-exchange-evaluation` | `kt:quiescence-search` |
 | `kt:steinitz-von-bardeleben-hastings-1895` | `kt:wilhelm-steinitz` |
 | `kt:steven-j-edwards` | `kt:forsyth-edwards-notation` |
 | `kt:stockfish` | `kt:computer-chess` |
 | `kt:swiss-system-tournament` | `kt:chess-olympiad` |
-| `kt:talent` | `kt:deliberate-practice` |
 | `kt:tarrasch-defence` | `kt:isolated-queens-pawn` |
 | `kt:team-chess` | `kt:chess-olympiad` |
 | `kt:the-exchange` | `kt:material-advantage` |
