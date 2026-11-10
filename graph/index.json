@@ -1367,6 +1367,31 @@
     ]
   },
   {
+    "id": "kt:queens-gambit",
+    "title": "Queen's Gambit",
+    "aliases": [
+      "Queens Gambit",
+      "Queen's Gambit Opening"
+    ],
+    "type": "Opening",
+    "domain": "openings",
+    "file": "articles/openings/queens-gambit.md",
+    "created": "2026-11-10",
+    "verified": "2026-11-10",
+    "volatile": false,
+    "status": "current",
+    "eco": "D06",
+    "source_urls": [
+      "https://www.chess.com/openings/queens-gambit",
+      "https://www.dummies.com/article/home-auto-hobbies/games/board-games/chess/how-the-queens-gambit-is-played-as-a-chess-opening-275142/",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/1857.pdf",
+      "https://shop.chess-tigers.de/cdn/shop/files/qga_excerpt.pdf",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/7806.pdf",
+      "https://britannica.com/topic/Queens-Gambit-Declined",
+      "https://chessgames.com/perl/chessopening?eco=D06"
+    ]
+  },
+  {
     "id": "kt:quiescence-search",
     "title": "Quiescence search",
     "aliases": [

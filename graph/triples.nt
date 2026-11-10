@@ -1515,6 +1515,33 @@
 <https://github.com/john1hsu/chess-graph/id/pin> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> .
 <https://github.com/john1hsu/chess-graph/id/pin> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/pin> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/queens-gambit> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/queens-gambit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Opening> .
+<https://github.com/john1hsu/chess-graph/id/queens-gambit> <http://www.w3.org/2000/01/rdf-schema#label> "Queen's Gambit" .
+<https://github.com/john1hsu/chess-graph/id/queens-gambit> <http://www.w3.org/2004/02/skos/core#altLabel> "Queen's Gambit Opening" .
+<https://github.com/john1hsu/chess-graph/id/queens-gambit> <http://www.w3.org/2004/02/skos/core#altLabel> "Queens Gambit" .
+<https://github.com/john1hsu/chess-graph/id/queens-gambit> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/closed-games> .
+<https://github.com/john1hsu/chess-graph/id/queens-gambit> <http://www.w3.org/2004/02/skos/core#definition> "A queen's-pawn opening, 1.d4 d5 2.c4, in which White offers the c-pawn to divert Black's d5-pawn from the centre; because the pawn can usually be regained it is not a true gambit, and Black's main replies are the Slav (2...c6), the Declined (2...e6) and the Accepted (2...dxc4)." .
+<https://github.com/john1hsu/chess-graph/id/queens-gambit> <http://www.w3.org/2004/02/skos/core#prefLabel> "Queen's Gambit" .
+<https://github.com/john1hsu/chess-graph/id/queens-gambit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/isolated-queens-pawn> .
+<https://github.com/john1hsu/chess-graph/id/queens-gambit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> .
+<https://github.com/john1hsu/chess-graph/id/queens-gambit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/nimzo-indian-defence> .
+<https://github.com/john1hsu/chess-graph/id/queens-gambit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s1> .
+<https://github.com/john1hsu/chess-graph/id/queens-gambit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s2> .
+<https://github.com/john1hsu/chess-graph/id/queens-gambit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s3> .
+<https://github.com/john1hsu/chess-graph/id/queens-gambit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s4> .
+<https://github.com/john1hsu/chess-graph/id/queens-gambit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s5> .
+<https://github.com/john1hsu/chess-graph/id/queens-gambit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s6> .
+<https://github.com/john1hsu/chess-graph/id/queens-gambit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s7> .
+<https://github.com/john1hsu/chess-graph/id/queens-gambit> <https://github.com/john1hsu/chess-graph/ontology#domain> "openings" .
+<https://github.com/john1hsu/chess-graph/id/queens-gambit> <https://github.com/john1hsu/chess-graph/ontology#eco> "D06" .
+<https://github.com/john1hsu/chess-graph/id/queens-gambit> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/albin-countergambit> .
+<https://github.com/john1hsu/chess-graph/id/queens-gambit> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/queens-gambit-accepted> .
+<https://github.com/john1hsu/chess-graph/id/queens-gambit> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/queens-gambit-declined> .
+<https://github.com/john1hsu/chess-graph/id/queens-gambit> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/slav-defence> .
+<https://github.com/john1hsu/chess-graph/id/queens-gambit> <https://github.com/john1hsu/chess-graph/ontology#moves> "1.d4 d5 2.c4" .
+<https://github.com/john1hsu/chess-graph/id/queens-gambit> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/queens-gambit> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/quiescence-search> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/quiescence-search> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Algorithm> .
 <https://github.com/john1hsu/chess-graph/id/quiescence-search> <http://www.w3.org/2000/01/rdf-schema#label> "Quiescence search" .
@@ -3158,6 +3185,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/pin/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/pin/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/pin/s5> <https://schema.org/url> "https://www.chess.com/terms/pin-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s1> <http://purl.org/dc/terms/publisher> "Chess.com openings reference" .
+<https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s1> <http://purl.org/dc/terms/title> "Queen's Gambit" .
+<https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s1> <https://schema.org/url> "https://www.chess.com/openings/queens-gambit" .
+<https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s2> <http://purl.org/dc/terms/publisher> "James Eade (author of Chess For Dummies), Dummies.com / Wiley" .
+<https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s2> <http://purl.org/dc/terms/title> "How the Queen's Gambit Is Played as a Chess Opening" .
+<https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s2> <https://schema.org/url> "https://www.dummies.com/article/home-auto-hobbies/games/board-games/chess/how-the-queens-gambit-is-played-as-a-chess-opening-275142/" .
+<https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s3> <http://purl.org/dc/terms/publisher> "Paul van der Sterren, Gambit Publications (2009), New In Chess product sample PDF" .
+<https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s3> <http://purl.org/dc/terms/title> "FCO: Fundamental Chess Openings (sample pages: Slav and Semi-Slav chapter)" .
+<https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s3> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/1857.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s4> <http://purl.org/dc/terms/publisher> "Max Dlugy, Russell Enterprises (2023), excerpt PDF hosted by Chess Tigers" .
+<https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s4> <http://purl.org/dc/terms/title> "The Queen's Gambit Accepted: A Modern Counterattack in an Ancient Opening (excerpt)" .
+<https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s4> <https://schema.org/url> "https://shop.chess-tigers.de/cdn/shop/files/qga_excerpt.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s5> <http://purl.org/dc/terms/publisher> "Milos Pavlovic, Thinkers Publishing (2018), New In Chess product sample PDF" .
+<https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s5> <http://purl.org/dc/terms/title> "The Modernized Nimzo – Queen's Gambit Declined Systems (sample pages)" .
+<https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s5> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/7806.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s6> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s6> <http://purl.org/dc/terms/title> "Queen's Gambit Declined" .
+<https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s6> <https://schema.org/url> "https://britannica.com/topic/Queens-Gambit-Declined" .
+<https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s7> <http://purl.org/dc/terms/publisher> "Chessgames.com" .
+<https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s7> <http://purl.org/dc/terms/title> "Queen's Gambit Declined (D06) 1.d4 d5 2.c4" .
+<https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s7> <https://schema.org/url> "https://chessgames.com/perl/chessopening?eco=D06" .
 <https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s1> <http://purl.org/dc/terms/publisher> "Claude E. Shannon, reproduced by Fermat's Library" .
 <https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s1> <http://purl.org/dc/terms/title> "Programming a Computer for Playing Chess (Philosophical Magazine, 1950), full text" .
 <https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
