@@ -1193,6 +1193,34 @@
     ]
   },
   {
+    "id": "kt:passed-pawn",
+    "title": "Passed pawn",
+    "aliases": [
+      "Passer",
+      "Passed pawns",
+      "Free pawn",
+      "Outside passed pawn",
+      "Distant passed pawn",
+      "Protected passed pawn",
+      "Connected passed pawns"
+    ],
+    "type": "StrategicConcept",
+    "domain": "endgames",
+    "file": "articles/endgames/passed-pawn.md",
+    "created": "2026-11-10",
+    "verified": "2026-11-10",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.chess.com/terms/passed-pawn",
+      "https://gutenberg.org/cache/epub/33870/pg33870-images.html",
+      "https://gutenberg.org/cache/epub/5614/pg5614-images.html",
+      "https://qualitychess.co.uk/wp-content/uploads/2024/02/MySystem-excerpt.pdf",
+      "https://shop.chess-tigers.de/cdn/shop/files/dem5_excerpt.pdf",
+      "https://chess-tigers.de/products/the-passed-pawn"
+    ]
+  },
+  {
     "id": "kt:pawn-promotion",
     "title": "Pawn promotion",
     "aliases": [

@@ -1320,6 +1320,37 @@
 <https://github.com/john1hsu/chess-graph/id/outpost> <https://github.com/john1hsu/chess-graph/ontology#fen> "r1bqkb1r/5p1p/p1np1p2/1p1Np3/4P3/N7/PPP2PPP/R2QKB1R b KQkq - 1 10" .
 <https://github.com/john1hsu/chess-graph/id/outpost> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/outpost> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/passed-pawn> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/passed-pawn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
+<https://github.com/john1hsu/chess-graph/id/passed-pawn> <http://www.w3.org/2000/01/rdf-schema#label> "Passed pawn" .
+<https://github.com/john1hsu/chess-graph/id/passed-pawn> <http://www.w3.org/2004/02/skos/core#altLabel> "Connected passed pawns" .
+<https://github.com/john1hsu/chess-graph/id/passed-pawn> <http://www.w3.org/2004/02/skos/core#altLabel> "Distant passed pawn" .
+<https://github.com/john1hsu/chess-graph/id/passed-pawn> <http://www.w3.org/2004/02/skos/core#altLabel> "Free pawn" .
+<https://github.com/john1hsu/chess-graph/id/passed-pawn> <http://www.w3.org/2004/02/skos/core#altLabel> "Outside passed pawn" .
+<https://github.com/john1hsu/chess-graph/id/passed-pawn> <http://www.w3.org/2004/02/skos/core#altLabel> "Passed pawns" .
+<https://github.com/john1hsu/chess-graph/id/passed-pawn> <http://www.w3.org/2004/02/skos/core#altLabel> "Passer" .
+<https://github.com/john1hsu/chess-graph/id/passed-pawn> <http://www.w3.org/2004/02/skos/core#altLabel> "Protected passed pawn" .
+<https://github.com/john1hsu/chess-graph/id/passed-pawn> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-endgame> .
+<https://github.com/john1hsu/chess-graph/id/passed-pawn> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/pawn-structure> .
+<https://github.com/john1hsu/chess-graph/id/passed-pawn> <http://www.w3.org/2004/02/skos/core#definition> "A pawn with no enemy pawn in front of it on its own file or on either adjacent file, so that no pawn can stop it from reaching the promotion square; its value grows as pieces are exchanged and it is often the decisive factor in endgames." .
+<https://github.com/john1hsu/chess-graph/id/passed-pawn> <http://www.w3.org/2004/02/skos/core#prefLabel> "Passed pawn" .
+<https://github.com/john1hsu/chess-graph/id/passed-pawn> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/breakthrough> .
+<https://github.com/john1hsu/chess-graph/id/passed-pawn> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/king-and-pawn-endgames> .
+<https://github.com/john1hsu/chess-graph/id/passed-pawn> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/rook-endgames> .
+<https://github.com/john1hsu/chess-graph/id/passed-pawn> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/rule-of-the-square> .
+<https://github.com/john1hsu/chess-graph/id/passed-pawn> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s1> .
+<https://github.com/john1hsu/chess-graph/id/passed-pawn> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s2> .
+<https://github.com/john1hsu/chess-graph/id/passed-pawn> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s3> .
+<https://github.com/john1hsu/chess-graph/id/passed-pawn> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s4> .
+<https://github.com/john1hsu/chess-graph/id/passed-pawn> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s5> .
+<https://github.com/john1hsu/chess-graph/id/passed-pawn> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s6> .
+<https://github.com/john1hsu/chess-graph/id/passed-pawn> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> .
+<https://github.com/john1hsu/chess-graph/id/passed-pawn> <https://github.com/john1hsu/chess-graph/ontology#counteredBy> <https://github.com/john1hsu/chess-graph/id/blockade> .
+<https://github.com/john1hsu/chess-graph/id/passed-pawn> <https://github.com/john1hsu/chess-graph/ontology#domain> "endgames" .
+<https://github.com/john1hsu/chess-graph/id/passed-pawn> <https://github.com/john1hsu/chess-graph/ontology#fen> "8/5pk1/6p1/P7/8/6P1/5PK1/8 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/passed-pawn> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/pawn-promotion> .
+<https://github.com/john1hsu/chess-graph/id/passed-pawn> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/passed-pawn> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/pawn-promotion> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/pawn-promotion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Rule> .
 <https://github.com/john1hsu/chess-graph/id/pawn-promotion> <http://www.w3.org/2000/01/rdf-schema#label> "Pawn promotion" .
@@ -2875,6 +2906,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/outpost/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/outpost/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/outpost/s6> <https://schema.org/url> "https://en.chessbase.com/post/the-winning-academy-32-the-hole" .
+<https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s1> <http://purl.org/dc/terms/publisher> "Chess.com (Chess Terms)" .
+<https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s1> <http://purl.org/dc/terms/title> "Passed Pawn" .
+<https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s1> <https://schema.org/url> "https://www.chess.com/terms/passed-pawn" .
+<https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s2> <http://purl.org/dc/terms/publisher> "José Raúl Capablanca, Harcourt, Brace and Howe; Project Gutenberg" .
+<https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s2> <http://purl.org/dc/terms/title> "Chess Fundamentals (1921), Project Gutenberg eBook #33870" .
+<https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s2> <https://schema.org/url> "https://gutenberg.org/cache/epub/33870/pg33870-images.html" .
+<https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s3> <http://purl.org/dc/terms/publisher> "Edward Lasker; Project Gutenberg" .
+<https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s3> <http://purl.org/dc/terms/title> "Chess Strategy (1915), Project Gutenberg eBook #5614" .
+<https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s3> <https://schema.org/url> "https://gutenberg.org/cache/epub/5614/pg5614-images.html" .
+<https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s4> <http://purl.org/dc/terms/publisher> "Aron Nimzowitsch, Quality Chess (2007 edition)" .
+<https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s4> <http://purl.org/dc/terms/title> "My System (excerpt)" .
+<https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s4> <https://schema.org/url> "https://qualitychess.co.uk/wp-content/uploads/2024/02/MySystem-excerpt.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s5> <http://purl.org/dc/terms/publisher> "Mark Dvoretsky, revised by Karsten Müller, Russell Enterprises (2020)" .
+<https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s5> <http://purl.org/dc/terms/title> "Dvoretsky's Endgame Manual, fifth edition (excerpt with table of contents)" .
+<https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s5> <https://schema.org/url> "https://shop.chess-tigers.de/cdn/shop/files/dem5_excerpt.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s6> <http://purl.org/dc/terms/publisher> "Efstratios Grivas, Thinkers Publishing (2022)" .
+<https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s6> <http://purl.org/dc/terms/title> "The Passed Pawn: Power of the Passer (publisher's description)" .
+<https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s6> <https://schema.org/url> "https://chess-tigers.de/products/the-passed-pawn" .
 <https://github.com/john1hsu/chess-graph/id/source/pawn-promotion/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
 <https://github.com/john1hsu/chess-graph/id/source/pawn-promotion/s1> <http://purl.org/dc/terms/title> "FIDE Laws of Chess (applied from 1 January 2023), full text: Articles 3.7, 4.4, 4.6, 7.5 and Appendix A" .
 <https://github.com/john1hsu/chess-graph/id/source/pawn-promotion/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

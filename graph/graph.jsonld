@@ -1090,6 +1090,103 @@
       ]
     },
     {
+      "@id": "kt:passed-pawn",
+      "@type": "kto:StrategicConcept",
+      "skos:prefLabel": "Passed pawn",
+      "skos:definition": "A pawn with no enemy pawn in front of it on its own file or on either adjacent file, so that no pawn can stop it from reaching the promotion square; its value grows as pieces are exchanged and it is often the decisive factor in endgames.",
+      "kto:domain": "endgames",
+      "dcterms:created": "2026-11-10",
+      "kto:verified": "2026-11-10",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Passed Pawn",
+          "dcterms:publisher": "Chess.com (Chess Terms)",
+          "schema:url": "https://www.chess.com/terms/passed-pawn",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Chess Fundamentals (1921), Project Gutenberg eBook #33870",
+          "dcterms:publisher": "José Raúl Capablanca, Harcourt, Brace and Howe; Project Gutenberg",
+          "schema:url": "https://gutenberg.org/cache/epub/33870/pg33870-images.html",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Chess Strategy (1915), Project Gutenberg eBook #5614",
+          "dcterms:publisher": "Edward Lasker; Project Gutenberg",
+          "schema:url": "https://gutenberg.org/cache/epub/5614/pg5614-images.html",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "My System (excerpt)",
+          "dcterms:publisher": "Aron Nimzowitsch, Quality Chess (2007 edition)",
+          "schema:url": "https://qualitychess.co.uk/wp-content/uploads/2024/02/MySystem-excerpt.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Dvoretsky's Endgame Manual, fifth edition (excerpt with table of contents)",
+          "dcterms:publisher": "Mark Dvoretsky, revised by Karsten Müller, Russell Enterprises (2020)",
+          "schema:url": "https://shop.chess-tigers.de/cdn/shop/files/dem5_excerpt.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The Passed Pawn: Power of the Passer (publisher's description)",
+          "dcterms:publisher": "Efstratios Grivas, Thinkers Publishing (2022)",
+          "schema:url": "https://chess-tigers.de/products/the-passed-pawn",
+          "kto:sourceType": "book"
+        }
+      ],
+      "kto:file": "articles/endgames/passed-pawn.md",
+      "skos:altLabel": [
+        "Passer",
+        "Passed pawns",
+        "Free pawn",
+        "Outside passed pawn",
+        "Distant passed pawn",
+        "Protected passed pawn",
+        "Connected passed pawns"
+      ],
+      "kto:fen": "8/5pk1/6p1/P7/8/6P1/5PK1/8 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:pawn-structure"
+        },
+        {
+          "@id": "kt:chess-endgame"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:king-and-pawn-endgames"
+        },
+        {
+          "@id": "kt:rule-of-the-square"
+        },
+        {
+          "@id": "kt:rook-endgames"
+        },
+        {
+          "@id": "kt:breakthrough"
+        }
+      ],
+      "kto:leadsTo": [
+        {
+          "@id": "kt:pawn-promotion"
+        }
+      ],
+      "kto:counteredBy": [
+        {
+          "@id": "kt:blockade"
+        }
+      ],
+      "kto:championedBy": [
+        {
+          "@id": "kt:aron-nimzowitsch"
+        }
+      ]
+    },
+    {
       "@id": "kt:philidor-position",
       "@type": "kto:EndgameType",
       "skos:prefLabel": "Philidor position",

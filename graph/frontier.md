@@ -5,7 +5,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:chess` | `kt:chaturanga`, `kt:shatranj`, `kt:chess-strategy`, `kt:fide-laws-of-chess`, `kt:chess-tactics` |
-| `kt:passed-pawn` | `kt:king-and-pawn-endgames`, `kt:blockade`, `kt:blockade`, `kt:pawn-promotion` |
+| `kt:rook-endgames` | `kt:lucena-position`, `kt:passed-pawn`, `kt:philidor-position`, `kt:skewer` |
 | `kt:triangulation` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:opposition`, `kt:zugzwang` |
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:emanuel-lasker`, `kt:jose-raul-capablanca`, `kt:wilhelm-steinitz` |
 | `kt:chess-composition` | `kt:chess-problems`, `kt:endgame-study`, `kt:helpmate` |
@@ -19,7 +19,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hypermodernism` | `kt:blockade`, `kt:aron-nimzowitsch`, `kt:aron-nimzowitsch` |
 | `kt:key-squares` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:zugzwang` |
 | `kt:portable-game-notation` | `kt:algebraic-notation`, `kt:forsyth-edwards-notation`, `kt:forsyth-edwards-notation` |
-| `kt:rook-endgames` | `kt:lucena-position`, `kt:philidor-position`, `kt:skewer` |
 | `kt:sacrifice` | `kt:material-advantage`, `kt:material-advantage`, `kt:combination` |
 | `kt:semi-open-games` | `kt:caro-kann-defence`, `kt:french-defence`, `kt:sicilian-defence` |
 | `kt:siegbert-tarrasch` | `kt:isolated-queens-pawn`, `kt:aron-nimzowitsch`, `kt:emanuel-lasker` |
@@ -28,6 +27,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:arbiter` | `kt:fide-laws-of-chess`, `kt:touch-move` |
 | `kt:bobby-fischer` | `kt:us-chess`, `kt:chess960` |
 | `kt:checkmate` | `kt:stalemate`, `kt:helpmate` |
+| `kt:chess-endgame` | `kt:king-and-pawn-endgames`, `kt:passed-pawn` |
 | `kt:chess-organizations` | `kt:fide`, `kt:us-chess` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position` |
 | `kt:dead-position` | `kt:stalemate`, `kt:helpmate` |
@@ -45,6 +45,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
 | `kt:retrograde-analysis` | `kt:chess-problems`, `kt:helpmate` |
+| `kt:rule-of-the-square` | `kt:king-and-pawn-endgames`, `kt:passed-pawn` |
 | `kt:saavedra-position` | `kt:pawn-promotion`, `kt:endgame-study` |
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:zugzwang`, `kt:aron-nimzowitsch` |
 | `kt:simplification` | `kt:material-advantage`, `kt:material-advantage` |
@@ -72,11 +73,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:berlin-defence` | `kt:ruy-lopez` |
 | `kt:bishop-pair` | `kt:material-advantage` |
 | `kt:blindfold-chess` | `kt:cognitive-psychology-of-chess` |
+| `kt:breakthrough` | `kt:passed-pawn` |
 | `kt:candidate-moves` | `kt:calculation` |
 | `kt:candidates-tournament` | `kt:world-chess-championship` |
 | `kt:carlsbad-1929` | `kt:aron-nimzowitsch` |
 | `kt:carlsbad-structure` | `kt:pawn-structure` |
-| `kt:chess-endgame` | `kt:king-and-pawn-endgames` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
 | `kt:chess-titles` | `kt:grandmaster-title` |
 | `kt:cognitive-science` | `kt:cognitive-psychology-of-chess` |
@@ -132,7 +133,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:puzzle-training` | `kt:deliberate-practice` |
 | `kt:queens-gambit-accepted` | `kt:isolated-queens-pawn` |
 | `kt:remi-coulom` | `kt:monte-carlo-tree-search` |
-| `kt:rule-of-the-square` | `kt:king-and-pawn-endgames` |
 | `kt:ruy-lopez-de-segura` | `kt:ruy-lopez` |
 | `kt:saint-louis-chess-club` | `kt:us-chess` |
 | `kt:selfmate` | `kt:helpmate` |
