@@ -6467,6 +6467,111 @@
       ]
     },
     {
+      "@id": "kt:sacrifice",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Sacrifice",
+      "skos:definition": "The deliberate surrender of material, from a pawn to the queen, in return for something judged more valuable: a forced mate or a larger material gain, or lasting assets such as development, an attack, open lines or dominant squares.",
+      "kto:domain": "tactics",
+      "dcterms:created": "2026-11-11",
+      "kto:verified": "2026-11-11",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Art of Sacrifice in Chess (Dover Chess) — publisher's description",
+          "dcterms:publisher": "Rudolf Spielmann; Dover Publications (via Lehmanns)",
+          "schema:url": "https://www.lehmanns.ch/shop/sachbuch-ratgeber/40219077-9780486143064-art-of-sacrifice-in-chess",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Chess Sacrifices",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://chesshistory.com/winter/extra/sacrifices.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Gambit",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/gambit",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "The Exchange Sacrifice according to Tigran Petrosian (sample: foreword, introduction and first game)",
+          "dcterms:publisher": "Vassilios Kotronias; Russell Enterprises (via New In Chess)",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/3766.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The Exchange Sacrifice according to Tigran Petrosian (review)",
+          "dcterms:publisher": "Colin Purdon, British Chess News",
+          "schema:url": "https://britishchessnews.com/2022/12/23/the-exchange-sacrifice-according-to-tigran-petrosian",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "What is a Chess Combination?",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://www.chesshistory.com/winter/extra/combination.html",
+          "kto:sourceType": "reference"
+        }
+      ],
+      "kto:file": "articles/tactics/sacrifice.md",
+      "skos:altLabel": [
+        "Chess sacrifice",
+        "Sac",
+        "Sacrifices",
+        "Sham sacrifice",
+        "Pseudo-sacrifice",
+        "Real sacrifice",
+        "True sacrifice"
+      ],
+      "kto:fen": "3rq1k1/5ppp/2n1r1b1/pp2P3/2pP1QB1/P1P1R3/1B4PP/4R1K1 w - - 4 26",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-tactics"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:combination"
+        },
+        {
+          "@id": "kt:material-advantage"
+        },
+        {
+          "@id": "kt:romantic-era"
+        },
+        {
+          "@id": "kt:calculation"
+        },
+        {
+          "@id": "kt:rudolf-spielmann"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:gambit"
+        },
+        {
+          "@id": "kt:exchange-sacrifice"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:calculation"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:reshevsky-versus-petrosian-zurich-1953"
+        }
+      ],
+      "kto:championedBy": [
+        {
+          "@id": "kt:tigran-petrosian"
+        }
+      ]
+    },
+    {
       "@id": "kt:skewer",
       "@type": "kto:TacticalMotif",
       "skos:prefLabel": "Skewer",

@@ -1887,6 +1887,34 @@
     ]
   },
   {
+    "id": "kt:sacrifice",
+    "title": "Sacrifice",
+    "aliases": [
+      "Chess sacrifice",
+      "Sac",
+      "Sacrifices",
+      "Sham sacrifice",
+      "Pseudo-sacrifice",
+      "Real sacrifice",
+      "True sacrifice"
+    ],
+    "type": "Technique",
+    "domain": "tactics",
+    "file": "articles/tactics/sacrifice.md",
+    "created": "2026-11-11",
+    "verified": "2026-11-11",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.lehmanns.ch/shop/sachbuch-ratgeber/40219077-9780486143064-art-of-sacrifice-in-chess",
+      "https://chesshistory.com/winter/extra/sacrifices.html",
+      "https://www.britannica.com/topic/gambit",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/3766.pdf",
+      "https://britishchessnews.com/2022/12/23/the-exchange-sacrifice-according-to-tigran-petrosian",
+      "https://www.chesshistory.com/winter/extra/combination.html"
+    ]
+  },
+  {
     "id": "kt:shatranj",
     "title": "Shatranj",
     "aliases": [

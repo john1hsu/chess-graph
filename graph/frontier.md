@@ -6,7 +6,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:chess` | `kt:chess-endgame`, `kt:chaturanga`, `kt:history-of-chess`, `kt:shatranj`, `kt:chess-strategy`, `kt:fide-laws-of-chess`, `kt:chess-tactics`, `kt:chess-composition`, `kt:chess-variants` |
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:jose-raul-capablanca`, `kt:wilhelm-steinitz` |
-| `kt:sacrifice` | `kt:romantic-era`, `kt:material-advantage`, `kt:material-advantage`, `kt:combination` |
 | `kt:triangulation` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:opposition`, `kt:zugzwang` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position`, `kt:rook-endgames` |
 | `kt:dead-position` | `kt:stalemate`, `kt:helpmate`, `kt:retrograde-analysis` |
@@ -21,6 +20,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:portable-game-notation` | `kt:algebraic-notation`, `kt:forsyth-edwards-notation`, `kt:forsyth-edwards-notation` |
 | `kt:semi-open-games` | `kt:caro-kann-defence`, `kt:french-defence`, `kt:sicilian-defence` |
 | `kt:template-theory` | `kt:adriaan-de-groot`, `kt:chunking-theory`, `kt:einstellung-effect` |
+| `kt:tigran-petrosian` | `kt:prophylaxis`, `kt:bobby-fischer`, `kt:sacrifice` |
 | `kt:adolf-anderssen` | `kt:romantic-era`, `kt:wilhelm-steinitz` |
 | `kt:alphazero` | `kt:evaluation-function`, `kt:chess-variants` |
 | `kt:bishop-pair` | `kt:material-advantage`, `kt:nimzo-indian-defence` |
@@ -56,7 +56,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:sveshnikov-variation` | `kt:outpost`, `kt:sicilian-defence` |
 | `kt:talent` | `kt:chess-expertise`, `kt:deliberate-practice` |
 | `kt:threefold-repetition` | `kt:en-passant`, `kt:fide-laws-of-chess` |
-| `kt:tigran-petrosian` | `kt:prophylaxis`, `kt:bobby-fischer` |
 | `kt:transposition-table` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:us-chess-championship` | `kt:us-chess`, `kt:bobby-fischer` |
 | `kt:visualization` | `kt:calculation`, `kt:chunking-theory` |
@@ -93,12 +92,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:dragon-variation` | `kt:sicilian-defence` |
 | `kt:draw` | `kt:stalemate` |
 | `kt:european-chess-union` | `kt:fide` |
+| `kt:exchange-sacrifice` | `kt:sacrifice` |
 | `kt:extended-position-description` | `kt:forsyth-edwards-notation` |
 | `kt:fide-ethics-and-disciplinary-code` | `kt:fair-play-regulations` |
 | `kt:fide-handbook` | `kt:fair-play-regulations` |
 | `kt:fide-title-regulations` | `kt:grandmaster-title` |
 | `kt:fide-world-fischer-random-chess-championship` | `kt:chess960` |
 | `kt:four-handed-chaturanga` | `kt:chaturanga` |
+| `kt:gambit` | `kt:sacrifice` |
 | `kt:game-of-the-century` | `kt:bobby-fischer` |
 | `kt:giuoco-pianissimo` | `kt:italian-game` |
 | `kt:glicko-rating-system` | `kt:elo-rating-system` |
@@ -147,12 +148,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:proof-number-search` | `kt:game-tree-search` |
 | `kt:puzzle-training` | `kt:deliberate-practice` |
 | `kt:remi-coulom` | `kt:monte-carlo-tree-search` |
+| `kt:reshevsky-versus-petrosian-zurich-1953` | `kt:sacrifice` |
 | `kt:restraint` | `kt:prophylaxis` |
 | `kt:reti-opening` | `kt:hypermodernism` |
 | `kt:reti-versus-bogoljubow-new-york-1924` | `kt:hypermodernism` |
 | `kt:retractor` | `kt:retrograde-analysis` |
 | `kt:richard-reti` | `kt:hypermodernism` |
 | `kt:rubinstein-variation` | `kt:nimzo-indian-defence` |
+| `kt:rudolf-spielmann` | `kt:sacrifice` |
 | `kt:ruy-lopez-de-segura` | `kt:ruy-lopez` |
 | `kt:saint-louis-chess-club` | `kt:us-chess` |
 | `kt:samisch-variation` | `kt:nimzo-indian-defence` |

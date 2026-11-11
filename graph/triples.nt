@@ -2109,6 +2109,39 @@
 <https://github.com/john1hsu/chess-graph/id/ruy-lopez> <https://github.com/john1hsu/chess-graph/ontology#namedAfter> <https://github.com/john1hsu/chess-graph/id/ruy-lopez-de-segura> .
 <https://github.com/john1hsu/chess-graph/id/ruy-lopez> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/ruy-lopez> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/sacrifice> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/sacrifice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Technique> .
+<https://github.com/john1hsu/chess-graph/id/sacrifice> <http://www.w3.org/2000/01/rdf-schema#label> "Sacrifice" .
+<https://github.com/john1hsu/chess-graph/id/sacrifice> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess sacrifice" .
+<https://github.com/john1hsu/chess-graph/id/sacrifice> <http://www.w3.org/2004/02/skos/core#altLabel> "Pseudo-sacrifice" .
+<https://github.com/john1hsu/chess-graph/id/sacrifice> <http://www.w3.org/2004/02/skos/core#altLabel> "Real sacrifice" .
+<https://github.com/john1hsu/chess-graph/id/sacrifice> <http://www.w3.org/2004/02/skos/core#altLabel> "Sac" .
+<https://github.com/john1hsu/chess-graph/id/sacrifice> <http://www.w3.org/2004/02/skos/core#altLabel> "Sacrifices" .
+<https://github.com/john1hsu/chess-graph/id/sacrifice> <http://www.w3.org/2004/02/skos/core#altLabel> "Sham sacrifice" .
+<https://github.com/john1hsu/chess-graph/id/sacrifice> <http://www.w3.org/2004/02/skos/core#altLabel> "True sacrifice" .
+<https://github.com/john1hsu/chess-graph/id/sacrifice> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-tactics> .
+<https://github.com/john1hsu/chess-graph/id/sacrifice> <http://www.w3.org/2004/02/skos/core#definition> "The deliberate surrender of material, from a pawn to the queen, in return for something judged more valuable: a forced mate or a larger material gain, or lasting assets such as development, an attack, open lines or dominant squares." .
+<https://github.com/john1hsu/chess-graph/id/sacrifice> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sacrifice" .
+<https://github.com/john1hsu/chess-graph/id/sacrifice> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/calculation> .
+<https://github.com/john1hsu/chess-graph/id/sacrifice> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/combination> .
+<https://github.com/john1hsu/chess-graph/id/sacrifice> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/material-advantage> .
+<https://github.com/john1hsu/chess-graph/id/sacrifice> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/romantic-era> .
+<https://github.com/john1hsu/chess-graph/id/sacrifice> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/rudolf-spielmann> .
+<https://github.com/john1hsu/chess-graph/id/sacrifice> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/sacrifice/s1> .
+<https://github.com/john1hsu/chess-graph/id/sacrifice> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/sacrifice/s2> .
+<https://github.com/john1hsu/chess-graph/id/sacrifice> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/sacrifice/s3> .
+<https://github.com/john1hsu/chess-graph/id/sacrifice> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/sacrifice/s4> .
+<https://github.com/john1hsu/chess-graph/id/sacrifice> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/sacrifice/s5> .
+<https://github.com/john1hsu/chess-graph/id/sacrifice> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/sacrifice/s6> .
+<https://github.com/john1hsu/chess-graph/id/sacrifice> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/tigran-petrosian> .
+<https://github.com/john1hsu/chess-graph/id/sacrifice> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/calculation> .
+<https://github.com/john1hsu/chess-graph/id/sacrifice> <https://github.com/john1hsu/chess-graph/ontology#domain> "tactics" .
+<https://github.com/john1hsu/chess-graph/id/sacrifice> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/reshevsky-versus-petrosian-zurich-1953> .
+<https://github.com/john1hsu/chess-graph/id/sacrifice> <https://github.com/john1hsu/chess-graph/ontology#fen> "3rq1k1/5ppp/2n1r1b1/pp2P3/2pP1QB1/P1P1R3/1B4PP/4R1K1 w - - 4 26" .
+<https://github.com/john1hsu/chess-graph/id/sacrifice> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/exchange-sacrifice> .
+<https://github.com/john1hsu/chess-graph/id/sacrifice> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/gambit> .
+<https://github.com/john1hsu/chess-graph/id/sacrifice> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/sacrifice> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/shatranj> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/shatranj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Variant> .
 <https://github.com/john1hsu/chess-graph/id/shatranj> <http://www.w3.org/2000/01/rdf-schema#label> "Shatranj" .
@@ -4325,6 +4358,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s7> <https://schema.org/url> "https://kwabc.org/en/newsitem/ruy-lopez-de-segura-a-new-biography-sheds-fresh-light-on-a-major-figure-in-chess-history.html" .
+<https://github.com/john1hsu/chess-graph/id/source/sacrifice/s1> <http://purl.org/dc/terms/publisher> "Rudolf Spielmann; Dover Publications (via Lehmanns)" .
+<https://github.com/john1hsu/chess-graph/id/source/sacrifice/s1> <http://purl.org/dc/terms/title> "The Art of Sacrifice in Chess (Dover Chess) — publisher's description" .
+<https://github.com/john1hsu/chess-graph/id/source/sacrifice/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/sacrifice/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/sacrifice/s1> <https://schema.org/url> "https://www.lehmanns.ch/shop/sachbuch-ratgeber/40219077-9780486143064-art-of-sacrifice-in-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/sacrifice/s2> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/sacrifice/s2> <http://purl.org/dc/terms/title> "Chess Sacrifices" .
+<https://github.com/john1hsu/chess-graph/id/source/sacrifice/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/sacrifice/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/sacrifice/s2> <https://schema.org/url> "https://chesshistory.com/winter/extra/sacrifices.html" .
+<https://github.com/john1hsu/chess-graph/id/source/sacrifice/s3> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/sacrifice/s3> <http://purl.org/dc/terms/title> "Gambit" .
+<https://github.com/john1hsu/chess-graph/id/source/sacrifice/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/sacrifice/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/sacrifice/s3> <https://schema.org/url> "https://www.britannica.com/topic/gambit" .
+<https://github.com/john1hsu/chess-graph/id/source/sacrifice/s4> <http://purl.org/dc/terms/publisher> "Vassilios Kotronias; Russell Enterprises (via New In Chess)" .
+<https://github.com/john1hsu/chess-graph/id/source/sacrifice/s4> <http://purl.org/dc/terms/title> "The Exchange Sacrifice according to Tigran Petrosian (sample: foreword, introduction and first game)" .
+<https://github.com/john1hsu/chess-graph/id/source/sacrifice/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/sacrifice/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/sacrifice/s4> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/3766.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/sacrifice/s5> <http://purl.org/dc/terms/publisher> "Colin Purdon, British Chess News" .
+<https://github.com/john1hsu/chess-graph/id/source/sacrifice/s5> <http://purl.org/dc/terms/title> "The Exchange Sacrifice according to Tigran Petrosian (review)" .
+<https://github.com/john1hsu/chess-graph/id/source/sacrifice/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/sacrifice/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/sacrifice/s5> <https://schema.org/url> "https://britishchessnews.com/2022/12/23/the-exchange-sacrifice-according-to-tigran-petrosian" .
+<https://github.com/john1hsu/chess-graph/id/source/sacrifice/s6> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/sacrifice/s6> <http://purl.org/dc/terms/title> "What is a Chess Combination?" .
+<https://github.com/john1hsu/chess-graph/id/source/sacrifice/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/sacrifice/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/sacrifice/s6> <https://schema.org/url> "https://www.chesshistory.com/winter/extra/combination.html" .
 <https://github.com/john1hsu/chess-graph/id/source/shatranj/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/shatranj/s1> <http://purl.org/dc/terms/title> "Shatranj" .
 <https://github.com/john1hsu/chess-graph/id/source/shatranj/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
