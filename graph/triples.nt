@@ -934,6 +934,31 @@
 <https://github.com/john1hsu/chess-graph/id/discovered-attack> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/double-check> .
 <https://github.com/john1hsu/chess-graph/id/discovered-attack> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/discovered-attack> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/double-check> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/double-check> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TacticalMotif> .
+<https://github.com/john1hsu/chess-graph/id/double-check> <http://www.w3.org/2000/01/rdf-schema#label> "Double check" .
+<https://github.com/john1hsu/chess-graph/id/double-check> <http://www.w3.org/2004/02/skos/core#altLabel> "Double-check" .
+<https://github.com/john1hsu/chess-graph/id/double-check> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-tactics> .
+<https://github.com/john1hsu/chess-graph/id/double-check> <http://www.w3.org/2004/02/skos/core#definition> "A check given by two pieces at once, normally when a piece moves off a line with check and uncovers a second check behind it; since neither check can be blocked or captured away with one move, the king itself must move." .
+<https://github.com/john1hsu/chess-graph/id/double-check> <http://www.w3.org/2004/02/skos/core#prefLabel> "Double check" .
+<https://github.com/john1hsu/chess-graph/id/double-check> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/checkmate> .
+<https://github.com/john1hsu/chess-graph/id/double-check> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/combination> .
+<https://github.com/john1hsu/chess-graph/id/double-check> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/discovered-attack> .
+<https://github.com/john1hsu/chess-graph/id/double-check> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fork> .
+<https://github.com/john1hsu/chess-graph/id/double-check> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/sacrifice> .
+<https://github.com/john1hsu/chess-graph/id/double-check> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/double-check/s1> .
+<https://github.com/john1hsu/chess-graph/id/double-check> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/double-check/s2> .
+<https://github.com/john1hsu/chess-graph/id/double-check> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/double-check/s3> .
+<https://github.com/john1hsu/chess-graph/id/double-check> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/double-check/s4> .
+<https://github.com/john1hsu/chess-graph/id/double-check> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/double-check/s5> .
+<https://github.com/john1hsu/chess-graph/id/double-check> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/discovered-attack> .
+<https://github.com/john1hsu/chess-graph/id/double-check> <https://github.com/john1hsu/chess-graph/ontology#domain> "tactics" .
+<https://github.com/john1hsu/chess-graph/id/double-check> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/reti-versus-tartakower-vienna-1910> .
+<https://github.com/john1hsu/chess-graph/id/double-check> <https://github.com/john1hsu/chess-graph/ontology#fen> "rnbk1b1r/pp3ppp/2p5/4q1B1/4n3/8/PPP2PPP/2KR1BNR b - - 1 10" .
+<https://github.com/john1hsu/chess-graph/id/double-check> <https://github.com/john1hsu/chess-graph/ontology#governedBy> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/double-check> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/checkmate> .
+<https://github.com/john1hsu/chess-graph/id/double-check> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/double-check> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/einstellung-effect> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/einstellung-effect> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#CognitiveConcept> .
 <https://github.com/john1hsu/chess-graph/id/einstellung-effect> <http://www.w3.org/2000/01/rdf-schema#label> "Einstellung effect" .
@@ -3261,6 +3286,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/discovered-attack/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/discovered-attack/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/discovered-attack/s4> <https://schema.org/url> "https://www.chess.com/terms/discovered-attack-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/double-check/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/double-check/s1> <http://purl.org/dc/terms/title> "FIDE Laws of Chess (full text, applied from 1 January 2023)" .
+<https://github.com/john1hsu/chess-graph/id/source/double-check/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/double-check/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/double-check/s1> <https://schema.org/url> "https://rcc.fide.com/fide-laws-of-chess_fulltexthtml/" .
+<https://github.com/john1hsu/chess-graph/id/source/double-check/s2> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/double-check/s2> <http://purl.org/dc/terms/title> "Double Check in Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/double-check/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/double-check/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/double-check/s2> <https://schema.org/url> "https://www.chesshistory.com/winter/extra/doublecheck.html" .
+<https://github.com/john1hsu/chess-graph/id/source/double-check/s3> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/double-check/s3> <http://purl.org/dc/terms/title> "Réti v Tartakower" .
+<https://github.com/john1hsu/chess-graph/id/source/double-check/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/double-check/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/double-check/s3> <https://schema.org/url> "https://www.chesshistory.com/winter/extra/retitartakower.html" .
+<https://github.com/john1hsu/chess-graph/id/source/double-check/s4> <http://purl.org/dc/terms/publisher> "ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/double-check/s4> <http://purl.org/dc/terms/title> "The ultimate weapon (Jon Speelman's Agony Column)" .
+<https://github.com/john1hsu/chess-graph/id/source/double-check/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/double-check/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/double-check/s4> <https://schema.org/url> "https://en.chessbase.com/post/speelman-agony-197" .
+<https://github.com/john1hsu/chess-graph/id/source/double-check/s5> <http://purl.org/dc/terms/publisher> "Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/double-check/s5> <http://purl.org/dc/terms/title> "Double Check (Chess Terms)" .
+<https://github.com/john1hsu/chess-graph/id/source/double-check/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/double-check/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/double-check/s5> <https://schema.org/url> "https://www.chess.com/fr/terms/double-check-chess" .
 <https://github.com/john1hsu/chess-graph/id/source/einstellung-effect/s1> <http://purl.org/dc/terms/publisher> "Merim Bilalić, Peter McLeod and Fernand Gobet, Brunel University Research Archive" .
 <https://github.com/john1hsu/chess-graph/id/source/einstellung-effect/s1> <http://purl.org/dc/terms/title> "Why good thoughts block better ones: The mechanism of the pernicious Einstellung (set) effect (Cognition, 2008)" .
 <https://github.com/john1hsu/chess-graph/id/source/einstellung-effect/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

@@ -6573,6 +6573,96 @@
       ]
     },
     {
+      "@id": "kt:double-check",
+      "@type": "kto:TacticalMotif",
+      "skos:prefLabel": "Double check",
+      "skos:definition": "A check given by two pieces at once, normally when a piece moves off a line with check and uncovers a second check behind it; since neither check can be blocked or captured away with one move, the king itself must move.",
+      "kto:domain": "tactics",
+      "dcterms:created": "2026-11-11",
+      "kto:verified": "2026-11-11",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "FIDE Laws of Chess (full text, applied from 1 January 2023)",
+          "dcterms:publisher": "FIDE Rules Commission",
+          "schema:url": "https://rcc.fide.com/fide-laws-of-chess_fulltexthtml/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Double Check in Chess",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://www.chesshistory.com/winter/extra/doublecheck.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Réti v Tartakower",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://www.chesshistory.com/winter/extra/retitartakower.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "The ultimate weapon (Jon Speelman's Agony Column)",
+          "dcterms:publisher": "ChessBase News",
+          "schema:url": "https://en.chessbase.com/post/speelman-agony-197",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Double Check (Chess Terms)",
+          "dcterms:publisher": "Chess.com",
+          "schema:url": "https://www.chess.com/fr/terms/double-check-chess",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/tactics/double-check.md",
+      "skos:altLabel": [
+        "Double-check"
+      ],
+      "kto:fen": "rnbk1b1r/pp3ppp/2p5/4q1B1/4n3/8/PPP2PPP/2KR1BNR b - - 1 10",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-tactics"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:discovered-attack"
+        },
+        {
+          "@id": "kt:checkmate"
+        },
+        {
+          "@id": "kt:sacrifice"
+        },
+        {
+          "@id": "kt:combination"
+        },
+        {
+          "@id": "kt:fork"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:discovered-attack"
+        }
+      ],
+      "kto:leadsTo": [
+        {
+          "@id": "kt:checkmate"
+        }
+      ],
+      "kto:governedBy": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:reti-versus-tartakower-vienna-1910"
+        }
+      ]
+    },
+    {
       "@id": "kt:fork",
       "@type": "kto:TacticalMotif",
       "skos:prefLabel": "Fork",
