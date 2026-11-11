@@ -7,11 +7,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chess` | `kt:chess-endgame`, `kt:chaturanga`, `kt:history-of-chess`, `kt:shatranj`, `kt:chess-strategy`, `kt:fide-laws-of-chess`, `kt:chess-tactics`, `kt:chess-composition`, `kt:chess-variants` |
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:wilhelm-steinitz` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:herbert-simon` |
-| `kt:triangulation` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:opposition`, `kt:zugzwang` |
+| `kt:key-squares` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:triangulation`, `kt:zugzwang` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position`, `kt:rook-endgames` |
 | `kt:fifty-move-rule` | `kt:endgame-tablebases`, `kt:fide-laws-of-chess`, `kt:forsyth-edwards-notation` |
 | `kt:hastings-1895` | `kt:emanuel-lasker`, `kt:siegbert-tarrasch`, `kt:wilhelm-steinitz` |
-| `kt:key-squares` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:zugzwang` |
 | `kt:mikhail-botvinnik` | `kt:soviet-chess-school`, `kt:garry-kasparov`, `kt:garry-kasparov` |
 | `kt:portable-game-notation` | `kt:algebraic-notation`, `kt:forsyth-edwards-notation`, `kt:forsyth-edwards-notation` |
 | `kt:queens-gambit-accepted` | `kt:isolated-queens-pawn`, `kt:queens-gambit`, `kt:slav-defence` |
@@ -28,6 +27,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:candidate-moves` | `kt:prophylaxis`, `kt:calculation` |
 | `kt:chess-organizations` | `kt:fide`, `kt:us-chess` |
 | `kt:chess-titles` | `kt:arbiter`, `kt:grandmaster-title` |
+| `kt:corresponding-squares` | `kt:triangulation`, `kt:triangulation` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
 | `kt:dragon-variation` | `kt:najdorf-variation`, `kt:sicilian-defence` |
 | `kt:draw` | `kt:dead-position`, `kt:stalemate` |

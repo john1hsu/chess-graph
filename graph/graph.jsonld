@@ -1634,6 +1634,85 @@
       ]
     },
     {
+      "@id": "kt:triangulation",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Triangulation",
+      "skos:definition": "An endgame king manoeuvre in which the king walks around three neighbouring squares and so returns to the same position in three moves instead of two, handing the move to an opponent who cannot copy the manoeuvre and is left in zugzwang.",
+      "kto:domain": "endgames",
+      "dcterms:created": "2026-11-11",
+      "kto:verified": "2026-11-11",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Chess Endgames for Kids (sample pages, Lesson 14: Triangulation and More Opposition)",
+          "dcterms:publisher": "Karsten Müller, Gambit Publications (2015); excerpt hosted by Chess Tigers",
+          "schema:url": "https://chess-tigers.de/cdn/shop/files/Chess_Endgames_for_Kids.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Nunn's Chess Endings (excerpt)",
+          "dcterms:publisher": "John Nunn, Gambit Publications (2010); excerpt hosted by New in Chess",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/5025.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Dvoretsky's Endgame Manual, fifth edition (excerpt with table of contents)",
+          "dcterms:publisher": "Mark Dvoretsky, revised by Karsten Müller, Russell Enterprises (2020)",
+          "schema:url": "https://shop.chess-tigers.de/cdn/shop/files/dem5_excerpt.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Chess Strategy (1915), Project Gutenberg eBook #5614",
+          "dcterms:publisher": "Edward Lasker; Project Gutenberg",
+          "schema:url": "https://gutenberg.org/files/5614/5614-h/5614-h.htm",
+          "kto:sourceType": "book"
+        }
+      ],
+      "kto:file": "articles/endgames/triangulation.md",
+      "skos:altLabel": [
+        "Triangulating",
+        "Triangle manoeuvre",
+        "Triangle maneuver",
+        "Losing a tempo with the king"
+      ],
+      "kto:fen": "8/5k2/5P1p/5K1P/8/8/8/8 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:king-and-pawn-endgames"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:opposition"
+        },
+        {
+          "@id": "kt:zugzwang"
+        },
+        {
+          "@id": "kt:corresponding-squares"
+        },
+        {
+          "@id": "kt:key-squares"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:zugzwang"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:opposition"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:corresponding-squares"
+        }
+      ]
+    },
+    {
       "@id": "kt:zugzwang",
       "@type": "kto:StrategicConcept",
       "skos:prefLabel": "Zugzwang",

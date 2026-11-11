@@ -5333,6 +5333,26 @@
 <https://github.com/john1hsu/chess-graph/id/source/touch-move/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/touch-move/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
 <https://github.com/john1hsu/chess-graph/id/source/touch-move/s5> <https://schema.org/url> "https://handbook.fide.com/chapter/E012014" .
+<https://github.com/john1hsu/chess-graph/id/source/triangulation/s1> <http://purl.org/dc/terms/publisher> "Karsten Müller, Gambit Publications (2015); excerpt hosted by Chess Tigers" .
+<https://github.com/john1hsu/chess-graph/id/source/triangulation/s1> <http://purl.org/dc/terms/title> "Chess Endgames for Kids (sample pages, Lesson 14: Triangulation and More Opposition)" .
+<https://github.com/john1hsu/chess-graph/id/source/triangulation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/triangulation/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/triangulation/s1> <https://schema.org/url> "https://chess-tigers.de/cdn/shop/files/Chess_Endgames_for_Kids.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/triangulation/s2> <http://purl.org/dc/terms/publisher> "John Nunn, Gambit Publications (2010); excerpt hosted by New in Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/triangulation/s2> <http://purl.org/dc/terms/title> "Nunn's Chess Endings (excerpt)" .
+<https://github.com/john1hsu/chess-graph/id/source/triangulation/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/triangulation/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/triangulation/s2> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/5025.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/triangulation/s3> <http://purl.org/dc/terms/publisher> "Mark Dvoretsky, revised by Karsten Müller, Russell Enterprises (2020)" .
+<https://github.com/john1hsu/chess-graph/id/source/triangulation/s3> <http://purl.org/dc/terms/title> "Dvoretsky's Endgame Manual, fifth edition (excerpt with table of contents)" .
+<https://github.com/john1hsu/chess-graph/id/source/triangulation/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/triangulation/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/triangulation/s3> <https://schema.org/url> "https://shop.chess-tigers.de/cdn/shop/files/dem5_excerpt.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/triangulation/s4> <http://purl.org/dc/terms/publisher> "Edward Lasker; Project Gutenberg" .
+<https://github.com/john1hsu/chess-graph/id/source/triangulation/s4> <http://purl.org/dc/terms/title> "Chess Strategy (1915), Project Gutenberg eBook #5614" .
+<https://github.com/john1hsu/chess-graph/id/source/triangulation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/triangulation/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/triangulation/s4> <https://schema.org/url> "https://gutenberg.org/files/5614/5614-h/5614-h.htm" .
 <https://github.com/john1hsu/chess-graph/id/source/us-chess/s1> <http://purl.org/dc/terms/publisher> "US Chess (uschess.org)" .
 <https://github.com/john1hsu/chess-graph/id/source/us-chess/s1> <http://purl.org/dc/terms/title> "About USCF" .
 <https://github.com/john1hsu/chess-graph/id/source/us-chess/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -5630,6 +5650,31 @@
 <https://github.com/john1hsu/chess-graph/id/touch-move> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
 <https://github.com/john1hsu/chess-graph/id/touch-move> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/touch-move> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/triangulation> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/triangulation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Technique> .
+<https://github.com/john1hsu/chess-graph/id/triangulation> <http://www.w3.org/2000/01/rdf-schema#label> "Triangulation" .
+<https://github.com/john1hsu/chess-graph/id/triangulation> <http://www.w3.org/2004/02/skos/core#altLabel> "Losing a tempo with the king" .
+<https://github.com/john1hsu/chess-graph/id/triangulation> <http://www.w3.org/2004/02/skos/core#altLabel> "Triangle maneuver" .
+<https://github.com/john1hsu/chess-graph/id/triangulation> <http://www.w3.org/2004/02/skos/core#altLabel> "Triangle manoeuvre" .
+<https://github.com/john1hsu/chess-graph/id/triangulation> <http://www.w3.org/2004/02/skos/core#altLabel> "Triangulating" .
+<https://github.com/john1hsu/chess-graph/id/triangulation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/king-and-pawn-endgames> .
+<https://github.com/john1hsu/chess-graph/id/triangulation> <http://www.w3.org/2004/02/skos/core#definition> "An endgame king manoeuvre in which the king walks around three neighbouring squares and so returns to the same position in three moves instead of two, handing the move to an opponent who cannot copy the manoeuvre and is left in zugzwang." .
+<https://github.com/john1hsu/chess-graph/id/triangulation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Triangulation" .
+<https://github.com/john1hsu/chess-graph/id/triangulation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/corresponding-squares> .
+<https://github.com/john1hsu/chess-graph/id/triangulation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/key-squares> .
+<https://github.com/john1hsu/chess-graph/id/triangulation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/opposition> .
+<https://github.com/john1hsu/chess-graph/id/triangulation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/zugzwang> .
+<https://github.com/john1hsu/chess-graph/id/triangulation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/triangulation/s1> .
+<https://github.com/john1hsu/chess-graph/id/triangulation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/triangulation/s2> .
+<https://github.com/john1hsu/chess-graph/id/triangulation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/triangulation/s3> .
+<https://github.com/john1hsu/chess-graph/id/triangulation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/triangulation/s4> .
+<https://github.com/john1hsu/chess-graph/id/triangulation> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/opposition> .
+<https://github.com/john1hsu/chess-graph/id/triangulation> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/zugzwang> .
+<https://github.com/john1hsu/chess-graph/id/triangulation> <https://github.com/john1hsu/chess-graph/ontology#domain> "endgames" .
+<https://github.com/john1hsu/chess-graph/id/triangulation> <https://github.com/john1hsu/chess-graph/ontology#fen> "8/5k2/5P1p/5K1P/8/8/8/8 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/triangulation> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/corresponding-squares> .
+<https://github.com/john1hsu/chess-graph/id/triangulation> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/triangulation> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/us-chess> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/us-chess> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Organization> .
 <https://github.com/john1hsu/chess-graph/id/us-chess> <http://www.w3.org/2000/01/rdf-schema#label> "US Chess" .

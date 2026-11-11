@@ -2430,6 +2430,29 @@
     ]
   },
   {
+    "id": "kt:triangulation",
+    "title": "Triangulation",
+    "aliases": [
+      "Triangulating",
+      "Triangle manoeuvre",
+      "Triangle maneuver",
+      "Losing a tempo with the king"
+    ],
+    "type": "Technique",
+    "domain": "endgames",
+    "file": "articles/endgames/triangulation.md",
+    "created": "2026-11-11",
+    "verified": "2026-11-11",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://chess-tigers.de/cdn/shop/files/Chess_Endgames_for_Kids.pdf",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/5025.pdf",
+      "https://shop.chess-tigers.de/cdn/shop/files/dem5_excerpt.pdf",
+      "https://gutenberg.org/files/5614/5614-h/5614-h.htm"
+    ]
+  },
+  {
     "id": "kt:us-chess",
     "title": "US Chess",
     "aliases": [
