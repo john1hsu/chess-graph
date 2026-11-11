@@ -1441,6 +1441,33 @@
 <https://github.com/john1hsu/chess-graph/id/helpmate> <https://github.com/john1hsu/chess-graph/ontology#governedBy> <https://github.com/john1hsu/chess-graph/id/codex-of-chess-composition> .
 <https://github.com/john1hsu/chess-graph/id/helpmate> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/helpmate> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/herbert-simon> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/herbert-simon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Person> .
+<https://github.com/john1hsu/chess-graph/id/herbert-simon> <http://www.w3.org/2000/01/rdf-schema#label> "Herbert Simon" .
+<https://github.com/john1hsu/chess-graph/id/herbert-simon> <http://www.w3.org/2004/02/skos/core#altLabel> "H. A. Simon" .
+<https://github.com/john1hsu/chess-graph/id/herbert-simon> <http://www.w3.org/2004/02/skos/core#altLabel> "Herbert A. Simon" .
+<https://github.com/john1hsu/chess-graph/id/herbert-simon> <http://www.w3.org/2004/02/skos/core#altLabel> "Herbert Alexander Simon" .
+<https://github.com/john1hsu/chess-graph/id/herbert-simon> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/herbert-simon> <http://www.w3.org/2004/02/skos/core#definition> "American social scientist and computer-science pioneer (1916–2001) who co-wrote the NSS chess program with Allen Newell and Cliff Shaw and, with William Chase, founded chunking theory, the pattern-recognition account of chess mastery that shaped later expertise research." .
+<https://github.com/john1hsu/chess-graph/id/herbert-simon> <http://www.w3.org/2004/02/skos/core#prefLabel> "Herbert Simon" .
+<https://github.com/john1hsu/chess-graph/id/herbert-simon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/allen-newell> .
+<https://github.com/john1hsu/chess-graph/id/herbert-simon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-expertise> .
+<https://github.com/john1hsu/chess-graph/id/herbert-simon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chunking-theory> .
+<https://github.com/john1hsu/chess-graph/id/herbert-simon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> .
+<https://github.com/john1hsu/chess-graph/id/herbert-simon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/history-of-computer-chess> .
+<https://github.com/john1hsu/chess-graph/id/herbert-simon> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/template-theory> .
+<https://github.com/john1hsu/chess-graph/id/herbert-simon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s1> .
+<https://github.com/john1hsu/chess-graph/id/herbert-simon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s2> .
+<https://github.com/john1hsu/chess-graph/id/herbert-simon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s3> .
+<https://github.com/john1hsu/chess-graph/id/herbert-simon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s4> .
+<https://github.com/john1hsu/chess-graph/id/herbert-simon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s5> .
+<https://github.com/john1hsu/chess-graph/id/herbert-simon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s6> .
+<https://github.com/john1hsu/chess-graph/id/herbert-simon> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s7> .
+<https://github.com/john1hsu/chess-graph/id/herbert-simon> <https://github.com/john1hsu/chess-graph/ontology#domain> "training-and-improvement" .
+<https://github.com/john1hsu/chess-graph/id/herbert-simon> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> .
+<https://github.com/john1hsu/chess-graph/id/herbert-simon> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/claude-shannon> .
+<https://github.com/john1hsu/chess-graph/id/herbert-simon> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/herbert-simon> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/history-of-chess> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/history-of-chess> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Concept> .
 <https://github.com/john1hsu/chess-graph/id/history-of-chess> <http://www.w3.org/2000/01/rdf-schema#label> "History of chess" .
@@ -3801,6 +3828,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/helpmate/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/helpmate/s8> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/helpmate/s8> <https://schema.org/url> "https://www.chessvariants.com/problems.dir/helpmates.html" .
+<https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s1> <http://purl.org/dc/terms/publisher> "The Nobel Prize (Nobel Prize Outreach)" .
+<https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s1> <http://purl.org/dc/terms/title> "Herbert Simon — Biographical" .
+<https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s1> <https://schema.org/url> "https://www.nobelprize.org/prizes/economic-sciences/1978/simon/biographical/" .
+<https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s2> <http://purl.org/dc/terms/publisher> "IEEE Computer Society" .
+<https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s2> <http://purl.org/dc/terms/title> "Herbert A. Simon — Computer Pioneers" .
+<https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s2> <https://schema.org/url> "https://history.computer.org/pioneers/simon.html" .
+<https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s3> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s3> <http://purl.org/dc/terms/title> "Herbert A. Simon" .
+<https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s3> <https://schema.org/url> "https://britannica.com/biography/Herbert-A-Simon" .
+<https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s4> <http://purl.org/dc/terms/publisher> "Herbert A. Simon and William G. Chase, Carnegie-Mellon University" .
+<https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s4> <http://purl.org/dc/terms/title> "Skill in Chess (American Scientist 61, 394-403, 1973)" .
+<https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s4> <https://schema.org/url> "https://www.Gwern.net/doc/psychology/chess/1973-simon.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s5> <http://purl.org/dc/terms/publisher> "Herbert A. Simon, National Academy of Sciences" .
+<https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s5> <http://purl.org/dc/terms/title> "Allen Newell 1927–1992: A Biographical Memoir" .
+<https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s5> <https://schema.org/url> "https://www.nasonline.org/wp-content/uploads/2024/06/newell-allen.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s6> <http://purl.org/dc/terms/publisher> "Peter C. R. Lane and Fernand Gobet, University of Hertfordshire Research Archive" .
+<https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s6> <http://purl.org/dc/terms/title> "Perception in chess and beyond: Commentary on Linhares and Freitas (2010) (New Ideas in Psychology 29, 156-161)" .
+<https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s6> <https://schema.org/url> "https://uhra.herts.ac.uk/id/eprint/235/1/904357.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s7> <http://purl.org/dc/terms/publisher> "Quote Investigator" .
+<https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s7> <http://purl.org/dc/terms/title> "Within Ten Years a Digital Computer Will Be the World's Chess Champion" .
+<https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/herbert-simon/s7> <https://schema.org/url> "https://quoteinvestigator.com/2024/04/18/ai-prediction/" .
 <https://github.com/john1hsu/chess-graph/id/source/history-of-chess/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/history-of-chess/s1> <http://purl.org/dc/terms/title> "Chess: History" .
 <https://github.com/john1hsu/chess-graph/id/source/history-of-chess/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

@@ -7730,6 +7730,100 @@
       ]
     },
     {
+      "@id": "kt:herbert-simon",
+      "@type": "kto:Person",
+      "skos:prefLabel": "Herbert Simon",
+      "skos:definition": "American social scientist and computer-science pioneer (1916–2001) who co-wrote the NSS chess program with Allen Newell and Cliff Shaw and, with William Chase, founded chunking theory, the pattern-recognition account of chess mastery that shaped later expertise research.",
+      "kto:domain": "training-and-improvement",
+      "dcterms:created": "2026-11-11",
+      "kto:verified": "2026-11-11",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Herbert Simon — Biographical",
+          "dcterms:publisher": "The Nobel Prize (Nobel Prize Outreach)",
+          "schema:url": "https://www.nobelprize.org/prizes/economic-sciences/1978/simon/biographical/",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Herbert A. Simon — Computer Pioneers",
+          "dcterms:publisher": "IEEE Computer Society",
+          "schema:url": "https://history.computer.org/pioneers/simon.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Herbert A. Simon",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://britannica.com/biography/Herbert-A-Simon",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Skill in Chess (American Scientist 61, 394-403, 1973)",
+          "dcterms:publisher": "Herbert A. Simon and William G. Chase, Carnegie-Mellon University",
+          "schema:url": "https://www.Gwern.net/doc/psychology/chess/1973-simon.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Allen Newell 1927–1992: A Biographical Memoir",
+          "dcterms:publisher": "Herbert A. Simon, National Academy of Sciences",
+          "schema:url": "https://www.nasonline.org/wp-content/uploads/2024/06/newell-allen.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Perception in chess and beyond: Commentary on Linhares and Freitas (2010) (New Ideas in Psychology 29, 156-161)",
+          "dcterms:publisher": "Peter C. R. Lane and Fernand Gobet, University of Hertfordshire Research Archive",
+          "schema:url": "https://uhra.herts.ac.uk/id/eprint/235/1/904357.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Within Ten Years a Digital Computer Will Be the World's Chess Champion",
+          "dcterms:publisher": "Quote Investigator",
+          "schema:url": "https://quoteinvestigator.com/2024/04/18/ai-prediction/",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/training-and-improvement/herbert-simon.md",
+      "skos:altLabel": [
+        "Herbert A. Simon",
+        "Herbert Alexander Simon",
+        "H. A. Simon"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:cognitive-psychology-of-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:chunking-theory"
+        },
+        {
+          "@id": "kt:template-theory"
+        },
+        {
+          "@id": "kt:chess-expertise"
+        },
+        {
+          "@id": "kt:allen-newell"
+        },
+        {
+          "@id": "kt:history-of-computer-chess"
+        },
+        {
+          "@id": "kt:deep-blue-versus-kasparov"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:adriaan-de-groot"
+        },
+        {
+          "@id": "kt:claude-shannon"
+        }
+      ]
+    },
+    {
       "@id": "kt:template-theory",
       "@type": "kto:CognitiveConcept",
       "skos:prefLabel": "Template theory",

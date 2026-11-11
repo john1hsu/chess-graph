@@ -1292,6 +1292,31 @@
     ]
   },
   {
+    "id": "kt:herbert-simon",
+    "title": "Herbert Simon",
+    "aliases": [
+      "Herbert A. Simon",
+      "Herbert Alexander Simon",
+      "H. A. Simon"
+    ],
+    "type": "Person",
+    "domain": "training-and-improvement",
+    "file": "articles/training-and-improvement/herbert-simon.md",
+    "created": "2026-11-11",
+    "verified": "2026-11-11",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/economic-sciences/1978/simon/biographical/",
+      "https://history.computer.org/pioneers/simon.html",
+      "https://britannica.com/biography/Herbert-A-Simon",
+      "https://www.Gwern.net/doc/psychology/chess/1973-simon.pdf",
+      "https://www.nasonline.org/wp-content/uploads/2024/06/newell-allen.pdf",
+      "https://uhra.herts.ac.uk/id/eprint/235/1/904357.pdf",
+      "https://quoteinvestigator.com/2024/04/18/ai-prediction/"
+    ]
+  },
+  {
     "id": "kt:history-of-chess",
     "title": "History of chess",
     "aliases": [
