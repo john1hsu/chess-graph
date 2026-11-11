@@ -33,6 +33,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:good-and-bad-bishops` | `kt:bishop-pair`, `kt:french-defence` |
 | `kt:hanging-pawns` | `kt:isolated-queens-pawn`, `kt:pawn-structure` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
+| `kt:ju-wenjun` | `kt:womens-world-chess-championship`, `kt:womens-world-chess-championship` |
 | `kt:karpov-versus-unzicker-nice-1974` | `kt:prophylaxis`, `kt:anatoly-karpov` |
 | `kt:leela-chess-zero` | `kt:computer-chess`, `kt:monte-carlo-tree-search` |
 | `kt:move-ordering` | `kt:alpha-beta-pruning`, `kt:quiescence-search` |
@@ -107,6 +108,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:good-knight-versus-bad-bishop` | `kt:outpost` |
 | `kt:hans-berliner` | `kt:horizon-effect` |
 | `kt:horatio-caro` | `kt:caro-kann-defence` |
+| `kt:hou-yifan` | `kt:womens-world-chess-championship` |
 | `kt:illegal-move` | `kt:touch-move` |
 | `kt:immortal-game` | `kt:romantic-era` |
 | `kt:indian-defences` | `kt:nimzo-indian-defence` |
@@ -182,11 +184,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:underpromotion` | `kt:pawn-promotion` |
 | `kt:universal-chess-interface` | `kt:chess960` |
 | `kt:vancura-position` | `kt:rook-endgames` |
+| `kt:vera-menchik` | `kt:womens-world-chess-championship` |
 | `kt:viktor-korchnoi` | `kt:anatoly-karpov` |
 | `kt:weak-squares` | `kt:outpost` |
 | `kt:william-chase` | `kt:chunking-theory` |
 | `kt:winawer-variation` | `kt:french-defence` |
-| `kt:womens-world-chess-championship` | `kt:candidates-tournament` |
 | `kt:world-chess-championship-1894` | `kt:emanuel-lasker` |
 | `kt:world-chess-championship-1908` | `kt:siegbert-tarrasch` |
 | `kt:world-chess-championship-1921` | `kt:jose-raul-capablanca` |

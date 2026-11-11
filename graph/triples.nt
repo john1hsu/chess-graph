@@ -4978,6 +4978,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
 <https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s7> <https://schema.org/url> "https://www.irlchess.com/hastings/hastings1895_allfiles_v1.1/games_hastings1895/g106.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s1> <http://purl.org/dc/terms/publisher> "FIDE (Women's World Championship official site)" .
+<https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s1> <http://purl.org/dc/terms/title> "Women's World Champions" .
+<https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s1> <https://schema.org/url> "https://womenworldchampionship.fide.com/world-champions" .
+<https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s2> <http://purl.org/dc/terms/publisher> "FIDE Commission for Women's Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s2> <http://purl.org/dc/terms/title> "Vera Menchik" .
+<https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s2> <https://schema.org/url> "https://wom.fide.com/?p=1287" .
+<https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s3> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s3> <http://purl.org/dc/terms/title> "Ludmilla Vladimirovna Rudenko" .
+<https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s3> <https://schema.org/url> "https://britannica.com/biography/Ludmilla-Vladimirovna-Rudenko" .
+<https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s4> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
+<https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s4> <http://purl.org/dc/terms/title> "Regulations for the FIDE Women's World Championship Match 2025" .
+<https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s4> <https://schema.org/url> "https://handbook.fide.com/files/handbook/FWWCM2025.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s5> <http://purl.org/dc/terms/publisher> "FIDE (fide.com news, 16 April 2025)" .
+<https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s5> <http://purl.org/dc/terms/title> "Crowning a Champion: Ju Wenjun clinches her fifth title" .
+<https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s5> <https://schema.org/url> "https://www.fide.com/crowning-a-champion-ju-wenjun-clinches-her-fifth-title/" .
+<https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s6> <http://purl.org/dc/terms/publisher> "FIDE (fide.com news, 15 April 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s6> <http://purl.org/dc/terms/title> "Vaishali conquers Women's Candidates to set up world title showdown against Ju Wenjun" .
+<https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s6> <https://schema.org/url> "https://www.fide.com/vaishali-conquers-womens-candidates-to-set-up-world-title-showdown-against-ju-wenjun/" .
+<https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s7> <http://purl.org/dc/terms/publisher> "FIDE (fide.com news, 5 March 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s7> <http://purl.org/dc/terms/title> "FIDE Women's Candidates 2026: A clash of generations" .
+<https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s7> <https://schema.org/url> "https://www.fide.com/fide-womens-candidates-2026-a-clash-of-generations/" .
 <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s1> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
 <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s1> <http://purl.org/dc/terms/title> "World Chess Championship Timeline (exhibition panel, PDF)" .
 <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -5226,6 +5261,34 @@
 <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> .
 <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Event> .
+<https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> <http://www.w3.org/2000/01/rdf-schema#label> "Women's World Chess Championship" .
+<https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> <http://www.w3.org/2004/02/skos/core#altLabel> "FIDE Women's World Championship" .
+<https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> <http://www.w3.org/2004/02/skos/core#altLabel> "FIDE Women's World Chess Championship" .
+<https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> <http://www.w3.org/2004/02/skos/core#altLabel> "Women's World Championship Match" .
+<https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> <http://www.w3.org/2004/02/skos/core#altLabel> "Women's World Chess Champion" .
+<https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> <http://www.w3.org/2004/02/skos/core#definition> "The competition that decides the women's world chess champion, first held as a tournament in London in 1927 and won by Vera Menchik, restarted by FIDE in Moscow in 1949–50, and today a 12-game match between the reigning champion and the winner of the Women's Candidates Tournament." .
+<https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> <http://www.w3.org/2004/02/skos/core#prefLabel> "Women's World Chess Championship" .
+<https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/candidates-tournament> .
+<https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-olympiad> .
+<https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/hou-yifan> .
+<https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/ju-wenjun> .
+<https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/vera-menchik> .
+<https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s1> .
+<https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s2> .
+<https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s3> .
+<https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s4> .
+<https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s5> .
+<https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s6> .
+<https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s7> .
+<https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> <https://github.com/john1hsu/chess-graph/ontology#domain> "events-and-organizations" .
+<https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> <https://github.com/john1hsu/chess-graph/ontology#governedBy> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/fide> .
+<https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/ju-wenjun> .
 <https://github.com/john1hsu/chess-graph/id/world-chess-championship> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/world-chess-championship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Event> .
 <https://github.com/john1hsu/chess-graph/id/world-chess-championship> <http://www.w3.org/2000/01/rdf-schema#label> "World Chess Championship" .

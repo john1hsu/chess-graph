@@ -2359,6 +2359,105 @@
       ]
     },
     {
+      "@id": "kt:womens-world-chess-championship",
+      "@type": "kto:Event",
+      "skos:prefLabel": "Women's World Chess Championship",
+      "skos:definition": "The competition that decides the women's world chess champion, first held as a tournament in London in 1927 and won by Vera Menchik, restarted by FIDE in Moscow in 1949–50, and today a 12-game match between the reigning champion and the winner of the Women's Candidates Tournament.",
+      "kto:domain": "events-and-organizations",
+      "dcterms:created": "2026-11-11",
+      "kto:verified": "2026-11-11",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Women's World Champions",
+          "dcterms:publisher": "FIDE (Women's World Championship official site)",
+          "schema:url": "https://womenworldchampionship.fide.com/world-champions",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Vera Menchik",
+          "dcterms:publisher": "FIDE Commission for Women's Chess",
+          "schema:url": "https://wom.fide.com/?p=1287",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Ludmilla Vladimirovna Rudenko",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://britannica.com/biography/Ludmilla-Vladimirovna-Rudenko",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Regulations for the FIDE Women's World Championship Match 2025",
+          "dcterms:publisher": "FIDE Handbook",
+          "schema:url": "https://handbook.fide.com/files/handbook/FWWCM2025.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Crowning a Champion: Ju Wenjun clinches her fifth title",
+          "dcterms:publisher": "FIDE (fide.com news, 16 April 2025)",
+          "schema:url": "https://www.fide.com/crowning-a-champion-ju-wenjun-clinches-her-fifth-title/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Vaishali conquers Women's Candidates to set up world title showdown against Ju Wenjun",
+          "dcterms:publisher": "FIDE (fide.com news, 15 April 2026)",
+          "schema:url": "https://www.fide.com/vaishali-conquers-womens-candidates-to-set-up-world-title-showdown-against-ju-wenjun/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "FIDE Women's Candidates 2026: A clash of generations",
+          "dcterms:publisher": "FIDE (fide.com news, 5 March 2026)",
+          "schema:url": "https://www.fide.com/fide-womens-candidates-2026-a-clash-of-generations/",
+          "kto:sourceType": "governing-body"
+        }
+      ],
+      "kto:file": "articles/events-and-organizations/womens-world-chess-championship.md",
+      "skos:altLabel": [
+        "FIDE Women's World Championship",
+        "Women's World Championship Match",
+        "FIDE Women's World Chess Championship",
+        "Women's World Chess Champion"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:world-chess-championship"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:candidates-tournament"
+        },
+        {
+          "@id": "kt:vera-menchik"
+        },
+        {
+          "@id": "kt:ju-wenjun"
+        },
+        {
+          "@id": "kt:hou-yifan"
+        },
+        {
+          "@id": "kt:chess-olympiad"
+        }
+      ],
+      "kto:sanctionedBy": [
+        {
+          "@id": "kt:fide"
+        }
+      ],
+      "kto:governedBy": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        }
+      ],
+      "kto:wonBy": [
+        {
+          "@id": "kt:ju-wenjun"
+        }
+      ]
+    },
+    {
       "@id": "kt:chaturanga",
       "@type": "kto:Variant",
       "skos:prefLabel": "Chaturanga",

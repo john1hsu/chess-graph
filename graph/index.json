@@ -2298,6 +2298,32 @@
     ]
   },
   {
+    "id": "kt:womens-world-chess-championship",
+    "title": "Women's World Chess Championship",
+    "aliases": [
+      "FIDE Women's World Championship",
+      "Women's World Championship Match",
+      "FIDE Women's World Chess Championship",
+      "Women's World Chess Champion"
+    ],
+    "type": "Event",
+    "domain": "events-and-organizations",
+    "file": "articles/events-and-organizations/womens-world-chess-championship.md",
+    "created": "2026-11-11",
+    "verified": "2026-11-11",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://womenworldchampionship.fide.com/world-champions",
+      "https://wom.fide.com/?p=1287",
+      "https://britannica.com/biography/Ludmilla-Vladimirovna-Rudenko",
+      "https://handbook.fide.com/files/handbook/FWWCM2025.pdf",
+      "https://www.fide.com/crowning-a-champion-ju-wenjun-clinches-her-fifth-title/",
+      "https://www.fide.com/vaishali-conquers-womens-candidates-to-set-up-world-title-showdown-against-ju-wenjun/",
+      "https://www.fide.com/fide-womens-candidates-2026-a-clash-of-generations/"
+    ]
+  },
+  {
     "id": "kt:world-chess-championship",
     "title": "World Chess Championship",
     "aliases": [
