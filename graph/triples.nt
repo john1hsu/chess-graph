@@ -432,6 +432,33 @@
 <https://github.com/john1hsu/chess-graph/id/chaturanga> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/shatranj> .
 <https://github.com/john1hsu/chess-graph/id/chaturanga> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/chaturanga> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/checkmate> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/checkmate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Rule> .
+<https://github.com/john1hsu/chess-graph/id/checkmate> <http://www.w3.org/2000/01/rdf-schema#label> "Checkmate" .
+<https://github.com/john1hsu/chess-graph/id/checkmate> <http://www.w3.org/2004/02/skos/core#altLabel> "Check mate" .
+<https://github.com/john1hsu/chess-graph/id/checkmate> <http://www.w3.org/2004/02/skos/core#altLabel> "Checkmating the king" .
+<https://github.com/john1hsu/chess-graph/id/checkmate> <http://www.w3.org/2004/02/skos/core#altLabel> "Mate" .
+<https://github.com/john1hsu/chess-graph/id/checkmate> <http://www.w3.org/2004/02/skos/core#altLabel> "Shah mat" .
+<https://github.com/john1hsu/chess-graph/id/checkmate> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/checkmate> <http://www.w3.org/2004/02/skos/core#definition> "The position in which a player's king is in check and that player has no legal move to escape it; delivering it is the object of the game and wins immediately under the FIDE Laws of Chess." .
+<https://github.com/john1hsu/chess-graph/id/checkmate> <http://www.w3.org/2004/02/skos/core#prefLabel> "Checkmate" .
+<https://github.com/john1hsu/chess-graph/id/checkmate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/back-rank-mate> .
+<https://github.com/john1hsu/chess-graph/id/checkmate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-tactics> .
+<https://github.com/john1hsu/chess-graph/id/checkmate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/double-check> .
+<https://github.com/john1hsu/chess-graph/id/checkmate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/helpmate> .
+<https://github.com/john1hsu/chess-graph/id/checkmate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/shatranj> .
+<https://github.com/john1hsu/chess-graph/id/checkmate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/checkmate/s1> .
+<https://github.com/john1hsu/chess-graph/id/checkmate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/checkmate/s2> .
+<https://github.com/john1hsu/chess-graph/id/checkmate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/checkmate/s3> .
+<https://github.com/john1hsu/chess-graph/id/checkmate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/checkmate/s4> .
+<https://github.com/john1hsu/chess-graph/id/checkmate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/checkmate/s5> .
+<https://github.com/john1hsu/chess-graph/id/checkmate> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/dead-position> .
+<https://github.com/john1hsu/chess-graph/id/checkmate> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/stalemate> .
+<https://github.com/john1hsu/chess-graph/id/checkmate> <https://github.com/john1hsu/chess-graph/ontology#domain> "rules-and-notation" .
+<https://github.com/john1hsu/chess-graph/id/checkmate> <https://github.com/john1hsu/chess-graph/ontology#fen> "7k/6Q1/6K1/8/8/8/8/8 b - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/checkmate> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/checkmate> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/checkmate> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/chess-composition> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/chess-composition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Concept> .
 <https://github.com/john1hsu/chess-graph/id/chess-composition> <http://www.w3.org/2000/01/rdf-schema#label> "Chess composition" .
@@ -3001,6 +3028,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/chaturanga/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/chaturanga/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/chaturanga/s6> <https://schema.org/url> "https://www.chessvariants.org/historic.dir/chaturanga.html" .
+<https://github.com/john1hsu/chess-graph/id/source/checkmate/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/checkmate/s1> <http://purl.org/dc/terms/title> "FIDE Laws of Chess (full text, applied from 1 January 2023)" .
+<https://github.com/john1hsu/chess-graph/id/source/checkmate/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/checkmate/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/checkmate/s1> <https://schema.org/url> "https://rcc.fide.com/fide-laws-of-chess_fulltexthtml/" .
+<https://github.com/john1hsu/chess-graph/id/source/checkmate/s2> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/checkmate/s2> <http://purl.org/dc/terms/title> "When does a game of chess end?" .
+<https://github.com/john1hsu/chess-graph/id/source/checkmate/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/checkmate/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/checkmate/s2> <https://schema.org/url> "https://www.britannica.com/question/When-does-a-game-of-chess-end" .
+<https://github.com/john1hsu/chess-graph/id/source/checkmate/s3> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/checkmate/s3> <http://purl.org/dc/terms/title> "Fool's Mate" .
+<https://github.com/john1hsu/chess-graph/id/source/checkmate/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/checkmate/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/checkmate/s3> <https://schema.org/url> "https://chesshistory.com/winter/extra/foolsmate.html" .
+<https://github.com/john1hsu/chess-graph/id/source/checkmate/s4> <http://purl.org/dc/terms/publisher> "David Wilton, Wordorigins.org" .
+<https://github.com/john1hsu/chess-graph/id/source/checkmate/s4> <http://purl.org/dc/terms/title> "mate / checkmate" .
+<https://github.com/john1hsu/chess-graph/id/source/checkmate/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/checkmate/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/checkmate/s4> <https://schema.org/url> "https://www.wordorigins.org/big-list-entries/mate" .
+<https://github.com/john1hsu/chess-graph/id/source/checkmate/s5> <http://purl.org/dc/terms/publisher> "Hans Bodlaender and John William Brown, The Chess Variant Pages" .
+<https://github.com/john1hsu/chess-graph/id/source/checkmate/s5> <http://purl.org/dc/terms/title> "Shatranj" .
+<https://github.com/john1hsu/chess-graph/id/source/checkmate/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/checkmate/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/checkmate/s5> <https://schema.org/url> "https://chessvariants.com/historic.dir/shatranj.html" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-composition/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-composition/s1> <http://purl.org/dc/terms/title> "Chess: Chess composition" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-composition/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

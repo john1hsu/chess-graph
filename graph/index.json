@@ -386,6 +386,30 @@
     ]
   },
   {
+    "id": "kt:checkmate",
+    "title": "Checkmate",
+    "aliases": [
+      "Mate",
+      "Check mate",
+      "Shah mat",
+      "Checkmating the king"
+    ],
+    "type": "Rule",
+    "domain": "rules-and-notation",
+    "file": "articles/rules-and-notation/checkmate.md",
+    "created": "2026-11-11",
+    "verified": "2026-11-11",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://rcc.fide.com/fide-laws-of-chess_fulltexthtml/",
+      "https://www.britannica.com/question/When-does-a-game-of-chess-end",
+      "https://chesshistory.com/winter/extra/foolsmate.html",
+      "https://www.wordorigins.org/big-list-entries/mate",
+      "https://chessvariants.com/historic.dir/shatranj.html"
+    ]
+  },
+  {
     "id": "kt:chess-composition",
     "title": "Chess composition",
     "aliases": [

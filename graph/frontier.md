@@ -6,7 +6,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:chess` | `kt:chess-endgame`, `kt:chaturanga`, `kt:history-of-chess`, `kt:shatranj`, `kt:chess-strategy`, `kt:fide-laws-of-chess`, `kt:chess-tactics`, `kt:chess-composition`, `kt:chess-variants` |
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:wilhelm-steinitz` |
-| `kt:checkmate` | `kt:dead-position`, `kt:stalemate`, `kt:double-check`, `kt:double-check`, `kt:helpmate` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:herbert-simon` |
 | `kt:triangulation` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:opposition`, `kt:zugzwang` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position`, `kt:rook-endgames` |
@@ -24,6 +23,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alekhines-defence` | `kt:fischer-spassky-1972`, `kt:hypermodernism` |
 | `kt:alexander-alekhine` | `kt:slav-defence`, `kt:jose-raul-capablanca` |
 | `kt:alphazero` | `kt:evaluation-function`, `kt:chess-variants` |
+| `kt:back-rank-mate` | `kt:checkmate`, `kt:combination` |
 | `kt:boris-spassky` | `kt:fischer-spassky-1972`, `kt:bobby-fischer` |
 | `kt:candidate-moves` | `kt:prophylaxis`, `kt:calculation` |
 | `kt:chess-organizations` | `kt:fide`, `kt:us-chess` |
@@ -73,7 +73,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:arpad-elo` | `kt:elo-rating-system` |
 | `kt:artificial-intelligence` | `kt:computer-chess` |
 | `kt:as-suli` | `kt:shatranj` |
-| `kt:back-rank-mate` | `kt:combination` |
 | `kt:backward-pawn` | `kt:outpost` |
 | `kt:berlin-defence` | `kt:ruy-lopez` |
 | `kt:blindfold-chess` | `kt:cognitive-psychology-of-chess` |
