@@ -4534,6 +4534,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/zugzwang/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/zugzwang/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/zugzwang/s4> <https://schema.org/url> "https://www.chessbase.in/news/Mutual-zugzwang-in-a-pawn-ending" .
+<https://github.com/john1hsu/chess-graph/id/source/zwischenzug/s1> <http://purl.org/dc/terms/publisher> "Natasha Regan and Matt Ball (via Boekhuis)" .
+<https://github.com/john1hsu/chess-graph/id/source/zwischenzug/s1> <http://purl.org/dc/terms/title> "Zwischenzug! A Comprehensive Guide to Intermediate Moves (sample: contents, introduction and first chapters)" .
+<https://github.com/john1hsu/chess-graph/id/source/zwischenzug/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/zwischenzug/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/zwischenzug/s1> <https://schema.org/url> "https://download.boekhuis.nl/9789083413921_fragm-docb.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/zwischenzug/s2> <http://purl.org/dc/terms/publisher> "New In Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/zwischenzug/s2> <http://purl.org/dc/terms/title> "Zwischenzug! A Comprehensive Guide to Intermediate Moves" .
+<https://github.com/john1hsu/chess-graph/id/source/zwischenzug/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/zwischenzug/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/zwischenzug/s2> <https://schema.org/url> "https://www.newinchess.com/zwischenzug" .
+<https://github.com/john1hsu/chess-graph/id/source/zwischenzug/s3> <http://purl.org/dc/terms/publisher> "Efstratios Grivas, ChessBase" .
+<https://github.com/john1hsu/chess-graph/id/source/zwischenzug/s3> <http://purl.org/dc/terms/title> "Zwischenzug – the intermediate move" .
+<https://github.com/john1hsu/chess-graph/id/source/zwischenzug/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/zwischenzug/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/zwischenzug/s3> <https://schema.org/url> "https://en.chessbase.com/post/zwischenzug-the-intermediate-move" .
+<https://github.com/john1hsu/chess-graph/id/source/zwischenzug/s4> <http://purl.org/dc/terms/publisher> "Ben Graff, English Chess Federation (Substack)" .
+<https://github.com/john1hsu/chess-graph/id/source/zwischenzug/s4> <http://purl.org/dc/terms/title> "Book of the Month: Zwischenzug! by Natasha Regan and Matt Ball" .
+<https://github.com/john1hsu/chess-graph/id/source/zwischenzug/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/zwischenzug/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/zwischenzug/s4> <https://schema.org/url> "https://englishchessfederation.substack.com/p/book-of-the-month-3af" .
+<https://github.com/john1hsu/chess-graph/id/source/zwischenzug/s5> <http://purl.org/dc/terms/publisher> "The Week in Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/zwischenzug/s5> <http://purl.org/dc/terms/title> "World Chess Championship 2014 (6): massively relieved Carlsen takes the lead" .
+<https://github.com/john1hsu/chess-graph/id/source/zwischenzug/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/zwischenzug/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/zwischenzug/s5> <https://schema.org/url> "https://theweekinchess.com/chessnews/events/world-chess-championship-2014/massively-relieved-carlsen-takes-the-lead-in-dramatic-world-championship-game-6" .
 <https://github.com/john1hsu/chess-graph/id/soviet-chess-school> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/soviet-chess-school> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#School> .
 <https://github.com/john1hsu/chess-graph/id/soviet-chess-school> <http://www.w3.org/2000/01/rdf-schema#label> "Soviet chess school" .
@@ -4736,3 +4761,31 @@
 <https://github.com/john1hsu/chess-graph/id/zugzwang> <https://github.com/john1hsu/chess-graph/ontology#fen> "8/8/8/8/8/p7/k2N4/2K5 b - - 0 1" .
 <https://github.com/john1hsu/chess-graph/id/zugzwang> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/zugzwang> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/zwischenzug> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/zwischenzug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TacticalMotif> .
+<https://github.com/john1hsu/chess-graph/id/zwischenzug> <http://www.w3.org/2000/01/rdf-schema#label> "Zwischenzug" .
+<https://github.com/john1hsu/chess-graph/id/zwischenzug> <http://www.w3.org/2004/02/skos/core#altLabel> "In-between check" .
+<https://github.com/john1hsu/chess-graph/id/zwischenzug> <http://www.w3.org/2004/02/skos/core#altLabel> "In-between move" .
+<https://github.com/john1hsu/chess-graph/id/zwischenzug> <http://www.w3.org/2004/02/skos/core#altLabel> "Intermediate move" .
+<https://github.com/john1hsu/chess-graph/id/zwischenzug> <http://www.w3.org/2004/02/skos/core#altLabel> "Intermezzo" .
+<https://github.com/john1hsu/chess-graph/id/zwischenzug> <http://www.w3.org/2004/02/skos/core#altLabel> "Zwischenschach" .
+<https://github.com/john1hsu/chess-graph/id/zwischenzug> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-tactics> .
+<https://github.com/john1hsu/chess-graph/id/zwischenzug> <http://www.w3.org/2004/02/skos/core#definition> "A tactic in which a player, instead of making the expected move (usually a recapture), first inserts a forcing move such as a check or threat that the opponent must answer, and only then plays the expected move under better conditions." .
+<https://github.com/john1hsu/chess-graph/id/zwischenzug> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zwischenzug" .
+<https://github.com/john1hsu/chess-graph/id/zwischenzug> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/calculation> .
+<https://github.com/john1hsu/chess-graph/id/zwischenzug> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/combination> .
+<https://github.com/john1hsu/chess-graph/id/zwischenzug> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/deflection> .
+<https://github.com/john1hsu/chess-graph/id/zwischenzug> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/discovered-attack> .
+<https://github.com/john1hsu/chess-graph/id/zwischenzug> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fork> .
+<https://github.com/john1hsu/chess-graph/id/zwischenzug> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/zwischenzug> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/zwischenzug/s1> .
+<https://github.com/john1hsu/chess-graph/id/zwischenzug> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/zwischenzug/s2> .
+<https://github.com/john1hsu/chess-graph/id/zwischenzug> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/zwischenzug/s3> .
+<https://github.com/john1hsu/chess-graph/id/zwischenzug> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/zwischenzug/s4> .
+<https://github.com/john1hsu/chess-graph/id/zwischenzug> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/zwischenzug/s5> .
+<https://github.com/john1hsu/chess-graph/id/zwischenzug> <https://github.com/john1hsu/chess-graph/ontology#domain> "tactics" .
+<https://github.com/john1hsu/chess-graph/id/zwischenzug> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/material-advantage> .
+<https://github.com/john1hsu/chess-graph/id/zwischenzug> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/carlsen-versus-anand-sochi-2014-game-6> .
+<https://github.com/john1hsu/chess-graph/id/zwischenzug> <https://github.com/john1hsu/chess-graph/ontology#fen> "6Rr/1k3p2/1pb1p2p/p1p1n2R/2P5/2P1B3/P1BK1PP1/8 b - - 0 27" .
+<https://github.com/john1hsu/chess-graph/id/zwischenzug> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/zwischenzug> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .

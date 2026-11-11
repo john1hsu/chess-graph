@@ -6450,6 +6450,93 @@
       ]
     },
     {
+      "@id": "kt:zwischenzug",
+      "@type": "kto:TacticalMotif",
+      "skos:prefLabel": "Zwischenzug",
+      "skos:definition": "A tactic in which a player, instead of making the expected move (usually a recapture), first inserts a forcing move such as a check or threat that the opponent must answer, and only then plays the expected move under better conditions.",
+      "kto:domain": "tactics",
+      "dcterms:created": "2026-11-11",
+      "kto:verified": "2026-11-11",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Zwischenzug! A Comprehensive Guide to Intermediate Moves (sample: contents, introduction and first chapters)",
+          "dcterms:publisher": "Natasha Regan and Matt Ball (via Boekhuis)",
+          "schema:url": "https://download.boekhuis.nl/9789083413921_fragm-docb.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Zwischenzug! A Comprehensive Guide to Intermediate Moves",
+          "dcterms:publisher": "New In Chess",
+          "schema:url": "https://www.newinchess.com/zwischenzug",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Zwischenzug – the intermediate move",
+          "dcterms:publisher": "Efstratios Grivas, ChessBase",
+          "schema:url": "https://en.chessbase.com/post/zwischenzug-the-intermediate-move",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Book of the Month: Zwischenzug! by Natasha Regan and Matt Ball",
+          "dcterms:publisher": "Ben Graff, English Chess Federation (Substack)",
+          "schema:url": "https://englishchessfederation.substack.com/p/book-of-the-month-3af",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "World Chess Championship 2014 (6): massively relieved Carlsen takes the lead",
+          "dcterms:publisher": "The Week in Chess",
+          "schema:url": "https://theweekinchess.com/chessnews/events/world-chess-championship-2014/massively-relieved-carlsen-takes-the-lead-in-dramatic-world-championship-game-6",
+          "kto:sourceType": "database"
+        }
+      ],
+      "kto:file": "articles/tactics/zwischenzug.md",
+      "skos:altLabel": [
+        "Intermezzo",
+        "In-between move",
+        "Intermediate move",
+        "Zwischenschach",
+        "In-between check"
+      ],
+      "kto:fen": "6Rr/1k3p2/1pb1p2p/p1p1n2R/2P5/2P1B3/P1BK1PP1/8 b - - 0 27",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-tactics"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:combination"
+        },
+        {
+          "@id": "kt:fork"
+        },
+        {
+          "@id": "kt:discovered-attack"
+        },
+        {
+          "@id": "kt:calculation"
+        },
+        {
+          "@id": "kt:deflection"
+        },
+        {
+          "@id": "kt:world-chess-championship"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:material-advantage"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:carlsen-versus-anand-sochi-2014-game-6"
+        }
+      ]
+    },
+    {
       "@id": "kt:adriaan-de-groot",
       "@type": "kto:Person",
       "skos:prefLabel": "Adriaan de Groot",

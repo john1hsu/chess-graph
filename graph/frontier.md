@@ -61,7 +61,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:vladimir-kramnik` | `kt:ruy-lopez`, `kt:garry-kasparov` |
 | `kt:world-chess-championship-1886` | `kt:world-chess-championship`, `kt:wilhelm-steinitz` |
 | `kt:world-federation-for-chess-composition` | `kt:chess-composition`, `kt:codex-of-chess-composition` |
-| `kt:zwischenzug` | `kt:discovered-attack`, `kt:fork` |
 | `kt:abraham-luchins` | `kt:einstellung-effect` |
 | `kt:adolf-anderssen` | `kt:wilhelm-steinitz` |
 | `kt:albin-countergambit` | `kt:queens-gambit` |
@@ -83,12 +82,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:breakthrough` | `kt:passed-pawn` |
 | `kt:carlsbad-1929` | `kt:aron-nimzowitsch` |
 | `kt:carlsbad-structure` | `kt:pawn-structure` |
+| `kt:carlsen-versus-anand-sochi-2014-game-6` | `kt:zwischenzug` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
 | `kt:chess-tournament` | `kt:arbiter` |
 | `kt:closed-games` | `kt:queens-gambit` |
 | `kt:cognitive-science` | `kt:cognitive-psychology-of-chess` |
 | `kt:david-forsyth` | `kt:forsyth-edwards-notation` |
 | `kt:deep-blue` | `kt:deep-blue-versus-kasparov` |
+| `kt:deflection` | `kt:zwischenzug` |
 | `kt:dragon-variation` | `kt:sicilian-defence` |
 | `kt:draw` | `kt:stalemate` |
 | `kt:european-chess-union` | `kt:fide` |

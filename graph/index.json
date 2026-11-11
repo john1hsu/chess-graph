@@ -2120,5 +2120,30 @@
       "https://core.ac.uk/download/12729.pdf",
       "https://www.chessbase.in/news/Mutual-zugzwang-in-a-pawn-ending"
     ]
+  },
+  {
+    "id": "kt:zwischenzug",
+    "title": "Zwischenzug",
+    "aliases": [
+      "Intermezzo",
+      "In-between move",
+      "Intermediate move",
+      "Zwischenschach",
+      "In-between check"
+    ],
+    "type": "TacticalMotif",
+    "domain": "tactics",
+    "file": "articles/tactics/zwischenzug.md",
+    "created": "2026-11-11",
+    "verified": "2026-11-11",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://download.boekhuis.nl/9789083413921_fragm-docb.pdf",
+      "https://www.newinchess.com/zwischenzug",
+      "https://en.chessbase.com/post/zwischenzug-the-intermediate-move",
+      "https://englishchessfederation.substack.com/p/book-of-the-month-3af",
+      "https://theweekinchess.com/chessnews/events/world-chess-championship-2014/massively-relieved-carlsen-takes-the-lead-in-dramatic-world-championship-game-6"
+    ]
   }
 ]
