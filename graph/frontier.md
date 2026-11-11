@@ -7,19 +7,18 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chess` | `kt:chess-endgame`, `kt:chaturanga`, `kt:history-of-chess`, `kt:shatranj`, `kt:chess-strategy`, `kt:fide-laws-of-chess`, `kt:chess-tactics`, `kt:chess-composition`, `kt:chess-variants` |
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:jose-raul-capablanca`, `kt:wilhelm-steinitz` |
 | `kt:checkmate` | `kt:dead-position`, `kt:stalemate`, `kt:double-check`, `kt:double-check`, `kt:helpmate` |
+| `kt:herbert-simon` | `kt:adriaan-de-groot`, `kt:chunking-theory`, `kt:cognitive-psychology-of-chess`, `kt:template-theory` |
 | `kt:triangulation` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:opposition`, `kt:zugzwang` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position`, `kt:rook-endgames` |
 | `kt:fifty-move-rule` | `kt:endgame-tablebases`, `kt:fide-laws-of-chess`, `kt:forsyth-edwards-notation` |
 | `kt:fischer-spassky-1972` | `kt:world-chess-championship`, `kt:najdorf-variation`, `kt:bobby-fischer` |
 | `kt:gukesh-dommaraju` | `kt:candidates-tournament`, `kt:chess-olympiad`, `kt:world-chess-championship` |
 | `kt:hastings-1895` | `kt:emanuel-lasker`, `kt:siegbert-tarrasch`, `kt:wilhelm-steinitz` |
-| `kt:herbert-simon` | `kt:adriaan-de-groot`, `kt:chunking-theory`, `kt:cognitive-psychology-of-chess` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov` |
 | `kt:key-squares` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:zugzwang` |
 | `kt:mikhail-botvinnik` | `kt:soviet-chess-school`, `kt:garry-kasparov`, `kt:garry-kasparov` |
 | `kt:portable-game-notation` | `kt:algebraic-notation`, `kt:forsyth-edwards-notation`, `kt:forsyth-edwards-notation` |
 | `kt:semi-open-games` | `kt:caro-kann-defence`, `kt:french-defence`, `kt:sicilian-defence` |
-| `kt:template-theory` | `kt:adriaan-de-groot`, `kt:chunking-theory`, `kt:einstellung-effect` |
 | `kt:tigran-petrosian` | `kt:prophylaxis`, `kt:bobby-fischer`, `kt:sacrifice` |
 | `kt:adolf-anderssen` | `kt:romantic-era`, `kt:wilhelm-steinitz` |
 | `kt:alphazero` | `kt:evaluation-function`, `kt:chess-variants` |
@@ -84,6 +83,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:carlsen-versus-anand-sochi-2014-game-6` | `kt:zwischenzug` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
 | `kt:chess-tournament` | `kt:arbiter` |
+| `kt:chrest` | `kt:template-theory` |
 | `kt:closed-games` | `kt:queens-gambit` |
 | `kt:cognitive-science` | `kt:cognitive-psychology-of-chess` |
 | `kt:david-forsyth` | `kt:forsyth-edwards-notation` |
@@ -94,6 +94,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:european-chess-union` | `kt:fide` |
 | `kt:exchange-sacrifice` | `kt:sacrifice` |
 | `kt:extended-position-description` | `kt:forsyth-edwards-notation` |
+| `kt:fernand-gobet` | `kt:template-theory` |
 | `kt:fide-ethics-and-disciplinary-code` | `kt:fair-play-regulations` |
 | `kt:fide-handbook` | `kt:fair-play-regulations` |
 | `kt:fide-title-regulations` | `kt:grandmaster-title` |
@@ -124,6 +125,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:lasker-versus-bauer-amsterdam-1889` | `kt:combination` |
 | `kt:leipzig-1894` | `kt:siegbert-tarrasch` |
 | `kt:leonardo-torres-y-quevedo` | `kt:claude-shannon` |
+| `kt:long-term-working-memory` | `kt:template-theory` |
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position` |
 | `kt:marcus-kann` | `kt:caro-kann-defence` |
 | `kt:marshall-attack` | `kt:ruy-lopez` |
@@ -135,6 +137,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:modena-school` | `kt:romantic-era` |
 | `kt:negamax` | `kt:minimax` |
 | `kt:open-ruy-lopez` | `kt:ruy-lopez` |
+| `kt:opening-repertoire` | `kt:template-theory` |
 | `kt:opposite-coloured-bishops` | `kt:bishop-pair` |
 | `kt:otto-selz` | `kt:adriaan-de-groot` |
 | `kt:panov-botvinnik-attack` | `kt:caro-kann-defence` |

@@ -7730,6 +7730,96 @@
       ]
     },
     {
+      "@id": "kt:template-theory",
+      "@type": "kto:CognitiveConcept",
+      "skos:prefLabel": "Template theory",
+      "skos:definition": "Fernand Gobet and Herbert Simon's 1996 revision of chunking theory, which holds that strong players store frequently met positions as long-term-memory templates: a fixed core of about a dozen pieces plus slots for variable details, plans and moves that can be filled within a fraction of a second.",
+      "kto:domain": "training-and-improvement",
+      "dcterms:created": "2026-11-11",
+      "kto:verified": "2026-11-11",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Templates in chess memory: A mechanism for recalling several boards (Cognitive Psychology 31(1), 1-40)",
+          "dcterms:publisher": "Fernand Gobet and Herbert A. Simon, Brunel University Research Archive",
+          "schema:url": "https://bura.brunel.ac.uk/bitstream/2438/1339/1/Multiple_boards.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Five seconds or sixty? Presentation time in expert memory (Cognitive Science 24)",
+          "dcterms:publisher": "Fernand Gobet and Herbert A. Simon, via CORE",
+          "schema:url": "https://core.ac.uk/download/333524.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Expert memory: A comparison of four theories (Cognition 66, 115-152)",
+          "dcterms:publisher": "Fernand Gobet, Brunel University Research Archive",
+          "schema:url": "https://bura.brunel.ac.uk/bitstream/2438/815/1/FullText.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Recall of random and distorted chess positions: Implications for the theory of expertise (Memory & Cognition 24, 493-503)",
+          "dcterms:publisher": "Fernand Gobet and Herbert A. Simon, via CORE",
+          "schema:url": "https://core.ac.uk/download/333533.pdf",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/training-and-improvement/template-theory.md",
+      "skos:altLabel": [
+        "Chess template theory",
+        "Gobet and Simon template theory",
+        "Templates in chess memory",
+        "Chess templates"
+      ],
+      "kto:fen": "6k1/5pb1/2pp2p1/2n5/2P1P3/2N1BP2/6PP/6K1 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-expertise"
+        },
+        {
+          "@id": "kt:cognitive-psychology-of-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:chunking-theory"
+        },
+        {
+          "@id": "kt:adriaan-de-groot"
+        },
+        {
+          "@id": "kt:einstellung-effect"
+        },
+        {
+          "@id": "kt:opening-repertoire"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:fernand-gobet"
+        },
+        {
+          "@id": "kt:herbert-simon"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:chunking-theory"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:long-term-working-memory"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:chrest"
+        }
+      ]
+    },
+    {
       "@id": "kt:chess-composition",
       "@type": "kto:Concept",
       "skos:prefLabel": "Chess composition",

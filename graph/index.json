@@ -2171,6 +2171,29 @@
     ]
   },
   {
+    "id": "kt:template-theory",
+    "title": "Template theory",
+    "aliases": [
+      "Chess template theory",
+      "Gobet and Simon template theory",
+      "Templates in chess memory",
+      "Chess templates"
+    ],
+    "type": "CognitiveConcept",
+    "domain": "training-and-improvement",
+    "file": "articles/training-and-improvement/template-theory.md",
+    "created": "2026-11-11",
+    "verified": "2026-11-11",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://bura.brunel.ac.uk/bitstream/2438/1339/1/Multiple_boards.pdf",
+      "https://core.ac.uk/download/333524.pdf",
+      "https://bura.brunel.ac.uk/bitstream/2438/815/1/FullText.pdf",
+      "https://core.ac.uk/download/333533.pdf"
+    ]
+  },
+  {
     "id": "kt:touch-move",
     "title": "Touch-move",
     "aliases": [

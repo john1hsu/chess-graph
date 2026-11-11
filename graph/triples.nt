@@ -4801,6 +4801,26 @@
 <https://github.com/john1hsu/chess-graph/id/source/stalemate/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/stalemate/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/stalemate/s5> <https://schema.org/url> "https://en.chessbase.com/post/who-needs-stalemate-let-s-abolish-it-" .
+<https://github.com/john1hsu/chess-graph/id/source/template-theory/s1> <http://purl.org/dc/terms/publisher> "Fernand Gobet and Herbert A. Simon, Brunel University Research Archive" .
+<https://github.com/john1hsu/chess-graph/id/source/template-theory/s1> <http://purl.org/dc/terms/title> "Templates in chess memory: A mechanism for recalling several boards (Cognitive Psychology 31(1), 1-40)" .
+<https://github.com/john1hsu/chess-graph/id/source/template-theory/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/template-theory/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/template-theory/s1> <https://schema.org/url> "https://bura.brunel.ac.uk/bitstream/2438/1339/1/Multiple_boards.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/template-theory/s2> <http://purl.org/dc/terms/publisher> "Fernand Gobet and Herbert A. Simon, via CORE" .
+<https://github.com/john1hsu/chess-graph/id/source/template-theory/s2> <http://purl.org/dc/terms/title> "Five seconds or sixty? Presentation time in expert memory (Cognitive Science 24)" .
+<https://github.com/john1hsu/chess-graph/id/source/template-theory/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/template-theory/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/template-theory/s2> <https://schema.org/url> "https://core.ac.uk/download/333524.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/template-theory/s3> <http://purl.org/dc/terms/publisher> "Fernand Gobet, Brunel University Research Archive" .
+<https://github.com/john1hsu/chess-graph/id/source/template-theory/s3> <http://purl.org/dc/terms/title> "Expert memory: A comparison of four theories (Cognition 66, 115-152)" .
+<https://github.com/john1hsu/chess-graph/id/source/template-theory/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/template-theory/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/template-theory/s3> <https://schema.org/url> "https://bura.brunel.ac.uk/bitstream/2438/815/1/FullText.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/template-theory/s4> <http://purl.org/dc/terms/publisher> "Fernand Gobet and Herbert A. Simon, via CORE" .
+<https://github.com/john1hsu/chess-graph/id/source/template-theory/s4> <http://purl.org/dc/terms/title> "Recall of random and distorted chess positions: Implications for the theory of expertise (Memory & Cognition 24, 493-503)" .
+<https://github.com/john1hsu/chess-graph/id/source/template-theory/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/template-theory/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/template-theory/s4> <https://schema.org/url> "https://core.ac.uk/download/333533.pdf" .
 <https://github.com/john1hsu/chess-graph/id/source/touch-move/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
 <https://github.com/john1hsu/chess-graph/id/source/touch-move/s1> <http://purl.org/dc/terms/title> "Article 4: The Act of Moving the Pieces" .
 <https://github.com/john1hsu/chess-graph/id/source/touch-move/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -5031,6 +5051,34 @@
 <https://github.com/john1hsu/chess-graph/id/stalemate> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
 <https://github.com/john1hsu/chess-graph/id/stalemate> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/stalemate> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/template-theory> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/template-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#CognitiveConcept> .
+<https://github.com/john1hsu/chess-graph/id/template-theory> <http://www.w3.org/2000/01/rdf-schema#label> "Template theory" .
+<https://github.com/john1hsu/chess-graph/id/template-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess template theory" .
+<https://github.com/john1hsu/chess-graph/id/template-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess templates" .
+<https://github.com/john1hsu/chess-graph/id/template-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "Gobet and Simon template theory" .
+<https://github.com/john1hsu/chess-graph/id/template-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "Templates in chess memory" .
+<https://github.com/john1hsu/chess-graph/id/template-theory> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-expertise> .
+<https://github.com/john1hsu/chess-graph/id/template-theory> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/template-theory> <http://www.w3.org/2004/02/skos/core#definition> "Fernand Gobet and Herbert Simon's 1996 revision of chunking theory, which holds that strong players store frequently met positions as long-term-memory templates: a fixed core of about a dozen pieces plus slots for variable details, plans and moves that can be filled within a fraction of a second." .
+<https://github.com/john1hsu/chess-graph/id/template-theory> <http://www.w3.org/2004/02/skos/core#prefLabel> "Template theory" .
+<https://github.com/john1hsu/chess-graph/id/template-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> .
+<https://github.com/john1hsu/chess-graph/id/template-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chunking-theory> .
+<https://github.com/john1hsu/chess-graph/id/template-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/einstellung-effect> .
+<https://github.com/john1hsu/chess-graph/id/template-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/opening-repertoire> .
+<https://github.com/john1hsu/chess-graph/id/template-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/template-theory/s1> .
+<https://github.com/john1hsu/chess-graph/id/template-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/template-theory/s2> .
+<https://github.com/john1hsu/chess-graph/id/template-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/template-theory/s3> .
+<https://github.com/john1hsu/chess-graph/id/template-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/template-theory/s4> .
+<https://github.com/john1hsu/chess-graph/id/template-theory> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/long-term-working-memory> .
+<https://github.com/john1hsu/chess-graph/id/template-theory> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/chrest> .
+<https://github.com/john1hsu/chess-graph/id/template-theory> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/fernand-gobet> .
+<https://github.com/john1hsu/chess-graph/id/template-theory> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/herbert-simon> .
+<https://github.com/john1hsu/chess-graph/id/template-theory> <https://github.com/john1hsu/chess-graph/ontology#domain> "training-and-improvement" .
+<https://github.com/john1hsu/chess-graph/id/template-theory> <https://github.com/john1hsu/chess-graph/ontology#fen> "6k1/5pb1/2pp2p1/2n5/2P1P3/2N1BP2/6PP/6K1 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/template-theory> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/chunking-theory> .
+<https://github.com/john1hsu/chess-graph/id/template-theory> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/template-theory> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/touch-move> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/touch-move> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Rule> .
 <https://github.com/john1hsu/chess-graph/id/touch-move> <http://www.w3.org/2000/01/rdf-schema#label> "Touch-move" .
