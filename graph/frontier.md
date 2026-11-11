@@ -37,6 +37,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:leela-chess-zero` | `kt:computer-chess`, `kt:monte-carlo-tree-search` |
 | `kt:move-ordering` | `kt:alpha-beta-pruning`, `kt:quiescence-search` |
 | `kt:nnue` | `kt:computer-chess`, `kt:evaluation-function` |
+| `kt:open-games` | `kt:italian-game`, `kt:ruy-lopez` |
 | `kt:origins-of-chess` | `kt:chaturanga`, `kt:history-of-chess` |
 | `kt:overprotection` | `kt:prophylaxis`, `kt:prophylaxis` |
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
@@ -91,6 +92,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:dragon-variation` | `kt:sicilian-defence` |
 | `kt:draw` | `kt:stalemate` |
 | `kt:european-chess-union` | `kt:fide` |
+| `kt:evans-gambit` | `kt:italian-game` |
 | `kt:extended-position-description` | `kt:forsyth-edwards-notation` |
 | `kt:fide-ethics-and-disciplinary-code` | `kt:fair-play-regulations` |
 | `kt:fide-handbook` | `kt:fair-play-regulations` |
@@ -98,6 +100,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fide-world-fischer-random-chess-championship` | `kt:chess960` |
 | `kt:four-handed-chaturanga` | `kt:chaturanga` |
 | `kt:game-of-the-century` | `kt:bobby-fischer` |
+| `kt:giuoco-pianissimo` | `kt:italian-game` |
 | `kt:glicko-rating-system` | `kt:elo-rating-system` |
 | `kt:good-and-bad-bishops` | `kt:french-defence` |
 | `kt:good-knight-versus-bad-bishop` | `kt:outpost` |
@@ -107,7 +110,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:indian-defences` | `kt:nimzo-indian-defence` |
 | `kt:international-master-title` | `kt:grandmaster-title` |
 | `kt:intrinsic-performance-rating` | `kt:fair-play-regulations` |
-| `kt:italian-game` | `kt:ruy-lopez` |
 | `kt:javokhir-sindarov` | `kt:candidates-tournament` |
 | `kt:johannes-zukertort` | `kt:wilhelm-steinitz` |
 | `kt:john-mccarthy` | `kt:alpha-beta-pruning` |
@@ -130,7 +132,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:minority-attack` | `kt:pawn-structure` |
 | `kt:najdorf-variation` | `kt:sicilian-defence` |
 | `kt:negamax` | `kt:minimax` |
-| `kt:open-games` | `kt:ruy-lopez` |
 | `kt:open-ruy-lopez` | `kt:ruy-lopez` |
 | `kt:otto-selz` | `kt:adriaan-de-groot` |
 | `kt:panov-botvinnik-attack` | `kt:caro-kann-defence` |
@@ -166,6 +167,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:team-chess` | `kt:chess-olympiad` |
 | `kt:the-exchange` | `kt:material-advantage` |
 | `kt:tie-break-regulations` | `kt:chess-olympiad` |
+| `kt:two-knights-defence` | `kt:italian-game` |
 | `kt:underpromotion` | `kt:pawn-promotion` |
 | `kt:universal-chess-interface` | `kt:chess960` |
 | `kt:vancura-position` | `kt:rook-endgames` |

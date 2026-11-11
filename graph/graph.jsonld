@@ -3797,6 +3797,103 @@
       ]
     },
     {
+      "@id": "kt:italian-game",
+      "@type": "kto:Opening",
+      "skos:prefLabel": "Italian Game",
+      "skos:definition": "An open game beginning 1.e4 e5 2.Nf3 Nc6 3.Bc4, in which White develops the bishop to c4 to aim at f7; it covers the Giuoco Piano and Pianissimo (3...Bc5), the Evans Gambit and the Two Knights Defence.",
+      "kto:domain": "openings",
+      "dcterms:created": "2026-11-11",
+      "kto:verified": "2026-11-11",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Italian Game",
+          "dcterms:publisher": "ChessBase Learn",
+          "schema:url": "https://learn.chessbase.com/en/page/the-italian-game",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The Modernized Italian Game for White (sample pages: introduction and contents)",
+          "dcterms:publisher": "Alexander Kalinin with Nikolai Kalinichenko, Thinkers Publishing (2021), New In Chess product sample PDF",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/8422.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The Evans Gambit",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://www.chesshistory.com/winter/extra/evansgambit.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Evans, William Davies (1790–1872), inventor of a chess gambit",
+          "dcterms:publisher": "Dictionary of Welsh Biography, National Library of Wales",
+          "schema:url": "https://biography.wales/article/s3-EVAN-DAV-1790",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Openings #1 The Open Games: Two Knights Defence with 4.Ng5",
+          "dcterms:publisher": "ChessBase Books",
+          "schema:url": "https://books.chessbase.com/es/openings-1-the-open-games/two-knights-defence-with-4ng5",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "C50 Italian Game",
+          "dcterms:publisher": "365Chess",
+          "schema:url": "https://www.365chess.com/eco/C50_Italian_Game",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "Giuoco Piano (C54) 1 e4 e5 2 Nf3 Nc6 3 Bc4 Bc5 4 c3 Nf6 5 d4 exd4 6 cxd4",
+          "dcterms:publisher": "Chessgames.com",
+          "schema:url": "https://chessgames.com/perl/chessopening?eco=C54",
+          "kto:sourceType": "database"
+        }
+      ],
+      "kto:file": "articles/openings/italian-game.md",
+      "skos:altLabel": [
+        "Italian Opening",
+        "Partita Italiana",
+        "Partie Italienne"
+      ],
+      "kto:eco": "C50",
+      "kto:moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4",
+      "skos:broader": [
+        {
+          "@id": "kt:open-games"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:ruy-lopez"
+        },
+        {
+          "@id": "kt:pawn-structure"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:ruy-lopez"
+        }
+      ],
+      "kto:leadsTo": [
+        {
+          "@id": "kt:giuoco-pianissimo"
+        },
+        {
+          "@id": "kt:evans-gambit"
+        },
+        {
+          "@id": "kt:two-knights-defence"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:wilhelm-steinitz"
+        }
+      ]
+    },
+    {
       "@id": "kt:nimzo-indian-defence",
       "@type": "kto:Opening",
       "skos:prefLabel": "Nimzo-Indian Defence",

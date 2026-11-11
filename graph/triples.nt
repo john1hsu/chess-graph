@@ -1413,6 +1413,34 @@
 <https://github.com/john1hsu/chess-graph/id/isolated-queens-pawn> <https://github.com/john1hsu/chess-graph/ontology#fen> "rnbq1rk1/pp2bppp/4pn2/8/2BP4/2N2N2/PP3PPP/R1BQ1RK1 w - - 3 9" .
 <https://github.com/john1hsu/chess-graph/id/isolated-queens-pawn> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/isolated-queens-pawn> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/italian-game> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/italian-game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Opening> .
+<https://github.com/john1hsu/chess-graph/id/italian-game> <http://www.w3.org/2000/01/rdf-schema#label> "Italian Game" .
+<https://github.com/john1hsu/chess-graph/id/italian-game> <http://www.w3.org/2004/02/skos/core#altLabel> "Italian Opening" .
+<https://github.com/john1hsu/chess-graph/id/italian-game> <http://www.w3.org/2004/02/skos/core#altLabel> "Partie Italienne" .
+<https://github.com/john1hsu/chess-graph/id/italian-game> <http://www.w3.org/2004/02/skos/core#altLabel> "Partita Italiana" .
+<https://github.com/john1hsu/chess-graph/id/italian-game> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/open-games> .
+<https://github.com/john1hsu/chess-graph/id/italian-game> <http://www.w3.org/2004/02/skos/core#definition> "An open game beginning 1.e4 e5 2.Nf3 Nc6 3.Bc4, in which White develops the bishop to c4 to aim at f7; it covers the Giuoco Piano and Pianissimo (3...Bc5), the Evans Gambit and the Two Knights Defence." .
+<https://github.com/john1hsu/chess-graph/id/italian-game> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italian Game" .
+<https://github.com/john1hsu/chess-graph/id/italian-game> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/pawn-structure> .
+<https://github.com/john1hsu/chess-graph/id/italian-game> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/ruy-lopez> .
+<https://github.com/john1hsu/chess-graph/id/italian-game> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/italian-game/s1> .
+<https://github.com/john1hsu/chess-graph/id/italian-game> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/italian-game/s2> .
+<https://github.com/john1hsu/chess-graph/id/italian-game> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/italian-game/s3> .
+<https://github.com/john1hsu/chess-graph/id/italian-game> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/italian-game/s4> .
+<https://github.com/john1hsu/chess-graph/id/italian-game> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/italian-game/s5> .
+<https://github.com/john1hsu/chess-graph/id/italian-game> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/italian-game/s6> .
+<https://github.com/john1hsu/chess-graph/id/italian-game> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/italian-game/s7> .
+<https://github.com/john1hsu/chess-graph/id/italian-game> <https://github.com/john1hsu/chess-graph/ontology#alternativeTo> <https://github.com/john1hsu/chess-graph/id/ruy-lopez> .
+<https://github.com/john1hsu/chess-graph/id/italian-game> <https://github.com/john1hsu/chess-graph/ontology#domain> "openings" .
+<https://github.com/john1hsu/chess-graph/id/italian-game> <https://github.com/john1hsu/chess-graph/ontology#eco> "C50" .
+<https://github.com/john1hsu/chess-graph/id/italian-game> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> .
+<https://github.com/john1hsu/chess-graph/id/italian-game> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/evans-gambit> .
+<https://github.com/john1hsu/chess-graph/id/italian-game> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/giuoco-pianissimo> .
+<https://github.com/john1hsu/chess-graph/id/italian-game> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/two-knights-defence> .
+<https://github.com/john1hsu/chess-graph/id/italian-game> <https://github.com/john1hsu/chess-graph/ontology#moves> "1.e4 e5 2.Nf3 Nc6 3.Bc4" .
+<https://github.com/john1hsu/chess-graph/id/italian-game> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/italian-game> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
 <https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <http://www.w3.org/2000/01/rdf-schema#label> "José Raúl Capablanca" .
@@ -3503,6 +3531,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/isolated-queens-pawn/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/isolated-queens-pawn/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/isolated-queens-pawn/s5> <https://schema.org/url> "https://www.chess.com/terms/isolated-queens-pawn-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/italian-game/s1> <http://purl.org/dc/terms/publisher> "ChessBase Learn" .
+<https://github.com/john1hsu/chess-graph/id/source/italian-game/s1> <http://purl.org/dc/terms/title> "The Italian Game" .
+<https://github.com/john1hsu/chess-graph/id/source/italian-game/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/italian-game/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/italian-game/s1> <https://schema.org/url> "https://learn.chessbase.com/en/page/the-italian-game" .
+<https://github.com/john1hsu/chess-graph/id/source/italian-game/s2> <http://purl.org/dc/terms/publisher> "Alexander Kalinin with Nikolai Kalinichenko, Thinkers Publishing (2021), New In Chess product sample PDF" .
+<https://github.com/john1hsu/chess-graph/id/source/italian-game/s2> <http://purl.org/dc/terms/title> "The Modernized Italian Game for White (sample pages: introduction and contents)" .
+<https://github.com/john1hsu/chess-graph/id/source/italian-game/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/italian-game/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/italian-game/s2> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/8422.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/italian-game/s3> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/italian-game/s3> <http://purl.org/dc/terms/title> "The Evans Gambit" .
+<https://github.com/john1hsu/chess-graph/id/source/italian-game/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/italian-game/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/italian-game/s3> <https://schema.org/url> "https://www.chesshistory.com/winter/extra/evansgambit.html" .
+<https://github.com/john1hsu/chess-graph/id/source/italian-game/s4> <http://purl.org/dc/terms/publisher> "Dictionary of Welsh Biography, National Library of Wales" .
+<https://github.com/john1hsu/chess-graph/id/source/italian-game/s4> <http://purl.org/dc/terms/title> "Evans, William Davies (1790–1872), inventor of a chess gambit" .
+<https://github.com/john1hsu/chess-graph/id/source/italian-game/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/italian-game/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/italian-game/s4> <https://schema.org/url> "https://biography.wales/article/s3-EVAN-DAV-1790" .
+<https://github.com/john1hsu/chess-graph/id/source/italian-game/s5> <http://purl.org/dc/terms/publisher> "ChessBase Books" .
+<https://github.com/john1hsu/chess-graph/id/source/italian-game/s5> <http://purl.org/dc/terms/title> "Openings #1 The Open Games: Two Knights Defence with 4.Ng5" .
+<https://github.com/john1hsu/chess-graph/id/source/italian-game/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/italian-game/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/italian-game/s5> <https://schema.org/url> "https://books.chessbase.com/es/openings-1-the-open-games/two-knights-defence-with-4ng5" .
+<https://github.com/john1hsu/chess-graph/id/source/italian-game/s6> <http://purl.org/dc/terms/publisher> "365Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/italian-game/s6> <http://purl.org/dc/terms/title> "C50 Italian Game" .
+<https://github.com/john1hsu/chess-graph/id/source/italian-game/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/italian-game/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/italian-game/s6> <https://schema.org/url> "https://www.365chess.com/eco/C50_Italian_Game" .
+<https://github.com/john1hsu/chess-graph/id/source/italian-game/s7> <http://purl.org/dc/terms/publisher> "Chessgames.com" .
+<https://github.com/john1hsu/chess-graph/id/source/italian-game/s7> <http://purl.org/dc/terms/title> "Giuoco Piano (C54) 1 e4 e5 2 Nf3 Nc6 3 Bc4 Bc5 4 c3 Nf6 5 d4 exd4 6 cxd4" .
+<https://github.com/john1hsu/chess-graph/id/source/italian-game/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/italian-game/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/italian-game/s7> <https://schema.org/url> "https://chessgames.com/perl/chessopening?eco=C54" .
 <https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s1> <http://purl.org/dc/terms/title> "José Raúl Capablanca" .
 <https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

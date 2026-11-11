@@ -1265,6 +1265,32 @@
     ]
   },
   {
+    "id": "kt:italian-game",
+    "title": "Italian Game",
+    "aliases": [
+      "Italian Opening",
+      "Partita Italiana",
+      "Partie Italienne"
+    ],
+    "type": "Opening",
+    "domain": "openings",
+    "file": "articles/openings/italian-game.md",
+    "created": "2026-11-11",
+    "verified": "2026-11-11",
+    "volatile": false,
+    "status": "current",
+    "eco": "C50",
+    "source_urls": [
+      "https://learn.chessbase.com/en/page/the-italian-game",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/8422.pdf",
+      "https://www.chesshistory.com/winter/extra/evansgambit.html",
+      "https://biography.wales/article/s3-EVAN-DAV-1790",
+      "https://books.chessbase.com/es/openings-1-the-open-games/two-knights-defence-with-4ng5",
+      "https://www.365chess.com/eco/C50_Italian_Game",
+      "https://chessgames.com/perl/chessopening?eco=C54"
+    ]
+  },
+  {
     "id": "kt:jose-raul-capablanca",
     "title": "José Raúl Capablanca",
     "aliases": [
