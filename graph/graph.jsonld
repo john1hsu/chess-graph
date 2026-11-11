@@ -4976,6 +4976,99 @@
       ]
     },
     {
+      "@id": "kt:slav-defence",
+      "@type": "kto:Opening",
+      "skos:prefLabel": "Slav Defence",
+      "skos:definition": "Black's reply 2...c6 to the Queen's Gambit (1.d4 d5 2.c4 c6), which supports the d5-pawn without shutting in the queen's bishop and prepares ...dxc4 followed by ...b5; it branches into the Slav Accepted (4...dxc4), the Semi-Slav (4...e6), the Chebanenko (4...a6) and the Exchange Slav (3.cxd5).",
+      "kto:domain": "openings",
+      "dcterms:created": "2026-11-11",
+      "kto:verified": "2026-11-11",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "FCO: Fundamental Chess Openings (sample pages: Slav and Semi-Slav chapter)",
+          "dcterms:publisher": "Paul van der Sterren, Gambit Publications (2009), New In Chess product sample PDF",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/1857.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Chess Stars: Bf4 in the Queen's Gambit and the Exchange Slav (sample pages)",
+          "dcterms:publisher": "Alexey Dreev, Chess Stars, New In Chess product sample PDF",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/7607.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "A Practical White Repertoire with 1.d4 and 2.c4, Volume 1: The Complete Queen's Gambit (sample pages)",
+          "dcterms:publisher": "Alexei Kornev, Chess Stars (2013), New In Chess product sample PDF",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/7288.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Slav Defence",
+          "dcterms:publisher": "ChessBase Learn",
+          "schema:url": "https://learn.chessbase.com/en/page/slav-defence",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The Openings of World Champions: Max Euwe and the Slav Defense",
+          "dcterms:publisher": "GM Bryan Smith, Chess.com (2015)",
+          "schema:url": "https://www.chess.com/article/view/the-openings-of-world-champions-max-euwe-and-the-slav-defense",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Queen's Gambit Declined Slav (D10) 1 d4 d5 2 c4 c6",
+          "dcterms:publisher": "Chessgames.com",
+          "schema:url": "https://chessgames.com/perl/chessopening?eco=D10",
+          "kto:sourceType": "database"
+        }
+      ],
+      "kto:file": "articles/openings/slav-defence.md",
+      "skos:altLabel": [
+        "Slav Defense",
+        "Slav",
+        "Queen's Gambit Declined Slav",
+        "QGD Slav",
+        "Slav Defence to the Queen's Gambit"
+      ],
+      "kto:eco": "D10",
+      "kto:moves": "1.d4 d5 2.c4 c6",
+      "skos:broader": [
+        {
+          "@id": "kt:queens-gambit"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:good-and-bad-bishops"
+        },
+        {
+          "@id": "kt:garry-kasparov"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:queens-gambit-declined"
+        },
+        {
+          "@id": "kt:queens-gambit-accepted"
+        }
+      ],
+      "kto:leadsTo": [
+        {
+          "@id": "kt:semi-slav-defence"
+        }
+      ],
+      "kto:championedBy": [
+        {
+          "@id": "kt:max-euwe"
+        },
+        {
+          "@id": "kt:alexander-alekhine"
+        }
+      ]
+    },
+    {
       "@id": "kt:anatoly-karpov",
       "@type": "kto:Player",
       "skos:prefLabel": "Anatoly Karpov",

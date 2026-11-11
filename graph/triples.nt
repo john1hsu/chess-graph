@@ -2498,6 +2498,35 @@
 <https://github.com/john1hsu/chess-graph/id/skewer> <https://github.com/john1hsu/chess-graph/ontology#fen> "8/2k4r/8/8/8/8/6K1/R7 w - - 0 1" .
 <https://github.com/john1hsu/chess-graph/id/skewer> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/skewer> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/slav-defence> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/slav-defence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Opening> .
+<https://github.com/john1hsu/chess-graph/id/slav-defence> <http://www.w3.org/2000/01/rdf-schema#label> "Slav Defence" .
+<https://github.com/john1hsu/chess-graph/id/slav-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "QGD Slav" .
+<https://github.com/john1hsu/chess-graph/id/slav-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "Queen's Gambit Declined Slav" .
+<https://github.com/john1hsu/chess-graph/id/slav-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "Slav Defence to the Queen's Gambit" .
+<https://github.com/john1hsu/chess-graph/id/slav-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "Slav Defense" .
+<https://github.com/john1hsu/chess-graph/id/slav-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "Slav" .
+<https://github.com/john1hsu/chess-graph/id/slav-defence> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/queens-gambit> .
+<https://github.com/john1hsu/chess-graph/id/slav-defence> <http://www.w3.org/2004/02/skos/core#definition> "Black's reply 2...c6 to the Queen's Gambit (1.d4 d5 2.c4 c6), which supports the d5-pawn without shutting in the queen's bishop and prepares ...dxc4 followed by ...b5; it branches into the Slav Accepted (4...dxc4), the Semi-Slav (4...e6), the Chebanenko (4...a6) and the Exchange Slav (3.cxd5)." .
+<https://github.com/john1hsu/chess-graph/id/slav-defence> <http://www.w3.org/2004/02/skos/core#prefLabel> "Slav Defence" .
+<https://github.com/john1hsu/chess-graph/id/slav-defence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/garry-kasparov> .
+<https://github.com/john1hsu/chess-graph/id/slav-defence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> .
+<https://github.com/john1hsu/chess-graph/id/slav-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/slav-defence/s1> .
+<https://github.com/john1hsu/chess-graph/id/slav-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/slav-defence/s2> .
+<https://github.com/john1hsu/chess-graph/id/slav-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/slav-defence/s3> .
+<https://github.com/john1hsu/chess-graph/id/slav-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/slav-defence/s4> .
+<https://github.com/john1hsu/chess-graph/id/slav-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/slav-defence/s5> .
+<https://github.com/john1hsu/chess-graph/id/slav-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/slav-defence/s6> .
+<https://github.com/john1hsu/chess-graph/id/slav-defence> <https://github.com/john1hsu/chess-graph/ontology#alternativeTo> <https://github.com/john1hsu/chess-graph/id/queens-gambit-accepted> .
+<https://github.com/john1hsu/chess-graph/id/slav-defence> <https://github.com/john1hsu/chess-graph/ontology#alternativeTo> <https://github.com/john1hsu/chess-graph/id/queens-gambit-declined> .
+<https://github.com/john1hsu/chess-graph/id/slav-defence> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/alexander-alekhine> .
+<https://github.com/john1hsu/chess-graph/id/slav-defence> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/max-euwe> .
+<https://github.com/john1hsu/chess-graph/id/slav-defence> <https://github.com/john1hsu/chess-graph/ontology#domain> "openings" .
+<https://github.com/john1hsu/chess-graph/id/slav-defence> <https://github.com/john1hsu/chess-graph/ontology#eco> "D10" .
+<https://github.com/john1hsu/chess-graph/id/slav-defence> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/semi-slav-defence> .
+<https://github.com/john1hsu/chess-graph/id/slav-defence> <https://github.com/john1hsu/chess-graph/ontology#moves> "1.d4 d5 2.c4 c6" .
+<https://github.com/john1hsu/chess-graph/id/slav-defence> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/slav-defence> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s1> <http://purl.org/dc/terms/publisher> "Fernand Gobet and Jörg Musch, Brunel University Research Archive" .
 <https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s1> <http://purl.org/dc/terms/title> "Adriaan Dingeman de Groot (1914–2006) — obituary, Psychologische Rundschau" .
 <https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -5008,6 +5037,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/skewer/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/skewer/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/skewer/s6> <https://schema.org/url> "https://www.chess.com/terms/skewer-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/slav-defence/s1> <http://purl.org/dc/terms/publisher> "Paul van der Sterren, Gambit Publications (2009), New In Chess product sample PDF" .
+<https://github.com/john1hsu/chess-graph/id/source/slav-defence/s1> <http://purl.org/dc/terms/title> "FCO: Fundamental Chess Openings (sample pages: Slav and Semi-Slav chapter)" .
+<https://github.com/john1hsu/chess-graph/id/source/slav-defence/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/slav-defence/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/slav-defence/s1> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/1857.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/slav-defence/s2> <http://purl.org/dc/terms/publisher> "Alexey Dreev, Chess Stars, New In Chess product sample PDF" .
+<https://github.com/john1hsu/chess-graph/id/source/slav-defence/s2> <http://purl.org/dc/terms/title> "Chess Stars: Bf4 in the Queen's Gambit and the Exchange Slav (sample pages)" .
+<https://github.com/john1hsu/chess-graph/id/source/slav-defence/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/slav-defence/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/slav-defence/s2> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/7607.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/slav-defence/s3> <http://purl.org/dc/terms/publisher> "Alexei Kornev, Chess Stars (2013), New In Chess product sample PDF" .
+<https://github.com/john1hsu/chess-graph/id/source/slav-defence/s3> <http://purl.org/dc/terms/title> "A Practical White Repertoire with 1.d4 and 2.c4, Volume 1: The Complete Queen's Gambit (sample pages)" .
+<https://github.com/john1hsu/chess-graph/id/source/slav-defence/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/slav-defence/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/slav-defence/s3> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/7288.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/slav-defence/s4> <http://purl.org/dc/terms/publisher> "ChessBase Learn" .
+<https://github.com/john1hsu/chess-graph/id/source/slav-defence/s4> <http://purl.org/dc/terms/title> "Slav Defence" .
+<https://github.com/john1hsu/chess-graph/id/source/slav-defence/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/slav-defence/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/slav-defence/s4> <https://schema.org/url> "https://learn.chessbase.com/en/page/slav-defence" .
+<https://github.com/john1hsu/chess-graph/id/source/slav-defence/s5> <http://purl.org/dc/terms/publisher> "GM Bryan Smith, Chess.com (2015)" .
+<https://github.com/john1hsu/chess-graph/id/source/slav-defence/s5> <http://purl.org/dc/terms/title> "The Openings of World Champions: Max Euwe and the Slav Defense" .
+<https://github.com/john1hsu/chess-graph/id/source/slav-defence/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/slav-defence/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/slav-defence/s5> <https://schema.org/url> "https://www.chess.com/article/view/the-openings-of-world-champions-max-euwe-and-the-slav-defense" .
+<https://github.com/john1hsu/chess-graph/id/source/slav-defence/s6> <http://purl.org/dc/terms/publisher> "Chessgames.com" .
+<https://github.com/john1hsu/chess-graph/id/source/slav-defence/s6> <http://purl.org/dc/terms/title> "Queen's Gambit Declined Slav (D10) 1 d4 d5 2 c4 c6" .
+<https://github.com/john1hsu/chess-graph/id/source/slav-defence/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/slav-defence/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/slav-defence/s6> <https://schema.org/url> "https://chessgames.com/perl/chessopening?eco=D10" .
 <https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s1> <http://purl.org/dc/terms/publisher> "ChessBase News" .
 <https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s1> <http://purl.org/dc/terms/title> "Britannica: The Evolution of Chess Theory (Part 3) — Andrew Soltis's Britannica text on the development of theory" .
 <https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

@@ -2230,6 +2230,33 @@
     ]
   },
   {
+    "id": "kt:slav-defence",
+    "title": "Slav Defence",
+    "aliases": [
+      "Slav Defense",
+      "Slav",
+      "Queen's Gambit Declined Slav",
+      "QGD Slav",
+      "Slav Defence to the Queen's Gambit"
+    ],
+    "type": "Opening",
+    "domain": "openings",
+    "file": "articles/openings/slav-defence.md",
+    "created": "2026-11-11",
+    "verified": "2026-11-11",
+    "volatile": false,
+    "status": "current",
+    "eco": "D10",
+    "source_urls": [
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/1857.pdf",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/7607.pdf",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/7288.pdf",
+      "https://learn.chessbase.com/en/page/slav-defence",
+      "https://www.chess.com/article/view/the-openings-of-world-champions-max-euwe-and-the-slav-defense",
+      "https://chessgames.com/perl/chessopening?eco=D10"
+    ]
+  },
+  {
     "id": "kt:soviet-chess-school",
     "title": "Soviet chess school",
     "aliases": [

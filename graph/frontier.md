@@ -15,10 +15,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:key-squares` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:zugzwang` |
 | `kt:mikhail-botvinnik` | `kt:soviet-chess-school`, `kt:garry-kasparov`, `kt:garry-kasparov` |
 | `kt:portable-game-notation` | `kt:algebraic-notation`, `kt:forsyth-edwards-notation`, `kt:forsyth-edwards-notation` |
+| `kt:queens-gambit-accepted` | `kt:isolated-queens-pawn`, `kt:queens-gambit`, `kt:slav-defence` |
+| `kt:queens-gambit-declined` | `kt:nimzo-indian-defence`, `kt:queens-gambit`, `kt:slav-defence` |
 | `kt:semi-open-games` | `kt:caro-kann-defence`, `kt:french-defence`, `kt:sicilian-defence` |
 | `kt:tigran-petrosian` | `kt:prophylaxis`, `kt:bobby-fischer`, `kt:sacrifice` |
 | `kt:adolf-anderssen` | `kt:romantic-era`, `kt:wilhelm-steinitz` |
 | `kt:alekhines-defence` | `kt:fischer-spassky-1972`, `kt:hypermodernism` |
+| `kt:alexander-alekhine` | `kt:slav-defence`, `kt:jose-raul-capablanca` |
 | `kt:alphazero` | `kt:evaluation-function`, `kt:chess-variants` |
 | `kt:boris-spassky` | `kt:fischer-spassky-1972`, `kt:bobby-fischer` |
 | `kt:candidate-moves` | `kt:prophylaxis`, `kt:calculation` |
@@ -44,8 +47,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:overprotection` | `kt:prophylaxis`, `kt:prophylaxis` |
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
-| `kt:queens-gambit-accepted` | `kt:isolated-queens-pawn`, `kt:queens-gambit` |
-| `kt:queens-gambit-declined` | `kt:nimzo-indian-defence`, `kt:queens-gambit` |
 | `kt:rule-of-the-square` | `kt:king-and-pawn-endgames`, `kt:passed-pawn` |
 | `kt:saavedra-position` | `kt:pawn-promotion`, `kt:endgame-study` |
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:zugzwang`, `kt:aron-nimzowitsch` |
@@ -64,7 +65,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:world-federation-for-chess-composition` | `kt:chess-composition`, `kt:codex-of-chess-composition` |
 | `kt:abraham-luchins` | `kt:einstellung-effect` |
 | `kt:albin-countergambit` | `kt:queens-gambit` |
-| `kt:alexander-alekhine` | `kt:jose-raul-capablanca` |
 | `kt:alexander-kotov` | `kt:calculation` |
 | `kt:alfred-binet` | `kt:cognitive-psychology-of-chess` |
 | `kt:allen-newell` | `kt:herbert-simon` |
@@ -133,6 +133,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:magnus-carlsen` | `kt:gukesh-dommaraju` |
 | `kt:marcus-kann` | `kt:caro-kann-defence` |
 | `kt:marshall-attack` | `kt:ruy-lopez` |
+| `kt:max-euwe` | `kt:slav-defence` |
 | `kt:max-lange` | `kt:helpmate` |
 | `kt:merim-bilalic` | `kt:einstellung-effect` |
 | `kt:miguel-najdorf` | `kt:najdorf-variation` |
@@ -168,9 +169,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:saint-louis-chess-club` | `kt:us-chess` |
 | `kt:samisch-variation` | `kt:nimzo-indian-defence` |
 | `kt:selfmate` | `kt:helpmate` |
+| `kt:semi-slav-defence` | `kt:slav-defence` |
 | `kt:shogi` | `kt:chess-variants` |
 | `kt:shuffle-chess` | `kt:chess960` |
-| `kt:slav-defence` | `kt:queens-gambit` |
 | `kt:smothered-mate` | `kt:einstellung-effect` |
 | `kt:solving-chess` | `kt:game-tree-search` |
 | `kt:static-exchange-evaluation` | `kt:quiescence-search` |
