@@ -1815,6 +1815,38 @@
 <https://github.com/john1hsu/chess-graph/id/pin> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> .
 <https://github.com/john1hsu/chess-graph/id/pin> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/pin> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/prophylaxis> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/prophylaxis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
+<https://github.com/john1hsu/chess-graph/id/prophylaxis> <http://www.w3.org/2000/01/rdf-schema#label> "Prophylaxis" .
+<https://github.com/john1hsu/chess-graph/id/prophylaxis> <http://www.w3.org/2004/02/skos/core#altLabel> "Preventive thinking" .
+<https://github.com/john1hsu/chess-graph/id/prophylaxis> <http://www.w3.org/2004/02/skos/core#altLabel> "Prophylactic move" .
+<https://github.com/john1hsu/chess-graph/id/prophylaxis> <http://www.w3.org/2004/02/skos/core#altLabel> "Prophylactic play" .
+<https://github.com/john1hsu/chess-graph/id/prophylaxis> <http://www.w3.org/2004/02/skos/core#altLabel> "Prophylactic thinking" .
+<https://github.com/john1hsu/chess-graph/id/prophylaxis> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-strategy> .
+<https://github.com/john1hsu/chess-graph/id/prophylaxis> <http://www.w3.org/2004/02/skos/core#definition> "The strategy of anticipating what the opponent wants to do and preventing it before it can be carried out; set out as a principle by Aron Nimzowitsch and later associated above all with Tigran Petrosian and Anatoly Karpov." .
+<https://github.com/john1hsu/chess-graph/id/prophylaxis> <http://www.w3.org/2004/02/skos/core#prefLabel> "Prophylaxis" .
+<https://github.com/john1hsu/chess-graph/id/prophylaxis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/anatoly-karpov> .
+<https://github.com/john1hsu/chess-graph/id/prophylaxis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/blockade> .
+<https://github.com/john1hsu/chess-graph/id/prophylaxis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/candidate-moves> .
+<https://github.com/john1hsu/chess-graph/id/prophylaxis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/hypermodernism> .
+<https://github.com/john1hsu/chess-graph/id/prophylaxis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/overprotection> .
+<https://github.com/john1hsu/chess-graph/id/prophylaxis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/restraint> .
+<https://github.com/john1hsu/chess-graph/id/prophylaxis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s1> .
+<https://github.com/john1hsu/chess-graph/id/prophylaxis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s2> .
+<https://github.com/john1hsu/chess-graph/id/prophylaxis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s3> .
+<https://github.com/john1hsu/chess-graph/id/prophylaxis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s4> .
+<https://github.com/john1hsu/chess-graph/id/prophylaxis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s5> .
+<https://github.com/john1hsu/chess-graph/id/prophylaxis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s6> .
+<https://github.com/john1hsu/chess-graph/id/prophylaxis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s7> .
+<https://github.com/john1hsu/chess-graph/id/prophylaxis> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/anatoly-karpov> .
+<https://github.com/john1hsu/chess-graph/id/prophylaxis> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> .
+<https://github.com/john1hsu/chess-graph/id/prophylaxis> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/tigran-petrosian> .
+<https://github.com/john1hsu/chess-graph/id/prophylaxis> <https://github.com/john1hsu/chess-graph/ontology#domain> "middlegame-strategy" .
+<https://github.com/john1hsu/chess-graph/id/prophylaxis> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/karpov-versus-unzicker-nice-1974> .
+<https://github.com/john1hsu/chess-graph/id/prophylaxis> <https://github.com/john1hsu/chess-graph/ontology#fen> "r1rq1bk1/Bn1b1p1p/3p1np1/1p1Pp3/1Pp1P3/2P2NNP/R2Q1PP1/1B2R1K1 b - - 3 24" .
+<https://github.com/john1hsu/chess-graph/id/prophylaxis> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/overprotection> .
+<https://github.com/john1hsu/chess-graph/id/prophylaxis> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/prophylaxis> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/queens-gambit> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/queens-gambit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Opening> .
 <https://github.com/john1hsu/chess-graph/id/queens-gambit> <http://www.w3.org/2000/01/rdf-schema#label> "Queen's Gambit" .
@@ -3828,6 +3860,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/pin/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/pin/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/pin/s5> <https://schema.org/url> "https://www.chess.com/terms/pin-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s1> <http://purl.org/dc/terms/publisher> "Aron Nimzowitsch, Quality Chess (2007 edition)" .
+<https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s1> <http://purl.org/dc/terms/title> "My System (excerpt, with foreword by Artur Yusupov)" .
+<https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s1> <https://schema.org/url> "https://qualitychess.co.uk/wp-content/uploads/2024/02/MySystem-excerpt.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s2> <http://purl.org/dc/terms/publisher> "Aron Nimzowitsch, transl. Robert Sherwood, New In Chess (2016)" .
+<https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s2> <http://purl.org/dc/terms/title> "My System & Chess Praxis (sample pages)" .
+<https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s2> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/9027.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s3> <http://purl.org/dc/terms/publisher> "Mark Dvoretsky, Russell Enterprises (2015)" .
+<https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s3> <http://purl.org/dc/terms/title> "Recognizing Your Opponent's Resources: Developing Preventive Thinking (excerpt)" .
+<https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s3> <https://schema.org/url> "https://shop.chess-tigers.de/cdn/shop/files/recognising.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s4> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s4> <http://purl.org/dc/terms/title> "Tigran Vartanovich Petrosyan" .
+<https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s4> <https://schema.org/url> "https://www.britannica.com/biography/Tigran-Vartanovich-Petrosyan" .
+<https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s5> <http://purl.org/dc/terms/publisher> "GM Gregory Serper, Chess.com (13 May 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s5> <http://purl.org/dc/terms/title> "The Most Important Concept In Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s5> <https://schema.org/url> "https://www.chess.com/article/view/prophylaxis-in-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s6> <http://purl.org/dc/terms/publisher> "IM Herman Grooten, ChessBase News (6 February 2022)" .
+<https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s6> <http://purl.org/dc/terms/title> "Understanding before Moving 65: Prophylaxis" .
+<https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s6> <https://schema.org/url> "https://en.chessbase.com/post/understanding-before-moving-65-prophylaxis" .
+<https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s7> <http://purl.org/dc/terms/publisher> "Rafael Leitão (GM), rafaelleitao.com" .
+<https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s7> <http://purl.org/dc/terms/title> "Karpov x Unzicker" .
+<https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s7> <https://schema.org/url> "https://rafaelleitao.com/karpov-x-unzicker" .
 <https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s1> <http://purl.org/dc/terms/publisher> "Chess.com openings reference" .
 <https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s1> <http://purl.org/dc/terms/title> "Queen's Gambit" .
 <https://github.com/john1hsu/chess-graph/id/source/queens-gambit/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

@@ -20,11 +20,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:key-squares` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:zugzwang` |
 | `kt:mikhail-botvinnik` | `kt:soviet-chess-school`, `kt:garry-kasparov`, `kt:garry-kasparov` |
 | `kt:portable-game-notation` | `kt:algebraic-notation`, `kt:forsyth-edwards-notation`, `kt:forsyth-edwards-notation` |
-| `kt:prophylaxis` | `kt:hypermodernism`, `kt:blockade`, `kt:anatoly-karpov` |
 | `kt:sacrifice` | `kt:material-advantage`, `kt:material-advantage`, `kt:combination` |
 | `kt:semi-open-games` | `kt:caro-kann-defence`, `kt:french-defence`, `kt:sicilian-defence` |
 | `kt:template-theory` | `kt:adriaan-de-groot`, `kt:chunking-theory`, `kt:einstellung-effect` |
 | `kt:bishop-pair` | `kt:material-advantage`, `kt:nimzo-indian-defence` |
+| `kt:candidate-moves` | `kt:prophylaxis`, `kt:calculation` |
 | `kt:checkmate` | `kt:stalemate`, `kt:helpmate` |
 | `kt:chess-organizations` | `kt:fide`, `kt:us-chess` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
@@ -34,10 +34,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hanging-pawns` | `kt:isolated-queens-pawn`, `kt:pawn-structure` |
 | `kt:hastings-1895` | `kt:emanuel-lasker`, `kt:wilhelm-steinitz` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
+| `kt:karpov-versus-unzicker-nice-1974` | `kt:prophylaxis`, `kt:anatoly-karpov` |
 | `kt:leela-chess-zero` | `kt:computer-chess`, `kt:monte-carlo-tree-search` |
 | `kt:move-ordering` | `kt:alpha-beta-pruning`, `kt:quiescence-search` |
 | `kt:nnue` | `kt:computer-chess`, `kt:evaluation-function` |
 | `kt:origins-of-chess` | `kt:chaturanga`, `kt:history-of-chess` |
+| `kt:overprotection` | `kt:prophylaxis`, `kt:prophylaxis` |
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
 | `kt:queens-gambit-accepted` | `kt:isolated-queens-pawn`, `kt:queens-gambit` |
@@ -52,6 +54,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:sveshnikov-variation` | `kt:outpost`, `kt:sicilian-defence` |
 | `kt:talent` | `kt:chess-expertise`, `kt:deliberate-practice` |
 | `kt:threefold-repetition` | `kt:en-passant`, `kt:fide-laws-of-chess` |
+| `kt:tigran-petrosian` | `kt:prophylaxis`, `kt:bobby-fischer` |
 | `kt:transposition-table` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:us-chess-championship` | `kt:us-chess`, `kt:bobby-fischer` |
 | `kt:visualization` | `kt:calculation`, `kt:chunking-theory` |
@@ -78,7 +81,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:boris-spassky` | `kt:bobby-fischer` |
 | `kt:botvinnik-versus-capablanca-avro-1938` | `kt:soviet-chess-school` |
 | `kt:breakthrough` | `kt:passed-pawn` |
-| `kt:candidate-moves` | `kt:calculation` |
 | `kt:carlsbad-1929` | `kt:aron-nimzowitsch` |
 | `kt:carlsbad-structure` | `kt:pawn-structure` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
@@ -111,7 +113,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:johannes-zukertort` | `kt:wilhelm-steinitz` |
 | `kt:john-mccarthy` | `kt:alpha-beta-pruning` |
 | `kt:john-von-neumann` | `kt:minimax` |
-| `kt:karpov-versus-unzicker-nice-1974` | `kt:anatoly-karpov` |
 | `kt:kasparov-versus-topalov-wijk-aan-zee-1999` | `kt:garry-kasparov` |
 | `kt:ken-thompson` | `kt:endgame-tablebases` |
 | `kt:king-safety` | `kt:castling` |
@@ -142,6 +143,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:proof-number-search` | `kt:game-tree-search` |
 | `kt:puzzle-training` | `kt:deliberate-practice` |
 | `kt:remi-coulom` | `kt:monte-carlo-tree-search` |
+| `kt:restraint` | `kt:prophylaxis` |
 | `kt:reti-opening` | `kt:hypermodernism` |
 | `kt:reti-versus-bogoljubow-new-york-1924` | `kt:hypermodernism` |
 | `kt:retractor` | `kt:retrograde-analysis` |
@@ -164,7 +166,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:team-chess` | `kt:chess-olympiad` |
 | `kt:the-exchange` | `kt:material-advantage` |
 | `kt:tie-break-regulations` | `kt:chess-olympiad` |
-| `kt:tigran-petrosian` | `kt:bobby-fischer` |
 | `kt:underpromotion` | `kt:pawn-promotion` |
 | `kt:universal-chess-interface` | `kt:chess960` |
 | `kt:vancura-position` | `kt:rook-endgames` |

@@ -1627,6 +1627,32 @@
     ]
   },
   {
+    "id": "kt:prophylaxis",
+    "title": "Prophylaxis",
+    "aliases": [
+      "Prophylactic thinking",
+      "Prophylactic move",
+      "Preventive thinking",
+      "Prophylactic play"
+    ],
+    "type": "StrategicConcept",
+    "domain": "middlegame-strategy",
+    "file": "articles/middlegame-strategy/prophylaxis.md",
+    "created": "2026-11-11",
+    "verified": "2026-11-11",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://qualitychess.co.uk/wp-content/uploads/2024/02/MySystem-excerpt.pdf",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/9027.pdf",
+      "https://shop.chess-tigers.de/cdn/shop/files/recognising.pdf",
+      "https://www.britannica.com/biography/Tigran-Vartanovich-Petrosyan",
+      "https://www.chess.com/article/view/prophylaxis-in-chess",
+      "https://en.chessbase.com/post/understanding-before-moving-65-prophylaxis",
+      "https://rafaelleitao.com/karpov-x-unzicker"
+    ]
+  },
+  {
     "id": "kt:queens-gambit",
     "title": "Queen's Gambit",
     "aliases": [
