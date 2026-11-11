@@ -1265,6 +1265,33 @@
     ]
   },
   {
+    "id": "kt:good-and-bad-bishops",
+    "title": "Good and bad bishops",
+    "aliases": [
+      "Bad bishop",
+      "Good bishop",
+      "Good bishop versus bad bishop",
+      "Bad bishops",
+      "Good bishops"
+    ],
+    "type": "StrategicConcept",
+    "domain": "middlegame-strategy",
+    "file": "articles/middlegame-strategy/good-and-bad-bishops.md",
+    "created": "2026-11-11",
+    "verified": "2026-11-11",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://gutenberg.org/cache/epub/33870/pg33870-images.html",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/7438.pdf",
+      "https://www.britannica.com/topic/bishop-chess",
+      "https://en.chessbase.com/newsroom/post/understanding-before-moving-43-good-bishops-bad-bishops",
+      "https://en.chessbase.com/post/understanding-before-moving-18-the-bad-bishop",
+      "https://www.chess.com/article/view/how-bad-is-a-bad-bishop?page=2",
+      "https://www.chessprogramming.org/Bad_Bishop"
+    ]
+  },
+  {
     "id": "kt:grandmaster-title",
     "title": "Grandmaster title",
     "aliases": [

@@ -31,7 +31,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:evans-gambit` | `kt:romantic-era`, `kt:italian-game` |
 | `kt:excelsior` | `kt:chess-composition`, `kt:chess-problems` |
 | `kt:francois-andre-danican-philidor` | `kt:philidor-position`, `kt:pawn-structure` |
-| `kt:good-and-bad-bishops` | `kt:bishop-pair`, `kt:french-defence` |
 | `kt:hanging-pawns` | `kt:isolated-queens-pawn`, `kt:pawn-structure` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:ju-wenjun` | `kt:womens-world-chess-championship`, `kt:womens-world-chess-championship` |
@@ -40,6 +39,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:move-ordering` | `kt:alpha-beta-pruning`, `kt:quiescence-search` |
 | `kt:nnue` | `kt:computer-chess`, `kt:evaluation-function` |
 | `kt:open-games` | `kt:italian-game`, `kt:ruy-lopez` |
+| `kt:opposite-coloured-bishops` | `kt:bishop-pair`, `kt:good-and-bad-bishops` |
 | `kt:origins-of-chess` | `kt:chaturanga`, `kt:history-of-chess` |
 | `kt:overprotection` | `kt:prophylaxis`, `kt:prophylaxis` |
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
@@ -121,6 +121,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ken-thompson` | `kt:endgame-tablebases` |
 | `kt:king-safety` | `kt:castling` |
 | `kt:kings-indian-defence` | `kt:soviet-chess-school` |
+| `kt:knight-versus-bishop` | `kt:good-and-bad-bishops` |
 | `kt:lasker-capablanca-havana-1921-game-10` | `kt:jose-raul-capablanca` |
 | `kt:lasker-capablanca-st-petersburg-1914` | `kt:emanuel-lasker` |
 | `kt:lasker-versus-bauer-amsterdam-1889` | `kt:combination` |
@@ -139,7 +140,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:negamax` | `kt:minimax` |
 | `kt:open-ruy-lopez` | `kt:ruy-lopez` |
 | `kt:opening-repertoire` | `kt:template-theory` |
-| `kt:opposite-coloured-bishops` | `kt:bishop-pair` |
 | `kt:otto-selz` | `kt:adriaan-de-groot` |
 | `kt:panov-botvinnik-attack` | `kt:caro-kann-defence` |
 | `kt:passive-rook-defence` | `kt:philidor-position` |

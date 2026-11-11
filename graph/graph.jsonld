@@ -3619,6 +3619,105 @@
       ]
     },
     {
+      "@id": "kt:good-and-bad-bishops",
+      "@type": "kto:StrategicConcept",
+      "skos:prefLabel": "Good and bad bishops",
+      "skos:definition": "The distinction between a bishop whose scope is free of its own pawns (a \"good\" bishop) and one hemmed in by its own pawns fixed on squares of its colour (a \"bad\" bishop); because pawn chains change slowly, the difference is semi-permanent and shapes plans, exchanges and endgames.",
+      "kto:domain": "middlegame-strategy",
+      "dcterms:created": "2026-11-11",
+      "kto:verified": "2026-11-11",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Chess Fundamentals (section 14, 'The Relative Value of Knight and Bishop')",
+          "dcterms:publisher": "José Raúl Capablanca, 1921; Project Gutenberg edition",
+          "schema:url": "https://gutenberg.org/cache/epub/33870/pg33870-images.html",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The Secret Life of Bad Bishops (sample pages)",
+          "dcterms:publisher": "Esben Lund, Quality Chess, 2014; excerpt hosted by New In Chess",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/7438.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Bishop (chess)",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/bishop-chess",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Understanding before Moving 43: Good bishops, bad bishops",
+          "dcterms:publisher": "Herman Grooten, ChessBase News (16 September 2021)",
+          "schema:url": "https://en.chessbase.com/newsroom/post/understanding-before-moving-43-good-bishops-bad-bishops",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Understanding before Moving 18: The bad bishop",
+          "dcterms:publisher": "Herman Grooten, ChessBase News (14 March 2021)",
+          "schema:url": "https://en.chessbase.com/post/understanding-before-moving-18-the-bad-bishop",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "How Bad is a Bad Bishop?",
+          "dcterms:publisher": "WIM Iryna Zenyuk, Chess.com (updated 26 May 2009)",
+          "schema:url": "https://www.chess.com/article/view/how-bad-is-a-bad-bishop?page=2",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Bad Bishop",
+          "dcterms:publisher": "Chess Programming Wiki",
+          "schema:url": "https://www.chessprogramming.org/Bad_Bishop",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/middlegame-strategy/good-and-bad-bishops.md",
+      "skos:altLabel": [
+        "Bad bishop",
+        "Good bishop",
+        "Good bishop versus bad bishop",
+        "Bad bishops",
+        "Good bishops"
+      ],
+      "kto:fen": "2b5/4k3/4p1p1/1pNpP2p/1P1P1K1P/6P1/8/8 b - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-strategy"
+        },
+        {
+          "@id": "kt:pawn-structure"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:bishop-pair"
+        },
+        {
+          "@id": "kt:french-defence"
+        },
+        {
+          "@id": "kt:outpost"
+        },
+        {
+          "@id": "kt:blockade"
+        },
+        {
+          "@id": "kt:opposite-coloured-bishops"
+        }
+      ],
+      "kto:championedBy": [
+        {
+          "@id": "kt:jose-raul-capablanca"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:knight-versus-bishop"
+        }
+      ]
+    },
+    {
       "@id": "kt:isolated-queens-pawn",
       "@type": "kto:PawnStructure",
       "skos:prefLabel": "Isolated queen's pawn",

@@ -1415,6 +1415,36 @@
 <https://github.com/john1hsu/chess-graph/id/garry-kasparov> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> .
 <https://github.com/john1hsu/chess-graph/id/garry-kasparov> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/garry-kasparov> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
+<https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> <http://www.w3.org/2000/01/rdf-schema#label> "Good and bad bishops" .
+<https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> <http://www.w3.org/2004/02/skos/core#altLabel> "Bad bishop" .
+<https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> <http://www.w3.org/2004/02/skos/core#altLabel> "Bad bishops" .
+<https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> <http://www.w3.org/2004/02/skos/core#altLabel> "Good bishop versus bad bishop" .
+<https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> <http://www.w3.org/2004/02/skos/core#altLabel> "Good bishop" .
+<https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> <http://www.w3.org/2004/02/skos/core#altLabel> "Good bishops" .
+<https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-strategy> .
+<https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/pawn-structure> .
+<https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> <http://www.w3.org/2004/02/skos/core#definition> "The distinction between a bishop whose scope is free of its own pawns (a \"good\" bishop) and one hemmed in by its own pawns fixed on squares of its colour (a \"bad\" bishop); because pawn chains change slowly, the difference is semi-permanent and shapes plans, exchanges and endgames." .
+<https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> <http://www.w3.org/2004/02/skos/core#prefLabel> "Good and bad bishops" .
+<https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/bishop-pair> .
+<https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/blockade> .
+<https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/french-defence> .
+<https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> .
+<https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/outpost> .
+<https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s1> .
+<https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s2> .
+<https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s3> .
+<https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s4> .
+<https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s5> .
+<https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s6> .
+<https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s7> .
+<https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> .
+<https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/knight-versus-bishop> .
+<https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> <https://github.com/john1hsu/chess-graph/ontology#domain> "middlegame-strategy" .
+<https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> <https://github.com/john1hsu/chess-graph/ontology#fen> "2b5/4k3/4p1p1/1pNpP2p/1P1P1K1P/6P1/8/8 b - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/grandmaster-title> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/grandmaster-title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Title> .
 <https://github.com/john1hsu/chess-graph/id/grandmaster-title> <http://www.w3.org/2000/01/rdf-schema#label> "Grandmaster title" .
@@ -3820,6 +3850,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/garry-kasparov/s6> <https://schema.org/url> "https://www.chess.com/news/view/25-years-ago-kasparov-topalov-1999" .
+<https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s1> <http://purl.org/dc/terms/publisher> "José Raúl Capablanca, 1921; Project Gutenberg edition" .
+<https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s1> <http://purl.org/dc/terms/title> "Chess Fundamentals (section 14, 'The Relative Value of Knight and Bishop')" .
+<https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s1> <https://schema.org/url> "https://gutenberg.org/cache/epub/33870/pg33870-images.html" .
+<https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s2> <http://purl.org/dc/terms/publisher> "Esben Lund, Quality Chess, 2014; excerpt hosted by New In Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s2> <http://purl.org/dc/terms/title> "The Secret Life of Bad Bishops (sample pages)" .
+<https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s2> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/7438.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s3> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s3> <http://purl.org/dc/terms/title> "Bishop (chess)" .
+<https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s3> <https://schema.org/url> "https://www.britannica.com/topic/bishop-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s4> <http://purl.org/dc/terms/publisher> "Herman Grooten, ChessBase News (16 September 2021)" .
+<https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s4> <http://purl.org/dc/terms/title> "Understanding before Moving 43: Good bishops, bad bishops" .
+<https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s4> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/understanding-before-moving-43-good-bishops-bad-bishops" .
+<https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s5> <http://purl.org/dc/terms/publisher> "Herman Grooten, ChessBase News (14 March 2021)" .
+<https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s5> <http://purl.org/dc/terms/title> "Understanding before Moving 18: The bad bishop" .
+<https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s5> <https://schema.org/url> "https://en.chessbase.com/post/understanding-before-moving-18-the-bad-bishop" .
+<https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s6> <http://purl.org/dc/terms/publisher> "WIM Iryna Zenyuk, Chess.com (updated 26 May 2009)" .
+<https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s6> <http://purl.org/dc/terms/title> "How Bad is a Bad Bishop?" .
+<https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s6> <https://schema.org/url> "https://www.chess.com/article/view/how-bad-is-a-bad-bishop?page=2" .
+<https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s7> <http://purl.org/dc/terms/publisher> "Chess Programming Wiki" .
+<https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s7> <http://purl.org/dc/terms/title> "Bad Bishop" .
+<https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s7> <https://schema.org/url> "https://www.chessprogramming.org/Bad_Bishop" .
 <https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s1> <http://purl.org/dc/terms/publisher> "FIDE Handbook (B.01)" .
 <https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s1> <http://purl.org/dc/terms/title> "FIDE Title Regulations effective from 1 January 2024" .
 <https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
