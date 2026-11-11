@@ -1035,6 +1035,31 @@
     ]
   },
   {
+    "id": "kt:excelsior",
+    "title": "Excelsior",
+    "aliases": [
+      "Excelsior theme",
+      "Excelsior (chess problem)",
+      "Loyd's Excelsior",
+      "Pawn Excelsior"
+    ],
+    "type": "ProblemTheme",
+    "domain": "variants-and-compositions",
+    "file": "articles/variants-and-compositions/excelsior.md",
+    "created": "2026-11-11",
+    "verified": "2026-11-11",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.theproblemist.org/dloads/cjm/Chapter_19.pdf",
+      "https://worldchesshof.org/?p=775",
+      "https://www.britannica.com:443/biography/Sam-Loyd",
+      "https://www.ozproblems.com/glossary",
+      "https://en.chessbase.com/post/chess-problems-excelsior-again",
+      "https://en.chessbase.com/newsroom/post/chebase-puzzles-loyds-excelsior-261013"
+    ]
+  },
+  {
     "id": "kt:fair-play-regulations",
     "title": "Fair play regulations",
     "aliases": [

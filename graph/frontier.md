@@ -31,7 +31,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:dragon-variation` | `kt:najdorf-variation`, `kt:sicilian-defence` |
 | `kt:draw` | `kt:dead-position`, `kt:stalemate` |
 | `kt:evans-gambit` | `kt:romantic-era`, `kt:italian-game` |
-| `kt:excelsior` | `kt:chess-composition`, `kt:chess-problems` |
 | `kt:francois-andre-danican-philidor` | `kt:philidor-position`, `kt:pawn-structure` |
 | `kt:hanging-pawns` | `kt:isolated-queens-pawn`, `kt:pawn-structure` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
@@ -58,6 +57,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:talent` | `kt:chess-expertise`, `kt:deliberate-practice` |
 | `kt:threefold-repetition` | `kt:en-passant`, `kt:fide-laws-of-chess` |
 | `kt:transposition-table` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
+| `kt:underpromotion` | `kt:pawn-promotion`, `kt:excelsior` |
 | `kt:us-chess-championship` | `kt:us-chess`, `kt:bobby-fischer` |
 | `kt:visualization` | `kt:calculation`, `kt:chunking-theory` |
 | `kt:vladimir-kramnik` | `kt:ruy-lopez`, `kt:garry-kasparov` |
@@ -68,6 +68,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alexander-kotov` | `kt:calculation` |
 | `kt:alfred-binet` | `kt:cognitive-psychology-of-chess` |
 | `kt:allen-newell` | `kt:herbert-simon` |
+| `kt:allumwandlung` | `kt:excelsior` |
 | `kt:anders-ericsson` | `kt:deliberate-practice` |
 | `kt:arpad-elo` | `kt:elo-rating-system` |
 | `kt:artificial-intelligence` | `kt:computer-chess` |
@@ -167,6 +168,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:rudolf-spielmann` | `kt:sacrifice` |
 | `kt:ruy-lopez-de-segura` | `kt:ruy-lopez` |
 | `kt:saint-louis-chess-club` | `kt:us-chess` |
+| `kt:sam-loyd` | `kt:excelsior` |
 | `kt:samisch-variation` | `kt:nimzo-indian-defence` |
 | `kt:selfmate` | `kt:helpmate` |
 | `kt:semi-slav-defence` | `kt:slav-defence` |
@@ -183,7 +185,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:the-exchange` | `kt:material-advantage` |
 | `kt:tie-break-regulations` | `kt:chess-olympiad` |
 | `kt:two-knights-defence` | `kt:italian-game` |
-| `kt:underpromotion` | `kt:pawn-promotion` |
 | `kt:universal-chess-interface` | `kt:chess960` |
 | `kt:vancura-position` | `kt:rook-endgames` |
 | `kt:vera-menchik` | `kt:womens-world-chess-championship` |

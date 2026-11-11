@@ -58,6 +58,8 @@ kto:Variant         a owl:Class ; rdfs:subClassOf kto:Entity , schema:Game ;
     rdfs:comment "A chess variant or historical predecessor: Chess960, bughouse, chaturanga, shatranj." .
 kto:ProblemGenre    a owl:Class ; rdfs:subClassOf kto:Concept ;
     rdfs:comment "A genre of composed chess: endgame studies, mate-in-n problems, helpmates, retrograde analysis." .
+kto:ProblemTheme    a owl:Class ; rdfs:subClassOf kto:Concept ; rdfs:label "Problem theme" ;
+    rdfs:comment "A named idea or task shown in composed chess: Excelsior, Allumwandlung, Grimshaw, Novotny." .
 
 # People, competition and institutions
 kto:Person          a owl:Class ; rdfs:subClassOf kto:Entity , schema:Person ;

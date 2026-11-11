@@ -1153,6 +1153,32 @@
 <https://github.com/john1hsu/chess-graph/id/evaluation-function> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/claude-shannon> .
 <https://github.com/john1hsu/chess-graph/id/evaluation-function> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/evaluation-function> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-07" .
+<https://github.com/john1hsu/chess-graph/id/excelsior> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/excelsior> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#ProblemTheme> .
+<https://github.com/john1hsu/chess-graph/id/excelsior> <http://www.w3.org/2000/01/rdf-schema#label> "Excelsior" .
+<https://github.com/john1hsu/chess-graph/id/excelsior> <http://www.w3.org/2004/02/skos/core#altLabel> "Excelsior (chess problem)" .
+<https://github.com/john1hsu/chess-graph/id/excelsior> <http://www.w3.org/2004/02/skos/core#altLabel> "Excelsior theme" .
+<https://github.com/john1hsu/chess-graph/id/excelsior> <http://www.w3.org/2004/02/skos/core#altLabel> "Loyd's Excelsior" .
+<https://github.com/john1hsu/chess-graph/id/excelsior> <http://www.w3.org/2004/02/skos/core#altLabel> "Pawn Excelsior" .
+<https://github.com/john1hsu/chess-graph/id/excelsior> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-problems> .
+<https://github.com/john1hsu/chess-graph/id/excelsior> <http://www.w3.org/2004/02/skos/core#definition> "A chess problem theme in which a pawn standing on its starting square in the diagram walks all the way up the board and promotes during the solution; named after Sam Loyd's 1861 mate-in-five." .
+<https://github.com/john1hsu/chess-graph/id/excelsior> <http://www.w3.org/2004/02/skos/core#prefLabel> "Excelsior" .
+<https://github.com/john1hsu/chess-graph/id/excelsior> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/allumwandlung> .
+<https://github.com/john1hsu/chess-graph/id/excelsior> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-composition> .
+<https://github.com/john1hsu/chess-graph/id/excelsior> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/helpmate> .
+<https://github.com/john1hsu/chess-graph/id/excelsior> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/pawn-promotion> .
+<https://github.com/john1hsu/chess-graph/id/excelsior> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/excelsior/s1> .
+<https://github.com/john1hsu/chess-graph/id/excelsior> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/excelsior/s2> .
+<https://github.com/john1hsu/chess-graph/id/excelsior> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/excelsior/s3> .
+<https://github.com/john1hsu/chess-graph/id/excelsior> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/excelsior/s4> .
+<https://github.com/john1hsu/chess-graph/id/excelsior> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/excelsior/s5> .
+<https://github.com/john1hsu/chess-graph/id/excelsior> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/excelsior/s6> .
+<https://github.com/john1hsu/chess-graph/id/excelsior> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/sam-loyd> .
+<https://github.com/john1hsu/chess-graph/id/excelsior> <https://github.com/john1hsu/chess-graph/ontology#domain> "variants-and-compositions" .
+<https://github.com/john1hsu/chess-graph/id/excelsior> <https://github.com/john1hsu/chess-graph/ontology#fen> "8/K1N1p3/2k1N3/4P3/8/8/1P6/8 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/excelsior> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/excelsior> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/underpromotion> .
+<https://github.com/john1hsu/chess-graph/id/excelsior> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/fair-play-regulations> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/fair-play-regulations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Rule> .
 <https://github.com/john1hsu/chess-graph/id/fair-play-regulations> <http://www.w3.org/2000/01/rdf-schema#label> "Fair play regulations" .
@@ -3662,6 +3688,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
 <https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s7> <https://schema.org/url> "https://github.com/official-stockfish/Stockfish/blob/master/src/evaluate.cpp" .
+<https://github.com/john1hsu/chess-graph/id/source/excelsior/s1> <http://purl.org/dc/terms/publisher> "Jeremy Morse; hosted by the British Chess Problem Society (The Problemist)" .
+<https://github.com/john1hsu/chess-graph/id/source/excelsior/s1> <http://purl.org/dc/terms/title> "Chess Problems: Tasks and Records (3rd edition), Chapter 19: Onwards and Upwards" .
+<https://github.com/john1hsu/chess-graph/id/source/excelsior/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/excelsior/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/excelsior/s1> <https://schema.org/url> "https://www.theproblemist.org/dloads/cjm/Chapter_19.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/excelsior/s2> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
+<https://github.com/john1hsu/chess-graph/id/source/excelsior/s2> <http://purl.org/dc/terms/title> "Sam Loyd (1841–1911)" .
+<https://github.com/john1hsu/chess-graph/id/source/excelsior/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/excelsior/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/excelsior/s2> <https://schema.org/url> "https://worldchesshof.org/?p=775" .
+<https://github.com/john1hsu/chess-graph/id/source/excelsior/s3> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/excelsior/s3> <http://purl.org/dc/terms/title> "Sam Loyd" .
+<https://github.com/john1hsu/chess-graph/id/source/excelsior/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/excelsior/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/excelsior/s3> <https://schema.org/url> "https://www.britannica.com:443/biography/Sam-Loyd" .
+<https://github.com/john1hsu/chess-graph/id/source/excelsior/s4> <http://purl.org/dc/terms/publisher> "Peter Wong, OzProblems" .
+<https://github.com/john1hsu/chess-graph/id/source/excelsior/s4> <http://purl.org/dc/terms/title> "Glossary" .
+<https://github.com/john1hsu/chess-graph/id/source/excelsior/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/excelsior/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/excelsior/s4> <https://schema.org/url> "https://www.ozproblems.com/glossary" .
+<https://github.com/john1hsu/chess-graph/id/source/excelsior/s5> <http://purl.org/dc/terms/publisher> "David Friedgood, ChessBase News (5 December 2013)" .
+<https://github.com/john1hsu/chess-graph/id/source/excelsior/s5> <http://purl.org/dc/terms/title> "Chess Problems: Excelsior Again" .
+<https://github.com/john1hsu/chess-graph/id/source/excelsior/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/excelsior/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/excelsior/s5> <https://schema.org/url> "https://en.chessbase.com/post/chess-problems-excelsior-again" .
+<https://github.com/john1hsu/chess-graph/id/source/excelsior/s6> <http://purl.org/dc/terms/publisher> "Frederic Friedel, ChessBase News (26 October 2013)" .
+<https://github.com/john1hsu/chess-graph/id/source/excelsior/s6> <http://purl.org/dc/terms/title> "ChessBase puzzles: Loyd's Excelsior" .
+<https://github.com/john1hsu/chess-graph/id/source/excelsior/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/excelsior/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/excelsior/s6> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/chebase-puzzles-loyds-excelsior-261013" .
 <https://github.com/john1hsu/chess-graph/id/source/fair-play-regulations/s1> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
 <https://github.com/john1hsu/chess-graph/id/source/fair-play-regulations/s1> <http://purl.org/dc/terms/title> "Fair Play Regulations (approved 10 November 2024, applied from 18 November 2024)" .
 <https://github.com/john1hsu/chess-graph/id/source/fair-play-regulations/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

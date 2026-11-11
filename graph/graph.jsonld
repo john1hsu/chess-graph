@@ -9007,6 +9007,92 @@
       ]
     },
     {
+      "@id": "kt:excelsior",
+      "@type": "kto:ProblemTheme",
+      "skos:prefLabel": "Excelsior",
+      "skos:definition": "A chess problem theme in which a pawn standing on its starting square in the diagram walks all the way up the board and promotes during the solution; named after Sam Loyd's 1861 mate-in-five.",
+      "kto:domain": "variants-and-compositions",
+      "dcterms:created": "2026-11-11",
+      "kto:verified": "2026-11-11",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Chess Problems: Tasks and Records (3rd edition), Chapter 19: Onwards and Upwards",
+          "dcterms:publisher": "Jeremy Morse; hosted by the British Chess Problem Society (The Problemist)",
+          "schema:url": "https://www.theproblemist.org/dloads/cjm/Chapter_19.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Sam Loyd (1841–1911)",
+          "dcterms:publisher": "World Chess Hall of Fame",
+          "schema:url": "https://worldchesshof.org/?p=775",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Sam Loyd",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com:443/biography/Sam-Loyd",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Glossary",
+          "dcterms:publisher": "Peter Wong, OzProblems",
+          "schema:url": "https://www.ozproblems.com/glossary",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "Chess Problems: Excelsior Again",
+          "dcterms:publisher": "David Friedgood, ChessBase News (5 December 2013)",
+          "schema:url": "https://en.chessbase.com/post/chess-problems-excelsior-again",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "ChessBase puzzles: Loyd's Excelsior",
+          "dcterms:publisher": "Frederic Friedel, ChessBase News (26 October 2013)",
+          "schema:url": "https://en.chessbase.com/newsroom/post/chebase-puzzles-loyds-excelsior-261013",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/variants-and-compositions/excelsior.md",
+      "skos:altLabel": [
+        "Excelsior theme",
+        "Excelsior (chess problem)",
+        "Loyd's Excelsior",
+        "Pawn Excelsior"
+      ],
+      "kto:fen": "8/K1N1p3/2k1N3/4P3/8/8/1P6/8 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-problems"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:pawn-promotion"
+        },
+        {
+          "@id": "kt:helpmate"
+        },
+        {
+          "@id": "kt:chess-composition"
+        },
+        {
+          "@id": "kt:allumwandlung"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:sam-loyd"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:underpromotion"
+        }
+      ]
+    },
+    {
       "@id": "kt:helpmate",
       "@type": "kto:ProblemGenre",
       "skos:prefLabel": "Helpmate",
