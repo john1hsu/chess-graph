@@ -1729,6 +1729,37 @@
 <https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/chess-graph/ontology#fen> "6k1/1q3ppp/8/8/8/8/1P3PPP/3R2K1 b - - 0 1" .
 <https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/najdorf-variation> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/najdorf-variation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Variation> .
+<https://github.com/john1hsu/chess-graph/id/najdorf-variation> <http://www.w3.org/2000/01/rdf-schema#label> "Najdorf Variation" .
+<https://github.com/john1hsu/chess-graph/id/najdorf-variation> <http://www.w3.org/2004/02/skos/core#altLabel> "5...a6 Sicilian" .
+<https://github.com/john1hsu/chess-graph/id/najdorf-variation> <http://www.w3.org/2004/02/skos/core#altLabel> "Najdorf Sicilian" .
+<https://github.com/john1hsu/chess-graph/id/najdorf-variation> <http://www.w3.org/2004/02/skos/core#altLabel> "Sicilian Defence Najdorf Variation" .
+<https://github.com/john1hsu/chess-graph/id/najdorf-variation> <http://www.w3.org/2004/02/skos/core#altLabel> "Sicilian Defense Najdorf Variation" .
+<https://github.com/john1hsu/chess-graph/id/najdorf-variation> <http://www.w3.org/2004/02/skos/core#altLabel> "Sicilian Najdorf" .
+<https://github.com/john1hsu/chess-graph/id/najdorf-variation> <http://www.w3.org/2004/02/skos/core#altLabel> "The Najdorf" .
+<https://github.com/john1hsu/chess-graph/id/najdorf-variation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/sicilian-defence> .
+<https://github.com/john1hsu/chess-graph/id/najdorf-variation> <http://www.w3.org/2004/02/skos/core#definition> "The line of the Open Sicilian 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6, in which Black spends a tempo on the quiet ...a6 to keep the choice between ...e5, ...e6 and ...g6 set-ups and prepare queenside expansion; one of the sharpest and most respected defences to 1.e4." .
+<https://github.com/john1hsu/chess-graph/id/najdorf-variation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Najdorf Variation" .
+<https://github.com/john1hsu/chess-graph/id/najdorf-variation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/dragon-variation> .
+<https://github.com/john1hsu/chess-graph/id/najdorf-variation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> .
+<https://github.com/john1hsu/chess-graph/id/najdorf-variation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/outpost> .
+<https://github.com/john1hsu/chess-graph/id/najdorf-variation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s1> .
+<https://github.com/john1hsu/chess-graph/id/najdorf-variation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s2> .
+<https://github.com/john1hsu/chess-graph/id/najdorf-variation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s3> .
+<https://github.com/john1hsu/chess-graph/id/najdorf-variation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s4> .
+<https://github.com/john1hsu/chess-graph/id/najdorf-variation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s5> .
+<https://github.com/john1hsu/chess-graph/id/najdorf-variation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s6> .
+<https://github.com/john1hsu/chess-graph/id/najdorf-variation> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/bobby-fischer> .
+<https://github.com/john1hsu/chess-graph/id/najdorf-variation> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/garry-kasparov> .
+<https://github.com/john1hsu/chess-graph/id/najdorf-variation> <https://github.com/john1hsu/chess-graph/ontology#domain> "openings" .
+<https://github.com/john1hsu/chess-graph/id/najdorf-variation> <https://github.com/john1hsu/chess-graph/ontology#eco> "B90" .
+<https://github.com/john1hsu/chess-graph/id/najdorf-variation> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/english-attack> .
+<https://github.com/john1hsu/chess-graph/id/najdorf-variation> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/poisoned-pawn-variation> .
+<https://github.com/john1hsu/chess-graph/id/najdorf-variation> <https://github.com/john1hsu/chess-graph/ontology#moves> "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6" .
+<https://github.com/john1hsu/chess-graph/id/najdorf-variation> <https://github.com/john1hsu/chess-graph/ontology#namedAfter> <https://github.com/john1hsu/chess-graph/id/miguel-najdorf> .
+<https://github.com/john1hsu/chess-graph/id/najdorf-variation> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/najdorf-variation> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/nimzo-indian-defence> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/nimzo-indian-defence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Opening> .
 <https://github.com/john1hsu/chess-graph/id/nimzo-indian-defence> <http://www.w3.org/2000/01/rdf-schema#label> "Nimzo-Indian Defence" .
@@ -4020,6 +4051,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
 <https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s5> <https://schema.org/url> "https://lczero.org/dev/overview" .
+<https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s1> <http://purl.org/dc/terms/publisher> "André Schulz, ChessBase News (15 April 2020)" .
+<https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s1> <http://purl.org/dc/terms/title> "Remembering Miguel Najdorf" .
+<https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s1> <https://schema.org/url> "https://en.chessbase.com/post/remembering-miguel-najdorf" .
+<https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s2> <http://purl.org/dc/terms/publisher> "Milos Pavlovic, Thinkers Publishing (2018), publisher sample PDF hosted by New In Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s2> <http://purl.org/dc/terms/title> "The Modernized Najdorf (sample pages)" .
+<https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s2> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/7889.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s3> <http://purl.org/dc/terms/publisher> "Lukasz Jarmula, Thinkers Publishing (2021), sample PDF" .
+<https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s3> <http://purl.org/dc/terms/title> "The Najdorf Bg5 Revisited, Volume 1 (sample pages)" .
+<https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s3> <https://schema.org/url> "https://shop.chess-tigers.de/cdn/shop/files/BG5-Najdorf-Vol-1.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s4> <http://purl.org/dc/terms/publisher> "John Doknjas and Joshua Doknjas, Everyman Chess (2018), New In Chess product page" .
+<https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s4> <http://purl.org/dc/terms/title> "Opening Repertoire: The Sicilian Najdorf" .
+<https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s4> <https://schema.org/url> "https://www.newinchess.com/opening-repertoire-the-sicilian-najdorf" .
+<https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s5> <http://purl.org/dc/terms/publisher> "Sample PDF hosted by Chess Tigers" .
+<https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s5> <http://purl.org/dc/terms/title> "Play the Najdorf Sicilian (sample pages)" .
+<https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s5> <https://schema.org/url> "https://shop.chess-tigers.de/cdn/shop/files/Play_the_Najdorf_Sicilian.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s6> <http://purl.org/dc/terms/publisher> "Chessgames.com" .
+<https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s6> <http://purl.org/dc/terms/title> "Sicilian, Najdorf (B90)" .
+<https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s6> <https://schema.org/url> "https://chessgames.com/perl/chessopening?eco=B90" .
 <https://github.com/john1hsu/chess-graph/id/source/nimzo-indian-defence/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
 <https://github.com/john1hsu/chess-graph/id/source/nimzo-indian-defence/s1> <http://purl.org/dc/terms/title> "Indian Openings in Chess" .
 <https://github.com/john1hsu/chess-graph/id/source/nimzo-indian-defence/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

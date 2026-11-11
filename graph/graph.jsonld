@@ -4177,6 +4177,103 @@
       ]
     },
     {
+      "@id": "kt:najdorf-variation",
+      "@type": "kto:Variation",
+      "skos:prefLabel": "Najdorf Variation",
+      "skos:definition": "The line of the Open Sicilian 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6, in which Black spends a tempo on the quiet ...a6 to keep the choice between ...e5, ...e6 and ...g6 set-ups and prepare queenside expansion; one of the sharpest and most respected defences to 1.e4.",
+      "kto:domain": "openings",
+      "dcterms:created": "2026-11-11",
+      "kto:verified": "2026-11-11",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Remembering Miguel Najdorf",
+          "dcterms:publisher": "André Schulz, ChessBase News (15 April 2020)",
+          "schema:url": "https://en.chessbase.com/post/remembering-miguel-najdorf",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The Modernized Najdorf (sample pages)",
+          "dcterms:publisher": "Milos Pavlovic, Thinkers Publishing (2018), publisher sample PDF hosted by New In Chess",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/7889.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The Najdorf Bg5 Revisited, Volume 1 (sample pages)",
+          "dcterms:publisher": "Lukasz Jarmula, Thinkers Publishing (2021), sample PDF",
+          "schema:url": "https://shop.chess-tigers.de/cdn/shop/files/BG5-Najdorf-Vol-1.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Opening Repertoire: The Sicilian Najdorf",
+          "dcterms:publisher": "John Doknjas and Joshua Doknjas, Everyman Chess (2018), New In Chess product page",
+          "schema:url": "https://www.newinchess.com/opening-repertoire-the-sicilian-najdorf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Play the Najdorf Sicilian (sample pages)",
+          "dcterms:publisher": "Sample PDF hosted by Chess Tigers",
+          "schema:url": "https://shop.chess-tigers.de/cdn/shop/files/Play_the_Najdorf_Sicilian.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Sicilian, Najdorf (B90)",
+          "dcterms:publisher": "Chessgames.com",
+          "schema:url": "https://chessgames.com/perl/chessopening?eco=B90",
+          "kto:sourceType": "database"
+        }
+      ],
+      "kto:file": "articles/openings/najdorf-variation.md",
+      "skos:altLabel": [
+        "Sicilian Najdorf",
+        "Najdorf Sicilian",
+        "Sicilian Defence Najdorf Variation",
+        "Sicilian Defense Najdorf Variation",
+        "The Najdorf",
+        "5...a6 Sicilian"
+      ],
+      "kto:eco": "B90",
+      "kto:moves": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6",
+      "skos:broader": [
+        {
+          "@id": "kt:sicilian-defence"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:dragon-variation"
+        },
+        {
+          "@id": "kt:outpost"
+        },
+        {
+          "@id": "kt:fischer-spassky-1972"
+        }
+      ],
+      "kto:namedAfter": [
+        {
+          "@id": "kt:miguel-najdorf"
+        }
+      ],
+      "kto:championedBy": [
+        {
+          "@id": "kt:bobby-fischer"
+        },
+        {
+          "@id": "kt:garry-kasparov"
+        }
+      ],
+      "kto:leadsTo": [
+        {
+          "@id": "kt:poisoned-pawn-variation"
+        },
+        {
+          "@id": "kt:english-attack"
+        }
+      ]
+    },
+    {
       "@id": "kt:nimzo-indian-defence",
       "@type": "kto:Opening",
       "skos:prefLabel": "Nimzo-Indian Defence",

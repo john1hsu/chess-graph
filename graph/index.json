@@ -1549,6 +1549,34 @@
     ]
   },
   {
+    "id": "kt:najdorf-variation",
+    "title": "Najdorf Variation",
+    "aliases": [
+      "Sicilian Najdorf",
+      "Najdorf Sicilian",
+      "Sicilian Defence Najdorf Variation",
+      "Sicilian Defense Najdorf Variation",
+      "The Najdorf",
+      "5...a6 Sicilian"
+    ],
+    "type": "Variation",
+    "domain": "openings",
+    "file": "articles/openings/najdorf-variation.md",
+    "created": "2026-11-11",
+    "verified": "2026-11-11",
+    "volatile": false,
+    "status": "current",
+    "eco": "B90",
+    "source_urls": [
+      "https://en.chessbase.com/post/remembering-miguel-najdorf",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/7889.pdf",
+      "https://shop.chess-tigers.de/cdn/shop/files/BG5-Najdorf-Vol-1.pdf",
+      "https://www.newinchess.com/opening-repertoire-the-sicilian-najdorf",
+      "https://shop.chess-tigers.de/cdn/shop/files/Play_the_Najdorf_Sicilian.pdf",
+      "https://chessgames.com/perl/chessopening?eco=B90"
+    ]
+  },
+  {
     "id": "kt:nimzo-indian-defence",
     "title": "Nimzo-Indian Defence",
     "aliases": [

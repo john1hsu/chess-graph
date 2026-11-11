@@ -11,6 +11,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position`, `kt:rook-endgames` |
 | `kt:double-check` | `kt:discovered-attack`, `kt:discovered-attack`, `kt:fork` |
 | `kt:fifty-move-rule` | `kt:endgame-tablebases`, `kt:fide-laws-of-chess`, `kt:forsyth-edwards-notation` |
+| `kt:fischer-spassky-1972` | `kt:world-chess-championship`, `kt:najdorf-variation`, `kt:bobby-fischer` |
 | `kt:gukesh-dommaraju` | `kt:candidates-tournament`, `kt:chess-olympiad`, `kt:world-chess-championship` |
 | `kt:hastings-1895` | `kt:emanuel-lasker`, `kt:siegbert-tarrasch`, `kt:wilhelm-steinitz` |
 | `kt:herbert-simon` | `kt:adriaan-de-groot`, `kt:chunking-theory`, `kt:cognitive-psychology-of-chess` |
@@ -27,10 +28,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chess-organizations` | `kt:fide`, `kt:us-chess` |
 | `kt:chess-titles` | `kt:arbiter`, `kt:grandmaster-title` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
+| `kt:dragon-variation` | `kt:najdorf-variation`, `kt:sicilian-defence` |
 | `kt:draw` | `kt:dead-position`, `kt:stalemate` |
 | `kt:evans-gambit` | `kt:romantic-era`, `kt:italian-game` |
 | `kt:excelsior` | `kt:chess-composition`, `kt:chess-problems` |
-| `kt:fischer-spassky-1972` | `kt:world-chess-championship`, `kt:bobby-fischer` |
 | `kt:francois-andre-danican-philidor` | `kt:philidor-position`, `kt:pawn-structure` |
 | `kt:good-and-bad-bishops` | `kt:bishop-pair`, `kt:french-defence` |
 | `kt:hanging-pawns` | `kt:isolated-queens-pawn`, `kt:pawn-structure` |
@@ -89,8 +90,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:david-forsyth` | `kt:forsyth-edwards-notation` |
 | `kt:deep-blue` | `kt:deep-blue-versus-kasparov` |
 | `kt:deflection` | `kt:zwischenzug` |
-| `kt:dragon-variation` | `kt:sicilian-defence` |
 | `kt:englisch-versus-steinitz-london-1883` | `kt:bishop-pair` |
+| `kt:english-attack` | `kt:najdorf-variation` |
 | `kt:european-chess-union` | `kt:fide` |
 | `kt:exchange-sacrifice` | `kt:sacrifice` |
 | `kt:extended-position-description` | `kt:forsyth-edwards-notation` |
@@ -129,10 +130,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:marshall-attack` | `kt:ruy-lopez` |
 | `kt:max-lange` | `kt:helpmate` |
 | `kt:merim-bilalic` | `kt:einstellung-effect` |
+| `kt:miguel-najdorf` | `kt:najdorf-variation` |
 | `kt:mikhail-chigorin` | `kt:wilhelm-steinitz` |
 | `kt:minority-attack` | `kt:pawn-structure` |
 | `kt:modena-school` | `kt:romantic-era` |
-| `kt:najdorf-variation` | `kt:sicilian-defence` |
 | `kt:negamax` | `kt:minimax` |
 | `kt:open-ruy-lopez` | `kt:ruy-lopez` |
 | `kt:opposite-coloured-bishops` | `kt:bishop-pair` |
@@ -142,6 +143,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:paul-morphy` | `kt:romantic-era` |
 | `kt:philipp-stamma` | `kt:algebraic-notation` |
 | `kt:piece-values` | `kt:material-advantage` |
+| `kt:poisoned-pawn-variation` | `kt:najdorf-variation` |
 | `kt:priority-and-anticipation` | `kt:codex-of-chess-composition` |
 | `kt:progressive-deepening` | `kt:calculation` |
 | `kt:proof-game` | `kt:retrograde-analysis` |
