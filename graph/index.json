@@ -179,6 +179,31 @@
     ]
   },
   {
+    "id": "kt:bitboards",
+    "title": "Bitboards",
+    "aliases": [
+      "Bitboard",
+      "Bitmaps (computer chess)",
+      "Bit boards",
+      "Rotated bitboards",
+      "Magic bitboards"
+    ],
+    "type": "Algorithm",
+    "domain": "computer-chess",
+    "file": "articles/computer-chess/bitboards.md",
+    "created": "2026-11-11",
+    "verified": "2026-11-11",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://arxiv.org/html/0704.3773",
+      "https://arxiv.org/pdf/2503.10822v1",
+      "https://content.iospress.com/articles/icga-journal/icg22403",
+      "https://www.chessprogramming.org/General_Setwise_Operations",
+      "https://www.chessprogramming.org/Pradu_Kannan"
+    ]
+  },
+  {
     "id": "kt:blockade",
     "title": "Blockade",
     "aliases": [

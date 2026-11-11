@@ -103,6 +103,93 @@
       ]
     },
     {
+      "@id": "kt:bitboards",
+      "@type": "kto:Algorithm",
+      "skos:prefLabel": "Bitboards",
+      "skos:definition": "A board representation used by chess engines in which a set of squares is stored as one 64-bit integer, one bit per square, so that questions about many squares at once (occupancy, attacks, pawn pushes) are answered with a few bitwise machine instructions.",
+      "kto:domain": "computer-chess",
+      "dcterms:created": "2026-11-11",
+      "kto:verified": "2026-11-11",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Avoiding Rotated Bitboards with Direct Lookup",
+          "dcterms:publisher": "Sam Tannous, arXiv:0704.3773",
+          "schema:url": "https://arxiv.org/html/0704.3773",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Rotated Bitboards in FUSc# and Reinforcement Learning in Computer Chess and Beyond (2025)",
+          "dcterms:publisher": "Johannes Buchner, arXiv:2503.10822",
+          "schema:url": "https://arxiv.org/pdf/2503.10822v1",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "ICGA Journal 22(4), 1999, pp. 213-222: article on rotated bitmaps (DOI 10.3233/ICG-1999-22403)",
+          "dcterms:publisher": "Robert M. Hyatt, IOS Press",
+          "schema:url": "https://content.iospress.com/articles/icga-journal/icg22403",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "General Setwise Operations",
+          "dcterms:publisher": "Chess Programming Wiki",
+          "schema:url": "https://www.chessprogramming.org/General_Setwise_Operations",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "Pradu Kannan",
+          "dcterms:publisher": "Chess Programming Wiki",
+          "schema:url": "https://www.chessprogramming.org/Pradu_Kannan",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/computer-chess/bitboards.md",
+      "skos:altLabel": [
+        "Bitboard",
+        "Bitmaps (computer chess)",
+        "Bit boards",
+        "Rotated bitboards",
+        "Magic bitboards"
+      ],
+      "kto:fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:computer-chess"
+        },
+        {
+          "@id": "kt:board-representation"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:move-generation"
+        },
+        {
+          "@id": "kt:game-tree-search"
+        },
+        {
+          "@id": "kt:evaluation-function"
+        },
+        {
+          "@id": "kt:stockfish"
+        },
+        {
+          "@id": "kt:robert-hyatt"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:kaissa"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:mailbox-board-representation"
+        }
+      ]
+    },
+    {
       "@id": "kt:claude-shannon",
       "@type": "kto:Person",
       "skos:prefLabel": "Claude Shannon",

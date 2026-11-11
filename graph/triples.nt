@@ -198,6 +198,34 @@
 <https://github.com/john1hsu/chess-graph/id/bishop-pair> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/englisch-versus-steinitz-london-1883> .
 <https://github.com/john1hsu/chess-graph/id/bishop-pair> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/bishop-pair> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/bitboards> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/bitboards> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Algorithm> .
+<https://github.com/john1hsu/chess-graph/id/bitboards> <http://www.w3.org/2000/01/rdf-schema#label> "Bitboards" .
+<https://github.com/john1hsu/chess-graph/id/bitboards> <http://www.w3.org/2004/02/skos/core#altLabel> "Bit boards" .
+<https://github.com/john1hsu/chess-graph/id/bitboards> <http://www.w3.org/2004/02/skos/core#altLabel> "Bitboard" .
+<https://github.com/john1hsu/chess-graph/id/bitboards> <http://www.w3.org/2004/02/skos/core#altLabel> "Bitmaps (computer chess)" .
+<https://github.com/john1hsu/chess-graph/id/bitboards> <http://www.w3.org/2004/02/skos/core#altLabel> "Magic bitboards" .
+<https://github.com/john1hsu/chess-graph/id/bitboards> <http://www.w3.org/2004/02/skos/core#altLabel> "Rotated bitboards" .
+<https://github.com/john1hsu/chess-graph/id/bitboards> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/board-representation> .
+<https://github.com/john1hsu/chess-graph/id/bitboards> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/computer-chess> .
+<https://github.com/john1hsu/chess-graph/id/bitboards> <http://www.w3.org/2004/02/skos/core#definition> "A board representation used by chess engines in which a set of squares is stored as one 64-bit integer, one bit per square, so that questions about many squares at once (occupancy, attacks, pawn pushes) are answered with a few bitwise machine instructions." .
+<https://github.com/john1hsu/chess-graph/id/bitboards> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bitboards" .
+<https://github.com/john1hsu/chess-graph/id/bitboards> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/evaluation-function> .
+<https://github.com/john1hsu/chess-graph/id/bitboards> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/game-tree-search> .
+<https://github.com/john1hsu/chess-graph/id/bitboards> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/move-generation> .
+<https://github.com/john1hsu/chess-graph/id/bitboards> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/robert-hyatt> .
+<https://github.com/john1hsu/chess-graph/id/bitboards> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/stockfish> .
+<https://github.com/john1hsu/chess-graph/id/bitboards> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bitboards/s1> .
+<https://github.com/john1hsu/chess-graph/id/bitboards> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bitboards/s2> .
+<https://github.com/john1hsu/chess-graph/id/bitboards> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bitboards/s3> .
+<https://github.com/john1hsu/chess-graph/id/bitboards> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bitboards/s4> .
+<https://github.com/john1hsu/chess-graph/id/bitboards> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bitboards/s5> .
+<https://github.com/john1hsu/chess-graph/id/bitboards> <https://github.com/john1hsu/chess-graph/ontology#alternativeTo> <https://github.com/john1hsu/chess-graph/id/mailbox-board-representation> .
+<https://github.com/john1hsu/chess-graph/id/bitboards> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/kaissa> .
+<https://github.com/john1hsu/chess-graph/id/bitboards> <https://github.com/john1hsu/chess-graph/ontology#domain> "computer-chess" .
+<https://github.com/john1hsu/chess-graph/id/bitboards> <https://github.com/john1hsu/chess-graph/ontology#fen> "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/bitboards> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/bitboards> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/blockade> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/blockade> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
 <https://github.com/john1hsu/chess-graph/id/blockade> <http://www.w3.org/2000/01/rdf-schema#label> "Blockade" .
@@ -2748,6 +2776,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
 <https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s6> <https://schema.org/url> "https://lichess.org/study/embed/MQt5Tzls/yQiLRprR" .
+<https://github.com/john1hsu/chess-graph/id/source/bitboards/s1> <http://purl.org/dc/terms/publisher> "Sam Tannous, arXiv:0704.3773" .
+<https://github.com/john1hsu/chess-graph/id/source/bitboards/s1> <http://purl.org/dc/terms/title> "Avoiding Rotated Bitboards with Direct Lookup" .
+<https://github.com/john1hsu/chess-graph/id/source/bitboards/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bitboards/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/bitboards/s1> <https://schema.org/url> "https://arxiv.org/html/0704.3773" .
+<https://github.com/john1hsu/chess-graph/id/source/bitboards/s2> <http://purl.org/dc/terms/publisher> "Johannes Buchner, arXiv:2503.10822" .
+<https://github.com/john1hsu/chess-graph/id/source/bitboards/s2> <http://purl.org/dc/terms/title> "Rotated Bitboards in FUSc# and Reinforcement Learning in Computer Chess and Beyond (2025)" .
+<https://github.com/john1hsu/chess-graph/id/source/bitboards/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bitboards/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/bitboards/s2> <https://schema.org/url> "https://arxiv.org/pdf/2503.10822v1" .
+<https://github.com/john1hsu/chess-graph/id/source/bitboards/s3> <http://purl.org/dc/terms/publisher> "Robert M. Hyatt, IOS Press" .
+<https://github.com/john1hsu/chess-graph/id/source/bitboards/s3> <http://purl.org/dc/terms/title> "ICGA Journal 22(4), 1999, pp. 213-222: article on rotated bitmaps (DOI 10.3233/ICG-1999-22403)" .
+<https://github.com/john1hsu/chess-graph/id/source/bitboards/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bitboards/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/bitboards/s3> <https://schema.org/url> "https://content.iospress.com/articles/icga-journal/icg22403" .
+<https://github.com/john1hsu/chess-graph/id/source/bitboards/s4> <http://purl.org/dc/terms/publisher> "Chess Programming Wiki" .
+<https://github.com/john1hsu/chess-graph/id/source/bitboards/s4> <http://purl.org/dc/terms/title> "General Setwise Operations" .
+<https://github.com/john1hsu/chess-graph/id/source/bitboards/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bitboards/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/bitboards/s4> <https://schema.org/url> "https://www.chessprogramming.org/General_Setwise_Operations" .
+<https://github.com/john1hsu/chess-graph/id/source/bitboards/s5> <http://purl.org/dc/terms/publisher> "Chess Programming Wiki" .
+<https://github.com/john1hsu/chess-graph/id/source/bitboards/s5> <http://purl.org/dc/terms/title> "Pradu Kannan" .
+<https://github.com/john1hsu/chess-graph/id/source/bitboards/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bitboards/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/bitboards/s5> <https://schema.org/url> "https://www.chessprogramming.org/Pradu_Kannan" .
 <https://github.com/john1hsu/chess-graph/id/source/blockade/s1> <http://purl.org/dc/terms/publisher> "Aron Nimzowitsch, Quality Chess (2007 edition)" .
 <https://github.com/john1hsu/chess-graph/id/source/blockade/s1> <http://purl.org/dc/terms/title> "My System (excerpt)" .
 <https://github.com/john1hsu/chess-graph/id/source/blockade/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

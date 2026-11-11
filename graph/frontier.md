@@ -18,6 +18,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:queens-gambit-accepted` | `kt:isolated-queens-pawn`, `kt:queens-gambit`, `kt:slav-defence` |
 | `kt:queens-gambit-declined` | `kt:nimzo-indian-defence`, `kt:queens-gambit`, `kt:slav-defence` |
 | `kt:semi-open-games` | `kt:caro-kann-defence`, `kt:french-defence`, `kt:sicilian-defence` |
+| `kt:stockfish` | `kt:bitboards`, `kt:computer-chess`, `kt:endgame-tablebases` |
 | `kt:tigran-petrosian` | `kt:prophylaxis`, `kt:bobby-fischer`, `kt:sacrifice` |
 | `kt:adolf-anderssen` | `kt:romantic-era`, `kt:wilhelm-steinitz` |
 | `kt:alekhines-defence` | `kt:fischer-spassky-1972`, `kt:hypermodernism` |
@@ -52,7 +53,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:simplification` | `kt:material-advantage`, `kt:material-advantage` |
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
 | `kt:starting-age` | `kt:chess-expertise`, `kt:deliberate-practice` |
-| `kt:stockfish` | `kt:computer-chess`, `kt:endgame-tablebases` |
 | `kt:sveshnikov-variation` | `kt:outpost`, `kt:sicilian-defence` |
 | `kt:talent` | `kt:chess-expertise`, `kt:deliberate-practice` |
 | `kt:threefold-repetition` | `kt:en-passant`, `kt:fide-laws-of-chess` |
@@ -77,6 +77,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:backward-pawn` | `kt:outpost` |
 | `kt:berlin-defence` | `kt:ruy-lopez` |
 | `kt:blindfold-chess` | `kt:cognitive-psychology-of-chess` |
+| `kt:board-representation` | `kt:bitboards` |
 | `kt:botvinnik-versus-capablanca-avro-1938` | `kt:soviet-chess-school` |
 | `kt:breakthrough` | `kt:passed-pawn` |
 | `kt:carlsbad-1929` | `kt:aron-nimzowitsch` |
@@ -119,6 +120,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:johannes-zukertort` | `kt:wilhelm-steinitz` |
 | `kt:john-mccarthy` | `kt:alpha-beta-pruning` |
 | `kt:john-von-neumann` | `kt:minimax` |
+| `kt:kaissa` | `kt:bitboards` |
 | `kt:kasparov-versus-topalov-wijk-aan-zee-1999` | `kt:garry-kasparov` |
 | `kt:ken-thompson` | `kt:endgame-tablebases` |
 | `kt:king-safety` | `kt:castling` |
@@ -132,6 +134,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:long-term-working-memory` | `kt:template-theory` |
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position` |
 | `kt:magnus-carlsen` | `kt:gukesh-dommaraju` |
+| `kt:mailbox-board-representation` | `kt:bitboards` |
 | `kt:marcus-kann` | `kt:caro-kann-defence` |
 | `kt:marshall-attack` | `kt:ruy-lopez` |
 | `kt:max-euwe` | `kt:slav-defence` |
@@ -141,6 +144,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mikhail-chigorin` | `kt:wilhelm-steinitz` |
 | `kt:minority-attack` | `kt:pawn-structure` |
 | `kt:modena-school` | `kt:romantic-era` |
+| `kt:move-generation` | `kt:bitboards` |
 | `kt:negamax` | `kt:minimax` |
 | `kt:open-ruy-lopez` | `kt:ruy-lopez` |
 | `kt:opening-repertoire` | `kt:template-theory` |
@@ -164,6 +168,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:reti-versus-tartakower-vienna-1910` | `kt:double-check` |
 | `kt:retractor` | `kt:retrograde-analysis` |
 | `kt:richard-reti` | `kt:hypermodernism` |
+| `kt:robert-hyatt` | `kt:bitboards` |
 | `kt:rubinstein-variation` | `kt:nimzo-indian-defence` |
 | `kt:rudolf-spielmann` | `kt:sacrifice` |
 | `kt:ruy-lopez-de-segura` | `kt:ruy-lopez` |
