@@ -1111,6 +1111,34 @@
     ]
   },
   {
+    "id": "kt:fischer-spassky-1972",
+    "title": "Fischer–Spassky 1972",
+    "aliases": [
+      "World Chess Championship 1972",
+      "Fischer versus Spassky 1972",
+      "Fischer vs Spassky 1972",
+      "Spassky–Fischer 1972",
+      "Spassky versus Fischer 1972",
+      "Reykjavik 1972 world championship match",
+      "Match of the Century (1972)"
+    ],
+    "type": "Event",
+    "domain": "history",
+    "file": "articles/history/fischer-spassky-1972.md",
+    "created": "2026-11-11",
+    "verified": "2026-11-11",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://olimpbase.org/ind-wcc/wc1972-wch.html",
+      "https://worldchesshof.org/wp-content/uploads/2024/10/1972-Fischer-Spassky-Press-Release.pdf",
+      "https://www.britannica.com/biography/Boris-Spassky",
+      "https://en.chessbase.com/post/fischer-vs-spassky-50-years-ago",
+      "https://en.chessbase.com/post/50-years-ago-today-fischer-spassky-game-six",
+      "https://en.chessbase.com/post/50-years-ago-bobby-fischer-is-the-11th-world-champion"
+    ]
+  },
+  {
     "id": "kt:fork",
     "title": "Fork",
     "aliases": [

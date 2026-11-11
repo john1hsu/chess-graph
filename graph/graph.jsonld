@@ -2643,6 +2643,108 @@
       ]
     },
     {
+      "@id": "kt:fischer-spassky-1972",
+      "@type": "kto:Event",
+      "skos:prefLabel": "Fischer–Spassky 1972",
+      "skos:definition": "The 1972 world championship match in Reykjavík in which challenger Bobby Fischer beat titleholder Boris Spassky 12½–8½ over 21 games, becoming the first non-Soviet world champion since FIDE took over the title in 1948.",
+      "kto:domain": "history",
+      "dcterms:created": "2026-11-11",
+      "kto:verified": "2026-11-11",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "FIDE World Chess Championship cycle 1969-1972: Match, Reykjavik 1972",
+          "dcterms:publisher": "OlimpBase (Wojciech Bartelski)",
+          "schema:url": "https://olimpbase.org/ind-wcc/wc1972-wch.html",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "World Chess Hall of Fame Celebrates the 50th Anniversary of the Legendary 1972 World Chess Championship (press release)",
+          "dcterms:publisher": "World Chess Hall of Fame",
+          "schema:url": "https://worldchesshof.org/wp-content/uploads/2024/10/1972-Fischer-Spassky-Press-Release.pdf",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Boris Spassky",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/biography/Boris-Spassky",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Fischer vs Spassky – 50 years ago",
+          "dcterms:publisher": "ChessBase News (Frederic Friedel)",
+          "schema:url": "https://en.chessbase.com/post/fischer-vs-spassky-50-years-ago",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "50 years ago today: Fischer-Spassky, game six",
+          "dcterms:publisher": "ChessBase News (Frederic Friedel, with Nagesh Havanur)",
+          "schema:url": "https://en.chessbase.com/post/50-years-ago-today-fischer-spassky-game-six",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "50 years ago: Bobby Fischer is the 11th World Champion",
+          "dcterms:publisher": "ChessBase News (Frederic Friedel)",
+          "schema:url": "https://en.chessbase.com/post/50-years-ago-bobby-fischer-is-the-11th-world-champion",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/history/fischer-spassky-1972.md",
+      "skos:altLabel": [
+        "World Chess Championship 1972",
+        "Fischer versus Spassky 1972",
+        "Fischer vs Spassky 1972",
+        "Spassky–Fischer 1972",
+        "Spassky versus Fischer 1972",
+        "Reykjavik 1972 world championship match",
+        "Match of the Century (1972)"
+      ],
+      "kto:fen": "4q2k/2r1r3/4PR1p/p1p5/P1Bp1Q1P/1P6/6P1/6K1 b - - 4 41",
+      "skos:broader": [
+        {
+          "@id": "kt:world-chess-championship"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:soviet-chess-school"
+        },
+        {
+          "@id": "kt:queens-gambit"
+        },
+        {
+          "@id": "kt:najdorf-variation"
+        },
+        {
+          "@id": "kt:alekhines-defence"
+        }
+      ],
+      "kto:playedBy": [
+        {
+          "@id": "kt:bobby-fischer"
+        },
+        {
+          "@id": "kt:boris-spassky"
+        }
+      ],
+      "kto:wonBy": [
+        {
+          "@id": "kt:bobby-fischer"
+        }
+      ],
+      "kto:sanctionedBy": [
+        {
+          "@id": "kt:fide"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:world-chess-championship"
+        }
+      ]
+    },
+    {
       "@id": "kt:history-of-chess",
       "@type": "kto:Concept",
       "skos:prefLabel": "History of chess",

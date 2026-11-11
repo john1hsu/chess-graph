@@ -11,7 +11,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:triangulation` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:opposition`, `kt:zugzwang` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position`, `kt:rook-endgames` |
 | `kt:fifty-move-rule` | `kt:endgame-tablebases`, `kt:fide-laws-of-chess`, `kt:forsyth-edwards-notation` |
-| `kt:fischer-spassky-1972` | `kt:world-chess-championship`, `kt:najdorf-variation`, `kt:bobby-fischer` |
 | `kt:gukesh-dommaraju` | `kt:candidates-tournament`, `kt:chess-olympiad`, `kt:world-chess-championship` |
 | `kt:hastings-1895` | `kt:emanuel-lasker`, `kt:siegbert-tarrasch`, `kt:wilhelm-steinitz` |
 | `kt:key-squares` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:zugzwang` |
@@ -20,7 +19,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:semi-open-games` | `kt:caro-kann-defence`, `kt:french-defence`, `kt:sicilian-defence` |
 | `kt:tigran-petrosian` | `kt:prophylaxis`, `kt:bobby-fischer`, `kt:sacrifice` |
 | `kt:adolf-anderssen` | `kt:romantic-era`, `kt:wilhelm-steinitz` |
+| `kt:alekhines-defence` | `kt:fischer-spassky-1972`, `kt:hypermodernism` |
 | `kt:alphazero` | `kt:evaluation-function`, `kt:chess-variants` |
+| `kt:boris-spassky` | `kt:fischer-spassky-1972`, `kt:bobby-fischer` |
 | `kt:candidate-moves` | `kt:prophylaxis`, `kt:calculation` |
 | `kt:chess-organizations` | `kt:fide`, `kt:us-chess` |
 | `kt:chess-titles` | `kt:arbiter`, `kt:grandmaster-title` |
@@ -63,7 +64,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:world-federation-for-chess-composition` | `kt:chess-composition`, `kt:codex-of-chess-composition` |
 | `kt:abraham-luchins` | `kt:einstellung-effect` |
 | `kt:albin-countergambit` | `kt:queens-gambit` |
-| `kt:alekhines-defence` | `kt:hypermodernism` |
 | `kt:alexander-alekhine` | `kt:jose-raul-capablanca` |
 | `kt:alexander-kotov` | `kt:calculation` |
 | `kt:alfred-binet` | `kt:cognitive-psychology-of-chess` |
@@ -76,7 +76,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:backward-pawn` | `kt:outpost` |
 | `kt:berlin-defence` | `kt:ruy-lopez` |
 | `kt:blindfold-chess` | `kt:cognitive-psychology-of-chess` |
-| `kt:boris-spassky` | `kt:bobby-fischer` |
 | `kt:botvinnik-versus-capablanca-avro-1938` | `kt:soviet-chess-school` |
 | `kt:breakthrough` | `kt:passed-pawn` |
 | `kt:carlsbad-1929` | `kt:aron-nimzowitsch` |

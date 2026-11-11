@@ -1237,6 +1237,38 @@
 <https://github.com/john1hsu/chess-graph/id/fide> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/european-chess-union> .
 <https://github.com/john1hsu/chess-graph/id/fide> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/fide> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Event> .
+<https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> <http://www.w3.org/2000/01/rdf-schema#label> "Fischer–Spassky 1972" .
+<https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> <http://www.w3.org/2004/02/skos/core#altLabel> "Fischer versus Spassky 1972" .
+<https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> <http://www.w3.org/2004/02/skos/core#altLabel> "Fischer vs Spassky 1972" .
+<https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> <http://www.w3.org/2004/02/skos/core#altLabel> "Match of the Century (1972)" .
+<https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> <http://www.w3.org/2004/02/skos/core#altLabel> "Reykjavik 1972 world championship match" .
+<https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> <http://www.w3.org/2004/02/skos/core#altLabel> "Spassky versus Fischer 1972" .
+<https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> <http://www.w3.org/2004/02/skos/core#altLabel> "Spassky–Fischer 1972" .
+<https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> <http://www.w3.org/2004/02/skos/core#altLabel> "World Chess Championship 1972" .
+<https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> <http://www.w3.org/2004/02/skos/core#definition> "The 1972 world championship match in Reykjavík in which challenger Bobby Fischer beat titleholder Boris Spassky 12½–8½ over 21 games, becoming the first non-Soviet world champion since FIDE took over the title in 1948." .
+<https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fischer–Spassky 1972" .
+<https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/alekhines-defence> .
+<https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/najdorf-variation> .
+<https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/queens-gambit> .
+<https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/soviet-chess-school> .
+<https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s1> .
+<https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s2> .
+<https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s3> .
+<https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s4> .
+<https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s5> .
+<https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s6> .
+<https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> <https://github.com/john1hsu/chess-graph/ontology#domain> "history" .
+<https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> <https://github.com/john1hsu/chess-graph/ontology#fen> "4q2k/2r1r3/4PR1p/p1p5/P1Bp1Q1P/1P6/6P1/6K1 b - - 4 41" .
+<https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> <https://github.com/john1hsu/chess-graph/ontology#playedBy> <https://github.com/john1hsu/chess-graph/id/bobby-fischer> .
+<https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> <https://github.com/john1hsu/chess-graph/ontology#playedBy> <https://github.com/john1hsu/chess-graph/id/boris-spassky> .
+<https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/fide> .
+<https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/bobby-fischer> .
 <https://github.com/john1hsu/chess-graph/id/fork> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/fork> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TacticalMotif> .
 <https://github.com/john1hsu/chess-graph/id/fork> <http://www.w3.org/2000/01/rdf-schema#label> "Fork" .
@@ -3623,6 +3655,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/fide/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/fide/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/fide/s6> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/congratulations-fide-turns-100?page=0" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s1> <http://purl.org/dc/terms/publisher> "OlimpBase (Wojciech Bartelski)" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s1> <http://purl.org/dc/terms/title> "FIDE World Chess Championship cycle 1969-1972: Match, Reykjavik 1972" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s1> <https://schema.org/url> "https://olimpbase.org/ind-wcc/wc1972-wch.html" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s2> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s2> <http://purl.org/dc/terms/title> "World Chess Hall of Fame Celebrates the 50th Anniversary of the Legendary 1972 World Chess Championship (press release)" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s2> <https://schema.org/url> "https://worldchesshof.org/wp-content/uploads/2024/10/1972-Fischer-Spassky-Press-Release.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s3> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s3> <http://purl.org/dc/terms/title> "Boris Spassky" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s3> <https://schema.org/url> "https://www.britannica.com/biography/Boris-Spassky" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s4> <http://purl.org/dc/terms/publisher> "ChessBase News (Frederic Friedel)" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s4> <http://purl.org/dc/terms/title> "Fischer vs Spassky – 50 years ago" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s4> <https://schema.org/url> "https://en.chessbase.com/post/fischer-vs-spassky-50-years-ago" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s5> <http://purl.org/dc/terms/publisher> "ChessBase News (Frederic Friedel, with Nagesh Havanur)" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s5> <http://purl.org/dc/terms/title> "50 years ago today: Fischer-Spassky, game six" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s5> <https://schema.org/url> "https://en.chessbase.com/post/50-years-ago-today-fischer-spassky-game-six" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s6> <http://purl.org/dc/terms/publisher> "ChessBase News (Frederic Friedel)" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s6> <http://purl.org/dc/terms/title> "50 years ago: Bobby Fischer is the 11th World Champion" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s6> <https://schema.org/url> "https://en.chessbase.com/post/50-years-ago-bobby-fischer-is-the-11th-world-champion" .
 <https://github.com/john1hsu/chess-graph/id/source/fork/s1> <http://purl.org/dc/terms/publisher> "English Chess Federation" .
 <https://github.com/john1hsu/chess-graph/id/source/fork/s1> <http://purl.org/dc/terms/title> "The Knight Fork (Chess Skills leaflet)" .
 <https://github.com/john1hsu/chess-graph/id/source/fork/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
