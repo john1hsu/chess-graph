@@ -574,6 +574,35 @@
 <https://github.com/john1hsu/chess-graph/id/chess-tactics> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/fork> .
 <https://github.com/john1hsu/chess-graph/id/chess-tactics> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/chess-tactics> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/chess-variants> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/chess-variants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Concept> .
+<https://github.com/john1hsu/chess-graph/id/chess-variants> <http://www.w3.org/2000/01/rdf-schema#label> "Chess variants" .
+<https://github.com/john1hsu/chess-graph/id/chess-variants> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess variant" .
+<https://github.com/john1hsu/chess-graph/id/chess-variants> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess variations (games)" .
+<https://github.com/john1hsu/chess-graph/id/chess-variants> <http://www.w3.org/2004/02/skos/core#altLabel> "Unorthodox chess" .
+<https://github.com/john1hsu/chess-graph/id/chess-variants> <http://www.w3.org/2004/02/skos/core#altLabel> "Variant chess" .
+<https://github.com/john1hsu/chess-graph/id/chess-variants> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess> .
+<https://github.com/john1hsu/chess-graph/id/chess-variants> <http://www.w3.org/2004/02/skos/core#definition> "Games derived from, related to or modelled on chess that change its board, pieces, starting position, move rules or winning condition; they range from regional sister games such as xiangqi and shogi to modern rule tweaks such as Chess960, crazyhouse and antichess." .
+<https://github.com/john1hsu/chess-graph/id/chess-variants> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chess variants" .
+<https://github.com/john1hsu/chess-graph/id/chess-variants> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/alphazero> .
+<https://github.com/john1hsu/chess-graph/id/chess-variants> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-problems> .
+<https://github.com/john1hsu/chess-graph/id/chess-variants> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess960> .
+<https://github.com/john1hsu/chess-graph/id/chess-variants> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/chess-variants> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/shatranj> .
+<https://github.com/john1hsu/chess-graph/id/chess-variants> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-variants/s1> .
+<https://github.com/john1hsu/chess-graph/id/chess-variants> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-variants/s2> .
+<https://github.com/john1hsu/chess-graph/id/chess-variants> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-variants/s3> .
+<https://github.com/john1hsu/chess-graph/id/chess-variants> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-variants/s4> .
+<https://github.com/john1hsu/chess-graph/id/chess-variants> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-variants/s5> .
+<https://github.com/john1hsu/chess-graph/id/chess-variants> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-variants/s6> .
+<https://github.com/john1hsu/chess-graph/id/chess-variants> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/chess-variants> <https://github.com/john1hsu/chess-graph/ontology#domain> "variants-and-compositions" .
+<https://github.com/john1hsu/chess-graph/id/chess-variants> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/chess960> .
+<https://github.com/john1hsu/chess-graph/id/chess-variants> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/shogi> .
+<https://github.com/john1hsu/chess-graph/id/chess-variants> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/xiangqi> .
+<https://github.com/john1hsu/chess-graph/id/chess-variants> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/chaturanga> .
+<https://github.com/john1hsu/chess-graph/id/chess-variants> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/chess-variants> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/chess960> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/chess960> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Variant> .
 <https://github.com/john1hsu/chess-graph/id/chess960> <http://www.w3.org/2000/01/rdf-schema#label> "Chess960" .
@@ -2734,6 +2763,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s6> <https://schema.org/url> "https://core.ac.uk/download/334186.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-variants/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-variants/s1> <http://purl.org/dc/terms/title> "FIDE Laws of Chess, Guidelines II. Chess960 Rules" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-variants/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-variants/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-variants/s1> <https://schema.org/url> "https://rcc.fide.com/guidelinesii/" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-variants/s2> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-variants/s2> <http://purl.org/dc/terms/title> "Chinese chess" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-variants/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-variants/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-variants/s2> <https://schema.org/url> "https://www.britannica.com/sports/Chinese-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-variants/s3> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-variants/s3> <http://purl.org/dc/terms/title> "Shogi" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-variants/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-variants/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-variants/s3> <https://schema.org/url> "https://www.britannica.com/topic/shogi" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-variants/s4> <http://purl.org/dc/terms/publisher> "N. Tomašev, U. Paquet, D. Hassabis, V. Kramnik (arXiv)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-variants/s4> <http://purl.org/dc/terms/title> "Assessing Game Balance with AlphaZero: Exploring Alternative Rule Sets in Chess (arXiv:2009.04374)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-variants/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-variants/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-variants/s4> <https://schema.org/url> "https://arxiv.org/abs/2009.04374v2" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-variants/s5> <http://purl.org/dc/terms/publisher> "Lichess" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-variants/s5> <http://purl.org/dc/terms/title> "Chess variants" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-variants/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-variants/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-variants/s5> <https://schema.org/url> "https://lichess.org/variant" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-variants/s6> <http://purl.org/dc/terms/publisher> "The Chess Variant Pages" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-variants/s6> <http://purl.org/dc/terms/title> "The Encyclopedia of Chess Variants (Book Info)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-variants/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-variants/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-variants/s6> <https://schema.org/url> "https://chessvariants.org/books.dir/ecv.html" .
 <https://github.com/john1hsu/chess-graph/id/source/chess960/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
 <https://github.com/john1hsu/chess-graph/id/source/chess960/s1> <http://purl.org/dc/terms/title> "FIDE Laws of Chess, Guidelines II. Chess960 Rules" .
 <https://github.com/john1hsu/chess-graph/id/source/chess960/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

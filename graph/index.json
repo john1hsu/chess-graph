@@ -513,6 +513,31 @@
     ]
   },
   {
+    "id": "kt:chess-variants",
+    "title": "Chess variants",
+    "aliases": [
+      "Chess variant",
+      "Variant chess",
+      "Chess variations (games)",
+      "Unorthodox chess"
+    ],
+    "type": "Concept",
+    "domain": "variants-and-compositions",
+    "file": "articles/variants-and-compositions/chess-variants.md",
+    "created": "2026-11-11",
+    "verified": "2026-11-11",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://rcc.fide.com/guidelinesii/",
+      "https://www.britannica.com/sports/Chinese-chess",
+      "https://www.britannica.com/topic/shogi",
+      "https://arxiv.org/abs/2009.04374v2",
+      "https://lichess.org/variant",
+      "https://chessvariants.org/books.dir/ecv.html"
+    ]
+  },
+  {
     "id": "kt:chess960",
     "title": "Chess960",
     "aliases": [
