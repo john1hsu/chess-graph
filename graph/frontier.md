@@ -7,7 +7,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chess` | `kt:chess-endgame`, `kt:chaturanga`, `kt:history-of-chess`, `kt:shatranj`, `kt:chess-strategy`, `kt:fide-laws-of-chess`, `kt:chess-tactics`, `kt:chess-composition` |
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:jose-raul-capablanca`, `kt:wilhelm-steinitz` |
 | `kt:triangulation` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:opposition`, `kt:zugzwang` |
-| `kt:arbiter` | `kt:fair-play-regulations`, `kt:fide-laws-of-chess`, `kt:touch-move` |
 | `kt:chess-variants` | `kt:chaturanga`, `kt:shatranj`, `kt:chess960` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position`, `kt:rook-endgames` |
 | `kt:dead-position` | `kt:stalemate`, `kt:helpmate`, `kt:retrograde-analysis` |
@@ -27,6 +26,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:candidate-moves` | `kt:prophylaxis`, `kt:calculation` |
 | `kt:checkmate` | `kt:stalemate`, `kt:helpmate` |
 | `kt:chess-organizations` | `kt:fide`, `kt:us-chess` |
+| `kt:chess-titles` | `kt:arbiter`, `kt:grandmaster-title` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
 | `kt:excelsior` | `kt:chess-composition`, `kt:chess-problems` |
 | `kt:fischer-spassky-1972` | `kt:world-chess-championship`, `kt:bobby-fischer` |
@@ -84,7 +84,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:carlsbad-1929` | `kt:aron-nimzowitsch` |
 | `kt:carlsbad-structure` | `kt:pawn-structure` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
-| `kt:chess-titles` | `kt:grandmaster-title` |
+| `kt:chess-tournament` | `kt:arbiter` |
 | `kt:closed-games` | `kt:queens-gambit` |
 | `kt:cognitive-science` | `kt:cognitive-psychology-of-chess` |
 | `kt:david-forsyth` | `kt:forsyth-edwards-notation` |

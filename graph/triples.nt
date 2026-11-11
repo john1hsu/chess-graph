@@ -114,6 +114,34 @@
 <https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/chess-olympiad> .
 <https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/arbiter> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/arbiter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Concept> .
+<https://github.com/john1hsu/chess-graph/id/arbiter> <http://www.w3.org/2000/01/rdf-schema#label> "Arbiter" .
+<https://github.com/john1hsu/chess-graph/id/arbiter> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess arbiter" .
+<https://github.com/john1hsu/chess-graph/id/arbiter> <http://www.w3.org/2004/02/skos/core#altLabel> "Chief Arbiter" .
+<https://github.com/john1hsu/chess-graph/id/arbiter> <http://www.w3.org/2004/02/skos/core#altLabel> "FIDE Arbiter" .
+<https://github.com/john1hsu/chess-graph/id/arbiter> <http://www.w3.org/2004/02/skos/core#altLabel> "International Arbiter" .
+<https://github.com/john1hsu/chess-graph/id/arbiter> <http://www.w3.org/2004/02/skos/core#altLabel> "National Arbiter" .
+<https://github.com/john1hsu/chess-graph/id/arbiter> <http://www.w3.org/2004/02/skos/core#altLabel> "TD" .
+<https://github.com/john1hsu/chess-graph/id/arbiter> <http://www.w3.org/2004/02/skos/core#altLabel> "Tournament director" .
+<https://github.com/john1hsu/chess-graph/id/arbiter> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-tournament> .
+<https://github.com/john1hsu/chess-graph/id/arbiter> <http://www.w3.org/2004/02/skos/core#definition> "The official who enforces the Laws of Chess at a competition, supervises play and fair play, and imposes penalties; FIDE also certifies arbiters through the FIDE Arbiter and International Arbiter titles." .
+<https://github.com/john1hsu/chess-graph/id/arbiter> <http://www.w3.org/2004/02/skos/core#prefLabel> "Arbiter" .
+<https://github.com/john1hsu/chess-graph/id/arbiter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-titles> .
+<https://github.com/john1hsu/chess-graph/id/arbiter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fair-play-regulations> .
+<https://github.com/john1hsu/chess-graph/id/arbiter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/arbiter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/touch-move> .
+<https://github.com/john1hsu/chess-graph/id/arbiter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/us-chess> .
+<https://github.com/john1hsu/chess-graph/id/arbiter> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/arbiter/s1> .
+<https://github.com/john1hsu/chess-graph/id/arbiter> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/arbiter/s2> .
+<https://github.com/john1hsu/chess-graph/id/arbiter> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/arbiter/s3> .
+<https://github.com/john1hsu/chess-graph/id/arbiter> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/arbiter/s4> .
+<https://github.com/john1hsu/chess-graph/id/arbiter> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/arbiter/s5> .
+<https://github.com/john1hsu/chess-graph/id/arbiter> <https://github.com/john1hsu/chess-graph/ontology#domain> "events-and-organizations" .
+<https://github.com/john1hsu/chess-graph/id/arbiter> <https://github.com/john1hsu/chess-graph/ontology#governedBy> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/arbiter> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/fide> .
+<https://github.com/john1hsu/chess-graph/id/arbiter> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/arbiter> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
 <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <http://www.w3.org/2000/01/rdf-schema#label> "Aron Nimzowitsch" .
@@ -2251,6 +2279,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "news" .
 <https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s5> <https://schema.org/url> "https://www.pressreader.com/south-africa/cape-argus/20190523/281814285330502" .
+<https://github.com/john1hsu/chess-graph/id/source/arbiter/s1> <http://purl.org/dc/terms/publisher> "FIDE Arbiters' Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/arbiter/s1> <http://purl.org/dc/terms/title> "Arbiters' Manual 2024 (Laws of Chess applied from 1 January 2023, Preface and Article 12 with commentary)" .
+<https://github.com/john1hsu/chess-graph/id/source/arbiter/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/arbiter/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/arbiter/s1> <https://schema.org/url> "https://arbiters.fide.com/wp-content/uploads/Publications/Manual/Arbiters_Manual_2024.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/arbiter/s2> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
+<https://github.com/john1hsu/chess-graph/id/source/arbiter/s2> <http://purl.org/dc/terms/title> "B.06.1 – FIDE Regulations for the Titles of Arbiters" .
+<https://github.com/john1hsu/chess-graph/id/source/arbiter/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/arbiter/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/arbiter/s2> <https://schema.org/url> "https://handbook.fide.com/chapter/B0601" .
+<https://github.com/john1hsu/chess-graph/id/source/arbiter/s3> <http://purl.org/dc/terms/publisher> "FIDE Arbiters' Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/arbiter/s3> <http://purl.org/dc/terms/title> "FIDE Arbiters' System" .
+<https://github.com/john1hsu/chess-graph/id/source/arbiter/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/arbiter/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/arbiter/s3> <https://schema.org/url> "https://arbiters.fide.com/arb-titles/fide-arbiters-system" .
+<https://github.com/john1hsu/chess-graph/id/source/arbiter/s4> <http://purl.org/dc/terms/publisher> "FIDE Arbiters' Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/arbiter/s4> <http://purl.org/dc/terms/title> "Changes to the FIDE Regulations for the Titles of Arbiters (B.06.1) effective 1 March 2026" .
+<https://github.com/john1hsu/chess-graph/id/source/arbiter/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/arbiter/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/arbiter/s4> <https://schema.org/url> "https://arbiters.fide.com/?p=10809" .
+<https://github.com/john1hsu/chess-graph/id/source/arbiter/s5> <http://purl.org/dc/terms/publisher> "US Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/arbiter/s5> <http://purl.org/dc/terms/title> "Summary of differences between the FIDE Laws of Chess and the US Chess Official Rules of Chess, 7th edition (updated 1 January 2022)" .
+<https://github.com/john1hsu/chess-graph/id/source/arbiter/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/arbiter/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/arbiter/s5> <https://schema.org/url> "https://new.uschess.org/sites/default/files/media/documents/uschess-fide-rules-comparison.pdf" .
 <https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s1> <http://purl.org/dc/terms/title> "Aron Nimzowitsch" .
 <https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

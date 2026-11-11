@@ -101,6 +101,33 @@
     ]
   },
   {
+    "id": "kt:arbiter",
+    "title": "Arbiter",
+    "aliases": [
+      "Chess arbiter",
+      "Chief Arbiter",
+      "Tournament director",
+      "TD",
+      "International Arbiter",
+      "FIDE Arbiter",
+      "National Arbiter"
+    ],
+    "type": "Concept",
+    "domain": "events-and-organizations",
+    "file": "articles/events-and-organizations/arbiter.md",
+    "created": "2026-11-11",
+    "verified": "2026-11-11",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://arbiters.fide.com/wp-content/uploads/Publications/Manual/Arbiters_Manual_2024.pdf",
+      "https://handbook.fide.com/chapter/B0601",
+      "https://arbiters.fide.com/arb-titles/fide-arbiters-system",
+      "https://arbiters.fide.com/?p=10809",
+      "https://new.uschess.org/sites/default/files/media/documents/uschess-fide-rules-comparison.pdf"
+    ]
+  },
+  {
     "id": "kt:aron-nimzowitsch",
     "title": "Aron Nimzowitsch",
     "aliases": [

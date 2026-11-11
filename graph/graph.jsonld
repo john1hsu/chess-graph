@@ -1634,6 +1634,91 @@
       ]
     },
     {
+      "@id": "kt:arbiter",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Arbiter",
+      "skos:definition": "The official who enforces the Laws of Chess at a competition, supervises play and fair play, and imposes penalties; FIDE also certifies arbiters through the FIDE Arbiter and International Arbiter titles.",
+      "kto:domain": "events-and-organizations",
+      "dcterms:created": "2026-11-11",
+      "kto:verified": "2026-11-11",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Arbiters' Manual 2024 (Laws of Chess applied from 1 January 2023, Preface and Article 12 with commentary)",
+          "dcterms:publisher": "FIDE Arbiters' Commission",
+          "schema:url": "https://arbiters.fide.com/wp-content/uploads/Publications/Manual/Arbiters_Manual_2024.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "B.06.1 – FIDE Regulations for the Titles of Arbiters",
+          "dcterms:publisher": "FIDE Handbook",
+          "schema:url": "https://handbook.fide.com/chapter/B0601",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "FIDE Arbiters' System",
+          "dcterms:publisher": "FIDE Arbiters' Commission",
+          "schema:url": "https://arbiters.fide.com/arb-titles/fide-arbiters-system",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Changes to the FIDE Regulations for the Titles of Arbiters (B.06.1) effective 1 March 2026",
+          "dcterms:publisher": "FIDE Arbiters' Commission",
+          "schema:url": "https://arbiters.fide.com/?p=10809",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Summary of differences between the FIDE Laws of Chess and the US Chess Official Rules of Chess, 7th edition (updated 1 January 2022)",
+          "dcterms:publisher": "US Chess",
+          "schema:url": "https://new.uschess.org/sites/default/files/media/documents/uschess-fide-rules-comparison.pdf",
+          "kto:sourceType": "governing-body"
+        }
+      ],
+      "kto:file": "articles/events-and-organizations/arbiter.md",
+      "skos:altLabel": [
+        "Chess arbiter",
+        "Chief Arbiter",
+        "Tournament director",
+        "TD",
+        "International Arbiter",
+        "FIDE Arbiter",
+        "National Arbiter"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess-tournament"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        },
+        {
+          "@id": "kt:touch-move"
+        },
+        {
+          "@id": "kt:fair-play-regulations"
+        },
+        {
+          "@id": "kt:us-chess"
+        },
+        {
+          "@id": "kt:chess-titles"
+        }
+      ],
+      "kto:governedBy": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        }
+      ],
+      "kto:sanctionedBy": [
+        {
+          "@id": "kt:fide"
+        }
+      ]
+    },
+    {
       "@id": "kt:candidates-tournament",
       "@type": "kto:Event",
       "skos:prefLabel": "Candidates Tournament",
