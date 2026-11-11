@@ -4078,6 +4078,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/skewer/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/skewer/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/skewer/s6> <https://schema.org/url> "https://www.chess.com/terms/skewer-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s1> <http://purl.org/dc/terms/publisher> "ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s1> <http://purl.org/dc/terms/title> "Britannica: The Evolution of Chess Theory (Part 3) — Andrew Soltis's Britannica text on the development of theory" .
+<https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s1> <https://schema.org/url> "https://en.chessbase.com/post/britannica-the-development-of-chess-theory-3" .
+<https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s2> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s2> <http://purl.org/dc/terms/title> "Chess — History" .
+<https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s2> <https://schema.org/url> "https://www.britannica.com/topic/chess/History" .
+<https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s3> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s3> <http://purl.org/dc/terms/title> "Mikhail Moiseyevich Botvinnik" .
+<https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s3> <https://schema.org/url> "https://www.britannica.com/biography/Mikhail-Moiseyevich-Botvinnik" .
+<https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s4> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
+<https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s4> <http://purl.org/dc/terms/title> "Mikhail Botvinnik (inductee page)" .
+<https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s4> <https://schema.org/url> "https://worldchesshof.org/inductee/mikhail-botvinnik/" .
+<https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s5> <http://purl.org/dc/terms/publisher> "ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s5> <http://purl.org/dc/terms/title> "Moscow 1925: The Rise of Soviet Chess (Eugene Manlapao, 25 November 2022)" .
+<https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s5> <https://schema.org/url> "https://en.chessbase.com/post/moscow-1925-the-rise-of-soviet-chess-november-10-december-8-1925" .
+<https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s6> <http://purl.org/dc/terms/publisher> "The Spectator Archive" .
+<https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s6> <http://purl.org/dc/terms/title> "Chess (David Spanier, 24 August 1985): Botvinnik–Capablanca, AVRO 1938" .
+<https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s6> <https://schema.org/url> "https://archive.spectator.co.uk/article/24th-august-1985/36/chess" .
+<https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s7> <http://purl.org/dc/terms/publisher> "McFarland" .
+<https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s7> <http://purl.org/dc/terms/title> "Soviet Chess 1917–1991 (Andrew Soltis)" .
+<https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s7> <https://schema.org/url> "https://mcfarlandbooks.com/?p=24170" .
 <https://github.com/john1hsu/chess-graph/id/source/stalemate/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
 <https://github.com/john1hsu/chess-graph/id/source/stalemate/s1> <http://purl.org/dc/terms/title> "Laws of Chess, Article 5: The Completion of the Game" .
 <https://github.com/john1hsu/chess-graph/id/source/stalemate/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -4248,6 +4283,37 @@
 <https://github.com/john1hsu/chess-graph/id/source/zugzwang/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/zugzwang/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/zugzwang/s4> <https://schema.org/url> "https://www.chessbase.in/news/Mutual-zugzwang-in-a-pawn-ending" .
+<https://github.com/john1hsu/chess-graph/id/soviet-chess-school> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/soviet-chess-school> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#School> .
+<https://github.com/john1hsu/chess-graph/id/soviet-chess-school> <http://www.w3.org/2000/01/rdf-schema#label> "Soviet chess school" .
+<https://github.com/john1hsu/chess-graph/id/soviet-chess-school> <http://www.w3.org/2004/02/skos/core#altLabel> "Soviet Chess School" .
+<https://github.com/john1hsu/chess-graph/id/soviet-chess-school> <http://www.w3.org/2004/02/skos/core#altLabel> "Soviet School of Chess" .
+<https://github.com/john1hsu/chess-graph/id/soviet-chess-school> <http://www.w3.org/2004/02/skos/core#altLabel> "Soviet school" .
+<https://github.com/john1hsu/chess-graph/id/soviet-chess-school> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-strategy> .
+<https://github.com/john1hsu/chess-graph/id/soviet-chess-school> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/history-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/soviet-chess-school> <http://www.w3.org/2004/02/skos/core#definition> "The state-backed chess culture and style of play that grew up in the USSR from the 1920s, led in practice and method by Mikhail Botvinnik, which prized the initiative, dynamic and unbalanced positions and deep systematic preparation, and whose players dominated the world championship from 1948 to 1972." .
+<https://github.com/john1hsu/chess-graph/id/soviet-chess-school> <http://www.w3.org/2004/02/skos/core#prefLabel> "Soviet chess school" .
+<https://github.com/john1hsu/chess-graph/id/soviet-chess-school> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/anatoly-karpov> .
+<https://github.com/john1hsu/chess-graph/id/soviet-chess-school> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/french-defence> .
+<https://github.com/john1hsu/chess-graph/id/soviet-chess-school> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/hypermodernism> .
+<https://github.com/john1hsu/chess-graph/id/soviet-chess-school> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/kings-indian-defence> .
+<https://github.com/john1hsu/chess-graph/id/soviet-chess-school> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/sicilian-defence> .
+<https://github.com/john1hsu/chess-graph/id/soviet-chess-school> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/soviet-chess-school> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s1> .
+<https://github.com/john1hsu/chess-graph/id/soviet-chess-school> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s2> .
+<https://github.com/john1hsu/chess-graph/id/soviet-chess-school> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s3> .
+<https://github.com/john1hsu/chess-graph/id/soviet-chess-school> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s4> .
+<https://github.com/john1hsu/chess-graph/id/soviet-chess-school> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s5> .
+<https://github.com/john1hsu/chess-graph/id/soviet-chess-school> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s6> .
+<https://github.com/john1hsu/chess-graph/id/soviet-chess-school> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s7> .
+<https://github.com/john1hsu/chess-graph/id/soviet-chess-school> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/mikhail-botvinnik> .
+<https://github.com/john1hsu/chess-graph/id/soviet-chess-school> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> .
+<https://github.com/john1hsu/chess-graph/id/soviet-chess-school> <https://github.com/john1hsu/chess-graph/ontology#domain> "history" .
+<https://github.com/john1hsu/chess-graph/id/soviet-chess-school> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/botvinnik-versus-capablanca-avro-1938> .
+<https://github.com/john1hsu/chess-graph/id/soviet-chess-school> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/hypermodernism> .
+<https://github.com/john1hsu/chess-graph/id/soviet-chess-school> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/history-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/soviet-chess-school> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/soviet-chess-school> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/stalemate> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/stalemate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Rule> .
 <https://github.com/john1hsu/chess-graph/id/stalemate> <http://www.w3.org/2000/01/rdf-schema#label> "Stalemate" .

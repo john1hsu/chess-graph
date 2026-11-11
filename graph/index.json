@@ -1837,6 +1837,31 @@
     ]
   },
   {
+    "id": "kt:soviet-chess-school",
+    "title": "Soviet chess school",
+    "aliases": [
+      "Soviet School of Chess",
+      "Soviet school",
+      "Soviet Chess School"
+    ],
+    "type": "School",
+    "domain": "history",
+    "file": "articles/history/soviet-chess-school.md",
+    "created": "2026-11-11",
+    "verified": "2026-11-11",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://en.chessbase.com/post/britannica-the-development-of-chess-theory-3",
+      "https://www.britannica.com/topic/chess/History",
+      "https://www.britannica.com/biography/Mikhail-Moiseyevich-Botvinnik",
+      "https://worldchesshof.org/inductee/mikhail-botvinnik/",
+      "https://en.chessbase.com/post/moscow-1925-the-rise-of-soviet-chess-november-10-december-8-1925",
+      "https://archive.spectator.co.uk/article/24th-august-1985/36/chess",
+      "https://mcfarlandbooks.com/?p=24170"
+    ]
+  },
+  {
     "id": "kt:stalemate",
     "title": "Stalemate",
     "aliases": [

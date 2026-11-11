@@ -6,8 +6,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:chess` | `kt:chess-endgame`, `kt:chaturanga`, `kt:history-of-chess`, `kt:shatranj`, `kt:chess-strategy`, `kt:fide-laws-of-chess`, `kt:chess-tactics`, `kt:chess-composition` |
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:jose-raul-capablanca`, `kt:wilhelm-steinitz` |
-| `kt:soviet-chess-school` | `kt:history-of-chess`, `kt:hypermodernism`, `kt:sicilian-defence`, `kt:anatoly-karpov`, `kt:garry-kasparov` |
-| `kt:siegbert-tarrasch` | `kt:hypermodernism`, `kt:isolated-queens-pawn`, `kt:aron-nimzowitsch`, `kt:emanuel-lasker` |
+| `kt:siegbert-tarrasch` | `kt:hypermodernism`, `kt:soviet-chess-school`, `kt:isolated-queens-pawn`, `kt:aron-nimzowitsch`, `kt:emanuel-lasker` |
 | `kt:triangulation` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:opposition`, `kt:zugzwang` |
 | `kt:arbiter` | `kt:fair-play-regulations`, `kt:fide-laws-of-chess`, `kt:touch-move` |
 | `kt:chess-variants` | `kt:chaturanga`, `kt:shatranj`, `kt:chess960` |
@@ -19,6 +18,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:herbert-simon` | `kt:adriaan-de-groot`, `kt:chunking-theory`, `kt:cognitive-psychology-of-chess` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov` |
 | `kt:key-squares` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:zugzwang` |
+| `kt:mikhail-botvinnik` | `kt:soviet-chess-school`, `kt:garry-kasparov`, `kt:garry-kasparov` |
 | `kt:portable-game-notation` | `kt:algebraic-notation`, `kt:forsyth-edwards-notation`, `kt:forsyth-edwards-notation` |
 | `kt:prophylaxis` | `kt:hypermodernism`, `kt:blockade`, `kt:anatoly-karpov` |
 | `kt:sacrifice` | `kt:material-advantage`, `kt:material-advantage`, `kt:combination` |
@@ -35,7 +35,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hastings-1895` | `kt:emanuel-lasker`, `kt:wilhelm-steinitz` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:leela-chess-zero` | `kt:computer-chess`, `kt:monte-carlo-tree-search` |
-| `kt:mikhail-botvinnik` | `kt:garry-kasparov`, `kt:garry-kasparov` |
 | `kt:move-ordering` | `kt:alpha-beta-pruning`, `kt:quiescence-search` |
 | `kt:nnue` | `kt:computer-chess`, `kt:evaluation-function` |
 | `kt:origins-of-chess` | `kt:chaturanga`, `kt:history-of-chess` |
@@ -77,6 +76,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:berlin-defence` | `kt:ruy-lopez` |
 | `kt:blindfold-chess` | `kt:cognitive-psychology-of-chess` |
 | `kt:boris-spassky` | `kt:bobby-fischer` |
+| `kt:botvinnik-versus-capablanca-avro-1938` | `kt:soviet-chess-school` |
 | `kt:breakthrough` | `kt:passed-pawn` |
 | `kt:candidate-moves` | `kt:calculation` |
 | `kt:carlsbad-1929` | `kt:aron-nimzowitsch` |
@@ -115,6 +115,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:kasparov-versus-topalov-wijk-aan-zee-1999` | `kt:garry-kasparov` |
 | `kt:ken-thompson` | `kt:endgame-tablebases` |
 | `kt:king-safety` | `kt:castling` |
+| `kt:kings-indian-defence` | `kt:soviet-chess-school` |
 | `kt:lasker-capablanca-havana-1921-game-10` | `kt:jose-raul-capablanca` |
 | `kt:lasker-capablanca-st-petersburg-1914` | `kt:emanuel-lasker` |
 | `kt:lasker-versus-bauer-amsterdam-1889` | `kt:combination` |
