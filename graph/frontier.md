@@ -5,13 +5,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:chess` | `kt:chess-endgame`, `kt:chaturanga`, `kt:history-of-chess`, `kt:shatranj`, `kt:chess-strategy`, `kt:fide-laws-of-chess`, `kt:chess-tactics`, `kt:chess-composition`, `kt:chess-variants` |
-| `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:jose-raul-capablanca`, `kt:wilhelm-steinitz` |
+| `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:wilhelm-steinitz` |
 | `kt:checkmate` | `kt:dead-position`, `kt:stalemate`, `kt:double-check`, `kt:double-check`, `kt:helpmate` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:herbert-simon` |
 | `kt:triangulation` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:opposition`, `kt:zugzwang` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position`, `kt:rook-endgames` |
 | `kt:fifty-move-rule` | `kt:endgame-tablebases`, `kt:fide-laws-of-chess`, `kt:forsyth-edwards-notation` |
-| `kt:gukesh-dommaraju` | `kt:candidates-tournament`, `kt:chess-olympiad`, `kt:world-chess-championship` |
 | `kt:hastings-1895` | `kt:emanuel-lasker`, `kt:siegbert-tarrasch`, `kt:wilhelm-steinitz` |
 | `kt:key-squares` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:zugzwang` |
 | `kt:mikhail-botvinnik` | `kt:soviet-chess-school`, `kt:garry-kasparov`, `kt:garry-kasparov` |
@@ -33,6 +32,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:francois-andre-danican-philidor` | `kt:philidor-position`, `kt:pawn-structure` |
 | `kt:hanging-pawns` | `kt:isolated-queens-pawn`, `kt:pawn-structure` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
+| `kt:javokhir-sindarov` | `kt:candidates-tournament`, `kt:gukesh-dommaraju` |
 | `kt:ju-wenjun` | `kt:womens-world-chess-championship`, `kt:womens-world-chess-championship` |
 | `kt:karpov-versus-unzicker-nice-1974` | `kt:prophylaxis`, `kt:anatoly-karpov` |
 | `kt:leela-chess-zero` | `kt:computer-chess`, `kt:monte-carlo-tree-search` |
@@ -89,6 +89,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:david-forsyth` | `kt:forsyth-edwards-notation` |
 | `kt:deep-blue` | `kt:deep-blue-versus-kasparov` |
 | `kt:deflection` | `kt:zwischenzug` |
+| `kt:ding-liren` | `kt:gukesh-dommaraju` |
+| `kt:ding-versus-gukesh-singapore-2024-game-14` | `kt:gukesh-dommaraju` |
 | `kt:englisch-versus-steinitz-london-1883` | `kt:bishop-pair` |
 | `kt:english-attack` | `kt:najdorf-variation` |
 | `kt:european-chess-union` | `kt:fide` |
@@ -113,7 +115,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:indian-defences` | `kt:nimzo-indian-defence` |
 | `kt:international-master-title` | `kt:grandmaster-title` |
 | `kt:intrinsic-performance-rating` | `kt:fair-play-regulations` |
-| `kt:javokhir-sindarov` | `kt:candidates-tournament` |
 | `kt:johannes-zukertort` | `kt:wilhelm-steinitz` |
 | `kt:john-mccarthy` | `kt:alpha-beta-pruning` |
 | `kt:john-von-neumann` | `kt:minimax` |
@@ -129,6 +130,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:leonardo-torres-y-quevedo` | `kt:claude-shannon` |
 | `kt:long-term-working-memory` | `kt:template-theory` |
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position` |
+| `kt:magnus-carlsen` | `kt:gukesh-dommaraju` |
 | `kt:marcus-kann` | `kt:caro-kann-defence` |
 | `kt:marshall-attack` | `kt:ruy-lopez` |
 | `kt:max-lange` | `kt:helpmate` |
@@ -185,6 +187,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:vancura-position` | `kt:rook-endgames` |
 | `kt:vera-menchik` | `kt:womens-world-chess-championship` |
 | `kt:viktor-korchnoi` | `kt:anatoly-karpov` |
+| `kt:viswanathan-anand` | `kt:gukesh-dommaraju` |
 | `kt:weak-squares` | `kt:outpost` |
 | `kt:william-chase` | `kt:chunking-theory` |
 | `kt:winawer-variation` | `kt:french-defence` |

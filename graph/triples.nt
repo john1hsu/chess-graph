@@ -1472,6 +1472,39 @@
 <https://github.com/john1hsu/chess-graph/id/grandmaster-title> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/fide> .
 <https://github.com/john1hsu/chess-graph/id/grandmaster-title> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/grandmaster-title> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
+<https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <http://www.w3.org/2000/01/rdf-schema#label> "Gukesh Dommaraju" .
+<https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <http://www.w3.org/2004/02/skos/core#altLabel> "D Gukesh" .
+<https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <http://www.w3.org/2004/02/skos/core#altLabel> "Dommaraju Gukesh" .
+<https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <http://www.w3.org/2004/02/skos/core#altLabel> "Gukesh D" .
+<https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <http://www.w3.org/2004/02/skos/core#altLabel> "Gukesh" .
+<https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <http://www.w3.org/2004/02/skos/core#definition> "Indian grandmaster (born 2006) and the eighteenth world chess champion, who won the 2024 Candidates Tournament at 17 and beat Ding Liren 7.5–6.5 in Singapore in December 2024 to become the youngest undisputed world champion; as of November 2026 he is preparing his first title defence, against Javokhir Sindarov in Geneva." .
+<https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gukesh Dommaraju" .
+<https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/candidates-tournament> .
+<https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-olympiad> .
+<https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/ding-liren> .
+<https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> .
+<https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/magnus-carlsen> .
+<https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/viswanathan-anand> .
+<https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s1> .
+<https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s2> .
+<https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s3> .
+<https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s4> .
+<https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s5> .
+<https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s6> .
+<https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s7> .
+<https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s8> .
+<https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s9> .
+<https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <https://github.com/john1hsu/chess-graph/ontology#domain> "players" .
+<https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/ding-versus-gukesh-singapore-2024-game-14> .
+<https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <https://github.com/john1hsu/chess-graph/ontology#holdsTitle> <https://github.com/john1hsu/chess-graph/id/grandmaster-title> .
+<https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <https://github.com/john1hsu/chess-graph/ontology#holdsTitle> <https://github.com/john1hsu/chess-graph/id/world-chess-champion> .
+<https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/candidates-tournament> .
+<https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/chess-olympiad> .
+<https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/helpmate> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/helpmate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#ProblemGenre> .
 <https://github.com/john1hsu/chess-graph/id/helpmate> <http://www.w3.org/2000/01/rdf-schema#label> "Helpmate" .
@@ -3915,6 +3948,51 @@
 <https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s6> <https://schema.org/url> "https://www.mieses.info/en/fide-grandmaster-1950.html" .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s1> <http://purl.org/dc/terms/title> "Gukesh Dommaraju" .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s1> <https://schema.org/url> "https://britannica.com/biography/Gukesh-Dommaraju" .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s2> <http://purl.org/dc/terms/publisher> "FIDE Open Chess Museum" .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s2> <http://purl.org/dc/terms/title> "Gukesh Dommaraju (World Champions gallery)" .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s2> <https://schema.org/url> "https://museum.fide.com/champions/gukesh-dommaraju" .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s3> <http://purl.org/dc/terms/publisher> "FIDE" .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s3> <http://purl.org/dc/terms/title> "From a school in Chennai to the World Championship match in Singapore" .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s3> <https://schema.org/url> "https://www.fide.com/?p=28491" .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s4> <http://purl.org/dc/terms/publisher> "FIDE" .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s4> <http://purl.org/dc/terms/title> "FIDE World Championship Game 14: Gukesh D claims title" .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s4> <https://schema.org/url> "https://www.fide.com/news/3347" .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s5> <http://purl.org/dc/terms/publisher> "FIDE" .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s5> <http://purl.org/dc/terms/title> "Salesforce FIDE World Championship Match 2026: Schedule, format, and prize fund confirmed" .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s5> <https://schema.org/url> "https://www.fide.com/salesforce-fide-world-championship-match-2026-schedule-format-and-prize-fund-confirmed/" .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s6> <http://purl.org/dc/terms/publisher> "Lichess study" .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s6> <http://purl.org/dc/terms/title> "World Championship 2024: Annotated Games — Ding, Liren – Gukesh D (game score)" .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s6> <https://schema.org/url> "https://lichess.org/study/embed/LF4x850G/HCFmWifD" .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s7> <http://purl.org/dc/terms/publisher> "Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s7> <http://purl.org/dc/terms/title> "November FIDE Rating List: Nihal Enters Top 20, Sindarov Leads Gukesh By 72 Points (Colin McGourty)" .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s7> <https://schema.org/url> "https://www.chess.com/news/view/november-2026-fide-rating-list" .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s8> <http://purl.org/dc/terms/publisher> "ChessBase" .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s8> <http://purl.org/dc/terms/title> "Norway Chess 2025, round 6 (Carlos Alberto Colodro)" .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s8> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s8> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/norway-chess-2025-6" .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s9> <http://purl.org/dc/terms/publisher> "ChessBase" .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s9> <http://purl.org/dc/terms/title> "The young king faces his toughest challenge (Yannick Pelletier)" .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s9> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s9> <https://schema.org/url> "https://en.chessbase.com/post/world-championship-2026-gukesh-pelletier" .
 <https://github.com/john1hsu/chess-graph/id/source/helpmate/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/helpmate/s1> <http://purl.org/dc/terms/title> "Chess: Chess composition" .
 <https://github.com/john1hsu/chess-graph/id/source/helpmate/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

@@ -1319,6 +1319,34 @@
     ]
   },
   {
+    "id": "kt:gukesh-dommaraju",
+    "title": "Gukesh Dommaraju",
+    "aliases": [
+      "Gukesh D",
+      "D Gukesh",
+      "Dommaraju Gukesh",
+      "Gukesh"
+    ],
+    "type": "Player",
+    "domain": "players",
+    "file": "articles/players/gukesh-dommaraju.md",
+    "created": "2026-11-11",
+    "verified": "2026-11-11",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://britannica.com/biography/Gukesh-Dommaraju",
+      "https://museum.fide.com/champions/gukesh-dommaraju",
+      "https://www.fide.com/?p=28491",
+      "https://www.fide.com/news/3347",
+      "https://www.fide.com/salesforce-fide-world-championship-match-2026-schedule-format-and-prize-fund-confirmed/",
+      "https://lichess.org/study/embed/LF4x850G/HCFmWifD",
+      "https://www.chess.com/news/view/november-2026-fide-rating-list",
+      "https://en.chessbase.com/newsroom/post/norway-chess-2025-6",
+      "https://en.chessbase.com/post/world-championship-2026-gukesh-pelletier"
+    ]
+  },
+  {
     "id": "kt:helpmate",
     "title": "Helpmate",
     "aliases": [
