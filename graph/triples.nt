@@ -2051,6 +2051,39 @@
 <https://github.com/john1hsu/chess-graph/id/sicilian-defence> <https://github.com/john1hsu/chess-graph/ontology#moves> "1.e4 c5" .
 <https://github.com/john1hsu/chess-graph/id/sicilian-defence> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/sicilian-defence> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
+<https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> <http://www.w3.org/2000/01/rdf-schema#label> "Siegbert Tarrasch" .
+<https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> <http://www.w3.org/2004/02/skos/core#altLabel> "Dr. Siegbert Tarrasch" .
+<https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> <http://www.w3.org/2004/02/skos/core#altLabel> "Dr. Tarrasch" .
+<https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> <http://www.w3.org/2004/02/skos/core#altLabel> "Praeceptor Germaniae" .
+<https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> <http://www.w3.org/2004/02/skos/core#altLabel> "Tarrasch" .
+<https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> <http://www.w3.org/2004/02/skos/core#altLabel> "Teacher of Germany" .
+<https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> <http://www.w3.org/2004/02/skos/core#definition> "German master and physician (1862–1934), arguably the world's best tournament player of the 1890s, who won Breslau 1889, Manchester 1890, Dresden 1892, Leipzig 1894 and Vienna 1898, lost the 1908 world championship match to Emanuel Lasker, and as a writer popularised Steinitz's positional principles." .
+<https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> <http://www.w3.org/2004/02/skos/core#prefLabel> "Siegbert Tarrasch" .
+<https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> .
+<https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/emanuel-lasker> .
+<https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/french-defence> .
+<https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/hypermodernism> .
+<https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/isolated-queens-pawn> .
+<https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> .
+<https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s1> .
+<https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s2> .
+<https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s3> .
+<https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s4> .
+<https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s5> .
+<https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s6> .
+<https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s7> .
+<https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/hypermodernism> .
+<https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> <https://github.com/john1hsu/chess-graph/ontology#domain> "players" .
+<https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> .
+<https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> <https://github.com/john1hsu/chess-graph/ontology#moves> "1.d4 d5 2.c4 e6 3.Nc3 c5" .
+<https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/hastings-1895> .
+<https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/leipzig-1894> .
+<https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/world-chess-championship-1908> .
+<https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/skewer> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/skewer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TacticalMotif> .
 <https://github.com/john1hsu/chess-graph/id/skewer> <http://www.w3.org/2000/01/rdf-schema#label> "Skewer" .
@@ -4115,6 +4148,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
 <https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s6> <https://schema.org/url> "https://chessgames.com/perl/chessopening?eco=B20" .
+<https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s1> <http://purl.org/dc/terms/title> "Siegbert Tarrasch" .
+<https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s1> <https://schema.org/url> "https://britannica.com/biography/Siegbert-Tarrasch" .
+<https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s2> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
+<https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s2> <http://purl.org/dc/terms/title> "Siegbert Tarrasch (inductee page)" .
+<https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s2> <https://schema.org/url> "https://worldchesshof.org/inductee/siegbert-tarrasch/" .
+<https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s3> <http://purl.org/dc/terms/publisher> "Jewish Encyclopedia (1906)" .
+<https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s3> <http://purl.org/dc/terms/title> "Tarrasch, Siegbert (by Isidore Singer and A. Porter)" .
+<https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s3> <https://schema.org/url> "https://www.jewishencyclopedia.com/articles/14252" .
+<https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s4> <http://purl.org/dc/terms/publisher> "ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s4> <http://purl.org/dc/terms/title> "Siegbert Tarrasch: Player, Thinker, and Teacher Extraordinaire (by Eugene Manlapao)" .
+<https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s4> <https://schema.org/url> "https://en.chessbase.com/post/siegbert-tarrasch-player-thinker-and-teacher-extraordinaire-march-5-1862-february-17-1934" .
+<https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s5> <http://purl.org/dc/terms/publisher> "chessgames.com" .
+<https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s5> <http://purl.org/dc/terms/title> "Lasker vs. Tarrasch World Championship Match (1908)" .
+<https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s5> <https://schema.org/url> "https://chessgames.com/perl/chess.pl?tid=54099" .
+<https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s6> <http://purl.org/dc/terms/publisher> "chessgames.com" .
+<https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s6> <http://purl.org/dc/terms/title> "9th DSB Congress, Leipzig 1894 (crosstable)" .
+<https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s6> <https://schema.org/url> "https://chessgames.com/perl/chess.pl?tid=81311" .
+<https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s7> <http://purl.org/dc/terms/publisher> "chessgames.com" .
+<https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s7> <http://purl.org/dc/terms/title> "Queen's Gambit Declined, Tarrasch (ECO D32)" .
+<https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s7> <https://schema.org/url> "https://www.chessgames.com/perl/chessopening?eco=D32" .
 <https://github.com/john1hsu/chess-graph/id/source/skewer/s1> <http://purl.org/dc/terms/publisher> "English Chess Federation" .
 <https://github.com/john1hsu/chess-graph/id/source/skewer/s1> <http://purl.org/dc/terms/title> "Skewers (Chess Skills leaflet)" .
 <https://github.com/john1hsu/chess-graph/id/source/skewer/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

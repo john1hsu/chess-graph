@@ -1837,6 +1837,33 @@
     ]
   },
   {
+    "id": "kt:siegbert-tarrasch",
+    "title": "Siegbert Tarrasch",
+    "aliases": [
+      "Dr. Siegbert Tarrasch",
+      "Dr. Tarrasch",
+      "Tarrasch",
+      "Praeceptor Germaniae",
+      "Teacher of Germany"
+    ],
+    "type": "Player",
+    "domain": "players",
+    "file": "articles/players/siegbert-tarrasch.md",
+    "created": "2026-11-11",
+    "verified": "2026-11-11",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://britannica.com/biography/Siegbert-Tarrasch",
+      "https://worldchesshof.org/inductee/siegbert-tarrasch/",
+      "https://www.jewishencyclopedia.com/articles/14252",
+      "https://en.chessbase.com/post/siegbert-tarrasch-player-thinker-and-teacher-extraordinaire-march-5-1862-february-17-1934",
+      "https://chessgames.com/perl/chess.pl?tid=54099",
+      "https://chessgames.com/perl/chess.pl?tid=81311",
+      "https://www.chessgames.com/perl/chessopening?eco=D32"
+    ]
+  },
+  {
     "id": "kt:skewer",
     "title": "Skewer",
     "aliases": [
