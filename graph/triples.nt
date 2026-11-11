@@ -823,6 +823,37 @@
 <https://github.com/john1hsu/chess-graph/id/computer-chess> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> .
 <https://github.com/john1hsu/chess-graph/id/computer-chess> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/nnue> .
 <https://github.com/john1hsu/chess-graph/id/computer-chess> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/dead-position> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/dead-position> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Rule> .
+<https://github.com/john1hsu/chess-graph/id/dead-position> <http://www.w3.org/2000/01/rdf-schema#label> "Dead position" .
+<https://github.com/john1hsu/chess-graph/id/dead-position> <http://www.w3.org/2004/02/skos/core#altLabel> "Article 5.2.2" .
+<https://github.com/john1hsu/chess-graph/id/dead-position> <http://www.w3.org/2004/02/skos/core#altLabel> "Dead position rule" .
+<https://github.com/john1hsu/chess-graph/id/dead-position> <http://www.w3.org/2004/02/skos/core#altLabel> "Draw by insufficient material" .
+<https://github.com/john1hsu/chess-graph/id/dead-position> <http://www.w3.org/2004/02/skos/core#altLabel> "Insufficient material" .
+<https://github.com/john1hsu/chess-graph/id/dead-position> <http://www.w3.org/2004/02/skos/core#altLabel> "Insufficient mating material" .
+<https://github.com/john1hsu/chess-graph/id/dead-position> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/draw> .
+<https://github.com/john1hsu/chess-graph/id/dead-position> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/dead-position> <http://www.w3.org/2004/02/skos/core#definition> "The FIDE rule that a game is drawn the moment a position arises in which neither player can checkmate the opponent's king by any series of legal moves; it covers bare-king and insufficient-material endings as well as locked positions with many pieces left." .
+<https://github.com/john1hsu/chess-graph/id/dead-position> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dead position" .
+<https://github.com/john1hsu/chess-graph/id/dead-position> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/arbiter> .
+<https://github.com/john1hsu/chess-graph/id/dead-position> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/checkmate> .
+<https://github.com/john1hsu/chess-graph/id/dead-position> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/helpmate> .
+<https://github.com/john1hsu/chess-graph/id/dead-position> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/retrograde-analysis> .
+<https://github.com/john1hsu/chess-graph/id/dead-position> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/stalemate> .
+<https://github.com/john1hsu/chess-graph/id/dead-position> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/dead-position/s1> .
+<https://github.com/john1hsu/chess-graph/id/dead-position> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/dead-position/s2> .
+<https://github.com/john1hsu/chess-graph/id/dead-position> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/dead-position/s3> .
+<https://github.com/john1hsu/chess-graph/id/dead-position> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/dead-position/s4> .
+<https://github.com/john1hsu/chess-graph/id/dead-position> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/dead-position/s5> .
+<https://github.com/john1hsu/chess-graph/id/dead-position> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/dead-position/s6> .
+<https://github.com/john1hsu/chess-graph/id/dead-position> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/stalemate> .
+<https://github.com/john1hsu/chess-graph/id/dead-position> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/helpmate> .
+<https://github.com/john1hsu/chess-graph/id/dead-position> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/fide> .
+<https://github.com/john1hsu/chess-graph/id/dead-position> <https://github.com/john1hsu/chess-graph/ontology#domain> "rules-and-notation" .
+<https://github.com/john1hsu/chess-graph/id/dead-position> <https://github.com/john1hsu/chess-graph/ontology#fen> "4k3/8/8/1p1p1p1p/pPpPpPpP/P1P1P1P1/8/4K3 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/dead-position> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/dead-position> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/dead-position> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <http://purl.org/dc/terms/created> "2026-11-07" .
 <https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Event> .
 <https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <http://www.w3.org/2000/01/rdf-schema#label> "Deep Blue versus Kasparov" .
@@ -3099,6 +3130,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/computer-chess/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/computer-chess/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
 <https://github.com/john1hsu/chess-graph/id/source/computer-chess/s6> <https://schema.org/url> "https://lczero.org/dev/wiki/what-is-lc0" .
+<https://github.com/john1hsu/chess-graph/id/source/dead-position/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/dead-position/s1> <http://purl.org/dc/terms/title> "Laws of Chess, Article 5: The Completion of the Game" .
+<https://github.com/john1hsu/chess-graph/id/source/dead-position/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/dead-position/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/dead-position/s1> <https://schema.org/url> "https://rcc.fide.com/article5/" .
+<https://github.com/john1hsu/chess-graph/id/source/dead-position/s2> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/dead-position/s2> <http://purl.org/dc/terms/title> "FIDE Laws of Chess (effective 1 January 2018)" .
+<https://github.com/john1hsu/chess-graph/id/source/dead-position/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/dead-position/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/dead-position/s2> <https://schema.org/url> "https://rcc.fide.com/wp-content/uploads/2022/12/Laws_of_Chess-2018_ENG-2.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/dead-position/s3> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/dead-position/s3> <http://purl.org/dc/terms/title> "FIDE Laws of Chess (effective 1 July 1997)" .
+<https://github.com/john1hsu/chess-graph/id/source/dead-position/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/dead-position/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/dead-position/s3> <https://schema.org/url> "https://rcc.fide.com/wp-content/uploads/2022/12/Laws_of_Chess-1997_ENG.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/dead-position/s4> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/dead-position/s4> <http://purl.org/dc/terms/title> "FIDE Laws of Chess (effective 1 July 2001)" .
+<https://github.com/john1hsu/chess-graph/id/source/dead-position/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/dead-position/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/dead-position/s4> <https://schema.org/url> "https://rcc.fide.com/wp-content/uploads/2022/12/Laws_of_Chess-2001_ENG.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/dead-position/s5> <http://purl.org/dc/terms/publisher> "Jirina Prokopova, European Chess Union" .
+<https://github.com/john1hsu/chess-graph/id/source/dead-position/s5> <http://purl.org/dc/terms/title> "Dead position" .
+<https://github.com/john1hsu/chess-graph/id/source/dead-position/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/dead-position/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/dead-position/s5> <https://schema.org/url> "https://www.europechess.org/dead-position/" .
+<https://github.com/john1hsu/chess-graph/id/source/dead-position/s6> <http://purl.org/dc/terms/publisher> "Prodromos Gerontopoulos, ChessBase News / European Chess Union" .
+<https://github.com/john1hsu/chess-graph/id/source/dead-position/s6> <http://purl.org/dc/terms/title> "ECU: What should the arbiter do?" .
+<https://github.com/john1hsu/chess-graph/id/source/dead-position/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/dead-position/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/dead-position/s6> <https://schema.org/url> "https://en.chessbase.com/post/ecu-what-should-the-arbiter-do" .
 <https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s1> <http://purl.org/dc/terms/publisher> "M. Campbell, A. J. Hoane Jr., F. Hsu (copy hosted by Northern Arizona University)" .
 <https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s1> <http://purl.org/dc/terms/title> "Deep Blue (Artificial Intelligence 134, 2002)" .
 <https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

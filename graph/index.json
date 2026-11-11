@@ -734,6 +734,32 @@
     ]
   },
   {
+    "id": "kt:dead-position",
+    "title": "Dead position",
+    "aliases": [
+      "Dead position rule",
+      "Insufficient material",
+      "Insufficient mating material",
+      "Draw by insufficient material",
+      "Article 5.2.2"
+    ],
+    "type": "Rule",
+    "domain": "rules-and-notation",
+    "file": "articles/rules-and-notation/dead-position.md",
+    "created": "2026-11-11",
+    "verified": "2026-11-11",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://rcc.fide.com/article5/",
+      "https://rcc.fide.com/wp-content/uploads/2022/12/Laws_of_Chess-2018_ENG-2.pdf",
+      "https://rcc.fide.com/wp-content/uploads/2022/12/Laws_of_Chess-1997_ENG.pdf",
+      "https://rcc.fide.com/wp-content/uploads/2022/12/Laws_of_Chess-2001_ENG.pdf",
+      "https://www.europechess.org/dead-position/",
+      "https://en.chessbase.com/post/ecu-what-should-the-arbiter-do"
+    ]
+  },
+  {
     "id": "kt:deep-blue-versus-kasparov",
     "title": "Deep Blue versus Kasparov",
     "aliases": [

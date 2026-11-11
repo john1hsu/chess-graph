@@ -5573,6 +5573,109 @@
       ]
     },
     {
+      "@id": "kt:dead-position",
+      "@type": "kto:Rule",
+      "skos:prefLabel": "Dead position",
+      "skos:definition": "The FIDE rule that a game is drawn the moment a position arises in which neither player can checkmate the opponent's king by any series of legal moves; it covers bare-king and insufficient-material endings as well as locked positions with many pieces left.",
+      "kto:domain": "rules-and-notation",
+      "dcterms:created": "2026-11-11",
+      "kto:verified": "2026-11-11",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Laws of Chess, Article 5: The Completion of the Game",
+          "dcterms:publisher": "FIDE Rules Commission",
+          "schema:url": "https://rcc.fide.com/article5/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "FIDE Laws of Chess (effective 1 January 2018)",
+          "dcterms:publisher": "FIDE Rules Commission",
+          "schema:url": "https://rcc.fide.com/wp-content/uploads/2022/12/Laws_of_Chess-2018_ENG-2.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "FIDE Laws of Chess (effective 1 July 1997)",
+          "dcterms:publisher": "FIDE Rules Commission",
+          "schema:url": "https://rcc.fide.com/wp-content/uploads/2022/12/Laws_of_Chess-1997_ENG.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "FIDE Laws of Chess (effective 1 July 2001)",
+          "dcterms:publisher": "FIDE Rules Commission",
+          "schema:url": "https://rcc.fide.com/wp-content/uploads/2022/12/Laws_of_Chess-2001_ENG.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Dead position",
+          "dcterms:publisher": "Jirina Prokopova, European Chess Union",
+          "schema:url": "https://www.europechess.org/dead-position/",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "ECU: What should the arbiter do?",
+          "dcterms:publisher": "Prodromos Gerontopoulos, ChessBase News / European Chess Union",
+          "schema:url": "https://en.chessbase.com/post/ecu-what-should-the-arbiter-do",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/rules-and-notation/dead-position.md",
+      "skos:altLabel": [
+        "Dead position rule",
+        "Insufficient material",
+        "Insufficient mating material",
+        "Draw by insufficient material",
+        "Article 5.2.2"
+      ],
+      "kto:fen": "4k3/8/8/1p1p1p1p/pPpPpPpP/P1P1P1P1/8/4K3 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        },
+        {
+          "@id": "kt:draw"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:stalemate"
+        },
+        {
+          "@id": "kt:checkmate"
+        },
+        {
+          "@id": "kt:helpmate"
+        },
+        {
+          "@id": "kt:arbiter"
+        },
+        {
+          "@id": "kt:retrograde-analysis"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:stalemate"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:helpmate"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:fide"
+        }
+      ]
+    },
+    {
       "@id": "kt:en-passant",
       "@type": "kto:Rule",
       "skos:prefLabel": "En passant",

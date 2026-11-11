@@ -7,8 +7,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chess` | `kt:chess-endgame`, `kt:chaturanga`, `kt:history-of-chess`, `kt:shatranj`, `kt:chess-strategy`, `kt:fide-laws-of-chess`, `kt:chess-tactics`, `kt:chess-composition`, `kt:chess-variants` |
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:jose-raul-capablanca`, `kt:wilhelm-steinitz` |
 | `kt:triangulation` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:opposition`, `kt:zugzwang` |
+| `kt:checkmate` | `kt:dead-position`, `kt:stalemate`, `kt:helpmate` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position`, `kt:rook-endgames` |
-| `kt:dead-position` | `kt:stalemate`, `kt:helpmate`, `kt:retrograde-analysis` |
 | `kt:double-check` | `kt:discovered-attack`, `kt:discovered-attack`, `kt:fork` |
 | `kt:fifty-move-rule` | `kt:endgame-tablebases`, `kt:fide-laws-of-chess`, `kt:forsyth-edwards-notation` |
 | `kt:gukesh-dommaraju` | `kt:candidates-tournament`, `kt:chess-olympiad`, `kt:world-chess-championship` |
@@ -24,10 +24,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:adolf-anderssen` | `kt:romantic-era`, `kt:wilhelm-steinitz` |
 | `kt:alphazero` | `kt:evaluation-function`, `kt:chess-variants` |
 | `kt:candidate-moves` | `kt:prophylaxis`, `kt:calculation` |
-| `kt:checkmate` | `kt:stalemate`, `kt:helpmate` |
 | `kt:chess-organizations` | `kt:fide`, `kt:us-chess` |
 | `kt:chess-titles` | `kt:arbiter`, `kt:grandmaster-title` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
+| `kt:draw` | `kt:dead-position`, `kt:stalemate` |
 | `kt:evans-gambit` | `kt:romantic-era`, `kt:italian-game` |
 | `kt:excelsior` | `kt:chess-composition`, `kt:chess-problems` |
 | `kt:fischer-spassky-1972` | `kt:world-chess-championship`, `kt:bobby-fischer` |
@@ -90,7 +90,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:deep-blue` | `kt:deep-blue-versus-kasparov` |
 | `kt:deflection` | `kt:zwischenzug` |
 | `kt:dragon-variation` | `kt:sicilian-defence` |
-| `kt:draw` | `kt:stalemate` |
 | `kt:englisch-versus-steinitz-london-1883` | `kt:bishop-pair` |
 | `kt:european-chess-union` | `kt:fide` |
 | `kt:exchange-sacrifice` | `kt:sacrifice` |
