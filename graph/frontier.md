@@ -23,7 +23,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:tigran-petrosian` | `kt:prophylaxis`, `kt:bobby-fischer`, `kt:sacrifice` |
 | `kt:adolf-anderssen` | `kt:romantic-era`, `kt:wilhelm-steinitz` |
 | `kt:alphazero` | `kt:evaluation-function`, `kt:chess-variants` |
-| `kt:bishop-pair` | `kt:material-advantage`, `kt:nimzo-indian-defence` |
 | `kt:candidate-moves` | `kt:prophylaxis`, `kt:calculation` |
 | `kt:checkmate` | `kt:stalemate`, `kt:helpmate` |
 | `kt:chess-organizations` | `kt:fide`, `kt:us-chess` |
@@ -33,6 +32,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:excelsior` | `kt:chess-composition`, `kt:chess-problems` |
 | `kt:fischer-spassky-1972` | `kt:world-chess-championship`, `kt:bobby-fischer` |
 | `kt:francois-andre-danican-philidor` | `kt:philidor-position`, `kt:pawn-structure` |
+| `kt:good-and-bad-bishops` | `kt:bishop-pair`, `kt:french-defence` |
 | `kt:hanging-pawns` | `kt:isolated-queens-pawn`, `kt:pawn-structure` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:karpov-versus-unzicker-nice-1974` | `kt:prophylaxis`, `kt:anatoly-karpov` |
@@ -91,6 +91,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:deflection` | `kt:zwischenzug` |
 | `kt:dragon-variation` | `kt:sicilian-defence` |
 | `kt:draw` | `kt:stalemate` |
+| `kt:englisch-versus-steinitz-london-1883` | `kt:bishop-pair` |
 | `kt:european-chess-union` | `kt:fide` |
 | `kt:exchange-sacrifice` | `kt:sacrifice` |
 | `kt:extended-position-description` | `kt:forsyth-edwards-notation` |
@@ -103,7 +104,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:game-of-the-century` | `kt:bobby-fischer` |
 | `kt:giuoco-pianissimo` | `kt:italian-game` |
 | `kt:glicko-rating-system` | `kt:elo-rating-system` |
-| `kt:good-and-bad-bishops` | `kt:french-defence` |
 | `kt:good-knight-versus-bad-bishop` | `kt:outpost` |
 | `kt:hans-berliner` | `kt:horizon-effect` |
 | `kt:horatio-caro` | `kt:caro-kann-defence` |
@@ -136,6 +136,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:najdorf-variation` | `kt:sicilian-defence` |
 | `kt:negamax` | `kt:minimax` |
 | `kt:open-ruy-lopez` | `kt:ruy-lopez` |
+| `kt:opposite-coloured-bishops` | `kt:bishop-pair` |
 | `kt:otto-selz` | `kt:adriaan-de-groot` |
 | `kt:panov-botvinnik-attack` | `kt:caro-kann-defence` |
 | `kt:passive-rook-defence` | `kt:philidor-position` |

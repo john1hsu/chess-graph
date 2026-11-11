@@ -154,6 +154,31 @@
     ]
   },
   {
+    "id": "kt:bishop-pair",
+    "title": "Bishop pair",
+    "aliases": [
+      "Two bishops",
+      "The two bishops",
+      "Advantage of the two bishops",
+      "Bishop-pair advantage"
+    ],
+    "type": "StrategicConcept",
+    "domain": "middlegame-strategy",
+    "file": "articles/middlegame-strategy/bishop-pair.md",
+    "created": "2026-11-11",
+    "verified": "2026-11-11",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.chess.com/article/view/the-evaluation-of-material-imbalances-by-im-larry-kaufman",
+      "https://blogs.kent.ac.uk/djb",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/82117.pdf",
+      "https://en.chessbase.com/newsroom/post/britannica-the-development-of-chess-theory-2?page=0",
+      "https://en.chessbase.com/newsroom/post/understanding-before-moving-60-the-advantage-of-having-the-two-bishops?page=0",
+      "https://lichess.org/study/embed/MQt5Tzls/yQiLRprR"
+    ]
+  },
+  {
     "id": "kt:blockade",
     "title": "Blockade",
     "aliases": [

@@ -172,6 +172,32 @@
 <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/carlsbad-1929> .
 <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/bishop-pair> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/bishop-pair> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
+<https://github.com/john1hsu/chess-graph/id/bishop-pair> <http://www.w3.org/2000/01/rdf-schema#label> "Bishop pair" .
+<https://github.com/john1hsu/chess-graph/id/bishop-pair> <http://www.w3.org/2004/02/skos/core#altLabel> "Advantage of the two bishops" .
+<https://github.com/john1hsu/chess-graph/id/bishop-pair> <http://www.w3.org/2004/02/skos/core#altLabel> "Bishop-pair advantage" .
+<https://github.com/john1hsu/chess-graph/id/bishop-pair> <http://www.w3.org/2004/02/skos/core#altLabel> "The two bishops" .
+<https://github.com/john1hsu/chess-graph/id/bishop-pair> <http://www.w3.org/2004/02/skos/core#altLabel> "Two bishops" .
+<https://github.com/john1hsu/chess-graph/id/bishop-pair> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-strategy> .
+<https://github.com/john1hsu/chess-graph/id/bishop-pair> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/material-advantage> .
+<https://github.com/john1hsu/chess-graph/id/bishop-pair> <http://www.w3.org/2004/02/skos/core#definition> "The possession of both bishops when the opponent has given up one or both of theirs for a knight; because the two bishops together cover squares of both colours, the pair is usually reckoned a lasting advantage worth roughly half a pawn, growing as the position opens and pawns come off." .
+<https://github.com/john1hsu/chess-graph/id/bishop-pair> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bishop pair" .
+<https://github.com/john1hsu/chess-graph/id/bishop-pair> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> .
+<https://github.com/john1hsu/chess-graph/id/bishop-pair> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/nimzo-indian-defence> .
+<https://github.com/john1hsu/chess-graph/id/bishop-pair> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> .
+<https://github.com/john1hsu/chess-graph/id/bishop-pair> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/pawn-structure> .
+<https://github.com/john1hsu/chess-graph/id/bishop-pair> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s1> .
+<https://github.com/john1hsu/chess-graph/id/bishop-pair> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s2> .
+<https://github.com/john1hsu/chess-graph/id/bishop-pair> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s3> .
+<https://github.com/john1hsu/chess-graph/id/bishop-pair> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s4> .
+<https://github.com/john1hsu/chess-graph/id/bishop-pair> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s5> .
+<https://github.com/john1hsu/chess-graph/id/bishop-pair> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s6> .
+<https://github.com/john1hsu/chess-graph/id/bishop-pair> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> .
+<https://github.com/john1hsu/chess-graph/id/bishop-pair> <https://github.com/john1hsu/chess-graph/ontology#domain> "middlegame-strategy" .
+<https://github.com/john1hsu/chess-graph/id/bishop-pair> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/englisch-versus-steinitz-london-1883> .
+<https://github.com/john1hsu/chess-graph/id/bishop-pair> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/bishop-pair> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/blockade> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/blockade> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
 <https://github.com/john1hsu/chess-graph/id/blockade> <http://www.w3.org/2000/01/rdf-schema#label> "Blockade" .
@@ -2428,6 +2454,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
 <https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s6> <https://schema.org/url> "https://www.chessgames.com/perl/chessgame?gid=1102400" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s1> <http://purl.org/dc/terms/publisher> "Larry Kaufman, Chess.com (updated 17 November 2008)" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s1> <http://purl.org/dc/terms/title> "The Evaluation of Material Imbalances" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s1> <https://schema.org/url> "https://www.chess.com/article/view/the-evaluation-of-material-imbalances-by-im-larry-kaufman" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s2> <http://purl.org/dc/terms/publisher> "David J. Barnes (author of pgn-extract), University of Kent blogs" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s2> <http://purl.org/dc/terms/title> "Chess game data mining: exploring the advantage of the bishop pair with pgn-extract" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s2> <https://schema.org/url> "https://blogs.kent.ac.uk/djb" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s3> <http://purl.org/dc/terms/publisher> "Mauricio Flores Rios, Quality Chess, excerpt hosted by New In Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s3> <http://purl.org/dc/terms/title> "Chess Imbalances: A Grandmaster Guide (sample pages, chapter 4 'The Bishop Pair')" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s3> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/82117.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s4> <http://purl.org/dc/terms/publisher> "Andrew Soltis, Encyclopaedia Britannica, republished by ChessBase (19 October 2019)" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s4> <http://purl.org/dc/terms/title> "Britannica: The Evolution of Chess Theory (Part 2)" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s4> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/britannica-the-development-of-chess-theory-2?page=0" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s5> <http://purl.org/dc/terms/publisher> "Herman Grooten, ChessBase News (2 January 2022)" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s5> <http://purl.org/dc/terms/title> "Understanding before Moving 60: The advantage of having the two bishops" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s5> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/understanding-before-moving-60-the-advantage-of-having-the-two-bishops?page=0" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s6> <http://purl.org/dc/terms/publisher> "Lichess study" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s6> <http://purl.org/dc/terms/title> "Englisch vs Steinitz, London 1883 (study chapter)" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s6> <https://schema.org/url> "https://lichess.org/study/embed/MQt5Tzls/yQiLRprR" .
 <https://github.com/john1hsu/chess-graph/id/source/blockade/s1> <http://purl.org/dc/terms/publisher> "Aron Nimzowitsch, Quality Chess (2007 edition)" .
 <https://github.com/john1hsu/chess-graph/id/source/blockade/s1> <http://purl.org/dc/terms/title> "My System (excerpt)" .
 <https://github.com/john1hsu/chess-graph/id/source/blockade/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

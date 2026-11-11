@@ -3145,6 +3145,94 @@
       ]
     },
     {
+      "@id": "kt:bishop-pair",
+      "@type": "kto:StrategicConcept",
+      "skos:prefLabel": "Bishop pair",
+      "skos:definition": "The possession of both bishops when the opponent has given up one or both of theirs for a knight; because the two bishops together cover squares of both colours, the pair is usually reckoned a lasting advantage worth roughly half a pawn, growing as the position opens and pawns come off.",
+      "kto:domain": "middlegame-strategy",
+      "dcterms:created": "2026-11-11",
+      "kto:verified": "2026-11-11",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Evaluation of Material Imbalances",
+          "dcterms:publisher": "Larry Kaufman, Chess.com (updated 17 November 2008)",
+          "schema:url": "https://www.chess.com/article/view/the-evaluation-of-material-imbalances-by-im-larry-kaufman",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Chess game data mining: exploring the advantage of the bishop pair with pgn-extract",
+          "dcterms:publisher": "David J. Barnes (author of pgn-extract), University of Kent blogs",
+          "schema:url": "https://blogs.kent.ac.uk/djb",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Chess Imbalances: A Grandmaster Guide (sample pages, chapter 4 'The Bishop Pair')",
+          "dcterms:publisher": "Mauricio Flores Rios, Quality Chess, excerpt hosted by New In Chess",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/82117.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Britannica: The Evolution of Chess Theory (Part 2)",
+          "dcterms:publisher": "Andrew Soltis, Encyclopaedia Britannica, republished by ChessBase (19 October 2019)",
+          "schema:url": "https://en.chessbase.com/newsroom/post/britannica-the-development-of-chess-theory-2?page=0",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Understanding before Moving 60: The advantage of having the two bishops",
+          "dcterms:publisher": "Herman Grooten, ChessBase News (2 January 2022)",
+          "schema:url": "https://en.chessbase.com/newsroom/post/understanding-before-moving-60-the-advantage-of-having-the-two-bishops?page=0",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Englisch vs Steinitz, London 1883 (study chapter)",
+          "dcterms:publisher": "Lichess study",
+          "schema:url": "https://lichess.org/study/embed/MQt5Tzls/yQiLRprR",
+          "kto:sourceType": "database"
+        }
+      ],
+      "kto:file": "articles/middlegame-strategy/bishop-pair.md",
+      "skos:altLabel": [
+        "Two bishops",
+        "The two bishops",
+        "Advantage of the two bishops",
+        "Bishop-pair advantage"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:material-advantage"
+        },
+        {
+          "@id": "kt:chess-strategy"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:nimzo-indian-defence"
+        },
+        {
+          "@id": "kt:good-and-bad-bishops"
+        },
+        {
+          "@id": "kt:pawn-structure"
+        },
+        {
+          "@id": "kt:opposite-coloured-bishops"
+        }
+      ],
+      "kto:championedBy": [
+        {
+          "@id": "kt:wilhelm-steinitz"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:englisch-versus-steinitz-london-1883"
+        }
+      ]
+    },
+    {
       "@id": "kt:blockade",
       "@type": "kto:StrategicConcept",
       "skos:prefLabel": "Blockade",
