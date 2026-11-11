@@ -2019,6 +2019,38 @@
 <https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/retractor> .
 <https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/romantic-era> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/romantic-era> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#School> .
+<https://github.com/john1hsu/chess-graph/id/romantic-era> <http://www.w3.org/2000/01/rdf-schema#label> "Romantic era" .
+<https://github.com/john1hsu/chess-graph/id/romantic-era> <http://www.w3.org/2004/02/skos/core#altLabel> "Age of Romanticism (chess)" .
+<https://github.com/john1hsu/chess-graph/id/romantic-era> <http://www.w3.org/2004/02/skos/core#altLabel> "Romantic chess" .
+<https://github.com/john1hsu/chess-graph/id/romantic-era> <http://www.w3.org/2004/02/skos/core#altLabel> "Romantic school of chess" .
+<https://github.com/john1hsu/chess-graph/id/romantic-era> <http://www.w3.org/2004/02/skos/core#altLabel> "Romantic school" .
+<https://github.com/john1hsu/chess-graph/id/romantic-era> <http://www.w3.org/2004/02/skos/core#altLabel> "Romanticism in chess" .
+<https://github.com/john1hsu/chess-graph/id/romantic-era> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-strategy> .
+<https://github.com/john1hsu/chess-graph/id/romantic-era> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/history-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/romantic-era> <http://www.w3.org/2004/02/skos/core#definition> "The style that dominated master chess in the mid-to-late nineteenth century, built on rapid development, opening gambits and sacrificial attacks on the enemy king, whose leading figure was Adolf Anderssen and which gave way to Wilhelm Steinitz's positional, scientific approach." .
+<https://github.com/john1hsu/chess-graph/id/romantic-era> <http://www.w3.org/2004/02/skos/core#prefLabel> "Romantic era" .
+<https://github.com/john1hsu/chess-graph/id/romantic-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/combination> .
+<https://github.com/john1hsu/chess-graph/id/romantic-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/evans-gambit> .
+<https://github.com/john1hsu/chess-graph/id/romantic-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/hypermodernism> .
+<https://github.com/john1hsu/chess-graph/id/romantic-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/sacrifice> .
+<https://github.com/john1hsu/chess-graph/id/romantic-era> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/romantic-era> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/romantic-era/s1> .
+<https://github.com/john1hsu/chess-graph/id/romantic-era> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/romantic-era/s2> .
+<https://github.com/john1hsu/chess-graph/id/romantic-era> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/romantic-era/s3> .
+<https://github.com/john1hsu/chess-graph/id/romantic-era> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/romantic-era/s4> .
+<https://github.com/john1hsu/chess-graph/id/romantic-era> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/romantic-era/s5> .
+<https://github.com/john1hsu/chess-graph/id/romantic-era> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/romantic-era/s6> .
+<https://github.com/john1hsu/chess-graph/id/romantic-era> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/adolf-anderssen> .
+<https://github.com/john1hsu/chess-graph/id/romantic-era> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/paul-morphy> .
+<https://github.com/john1hsu/chess-graph/id/romantic-era> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> .
+<https://github.com/john1hsu/chess-graph/id/romantic-era> <https://github.com/john1hsu/chess-graph/ontology#domain> "history" .
+<https://github.com/john1hsu/chess-graph/id/romantic-era> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/immortal-game> .
+<https://github.com/john1hsu/chess-graph/id/romantic-era> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/modena-school> .
+<https://github.com/john1hsu/chess-graph/id/romantic-era> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/history-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/romantic-era> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/romantic-era> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/rook-endgames> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/rook-endgames> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#EndgameType> .
 <https://github.com/john1hsu/chess-graph/id/rook-endgames> <http://www.w3.org/2000/01/rdf-schema#label> "Rook endgames" .
@@ -4198,6 +4230,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s6> <https://schema.org/url> "https://www.ozproblems.com/walkabout/walkabout2020/apr17" .
+<https://github.com/john1hsu/chess-graph/id/source/romantic-era/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/romantic-era/s1> <http://purl.org/dc/terms/title> "Chess: Development of theory" .
+<https://github.com/john1hsu/chess-graph/id/source/romantic-era/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/romantic-era/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/romantic-era/s1> <https://schema.org/url> "https://www.britannica.com/topic/chess/Development-of-theory" .
+<https://github.com/john1hsu/chess-graph/id/source/romantic-era/s2> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/romantic-era/s2> <http://purl.org/dc/terms/title> "Adolf Anderssen" .
+<https://github.com/john1hsu/chess-graph/id/source/romantic-era/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/romantic-era/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/romantic-era/s2> <https://schema.org/url> "https://www.britannica.com/biography/Adolf-Anderssen" .
+<https://github.com/john1hsu/chess-graph/id/source/romantic-era/s3> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
+<https://github.com/john1hsu/chess-graph/id/source/romantic-era/s3> <http://purl.org/dc/terms/title> "Paul Charles Morphy (inductee page)" .
+<https://github.com/john1hsu/chess-graph/id/source/romantic-era/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/romantic-era/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/romantic-era/s3> <https://schema.org/url> "https://worldchesshof.org/inductee/paul-morphy/" .
+<https://github.com/john1hsu/chess-graph/id/source/romantic-era/s4> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
+<https://github.com/john1hsu/chess-graph/id/source/romantic-era/s4> <http://purl.org/dc/terms/title> "Wilhelm (William) Steinitz (inductee page)" .
+<https://github.com/john1hsu/chess-graph/id/source/romantic-era/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/romantic-era/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/romantic-era/s4> <https://schema.org/url> "https://worldchesshof.org/inductee/wilhelm-william-steinitz/" .
+<https://github.com/john1hsu/chess-graph/id/source/romantic-era/s5> <http://purl.org/dc/terms/publisher> "ChessBase News (Stephan Oliver Platz)" .
+<https://github.com/john1hsu/chess-graph/id/source/romantic-era/s5> <http://purl.org/dc/terms/title> "Romantic Steinitz" .
+<https://github.com/john1hsu/chess-graph/id/source/romantic-era/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/romantic-era/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/romantic-era/s5> <https://schema.org/url> "https://en.chessbase.com/post/romantic-steinitz" .
+<https://github.com/john1hsu/chess-graph/id/source/romantic-era/s6> <http://purl.org/dc/terms/publisher> "ChessBase News (André Schulz)" .
+<https://github.com/john1hsu/chess-graph/id/source/romantic-era/s6> <http://purl.org/dc/terms/title> "175 years ago: Anderssen's Immortal Game is played in London" .
+<https://github.com/john1hsu/chess-graph/id/source/romantic-era/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/romantic-era/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/romantic-era/s6> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/175-years-anderssen-immortal" .
 <https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s1> <http://purl.org/dc/terms/publisher> "Karsten Müller and Yakov Konoval, Gambit Publications (2016); New In Chess shop page" .
 <https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s1> <http://purl.org/dc/terms/title> "Understanding Rook Endgames" .
 <https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

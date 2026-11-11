@@ -1808,6 +1808,32 @@
     ]
   },
   {
+    "id": "kt:romantic-era",
+    "title": "Romantic era",
+    "aliases": [
+      "Romantic chess",
+      "Romantic school of chess",
+      "Romantic school",
+      "Romanticism in chess",
+      "Age of Romanticism (chess)"
+    ],
+    "type": "School",
+    "domain": "history",
+    "file": "articles/history/romantic-era.md",
+    "created": "2026-11-11",
+    "verified": "2026-11-11",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://www.britannica.com/topic/chess/Development-of-theory",
+      "https://www.britannica.com/biography/Adolf-Anderssen",
+      "https://worldchesshof.org/inductee/paul-morphy/",
+      "https://worldchesshof.org/inductee/wilhelm-william-steinitz/",
+      "https://en.chessbase.com/post/romantic-steinitz",
+      "https://en.chessbase.com/newsroom/post/175-years-anderssen-immortal"
+    ]
+  },
+  {
     "id": "kt:rook-endgames",
     "title": "Rook endgames",
     "aliases": [
