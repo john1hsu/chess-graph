@@ -587,6 +587,31 @@
     ]
   },
   {
+    "id": "kt:chess-titles",
+    "title": "Chess titles",
+    "aliases": [
+      "Chess title",
+      "FIDE titles",
+      "FIDE title",
+      "Title system",
+      "Chess title system"
+    ],
+    "type": "Title",
+    "domain": "events-and-organizations",
+    "file": "articles/events-and-organizations/chess-titles.md",
+    "created": "2026-11-12",
+    "verified": "2026-11-12",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://handbook.fide.com/chapter/B012024",
+      "https://arbiters.fide.com/arb-titles/fide-arbiters-system",
+      "https://handbook.fide.com/chapter/B072023",
+      "https://www.wfcc.ch/?p=22941",
+      "https://www.iccf.com/userfiles/files/How%20to%20achieve%20an%20ICCF%20Title%2001-01-2013.pdf"
+    ]
+  },
+  {
     "id": "kt:chess-variants",
     "title": "Chess variants",
     "aliases": [

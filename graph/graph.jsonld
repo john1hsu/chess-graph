@@ -2089,6 +2089,88 @@
       ]
     },
     {
+      "@id": "kt:chess-titles",
+      "@type": "kto:Title",
+      "skos:prefLabel": "Chess titles",
+      "skos:definition": "The ladder of lifetime distinctions that chess bodies award for proven strength or service: FIDE's open and women's playing titles, its arbiter and trainer titles, and parallel titles for composition and correspondence chess.",
+      "kto:domain": "events-and-organizations",
+      "dcterms:created": "2026-11-12",
+      "kto:verified": "2026-11-12",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "FIDE Title Regulations effective from 1 January 2024",
+          "dcterms:publisher": "FIDE Handbook (B.01)",
+          "schema:url": "https://handbook.fide.com/chapter/B012024",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "FIDE Arbiters' System",
+          "dcterms:publisher": "FIDE Arbiters' Commission",
+          "schema:url": "https://arbiters.fide.com/arb-titles/fide-arbiters-system",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Regulations for the Titles of Trainers / FIDE Endorsed Academies",
+          "dcterms:publisher": "FIDE Handbook (B.07)",
+          "schema:url": "https://handbook.fide.com/chapter/B072023",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "FIDE Album Points 1914-2024",
+          "dcterms:publisher": "World Federation for Chess Composition",
+          "schema:url": "https://www.wfcc.ch/?p=22941",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "How to achieve an ICCF Title (2013)",
+          "dcterms:publisher": "International Correspondence Chess Federation",
+          "schema:url": "https://www.iccf.com/userfiles/files/How%20to%20achieve%20an%20ICCF%20Title%2001-01-2013.pdf",
+          "kto:sourceType": "governing-body"
+        }
+      ],
+      "kto:file": "articles/events-and-organizations/chess-titles.md",
+      "skos:altLabel": [
+        "Chess title",
+        "FIDE titles",
+        "FIDE title",
+        "Title system",
+        "Chess title system"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:arbiter"
+        },
+        {
+          "@id": "kt:chess-composition"
+        },
+        {
+          "@id": "kt:correspondence-chess"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:grandmaster-title"
+        }
+      ],
+      "kto:sanctionedBy": [
+        {
+          "@id": "kt:fide"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:elo-rating-system"
+        }
+      ]
+    },
+    {
       "@id": "kt:elo-rating-system",
       "@type": "kto:RatingSystem",
       "skos:prefLabel": "Elo rating system",

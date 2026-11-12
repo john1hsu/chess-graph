@@ -655,6 +655,31 @@
 <https://github.com/john1hsu/chess-graph/id/chess-tactics> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/fork> .
 <https://github.com/john1hsu/chess-graph/id/chess-tactics> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/chess-tactics> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/chess-titles> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/chess-titles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Title> .
+<https://github.com/john1hsu/chess-graph/id/chess-titles> <http://www.w3.org/2000/01/rdf-schema#label> "Chess titles" .
+<https://github.com/john1hsu/chess-graph/id/chess-titles> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess title system" .
+<https://github.com/john1hsu/chess-graph/id/chess-titles> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess title" .
+<https://github.com/john1hsu/chess-graph/id/chess-titles> <http://www.w3.org/2004/02/skos/core#altLabel> "FIDE title" .
+<https://github.com/john1hsu/chess-graph/id/chess-titles> <http://www.w3.org/2004/02/skos/core#altLabel> "FIDE titles" .
+<https://github.com/john1hsu/chess-graph/id/chess-titles> <http://www.w3.org/2004/02/skos/core#altLabel> "Title system" .
+<https://github.com/john1hsu/chess-graph/id/chess-titles> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess> .
+<https://github.com/john1hsu/chess-graph/id/chess-titles> <http://www.w3.org/2004/02/skos/core#definition> "The ladder of lifetime distinctions that chess bodies award for proven strength or service: FIDE's open and women's playing titles, its arbiter and trainer titles, and parallel titles for composition and correspondence chess." .
+<https://github.com/john1hsu/chess-graph/id/chess-titles> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chess titles" .
+<https://github.com/john1hsu/chess-graph/id/chess-titles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/arbiter> .
+<https://github.com/john1hsu/chess-graph/id/chess-titles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-composition> .
+<https://github.com/john1hsu/chess-graph/id/chess-titles> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/correspondence-chess> .
+<https://github.com/john1hsu/chess-graph/id/chess-titles> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-titles/s1> .
+<https://github.com/john1hsu/chess-graph/id/chess-titles> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-titles/s2> .
+<https://github.com/john1hsu/chess-graph/id/chess-titles> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-titles/s3> .
+<https://github.com/john1hsu/chess-graph/id/chess-titles> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-titles/s4> .
+<https://github.com/john1hsu/chess-graph/id/chess-titles> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-titles/s5> .
+<https://github.com/john1hsu/chess-graph/id/chess-titles> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/elo-rating-system> .
+<https://github.com/john1hsu/chess-graph/id/chess-titles> <https://github.com/john1hsu/chess-graph/ontology#domain> "events-and-organizations" .
+<https://github.com/john1hsu/chess-graph/id/chess-titles> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/grandmaster-title> .
+<https://github.com/john1hsu/chess-graph/id/chess-titles> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/fide> .
+<https://github.com/john1hsu/chess-graph/id/chess-titles> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/chess-titles> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/chess-variants> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/chess-variants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Concept> .
 <https://github.com/john1hsu/chess-graph/id/chess-variants> <http://www.w3.org/2000/01/rdf-schema#label> "Chess variants" .
@@ -3283,6 +3308,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-tactics/s6> <https://schema.org/url> "https://core.ac.uk/download/334186.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-titles/s1> <http://purl.org/dc/terms/publisher> "FIDE Handbook (B.01)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-titles/s1> <http://purl.org/dc/terms/title> "FIDE Title Regulations effective from 1 January 2024" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-titles/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-titles/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-titles/s1> <https://schema.org/url> "https://handbook.fide.com/chapter/B012024" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-titles/s2> <http://purl.org/dc/terms/publisher> "FIDE Arbiters' Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-titles/s2> <http://purl.org/dc/terms/title> "FIDE Arbiters' System" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-titles/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-titles/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-titles/s2> <https://schema.org/url> "https://arbiters.fide.com/arb-titles/fide-arbiters-system" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-titles/s3> <http://purl.org/dc/terms/publisher> "FIDE Handbook (B.07)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-titles/s3> <http://purl.org/dc/terms/title> "Regulations for the Titles of Trainers / FIDE Endorsed Academies" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-titles/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-titles/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-titles/s3> <https://schema.org/url> "https://handbook.fide.com/chapter/B072023" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-titles/s4> <http://purl.org/dc/terms/publisher> "World Federation for Chess Composition" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-titles/s4> <http://purl.org/dc/terms/title> "FIDE Album Points 1914-2024" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-titles/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-titles/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-titles/s4> <https://schema.org/url> "https://www.wfcc.ch/?p=22941" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-titles/s5> <http://purl.org/dc/terms/publisher> "International Correspondence Chess Federation" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-titles/s5> <http://purl.org/dc/terms/title> "How to achieve an ICCF Title (2013)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-titles/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-titles/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-titles/s5> <https://schema.org/url> "https://www.iccf.com/userfiles/files/How%20to%20achieve%20an%20ICCF%20Title%2001-01-2013.pdf" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-variants/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-variants/s1> <http://purl.org/dc/terms/title> "FIDE Laws of Chess, Guidelines II. Chess960 Rules" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-variants/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
