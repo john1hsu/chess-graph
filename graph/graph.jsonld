@@ -2987,6 +2987,119 @@
       ]
     },
     {
+      "@id": "kt:us-chess-championship",
+      "@type": "kto:Event",
+      "skos:prefLabel": "U.S. Chess Championship",
+      "skos:definition": "The national individual chess championship of the United States, held under the authority of US Chess; after a long era of title matches it has been decided by invitational tournaments since 1936, and since 2009 it has been played every year at the Saint Louis Chess Club as a 12-player round robin.",
+      "kto:domain": "events-and-organizations",
+      "dcterms:created": "2026-11-12",
+      "kto:verified": "2026-11-12",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Early Predecessors of the U.S. Chess Federation",
+          "dcterms:publisher": "World Chess Hall of Fame (essay by John McCrary)",
+          "schema:url": "https://worldchesshof.org/wp-content/uploads/2025/02/Full-version-McCrary-essay.pdf",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Frank J. Marshall",
+          "dcterms:publisher": "World Chess Hall of Fame & Galleries",
+          "schema:url": "https://worldchesshof.org/?p=794",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Robert (Bobby) James Fischer",
+          "dcterms:publisher": "World Chess Hall of Fame & Galleries",
+          "schema:url": "https://worldchesshof.org/inductee/robert-james-fischer/",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "U.S. Championships - A Look Back",
+          "dcterms:publisher": "U.S. Championships official site (Saint Louis Chess Club)",
+          "schema:url": "https://www.uschesschamps.com/node/621",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "Knight to October 8: Saint Louis to host America's chess elite",
+          "dcterms:publisher": "ChessBase Newsroom (Saint Louis Chess Club press release)",
+          "schema:url": "https://en.chessbase.com/newsroom/post/us-championships-2026-announcement?page=0",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "US Championships 2026: Caruana's titles",
+          "dcterms:publisher": "ChessBase (Carlos Alberto Colodro, 9 October 2026)",
+          "schema:url": "https://en.chessbase.com/post/us-championships-2026-caruana-titles",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "2025 U.S. Championships: Fabiano Caruana and Carissa Yip defend titles",
+          "dcterms:publisher": "FIDE (fide.com news)",
+          "schema:url": "https://www.fide.com/2025-u-s-championship-fabiano-caruana-and-carissa-yip-defend-titles/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "2026 U.S. Championship: Wesley So and Rachael Li claim titles",
+          "dcterms:publisher": "FIDE (fide.com news, 23 October 2026)",
+          "schema:url": "https://www.fide.com/2026-u-s-championship-wesley-so-and-rachael-li-claim-titles/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "2026 U.S. Chess Championship Playoffs: Wesley So Wins 4th U.S. Chess Championship",
+          "dcterms:publisher": "Chess.com News (NM Anthony Levin)",
+          "schema:url": "https://www.chess.com/news/view/wesley-so-wins-2026-us-chess-championship",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/events-and-organizations/us-chess-championship.md",
+      "skos:altLabel": [
+        "US Chess Championship",
+        "United States Chess Championship",
+        "U.S. Championship",
+        "US Championship",
+        "U.S. Closed Championship"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess-tournament"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:us-chess"
+        },
+        {
+          "@id": "kt:saint-louis-chess-club"
+        },
+        {
+          "@id": "kt:bobby-fischer"
+        },
+        {
+          "@id": "kt:us-womens-chess-championship"
+        },
+        {
+          "@id": "kt:tie-break"
+        }
+      ],
+      "kto:sanctionedBy": [
+        {
+          "@id": "kt:us-chess"
+        }
+      ],
+      "kto:wonBy": [
+        {
+          "@id": "kt:frank-marshall"
+        },
+        {
+          "@id": "kt:samuel-reshevsky"
+        },
+        {
+          "@id": "kt:bobby-fischer"
+        }
+      ]
+    },
+    {
       "@id": "kt:us-chess",
       "@type": "kto:Organization",
       "skos:prefLabel": "US Chess",

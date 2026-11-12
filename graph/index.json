@@ -2986,6 +2986,35 @@
     ]
   },
   {
+    "id": "kt:us-chess-championship",
+    "title": "U.S. Chess Championship",
+    "aliases": [
+      "US Chess Championship",
+      "United States Chess Championship",
+      "U.S. Championship",
+      "US Championship",
+      "U.S. Closed Championship"
+    ],
+    "type": "Event",
+    "domain": "events-and-organizations",
+    "file": "articles/events-and-organizations/us-chess-championship.md",
+    "created": "2026-11-12",
+    "verified": "2026-11-12",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://worldchesshof.org/wp-content/uploads/2025/02/Full-version-McCrary-essay.pdf",
+      "https://worldchesshof.org/?p=794",
+      "https://worldchesshof.org/inductee/robert-james-fischer/",
+      "https://www.uschesschamps.com/node/621",
+      "https://en.chessbase.com/newsroom/post/us-championships-2026-announcement?page=0",
+      "https://en.chessbase.com/post/us-championships-2026-caruana-titles",
+      "https://www.fide.com/2025-u-s-championship-fabiano-caruana-and-carissa-yip-defend-titles/",
+      "https://www.fide.com/2026-u-s-championship-wesley-so-and-rachael-li-claim-titles/",
+      "https://www.chess.com/news/view/wesley-so-wins-2026-us-chess-championship"
+    ]
+  },
+  {
     "id": "kt:visualization",
     "title": "Visualization",
     "aliases": [

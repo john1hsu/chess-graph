@@ -47,16 +47,17 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:rule-of-the-square` | `kt:king-and-pawn-endgames`, `kt:passed-pawn` |
 | `kt:saavedra-position` | `kt:pawn-promotion`, `kt:endgame-study` |
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:zugzwang`, `kt:aron-nimzowitsch` |
+| `kt:saint-louis-chess-club` | `kt:us-chess-championship`, `kt:us-chess` |
 | `kt:simplification` | `kt:material-advantage`, `kt:material-advantage` |
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
 | `kt:starting-age` | `kt:chess-expertise`, `kt:deliberate-practice` |
 | `kt:steinitz-von-bardeleben-hastings-1895` | `kt:hastings-1895`, `kt:wilhelm-steinitz` |
 | `kt:sveshnikov-variation` | `kt:outpost`, `kt:sicilian-defence` |
 | `kt:talent` | `kt:chess-expertise`, `kt:deliberate-practice` |
+| `kt:tie-break` | `kt:chess-tournament`, `kt:us-chess-championship` |
 | `kt:transposition-table` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:underpromotion` | `kt:pawn-promotion`, `kt:excelsior` |
 | `kt:universal-chess-interface` | `kt:stockfish`, `kt:chess960` |
-| `kt:us-chess-championship` | `kt:us-chess`, `kt:bobby-fischer` |
 | `kt:vladimir-kramnik` | `kt:ruy-lopez`, `kt:garry-kasparov` |
 | `kt:world-chess-championship-1886` | `kt:world-chess-championship`, `kt:wilhelm-steinitz` |
 | `kt:world-federation-for-chess-composition` | `kt:chess-composition`, `kt:codex-of-chess-composition` |
@@ -96,6 +97,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fide-world-fischer-random-chess-championship` | `kt:chess960` |
 | `kt:fischer-spassky-1972-game-6` | `kt:hanging-pawns` |
 | `kt:four-handed-chaturanga` | `kt:chaturanga` |
+| `kt:frank-marshall` | `kt:us-chess-championship` |
 | `kt:gambit` | `kt:sacrifice` |
 | `kt:game-of-the-century` | `kt:bobby-fischer` |
 | `kt:giuoco-pianissimo` | `kt:italian-game` |
@@ -171,10 +173,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:rubinstein-variation` | `kt:nimzo-indian-defence` |
 | `kt:rudolf-spielmann` | `kt:sacrifice` |
 | `kt:ruy-lopez-de-segura` | `kt:ruy-lopez` |
-| `kt:saint-louis-chess-club` | `kt:us-chess` |
 | `kt:sam-loyd` | `kt:excelsior` |
 | `kt:same-coloured-bishops` | `kt:opposite-coloured-bishops` |
 | `kt:samisch-variation` | `kt:nimzo-indian-defence` |
+| `kt:samuel-reshevsky` | `kt:us-chess-championship` |
 | `kt:selfmate` | `kt:helpmate` |
 | `kt:semi-slav-defence` | `kt:slav-defence` |
 | `kt:shogi` | `kt:chess-variants` |
@@ -189,11 +191,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:tarrasch-defence` | `kt:isolated-queens-pawn` |
 | `kt:team-chess` | `kt:chess-olympiad` |
 | `kt:the-exchange` | `kt:material-advantage` |
-| `kt:tie-break` | `kt:chess-tournament` |
 | `kt:tie-break-regulations` | `kt:chess-olympiad` |
 | `kt:top-chess-engine-championship` | `kt:stockfish` |
 | `kt:tord-romstad` | `kt:stockfish` |
 | `kt:two-knights-defence` | `kt:italian-game` |
+| `kt:us-womens-chess-championship` | `kt:us-chess-championship` |
 | `kt:vancura-position` | `kt:rook-endgames` |
 | `kt:vera-menchik` | `kt:womens-world-chess-championship` |
 | `kt:viktor-korchnoi` | `kt:anatoly-karpov` |

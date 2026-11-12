@@ -6445,6 +6445,51 @@
 <https://github.com/john1hsu/chess-graph/id/source/triangulation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/triangulation/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
 <https://github.com/john1hsu/chess-graph/id/source/triangulation/s4> <https://schema.org/url> "https://gutenberg.org/files/5614/5614-h/5614-h.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s1> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame (essay by John McCrary)" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s1> <http://purl.org/dc/terms/title> "Early Predecessors of the U.S. Chess Federation" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s1> <https://schema.org/url> "https://worldchesshof.org/wp-content/uploads/2025/02/Full-version-McCrary-essay.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s2> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame & Galleries" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s2> <http://purl.org/dc/terms/title> "Frank J. Marshall" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s2> <https://schema.org/url> "https://worldchesshof.org/?p=794" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s3> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame & Galleries" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s3> <http://purl.org/dc/terms/title> "Robert (Bobby) James Fischer" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s3> <https://schema.org/url> "https://worldchesshof.org/inductee/robert-james-fischer/" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s4> <http://purl.org/dc/terms/publisher> "U.S. Championships official site (Saint Louis Chess Club)" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s4> <http://purl.org/dc/terms/title> "U.S. Championships - A Look Back" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s4> <https://schema.org/url> "https://www.uschesschamps.com/node/621" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s5> <http://purl.org/dc/terms/publisher> "ChessBase Newsroom (Saint Louis Chess Club press release)" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s5> <http://purl.org/dc/terms/title> "Knight to October 8: Saint Louis to host America's chess elite" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s5> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/us-championships-2026-announcement?page=0" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s6> <http://purl.org/dc/terms/publisher> "ChessBase (Carlos Alberto Colodro, 9 October 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s6> <http://purl.org/dc/terms/title> "US Championships 2026: Caruana's titles" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s6> <https://schema.org/url> "https://en.chessbase.com/post/us-championships-2026-caruana-titles" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s7> <http://purl.org/dc/terms/publisher> "FIDE (fide.com news)" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s7> <http://purl.org/dc/terms/title> "2025 U.S. Championships: Fabiano Caruana and Carissa Yip defend titles" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s7> <https://schema.org/url> "https://www.fide.com/2025-u-s-championship-fabiano-caruana-and-carissa-yip-defend-titles/" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s8> <http://purl.org/dc/terms/publisher> "FIDE (fide.com news, 23 October 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s8> <http://purl.org/dc/terms/title> "2026 U.S. Championship: Wesley So and Rachael Li claim titles" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s8> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s8> <https://schema.org/url> "https://www.fide.com/2026-u-s-championship-wesley-so-and-rachael-li-claim-titles/" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s9> <http://purl.org/dc/terms/publisher> "Chess.com News (NM Anthony Levin)" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s9> <http://purl.org/dc/terms/title> "2026 U.S. Chess Championship Playoffs: Wesley So Wins 4th U.S. Chess Championship" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s9> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s9> <https://schema.org/url> "https://www.chess.com/news/view/wesley-so-wins-2026-us-chess-championship" .
 <https://github.com/john1hsu/chess-graph/id/source/us-chess/s1> <http://purl.org/dc/terms/publisher> "US Chess (uschess.org)" .
 <https://github.com/john1hsu/chess-graph/id/source/us-chess/s1> <http://purl.org/dc/terms/title> "About USCF" .
 <https://github.com/john1hsu/chess-graph/id/source/us-chess/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -6848,6 +6893,38 @@
 <https://github.com/john1hsu/chess-graph/id/triangulation> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/corresponding-squares> .
 <https://github.com/john1hsu/chess-graph/id/triangulation> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/triangulation> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/us-chess-championship> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/us-chess-championship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Event> .
+<https://github.com/john1hsu/chess-graph/id/us-chess-championship> <http://www.w3.org/2000/01/rdf-schema#label> "U.S. Chess Championship" .
+<https://github.com/john1hsu/chess-graph/id/us-chess-championship> <http://www.w3.org/2004/02/skos/core#altLabel> "U.S. Championship" .
+<https://github.com/john1hsu/chess-graph/id/us-chess-championship> <http://www.w3.org/2004/02/skos/core#altLabel> "U.S. Closed Championship" .
+<https://github.com/john1hsu/chess-graph/id/us-chess-championship> <http://www.w3.org/2004/02/skos/core#altLabel> "US Championship" .
+<https://github.com/john1hsu/chess-graph/id/us-chess-championship> <http://www.w3.org/2004/02/skos/core#altLabel> "US Chess Championship" .
+<https://github.com/john1hsu/chess-graph/id/us-chess-championship> <http://www.w3.org/2004/02/skos/core#altLabel> "United States Chess Championship" .
+<https://github.com/john1hsu/chess-graph/id/us-chess-championship> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-tournament> .
+<https://github.com/john1hsu/chess-graph/id/us-chess-championship> <http://www.w3.org/2004/02/skos/core#definition> "The national individual chess championship of the United States, held under the authority of US Chess; after a long era of title matches it has been decided by invitational tournaments since 1936, and since 2009 it has been played every year at the Saint Louis Chess Club as a 12-player round robin." .
+<https://github.com/john1hsu/chess-graph/id/us-chess-championship> <http://www.w3.org/2004/02/skos/core#prefLabel> "U.S. Chess Championship" .
+<https://github.com/john1hsu/chess-graph/id/us-chess-championship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/bobby-fischer> .
+<https://github.com/john1hsu/chess-graph/id/us-chess-championship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/saint-louis-chess-club> .
+<https://github.com/john1hsu/chess-graph/id/us-chess-championship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/tie-break> .
+<https://github.com/john1hsu/chess-graph/id/us-chess-championship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/us-chess> .
+<https://github.com/john1hsu/chess-graph/id/us-chess-championship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/us-womens-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/us-chess-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s1> .
+<https://github.com/john1hsu/chess-graph/id/us-chess-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s2> .
+<https://github.com/john1hsu/chess-graph/id/us-chess-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s3> .
+<https://github.com/john1hsu/chess-graph/id/us-chess-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s4> .
+<https://github.com/john1hsu/chess-graph/id/us-chess-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s5> .
+<https://github.com/john1hsu/chess-graph/id/us-chess-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s6> .
+<https://github.com/john1hsu/chess-graph/id/us-chess-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s7> .
+<https://github.com/john1hsu/chess-graph/id/us-chess-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s8> .
+<https://github.com/john1hsu/chess-graph/id/us-chess-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s9> .
+<https://github.com/john1hsu/chess-graph/id/us-chess-championship> <https://github.com/john1hsu/chess-graph/ontology#domain> "events-and-organizations" .
+<https://github.com/john1hsu/chess-graph/id/us-chess-championship> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/us-chess> .
+<https://github.com/john1hsu/chess-graph/id/us-chess-championship> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/us-chess-championship> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/us-chess-championship> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/bobby-fischer> .
+<https://github.com/john1hsu/chess-graph/id/us-chess-championship> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/frank-marshall> .
+<https://github.com/john1hsu/chess-graph/id/us-chess-championship> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/samuel-reshevsky> .
 <https://github.com/john1hsu/chess-graph/id/us-chess> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/us-chess> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Organization> .
 <https://github.com/john1hsu/chess-graph/id/us-chess> <http://www.w3.org/2000/01/rdf-schema#label> "US Chess" .
