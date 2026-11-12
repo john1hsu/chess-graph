@@ -354,6 +354,30 @@
     ]
   },
   {
+    "id": "kt:carlsbad-structure",
+    "title": "Carlsbad structure",
+    "aliases": [
+      "Carlsbad pawn structure",
+      "Karlsbad structure",
+      "Karlsbader Bauernstruktur",
+      "Exchange QGD structure"
+    ],
+    "type": "PawnStructure",
+    "domain": "middlegame-strategy",
+    "file": "articles/middlegame-strategy/carlsbad-structure.md",
+    "created": "2026-11-12",
+    "verified": "2026-11-12",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://thinkerspublishing.com/the-carlsbad-pawn-structure-revisited-christian-bauer/",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/89020.pdf",
+      "https://shop.chess-tigers.de/cdn/shop/files/ctqg.pdf",
+      "https://www.chess.com/terms/carlsbad-pawn-structure-chess",
+      "https://en.chessbase.com/newsroom/post/understanding-before-moving-96-queen-s-gambit-declined-3?page=0"
+    ]
+  },
+  {
     "id": "kt:caro-kann-defence",
     "title": "Caro-Kann Defence",
     "aliases": [

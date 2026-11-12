@@ -4261,6 +4261,94 @@
       ]
     },
     {
+      "@id": "kt:carlsbad-structure",
+      "@type": "kto:PawnStructure",
+      "skos:prefLabel": "Carlsbad structure",
+      "skos:definition": "A pawn structure in which White has pawns on d4 and e3 (with a2 and b2) against Black's d5 and c6 (with a7 and b7), so that White has a half-open c-file and Black a half-open e-file; it is typical of the Queen's Gambit Declined Exchange Variation and arises reversed in the Caro-Kann Exchange and the London System.",
+      "kto:domain": "middlegame-strategy",
+      "dcterms:created": "2026-11-12",
+      "kto:verified": "2026-11-12",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Carlsbad Pawn Structure Revisited",
+          "dcterms:publisher": "Christian Bauer, Thinkers Publishing (review by IM John Donaldson)",
+          "schema:url": "https://thinkerspublishing.com/the-carlsbad-pawn-structure-revisited-christian-bauer/",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Squeezing the QGD (excerpt)",
+          "dcterms:publisher": "Semko Semkov, Chess Stars (excerpt hosted by New In Chess)",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/89020.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Countering the Queen's Gambit (excerpt)",
+          "dcterms:publisher": "Michael Prusikin, New In Chess",
+          "schema:url": "https://shop.chess-tigers.de/cdn/shop/files/ctqg.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Carlsbad Pawn Structure",
+          "dcterms:publisher": "Chess.com (Chess Terms)",
+          "schema:url": "https://www.chess.com/terms/carlsbad-pawn-structure-chess",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Understanding before Moving 97: Queen's Gambit Declined (3)",
+          "dcterms:publisher": "IM Herman Grooten, ChessBase News",
+          "schema:url": "https://en.chessbase.com/newsroom/post/understanding-before-moving-96-queen-s-gambit-declined-3?page=0",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/middlegame-strategy/carlsbad-structure.md",
+      "skos:altLabel": [
+        "Carlsbad pawn structure",
+        "Karlsbad structure",
+        "Karlsbader Bauernstruktur",
+        "Exchange QGD structure"
+      ],
+      "kto:fen": "rnbqk2r/pp2bppp/2p2n2/3p2B1/3P4/2N1P3/PP3PPP/R2QKBNR w KQkq - 0 7",
+      "skos:broader": [
+        {
+          "@id": "kt:pawn-structure"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:queens-gambit-declined"
+        },
+        {
+          "@id": "kt:caro-kann-defence"
+        },
+        {
+          "@id": "kt:london-system"
+        },
+        {
+          "@id": "kt:hanging-pawns"
+        }
+      ],
+      "kto:leadsTo": [
+        {
+          "@id": "kt:minority-attack"
+        }
+      ],
+      "kto:namedAfter": [
+        {
+          "@id": "kt:carlsbad-1923"
+        }
+      ],
+      "kto:championedBy": [
+        {
+          "@id": "kt:garry-kasparov"
+        },
+        {
+          "@id": "kt:jose-raul-capablanca"
+        }
+      ]
+    },
+    {
       "@id": "kt:chess-strategy",
       "@type": "kto:Concept",
       "skos:prefLabel": "Chess strategy",

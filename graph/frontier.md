@@ -15,6 +15,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:deflection` | `kt:back-rank-mate`, `kt:back-rank-mate`, `kt:zwischenzug` |
 | `kt:draw` | `kt:dead-position`, `kt:fifty-move-rule`, `kt:stalemate` |
 | `kt:leela-chess-zero` | `kt:computer-chess`, `kt:monte-carlo-tree-search`, `kt:stockfish` |
+| `kt:minority-attack` | `kt:carlsbad-structure`, `kt:pawn-structure`, `kt:queens-gambit-declined` |
 | `kt:nnue` | `kt:computer-chess`, `kt:evaluation-function`, `kt:stockfish` |
 | `kt:portable-game-notation` | `kt:algebraic-notation`, `kt:forsyth-edwards-notation`, `kt:forsyth-edwards-notation` |
 | `kt:semi-open-games` | `kt:caro-kann-defence`, `kt:french-defence`, `kt:sicilian-defence` |
@@ -24,7 +25,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alexander-alekhine` | `kt:slav-defence`, `kt:jose-raul-capablanca` |
 | `kt:alexander-kotov` | `kt:calculation`, `kt:candidate-moves` |
 | `kt:botvinnik-versus-capablanca-avro-1938` | `kt:soviet-chess-school`, `kt:mikhail-botvinnik` |
-| `kt:carlsbad-structure` | `kt:pawn-structure`, `kt:queens-gambit-declined` |
 | `kt:chess-organizations` | `kt:fide`, `kt:us-chess` |
 | `kt:closed-games` | `kt:queens-gambit-accepted`, `kt:queens-gambit` |
 | `kt:corresponding-squares` | `kt:triangulation`, `kt:triangulation` |
@@ -37,7 +37,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ju-wenjun` | `kt:womens-world-chess-championship`, `kt:womens-world-chess-championship` |
 | `kt:karpov-versus-unzicker-nice-1974` | `kt:prophylaxis`, `kt:anatoly-karpov` |
 | `kt:mikhail-chigorin` | `kt:hastings-1895`, `kt:wilhelm-steinitz` |
-| `kt:minority-attack` | `kt:pawn-structure`, `kt:queens-gambit-declined` |
 | `kt:move-ordering` | `kt:alpha-beta-pruning`, `kt:quiescence-search` |
 | `kt:open-games` | `kt:italian-game`, `kt:ruy-lopez` |
 | `kt:origins-of-chess` | `kt:chaturanga`, `kt:history-of-chess` |
@@ -77,6 +76,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:blindfold-chess` | `kt:cognitive-psychology-of-chess` |
 | `kt:board-representation` | `kt:bitboards` |
 | `kt:breakthrough` | `kt:passed-pawn` |
+| `kt:carlsbad-1923` | `kt:carlsbad-structure` |
 | `kt:carlsbad-1929` | `kt:aron-nimzowitsch` |
 | `kt:carlsen-versus-anand-sochi-2014-game-6` | `kt:zwischenzug` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
@@ -130,6 +130,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:leonardo-torres-y-quevedo` | `kt:claude-shannon` |
 | `kt:lionel-kieseritzky` | `kt:immortal-game` |
 | `kt:london-1851` | `kt:immortal-game` |
+| `kt:london-system` | `kt:carlsbad-structure` |
 | `kt:long-term-working-memory` | `kt:template-theory` |
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position` |
 | `kt:magnus-carlsen` | `kt:gukesh-dommaraju` |

@@ -397,6 +397,33 @@
 <https://github.com/john1hsu/chess-graph/id/candidates-tournament> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/candidates-tournament> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/candidates-tournament> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> .
+<https://github.com/john1hsu/chess-graph/id/carlsbad-structure> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/carlsbad-structure> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#PawnStructure> .
+<https://github.com/john1hsu/chess-graph/id/carlsbad-structure> <http://www.w3.org/2000/01/rdf-schema#label> "Carlsbad structure" .
+<https://github.com/john1hsu/chess-graph/id/carlsbad-structure> <http://www.w3.org/2004/02/skos/core#altLabel> "Carlsbad pawn structure" .
+<https://github.com/john1hsu/chess-graph/id/carlsbad-structure> <http://www.w3.org/2004/02/skos/core#altLabel> "Exchange QGD structure" .
+<https://github.com/john1hsu/chess-graph/id/carlsbad-structure> <http://www.w3.org/2004/02/skos/core#altLabel> "Karlsbad structure" .
+<https://github.com/john1hsu/chess-graph/id/carlsbad-structure> <http://www.w3.org/2004/02/skos/core#altLabel> "Karlsbader Bauernstruktur" .
+<https://github.com/john1hsu/chess-graph/id/carlsbad-structure> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/pawn-structure> .
+<https://github.com/john1hsu/chess-graph/id/carlsbad-structure> <http://www.w3.org/2004/02/skos/core#definition> "A pawn structure in which White has pawns on d4 and e3 (with a2 and b2) against Black's d5 and c6 (with a7 and b7), so that White has a half-open c-file and Black a half-open e-file; it is typical of the Queen's Gambit Declined Exchange Variation and arises reversed in the Caro-Kann Exchange and the London System." .
+<https://github.com/john1hsu/chess-graph/id/carlsbad-structure> <http://www.w3.org/2004/02/skos/core#prefLabel> "Carlsbad structure" .
+<https://github.com/john1hsu/chess-graph/id/carlsbad-structure> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/caro-kann-defence> .
+<https://github.com/john1hsu/chess-graph/id/carlsbad-structure> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/hanging-pawns> .
+<https://github.com/john1hsu/chess-graph/id/carlsbad-structure> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/london-system> .
+<https://github.com/john1hsu/chess-graph/id/carlsbad-structure> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/queens-gambit-declined> .
+<https://github.com/john1hsu/chess-graph/id/carlsbad-structure> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/carlsbad-structure/s1> .
+<https://github.com/john1hsu/chess-graph/id/carlsbad-structure> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/carlsbad-structure/s2> .
+<https://github.com/john1hsu/chess-graph/id/carlsbad-structure> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/carlsbad-structure/s3> .
+<https://github.com/john1hsu/chess-graph/id/carlsbad-structure> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/carlsbad-structure/s4> .
+<https://github.com/john1hsu/chess-graph/id/carlsbad-structure> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/carlsbad-structure/s5> .
+<https://github.com/john1hsu/chess-graph/id/carlsbad-structure> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/garry-kasparov> .
+<https://github.com/john1hsu/chess-graph/id/carlsbad-structure> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> .
+<https://github.com/john1hsu/chess-graph/id/carlsbad-structure> <https://github.com/john1hsu/chess-graph/ontology#domain> "middlegame-strategy" .
+<https://github.com/john1hsu/chess-graph/id/carlsbad-structure> <https://github.com/john1hsu/chess-graph/ontology#fen> "rnbqk2r/pp2bppp/2p2n2/3p2B1/3P4/2N1P3/PP3PPP/R2QKBNR w KQkq - 0 7" .
+<https://github.com/john1hsu/chess-graph/id/carlsbad-structure> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/minority-attack> .
+<https://github.com/john1hsu/chess-graph/id/carlsbad-structure> <https://github.com/john1hsu/chess-graph/ontology#namedAfter> <https://github.com/john1hsu/chess-graph/id/carlsbad-1923> .
+<https://github.com/john1hsu/chess-graph/id/carlsbad-structure> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/carlsbad-structure> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Opening> .
 <https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <http://www.w3.org/2000/01/rdf-schema#label> "Caro-Kann Defence" .
@@ -3376,6 +3403,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s6> <https://schema.org/url> "https://www.chess.com/news/view/sindarov-vaishali-win-7-fide-candidates-2026-conclusions" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsbad-structure/s1> <http://purl.org/dc/terms/publisher> "Christian Bauer, Thinkers Publishing (review by IM John Donaldson)" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsbad-structure/s1> <http://purl.org/dc/terms/title> "The Carlsbad Pawn Structure Revisited" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsbad-structure/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/carlsbad-structure/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsbad-structure/s1> <https://schema.org/url> "https://thinkerspublishing.com/the-carlsbad-pawn-structure-revisited-christian-bauer/" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsbad-structure/s2> <http://purl.org/dc/terms/publisher> "Semko Semkov, Chess Stars (excerpt hosted by New In Chess)" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsbad-structure/s2> <http://purl.org/dc/terms/title> "Squeezing the QGD (excerpt)" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsbad-structure/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/carlsbad-structure/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsbad-structure/s2> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/89020.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsbad-structure/s3> <http://purl.org/dc/terms/publisher> "Michael Prusikin, New In Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsbad-structure/s3> <http://purl.org/dc/terms/title> "Countering the Queen's Gambit (excerpt)" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsbad-structure/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/carlsbad-structure/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsbad-structure/s3> <https://schema.org/url> "https://shop.chess-tigers.de/cdn/shop/files/ctqg.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsbad-structure/s4> <http://purl.org/dc/terms/publisher> "Chess.com (Chess Terms)" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsbad-structure/s4> <http://purl.org/dc/terms/title> "Carlsbad Pawn Structure" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsbad-structure/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/carlsbad-structure/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsbad-structure/s4> <https://schema.org/url> "https://www.chess.com/terms/carlsbad-pawn-structure-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsbad-structure/s5> <http://purl.org/dc/terms/publisher> "IM Herman Grooten, ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsbad-structure/s5> <http://purl.org/dc/terms/title> "Understanding before Moving 97: Queen's Gambit Declined (3)" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsbad-structure/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/carlsbad-structure/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsbad-structure/s5> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/understanding-before-moving-96-queen-s-gambit-declined-3?page=0" .
 <https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
 <https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s1> <http://purl.org/dc/terms/title> "The Caro-Kann Defence" .
 <https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
