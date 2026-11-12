@@ -3573,6 +3573,96 @@
       ]
     },
     {
+      "@id": "kt:immortal-game",
+      "@type": "kto:Game",
+      "skos:prefLabel": "Immortal Game",
+      "skos:definition": "The casual game won by Adolf Anderssen against Lionel Kieseritzky in London in 1851, in which Anderssen gave up a bishop, both rooks and finally his queen before mating with his minor pieces; it became the emblem of the Romantic era of chess.",
+      "kto:domain": "history",
+      "dcterms:created": "2026-11-12",
+      "kto:verified": "2026-11-12",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Adolf Anderssen",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/biography/Adolf-Anderssen",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "The Immortal Game (Anderssen v Kieseritzky)",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://www.chesshistory.com/winter/extra/immortal.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "175 years ago: Anderssen's Immortal Game is played in London",
+          "dcterms:publisher": "ChessBase News (André Schulz)",
+          "schema:url": "https://en.chessbase.com/post/175-years-anderssen-immortal",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "50 games you should know: Anderssen vs. Kieseritzky",
+          "dcterms:publisher": "ChessBase News (Johannes Fischer)",
+          "schema:url": "https://en.chessbase.com/post/50-games-anderssen-kieseritzky-the-immortal-game",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The Immortal Game | Anderssen vs Kieseritzky (1851)",
+          "dcterms:publisher": "Chess.com",
+          "schema:url": "https://www.chess.com/article/view/the-immortal-game",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Adolf Andersson vs Lionel Kieseritzky (1851)",
+          "dcterms:publisher": "Chess.com News (Zaid Ahmed)",
+          "schema:url": "https://www.chess.com/news/view/adolf-andersson-vs-lionel-kieseritzky-1851",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/history/immortal-game.md",
+      "skos:altLabel": [
+        "The Immortal Game",
+        "Anderssen versus Kieseritzky",
+        "Anderssen vs Kieseritzky 1851",
+        "Anderssen–Kieseritzky London 1851",
+        "Anderssen's Immortal Game"
+      ],
+      "kto:fen": "r1bk3r/p2pBpNp/n4n2/1p1NP2P/6P1/3P4/P1P1K3/q5b1 b - - 1 23",
+      "skos:broader": [
+        {
+          "@id": "kt:romantic-era"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:kings-gambit"
+        },
+        {
+          "@id": "kt:london-1851"
+        },
+        {
+          "@id": "kt:combination"
+        }
+      ],
+      "kto:playedBy": [
+        {
+          "@id": "kt:adolf-anderssen"
+        },
+        {
+          "@id": "kt:lionel-kieseritzky"
+        }
+      ],
+      "kto:exemplifies": [
+        {
+          "@id": "kt:romantic-era"
+        },
+        {
+          "@id": "kt:sacrifice"
+        }
+      ]
+    },
+    {
       "@id": "kt:romantic-era",
       "@type": "kto:School",
       "skos:prefLabel": "Romantic era",

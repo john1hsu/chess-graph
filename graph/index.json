@@ -1749,6 +1749,32 @@
     ]
   },
   {
+    "id": "kt:immortal-game",
+    "title": "Immortal Game",
+    "aliases": [
+      "The Immortal Game",
+      "Anderssen versus Kieseritzky",
+      "Anderssen vs Kieseritzky 1851",
+      "Anderssen–Kieseritzky London 1851",
+      "Anderssen's Immortal Game"
+    ],
+    "type": "Game",
+    "domain": "history",
+    "file": "articles/history/immortal-game.md",
+    "created": "2026-11-12",
+    "verified": "2026-11-12",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://www.britannica.com/biography/Adolf-Anderssen",
+      "https://www.chesshistory.com/winter/extra/immortal.html",
+      "https://en.chessbase.com/post/175-years-anderssen-immortal",
+      "https://en.chessbase.com/post/50-games-anderssen-kieseritzky-the-immortal-game",
+      "https://www.chess.com/article/view/the-immortal-game",
+      "https://www.chess.com/news/view/adolf-andersson-vs-lionel-kieseritzky-1851"
+    ]
+  },
+  {
     "id": "kt:isolated-queens-pawn",
     "title": "Isolated queen's pawn",
     "aliases": [

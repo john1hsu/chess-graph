@@ -9,6 +9,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:herbert-simon` |
 | `kt:key-squares` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:triangulation`, `kt:zugzwang` |
 | `kt:tigran-petrosian` | `kt:prophylaxis`, `kt:bobby-fischer`, `kt:mikhail-botvinnik`, `kt:sacrifice` |
+| `kt:adolf-anderssen` | `kt:immortal-game`, `kt:romantic-era`, `kt:wilhelm-steinitz` |
 | `kt:alphazero` | `kt:evaluation-function`, `kt:stockfish`, `kt:chess-variants` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position`, `kt:rook-endgames` |
 | `kt:deflection` | `kt:back-rank-mate`, `kt:back-rank-mate`, `kt:zwischenzug` |
@@ -19,7 +20,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:semi-open-games` | `kt:caro-kann-defence`, `kt:french-defence`, `kt:sicilian-defence` |
 | `kt:smothered-mate` | `kt:back-rank-mate`, `kt:back-rank-mate`, `kt:einstellung-effect` |
 | `kt:threefold-repetition` | `kt:en-passant`, `kt:fide-laws-of-chess`, `kt:fifty-move-rule` |
-| `kt:adolf-anderssen` | `kt:romantic-era`, `kt:wilhelm-steinitz` |
 | `kt:alekhines-defence` | `kt:fischer-spassky-1972`, `kt:hypermodernism` |
 | `kt:alexander-alekhine` | `kt:slav-defence`, `kt:jose-raul-capablanca` |
 | `kt:alexander-kotov` | `kt:calculation`, `kt:candidate-moves` |
@@ -111,7 +111,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hou-yifan` | `kt:womens-world-chess-championship` |
 | `kt:iccf` | `kt:correspondence-chess` |
 | `kt:illegal-move` | `kt:touch-move` |
-| `kt:immortal-game` | `kt:romantic-era` |
 | `kt:indian-defences` | `kt:nimzo-indian-defence` |
 | `kt:international-master-title` | `kt:grandmaster-title` |
 | `kt:intrinsic-performance-rating` | `kt:fair-play-regulations` |
@@ -122,6 +121,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:kasparov-versus-topalov-wijk-aan-zee-1999` | `kt:garry-kasparov` |
 | `kt:ken-thompson` | `kt:endgame-tablebases` |
 | `kt:king-safety` | `kt:castling` |
+| `kt:kings-gambit` | `kt:immortal-game` |
 | `kt:kings-indian-defence` | `kt:soviet-chess-school` |
 | `kt:knight-versus-bishop` | `kt:good-and-bad-bishops` |
 | `kt:lasker-capablanca-havana-1921-game-10` | `kt:jose-raul-capablanca` |
@@ -129,6 +129,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:lasker-versus-bauer-amsterdam-1889` | `kt:combination` |
 | `kt:leipzig-1894` | `kt:siegbert-tarrasch` |
 | `kt:leonardo-torres-y-quevedo` | `kt:claude-shannon` |
+| `kt:lionel-kieseritzky` | `kt:immortal-game` |
+| `kt:london-1851` | `kt:immortal-game` |
 | `kt:long-term-working-memory` | `kt:template-theory` |
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position` |
 | `kt:magnus-carlsen` | `kt:gukesh-dommaraju` |

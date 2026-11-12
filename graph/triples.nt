@@ -1953,6 +1953,34 @@
 <https://github.com/john1hsu/chess-graph/id/hypermodernism> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/reti-opening> .
 <https://github.com/john1hsu/chess-graph/id/hypermodernism> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/hypermodernism> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/immortal-game> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/immortal-game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Game> .
+<https://github.com/john1hsu/chess-graph/id/immortal-game> <http://www.w3.org/2000/01/rdf-schema#label> "Immortal Game" .
+<https://github.com/john1hsu/chess-graph/id/immortal-game> <http://www.w3.org/2004/02/skos/core#altLabel> "Anderssen versus Kieseritzky" .
+<https://github.com/john1hsu/chess-graph/id/immortal-game> <http://www.w3.org/2004/02/skos/core#altLabel> "Anderssen vs Kieseritzky 1851" .
+<https://github.com/john1hsu/chess-graph/id/immortal-game> <http://www.w3.org/2004/02/skos/core#altLabel> "Anderssen's Immortal Game" .
+<https://github.com/john1hsu/chess-graph/id/immortal-game> <http://www.w3.org/2004/02/skos/core#altLabel> "Anderssen–Kieseritzky London 1851" .
+<https://github.com/john1hsu/chess-graph/id/immortal-game> <http://www.w3.org/2004/02/skos/core#altLabel> "The Immortal Game" .
+<https://github.com/john1hsu/chess-graph/id/immortal-game> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/romantic-era> .
+<https://github.com/john1hsu/chess-graph/id/immortal-game> <http://www.w3.org/2004/02/skos/core#definition> "The casual game won by Adolf Anderssen against Lionel Kieseritzky in London in 1851, in which Anderssen gave up a bishop, both rooks and finally his queen before mating with his minor pieces; it became the emblem of the Romantic era of chess." .
+<https://github.com/john1hsu/chess-graph/id/immortal-game> <http://www.w3.org/2004/02/skos/core#prefLabel> "Immortal Game" .
+<https://github.com/john1hsu/chess-graph/id/immortal-game> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/combination> .
+<https://github.com/john1hsu/chess-graph/id/immortal-game> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/kings-gambit> .
+<https://github.com/john1hsu/chess-graph/id/immortal-game> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/london-1851> .
+<https://github.com/john1hsu/chess-graph/id/immortal-game> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/immortal-game/s1> .
+<https://github.com/john1hsu/chess-graph/id/immortal-game> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/immortal-game/s2> .
+<https://github.com/john1hsu/chess-graph/id/immortal-game> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/immortal-game/s3> .
+<https://github.com/john1hsu/chess-graph/id/immortal-game> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/immortal-game/s4> .
+<https://github.com/john1hsu/chess-graph/id/immortal-game> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/immortal-game/s5> .
+<https://github.com/john1hsu/chess-graph/id/immortal-game> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/immortal-game/s6> .
+<https://github.com/john1hsu/chess-graph/id/immortal-game> <https://github.com/john1hsu/chess-graph/ontology#domain> "history" .
+<https://github.com/john1hsu/chess-graph/id/immortal-game> <https://github.com/john1hsu/chess-graph/ontology#exemplifies> <https://github.com/john1hsu/chess-graph/id/romantic-era> .
+<https://github.com/john1hsu/chess-graph/id/immortal-game> <https://github.com/john1hsu/chess-graph/ontology#exemplifies> <https://github.com/john1hsu/chess-graph/id/sacrifice> .
+<https://github.com/john1hsu/chess-graph/id/immortal-game> <https://github.com/john1hsu/chess-graph/ontology#fen> "r1bk3r/p2pBpNp/n4n2/1p1NP2P/6P1/3P4/P1P1K3/q5b1 b - - 1 23" .
+<https://github.com/john1hsu/chess-graph/id/immortal-game> <https://github.com/john1hsu/chess-graph/ontology#playedBy> <https://github.com/john1hsu/chess-graph/id/adolf-anderssen> .
+<https://github.com/john1hsu/chess-graph/id/immortal-game> <https://github.com/john1hsu/chess-graph/ontology#playedBy> <https://github.com/john1hsu/chess-graph/id/lionel-kieseritzky> .
+<https://github.com/john1hsu/chess-graph/id/immortal-game> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/immortal-game> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/isolated-queens-pawn> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/isolated-queens-pawn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#PawnStructure> .
 <https://github.com/john1hsu/chess-graph/id/isolated-queens-pawn> <http://www.w3.org/2000/01/rdf-schema#label> "Isolated queen's pawn" .
@@ -4918,6 +4946,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s6> <https://schema.org/url> "https://spectator.com/article/hypermodern/" .
+<https://github.com/john1hsu/chess-graph/id/source/immortal-game/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/immortal-game/s1> <http://purl.org/dc/terms/title> "Adolf Anderssen" .
+<https://github.com/john1hsu/chess-graph/id/source/immortal-game/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/immortal-game/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/immortal-game/s1> <https://schema.org/url> "https://www.britannica.com/biography/Adolf-Anderssen" .
+<https://github.com/john1hsu/chess-graph/id/source/immortal-game/s2> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/immortal-game/s2> <http://purl.org/dc/terms/title> "The Immortal Game (Anderssen v Kieseritzky)" .
+<https://github.com/john1hsu/chess-graph/id/source/immortal-game/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/immortal-game/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/immortal-game/s2> <https://schema.org/url> "https://www.chesshistory.com/winter/extra/immortal.html" .
+<https://github.com/john1hsu/chess-graph/id/source/immortal-game/s3> <http://purl.org/dc/terms/publisher> "ChessBase News (André Schulz)" .
+<https://github.com/john1hsu/chess-graph/id/source/immortal-game/s3> <http://purl.org/dc/terms/title> "175 years ago: Anderssen's Immortal Game is played in London" .
+<https://github.com/john1hsu/chess-graph/id/source/immortal-game/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/immortal-game/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/immortal-game/s3> <https://schema.org/url> "https://en.chessbase.com/post/175-years-anderssen-immortal" .
+<https://github.com/john1hsu/chess-graph/id/source/immortal-game/s4> <http://purl.org/dc/terms/publisher> "ChessBase News (Johannes Fischer)" .
+<https://github.com/john1hsu/chess-graph/id/source/immortal-game/s4> <http://purl.org/dc/terms/title> "50 games you should know: Anderssen vs. Kieseritzky" .
+<https://github.com/john1hsu/chess-graph/id/source/immortal-game/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/immortal-game/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/immortal-game/s4> <https://schema.org/url> "https://en.chessbase.com/post/50-games-anderssen-kieseritzky-the-immortal-game" .
+<https://github.com/john1hsu/chess-graph/id/source/immortal-game/s5> <http://purl.org/dc/terms/publisher> "Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/immortal-game/s5> <http://purl.org/dc/terms/title> "The Immortal Game | Anderssen vs Kieseritzky (1851)" .
+<https://github.com/john1hsu/chess-graph/id/source/immortal-game/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/immortal-game/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/immortal-game/s5> <https://schema.org/url> "https://www.chess.com/article/view/the-immortal-game" .
+<https://github.com/john1hsu/chess-graph/id/source/immortal-game/s6> <http://purl.org/dc/terms/publisher> "Chess.com News (Zaid Ahmed)" .
+<https://github.com/john1hsu/chess-graph/id/source/immortal-game/s6> <http://purl.org/dc/terms/title> "Adolf Andersson vs Lionel Kieseritzky (1851)" .
+<https://github.com/john1hsu/chess-graph/id/source/immortal-game/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/immortal-game/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/immortal-game/s6> <https://schema.org/url> "https://www.chess.com/news/view/adolf-andersson-vs-lionel-kieseritzky-1851" .
 <https://github.com/john1hsu/chess-graph/id/source/isolated-queens-pawn/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/isolated-queens-pawn/s1> <http://purl.org/dc/terms/title> "Isolated pawn" .
 <https://github.com/john1hsu/chess-graph/id/source/isolated-queens-pawn/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
