@@ -6,18 +6,17 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:chess` | `kt:chess-endgame`, `kt:chess-titles`, `kt:chess-tournament`, `kt:chaturanga`, `kt:history-of-chess`, `kt:shatranj`, `kt:chess-strategy`, `kt:fide-laws-of-chess`, `kt:chess-tactics`, `kt:blindfold-chess`, `kt:chess-composition`, `kt:chess-variants`, `kt:correspondence-chess` |
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:mikhail-botvinnik`, `kt:tigran-petrosian`, `kt:wilhelm-steinitz` |
+| `kt:alphazero` | `kt:evaluation-function`, `kt:nnue`, `kt:stockfish`, `kt:chess-variants` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:herbert-simon` |
 | `kt:key-squares` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:triangulation`, `kt:zugzwang` |
+| `kt:leela-chess-zero` | `kt:computer-chess`, `kt:monte-carlo-tree-search`, `kt:nnue`, `kt:stockfish` |
 | `kt:adolf-anderssen` | `kt:immortal-game`, `kt:romantic-era`, `kt:wilhelm-steinitz` |
 | `kt:alexander-alekhine` | `kt:slav-defence`, `kt:jose-raul-capablanca`, `kt:blindfold-chess` |
-| `kt:alphazero` | `kt:evaluation-function`, `kt:stockfish`, `kt:chess-variants` |
 | `kt:boris-spassky` | `kt:fischer-spassky-1972`, `kt:bobby-fischer`, `kt:tigran-petrosian` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position`, `kt:rook-endgames` |
 | `kt:draw` | `kt:dead-position`, `kt:fifty-move-rule`, `kt:stalemate` |
 | `kt:francois-andre-danican-philidor` | `kt:philidor-position`, `kt:pawn-structure`, `kt:blindfold-chess` |
-| `kt:leela-chess-zero` | `kt:computer-chess`, `kt:monte-carlo-tree-search`, `kt:stockfish` |
 | `kt:minority-attack` | `kt:carlsbad-structure`, `kt:pawn-structure`, `kt:queens-gambit-declined` |
-| `kt:nnue` | `kt:computer-chess`, `kt:evaluation-function`, `kt:stockfish` |
 | `kt:portable-game-notation` | `kt:algebraic-notation`, `kt:forsyth-edwards-notation`, `kt:forsyth-edwards-notation` |
 | `kt:semi-open-games` | `kt:caro-kann-defence`, `kt:french-defence`, `kt:sicilian-defence` |
 | `kt:smothered-mate` | `kt:back-rank-mate`, `kt:back-rank-mate`, `kt:einstellung-effect` |
@@ -208,3 +207,4 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:world-chess-championship-1921` | `kt:jose-raul-capablanca` |
 | `kt:world-chess-championship-1927` | `kt:jose-raul-capablanca` |
 | `kt:xiangqi` | `kt:chess-variants` |
+| `kt:yu-nasu` | `kt:nnue` |

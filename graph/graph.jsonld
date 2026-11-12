@@ -822,6 +822,88 @@
       ]
     },
     {
+      "@id": "kt:nnue",
+      "@type": "kto:Algorithm",
+      "skos:prefLabel": "NNUE",
+      "skos:definition": "An efficiently updatable neural network: a small, integer-quantized evaluation network with sparse inputs whose first layer is updated incrementally after each move, invented for computer shogi by Yu Nasu and adopted by Stockfish in 2020 to replace hand-written evaluation inside alpha-beta search.",
+      "kto:domain": "computer-chess",
+      "dcterms:created": "2026-11-12",
+      "kto:verified": "2026-11-12",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Introducing NNUE Evaluation (7 August 2020)",
+          "dcterms:publisher": "The Stockfish developers (stockfishchess.org)",
+          "schema:url": "https://stockfishchess.org/blog/2020/introducing-nnue-evaluation/",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "NNUE (nnue-pytorch documentation)",
+          "dcterms:publisher": "The Stockfish developers (official-stockfish.github.io)",
+          "schema:url": "https://official-stockfish.github.io/docs/nnue-pytorch-wiki/docs/nnue.html",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "NNUE architecture history (nnue-pytorch documentation)",
+          "dcterms:publisher": "The Stockfish developers (official-stockfish.github.io)",
+          "schema:url": "https://official-stockfish.github.io/docs/nnue-pytorch-wiki/docs/nnue_architecture_history.html",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "Stockfish 16.1 (24 February 2024)",
+          "dcterms:publisher": "The Stockfish developers (stockfishchess.org)",
+          "schema:url": "https://stockfishchess.org/blog/2024/stockfish-16-1/",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "Neural Networks for Chess (2022), section 4.6",
+          "dcterms:publisher": "Dominik Klein, arXiv:2209.01506",
+          "schema:url": "https://arxiv.org/pdf/2209.01506",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/computer-chess/nnue.md",
+      "skos:altLabel": [
+        "Efficiently updatable neural network",
+        "Efficiently updateable neural network",
+        "ƎUИИ",
+        "NNUE evaluation"
+      ],
+      "kto:fen": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:evaluation-function"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:stockfish"
+        },
+        {
+          "@id": "kt:leela-chess-zero"
+        },
+        {
+          "@id": "kt:game-tree-search"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:yu-nasu"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:alpha-beta-pruning"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:alphazero"
+        }
+      ]
+    },
+    {
       "@id": "kt:quiescence-search",
       "@type": "kto:Algorithm",
       "skos:prefLabel": "Quiescence search",

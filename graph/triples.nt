@@ -2387,6 +2387,31 @@
 <https://github.com/john1hsu/chess-graph/id/nimzo-indian-defence> <https://github.com/john1hsu/chess-graph/ontology#namedAfter> <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> .
 <https://github.com/john1hsu/chess-graph/id/nimzo-indian-defence> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/nimzo-indian-defence> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/nnue> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/nnue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Algorithm> .
+<https://github.com/john1hsu/chess-graph/id/nnue> <http://www.w3.org/2000/01/rdf-schema#label> "NNUE" .
+<https://github.com/john1hsu/chess-graph/id/nnue> <http://www.w3.org/2004/02/skos/core#altLabel> "Efficiently updatable neural network" .
+<https://github.com/john1hsu/chess-graph/id/nnue> <http://www.w3.org/2004/02/skos/core#altLabel> "Efficiently updateable neural network" .
+<https://github.com/john1hsu/chess-graph/id/nnue> <http://www.w3.org/2004/02/skos/core#altLabel> "NNUE evaluation" .
+<https://github.com/john1hsu/chess-graph/id/nnue> <http://www.w3.org/2004/02/skos/core#altLabel> "ƎUИИ" .
+<https://github.com/john1hsu/chess-graph/id/nnue> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/evaluation-function> .
+<https://github.com/john1hsu/chess-graph/id/nnue> <http://www.w3.org/2004/02/skos/core#definition> "An efficiently updatable neural network: a small, integer-quantized evaluation network with sparse inputs whose first layer is updated incrementally after each move, invented for computer shogi by Yu Nasu and adopted by Stockfish in 2020 to replace hand-written evaluation inside alpha-beta search." .
+<https://github.com/john1hsu/chess-graph/id/nnue> <http://www.w3.org/2004/02/skos/core#prefLabel> "NNUE" .
+<https://github.com/john1hsu/chess-graph/id/nnue> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/game-tree-search> .
+<https://github.com/john1hsu/chess-graph/id/nnue> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/leela-chess-zero> .
+<https://github.com/john1hsu/chess-graph/id/nnue> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/stockfish> .
+<https://github.com/john1hsu/chess-graph/id/nnue> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/nnue/s1> .
+<https://github.com/john1hsu/chess-graph/id/nnue> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/nnue/s2> .
+<https://github.com/john1hsu/chess-graph/id/nnue> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/nnue/s3> .
+<https://github.com/john1hsu/chess-graph/id/nnue> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/nnue/s4> .
+<https://github.com/john1hsu/chess-graph/id/nnue> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/nnue/s5> .
+<https://github.com/john1hsu/chess-graph/id/nnue> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/alphazero> .
+<https://github.com/john1hsu/chess-graph/id/nnue> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/yu-nasu> .
+<https://github.com/john1hsu/chess-graph/id/nnue> <https://github.com/john1hsu/chess-graph/ontology#domain> "computer-chess" .
+<https://github.com/john1hsu/chess-graph/id/nnue> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> .
+<https://github.com/john1hsu/chess-graph/id/nnue> <https://github.com/john1hsu/chess-graph/ontology#fen> "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/nnue> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/nnue> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#EndgameType> .
 <https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <http://www.w3.org/2000/01/rdf-schema#label> "Opposite-coloured bishops" .
@@ -5455,6 +5480,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/nimzo-indian-defence/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/nimzo-indian-defence/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
 <https://github.com/john1hsu/chess-graph/id/source/nimzo-indian-defence/s7> <https://schema.org/url> "https://www.chessgames.com/perl/chessopening?eco=E20" .
+<https://github.com/john1hsu/chess-graph/id/source/nnue/s1> <http://purl.org/dc/terms/publisher> "The Stockfish developers (stockfishchess.org)" .
+<https://github.com/john1hsu/chess-graph/id/source/nnue/s1> <http://purl.org/dc/terms/title> "Introducing NNUE Evaluation (7 August 2020)" .
+<https://github.com/john1hsu/chess-graph/id/source/nnue/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/nnue/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/nnue/s1> <https://schema.org/url> "https://stockfishchess.org/blog/2020/introducing-nnue-evaluation/" .
+<https://github.com/john1hsu/chess-graph/id/source/nnue/s2> <http://purl.org/dc/terms/publisher> "The Stockfish developers (official-stockfish.github.io)" .
+<https://github.com/john1hsu/chess-graph/id/source/nnue/s2> <http://purl.org/dc/terms/title> "NNUE (nnue-pytorch documentation)" .
+<https://github.com/john1hsu/chess-graph/id/source/nnue/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/nnue/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/nnue/s2> <https://schema.org/url> "https://official-stockfish.github.io/docs/nnue-pytorch-wiki/docs/nnue.html" .
+<https://github.com/john1hsu/chess-graph/id/source/nnue/s3> <http://purl.org/dc/terms/publisher> "The Stockfish developers (official-stockfish.github.io)" .
+<https://github.com/john1hsu/chess-graph/id/source/nnue/s3> <http://purl.org/dc/terms/title> "NNUE architecture history (nnue-pytorch documentation)" .
+<https://github.com/john1hsu/chess-graph/id/source/nnue/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/nnue/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/nnue/s3> <https://schema.org/url> "https://official-stockfish.github.io/docs/nnue-pytorch-wiki/docs/nnue_architecture_history.html" .
+<https://github.com/john1hsu/chess-graph/id/source/nnue/s4> <http://purl.org/dc/terms/publisher> "The Stockfish developers (stockfishchess.org)" .
+<https://github.com/john1hsu/chess-graph/id/source/nnue/s4> <http://purl.org/dc/terms/title> "Stockfish 16.1 (24 February 2024)" .
+<https://github.com/john1hsu/chess-graph/id/source/nnue/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/nnue/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/nnue/s4> <https://schema.org/url> "https://stockfishchess.org/blog/2024/stockfish-16-1/" .
+<https://github.com/john1hsu/chess-graph/id/source/nnue/s5> <http://purl.org/dc/terms/publisher> "Dominik Klein, arXiv:2209.01506" .
+<https://github.com/john1hsu/chess-graph/id/source/nnue/s5> <http://purl.org/dc/terms/title> "Neural Networks for Chess (2022), section 4.6" .
+<https://github.com/john1hsu/chess-graph/id/source/nnue/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/nnue/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/nnue/s5> <https://schema.org/url> "https://arxiv.org/pdf/2209.01506" .
 <https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s1> <http://purl.org/dc/terms/publisher> "Jesús de la Villa, New In Chess (2023); excerpt hosted by Chess Tigers" .
 <https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s1> <http://purl.org/dc/terms/title> "100 Endgames You Must Know, sixth edition (excerpt, Chapter 9: Opposite-coloured bishops)" .
 <https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

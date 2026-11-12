@@ -2138,6 +2138,30 @@
     ]
   },
   {
+    "id": "kt:nnue",
+    "title": "NNUE",
+    "aliases": [
+      "Efficiently updatable neural network",
+      "Efficiently updateable neural network",
+      "ƎUИИ",
+      "NNUE evaluation"
+    ],
+    "type": "Algorithm",
+    "domain": "computer-chess",
+    "file": "articles/computer-chess/nnue.md",
+    "created": "2026-11-12",
+    "verified": "2026-11-12",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://stockfishchess.org/blog/2020/introducing-nnue-evaluation/",
+      "https://official-stockfish.github.io/docs/nnue-pytorch-wiki/docs/nnue.html",
+      "https://official-stockfish.github.io/docs/nnue-pytorch-wiki/docs/nnue_architecture_history.html",
+      "https://stockfishchess.org/blog/2024/stockfish-16-1/",
+      "https://arxiv.org/pdf/2209.01506"
+    ]
+  },
+  {
     "id": "kt:opposite-coloured-bishops",
     "title": "Opposite-coloured bishops",
     "aliases": [
