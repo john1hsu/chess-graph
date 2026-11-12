@@ -2759,6 +2759,31 @@
     ]
   },
   {
+    "id": "kt:tigran-petrosian",
+    "title": "Tigran Petrosian",
+    "aliases": [
+      "Tigran Vartanovich Petrosian",
+      "Tigran Petrosyan",
+      "Tigran Vartanovich Petrosyan",
+      "Iron Tigran",
+      "Petrosian"
+    ],
+    "type": "Player",
+    "domain": "players",
+    "file": "articles/players/tigran-petrosian.md",
+    "created": "2026-11-12",
+    "verified": "2026-11-12",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://www.britannica.com/biography/Tigran-Vartanovich-Petrosyan",
+      "https://worldchesshof.org/inductee/tigran-petrosian/",
+      "https://museum.fide.com/champions/tigran-petrosian",
+      "https://chessgames.com/perl/chess.pl?tid=54395",
+      "https://exeterchessclub.org.uk/node/625"
+    ]
+  },
+  {
     "id": "kt:touch-move",
     "title": "Touch-move",
     "aliases": [

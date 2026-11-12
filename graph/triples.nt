@@ -6096,6 +6096,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/template-theory/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/template-theory/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/chess-graph/id/source/template-theory/s4> <https://schema.org/url> "https://core.ac.uk/download/333533.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/tigran-petrosian/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/tigran-petrosian/s1> <http://purl.org/dc/terms/title> "Tigran Vartanovich Petrosyan" .
+<https://github.com/john1hsu/chess-graph/id/source/tigran-petrosian/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/tigran-petrosian/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/tigran-petrosian/s1> <https://schema.org/url> "https://www.britannica.com/biography/Tigran-Vartanovich-Petrosyan" .
+<https://github.com/john1hsu/chess-graph/id/source/tigran-petrosian/s2> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
+<https://github.com/john1hsu/chess-graph/id/source/tigran-petrosian/s2> <http://purl.org/dc/terms/title> "Tigran Petrosian (inductee page)" .
+<https://github.com/john1hsu/chess-graph/id/source/tigran-petrosian/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/tigran-petrosian/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/tigran-petrosian/s2> <https://schema.org/url> "https://worldchesshof.org/inductee/tigran-petrosian/" .
+<https://github.com/john1hsu/chess-graph/id/source/tigran-petrosian/s3> <http://purl.org/dc/terms/publisher> "FIDE Museum" .
+<https://github.com/john1hsu/chess-graph/id/source/tigran-petrosian/s3> <http://purl.org/dc/terms/title> "Tigran Petrosian (World Champions gallery)" .
+<https://github.com/john1hsu/chess-graph/id/source/tigran-petrosian/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/tigran-petrosian/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/tigran-petrosian/s3> <https://schema.org/url> "https://museum.fide.com/champions/tigran-petrosian" .
+<https://github.com/john1hsu/chess-graph/id/source/tigran-petrosian/s4> <http://purl.org/dc/terms/publisher> "chessgames.com" .
+<https://github.com/john1hsu/chess-graph/id/source/tigran-petrosian/s4> <http://purl.org/dc/terms/title> "Petrosian - Spassky World Championship Match (1966)" .
+<https://github.com/john1hsu/chess-graph/id/source/tigran-petrosian/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/tigran-petrosian/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/tigran-petrosian/s4> <https://schema.org/url> "https://chessgames.com/perl/chess.pl?tid=54395" .
+<https://github.com/john1hsu/chess-graph/id/source/tigran-petrosian/s5> <http://purl.org/dc/terms/publisher> "Exeter Chess Club" .
+<https://github.com/john1hsu/chess-graph/id/source/tigran-petrosian/s5> <http://purl.org/dc/terms/title> "Lessons from Petrosian" .
+<https://github.com/john1hsu/chess-graph/id/source/tigran-petrosian/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/tigran-petrosian/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/tigran-petrosian/s5> <https://schema.org/url> "https://exeterchessclub.org.uk/node/625" .
 <https://github.com/john1hsu/chess-graph/id/source/touch-move/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
 <https://github.com/john1hsu/chess-graph/id/source/touch-move/s1> <http://purl.org/dc/terms/title> "Article 4: The Act of Moving the Pieces" .
 <https://github.com/john1hsu/chess-graph/id/source/touch-move/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -6438,6 +6463,33 @@
 <https://github.com/john1hsu/chess-graph/id/template-theory> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/chunking-theory> .
 <https://github.com/john1hsu/chess-graph/id/template-theory> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/template-theory> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/tigran-petrosian> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/tigran-petrosian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
+<https://github.com/john1hsu/chess-graph/id/tigran-petrosian> <http://www.w3.org/2000/01/rdf-schema#label> "Tigran Petrosian" .
+<https://github.com/john1hsu/chess-graph/id/tigran-petrosian> <http://www.w3.org/2004/02/skos/core#altLabel> "Iron Tigran" .
+<https://github.com/john1hsu/chess-graph/id/tigran-petrosian> <http://www.w3.org/2004/02/skos/core#altLabel> "Petrosian" .
+<https://github.com/john1hsu/chess-graph/id/tigran-petrosian> <http://www.w3.org/2004/02/skos/core#altLabel> "Tigran Petrosyan" .
+<https://github.com/john1hsu/chess-graph/id/tigran-petrosian> <http://www.w3.org/2004/02/skos/core#altLabel> "Tigran Vartanovich Petrosian" .
+<https://github.com/john1hsu/chess-graph/id/tigran-petrosian> <http://www.w3.org/2004/02/skos/core#altLabel> "Tigran Vartanovich Petrosyan" .
+<https://github.com/john1hsu/chess-graph/id/tigran-petrosian> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/tigran-petrosian> <http://www.w3.org/2004/02/skos/core#definition> "Soviet Armenian grandmaster (1929–1984) and the ninth world chess champion, who took the title from Mikhail Botvinnik in 1963, defended it against Boris Spassky in 1966 and lost it to him in 1969; known as \"Iron Tigran\" for a patient, prophylactic style that made him exceptionally hard to beat." .
+<https://github.com/john1hsu/chess-graph/id/tigran-petrosian> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tigran Petrosian" .
+<https://github.com/john1hsu/chess-graph/id/tigran-petrosian> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/boris-spassky> .
+<https://github.com/john1hsu/chess-graph/id/tigran-petrosian> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/mikhail-botvinnik> .
+<https://github.com/john1hsu/chess-graph/id/tigran-petrosian> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/prophylaxis> .
+<https://github.com/john1hsu/chess-graph/id/tigran-petrosian> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/tigran-petrosian/s1> .
+<https://github.com/john1hsu/chess-graph/id/tigran-petrosian> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/tigran-petrosian/s2> .
+<https://github.com/john1hsu/chess-graph/id/tigran-petrosian> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/tigran-petrosian/s3> .
+<https://github.com/john1hsu/chess-graph/id/tigran-petrosian> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/tigran-petrosian/s4> .
+<https://github.com/john1hsu/chess-graph/id/tigran-petrosian> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/tigran-petrosian/s5> .
+<https://github.com/john1hsu/chess-graph/id/tigran-petrosian> <https://github.com/john1hsu/chess-graph/ontology#domain> "players" .
+<https://github.com/john1hsu/chess-graph/id/tigran-petrosian> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/petrosian-versus-spassky-moscow-1966-game-10> .
+<https://github.com/john1hsu/chess-graph/id/tigran-petrosian> <https://github.com/john1hsu/chess-graph/ontology#holdsTitle> <https://github.com/john1hsu/chess-graph/id/world-chess-champion> .
+<https://github.com/john1hsu/chess-graph/id/tigran-petrosian> <https://github.com/john1hsu/chess-graph/ontology#memberOf> <https://github.com/john1hsu/chess-graph/id/soviet-chess-school> .
+<https://github.com/john1hsu/chess-graph/id/tigran-petrosian> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/candidates-tournament> .
+<https://github.com/john1hsu/chess-graph/id/tigran-petrosian> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/chess-olympiad> .
+<https://github.com/john1hsu/chess-graph/id/tigran-petrosian> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/tigran-petrosian> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/touch-move> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/touch-move> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Rule> .
 <https://github.com/john1hsu/chess-graph/id/touch-move> <http://www.w3.org/2000/01/rdf-schema#label> "Touch-move" .

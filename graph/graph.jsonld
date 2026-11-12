@@ -6983,6 +6983,96 @@
       ]
     },
     {
+      "@id": "kt:tigran-petrosian",
+      "@type": "kto:Player",
+      "skos:prefLabel": "Tigran Petrosian",
+      "skos:definition": "Soviet Armenian grandmaster (1929–1984) and the ninth world chess champion, who took the title from Mikhail Botvinnik in 1963, defended it against Boris Spassky in 1966 and lost it to him in 1969; known as \"Iron Tigran\" for a patient, prophylactic style that made him exceptionally hard to beat.",
+      "kto:domain": "players",
+      "dcterms:created": "2026-11-12",
+      "kto:verified": "2026-11-12",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Tigran Vartanovich Petrosyan",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/biography/Tigran-Vartanovich-Petrosyan",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Tigran Petrosian (inductee page)",
+          "dcterms:publisher": "World Chess Hall of Fame",
+          "schema:url": "https://worldchesshof.org/inductee/tigran-petrosian/",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Tigran Petrosian (World Champions gallery)",
+          "dcterms:publisher": "FIDE Museum",
+          "schema:url": "https://museum.fide.com/champions/tigran-petrosian",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Petrosian - Spassky World Championship Match (1966)",
+          "dcterms:publisher": "chessgames.com",
+          "schema:url": "https://chessgames.com/perl/chess.pl?tid=54395",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "Lessons from Petrosian",
+          "dcterms:publisher": "Exeter Chess Club",
+          "schema:url": "https://exeterchessclub.org.uk/node/625",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/players/tigran-petrosian.md",
+      "skos:altLabel": [
+        "Tigran Vartanovich Petrosian",
+        "Tigran Petrosyan",
+        "Tigran Vartanovich Petrosyan",
+        "Iron Tigran",
+        "Petrosian"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:world-chess-championship"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:mikhail-botvinnik"
+        },
+        {
+          "@id": "kt:boris-spassky"
+        },
+        {
+          "@id": "kt:prophylaxis"
+        }
+      ],
+      "kto:holdsTitle": [
+        {
+          "@id": "kt:world-chess-champion"
+        }
+      ],
+      "kto:memberOf": [
+        {
+          "@id": "kt:soviet-chess-school"
+        }
+      ],
+      "kto:playedIn": [
+        {
+          "@id": "kt:candidates-tournament"
+        },
+        {
+          "@id": "kt:chess-olympiad"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:petrosian-versus-spassky-moscow-1966-game-10"
+        }
+      ]
+    },
+    {
       "@id": "kt:wilhelm-steinitz",
       "@type": "kto:Player",
       "skos:prefLabel": "Wilhelm Steinitz",

@@ -5,12 +5,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:chess` | `kt:chess-endgame`, `kt:chess-titles`, `kt:chess-tournament`, `kt:chaturanga`, `kt:history-of-chess`, `kt:shatranj`, `kt:chess-strategy`, `kt:fide-laws-of-chess`, `kt:chess-tactics`, `kt:chess-composition`, `kt:chess-variants`, `kt:correspondence-chess` |
-| `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:mikhail-botvinnik`, `kt:wilhelm-steinitz` |
+| `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:mikhail-botvinnik`, `kt:tigran-petrosian`, `kt:wilhelm-steinitz` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:herbert-simon` |
 | `kt:key-squares` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:triangulation`, `kt:zugzwang` |
-| `kt:tigran-petrosian` | `kt:prophylaxis`, `kt:bobby-fischer`, `kt:mikhail-botvinnik`, `kt:sacrifice` |
 | `kt:adolf-anderssen` | `kt:immortal-game`, `kt:romantic-era`, `kt:wilhelm-steinitz` |
 | `kt:alphazero` | `kt:evaluation-function`, `kt:stockfish`, `kt:chess-variants` |
+| `kt:boris-spassky` | `kt:fischer-spassky-1972`, `kt:bobby-fischer`, `kt:tigran-petrosian` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position`, `kt:rook-endgames` |
 | `kt:deflection` | `kt:back-rank-mate`, `kt:back-rank-mate`, `kt:zwischenzug` |
 | `kt:draw` | `kt:dead-position`, `kt:fifty-move-rule`, `kt:stalemate` |
@@ -23,7 +23,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alekhines-defence` | `kt:fischer-spassky-1972`, `kt:hypermodernism` |
 | `kt:alexander-alekhine` | `kt:slav-defence`, `kt:jose-raul-capablanca` |
 | `kt:alexander-kotov` | `kt:calculation`, `kt:candidate-moves` |
-| `kt:boris-spassky` | `kt:fischer-spassky-1972`, `kt:bobby-fischer` |
 | `kt:botvinnik-versus-capablanca-avro-1938` | `kt:soviet-chess-school`, `kt:mikhail-botvinnik` |
 | `kt:carlsbad-structure` | `kt:pawn-structure`, `kt:queens-gambit-declined` |
 | `kt:chess-organizations` | `kt:fide`, `kt:us-chess` |
@@ -152,6 +151,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:passive-rook-defence` | `kt:philidor-position` |
 | `kt:paul-keres` | `kt:correspondence-chess` |
 | `kt:paul-morphy` | `kt:romantic-era` |
+| `kt:petrosian-versus-spassky-moscow-1966-game-10` | `kt:tigran-petrosian` |
 | `kt:philipp-stamma` | `kt:algebraic-notation` |
 | `kt:piece-values` | `kt:material-advantage` |
 | `kt:pillsbury-versus-tarrasch-hastings-1895` | `kt:hastings-1895` |
