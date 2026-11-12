@@ -5416,6 +5416,92 @@
       ]
     },
     {
+      "@id": "kt:queens-gambit-accepted",
+      "@type": "kto:Opening",
+      "skos:prefLabel": "Queen's Gambit Accepted",
+      "skos:definition": "Black's reply 2...dxc4 to the Queen's Gambit (1.d4 d5 2.c4 dxc4), giving up the centre pawn on d5 to free the pieces and counter-attack White's centre, usually returning the c4-pawn rather than holding it; White chooses mainly between the classical 3.Nf3 with e3 and Bxc4, and the space-gaining 3.e4.",
+      "kto:domain": "openings",
+      "dcterms:created": "2026-11-12",
+      "kto:verified": "2026-11-12",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Queen's Gambit Accepted: A Modern Counterattack in an Ancient Opening (excerpt)",
+          "dcterms:publisher": "Max Dlugy, Russell Enterprises (2023), excerpt PDF hosted by Chess Tigers",
+          "schema:url": "https://shop.chess-tigers.de/cdn/shop/files/qga_excerpt.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The Queen's Gambit Accepted: A Modern Counterattack in an Ancient Opening, 2nd edition (excerpt)",
+          "dcterms:publisher": "Max Dlugy, Russell Enterprises (2024), New In Chess product sample PDF",
+          "schema:url": "https://newinchess.com/media/wysiwyg/product_pdf/8980.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Opening Repertoire: The Queen's Gambit (sample pages)",
+          "dcterms:publisher": "Damian Lemos, Everyman Chess (2019), New In Chess product sample PDF",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/7987.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Playing the Queen's Gambit: a grandmaster guide (excerpt)",
+          "dcterms:publisher": "Lars Schandorff, Quality Chess",
+          "schema:url": "https://qualitychess.co.uk/wp-content/uploads/2024/02/Playing-the-Queens-Gambit-excerpt.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Queen's Gambit Accepted",
+          "dcterms:publisher": "Chess.com openings reference",
+          "schema:url": "https://www.chess.com/openings/Queens-Gambit-Accepted",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Queen's Gambit Accepted (D20)",
+          "dcterms:publisher": "Chessgames.com",
+          "schema:url": "https://chessgames.com/perl/chessopening?eco=D20",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "Queen's Gambit Accepted, Classical (D27)",
+          "dcterms:publisher": "Chessgames.com",
+          "schema:url": "https://chessgames.com/perl/chessopening?eco=D27",
+          "kto:sourceType": "database"
+        }
+      ],
+      "kto:file": "articles/openings/queens-gambit-accepted.md",
+      "skos:altLabel": [
+        "QGA",
+        "Queens Gambit Accepted",
+        "Queen's Gambit Accepted 2...dxc4"
+      ],
+      "kto:eco": "D20-D29",
+      "kto:moves": "1.d4 d5 2.c4 dxc4",
+      "skos:broader": [
+        {
+          "@id": "kt:queens-gambit"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:closed-games"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:queens-gambit-declined"
+        },
+        {
+          "@id": "kt:slav-defence"
+        }
+      ],
+      "kto:leadsTo": [
+        {
+          "@id": "kt:isolated-queens-pawn"
+        }
+      ]
+    },
+    {
       "@id": "kt:queens-gambit-declined",
       "@type": "kto:Opening",
       "skos:prefLabel": "Queen's Gambit Declined",

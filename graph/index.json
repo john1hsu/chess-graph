@@ -2293,6 +2293,32 @@
     ]
   },
   {
+    "id": "kt:queens-gambit-accepted",
+    "title": "Queen's Gambit Accepted",
+    "aliases": [
+      "QGA",
+      "Queens Gambit Accepted",
+      "Queen's Gambit Accepted 2...dxc4"
+    ],
+    "type": "Opening",
+    "domain": "openings",
+    "file": "articles/openings/queens-gambit-accepted.md",
+    "created": "2026-11-12",
+    "verified": "2026-11-12",
+    "volatile": false,
+    "status": "current",
+    "eco": "D20-D29",
+    "source_urls": [
+      "https://shop.chess-tigers.de/cdn/shop/files/qga_excerpt.pdf",
+      "https://newinchess.com/media/wysiwyg/product_pdf/8980.pdf",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/7987.pdf",
+      "https://qualitychess.co.uk/wp-content/uploads/2024/02/Playing-the-Queens-Gambit-excerpt.pdf",
+      "https://www.chess.com/openings/Queens-Gambit-Accepted",
+      "https://chessgames.com/perl/chessopening?eco=D20",
+      "https://chessgames.com/perl/chessopening?eco=D27"
+    ]
+  },
+  {
     "id": "kt:queens-gambit-declined",
     "title": "Queen's Gambit Declined",
     "aliases": [

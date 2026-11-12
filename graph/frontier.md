@@ -8,7 +8,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:mikhail-botvinnik`, `kt:wilhelm-steinitz` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:herbert-simon` |
 | `kt:key-squares` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:triangulation`, `kt:zugzwang` |
-| `kt:queens-gambit-accepted` | `kt:isolated-queens-pawn`, `kt:queens-gambit-declined`, `kt:queens-gambit`, `kt:slav-defence` |
 | `kt:tigran-petrosian` | `kt:prophylaxis`, `kt:bobby-fischer`, `kt:mikhail-botvinnik`, `kt:sacrifice` |
 | `kt:alphazero` | `kt:evaluation-function`, `kt:stockfish`, `kt:chess-variants` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position`, `kt:rook-endgames` |
@@ -28,6 +27,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:botvinnik-versus-capablanca-avro-1938` | `kt:soviet-chess-school`, `kt:mikhail-botvinnik` |
 | `kt:carlsbad-structure` | `kt:pawn-structure`, `kt:queens-gambit-declined` |
 | `kt:chess-organizations` | `kt:fide`, `kt:us-chess` |
+| `kt:closed-games` | `kt:queens-gambit-accepted`, `kt:queens-gambit` |
 | `kt:corresponding-squares` | `kt:triangulation`, `kt:triangulation` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
 | `kt:dragon-variation` | `kt:najdorf-variation`, `kt:sicilian-defence` |
@@ -82,7 +82,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:carlsen-versus-anand-sochi-2014-game-6` | `kt:zwischenzug` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
 | `kt:chrest` | `kt:template-theory` |
-| `kt:closed-games` | `kt:queens-gambit` |
 | `kt:cognitive-science` | `kt:cognitive-psychology-of-chess` |
 | `kt:david-forsyth` | `kt:forsyth-edwards-notation` |
 | `kt:deep-blue` | `kt:deep-blue-versus-kasparov` |
