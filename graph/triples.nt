@@ -344,6 +344,31 @@
 <https://github.com/john1hsu/chess-graph/id/calculation> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> .
 <https://github.com/john1hsu/chess-graph/id/calculation> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/calculation> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/candidate-moves> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/candidate-moves> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Technique> .
+<https://github.com/john1hsu/chess-graph/id/candidate-moves> <http://www.w3.org/2000/01/rdf-schema#label> "Candidate moves" .
+<https://github.com/john1hsu/chess-graph/id/candidate-moves> <http://www.w3.org/2004/02/skos/core#altLabel> "Candidate move" .
+<https://github.com/john1hsu/chess-graph/id/candidate-moves> <http://www.w3.org/2004/02/skos/core#altLabel> "Kotov's candidate moves" .
+<https://github.com/john1hsu/chess-graph/id/candidate-moves> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/calculation> .
+<https://github.com/john1hsu/chess-graph/id/candidate-moves> <http://www.w3.org/2004/02/skos/core#definition> "The short list of moves a player decides are worth examining before calculating any of them; popularised by Alexander Kotov as the first step of a disciplined search, and studied by psychologists who found that strong players examine few first moves but choose them well." .
+<https://github.com/john1hsu/chess-graph/id/candidate-moves> <http://www.w3.org/2004/02/skos/core#prefLabel> "Candidate moves" .
+<https://github.com/john1hsu/chess-graph/id/candidate-moves> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> .
+<https://github.com/john1hsu/chess-graph/id/candidate-moves> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-tactics> .
+<https://github.com/john1hsu/chess-graph/id/candidate-moves> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/progressive-deepening> .
+<https://github.com/john1hsu/chess-graph/id/candidate-moves> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/prophylaxis> .
+<https://github.com/john1hsu/chess-graph/id/candidate-moves> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s1> .
+<https://github.com/john1hsu/chess-graph/id/candidate-moves> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s2> .
+<https://github.com/john1hsu/chess-graph/id/candidate-moves> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s3> .
+<https://github.com/john1hsu/chess-graph/id/candidate-moves> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s4> .
+<https://github.com/john1hsu/chess-graph/id/candidate-moves> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s5> .
+<https://github.com/john1hsu/chess-graph/id/candidate-moves> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s6> .
+<https://github.com/john1hsu/chess-graph/id/candidate-moves> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s7> .
+<https://github.com/john1hsu/chess-graph/id/candidate-moves> <https://github.com/john1hsu/chess-graph/ontology#counters> <https://github.com/john1hsu/chess-graph/id/einstellung-effect> .
+<https://github.com/john1hsu/chess-graph/id/candidate-moves> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/alexander-kotov> .
+<https://github.com/john1hsu/chess-graph/id/candidate-moves> <https://github.com/john1hsu/chess-graph/ontology#domain> "training-and-improvement" .
+<https://github.com/john1hsu/chess-graph/id/candidate-moves> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/calculation> .
+<https://github.com/john1hsu/chess-graph/id/candidate-moves> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/candidate-moves> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/candidates-tournament> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/candidates-tournament> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Event> .
 <https://github.com/john1hsu/chess-graph/id/candidates-tournament> <http://www.w3.org/2000/01/rdf-schema#label> "Candidates Tournament" .
@@ -3115,6 +3140,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/calculation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/calculation/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
 <https://github.com/john1hsu/chess-graph/id/source/calculation/s6> <https://schema.org/url> "https://lichess.org/study/embed/nkXYPOHc/SSa6JLCz" .
+<https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s1> <http://purl.org/dc/terms/publisher> "Guillermo Campitelli and Fernand Gobet, Brunel University Research Archive" .
+<https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s1> <http://purl.org/dc/terms/title> "Adaptive expert decision making: Skilled chessplayers search more and deeper (ICGA Journal 27(4), 2004)" .
+<https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s1> <https://schema.org/url> "https://bura.brunel.ac.uk/bitstream/2438/825/1/Gobet_Search_ICGA.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s2> <http://purl.org/dc/terms/publisher> "Fernand Gobet, Brunel University Research Archive" .
+<https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s2> <http://purl.org/dc/terms/title> "Chess players' thinking revisited (Swiss Journal of Psychology 57, 1998)" .
+<https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s2> <https://schema.org/url> "https://bura.brunel.ac.uk/bitstream/2438/822/4/1791.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s3> <http://purl.org/dc/terms/publisher> "Merim Bilalić, Peter McLeod and Fernand Gobet, University of Klagenfurt" .
+<https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s3> <http://purl.org/dc/terms/title> "The mechanism of the Einstellung (set) effect: A pervasive source of cognitive bias (Current Directions in Psychological Science 19(2), 2010)" .
+<https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s3> <https://schema.org/url> "https://cognition.aau.at/download/Publikationen/Bilalic/Bilalic_etal_2010b.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s4> <http://purl.org/dc/terms/publisher> "GM Bryan Smith, Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s4> <http://purl.org/dc/terms/title> "\"Think Like a Grandmaster\" by Alexander Kotov (review)" .
+<https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s4> <https://schema.org/url> "https://www.chess.com/article/view/quotthink-like-a-grandmasterquot-by-alexander-kotov" .
+<https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s5> <http://purl.org/dc/terms/publisher> "Rafael Leitão (GM) website" .
+<https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s5> <http://purl.org/dc/terms/title> "The Candidate Moves Technique" .
+<https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s5> <https://schema.org/url> "https://rafaelleitao.com/candidate-moves-technique" .
+<https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s6> <http://purl.org/dc/terms/publisher> "GM Gregory Serper, Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s6> <http://purl.org/dc/terms/title> "How To Find The Best Chess Move" .
+<https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s6> <https://schema.org/url> "https://www.chess.com/article/view/how-to-find-the-best-chess-move" .
+<https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s7> <http://purl.org/dc/terms/publisher> "Chess.com Terms" .
+<https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s7> <http://purl.org/dc/terms/title> "Scholar's Mate" .
+<https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/candidate-moves/s7> <https://schema.org/url> "https://www.chess.com/terms/scholars-mate-chess" .
 <https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s1> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
 <https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s1> <http://purl.org/dc/terms/title> "Regulations for the FIDE Candidates Tournament 2026" .
 <https://github.com/john1hsu/chess-graph/id/source/candidates-tournament/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

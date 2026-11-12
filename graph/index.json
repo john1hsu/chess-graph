@@ -305,6 +305,30 @@
     ]
   },
   {
+    "id": "kt:candidate-moves",
+    "title": "Candidate moves",
+    "aliases": [
+      "Candidate move",
+      "Kotov's candidate moves"
+    ],
+    "type": "Technique",
+    "domain": "training-and-improvement",
+    "file": "articles/training-and-improvement/candidate-moves.md",
+    "created": "2026-11-12",
+    "verified": "2026-11-12",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://bura.brunel.ac.uk/bitstream/2438/825/1/Gobet_Search_ICGA.pdf",
+      "https://bura.brunel.ac.uk/bitstream/2438/822/4/1791.pdf",
+      "https://cognition.aau.at/download/Publikationen/Bilalic/Bilalic_etal_2010b.pdf",
+      "https://www.chess.com/article/view/quotthink-like-a-grandmasterquot-by-alexander-kotov",
+      "https://rafaelleitao.com/candidate-moves-technique",
+      "https://www.chess.com/article/view/how-to-find-the-best-chess-move",
+      "https://www.chess.com/terms/scholars-mate-chess"
+    ]
+  },
+  {
     "id": "kt:candidates-tournament",
     "title": "Candidates Tournament",
     "aliases": [

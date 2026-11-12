@@ -20,10 +20,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:adolf-anderssen` | `kt:romantic-era`, `kt:wilhelm-steinitz` |
 | `kt:alekhines-defence` | `kt:fischer-spassky-1972`, `kt:hypermodernism` |
 | `kt:alexander-alekhine` | `kt:slav-defence`, `kt:jose-raul-capablanca` |
+| `kt:alexander-kotov` | `kt:calculation`, `kt:candidate-moves` |
 | `kt:alphazero` | `kt:evaluation-function`, `kt:chess-variants` |
 | `kt:boris-spassky` | `kt:fischer-spassky-1972`, `kt:bobby-fischer` |
 | `kt:botvinnik-versus-capablanca-avro-1938` | `kt:soviet-chess-school`, `kt:mikhail-botvinnik` |
-| `kt:candidate-moves` | `kt:prophylaxis`, `kt:calculation` |
 | `kt:carlsbad-structure` | `kt:pawn-structure`, `kt:queens-gambit-declined` |
 | `kt:chess-organizations` | `kt:fide`, `kt:us-chess` |
 | `kt:chess-tournament` | `kt:arbiter`, `kt:hastings-1895` |
@@ -48,6 +48,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:overprotection` | `kt:prophylaxis`, `kt:prophylaxis` |
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
+| `kt:progressive-deepening` | `kt:calculation`, `kt:candidate-moves` |
 | `kt:rule-of-the-square` | `kt:king-and-pawn-endgames`, `kt:passed-pawn` |
 | `kt:saavedra-position` | `kt:pawn-promotion`, `kt:endgame-study` |
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:zugzwang`, `kt:aron-nimzowitsch` |
@@ -68,7 +69,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:abraham-luchins` | `kt:einstellung-effect` |
 | `kt:adams-versus-torre-new-orleans-1920` | `kt:back-rank-mate` |
 | `kt:albin-countergambit` | `kt:queens-gambit` |
-| `kt:alexander-kotov` | `kt:calculation` |
 | `kt:alfred-binet` | `kt:cognitive-psychology-of-chess` |
 | `kt:allen-newell` | `kt:herbert-simon` |
 | `kt:allumwandlung` | `kt:excelsior` |
@@ -156,7 +156,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pillsbury-versus-tarrasch-hastings-1895` | `kt:hastings-1895` |
 | `kt:poisoned-pawn-variation` | `kt:najdorf-variation` |
 | `kt:priority-and-anticipation` | `kt:codex-of-chess-composition` |
-| `kt:progressive-deepening` | `kt:calculation` |
 | `kt:proof-game` | `kt:retrograde-analysis` |
 | `kt:proof-number-search` | `kt:game-tree-search` |
 | `kt:puzzle-training` | `kt:deliberate-practice` |

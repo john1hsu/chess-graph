@@ -8639,6 +8639,100 @@
       ]
     },
     {
+      "@id": "kt:candidate-moves",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Candidate moves",
+      "skos:definition": "The short list of moves a player decides are worth examining before calculating any of them; popularised by Alexander Kotov as the first step of a disciplined search, and studied by psychologists who found that strong players examine few first moves but choose them well.",
+      "kto:domain": "training-and-improvement",
+      "dcterms:created": "2026-11-12",
+      "kto:verified": "2026-11-12",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Adaptive expert decision making: Skilled chessplayers search more and deeper (ICGA Journal 27(4), 2004)",
+          "dcterms:publisher": "Guillermo Campitelli and Fernand Gobet, Brunel University Research Archive",
+          "schema:url": "https://bura.brunel.ac.uk/bitstream/2438/825/1/Gobet_Search_ICGA.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Chess players' thinking revisited (Swiss Journal of Psychology 57, 1998)",
+          "dcterms:publisher": "Fernand Gobet, Brunel University Research Archive",
+          "schema:url": "https://bura.brunel.ac.uk/bitstream/2438/822/4/1791.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The mechanism of the Einstellung (set) effect: A pervasive source of cognitive bias (Current Directions in Psychological Science 19(2), 2010)",
+          "dcterms:publisher": "Merim Bilalić, Peter McLeod and Fernand Gobet, University of Klagenfurt",
+          "schema:url": "https://cognition.aau.at/download/Publikationen/Bilalic/Bilalic_etal_2010b.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "\"Think Like a Grandmaster\" by Alexander Kotov (review)",
+          "dcterms:publisher": "GM Bryan Smith, Chess.com",
+          "schema:url": "https://www.chess.com/article/view/quotthink-like-a-grandmasterquot-by-alexander-kotov",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The Candidate Moves Technique",
+          "dcterms:publisher": "Rafael Leitão (GM) website",
+          "schema:url": "https://rafaelleitao.com/candidate-moves-technique",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "How To Find The Best Chess Move",
+          "dcterms:publisher": "GM Gregory Serper, Chess.com",
+          "schema:url": "https://www.chess.com/article/view/how-to-find-the-best-chess-move",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Scholar's Mate",
+          "dcterms:publisher": "Chess.com Terms",
+          "schema:url": "https://www.chess.com/terms/scholars-mate-chess",
+          "kto:sourceType": "database"
+        }
+      ],
+      "kto:file": "articles/training-and-improvement/candidate-moves.md",
+      "skos:altLabel": [
+        "Candidate move",
+        "Kotov's candidate moves"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:calculation"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:chess-tactics"
+        },
+        {
+          "@id": "kt:prophylaxis"
+        },
+        {
+          "@id": "kt:adriaan-de-groot"
+        },
+        {
+          "@id": "kt:progressive-deepening"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:calculation"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:alexander-kotov"
+        }
+      ],
+      "kto:counters": [
+        {
+          "@id": "kt:einstellung-effect"
+        }
+      ]
+    },
+    {
       "@id": "kt:chess-expertise",
       "@type": "kto:CognitiveConcept",
       "skos:prefLabel": "Chess expertise",
