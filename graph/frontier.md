@@ -4,15 +4,15 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:chess` | `kt:chess-endgame`, `kt:chess-titles`, `kt:chaturanga`, `kt:history-of-chess`, `kt:shatranj`, `kt:chess-strategy`, `kt:fide-laws-of-chess`, `kt:chess-tactics`, `kt:chess-composition`, `kt:chess-variants` |
+| `kt:chess` | `kt:chess-endgame`, `kt:chess-titles`, `kt:chaturanga`, `kt:history-of-chess`, `kt:shatranj`, `kt:chess-strategy`, `kt:fide-laws-of-chess`, `kt:chess-tactics`, `kt:chess-composition`, `kt:chess-variants`, `kt:correspondence-chess` |
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:mikhail-botvinnik`, `kt:wilhelm-steinitz` |
+| `kt:fifty-move-rule` | `kt:endgame-tablebases`, `kt:fide-laws-of-chess`, `kt:forsyth-edwards-notation`, `kt:correspondence-chess` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:herbert-simon` |
 | `kt:key-squares` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:triangulation`, `kt:zugzwang` |
 | `kt:queens-gambit-accepted` | `kt:isolated-queens-pawn`, `kt:queens-gambit-declined`, `kt:queens-gambit`, `kt:slav-defence` |
 | `kt:tigran-petrosian` | `kt:prophylaxis`, `kt:bobby-fischer`, `kt:mikhail-botvinnik`, `kt:sacrifice` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position`, `kt:rook-endgames` |
 | `kt:deflection` | `kt:back-rank-mate`, `kt:back-rank-mate`, `kt:zwischenzug` |
-| `kt:fifty-move-rule` | `kt:endgame-tablebases`, `kt:fide-laws-of-chess`, `kt:forsyth-edwards-notation` |
 | `kt:portable-game-notation` | `kt:algebraic-notation`, `kt:forsyth-edwards-notation`, `kt:forsyth-edwards-notation` |
 | `kt:semi-open-games` | `kt:caro-kann-defence`, `kt:french-defence`, `kt:sicilian-defence` |
 | `kt:smothered-mate` | `kt:back-rank-mate`, `kt:back-rank-mate`, `kt:einstellung-effect` |
@@ -87,7 +87,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chrest` | `kt:template-theory` |
 | `kt:closed-games` | `kt:queens-gambit` |
 | `kt:cognitive-science` | `kt:cognitive-psychology-of-chess` |
-| `kt:correspondence-chess` | `kt:chess-titles` |
 | `kt:david-forsyth` | `kt:forsyth-edwards-notation` |
 | `kt:deep-blue` | `kt:deep-blue-versus-kasparov` |
 | `kt:ding-liren` | `kt:gukesh-dommaraju` |
@@ -113,6 +112,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:harry-nelson-pillsbury` | `kt:hastings-1895` |
 | `kt:horatio-caro` | `kt:caro-kann-defence` |
 | `kt:hou-yifan` | `kt:womens-world-chess-championship` |
+| `kt:iccf` | `kt:correspondence-chess` |
 | `kt:illegal-move` | `kt:touch-move` |
 | `kt:immortal-game` | `kt:romantic-era` |
 | `kt:indian-defences` | `kt:nimzo-indian-defence` |
@@ -150,6 +150,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:otto-selz` | `kt:adriaan-de-groot` |
 | `kt:panov-botvinnik-attack` | `kt:caro-kann-defence` |
 | `kt:passive-rook-defence` | `kt:philidor-position` |
+| `kt:paul-keres` | `kt:correspondence-chess` |
 | `kt:paul-morphy` | `kt:romantic-era` |
 | `kt:philipp-stamma` | `kt:algebraic-notation` |
 | `kt:piece-values` | `kt:material-advantage` |

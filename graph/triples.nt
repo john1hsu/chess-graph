@@ -958,6 +958,34 @@
 <https://github.com/john1hsu/chess-graph/id/computer-chess> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> .
 <https://github.com/john1hsu/chess-graph/id/computer-chess> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/nnue> .
 <https://github.com/john1hsu/chess-graph/id/computer-chess> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/correspondence-chess> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/correspondence-chess> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Concept> .
+<https://github.com/john1hsu/chess-graph/id/correspondence-chess> <http://www.w3.org/2000/01/rdf-schema#label> "Correspondence chess" .
+<https://github.com/john1hsu/chess-graph/id/correspondence-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "CC" .
+<https://github.com/john1hsu/chess-graph/id/correspondence-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess by mail" .
+<https://github.com/john1hsu/chess-graph/id/correspondence-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Correspondence Chess" .
+<https://github.com/john1hsu/chess-graph/id/correspondence-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Email chess" .
+<https://github.com/john1hsu/chess-graph/id/correspondence-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Fernschach" .
+<https://github.com/john1hsu/chess-graph/id/correspondence-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Postal chess" .
+<https://github.com/john1hsu/chess-graph/id/correspondence-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Server chess" .
+<https://github.com/john1hsu/chess-graph/id/correspondence-chess> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess> .
+<https://github.com/john1hsu/chess-graph/id/correspondence-chess> <http://www.w3.org/2004/02/skos/core#definition> "Chess played at a distance, with moves sent by messenger, post, email or (today) a game server, and with days rather than minutes per move; players may consult books, databases and, under current ICCF rules, chess engines, but not other people." .
+<https://github.com/john1hsu/chess-graph/id/correspondence-chess> <http://www.w3.org/2004/02/skos/core#prefLabel> "Correspondence chess" .
+<https://github.com/john1hsu/chess-graph/id/correspondence-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-titles> .
+<https://github.com/john1hsu/chess-graph/id/correspondence-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/computer-chess> .
+<https://github.com/john1hsu/chess-graph/id/correspondence-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/endgame-tablebases> .
+<https://github.com/john1hsu/chess-graph/id/correspondence-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fifty-move-rule> .
+<https://github.com/john1hsu/chess-graph/id/correspondence-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/correspondence-chess/s1> .
+<https://github.com/john1hsu/chess-graph/id/correspondence-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/correspondence-chess/s2> .
+<https://github.com/john1hsu/chess-graph/id/correspondence-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/correspondence-chess/s3> .
+<https://github.com/john1hsu/chess-graph/id/correspondence-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/correspondence-chess/s4> .
+<https://github.com/john1hsu/chess-graph/id/correspondence-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/correspondence-chess/s5> .
+<https://github.com/john1hsu/chess-graph/id/correspondence-chess> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/paul-keres> .
+<https://github.com/john1hsu/chess-graph/id/correspondence-chess> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/correspondence-chess> <https://github.com/john1hsu/chess-graph/ontology#domain> "variants-and-compositions" .
+<https://github.com/john1hsu/chess-graph/id/correspondence-chess> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/iccf> .
+<https://github.com/john1hsu/chess-graph/id/correspondence-chess> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/correspondence-chess> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/dead-position> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/dead-position> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Rule> .
 <https://github.com/john1hsu/chess-graph/id/dead-position> <http://www.w3.org/2000/01/rdf-schema#label> "Dead position" .
@@ -3750,6 +3778,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/computer-chess/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/computer-chess/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
 <https://github.com/john1hsu/chess-graph/id/source/computer-chess/s6> <https://schema.org/url> "https://lczero.org/dev/wiki/what-is-lc0" .
+<https://github.com/john1hsu/chess-graph/id/source/correspondence-chess/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/correspondence-chess/s1> <http://purl.org/dc/terms/title> "Correspondence chess" .
+<https://github.com/john1hsu/chess-graph/id/source/correspondence-chess/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/correspondence-chess/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/correspondence-chess/s1> <https://schema.org/url> "https://www.britannica.com/topic/correspondence-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/correspondence-chess/s2> <http://purl.org/dc/terms/publisher> "International Correspondence Chess Federation (copy hosted by the Czech correspondence chess association SKSČR)" .
+<https://github.com/john1hsu/chess-graph/id/source/correspondence-chess/s2> <http://purl.org/dc/terms/title> "ICCF Rules (valid from 1 January 2025)" .
+<https://github.com/john1hsu/chess-graph/id/source/correspondence-chess/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/correspondence-chess/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/correspondence-chess/s2> <https://schema.org/url> "https://skscr.cz/wp-content/uploads/2025/01/2025-ICCF-Rules-.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/correspondence-chess/s3> <http://purl.org/dc/terms/publisher> "International Correspondence Chess Federation" .
+<https://github.com/john1hsu/chess-graph/id/source/correspondence-chess/s3> <http://purl.org/dc/terms/title> "ICCF Rules (valid from 1 December 2022)" .
+<https://github.com/john1hsu/chess-graph/id/source/correspondence-chess/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/correspondence-chess/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/correspondence-chess/s3> <https://schema.org/url> "https://webfiles.iccf.com/rules/2023/2023%20ICCF%20Rules%20%20-%20final.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/correspondence-chess/s4> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess History" .
+<https://github.com/john1hsu/chess-graph/id/source/correspondence-chess/s4> <http://purl.org/dc/terms/title> "Correspondence Chess (Chess Notes feature)" .
+<https://github.com/john1hsu/chess-graph/id/source/correspondence-chess/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/correspondence-chess/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/correspondence-chess/s4> <https://schema.org/url> "https://chesshistory.com/winter/extra/correspondencechess.html" .
+<https://github.com/john1hsu/chess-graph/id/source/correspondence-chess/s5> <http://purl.org/dc/terms/publisher> "AJEC (Association des Joueurs d'Échecs par Correspondance)" .
+<https://github.com/john1hsu/chess-graph/id/source/correspondence-chess/s5> <http://purl.org/dc/terms/title> "L'histoire de l'ICCF (Alain Rogemont, trad. Jean-François Épinoux)" .
+<https://github.com/john1hsu/chess-graph/id/source/correspondence-chess/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/correspondence-chess/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/correspondence-chess/s5> <https://schema.org/url> "https://ajec-echecs.org/2024/02/08/lhistoire-de-liccf-traduit-par-jean-francois-epinoux/?print=pdf" .
 <https://github.com/john1hsu/chess-graph/id/source/dead-position/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
 <https://github.com/john1hsu/chess-graph/id/source/dead-position/s1> <http://purl.org/dc/terms/title> "Laws of Chess, Article 5: The Completion of the Game" .
 <https://github.com/john1hsu/chess-graph/id/source/dead-position/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

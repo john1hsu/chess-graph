@@ -858,6 +858,33 @@
     ]
   },
   {
+    "id": "kt:correspondence-chess",
+    "title": "Correspondence chess",
+    "aliases": [
+      "Correspondence Chess",
+      "Postal chess",
+      "Chess by mail",
+      "Email chess",
+      "Server chess",
+      "CC",
+      "Fernschach"
+    ],
+    "type": "Concept",
+    "domain": "variants-and-compositions",
+    "file": "articles/variants-and-compositions/correspondence-chess.md",
+    "created": "2026-11-12",
+    "verified": "2026-11-12",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://www.britannica.com/topic/correspondence-chess",
+      "https://skscr.cz/wp-content/uploads/2025/01/2025-ICCF-Rules-.pdf",
+      "https://webfiles.iccf.com/rules/2023/2023%20ICCF%20Rules%20%20-%20final.pdf",
+      "https://chesshistory.com/winter/extra/correspondencechess.html",
+      "https://ajec-echecs.org/2024/02/08/lhistoire-de-liccf-traduit-par-jean-francois-epinoux/?print=pdf"
+    ]
+  },
+  {
     "id": "kt:dead-position",
     "title": "Dead position",
     "aliases": [
