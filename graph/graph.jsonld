@@ -3954,6 +3954,106 @@
       ]
     },
     {
+      "@id": "kt:london-1851",
+      "@type": "kto:Event",
+      "skos:prefLabel": "London 1851",
+      "skos:definition": "The sixteen-player knockout tournament organised by Howard Staunton in London during the Great Exhibition of 1851, generally regarded as the first international chess tournament; it was won by Adolf Anderssen, who beat Marmaduke Wyvill in the final.",
+      "kto:domain": "history",
+      "dcterms:created": "2026-11-12",
+      "kto:verified": "2026-11-12",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "London chess tournament :: London 1851",
+          "dcterms:publisher": "OlimpBase (Wojciech Bartelski)",
+          "schema:url": "https://www.olimpbase.org/ind-varia/it-london1851.html",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "Remembering Howard Staunton on the 172nd Anniversary of the Great London 1851 Tournament",
+          "dcterms:publisher": "ChessBase News (Eugene Manlapao, 3 August 2023)",
+          "schema:url": "https://en.chessbase.com/newsroom/post/remembering-howard-staunton-on-the-172nd-anniversary-of-the-great-london-1851-tournament",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Howard Staunton",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://britannica.com/biography/Howard-Staunton",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "The Chess Tournament – London 1851: The First International Chess Tournament (Howard Staunton)",
+          "dcterms:publisher": "Hardinge Simpole",
+          "schema:url": "https://hardingesimpole.co.uk/biblio/9781843820895.htm",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "London 1851: the first international chess tournament",
+          "dcterms:publisher": "Chess.com (GM Julio Becerra)",
+          "schema:url": "https://www.chess.com/article/view/london-1851-the-first-international-chess-tournament",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Remembering Marmaduke Wyvill (22-xii-1815 25-vi-1896)",
+          "dcterms:publisher": "British Chess News (John Upham, 25 June 2020)",
+          "schema:url": "https://britishchessnews.com/?p=6057",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/history/london-1851.md",
+      "skos:altLabel": [
+        "London 1851 chess tournament",
+        "London International Chess Tournament 1851",
+        "Great Exhibition chess tournament",
+        "The Chess Tournament 1851",
+        "London 1851 knockout tournament"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess-tournament"
+        },
+        {
+          "@id": "kt:romantic-era"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:immortal-game"
+        },
+        {
+          "@id": "kt:hastings-1895"
+        },
+        {
+          "@id": "kt:history-of-chess"
+        },
+        {
+          "@id": "kt:world-chess-championship"
+        }
+      ],
+      "kto:wonBy": [
+        {
+          "@id": "kt:adolf-anderssen"
+        }
+      ],
+      "kto:organizedBy": [
+        {
+          "@id": "kt:howard-staunton"
+        }
+      ],
+      "kto:playedBy": [
+        {
+          "@id": "kt:howard-staunton"
+        },
+        {
+          "@id": "kt:marmaduke-wyvill"
+        },
+        {
+          "@id": "kt:lionel-kieseritzky"
+        }
+      ]
+    },
+    {
       "@id": "kt:romantic-era",
       "@type": "kto:School",
       "skos:prefLabel": "Romantic era",

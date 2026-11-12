@@ -86,6 +86,7 @@ PRED = {
     "playedIn": ("Played in", "Games"),
     "wonBy": ("Won by", "Won"),
     "authoredBy": ("Written by", "Wrote"),
+    "organizedBy": ("Organised by", "Organised"),
     "usesTechnique": ("Uses", "Used by"),
     "instanceOf": ("Instance of", "Has instance"),
 }

@@ -2005,6 +2005,32 @@
     ]
   },
   {
+    "id": "kt:london-1851",
+    "title": "London 1851",
+    "aliases": [
+      "London 1851 chess tournament",
+      "London International Chess Tournament 1851",
+      "Great Exhibition chess tournament",
+      "The Chess Tournament 1851",
+      "London 1851 knockout tournament"
+    ],
+    "type": "Event",
+    "domain": "history",
+    "file": "articles/history/london-1851.md",
+    "created": "2026-11-12",
+    "verified": "2026-11-12",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://www.olimpbase.org/ind-varia/it-london1851.html",
+      "https://en.chessbase.com/newsroom/post/remembering-howard-staunton-on-the-172nd-anniversary-of-the-great-london-1851-tournament",
+      "https://britannica.com/biography/Howard-Staunton",
+      "https://hardingesimpole.co.uk/biblio/9781843820895.htm",
+      "https://www.chess.com/article/view/london-1851-the-first-international-chess-tournament",
+      "https://britishchessnews.com/?p=6057"
+    ]
+  },
+  {
     "id": "kt:lucena-position",
     "title": "Lucena position",
     "aliases": [

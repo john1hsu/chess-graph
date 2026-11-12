@@ -2238,6 +2238,36 @@
 <https://github.com/john1hsu/chess-graph/id/king-and-pawn-endgames> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/opposition> .
 <https://github.com/john1hsu/chess-graph/id/king-and-pawn-endgames> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/triangulation> .
 <https://github.com/john1hsu/chess-graph/id/king-and-pawn-endgames> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/london-1851> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/london-1851> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Event> .
+<https://github.com/john1hsu/chess-graph/id/london-1851> <http://www.w3.org/2000/01/rdf-schema#label> "London 1851" .
+<https://github.com/john1hsu/chess-graph/id/london-1851> <http://www.w3.org/2004/02/skos/core#altLabel> "Great Exhibition chess tournament" .
+<https://github.com/john1hsu/chess-graph/id/london-1851> <http://www.w3.org/2004/02/skos/core#altLabel> "London 1851 chess tournament" .
+<https://github.com/john1hsu/chess-graph/id/london-1851> <http://www.w3.org/2004/02/skos/core#altLabel> "London 1851 knockout tournament" .
+<https://github.com/john1hsu/chess-graph/id/london-1851> <http://www.w3.org/2004/02/skos/core#altLabel> "London International Chess Tournament 1851" .
+<https://github.com/john1hsu/chess-graph/id/london-1851> <http://www.w3.org/2004/02/skos/core#altLabel> "The Chess Tournament 1851" .
+<https://github.com/john1hsu/chess-graph/id/london-1851> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-tournament> .
+<https://github.com/john1hsu/chess-graph/id/london-1851> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/romantic-era> .
+<https://github.com/john1hsu/chess-graph/id/london-1851> <http://www.w3.org/2004/02/skos/core#definition> "The sixteen-player knockout tournament organised by Howard Staunton in London during the Great Exhibition of 1851, generally regarded as the first international chess tournament; it was won by Adolf Anderssen, who beat Marmaduke Wyvill in the final." .
+<https://github.com/john1hsu/chess-graph/id/london-1851> <http://www.w3.org/2004/02/skos/core#prefLabel> "London 1851" .
+<https://github.com/john1hsu/chess-graph/id/london-1851> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/hastings-1895> .
+<https://github.com/john1hsu/chess-graph/id/london-1851> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/history-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/london-1851> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/immortal-game> .
+<https://github.com/john1hsu/chess-graph/id/london-1851> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/london-1851> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/london-1851/s1> .
+<https://github.com/john1hsu/chess-graph/id/london-1851> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/london-1851/s2> .
+<https://github.com/john1hsu/chess-graph/id/london-1851> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/london-1851/s3> .
+<https://github.com/john1hsu/chess-graph/id/london-1851> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/london-1851/s4> .
+<https://github.com/john1hsu/chess-graph/id/london-1851> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/london-1851/s5> .
+<https://github.com/john1hsu/chess-graph/id/london-1851> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/london-1851/s6> .
+<https://github.com/john1hsu/chess-graph/id/london-1851> <https://github.com/john1hsu/chess-graph/ontology#domain> "history" .
+<https://github.com/john1hsu/chess-graph/id/london-1851> <https://github.com/john1hsu/chess-graph/ontology#organizedBy> <https://github.com/john1hsu/chess-graph/id/howard-staunton> .
+<https://github.com/john1hsu/chess-graph/id/london-1851> <https://github.com/john1hsu/chess-graph/ontology#playedBy> <https://github.com/john1hsu/chess-graph/id/howard-staunton> .
+<https://github.com/john1hsu/chess-graph/id/london-1851> <https://github.com/john1hsu/chess-graph/ontology#playedBy> <https://github.com/john1hsu/chess-graph/id/lionel-kieseritzky> .
+<https://github.com/john1hsu/chess-graph/id/london-1851> <https://github.com/john1hsu/chess-graph/ontology#playedBy> <https://github.com/john1hsu/chess-graph/id/marmaduke-wyvill> .
+<https://github.com/john1hsu/chess-graph/id/london-1851> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/london-1851> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/london-1851> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/adolf-anderssen> .
 <https://github.com/john1hsu/chess-graph/id/lucena-position> <http://purl.org/dc/terms/created> "2026-11-07" .
 <https://github.com/john1hsu/chess-graph/id/lucena-position> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#EndgameType> .
 <https://github.com/john1hsu/chess-graph/id/lucena-position> <http://www.w3.org/2000/01/rdf-schema#label> "Lucena position" .
@@ -5411,6 +5441,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/king-and-pawn-endgames/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/king-and-pawn-endgames/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/king-and-pawn-endgames/s4> <https://schema.org/url> "https://www.chess.com/terms/square-rule-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1851/s1> <http://purl.org/dc/terms/publisher> "OlimpBase (Wojciech Bartelski)" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1851/s1> <http://purl.org/dc/terms/title> "London chess tournament :: London 1851" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1851/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/london-1851/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1851/s1> <https://schema.org/url> "https://www.olimpbase.org/ind-varia/it-london1851.html" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1851/s2> <http://purl.org/dc/terms/publisher> "ChessBase News (Eugene Manlapao, 3 August 2023)" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1851/s2> <http://purl.org/dc/terms/title> "Remembering Howard Staunton on the 172nd Anniversary of the Great London 1851 Tournament" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1851/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/london-1851/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1851/s2> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/remembering-howard-staunton-on-the-172nd-anniversary-of-the-great-london-1851-tournament" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1851/s3> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1851/s3> <http://purl.org/dc/terms/title> "Howard Staunton" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1851/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/london-1851/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1851/s3> <https://schema.org/url> "https://britannica.com/biography/Howard-Staunton" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1851/s4> <http://purl.org/dc/terms/publisher> "Hardinge Simpole" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1851/s4> <http://purl.org/dc/terms/title> "The Chess Tournament – London 1851: The First International Chess Tournament (Howard Staunton)" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1851/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/london-1851/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1851/s4> <https://schema.org/url> "https://hardingesimpole.co.uk/biblio/9781843820895.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1851/s5> <http://purl.org/dc/terms/publisher> "Chess.com (GM Julio Becerra)" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1851/s5> <http://purl.org/dc/terms/title> "London 1851: the first international chess tournament" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1851/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/london-1851/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1851/s5> <https://schema.org/url> "https://www.chess.com/article/view/london-1851-the-first-international-chess-tournament" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1851/s6> <http://purl.org/dc/terms/publisher> "British Chess News (John Upham, 25 June 2020)" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1851/s6> <http://purl.org/dc/terms/title> "Remembering Marmaduke Wyvill (22-xii-1815 25-vi-1896)" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1851/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/london-1851/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1851/s6> <https://schema.org/url> "https://britishchessnews.com/?p=6057" .
 <https://github.com/john1hsu/chess-graph/id/source/lucena-position/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
 <https://github.com/john1hsu/chess-graph/id/source/lucena-position/s1> <http://purl.org/dc/terms/title> "The Lucena Position" .
 <https://github.com/john1hsu/chess-graph/id/source/lucena-position/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

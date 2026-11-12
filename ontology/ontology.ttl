@@ -125,6 +125,7 @@ kto:playedBy        a owl:ObjectProperty ; rdfs:range kto:Player ; rdfs:label "p
 kto:playedIn        a owl:ObjectProperty ; rdfs:range kto:Event ; rdfs:label "played in event" .
 kto:wonBy           a owl:ObjectProperty ; rdfs:label "won by" .
 kto:authoredBy      a owl:ObjectProperty ; rdfs:range kto:Person ; rdfs:label "written by" .
+kto:organizedBy     a owl:ObjectProperty ; rdfs:label "organised by" .
 kto:usesTechnique   a owl:ObjectProperty ; rdfs:label "uses technique / algorithm" .
 kto:instanceOf      a owl:ObjectProperty ; rdfs:label "instance of" .
 

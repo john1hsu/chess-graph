@@ -30,12 +30,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
 | `kt:dragon-variation` | `kt:najdorf-variation`, `kt:sicilian-defence` |
 | `kt:fernand-gobet` | `kt:template-theory`, `kt:visualization` |
+| `kt:howard-staunton` | `kt:london-1851`, `kt:london-1851` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:javokhir-sindarov` | `kt:candidates-tournament`, `kt:gukesh-dommaraju` |
 | `kt:johannes-zukertort` | `kt:adolf-anderssen`, `kt:wilhelm-steinitz` |
 | `kt:ju-wenjun` | `kt:womens-world-chess-championship`, `kt:womens-world-chess-championship` |
 | `kt:karpov-versus-unzicker-nice-1974` | `kt:prophylaxis`, `kt:anatoly-karpov` |
-| `kt:london-1851` | `kt:immortal-game`, `kt:adolf-anderssen` |
+| `kt:lionel-kieseritzky` | `kt:immortal-game`, `kt:london-1851` |
 | `kt:miguel-najdorf` | `kt:najdorf-variation`, `kt:blindfold-chess` |
 | `kt:mikhail-chigorin` | `kt:hastings-1895`, `kt:wilhelm-steinitz` |
 | `kt:move-ordering` | `kt:alpha-beta-pruning`, `kt:quiescence-search` |
@@ -130,7 +131,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:lasker-versus-bauer-amsterdam-1889` | `kt:combination` |
 | `kt:leipzig-1894` | `kt:siegbert-tarrasch` |
 | `kt:leonardo-torres-y-quevedo` | `kt:claude-shannon` |
-| `kt:lionel-kieseritzky` | `kt:immortal-game` |
 | `kt:london-system` | `kt:carlsbad-structure` |
 | `kt:long-term-working-memory` | `kt:template-theory` |
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position` |
@@ -138,6 +138,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mailbox-board-representation` | `kt:bitboards` |
 | `kt:marco-costalba` | `kt:stockfish` |
 | `kt:marcus-kann` | `kt:caro-kann-defence` |
+| `kt:marmaduke-wyvill` | `kt:london-1851` |
 | `kt:marshall-attack` | `kt:ruy-lopez` |
 | `kt:max-euwe` | `kt:slav-defence` |
 | `kt:max-lange` | `kt:helpmate` |
