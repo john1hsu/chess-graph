@@ -10278,6 +10278,99 @@
       ]
     },
     {
+      "@id": "kt:blindfold-chess",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Blindfold chess",
+      "skos:definition": "Chess played without seeing or touching the pieces, with moves announced aloud and the position held in memory; it is best known through blindfold simultaneous exhibitions, whose record has grown from Philidor's two or three games in the 1780s to Timur Gareyev's 48 in 2016.",
+      "kto:domain": "variants-and-compositions",
+      "dcterms:created": "2026-11-12",
+      "kto:verified": "2026-11-12",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Blindfold Chess (Chess Notes feature article)",
+          "dcterms:publisher": "Edward Winter, Chess History",
+          "schema:url": "https://chesshistory.com/winter/extra/blindfold1.html",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Blindfold Chess: History, Psychology, Techniques, Champions, World Records, and Important Games (Eliot Hearst and John Knott, McFarland, 2009)",
+          "dcterms:publisher": "East Carolina University, Joyner Library catalogue",
+          "schema:url": "https://librarycatalog.ecu.edu/catalog/1447127",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Cognitive and neuronal bases of expertise (PhD thesis, Guillermo Campitelli, 2003)",
+          "dcterms:publisher": "University of Nottingham",
+          "schema:url": "https://eprints.nottingham.ac.uk/13324/1/289483.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "GM Timur Gareyev Breaks Guinness World Record",
+          "dcterms:publisher": "FIDE",
+          "schema:url": "https://old.fide.com/component/content/article/1-fide-news/10087-gm-timur-gareyev-breaks-guinness-world-record.html",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Most simultaneous blindfolded chess games (total games)",
+          "dcterms:publisher": "Guinness World Records",
+          "schema:url": "https://www.guinnessworldrecords.com/world-records/72345-most-simultaneous-blindfolded-chess-wins",
+          "kto:sourceType": "primary-record"
+        },
+        {
+          "dcterms:title": "Blindfold Chess – history, psychology, champions, records",
+          "dcterms:publisher": "ChessBase News",
+          "schema:url": "https://en.chessbase.com/post/blindfold-che-history-psychology-champions-records",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/variants-and-compositions/blindfold-chess.md",
+      "skos:altLabel": [
+        "Blindfold Chess",
+        "Blindfold play",
+        "Sans voir",
+        "Mental chess",
+        "Playing without sight of the board",
+        "Blindfold simultaneous"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:visualization"
+        },
+        {
+          "@id": "kt:cognitive-psychology-of-chess"
+        },
+        {
+          "@id": "kt:correspondence-chess"
+        },
+        {
+          "@id": "kt:simultaneous-exhibition"
+        }
+      ],
+      "kto:championedBy": [
+        {
+          "@id": "kt:francois-andre-danican-philidor"
+        },
+        {
+          "@id": "kt:alexander-alekhine"
+        },
+        {
+          "@id": "kt:miguel-najdorf"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:visualization"
+        }
+      ]
+    },
+    {
       "@id": "kt:chess-composition",
       "@type": "kto:Concept",
       "skos:prefLabel": "Chess composition",

@@ -256,6 +256,35 @@
 <https://github.com/john1hsu/chess-graph/id/bitboards> <https://github.com/john1hsu/chess-graph/ontology#fen> "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1" .
 <https://github.com/john1hsu/chess-graph/id/bitboards> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/bitboards> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/blindfold-chess> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/blindfold-chess> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Concept> .
+<https://github.com/john1hsu/chess-graph/id/blindfold-chess> <http://www.w3.org/2000/01/rdf-schema#label> "Blindfold chess" .
+<https://github.com/john1hsu/chess-graph/id/blindfold-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Blindfold Chess" .
+<https://github.com/john1hsu/chess-graph/id/blindfold-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Blindfold play" .
+<https://github.com/john1hsu/chess-graph/id/blindfold-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Blindfold simultaneous" .
+<https://github.com/john1hsu/chess-graph/id/blindfold-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Mental chess" .
+<https://github.com/john1hsu/chess-graph/id/blindfold-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Playing without sight of the board" .
+<https://github.com/john1hsu/chess-graph/id/blindfold-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Sans voir" .
+<https://github.com/john1hsu/chess-graph/id/blindfold-chess> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess> .
+<https://github.com/john1hsu/chess-graph/id/blindfold-chess> <http://www.w3.org/2004/02/skos/core#definition> "Chess played without seeing or touching the pieces, with moves announced aloud and the position held in memory; it is best known through blindfold simultaneous exhibitions, whose record has grown from Philidor's two or three games in the 1780s to Timur Gareyev's 48 in 2016." .
+<https://github.com/john1hsu/chess-graph/id/blindfold-chess> <http://www.w3.org/2004/02/skos/core#prefLabel> "Blindfold chess" .
+<https://github.com/john1hsu/chess-graph/id/blindfold-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/blindfold-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/correspondence-chess> .
+<https://github.com/john1hsu/chess-graph/id/blindfold-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/simultaneous-exhibition> .
+<https://github.com/john1hsu/chess-graph/id/blindfold-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/visualization> .
+<https://github.com/john1hsu/chess-graph/id/blindfold-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s1> .
+<https://github.com/john1hsu/chess-graph/id/blindfold-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s2> .
+<https://github.com/john1hsu/chess-graph/id/blindfold-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s3> .
+<https://github.com/john1hsu/chess-graph/id/blindfold-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s4> .
+<https://github.com/john1hsu/chess-graph/id/blindfold-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s5> .
+<https://github.com/john1hsu/chess-graph/id/blindfold-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s6> .
+<https://github.com/john1hsu/chess-graph/id/blindfold-chess> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/alexander-alekhine> .
+<https://github.com/john1hsu/chess-graph/id/blindfold-chess> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/francois-andre-danican-philidor> .
+<https://github.com/john1hsu/chess-graph/id/blindfold-chess> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/miguel-najdorf> .
+<https://github.com/john1hsu/chess-graph/id/blindfold-chess> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/visualization> .
+<https://github.com/john1hsu/chess-graph/id/blindfold-chess> <https://github.com/john1hsu/chess-graph/ontology#domain> "variants-and-compositions" .
+<https://github.com/john1hsu/chess-graph/id/blindfold-chess> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/blindfold-chess> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/blockade> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/blockade> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
 <https://github.com/john1hsu/chess-graph/id/blockade> <http://www.w3.org/2000/01/rdf-schema#label> "Blockade" .
@@ -3276,6 +3305,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/bitboards/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/bitboards/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/bitboards/s5> <https://schema.org/url> "https://www.chessprogramming.org/Pradu_Kannan" .
+<https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess History" .
+<https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s1> <http://purl.org/dc/terms/title> "Blindfold Chess (Chess Notes feature article)" .
+<https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s1> <https://schema.org/url> "https://chesshistory.com/winter/extra/blindfold1.html" .
+<https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s2> <http://purl.org/dc/terms/publisher> "East Carolina University, Joyner Library catalogue" .
+<https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s2> <http://purl.org/dc/terms/title> "Blindfold Chess: History, Psychology, Techniques, Champions, World Records, and Important Games (Eliot Hearst and John Knott, McFarland, 2009)" .
+<https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s2> <https://schema.org/url> "https://librarycatalog.ecu.edu/catalog/1447127" .
+<https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s3> <http://purl.org/dc/terms/publisher> "University of Nottingham" .
+<https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s3> <http://purl.org/dc/terms/title> "Cognitive and neuronal bases of expertise (PhD thesis, Guillermo Campitelli, 2003)" .
+<https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s3> <https://schema.org/url> "https://eprints.nottingham.ac.uk/13324/1/289483.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s4> <http://purl.org/dc/terms/publisher> "FIDE" .
+<https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s4> <http://purl.org/dc/terms/title> "GM Timur Gareyev Breaks Guinness World Record" .
+<https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s4> <https://schema.org/url> "https://old.fide.com/component/content/article/1-fide-news/10087-gm-timur-gareyev-breaks-guinness-world-record.html" .
+<https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s5> <http://purl.org/dc/terms/publisher> "Guinness World Records" .
+<https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s5> <http://purl.org/dc/terms/title> "Most simultaneous blindfolded chess games (total games)" .
+<https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s5> <https://schema.org/url> "https://www.guinnessworldrecords.com/world-records/72345-most-simultaneous-blindfolded-chess-wins" .
+<https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s6> <http://purl.org/dc/terms/publisher> "ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s6> <http://purl.org/dc/terms/title> "Blindfold Chess – history, psychology, champions, records" .
+<https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s6> <https://schema.org/url> "https://en.chessbase.com/post/blindfold-che-history-psychology-champions-records" .
 <https://github.com/john1hsu/chess-graph/id/source/blockade/s1> <http://purl.org/dc/terms/publisher> "Aron Nimzowitsch, Quality Chess (2007 edition)" .
 <https://github.com/john1hsu/chess-graph/id/source/blockade/s1> <http://purl.org/dc/terms/title> "My System (excerpt)" .
 <https://github.com/john1hsu/chess-graph/id/source/blockade/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

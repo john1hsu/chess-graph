@@ -230,6 +230,33 @@
     ]
   },
   {
+    "id": "kt:blindfold-chess",
+    "title": "Blindfold chess",
+    "aliases": [
+      "Blindfold Chess",
+      "Blindfold play",
+      "Sans voir",
+      "Mental chess",
+      "Playing without sight of the board",
+      "Blindfold simultaneous"
+    ],
+    "type": "Concept",
+    "domain": "variants-and-compositions",
+    "file": "articles/variants-and-compositions/blindfold-chess.md",
+    "created": "2026-11-12",
+    "verified": "2026-11-12",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://chesshistory.com/winter/extra/blindfold1.html",
+      "https://librarycatalog.ecu.edu/catalog/1447127",
+      "https://eprints.nottingham.ac.uk/13324/1/289483.pdf",
+      "https://old.fide.com/component/content/article/1-fide-news/10087-gm-timur-gareyev-breaks-guinness-world-record.html",
+      "https://www.guinnessworldrecords.com/world-records/72345-most-simultaneous-blindfolded-chess-wins",
+      "https://en.chessbase.com/post/blindfold-che-history-psychology-champions-records"
+    ]
+  },
+  {
     "id": "kt:blockade",
     "title": "Blockade",
     "aliases": [
