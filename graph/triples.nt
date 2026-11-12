@@ -1661,6 +1661,36 @@
 <https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/portable-game-notation> .
 <https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/fortress> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/fortress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Technique> .
+<https://github.com/john1hsu/chess-graph/id/fortress> <http://www.w3.org/2000/01/rdf-schema#label> "Fortress" .
+<https://github.com/john1hsu/chess-graph/id/fortress> <http://www.w3.org/2004/02/skos/core#altLabel> "Building a fortress" .
+<https://github.com/john1hsu/chess-graph/id/fortress> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess fortress" .
+<https://github.com/john1hsu/chess-graph/id/fortress> <http://www.w3.org/2004/02/skos/core#altLabel> "Erecting a fortress" .
+<https://github.com/john1hsu/chess-graph/id/fortress> <http://www.w3.org/2004/02/skos/core#altLabel> "Fortress (chess)" .
+<https://github.com/john1hsu/chess-graph/id/fortress> <http://www.w3.org/2004/02/skos/core#altLabel> "Fortress draw" .
+<https://github.com/john1hsu/chess-graph/id/fortress> <http://www.w3.org/2004/02/skos/core#altLabel> "Impregnable fortress" .
+<https://github.com/john1hsu/chess-graph/id/fortress> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-endgame> .
+<https://github.com/john1hsu/chess-graph/id/fortress> <http://www.w3.org/2004/02/skos/core#definition> "A defensive set-up in which the side that is behind in material arranges its king, pieces and pawns so that the stronger side cannot break through with correct defence, so the position is a draw despite the material deficit." .
+<https://github.com/john1hsu/chess-graph/id/fortress> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fortress" .
+<https://github.com/john1hsu/chess-graph/id/fortress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/endgame-tablebases> .
+<https://github.com/john1hsu/chess-graph/id/fortress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> .
+<https://github.com/john1hsu/chess-graph/id/fortress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/stalemate> .
+<https://github.com/john1hsu/chess-graph/id/fortress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/wrong-bishop> .
+<https://github.com/john1hsu/chess-graph/id/fortress> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/zugzwang> .
+<https://github.com/john1hsu/chess-graph/id/fortress> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fortress/s1> .
+<https://github.com/john1hsu/chess-graph/id/fortress> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fortress/s2> .
+<https://github.com/john1hsu/chess-graph/id/fortress> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fortress/s3> .
+<https://github.com/john1hsu/chess-graph/id/fortress> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fortress/s4> .
+<https://github.com/john1hsu/chess-graph/id/fortress> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fortress/s5> .
+<https://github.com/john1hsu/chess-graph/id/fortress> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fortress/s6> .
+<https://github.com/john1hsu/chess-graph/id/fortress> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/horizon-effect> .
+<https://github.com/john1hsu/chess-graph/id/fortress> <https://github.com/john1hsu/chess-graph/ontology#counters> <https://github.com/john1hsu/chess-graph/id/material-advantage> .
+<https://github.com/john1hsu/chess-graph/id/fortress> <https://github.com/john1hsu/chess-graph/ontology#domain> "endgames" .
+<https://github.com/john1hsu/chess-graph/id/fortress> <https://github.com/john1hsu/chess-graph/ontology#fen> "7k/8/6KP/8/8/3B4/8/8 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/fortress> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/fortress> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/blockade> .
+<https://github.com/john1hsu/chess-graph/id/fortress> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/french-defence> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/french-defence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Opening> .
 <https://github.com/john1hsu/chess-graph/id/french-defence> <http://www.w3.org/2000/01/rdf-schema#label> "French Defence" .
@@ -4730,6 +4760,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/forsyth-edwards-notation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/forsyth-edwards-notation/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/forsyth-edwards-notation/s4> <https://schema.org/url> "https://help.chessbase.com/CBase/18/Eng/fen_format.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/fortress/s1> <http://purl.org/dc/terms/publisher> "Matej Guid and Ivan Bratko, Elektrotehniški vestnik (English edition) 79(1-2), 35-40 (2012)" .
+<https://github.com/john1hsu/chess-graph/id/source/fortress/s1> <http://purl.org/dc/terms/title> "Detecting Fortresses in Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/fortress/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fortress/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/fortress/s1> <https://schema.org/url> "https://ev.fe.uni-lj.si/1-2-2012/Guid.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/fortress/s2> <http://purl.org/dc/terms/publisher> "Mark Dvoretsky, revised by Karsten Müller and Alex Fishbein, Russell Enterprises (2025); excerpt hosted by De Beste Zet" .
+<https://github.com/john1hsu/chess-graph/id/source/fortress/s2> <http://purl.org/dc/terms/title> "Dvoretsky's Endgame Manual, sixth edition (excerpt with table of contents)" .
+<https://github.com/john1hsu/chess-graph/id/source/fortress/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fortress/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/fortress/s2> <https://schema.org/url> "https://www.debestezet.nl/catalog/images/PDF/Dvoretskys%20Endgame%20Manual%206th%20Edition.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/fortress/s3> <http://purl.org/dc/terms/publisher> "Jesús de la Villa, New In Chess (2021)" .
+<https://github.com/john1hsu/chess-graph/id/source/fortress/s3> <http://purl.org/dc/terms/title> "100 Endgame Patterns You Must Know (excerpt with table of contents)" .
+<https://github.com/john1hsu/chess-graph/id/source/fortress/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fortress/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/fortress/s3> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/9112.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/fortress/s4> <http://purl.org/dc/terms/publisher> "ChessBase News (2025)" .
+<https://github.com/john1hsu/chess-graph/id/source/fortress/s4> <http://purl.org/dc/terms/title> "Simply impregnable (ChessBase Magazine #226 sample: Dorian Rogozenco on the rook-versus-queen fortress)" .
+<https://github.com/john1hsu/chess-graph/id/source/fortress/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fortress/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/fortress/s4> <https://schema.org/url> "https://en.chessbase.com/post/new-chessbase-magazine-36" .
+<https://github.com/john1hsu/chess-graph/id/source/fortress/s5> <http://purl.org/dc/terms/publisher> "GM Sundararajan Kidambi, ChessBase India (2017)" .
+<https://github.com/john1hsu/chess-graph/id/source/fortress/s5> <http://purl.org/dc/terms/title> "When the rook is as powerful as the queen!" .
+<https://github.com/john1hsu/chess-graph/id/source/fortress/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fortress/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/fortress/s5> <https://schema.org/url> "https://chessbase.in/news/Queen_versus_rook_by_Kidambi" .
+<https://github.com/john1hsu/chess-graph/id/source/fortress/s6> <http://purl.org/dc/terms/publisher> "Lichess blog (BigBrainChess_08)" .
+<https://github.com/john1hsu/chess-graph/id/source/fortress/s6> <http://purl.org/dc/terms/title> "The Wrong-Coloured Bishop: Fortresses - Save A Lost Position" .
+<https://github.com/john1hsu/chess-graph/id/source/fortress/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fortress/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/fortress/s6> <https://schema.org/url> "https://lichess.org/@/BigBrainChess_08/blog/the-wrong-coloured-bishop-fortresses-save-a-lost-position/nlOuSTzJ" .
 <https://github.com/john1hsu/chess-graph/id/source/french-defence/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
 <https://github.com/john1hsu/chess-graph/id/source/french-defence/s1> <http://purl.org/dc/terms/title> "The French Defence" .
 <https://github.com/john1hsu/chess-graph/id/source/french-defence/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

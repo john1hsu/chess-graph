@@ -1279,6 +1279,102 @@
       ]
     },
     {
+      "@id": "kt:fortress",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Fortress",
+      "skos:definition": "A defensive set-up in which the side that is behind in material arranges its king, pieces and pawns so that the stronger side cannot break through with correct defence, so the position is a draw despite the material deficit.",
+      "kto:domain": "endgames",
+      "dcterms:created": "2026-11-12",
+      "kto:verified": "2026-11-12",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Detecting Fortresses in Chess",
+          "dcterms:publisher": "Matej Guid and Ivan Bratko, Elektrotehniški vestnik (English edition) 79(1-2), 35-40 (2012)",
+          "schema:url": "https://ev.fe.uni-lj.si/1-2-2012/Guid.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Dvoretsky's Endgame Manual, sixth edition (excerpt with table of contents)",
+          "dcterms:publisher": "Mark Dvoretsky, revised by Karsten Müller and Alex Fishbein, Russell Enterprises (2025); excerpt hosted by De Beste Zet",
+          "schema:url": "https://www.debestezet.nl/catalog/images/PDF/Dvoretskys%20Endgame%20Manual%206th%20Edition.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "100 Endgame Patterns You Must Know (excerpt with table of contents)",
+          "dcterms:publisher": "Jesús de la Villa, New In Chess (2021)",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/9112.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Simply impregnable (ChessBase Magazine #226 sample: Dorian Rogozenco on the rook-versus-queen fortress)",
+          "dcterms:publisher": "ChessBase News (2025)",
+          "schema:url": "https://en.chessbase.com/post/new-chessbase-magazine-36",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "When the rook is as powerful as the queen!",
+          "dcterms:publisher": "GM Sundararajan Kidambi, ChessBase India (2017)",
+          "schema:url": "https://chessbase.in/news/Queen_versus_rook_by_Kidambi",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The Wrong-Coloured Bishop: Fortresses - Save A Lost Position",
+          "dcterms:publisher": "Lichess blog (BigBrainChess_08)",
+          "schema:url": "https://lichess.org/@/BigBrainChess_08/blog/the-wrong-coloured-bishop-fortresses-save-a-lost-position/nlOuSTzJ",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/endgames/fortress.md",
+      "skos:altLabel": [
+        "Fortress (chess)",
+        "Chess fortress",
+        "Impregnable fortress",
+        "Fortress draw",
+        "Building a fortress",
+        "Erecting a fortress"
+      ],
+      "kto:fen": "7k/8/6KP/8/8/3B4/8/8 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-endgame"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:opposite-coloured-bishops"
+        },
+        {
+          "@id": "kt:zugzwang"
+        },
+        {
+          "@id": "kt:stalemate"
+        },
+        {
+          "@id": "kt:endgame-tablebases"
+        },
+        {
+          "@id": "kt:wrong-bishop"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:blockade"
+        }
+      ],
+      "kto:counters": [
+        {
+          "@id": "kt:material-advantage"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:horizon-effect"
+        }
+      ]
+    },
+    {
       "@id": "kt:king-and-pawn-endgames",
       "@type": "kto:EndgameType",
       "skos:prefLabel": "King and pawn endgames",

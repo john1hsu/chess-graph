@@ -1492,6 +1492,33 @@
     ]
   },
   {
+    "id": "kt:fortress",
+    "title": "Fortress",
+    "aliases": [
+      "Fortress (chess)",
+      "Chess fortress",
+      "Impregnable fortress",
+      "Fortress draw",
+      "Building a fortress",
+      "Erecting a fortress"
+    ],
+    "type": "Technique",
+    "domain": "endgames",
+    "file": "articles/endgames/fortress.md",
+    "created": "2026-11-12",
+    "verified": "2026-11-12",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://ev.fe.uni-lj.si/1-2-2012/Guid.pdf",
+      "https://www.debestezet.nl/catalog/images/PDF/Dvoretskys%20Endgame%20Manual%206th%20Edition.pdf",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/9112.pdf",
+      "https://en.chessbase.com/post/new-chessbase-magazine-36",
+      "https://chessbase.in/news/Queen_versus_rook_by_Kidambi",
+      "https://lichess.org/@/BigBrainChess_08/blog/the-wrong-coloured-bishop-fortresses-save-a-lost-position/nlOuSTzJ"
+    ]
+  },
+  {
     "id": "kt:french-defence",
     "title": "French Defence",
     "aliases": [

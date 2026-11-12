@@ -95,7 +95,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fide-title-regulations` | `kt:grandmaster-title` |
 | `kt:fide-world-fischer-random-chess-championship` | `kt:chess960` |
 | `kt:fischer-spassky-1972-game-6` | `kt:hanging-pawns` |
-| `kt:fortress` | `kt:opposite-coloured-bishops` |
 | `kt:four-handed-chaturanga` | `kt:chaturanga` |
 | `kt:gambit` | `kt:sacrifice` |
 | `kt:game-of-the-century` | `kt:bobby-fischer` |
@@ -206,5 +205,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:world-chess-championship-1908` | `kt:siegbert-tarrasch` |
 | `kt:world-chess-championship-1921` | `kt:jose-raul-capablanca` |
 | `kt:world-chess-championship-1927` | `kt:jose-raul-capablanca` |
+| `kt:wrong-bishop` | `kt:fortress` |
 | `kt:xiangqi` | `kt:chess-variants` |
 | `kt:yu-nasu` | `kt:nnue` |
