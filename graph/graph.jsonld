@@ -4066,6 +4066,99 @@
       ]
     },
     {
+      "@id": "kt:hanging-pawns",
+      "@type": "kto:PawnStructure",
+      "skos:prefLabel": "Hanging pawns",
+      "skos:definition": "A pawn structure in which one side has two pawns side by side on adjacent half-open files, typically c5 and d5 (or c4 and d4), with no friendly pawns on the neighbouring files; they give space and dynamic potential but can only be defended by pieces.",
+      "kto:domain": "middlegame-strategy",
+      "dcterms:created": "2026-11-12",
+      "kto:verified": "2026-11-12",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Hanging Pawns in Chess",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://chesshistory.com/winter/extra/hangingpawns.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "How to Play the Queen's Gambit (Games 10-12)",
+          "dcterms:publisher": "Garry Kasparov, ChessBase Books",
+          "schema:url": "https://books.chessbase.com/perma/c/68945b8ee30c7d2f77098b5a",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "50 years ago today: Fischer-Spassky, game six",
+          "dcterms:publisher": "Frederic Friedel and Nagesh Havanur, ChessBase News",
+          "schema:url": "https://en.chessbase.com/post/50-years-ago-today-fischer-spassky-game-six",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Hanging Pawns",
+          "dcterms:publisher": "Chess.com (Chess Terms)",
+          "schema:url": "https://www.chess.com/terms/hanging-pawns-chess",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The fight against hanging pawns",
+          "dcterms:publisher": "GM Matthew Sadler",
+          "schema:url": "https://matthewsadler.me.uk/the-middlegame/fight-hanging-pawns/",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Hanging pawns",
+          "dcterms:publisher": "English Chess Federation (Substack)",
+          "schema:url": "https://englishchessfederation.substack.com/p/hanging-pawns",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/middlegame-strategy/hanging-pawns.md",
+      "skos:altLabel": [
+        "Hanging pawn pair",
+        "Hanging c- and d-pawns",
+        "Hängende Bauern"
+      ],
+      "kto:fen": "rnr3k1/4qpp1/p3b2p/1Bpp4/8/Q3PN2/PP3PPP/2R1K2R w K - 0 16",
+      "skos:broader": [
+        {
+          "@id": "kt:pawn-structure"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:isolated-queens-pawn"
+        },
+        {
+          "@id": "kt:blockade"
+        },
+        {
+          "@id": "kt:queens-gambit-declined"
+        },
+        {
+          "@id": "kt:queens-gambit"
+        },
+        {
+          "@id": "kt:fischer-spassky-1972"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:isolated-queens-pawn"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:fischer-spassky-1972-game-6"
+        }
+      ],
+      "kto:leadsTo": [
+        {
+          "@id": "kt:passed-pawn"
+        }
+      ]
+    },
+    {
       "@id": "kt:isolated-queens-pawn",
       "@type": "kto:PawnStructure",
       "skos:prefLabel": "Isolated queen's pawn",

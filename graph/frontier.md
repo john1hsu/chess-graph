@@ -8,12 +8,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:mikhail-botvinnik`, `kt:wilhelm-steinitz` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:herbert-simon` |
 | `kt:key-squares` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:triangulation`, `kt:zugzwang` |
+| `kt:queens-gambit-declined` | `kt:hanging-pawns`, `kt:nimzo-indian-defence`, `kt:queens-gambit`, `kt:slav-defence` |
 | `kt:tigran-petrosian` | `kt:prophylaxis`, `kt:bobby-fischer`, `kt:mikhail-botvinnik`, `kt:sacrifice` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position`, `kt:rook-endgames` |
 | `kt:fifty-move-rule` | `kt:endgame-tablebases`, `kt:fide-laws-of-chess`, `kt:forsyth-edwards-notation` |
 | `kt:portable-game-notation` | `kt:algebraic-notation`, `kt:forsyth-edwards-notation`, `kt:forsyth-edwards-notation` |
 | `kt:queens-gambit-accepted` | `kt:isolated-queens-pawn`, `kt:queens-gambit`, `kt:slav-defence` |
-| `kt:queens-gambit-declined` | `kt:nimzo-indian-defence`, `kt:queens-gambit`, `kt:slav-defence` |
 | `kt:semi-open-games` | `kt:caro-kann-defence`, `kt:french-defence`, `kt:sicilian-defence` |
 | `kt:stockfish` | `kt:bitboards`, `kt:computer-chess`, `kt:endgame-tablebases` |
 | `kt:adolf-anderssen` | `kt:romantic-era`, `kt:wilhelm-steinitz` |
@@ -32,7 +32,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:draw` | `kt:dead-position`, `kt:stalemate` |
 | `kt:evans-gambit` | `kt:romantic-era`, `kt:italian-game` |
 | `kt:francois-andre-danican-philidor` | `kt:philidor-position`, `kt:pawn-structure` |
-| `kt:hanging-pawns` | `kt:isolated-queens-pawn`, `kt:pawn-structure` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:javokhir-sindarov` | `kt:candidates-tournament`, `kt:gukesh-dommaraju` |
 | `kt:ju-wenjun` | `kt:womens-world-chess-championship`, `kt:womens-world-chess-championship` |
@@ -102,6 +101,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fide-handbook` | `kt:fair-play-regulations` |
 | `kt:fide-title-regulations` | `kt:grandmaster-title` |
 | `kt:fide-world-fischer-random-chess-championship` | `kt:chess960` |
+| `kt:fischer-spassky-1972-game-6` | `kt:hanging-pawns` |
 | `kt:four-handed-chaturanga` | `kt:chaturanga` |
 | `kt:gambit` | `kt:sacrifice` |
 | `kt:game-of-the-century` | `kt:bobby-fischer` |

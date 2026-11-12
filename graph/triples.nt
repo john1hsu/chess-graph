@@ -1611,6 +1611,33 @@
 <https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/chess-olympiad> .
 <https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/hanging-pawns> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/hanging-pawns> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#PawnStructure> .
+<https://github.com/john1hsu/chess-graph/id/hanging-pawns> <http://www.w3.org/2000/01/rdf-schema#label> "Hanging pawns" .
+<https://github.com/john1hsu/chess-graph/id/hanging-pawns> <http://www.w3.org/2004/02/skos/core#altLabel> "Hanging c- and d-pawns" .
+<https://github.com/john1hsu/chess-graph/id/hanging-pawns> <http://www.w3.org/2004/02/skos/core#altLabel> "Hanging pawn pair" .
+<https://github.com/john1hsu/chess-graph/id/hanging-pawns> <http://www.w3.org/2004/02/skos/core#altLabel> "Hängende Bauern" .
+<https://github.com/john1hsu/chess-graph/id/hanging-pawns> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/pawn-structure> .
+<https://github.com/john1hsu/chess-graph/id/hanging-pawns> <http://www.w3.org/2004/02/skos/core#definition> "A pawn structure in which one side has two pawns side by side on adjacent half-open files, typically c5 and d5 (or c4 and d4), with no friendly pawns on the neighbouring files; they give space and dynamic potential but can only be defended by pieces." .
+<https://github.com/john1hsu/chess-graph/id/hanging-pawns> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hanging pawns" .
+<https://github.com/john1hsu/chess-graph/id/hanging-pawns> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/blockade> .
+<https://github.com/john1hsu/chess-graph/id/hanging-pawns> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> .
+<https://github.com/john1hsu/chess-graph/id/hanging-pawns> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/isolated-queens-pawn> .
+<https://github.com/john1hsu/chess-graph/id/hanging-pawns> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/queens-gambit-declined> .
+<https://github.com/john1hsu/chess-graph/id/hanging-pawns> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/queens-gambit> .
+<https://github.com/john1hsu/chess-graph/id/hanging-pawns> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/hanging-pawns/s1> .
+<https://github.com/john1hsu/chess-graph/id/hanging-pawns> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/hanging-pawns/s2> .
+<https://github.com/john1hsu/chess-graph/id/hanging-pawns> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/hanging-pawns/s3> .
+<https://github.com/john1hsu/chess-graph/id/hanging-pawns> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/hanging-pawns/s4> .
+<https://github.com/john1hsu/chess-graph/id/hanging-pawns> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/hanging-pawns/s5> .
+<https://github.com/john1hsu/chess-graph/id/hanging-pawns> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/hanging-pawns/s6> .
+<https://github.com/john1hsu/chess-graph/id/hanging-pawns> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/isolated-queens-pawn> .
+<https://github.com/john1hsu/chess-graph/id/hanging-pawns> <https://github.com/john1hsu/chess-graph/ontology#domain> "middlegame-strategy" .
+<https://github.com/john1hsu/chess-graph/id/hanging-pawns> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972-game-6> .
+<https://github.com/john1hsu/chess-graph/id/hanging-pawns> <https://github.com/john1hsu/chess-graph/ontology#fen> "rnr3k1/4qpp1/p3b2p/1Bpp4/8/Q3PN2/PP3PPP/2R1K2R w K - 0 16" .
+<https://github.com/john1hsu/chess-graph/id/hanging-pawns> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/passed-pawn> .
+<https://github.com/john1hsu/chess-graph/id/hanging-pawns> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/hanging-pawns> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/hastings-1895> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/hastings-1895> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Event> .
 <https://github.com/john1hsu/chess-graph/id/hastings-1895> <http://www.w3.org/2000/01/rdf-schema#label> "Hastings 1895" .
@@ -4290,6 +4317,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s9> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s9> <https://schema.org/url> "https://en.chessbase.com/post/world-championship-2026-gukesh-pelletier" .
+<https://github.com/john1hsu/chess-graph/id/source/hanging-pawns/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/hanging-pawns/s1> <http://purl.org/dc/terms/title> "Hanging Pawns in Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/hanging-pawns/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/hanging-pawns/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/hanging-pawns/s1> <https://schema.org/url> "https://chesshistory.com/winter/extra/hangingpawns.html" .
+<https://github.com/john1hsu/chess-graph/id/source/hanging-pawns/s2> <http://purl.org/dc/terms/publisher> "Garry Kasparov, ChessBase Books" .
+<https://github.com/john1hsu/chess-graph/id/source/hanging-pawns/s2> <http://purl.org/dc/terms/title> "How to Play the Queen's Gambit (Games 10-12)" .
+<https://github.com/john1hsu/chess-graph/id/source/hanging-pawns/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/hanging-pawns/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/hanging-pawns/s2> <https://schema.org/url> "https://books.chessbase.com/perma/c/68945b8ee30c7d2f77098b5a" .
+<https://github.com/john1hsu/chess-graph/id/source/hanging-pawns/s3> <http://purl.org/dc/terms/publisher> "Frederic Friedel and Nagesh Havanur, ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/hanging-pawns/s3> <http://purl.org/dc/terms/title> "50 years ago today: Fischer-Spassky, game six" .
+<https://github.com/john1hsu/chess-graph/id/source/hanging-pawns/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/hanging-pawns/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/hanging-pawns/s3> <https://schema.org/url> "https://en.chessbase.com/post/50-years-ago-today-fischer-spassky-game-six" .
+<https://github.com/john1hsu/chess-graph/id/source/hanging-pawns/s4> <http://purl.org/dc/terms/publisher> "Chess.com (Chess Terms)" .
+<https://github.com/john1hsu/chess-graph/id/source/hanging-pawns/s4> <http://purl.org/dc/terms/title> "Hanging Pawns" .
+<https://github.com/john1hsu/chess-graph/id/source/hanging-pawns/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/hanging-pawns/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/hanging-pawns/s4> <https://schema.org/url> "https://www.chess.com/terms/hanging-pawns-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/hanging-pawns/s5> <http://purl.org/dc/terms/publisher> "GM Matthew Sadler" .
+<https://github.com/john1hsu/chess-graph/id/source/hanging-pawns/s5> <http://purl.org/dc/terms/title> "The fight against hanging pawns" .
+<https://github.com/john1hsu/chess-graph/id/source/hanging-pawns/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/hanging-pawns/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/hanging-pawns/s5> <https://schema.org/url> "https://matthewsadler.me.uk/the-middlegame/fight-hanging-pawns/" .
+<https://github.com/john1hsu/chess-graph/id/source/hanging-pawns/s6> <http://purl.org/dc/terms/publisher> "English Chess Federation (Substack)" .
+<https://github.com/john1hsu/chess-graph/id/source/hanging-pawns/s6> <http://purl.org/dc/terms/title> "Hanging pawns" .
+<https://github.com/john1hsu/chess-graph/id/source/hanging-pawns/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/hanging-pawns/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/hanging-pawns/s6> <https://schema.org/url> "https://englishchessfederation.substack.com/p/hanging-pawns" .
 <https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s1> <http://purl.org/dc/terms/publisher> "IRLchess" .
 <https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s1> <http://purl.org/dc/terms/title> "Hastings 1895: crosstable (from H. F. Cheshire, The Hastings Chess Tournament 1895, digital edition v1.1)" .
 <https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

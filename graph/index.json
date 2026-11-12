@@ -1446,6 +1446,30 @@
     ]
   },
   {
+    "id": "kt:hanging-pawns",
+    "title": "Hanging pawns",
+    "aliases": [
+      "Hanging pawn pair",
+      "Hanging c- and d-pawns",
+      "Hängende Bauern"
+    ],
+    "type": "PawnStructure",
+    "domain": "middlegame-strategy",
+    "file": "articles/middlegame-strategy/hanging-pawns.md",
+    "created": "2026-11-12",
+    "verified": "2026-11-12",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://chesshistory.com/winter/extra/hangingpawns.html",
+      "https://books.chessbase.com/perma/c/68945b8ee30c7d2f77098b5a",
+      "https://en.chessbase.com/post/50-years-ago-today-fischer-spassky-game-six",
+      "https://www.chess.com/terms/hanging-pawns-chess",
+      "https://matthewsadler.me.uk/the-middlegame/fight-hanging-pawns/",
+      "https://englishchessfederation.substack.com/p/hanging-pawns"
+    ]
+  },
+  {
     "id": "kt:hastings-1895",
     "title": "Hastings 1895",
     "aliases": [
