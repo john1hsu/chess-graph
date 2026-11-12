@@ -8,12 +8,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:mikhail-botvinnik`, `kt:wilhelm-steinitz` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:herbert-simon` |
 | `kt:key-squares` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:triangulation`, `kt:zugzwang` |
-| `kt:queens-gambit-declined` | `kt:hanging-pawns`, `kt:nimzo-indian-defence`, `kt:queens-gambit`, `kt:slav-defence` |
+| `kt:queens-gambit-accepted` | `kt:isolated-queens-pawn`, `kt:queens-gambit-declined`, `kt:queens-gambit`, `kt:slav-defence` |
 | `kt:tigran-petrosian` | `kt:prophylaxis`, `kt:bobby-fischer`, `kt:mikhail-botvinnik`, `kt:sacrifice` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position`, `kt:rook-endgames` |
 | `kt:fifty-move-rule` | `kt:endgame-tablebases`, `kt:fide-laws-of-chess`, `kt:forsyth-edwards-notation` |
 | `kt:portable-game-notation` | `kt:algebraic-notation`, `kt:forsyth-edwards-notation`, `kt:forsyth-edwards-notation` |
-| `kt:queens-gambit-accepted` | `kt:isolated-queens-pawn`, `kt:queens-gambit`, `kt:slav-defence` |
 | `kt:semi-open-games` | `kt:caro-kann-defence`, `kt:french-defence`, `kt:sicilian-defence` |
 | `kt:stockfish` | `kt:bitboards`, `kt:computer-chess`, `kt:endgame-tablebases` |
 | `kt:adolf-anderssen` | `kt:romantic-era`, `kt:wilhelm-steinitz` |
@@ -24,6 +23,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:boris-spassky` | `kt:fischer-spassky-1972`, `kt:bobby-fischer` |
 | `kt:botvinnik-versus-capablanca-avro-1938` | `kt:soviet-chess-school`, `kt:mikhail-botvinnik` |
 | `kt:candidate-moves` | `kt:prophylaxis`, `kt:calculation` |
+| `kt:carlsbad-structure` | `kt:pawn-structure`, `kt:queens-gambit-declined` |
 | `kt:chess-organizations` | `kt:fide`, `kt:us-chess` |
 | `kt:chess-tournament` | `kt:arbiter`, `kt:hastings-1895` |
 | `kt:corresponding-squares` | `kt:triangulation`, `kt:triangulation` |
@@ -38,6 +38,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:karpov-versus-unzicker-nice-1974` | `kt:prophylaxis`, `kt:anatoly-karpov` |
 | `kt:leela-chess-zero` | `kt:computer-chess`, `kt:monte-carlo-tree-search` |
 | `kt:mikhail-chigorin` | `kt:hastings-1895`, `kt:wilhelm-steinitz` |
+| `kt:minority-attack` | `kt:pawn-structure`, `kt:queens-gambit-declined` |
 | `kt:move-ordering` | `kt:alpha-beta-pruning`, `kt:quiescence-search` |
 | `kt:nnue` | `kt:computer-chess`, `kt:evaluation-function` |
 | `kt:open-games` | `kt:italian-game`, `kt:ruy-lopez` |
@@ -79,7 +80,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:board-representation` | `kt:bitboards` |
 | `kt:breakthrough` | `kt:passed-pawn` |
 | `kt:carlsbad-1929` | `kt:aron-nimzowitsch` |
-| `kt:carlsbad-structure` | `kt:pawn-structure` |
 | `kt:carlsen-versus-anand-sochi-2014-game-6` | `kt:zwischenzug` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
 | `kt:chrest` | `kt:template-theory` |
@@ -141,7 +141,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:max-lange` | `kt:helpmate` |
 | `kt:merim-bilalic` | `kt:einstellung-effect` |
 | `kt:miguel-najdorf` | `kt:najdorf-variation` |
-| `kt:minority-attack` | `kt:pawn-structure` |
 | `kt:modena-school` | `kt:romantic-era` |
 | `kt:move-generation` | `kt:bitboards` |
 | `kt:negamax` | `kt:minimax` |

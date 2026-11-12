@@ -5124,6 +5124,100 @@
       ]
     },
     {
+      "@id": "kt:queens-gambit-declined",
+      "@type": "kto:Opening",
+      "skos:prefLabel": "Queen's Gambit Declined",
+      "skos:definition": "Black's classical reply 2...e6 to the Queen's Gambit (1.d4 d5 2.c4 e6), which holds the d5-pawn with a second centre pawn at the cost of shutting in the c8-bishop; its main branches include the Exchange Variation with its Carlsbad structure, the Orthodox, Lasker and Tartakower systems against 4.Bg5, and the 5.Bf4 lines.",
+      "kto:domain": "openings",
+      "dcterms:created": "2026-11-12",
+      "kto:verified": "2026-11-12",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Queen's Gambit: a grandmaster guide (Playing 1.d4, Vol. 1), 2nd edition (excerpt)",
+          "dcterms:publisher": "Lars Schandorff, Quality Chess (2012), excerpt PDF hosted by New In Chess",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/Playing1d4QueensGambitexcerpt.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Countering the Queen's Gambit: A Compact (but Complete) Black Repertoire for Club Players against 1.d4 (excerpt)",
+          "dcterms:publisher": "Michael Prusikin, New In Chess (2022), excerpt PDF hosted by Chess Tigers",
+          "schema:url": "https://shop.chess-tigers.de/cdn/shop/files/ctqg.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The Modernized Nimzo – Queen's Gambit Declined Systems (sample pages)",
+          "dcterms:publisher": "Milos Pavlovic, Thinkers Publishing (2018), New In Chess product sample PDF",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/7806.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Opening Repertoire: Queen's Gambit Declined Tarrasch (sample pages)",
+          "dcterms:publisher": "Cyrus Lakdawala, New In Chess product sample PDF",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/8857.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Queen's Gambit Declined, Orthodox Defense (D60)",
+          "dcterms:publisher": "Chessgames.com",
+          "schema:url": "https://www.chessgames.com/perl/chessopening?eco=D60",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "Queen's Gambit Declined, Tartakower (D59)",
+          "dcterms:publisher": "Chessgames.com",
+          "schema:url": "https://www.chessgames.com/perl/chessopening?eco=d59",
+          "kto:sourceType": "database"
+        }
+      ],
+      "kto:file": "articles/openings/queens-gambit-declined.md",
+      "skos:altLabel": [
+        "QGD",
+        "Queens Gambit Declined",
+        "Queen's Gambit Declined 2...e6",
+        "Orthodox Queen's Gambit"
+      ],
+      "kto:moves": "1.d4 d5 2.c4 e6",
+      "skos:broader": [
+        {
+          "@id": "kt:queens-gambit"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:nimzo-indian-defence"
+        },
+        {
+          "@id": "kt:hanging-pawns"
+        },
+        {
+          "@id": "kt:isolated-queens-pawn"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:slav-defence"
+        },
+        {
+          "@id": "kt:queens-gambit-accepted"
+        }
+      ],
+      "kto:leadsTo": [
+        {
+          "@id": "kt:carlsbad-structure"
+        },
+        {
+          "@id": "kt:minority-attack"
+        }
+      ],
+      "kto:championedBy": [
+        {
+          "@id": "kt:mikhail-botvinnik"
+        }
+      ]
+    },
+    {
       "@id": "kt:queens-gambit",
       "@type": "kto:Opening",
       "skos:prefLabel": "Queen's Gambit",

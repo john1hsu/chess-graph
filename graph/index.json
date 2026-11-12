@@ -2136,6 +2136,31 @@
     ]
   },
   {
+    "id": "kt:queens-gambit-declined",
+    "title": "Queen's Gambit Declined",
+    "aliases": [
+      "QGD",
+      "Queens Gambit Declined",
+      "Queen's Gambit Declined 2...e6",
+      "Orthodox Queen's Gambit"
+    ],
+    "type": "Opening",
+    "domain": "openings",
+    "file": "articles/openings/queens-gambit-declined.md",
+    "created": "2026-11-12",
+    "verified": "2026-11-12",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/Playing1d4QueensGambitexcerpt.pdf",
+      "https://shop.chess-tigers.de/cdn/shop/files/ctqg.pdf",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/7806.pdf",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/8857.pdf",
+      "https://www.chessgames.com/perl/chessopening?eco=D60",
+      "https://www.chessgames.com/perl/chessopening?eco=d59"
+    ]
+  },
+  {
     "id": "kt:quiescence-search",
     "title": "Quiescence search",
     "aliases": [
