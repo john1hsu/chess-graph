@@ -1985,6 +1985,33 @@
     ]
   },
   {
+    "id": "kt:opposite-coloured-bishops",
+    "title": "Opposite-coloured bishops",
+    "aliases": [
+      "Opposite-colored bishops",
+      "Bishops of opposite colour",
+      "Bishops of opposite colors",
+      "Opposite-colour bishop endings",
+      "Opposite-colored bishop endgame",
+      "Opposite-coloured bishop endgame"
+    ],
+    "type": "EndgameType",
+    "domain": "endgames",
+    "file": "articles/endgames/opposite-coloured-bishops.md",
+    "created": "2026-11-12",
+    "verified": "2026-11-12",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://shop.chess-tigers.de/cdn/shop/files/100endgames.pdf",
+      "https://shop.chess-tigers.de/cdn/shop/files/dem5_excerpt.pdf",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/8924.pdf",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/3732.pdf",
+      "https://serverchess.com/bishopoc.htm",
+      "https://exeterchessclub.org.uk/node/801"
+    ]
+  },
+  {
     "id": "kt:opposition",
     "title": "Opposition",
     "aliases": [

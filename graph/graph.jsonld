@@ -1371,6 +1371,99 @@
       ]
     },
     {
+      "@id": "kt:opposite-coloured-bishops",
+      "@type": "kto:EndgameType",
+      "skos:prefLabel": "Opposite-coloured bishops",
+      "skos:definition": "Positions in which each side has one bishop and the two bishops move on squares of different colours, so they can never challenge each other; pure bishop endings of this kind are notoriously drawish, while with other pieces on the board the bishop often strengthens the side with the initiative.",
+      "kto:domain": "endgames",
+      "dcterms:created": "2026-11-12",
+      "kto:verified": "2026-11-12",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "100 Endgames You Must Know, sixth edition (excerpt, Chapter 9: Opposite-coloured bishops)",
+          "dcterms:publisher": "Jesús de la Villa, New In Chess (2023); excerpt hosted by Chess Tigers",
+          "schema:url": "https://shop.chess-tigers.de/cdn/shop/files/100endgames.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Dvoretsky's Endgame Manual, fifth edition (excerpt with table of contents)",
+          "dcterms:publisher": "Mark Dvoretsky, revised by Karsten Müller, Russell Enterprises (2020)",
+          "schema:url": "https://shop.chess-tigers.de/cdn/shop/files/dem5_excerpt.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Opposite-Colored Bishop Endings: 174 Master Classes (excerpt)",
+          "dcterms:publisher": "Alexey Bezgodov, Elk and Ruby (2024); excerpt hosted by New In Chess",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/8924.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The Bishop: Danger on the Diagonal (excerpt with table of contents)",
+          "dcterms:publisher": "Sergey Kasparov, Russell Enterprises (2018); excerpt hosted by New In Chess",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/3732.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The Bishops of Opposite Color Fortress",
+          "dcterms:publisher": "Arthur E. Holmer, Correspondence Chess League of America (Server Chess)",
+          "schema:url": "https://serverchess.com/bishopoc.htm",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "Opposite-coloured Bishops in the endgame and the middle-game",
+          "dcterms:publisher": "Phil Adams, Exeter Chess Club",
+          "schema:url": "https://exeterchessclub.org.uk/node/801",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/endgames/opposite-coloured-bishops.md",
+      "skos:altLabel": [
+        "Opposite-colored bishops",
+        "Bishops of opposite colour",
+        "Bishops of opposite colors",
+        "Opposite-colour bishop endings",
+        "Opposite-colored bishop endgame",
+        "Opposite-coloured bishop endgame"
+      ],
+      "kto:fen": "4k3/8/4PP2/4K3/1b6/3B4/8/8 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-endgame"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:good-and-bad-bishops"
+        },
+        {
+          "@id": "kt:bishop-pair"
+        },
+        {
+          "@id": "kt:passed-pawn"
+        },
+        {
+          "@id": "kt:fortress"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:blockade"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:zugzwang"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:same-coloured-bishops"
+        }
+      ]
+    },
+    {
       "@id": "kt:opposition",
       "@type": "kto:Technique",
       "skos:prefLabel": "Opposition",

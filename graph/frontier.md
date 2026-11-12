@@ -42,7 +42,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:minority-attack` | `kt:pawn-structure`, `kt:queens-gambit-declined` |
 | `kt:move-ordering` | `kt:alpha-beta-pruning`, `kt:quiescence-search` |
 | `kt:open-games` | `kt:italian-game`, `kt:ruy-lopez` |
-| `kt:opposite-coloured-bishops` | `kt:bishop-pair`, `kt:good-and-bad-bishops` |
 | `kt:origins-of-chess` | `kt:chaturanga`, `kt:history-of-chess` |
 | `kt:overprotection` | `kt:prophylaxis`, `kt:prophylaxis` |
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
@@ -102,6 +101,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fide-title-regulations` | `kt:grandmaster-title` |
 | `kt:fide-world-fischer-random-chess-championship` | `kt:chess960` |
 | `kt:fischer-spassky-1972-game-6` | `kt:hanging-pawns` |
+| `kt:fortress` | `kt:opposite-coloured-bishops` |
 | `kt:four-handed-chaturanga` | `kt:chaturanga` |
 | `kt:gambit` | `kt:sacrifice` |
 | `kt:game-of-the-century` | `kt:bobby-fischer` |
@@ -175,6 +175,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ruy-lopez-de-segura` | `kt:ruy-lopez` |
 | `kt:saint-louis-chess-club` | `kt:us-chess` |
 | `kt:sam-loyd` | `kt:excelsior` |
+| `kt:same-coloured-bishops` | `kt:opposite-coloured-bishops` |
 | `kt:samisch-variation` | `kt:nimzo-indian-defence` |
 | `kt:selfmate` | `kt:helpmate` |
 | `kt:semi-slav-defence` | `kt:slav-defence` |

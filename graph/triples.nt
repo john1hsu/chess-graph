@@ -2214,6 +2214,35 @@
 <https://github.com/john1hsu/chess-graph/id/nimzo-indian-defence> <https://github.com/john1hsu/chess-graph/ontology#namedAfter> <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> .
 <https://github.com/john1hsu/chess-graph/id/nimzo-indian-defence> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/nimzo-indian-defence> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#EndgameType> .
+<https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <http://www.w3.org/2000/01/rdf-schema#label> "Opposite-coloured bishops" .
+<https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <http://www.w3.org/2004/02/skos/core#altLabel> "Bishops of opposite colors" .
+<https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <http://www.w3.org/2004/02/skos/core#altLabel> "Bishops of opposite colour" .
+<https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <http://www.w3.org/2004/02/skos/core#altLabel> "Opposite-colored bishop endgame" .
+<https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <http://www.w3.org/2004/02/skos/core#altLabel> "Opposite-colored bishops" .
+<https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <http://www.w3.org/2004/02/skos/core#altLabel> "Opposite-colour bishop endings" .
+<https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <http://www.w3.org/2004/02/skos/core#altLabel> "Opposite-coloured bishop endgame" .
+<https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-endgame> .
+<https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <http://www.w3.org/2004/02/skos/core#definition> "Positions in which each side has one bishop and the two bishops move on squares of different colours, so they can never challenge each other; pure bishop endings of this kind are notoriously drawish, while with other pieces on the board the bishop often strengthens the side with the initiative." .
+<https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <http://www.w3.org/2004/02/skos/core#prefLabel> "Opposite-coloured bishops" .
+<https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/bishop-pair> .
+<https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fortress> .
+<https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> .
+<https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/passed-pawn> .
+<https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s1> .
+<https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s2> .
+<https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s3> .
+<https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s4> .
+<https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s5> .
+<https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s6> .
+<https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/same-coloured-bishops> .
+<https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/zugzwang> .
+<https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <https://github.com/john1hsu/chess-graph/ontology#domain> "endgames" .
+<https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <https://github.com/john1hsu/chess-graph/ontology#fen> "4k3/8/4PP2/4K3/1b6/3B4/8/8 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/blockade> .
+<https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/opposition> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/opposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Technique> .
 <https://github.com/john1hsu/chess-graph/id/opposition> <http://www.w3.org/2000/01/rdf-schema#label> "Opposition" .
@@ -5043,6 +5072,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/nimzo-indian-defence/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/nimzo-indian-defence/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
 <https://github.com/john1hsu/chess-graph/id/source/nimzo-indian-defence/s7> <https://schema.org/url> "https://www.chessgames.com/perl/chessopening?eco=E20" .
+<https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s1> <http://purl.org/dc/terms/publisher> "Jesús de la Villa, New In Chess (2023); excerpt hosted by Chess Tigers" .
+<https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s1> <http://purl.org/dc/terms/title> "100 Endgames You Must Know, sixth edition (excerpt, Chapter 9: Opposite-coloured bishops)" .
+<https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s1> <https://schema.org/url> "https://shop.chess-tigers.de/cdn/shop/files/100endgames.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s2> <http://purl.org/dc/terms/publisher> "Mark Dvoretsky, revised by Karsten Müller, Russell Enterprises (2020)" .
+<https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s2> <http://purl.org/dc/terms/title> "Dvoretsky's Endgame Manual, fifth edition (excerpt with table of contents)" .
+<https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s2> <https://schema.org/url> "https://shop.chess-tigers.de/cdn/shop/files/dem5_excerpt.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s3> <http://purl.org/dc/terms/publisher> "Alexey Bezgodov, Elk and Ruby (2024); excerpt hosted by New In Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s3> <http://purl.org/dc/terms/title> "Opposite-Colored Bishop Endings: 174 Master Classes (excerpt)" .
+<https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s3> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/8924.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s4> <http://purl.org/dc/terms/publisher> "Sergey Kasparov, Russell Enterprises (2018); excerpt hosted by New In Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s4> <http://purl.org/dc/terms/title> "The Bishop: Danger on the Diagonal (excerpt with table of contents)" .
+<https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s4> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/3732.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s5> <http://purl.org/dc/terms/publisher> "Arthur E. Holmer, Correspondence Chess League of America (Server Chess)" .
+<https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s5> <http://purl.org/dc/terms/title> "The Bishops of Opposite Color Fortress" .
+<https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s5> <https://schema.org/url> "https://serverchess.com/bishopoc.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s6> <http://purl.org/dc/terms/publisher> "Phil Adams, Exeter Chess Club" .
+<https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s6> <http://purl.org/dc/terms/title> "Opposite-coloured Bishops in the endgame and the middle-game" .
+<https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s6> <https://schema.org/url> "https://exeterchessclub.org.uk/node/801" .
 <https://github.com/john1hsu/chess-graph/id/source/opposition/s1> <http://purl.org/dc/terms/publisher> "José Raúl Capablanca, Harcourt, Brace and Howe; Project Gutenberg" .
 <https://github.com/john1hsu/chess-graph/id/source/opposition/s1> <http://purl.org/dc/terms/title> "Chess Fundamentals (1921), Project Gutenberg eBook #33870" .
 <https://github.com/john1hsu/chess-graph/id/source/opposition/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
