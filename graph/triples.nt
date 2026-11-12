@@ -6311,6 +6311,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/us-chess/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/us-chess/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/chess-graph/id/source/us-chess/s7> <https://schema.org/url> "https://www.glicko.net/research/chance.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/visualization/s1> <http://purl.org/dc/terms/publisher> "Guillermo Campitelli and Fernand Gobet, CORE / University of Nottingham" .
+<https://github.com/john1hsu/chess-graph/id/source/visualization/s1> <http://purl.org/dc/terms/title> "The mind's eye in blindfold chess (European Journal of Cognitive Psychology 17, 23-45, 2005)" .
+<https://github.com/john1hsu/chess-graph/id/source/visualization/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/visualization/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/visualization/s1> <https://schema.org/url> "https://core.ac.uk/download/333506.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/visualization/s2> <http://purl.org/dc/terms/publisher> "Andrew J. Waters and Fernand Gobet, Springer" .
+<https://github.com/john1hsu/chess-graph/id/source/visualization/s2> <http://purl.org/dc/terms/title> "Mental imagery and chunks: Empirical and computational findings (Memory & Cognition 36(3), 505-517, 2008)" .
+<https://github.com/john1hsu/chess-graph/id/source/visualization/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/visualization/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/visualization/s2> <https://schema.org/url> "https://link.springer.com/content/pdf/10.3758%2FMC.36.3.505.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/visualization/s3> <http://purl.org/dc/terms/publisher> "Fernand Gobet, Brunel University Research Archive" .
+<https://github.com/john1hsu/chess-graph/id/source/visualization/s3> <http://purl.org/dc/terms/title> "Forward search, pattern recognition and visualization in expert chess: A reply to Chabris and Hearst (2003)" .
+<https://github.com/john1hsu/chess-graph/id/source/visualization/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/visualization/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/visualization/s3> <https://schema.org/url> "https://bura.brunel.ac.uk/bitstream/2438/1391/1/Chabris_Hearst_Reply.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/visualization/s4> <http://purl.org/dc/terms/publisher> "PubMed, US National Library of Medicine" .
+<https://github.com/john1hsu/chess-graph/id/source/visualization/s4> <http://purl.org/dc/terms/title> "Apperception and imagery in blindfold chess (Memory 6(1), 67-90, 1998)" .
+<https://github.com/john1hsu/chess-graph/id/source/visualization/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/visualization/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/visualization/s4> <https://schema.org/url> "https://pubmed.ncbi.nlm.nih.gov/9640433/" .
+<https://github.com/john1hsu/chess-graph/id/source/visualization/s5> <http://purl.org/dc/terms/publisher> "McFarland" .
+<https://github.com/john1hsu/chess-graph/id/source/visualization/s5> <http://purl.org/dc/terms/title> "Blindfold Chess: History, Psychology, Techniques, Champions, World Records, and Important Games (Eliot Hearst and John Knott)" .
+<https://github.com/john1hsu/chess-graph/id/source/visualization/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/visualization/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/visualization/s5> <https://schema.org/url> "https://mcfarlandbooks.com/?p=22687" .
 <https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s1> <http://purl.org/dc/terms/title> "Wilhelm Steinitz" .
 <https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -6681,6 +6706,34 @@
 <https://github.com/john1hsu/chess-graph/id/us-chess> <https://github.com/john1hsu/chess-graph/ontology#memberOf> <https://github.com/john1hsu/chess-graph/id/fide> .
 <https://github.com/john1hsu/chess-graph/id/us-chess> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/us-chess> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/visualization> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/visualization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#CognitiveConcept> .
+<https://github.com/john1hsu/chess-graph/id/visualization> <http://www.w3.org/2000/01/rdf-schema#label> "Visualization" .
+<https://github.com/john1hsu/chess-graph/id/visualization> <http://www.w3.org/2004/02/skos/core#altLabel> "Board vision in the mind" .
+<https://github.com/john1hsu/chess-graph/id/visualization> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess visualization" .
+<https://github.com/john1hsu/chess-graph/id/visualization> <http://www.w3.org/2004/02/skos/core#altLabel> "Mental imagery in chess" .
+<https://github.com/john1hsu/chess-graph/id/visualization> <http://www.w3.org/2004/02/skos/core#altLabel> "Mind's eye" .
+<https://github.com/john1hsu/chess-graph/id/visualization> <http://www.w3.org/2004/02/skos/core#altLabel> "Visualisation" .
+<https://github.com/john1hsu/chess-graph/id/visualization> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-expertise> .
+<https://github.com/john1hsu/chess-graph/id/visualization> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/visualization> <http://www.w3.org/2004/02/skos/core#definition> "The ability to hold a chess position in mind and update it accurately as imagined moves are made, without moving the pieces; psychologists study it as the \"mind's eye\", a short-lived mental image that pattern recognition feeds and look-ahead search depends on." .
+<https://github.com/john1hsu/chess-graph/id/visualization> <http://www.w3.org/2004/02/skos/core#prefLabel> "Visualization" .
+<https://github.com/john1hsu/chess-graph/id/visualization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/blindfold-chess> .
+<https://github.com/john1hsu/chess-graph/id/visualization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/calculation> .
+<https://github.com/john1hsu/chess-graph/id/visualization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chunking-theory> .
+<https://github.com/john1hsu/chess-graph/id/visualization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/template-theory> .
+<https://github.com/john1hsu/chess-graph/id/visualization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/visualization/s1> .
+<https://github.com/john1hsu/chess-graph/id/visualization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/visualization/s2> .
+<https://github.com/john1hsu/chess-graph/id/visualization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/visualization/s3> .
+<https://github.com/john1hsu/chess-graph/id/visualization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/visualization/s4> .
+<https://github.com/john1hsu/chess-graph/id/visualization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/visualization/s5> .
+<https://github.com/john1hsu/chess-graph/id/visualization> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/chunking-theory> .
+<https://github.com/john1hsu/chess-graph/id/visualization> <https://github.com/john1hsu/chess-graph/ontology#domain> "training-and-improvement" .
+<https://github.com/john1hsu/chess-graph/id/visualization> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/calculation> .
+<https://github.com/john1hsu/chess-graph/id/visualization> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/blindfold-chess> .
+<https://github.com/john1hsu/chess-graph/id/visualization> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/fernand-gobet> .
+<https://github.com/john1hsu/chess-graph/id/visualization> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/visualization> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
 <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <http://www.w3.org/2000/01/rdf-schema#label> "Wilhelm Steinitz" .

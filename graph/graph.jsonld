@@ -10185,6 +10185,99 @@
       ]
     },
     {
+      "@id": "kt:visualization",
+      "@type": "kto:CognitiveConcept",
+      "skos:prefLabel": "Visualization",
+      "skos:definition": "The ability to hold a chess position in mind and update it accurately as imagined moves are made, without moving the pieces; psychologists study it as the \"mind's eye\", a short-lived mental image that pattern recognition feeds and look-ahead search depends on.",
+      "kto:domain": "training-and-improvement",
+      "dcterms:created": "2026-11-12",
+      "kto:verified": "2026-11-12",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The mind's eye in blindfold chess (European Journal of Cognitive Psychology 17, 23-45, 2005)",
+          "dcterms:publisher": "Guillermo Campitelli and Fernand Gobet, CORE / University of Nottingham",
+          "schema:url": "https://core.ac.uk/download/333506.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Mental imagery and chunks: Empirical and computational findings (Memory & Cognition 36(3), 505-517, 2008)",
+          "dcterms:publisher": "Andrew J. Waters and Fernand Gobet, Springer",
+          "schema:url": "https://link.springer.com/content/pdf/10.3758%2FMC.36.3.505.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Forward search, pattern recognition and visualization in expert chess: A reply to Chabris and Hearst (2003)",
+          "dcterms:publisher": "Fernand Gobet, Brunel University Research Archive",
+          "schema:url": "https://bura.brunel.ac.uk/bitstream/2438/1391/1/Chabris_Hearst_Reply.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Apperception and imagery in blindfold chess (Memory 6(1), 67-90, 1998)",
+          "dcterms:publisher": "PubMed, US National Library of Medicine",
+          "schema:url": "https://pubmed.ncbi.nlm.nih.gov/9640433/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Blindfold Chess: History, Psychology, Techniques, Champions, World Records, and Important Games (Eliot Hearst and John Knott)",
+          "dcterms:publisher": "McFarland",
+          "schema:url": "https://mcfarlandbooks.com/?p=22687",
+          "kto:sourceType": "book"
+        }
+      ],
+      "kto:file": "articles/training-and-improvement/visualization.md",
+      "skos:altLabel": [
+        "Chess visualization",
+        "Visualisation",
+        "Mind's eye",
+        "Mental imagery in chess",
+        "Board vision in the mind"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:cognitive-psychology-of-chess"
+        },
+        {
+          "@id": "kt:chess-expertise"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:calculation"
+        },
+        {
+          "@id": "kt:chunking-theory"
+        },
+        {
+          "@id": "kt:template-theory"
+        },
+        {
+          "@id": "kt:blindfold-chess"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:calculation"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:chunking-theory"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:blindfold-chess"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:fernand-gobet"
+        }
+      ]
+    },
+    {
       "@id": "kt:chess-composition",
       "@type": "kto:Concept",
       "skos:prefLabel": "Chess composition",

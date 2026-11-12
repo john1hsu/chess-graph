@@ -10,6 +10,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:key-squares` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:triangulation`, `kt:zugzwang` |
 | `kt:adolf-anderssen` | `kt:immortal-game`, `kt:romantic-era`, `kt:wilhelm-steinitz` |
 | `kt:alphazero` | `kt:evaluation-function`, `kt:stockfish`, `kt:chess-variants` |
+| `kt:blindfold-chess` | `kt:cognitive-psychology-of-chess`, `kt:visualization`, `kt:visualization` |
 | `kt:boris-spassky` | `kt:fischer-spassky-1972`, `kt:bobby-fischer`, `kt:tigran-petrosian` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position`, `kt:rook-endgames` |
 | `kt:draw` | `kt:dead-position`, `kt:fifty-move-rule`, `kt:stalemate` |
@@ -30,6 +31,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
 | `kt:dragon-variation` | `kt:najdorf-variation`, `kt:sicilian-defence` |
 | `kt:evans-gambit` | `kt:romantic-era`, `kt:italian-game` |
+| `kt:fernand-gobet` | `kt:template-theory`, `kt:visualization` |
 | `kt:francois-andre-danican-philidor` | `kt:philidor-position`, `kt:pawn-structure` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:javokhir-sindarov` | `kt:candidates-tournament`, `kt:gukesh-dommaraju` |
@@ -56,7 +58,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:underpromotion` | `kt:pawn-promotion`, `kt:excelsior` |
 | `kt:universal-chess-interface` | `kt:stockfish`, `kt:chess960` |
 | `kt:us-chess-championship` | `kt:us-chess`, `kt:bobby-fischer` |
-| `kt:visualization` | `kt:calculation`, `kt:chunking-theory` |
 | `kt:vladimir-kramnik` | `kt:ruy-lopez`, `kt:garry-kasparov` |
 | `kt:world-chess-championship-1886` | `kt:world-chess-championship`, `kt:wilhelm-steinitz` |
 | `kt:world-federation-for-chess-composition` | `kt:chess-composition`, `kt:codex-of-chess-composition` |
@@ -72,7 +73,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:as-suli` | `kt:shatranj` |
 | `kt:backward-pawn` | `kt:outpost` |
 | `kt:berlin-defence` | `kt:ruy-lopez` |
-| `kt:blindfold-chess` | `kt:cognitive-psychology-of-chess` |
 | `kt:board-representation` | `kt:bitboards` |
 | `kt:breakthrough` | `kt:passed-pawn` |
 | `kt:carlsbad-1923` | `kt:carlsbad-structure` |
@@ -91,7 +91,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:european-chess-union` | `kt:fide` |
 | `kt:exchange-sacrifice` | `kt:sacrifice` |
 | `kt:extended-position-description` | `kt:forsyth-edwards-notation` |
-| `kt:fernand-gobet` | `kt:template-theory` |
 | `kt:fide-ethics-and-disciplinary-code` | `kt:fair-play-regulations` |
 | `kt:fide-handbook` | `kt:fair-play-regulations` |
 | `kt:fide-title-regulations` | `kt:grandmaster-title` |

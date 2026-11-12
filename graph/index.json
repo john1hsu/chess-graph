@@ -2908,6 +2908,31 @@
     ]
   },
   {
+    "id": "kt:visualization",
+    "title": "Visualization",
+    "aliases": [
+      "Chess visualization",
+      "Visualisation",
+      "Mind's eye",
+      "Mental imagery in chess",
+      "Board vision in the mind"
+    ],
+    "type": "CognitiveConcept",
+    "domain": "training-and-improvement",
+    "file": "articles/training-and-improvement/visualization.md",
+    "created": "2026-11-12",
+    "verified": "2026-11-12",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://core.ac.uk/download/333506.pdf",
+      "https://link.springer.com/content/pdf/10.3758%2FMC.36.3.505.pdf",
+      "https://bura.brunel.ac.uk/bitstream/2438/1391/1/Chabris_Hearst_Reply.pdf",
+      "https://pubmed.ncbi.nlm.nih.gov/9640433/",
+      "https://mcfarlandbooks.com/?p=22687"
+    ]
+  },
+  {
     "id": "kt:wilhelm-steinitz",
     "title": "Wilhelm Steinitz",
     "aliases": [
