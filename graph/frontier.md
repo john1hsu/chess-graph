@@ -5,24 +5,24 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:chess` | `kt:chess-endgame`, `kt:chess-titles`, `kt:chaturanga`, `kt:history-of-chess`, `kt:shatranj`, `kt:chess-strategy`, `kt:fide-laws-of-chess`, `kt:chess-tactics`, `kt:chess-composition`, `kt:chess-variants` |
-| `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:wilhelm-steinitz` |
+| `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:mikhail-botvinnik`, `kt:wilhelm-steinitz` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:herbert-simon` |
 | `kt:key-squares` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:triangulation`, `kt:zugzwang` |
+| `kt:tigran-petrosian` | `kt:prophylaxis`, `kt:bobby-fischer`, `kt:mikhail-botvinnik`, `kt:sacrifice` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position`, `kt:rook-endgames` |
 | `kt:fifty-move-rule` | `kt:endgame-tablebases`, `kt:fide-laws-of-chess`, `kt:forsyth-edwards-notation` |
-| `kt:mikhail-botvinnik` | `kt:soviet-chess-school`, `kt:garry-kasparov`, `kt:garry-kasparov` |
 | `kt:portable-game-notation` | `kt:algebraic-notation`, `kt:forsyth-edwards-notation`, `kt:forsyth-edwards-notation` |
 | `kt:queens-gambit-accepted` | `kt:isolated-queens-pawn`, `kt:queens-gambit`, `kt:slav-defence` |
 | `kt:queens-gambit-declined` | `kt:nimzo-indian-defence`, `kt:queens-gambit`, `kt:slav-defence` |
 | `kt:semi-open-games` | `kt:caro-kann-defence`, `kt:french-defence`, `kt:sicilian-defence` |
 | `kt:stockfish` | `kt:bitboards`, `kt:computer-chess`, `kt:endgame-tablebases` |
-| `kt:tigran-petrosian` | `kt:prophylaxis`, `kt:bobby-fischer`, `kt:sacrifice` |
 | `kt:adolf-anderssen` | `kt:romantic-era`, `kt:wilhelm-steinitz` |
 | `kt:alekhines-defence` | `kt:fischer-spassky-1972`, `kt:hypermodernism` |
 | `kt:alexander-alekhine` | `kt:slav-defence`, `kt:jose-raul-capablanca` |
 | `kt:alphazero` | `kt:evaluation-function`, `kt:chess-variants` |
 | `kt:back-rank-mate` | `kt:checkmate`, `kt:combination` |
 | `kt:boris-spassky` | `kt:fischer-spassky-1972`, `kt:bobby-fischer` |
+| `kt:botvinnik-versus-capablanca-avro-1938` | `kt:soviet-chess-school`, `kt:mikhail-botvinnik` |
 | `kt:candidate-moves` | `kt:prophylaxis`, `kt:calculation` |
 | `kt:chess-organizations` | `kt:fide`, `kt:us-chess` |
 | `kt:chess-tournament` | `kt:arbiter`, `kt:hastings-1895` |
@@ -78,7 +78,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:berlin-defence` | `kt:ruy-lopez` |
 | `kt:blindfold-chess` | `kt:cognitive-psychology-of-chess` |
 | `kt:board-representation` | `kt:bitboards` |
-| `kt:botvinnik-versus-capablanca-avro-1938` | `kt:soviet-chess-school` |
 | `kt:breakthrough` | `kt:passed-pawn` |
 | `kt:carlsbad-1929` | `kt:aron-nimzowitsch` |
 | `kt:carlsbad-structure` | `kt:pawn-structure` |

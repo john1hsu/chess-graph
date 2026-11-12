@@ -1752,6 +1752,30 @@
     ]
   },
   {
+    "id": "kt:mikhail-botvinnik",
+    "title": "Mikhail Botvinnik",
+    "aliases": [
+      "Mikhail Moiseyevich Botvinnik",
+      "Michael Botvinnik",
+      "Mikhail Botvinnick",
+      "Botvinnik"
+    ],
+    "type": "Player",
+    "domain": "players",
+    "file": "articles/players/mikhail-botvinnik.md",
+    "created": "2026-11-12",
+    "verified": "2026-11-12",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://www.britannica.com:443/print/article/75340",
+      "https://worldchesshof.org/inductee/mikhail-botvinnik/",
+      "https://museum.fide.com/champions/michael-botvinnik",
+      "https://matthewsadler.me.uk/chess-for-life/hidden-dynamic-factors/",
+      "https://en.chessbase.com/post/ken-thompson-moscow-adventures-2"
+    ]
+  },
+  {
     "id": "kt:minimax",
     "title": "Minimax",
     "aliases": [
