@@ -8569,6 +8569,104 @@
       ]
     },
     {
+      "@id": "kt:deflection",
+      "@type": "kto:TacticalMotif",
+      "skos:prefLabel": "Deflection",
+      "skos:definition": "A tactic that forces an enemy piece away from an important duty, such as guarding a piece, a square or a line, so that a follow-up move that the piece was preventing becomes possible.",
+      "kto:domain": "tactics",
+      "dcterms:created": "2026-11-12",
+      "kto:verified": "2026-11-12",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Removing the Guard (Chess Skills leaflet)",
+          "dcterms:publisher": "English Chess Federation",
+          "schema:url": "https://www.englishchess.org.uk/wp-content/uploads/2010/01/guard.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Deflection (Chess Terms)",
+          "dcterms:publisher": "Chess.com",
+          "schema:url": "https://www.chess.com/terms/deflection-chess",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Joys of Chess – the mother of all moves",
+          "dcterms:publisher": "Christian Hesse, ChessBase",
+          "schema:url": "https://en.chessbase.com/newsroom/post/joys-of-chess-the-mother-of-all-moves?page=0",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Winning Chess Tactics (sample: contents and chapter 10)",
+          "dcterms:publisher": "Yasser Seirawan (via New In Chess)",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/82202.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Tactical Training (sample: contents and introduction)",
+          "dcterms:publisher": "Cyrus Lakdawala, Everyman Chess (via New In Chess)",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/8416.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Deflection, Deflection on the Wall (The Decoy Part 2)",
+          "dcterms:publisher": "Jessica Martin, ChessKid",
+          "schema:url": "https://www.chesskid.com/learn/articles/deflection-deflection-on-the-wall",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/tactics/deflection.md",
+      "skos:altLabel": [
+        "Deflection sacrifice",
+        "Deflecting the defender"
+      ],
+      "kto:fen": "8/k7/P2b2P1/KP1Pn2P/8/8/7p/4n3 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-tactics"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:combination"
+        },
+        {
+          "@id": "kt:sacrifice"
+        },
+        {
+          "@id": "kt:back-rank-mate"
+        },
+        {
+          "@id": "kt:zwischenzug"
+        },
+        {
+          "@id": "kt:overloading"
+        },
+        {
+          "@id": "kt:endgame-study"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:decoy"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:material-advantage"
+        },
+        {
+          "@id": "kt:pawn-promotion"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:mitrofanov-study-1967"
+        }
+      ]
+    },
+    {
       "@id": "kt:discovered-attack",
       "@type": "kto:TacticalMotif",
       "skos:prefLabel": "Discovered attack",

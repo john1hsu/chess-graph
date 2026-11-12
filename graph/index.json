@@ -987,6 +987,29 @@
     ]
   },
   {
+    "id": "kt:deflection",
+    "title": "Deflection",
+    "aliases": [
+      "Deflection sacrifice",
+      "Deflecting the defender"
+    ],
+    "type": "TacticalMotif",
+    "domain": "tactics",
+    "file": "articles/tactics/deflection.md",
+    "created": "2026-11-12",
+    "verified": "2026-11-12",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.englishchess.org.uk/wp-content/uploads/2010/01/guard.pdf",
+      "https://www.chess.com/terms/deflection-chess",
+      "https://en.chessbase.com/newsroom/post/joys-of-chess-the-mother-of-all-moves?page=0",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/82202.pdf",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/8416.pdf",
+      "https://www.chesskid.com/learn/articles/deflection-deflection-on-the-wall"
+    ]
+  },
+  {
     "id": "kt:deliberate-practice",
     "title": "Deliberate practice",
     "aliases": [

@@ -1100,6 +1100,34 @@
 <https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/quiescence-search> .
 <https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-07" .
 <https://github.com/john1hsu/chess-graph/id/deep-blue-versus-kasparov> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/deep-blue> .
+<https://github.com/john1hsu/chess-graph/id/deflection> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/deflection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TacticalMotif> .
+<https://github.com/john1hsu/chess-graph/id/deflection> <http://www.w3.org/2000/01/rdf-schema#label> "Deflection" .
+<https://github.com/john1hsu/chess-graph/id/deflection> <http://www.w3.org/2004/02/skos/core#altLabel> "Deflecting the defender" .
+<https://github.com/john1hsu/chess-graph/id/deflection> <http://www.w3.org/2004/02/skos/core#altLabel> "Deflection sacrifice" .
+<https://github.com/john1hsu/chess-graph/id/deflection> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-tactics> .
+<https://github.com/john1hsu/chess-graph/id/deflection> <http://www.w3.org/2004/02/skos/core#definition> "A tactic that forces an enemy piece away from an important duty, such as guarding a piece, a square or a line, so that a follow-up move that the piece was preventing becomes possible." .
+<https://github.com/john1hsu/chess-graph/id/deflection> <http://www.w3.org/2004/02/skos/core#prefLabel> "Deflection" .
+<https://github.com/john1hsu/chess-graph/id/deflection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/back-rank-mate> .
+<https://github.com/john1hsu/chess-graph/id/deflection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/combination> .
+<https://github.com/john1hsu/chess-graph/id/deflection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/endgame-study> .
+<https://github.com/john1hsu/chess-graph/id/deflection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/overloading> .
+<https://github.com/john1hsu/chess-graph/id/deflection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/sacrifice> .
+<https://github.com/john1hsu/chess-graph/id/deflection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/zwischenzug> .
+<https://github.com/john1hsu/chess-graph/id/deflection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/deflection/s1> .
+<https://github.com/john1hsu/chess-graph/id/deflection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/deflection/s2> .
+<https://github.com/john1hsu/chess-graph/id/deflection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/deflection/s3> .
+<https://github.com/john1hsu/chess-graph/id/deflection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/deflection/s4> .
+<https://github.com/john1hsu/chess-graph/id/deflection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/deflection/s5> .
+<https://github.com/john1hsu/chess-graph/id/deflection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/deflection/s6> .
+<https://github.com/john1hsu/chess-graph/id/deflection> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/decoy> .
+<https://github.com/john1hsu/chess-graph/id/deflection> <https://github.com/john1hsu/chess-graph/ontology#domain> "tactics" .
+<https://github.com/john1hsu/chess-graph/id/deflection> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/material-advantage> .
+<https://github.com/john1hsu/chess-graph/id/deflection> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/pawn-promotion> .
+<https://github.com/john1hsu/chess-graph/id/deflection> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/mitrofanov-study-1967> .
+<https://github.com/john1hsu/chess-graph/id/deflection> <https://github.com/john1hsu/chess-graph/ontology#fen> "8/k7/P2b2P1/KP1Pn2P/8/8/7p/4n3 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/deflection> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/deflection> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/deliberate-practice> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/deliberate-practice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#CognitiveConcept> .
 <https://github.com/john1hsu/chess-graph/id/deliberate-practice> <http://www.w3.org/2000/01/rdf-schema#label> "Deliberate practice" .
@@ -4093,6 +4121,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
 <https://github.com/john1hsu/chess-graph/id/source/deep-blue-versus-kasparov/s6> <https://schema.org/url> "https://lehmanns.de/shop/geisteswissenschaften/4604324-9780691090658-behind-deep-blue" .
+<https://github.com/john1hsu/chess-graph/id/source/deflection/s1> <http://purl.org/dc/terms/publisher> "English Chess Federation" .
+<https://github.com/john1hsu/chess-graph/id/source/deflection/s1> <http://purl.org/dc/terms/title> "Removing the Guard (Chess Skills leaflet)" .
+<https://github.com/john1hsu/chess-graph/id/source/deflection/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/deflection/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/deflection/s1> <https://schema.org/url> "https://www.englishchess.org.uk/wp-content/uploads/2010/01/guard.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/deflection/s2> <http://purl.org/dc/terms/publisher> "Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/deflection/s2> <http://purl.org/dc/terms/title> "Deflection (Chess Terms)" .
+<https://github.com/john1hsu/chess-graph/id/source/deflection/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/deflection/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/deflection/s2> <https://schema.org/url> "https://www.chess.com/terms/deflection-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/deflection/s3> <http://purl.org/dc/terms/publisher> "Christian Hesse, ChessBase" .
+<https://github.com/john1hsu/chess-graph/id/source/deflection/s3> <http://purl.org/dc/terms/title> "Joys of Chess – the mother of all moves" .
+<https://github.com/john1hsu/chess-graph/id/source/deflection/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/deflection/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/deflection/s3> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/joys-of-chess-the-mother-of-all-moves?page=0" .
+<https://github.com/john1hsu/chess-graph/id/source/deflection/s4> <http://purl.org/dc/terms/publisher> "Yasser Seirawan (via New In Chess)" .
+<https://github.com/john1hsu/chess-graph/id/source/deflection/s4> <http://purl.org/dc/terms/title> "Winning Chess Tactics (sample: contents and chapter 10)" .
+<https://github.com/john1hsu/chess-graph/id/source/deflection/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/deflection/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/deflection/s4> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/82202.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/deflection/s5> <http://purl.org/dc/terms/publisher> "Cyrus Lakdawala, Everyman Chess (via New In Chess)" .
+<https://github.com/john1hsu/chess-graph/id/source/deflection/s5> <http://purl.org/dc/terms/title> "Tactical Training (sample: contents and introduction)" .
+<https://github.com/john1hsu/chess-graph/id/source/deflection/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/deflection/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/deflection/s5> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/8416.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/deflection/s6> <http://purl.org/dc/terms/publisher> "Jessica Martin, ChessKid" .
+<https://github.com/john1hsu/chess-graph/id/source/deflection/s6> <http://purl.org/dc/terms/title> "Deflection, Deflection on the Wall (The Decoy Part 2)" .
+<https://github.com/john1hsu/chess-graph/id/source/deflection/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/deflection/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/deflection/s6> <https://schema.org/url> "https://www.chesskid.com/learn/articles/deflection-deflection-on-the-wall" .
 <https://github.com/john1hsu/chess-graph/id/source/deliberate-practice/s1> <http://purl.org/dc/terms/publisher> "Fernand Gobet and Guillermo Campitelli, via CORE" .
 <https://github.com/john1hsu/chess-graph/id/source/deliberate-practice/s1> <http://purl.org/dc/terms/title> "The Role of Domain-Specific Practice, Handedness and Starting Age in Chess (Developmental Psychology 43, 159-172)" .
 <https://github.com/john1hsu/chess-graph/id/source/deliberate-practice/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

@@ -12,7 +12,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alphazero` | `kt:evaluation-function`, `kt:stockfish`, `kt:chess-variants` |
 | `kt:boris-spassky` | `kt:fischer-spassky-1972`, `kt:bobby-fischer`, `kt:tigran-petrosian` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position`, `kt:rook-endgames` |
-| `kt:deflection` | `kt:back-rank-mate`, `kt:back-rank-mate`, `kt:zwischenzug` |
 | `kt:draw` | `kt:dead-position`, `kt:fifty-move-rule`, `kt:stalemate` |
 | `kt:leela-chess-zero` | `kt:computer-chess`, `kt:monte-carlo-tree-search`, `kt:stockfish` |
 | `kt:minority-attack` | `kt:carlsbad-structure`, `kt:pawn-structure`, `kt:queens-gambit-declined` |
@@ -83,6 +82,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chrest` | `kt:template-theory` |
 | `kt:cognitive-science` | `kt:cognitive-psychology-of-chess` |
 | `kt:david-forsyth` | `kt:forsyth-edwards-notation` |
+| `kt:decoy` | `kt:deflection` |
 | `kt:deep-blue` | `kt:deep-blue-versus-kasparov` |
 | `kt:ding-liren` | `kt:gukesh-dommaraju` |
 | `kt:ding-versus-gukesh-singapore-2024-game-14` | `kt:gukesh-dommaraju` |
@@ -142,12 +142,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:max-lange` | `kt:helpmate` |
 | `kt:merim-bilalic` | `kt:einstellung-effect` |
 | `kt:miguel-najdorf` | `kt:najdorf-variation` |
+| `kt:mitrofanov-study-1967` | `kt:deflection` |
 | `kt:modena-school` | `kt:romantic-era` |
 | `kt:move-generation` | `kt:bitboards` |
 | `kt:negamax` | `kt:minimax` |
 | `kt:open-ruy-lopez` | `kt:ruy-lopez` |
 | `kt:opening-repertoire` | `kt:template-theory` |
 | `kt:otto-selz` | `kt:adriaan-de-groot` |
+| `kt:overloading` | `kt:deflection` |
 | `kt:panov-botvinnik-attack` | `kt:caro-kann-defence` |
 | `kt:passive-rook-defence` | `kt:philidor-position` |
 | `kt:paul-keres` | `kt:correspondence-chess` |
