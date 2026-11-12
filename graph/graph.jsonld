@@ -2911,6 +2911,106 @@
       ]
     },
     {
+      "@id": "kt:hastings-1895",
+      "@type": "kto:Event",
+      "skos:prefLabel": "Hastings 1895",
+      "skos:definition": "The 22-player round-robin master tournament played at Hastings, England, in August and September 1895, won by the debutant American Harry Nelson Pillsbury with 16½/21 ahead of Chigorin, Lasker, Tarrasch and Steinitz.",
+      "kto:domain": "history",
+      "dcterms:created": "2026-11-12",
+      "kto:verified": "2026-11-12",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Hastings 1895: crosstable (from H. F. Cheshire, The Hastings Chess Tournament 1895, digital edition v1.1)",
+          "dcterms:publisher": "IRLchess",
+          "schema:url": "https://irlchess.com/hastings/hastings1895_allfiles_v1.1/crosstable_hastings1895.html",
+          "kto:sourceType": "primary-record"
+        },
+        {
+          "dcterms:title": "Hastings 1895: information page (tournament book and games database)",
+          "dcterms:publisher": "IRLchess",
+          "schema:url": "https://www.irlchess.com/hastings/hastings1895_allfiles_v1.1/information_hastings1895.html",
+          "kto:sourceType": "primary-record"
+        },
+        {
+          "dcterms:title": "Pillsbury, Harry Nelson – Tarrasch, Siegbert, Hastings 1895, round 2",
+          "dcterms:publisher": "IRLchess (from the Cheshire tournament book)",
+          "schema:url": "https://irlchess.com/hastings/hastings1895_allfiles_v1.1/games_hastings1895/g17.htm",
+          "kto:sourceType": "primary-record"
+        },
+        {
+          "dcterms:title": "Harry Nelson Pillsbury",
+          "dcterms:publisher": "World Chess Hall of Fame",
+          "schema:url": "https://worldchesshof.org/?p=785",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "The Battles of Hastings: Remembering the Hastings Tournament of 1895",
+          "dcterms:publisher": "ChessBase News (Eugene Manlapao)",
+          "schema:url": "https://en.chessbase.com/post/remembering-hastings-1895",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Harry Nelson Pillsbury",
+          "dcterms:publisher": "Chess Notes by Edward Winter",
+          "schema:url": "https://chesshistory.com/winter/extra/pillsbury1.html",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/history/hastings-1895.md",
+      "skos:altLabel": [
+        "Hastings 1895 chess tournament",
+        "Hastings Chess Congress 1895",
+        "Hastings International Chess Tournament 1895",
+        "Hastings 1895 Masters"
+      ],
+      "kto:fen": "8/7Q/8/6pk/1p1Pp3/1r2P2P/2p5/7K b - - 0 52",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-tournament"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:steinitz-von-bardeleben-hastings-1895"
+        },
+        {
+          "@id": "kt:queens-gambit"
+        },
+        {
+          "@id": "kt:romantic-era"
+        },
+        {
+          "@id": "kt:st-petersburg-1895-96"
+        }
+      ],
+      "kto:wonBy": [
+        {
+          "@id": "kt:harry-nelson-pillsbury"
+        }
+      ],
+      "kto:playedBy": [
+        {
+          "@id": "kt:mikhail-chigorin"
+        },
+        {
+          "@id": "kt:emanuel-lasker"
+        },
+        {
+          "@id": "kt:siegbert-tarrasch"
+        },
+        {
+          "@id": "kt:wilhelm-steinitz"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:pillsbury-versus-tarrasch-hastings-1895"
+        }
+      ]
+    },
+    {
       "@id": "kt:history-of-chess",
       "@type": "kto:Concept",
       "skos:prefLabel": "History of chess",

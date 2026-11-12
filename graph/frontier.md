@@ -10,7 +10,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:key-squares` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:triangulation`, `kt:zugzwang` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position`, `kt:rook-endgames` |
 | `kt:fifty-move-rule` | `kt:endgame-tablebases`, `kt:fide-laws-of-chess`, `kt:forsyth-edwards-notation` |
-| `kt:hastings-1895` | `kt:emanuel-lasker`, `kt:siegbert-tarrasch`, `kt:wilhelm-steinitz` |
 | `kt:mikhail-botvinnik` | `kt:soviet-chess-school`, `kt:garry-kasparov`, `kt:garry-kasparov` |
 | `kt:portable-game-notation` | `kt:algebraic-notation`, `kt:forsyth-edwards-notation`, `kt:forsyth-edwards-notation` |
 | `kt:queens-gambit-accepted` | `kt:isolated-queens-pawn`, `kt:queens-gambit`, `kt:slav-defence` |
@@ -27,6 +26,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:candidate-moves` | `kt:prophylaxis`, `kt:calculation` |
 | `kt:chess-organizations` | `kt:fide`, `kt:us-chess` |
 | `kt:chess-titles` | `kt:arbiter`, `kt:grandmaster-title` |
+| `kt:chess-tournament` | `kt:arbiter`, `kt:hastings-1895` |
 | `kt:corresponding-squares` | `kt:triangulation`, `kt:triangulation` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
 | `kt:dragon-variation` | `kt:najdorf-variation`, `kt:sicilian-defence` |
@@ -39,6 +39,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ju-wenjun` | `kt:womens-world-chess-championship`, `kt:womens-world-chess-championship` |
 | `kt:karpov-versus-unzicker-nice-1974` | `kt:prophylaxis`, `kt:anatoly-karpov` |
 | `kt:leela-chess-zero` | `kt:computer-chess`, `kt:monte-carlo-tree-search` |
+| `kt:mikhail-chigorin` | `kt:hastings-1895`, `kt:wilhelm-steinitz` |
 | `kt:move-ordering` | `kt:alpha-beta-pruning`, `kt:quiescence-search` |
 | `kt:nnue` | `kt:computer-chess`, `kt:evaluation-function` |
 | `kt:open-games` | `kt:italian-game`, `kt:ruy-lopez` |
@@ -53,6 +54,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:simplification` | `kt:material-advantage`, `kt:material-advantage` |
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
 | `kt:starting-age` | `kt:chess-expertise`, `kt:deliberate-practice` |
+| `kt:steinitz-von-bardeleben-hastings-1895` | `kt:hastings-1895`, `kt:wilhelm-steinitz` |
 | `kt:sveshnikov-variation` | `kt:outpost`, `kt:sicilian-defence` |
 | `kt:talent` | `kt:chess-expertise`, `kt:deliberate-practice` |
 | `kt:threefold-repetition` | `kt:en-passant`, `kt:fide-laws-of-chess` |
@@ -83,7 +85,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:carlsbad-structure` | `kt:pawn-structure` |
 | `kt:carlsen-versus-anand-sochi-2014-game-6` | `kt:zwischenzug` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
-| `kt:chess-tournament` | `kt:arbiter` |
 | `kt:chrest` | `kt:template-theory` |
 | `kt:closed-games` | `kt:queens-gambit` |
 | `kt:cognitive-science` | `kt:cognitive-psychology-of-chess` |
@@ -109,6 +110,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:glicko-rating-system` | `kt:elo-rating-system` |
 | `kt:good-knight-versus-bad-bishop` | `kt:outpost` |
 | `kt:hans-berliner` | `kt:horizon-effect` |
+| `kt:harry-nelson-pillsbury` | `kt:hastings-1895` |
 | `kt:horatio-caro` | `kt:caro-kann-defence` |
 | `kt:hou-yifan` | `kt:womens-world-chess-championship` |
 | `kt:illegal-move` | `kt:touch-move` |
@@ -140,7 +142,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:max-lange` | `kt:helpmate` |
 | `kt:merim-bilalic` | `kt:einstellung-effect` |
 | `kt:miguel-najdorf` | `kt:najdorf-variation` |
-| `kt:mikhail-chigorin` | `kt:wilhelm-steinitz` |
 | `kt:minority-attack` | `kt:pawn-structure` |
 | `kt:modena-school` | `kt:romantic-era` |
 | `kt:move-generation` | `kt:bitboards` |
@@ -153,6 +154,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:paul-morphy` | `kt:romantic-era` |
 | `kt:philipp-stamma` | `kt:algebraic-notation` |
 | `kt:piece-values` | `kt:material-advantage` |
+| `kt:pillsbury-versus-tarrasch-hastings-1895` | `kt:hastings-1895` |
 | `kt:poisoned-pawn-variation` | `kt:najdorf-variation` |
 | `kt:priority-and-anticipation` | `kt:codex-of-chess-composition` |
 | `kt:progressive-deepening` | `kt:calculation` |
@@ -180,8 +182,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:shuffle-chess` | `kt:chess960` |
 | `kt:smothered-mate` | `kt:einstellung-effect` |
 | `kt:solving-chess` | `kt:game-tree-search` |
+| `kt:st-petersburg-1895-96` | `kt:hastings-1895` |
 | `kt:static-exchange-evaluation` | `kt:quiescence-search` |
-| `kt:steinitz-von-bardeleben-hastings-1895` | `kt:wilhelm-steinitz` |
 | `kt:steven-j-edwards` | `kt:forsyth-edwards-notation` |
 | `kt:swiss-system-tournament` | `kt:chess-olympiad` |
 | `kt:tarrasch-defence` | `kt:isolated-queens-pawn` |

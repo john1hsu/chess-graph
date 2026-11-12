@@ -1421,6 +1421,31 @@
     ]
   },
   {
+    "id": "kt:hastings-1895",
+    "title": "Hastings 1895",
+    "aliases": [
+      "Hastings 1895 chess tournament",
+      "Hastings Chess Congress 1895",
+      "Hastings International Chess Tournament 1895",
+      "Hastings 1895 Masters"
+    ],
+    "type": "Event",
+    "domain": "history",
+    "file": "articles/history/hastings-1895.md",
+    "created": "2026-11-12",
+    "verified": "2026-11-12",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://irlchess.com/hastings/hastings1895_allfiles_v1.1/crosstable_hastings1895.html",
+      "https://www.irlchess.com/hastings/hastings1895_allfiles_v1.1/information_hastings1895.html",
+      "https://irlchess.com/hastings/hastings1895_allfiles_v1.1/games_hastings1895/g17.htm",
+      "https://worldchesshof.org/?p=785",
+      "https://en.chessbase.com/post/remembering-hastings-1895",
+      "https://chesshistory.com/winter/extra/pillsbury1.html"
+    ]
+  },
+  {
     "id": "kt:helpmate",
     "title": "Helpmate",
     "aliases": [

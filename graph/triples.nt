@@ -1586,6 +1586,36 @@
 <https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/chess-olympiad> .
 <https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/hastings-1895> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/hastings-1895> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Event> .
+<https://github.com/john1hsu/chess-graph/id/hastings-1895> <http://www.w3.org/2000/01/rdf-schema#label> "Hastings 1895" .
+<https://github.com/john1hsu/chess-graph/id/hastings-1895> <http://www.w3.org/2004/02/skos/core#altLabel> "Hastings 1895 Masters" .
+<https://github.com/john1hsu/chess-graph/id/hastings-1895> <http://www.w3.org/2004/02/skos/core#altLabel> "Hastings 1895 chess tournament" .
+<https://github.com/john1hsu/chess-graph/id/hastings-1895> <http://www.w3.org/2004/02/skos/core#altLabel> "Hastings Chess Congress 1895" .
+<https://github.com/john1hsu/chess-graph/id/hastings-1895> <http://www.w3.org/2004/02/skos/core#altLabel> "Hastings International Chess Tournament 1895" .
+<https://github.com/john1hsu/chess-graph/id/hastings-1895> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-tournament> .
+<https://github.com/john1hsu/chess-graph/id/hastings-1895> <http://www.w3.org/2004/02/skos/core#definition> "The 22-player round-robin master tournament played at Hastings, England, in August and September 1895, won by the debutant American Harry Nelson Pillsbury with 16½/21 ahead of Chigorin, Lasker, Tarrasch and Steinitz." .
+<https://github.com/john1hsu/chess-graph/id/hastings-1895> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hastings 1895" .
+<https://github.com/john1hsu/chess-graph/id/hastings-1895> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/queens-gambit> .
+<https://github.com/john1hsu/chess-graph/id/hastings-1895> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/romantic-era> .
+<https://github.com/john1hsu/chess-graph/id/hastings-1895> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/st-petersburg-1895-96> .
+<https://github.com/john1hsu/chess-graph/id/hastings-1895> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> .
+<https://github.com/john1hsu/chess-graph/id/hastings-1895> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s1> .
+<https://github.com/john1hsu/chess-graph/id/hastings-1895> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s2> .
+<https://github.com/john1hsu/chess-graph/id/hastings-1895> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s3> .
+<https://github.com/john1hsu/chess-graph/id/hastings-1895> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s4> .
+<https://github.com/john1hsu/chess-graph/id/hastings-1895> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s5> .
+<https://github.com/john1hsu/chess-graph/id/hastings-1895> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s6> .
+<https://github.com/john1hsu/chess-graph/id/hastings-1895> <https://github.com/john1hsu/chess-graph/ontology#domain> "history" .
+<https://github.com/john1hsu/chess-graph/id/hastings-1895> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/pillsbury-versus-tarrasch-hastings-1895> .
+<https://github.com/john1hsu/chess-graph/id/hastings-1895> <https://github.com/john1hsu/chess-graph/ontology#fen> "8/7Q/8/6pk/1p1Pp3/1r2P2P/2p5/7K b - - 0 52" .
+<https://github.com/john1hsu/chess-graph/id/hastings-1895> <https://github.com/john1hsu/chess-graph/ontology#playedBy> <https://github.com/john1hsu/chess-graph/id/emanuel-lasker> .
+<https://github.com/john1hsu/chess-graph/id/hastings-1895> <https://github.com/john1hsu/chess-graph/ontology#playedBy> <https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> .
+<https://github.com/john1hsu/chess-graph/id/hastings-1895> <https://github.com/john1hsu/chess-graph/ontology#playedBy> <https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> .
+<https://github.com/john1hsu/chess-graph/id/hastings-1895> <https://github.com/john1hsu/chess-graph/ontology#playedBy> <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> .
+<https://github.com/john1hsu/chess-graph/id/hastings-1895> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/hastings-1895> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/hastings-1895> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/harry-nelson-pillsbury> .
 <https://github.com/john1hsu/chess-graph/id/helpmate> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/helpmate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#ProblemGenre> .
 <https://github.com/john1hsu/chess-graph/id/helpmate> <http://www.w3.org/2000/01/rdf-schema#label> "Helpmate" .
@@ -4183,6 +4213,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s9> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s9> <https://schema.org/url> "https://en.chessbase.com/post/world-championship-2026-gukesh-pelletier" .
+<https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s1> <http://purl.org/dc/terms/publisher> "IRLchess" .
+<https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s1> <http://purl.org/dc/terms/title> "Hastings 1895: crosstable (from H. F. Cheshire, The Hastings Chess Tournament 1895, digital edition v1.1)" .
+<https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s1> <https://schema.org/url> "https://irlchess.com/hastings/hastings1895_allfiles_v1.1/crosstable_hastings1895.html" .
+<https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s2> <http://purl.org/dc/terms/publisher> "IRLchess" .
+<https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s2> <http://purl.org/dc/terms/title> "Hastings 1895: information page (tournament book and games database)" .
+<https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s2> <https://schema.org/url> "https://www.irlchess.com/hastings/hastings1895_allfiles_v1.1/information_hastings1895.html" .
+<https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s3> <http://purl.org/dc/terms/publisher> "IRLchess (from the Cheshire tournament book)" .
+<https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s3> <http://purl.org/dc/terms/title> "Pillsbury, Harry Nelson – Tarrasch, Siegbert, Hastings 1895, round 2" .
+<https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s3> <https://schema.org/url> "https://irlchess.com/hastings/hastings1895_allfiles_v1.1/games_hastings1895/g17.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s4> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
+<https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s4> <http://purl.org/dc/terms/title> "Harry Nelson Pillsbury" .
+<https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s4> <https://schema.org/url> "https://worldchesshof.org/?p=785" .
+<https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s5> <http://purl.org/dc/terms/publisher> "ChessBase News (Eugene Manlapao)" .
+<https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s5> <http://purl.org/dc/terms/title> "The Battles of Hastings: Remembering the Hastings Tournament of 1895" .
+<https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s5> <https://schema.org/url> "https://en.chessbase.com/post/remembering-hastings-1895" .
+<https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s6> <http://purl.org/dc/terms/publisher> "Chess Notes by Edward Winter" .
+<https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s6> <http://purl.org/dc/terms/title> "Harry Nelson Pillsbury" .
+<https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/hastings-1895/s6> <https://schema.org/url> "https://chesshistory.com/winter/extra/pillsbury1.html" .
 <https://github.com/john1hsu/chess-graph/id/source/helpmate/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/helpmate/s1> <http://purl.org/dc/terms/title> "Chess: Chess composition" .
 <https://github.com/john1hsu/chess-graph/id/source/helpmate/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
