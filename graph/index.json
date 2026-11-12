@@ -2580,6 +2580,30 @@
     ]
   },
   {
+    "id": "kt:stockfish",
+    "title": "Stockfish",
+    "aliases": [
+      "Stockfish chess engine",
+      "Stockfish NNUE",
+      "SF"
+    ],
+    "type": "Engine",
+    "domain": "computer-chess",
+    "file": "articles/computer-chess/stockfish.md",
+    "created": "2026-11-12",
+    "verified": "2026-11-12",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://stockfishchess.org/about/",
+      "https://github.com/official-stockfish/Stockfish",
+      "https://stockfishchess.org/blog/2020/stockfish-12/",
+      "https://stockfishchess.org/blog/2026/stockfish-19/",
+      "https://arxiv.org/html/1712.01815",
+      "https://www.chessdom.com/stockfish-claims-its-19th-tcec-title-defeating-reckless-in-the-superfinal/"
+    ]
+  },
+  {
     "id": "kt:template-theory",
     "title": "Template theory",
     "aliases": [

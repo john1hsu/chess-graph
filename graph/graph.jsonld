@@ -916,6 +916,107 @@
       ]
     },
     {
+      "@id": "kt:stockfish",
+      "@type": "kto:Engine",
+      "skos:prefLabel": "Stockfish",
+      "skos:definition": "A free, open-source UCI chess engine, forked from Glaurung in 2008 and developed by a volunteer community, which combines alpha-beta search with an efficiently updatable neural network (NNUE) evaluation and has been the dominant engine in computer-chess championships.",
+      "kto:domain": "computer-chess",
+      "dcterms:created": "2026-11-12",
+      "kto:verified": "2026-11-12",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "About Stockfish",
+          "dcterms:publisher": "The Stockfish developers (stockfishchess.org)",
+          "schema:url": "https://stockfishchess.org/about/",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "official-stockfish/Stockfish (README)",
+          "dcterms:publisher": "The Stockfish developers, GitHub",
+          "schema:url": "https://github.com/official-stockfish/Stockfish",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "Stockfish 12",
+          "dcterms:publisher": "The Stockfish developers (stockfishchess.org)",
+          "schema:url": "https://stockfishchess.org/blog/2020/stockfish-12/",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "Stockfish 19",
+          "dcterms:publisher": "The Stockfish developers (stockfishchess.org)",
+          "schema:url": "https://stockfishchess.org/blog/2026/stockfish-19/",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm",
+          "dcterms:publisher": "David Silver et al. (DeepMind), arXiv:1712.01815",
+          "schema:url": "https://arxiv.org/html/1712.01815",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Stockfish claims its 19th TCEC title, defeating Reckless in the Superfinal",
+          "dcterms:publisher": "Chessdom",
+          "schema:url": "https://www.chessdom.com/stockfish-claims-its-19th-tcec-title-defeating-reckless-in-the-superfinal/",
+          "kto:sourceType": "news"
+        }
+      ],
+      "kto:file": "articles/computer-chess/stockfish.md",
+      "skos:altLabel": [
+        "Stockfish chess engine",
+        "Stockfish NNUE",
+        "SF"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:computer-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:alphazero"
+        },
+        {
+          "@id": "kt:leela-chess-zero"
+        },
+        {
+          "@id": "kt:evaluation-function"
+        },
+        {
+          "@id": "kt:bitboards"
+        },
+        {
+          "@id": "kt:endgame-tablebases"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:alpha-beta-pruning"
+        },
+        {
+          "@id": "kt:nnue"
+        },
+        {
+          "@id": "kt:universal-chess-interface"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:tord-romstad"
+        },
+        {
+          "@id": "kt:marco-costalba"
+        }
+      ],
+      "kto:playedIn": [
+        {
+          "@id": "kt:top-chess-engine-championship"
+        }
+      ]
+    },
+    {
       "@id": "kt:chess-endgame",
       "@type": "kto:Concept",
       "skos:prefLabel": "Chess endgame",

@@ -5738,6 +5738,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/stalemate/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/stalemate/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/stalemate/s5> <https://schema.org/url> "https://en.chessbase.com/post/who-needs-stalemate-let-s-abolish-it-" .
+<https://github.com/john1hsu/chess-graph/id/source/stockfish/s1> <http://purl.org/dc/terms/publisher> "The Stockfish developers (stockfishchess.org)" .
+<https://github.com/john1hsu/chess-graph/id/source/stockfish/s1> <http://purl.org/dc/terms/title> "About Stockfish" .
+<https://github.com/john1hsu/chess-graph/id/source/stockfish/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/stockfish/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/stockfish/s1> <https://schema.org/url> "https://stockfishchess.org/about/" .
+<https://github.com/john1hsu/chess-graph/id/source/stockfish/s2> <http://purl.org/dc/terms/publisher> "The Stockfish developers, GitHub" .
+<https://github.com/john1hsu/chess-graph/id/source/stockfish/s2> <http://purl.org/dc/terms/title> "official-stockfish/Stockfish (README)" .
+<https://github.com/john1hsu/chess-graph/id/source/stockfish/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/stockfish/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/stockfish/s2> <https://schema.org/url> "https://github.com/official-stockfish/Stockfish" .
+<https://github.com/john1hsu/chess-graph/id/source/stockfish/s3> <http://purl.org/dc/terms/publisher> "The Stockfish developers (stockfishchess.org)" .
+<https://github.com/john1hsu/chess-graph/id/source/stockfish/s3> <http://purl.org/dc/terms/title> "Stockfish 12" .
+<https://github.com/john1hsu/chess-graph/id/source/stockfish/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/stockfish/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/stockfish/s3> <https://schema.org/url> "https://stockfishchess.org/blog/2020/stockfish-12/" .
+<https://github.com/john1hsu/chess-graph/id/source/stockfish/s4> <http://purl.org/dc/terms/publisher> "The Stockfish developers (stockfishchess.org)" .
+<https://github.com/john1hsu/chess-graph/id/source/stockfish/s4> <http://purl.org/dc/terms/title> "Stockfish 19" .
+<https://github.com/john1hsu/chess-graph/id/source/stockfish/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/stockfish/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/stockfish/s4> <https://schema.org/url> "https://stockfishchess.org/blog/2026/stockfish-19/" .
+<https://github.com/john1hsu/chess-graph/id/source/stockfish/s5> <http://purl.org/dc/terms/publisher> "David Silver et al. (DeepMind), arXiv:1712.01815" .
+<https://github.com/john1hsu/chess-graph/id/source/stockfish/s5> <http://purl.org/dc/terms/title> "Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm" .
+<https://github.com/john1hsu/chess-graph/id/source/stockfish/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/stockfish/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/stockfish/s5> <https://schema.org/url> "https://arxiv.org/html/1712.01815" .
+<https://github.com/john1hsu/chess-graph/id/source/stockfish/s6> <http://purl.org/dc/terms/publisher> "Chessdom" .
+<https://github.com/john1hsu/chess-graph/id/source/stockfish/s6> <http://purl.org/dc/terms/title> "Stockfish claims its 19th TCEC title, defeating Reckless in the Superfinal" .
+<https://github.com/john1hsu/chess-graph/id/source/stockfish/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/stockfish/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/chess-graph/id/source/stockfish/s6> <https://schema.org/url> "https://www.chessdom.com/stockfish-claims-its-19th-tcec-title-defeating-reckless-in-the-superfinal/" .
 <https://github.com/john1hsu/chess-graph/id/source/template-theory/s1> <http://purl.org/dc/terms/publisher> "Fernand Gobet and Herbert A. Simon, Brunel University Research Archive" .
 <https://github.com/john1hsu/chess-graph/id/source/template-theory/s1> <http://purl.org/dc/terms/title> "Templates in chess memory: A mechanism for recalling several boards (Cognitive Psychology 31(1), 1-40)" .
 <https://github.com/john1hsu/chess-graph/id/source/template-theory/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -6043,6 +6073,35 @@
 <https://github.com/john1hsu/chess-graph/id/stalemate> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
 <https://github.com/john1hsu/chess-graph/id/stalemate> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/stalemate> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/stockfish> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/stockfish> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Engine> .
+<https://github.com/john1hsu/chess-graph/id/stockfish> <http://www.w3.org/2000/01/rdf-schema#label> "Stockfish" .
+<https://github.com/john1hsu/chess-graph/id/stockfish> <http://www.w3.org/2004/02/skos/core#altLabel> "SF" .
+<https://github.com/john1hsu/chess-graph/id/stockfish> <http://www.w3.org/2004/02/skos/core#altLabel> "Stockfish NNUE" .
+<https://github.com/john1hsu/chess-graph/id/stockfish> <http://www.w3.org/2004/02/skos/core#altLabel> "Stockfish chess engine" .
+<https://github.com/john1hsu/chess-graph/id/stockfish> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/computer-chess> .
+<https://github.com/john1hsu/chess-graph/id/stockfish> <http://www.w3.org/2004/02/skos/core#definition> "A free, open-source UCI chess engine, forked from Glaurung in 2008 and developed by a volunteer community, which combines alpha-beta search with an efficiently updatable neural network (NNUE) evaluation and has been the dominant engine in computer-chess championships." .
+<https://github.com/john1hsu/chess-graph/id/stockfish> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stockfish" .
+<https://github.com/john1hsu/chess-graph/id/stockfish> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/alphazero> .
+<https://github.com/john1hsu/chess-graph/id/stockfish> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/bitboards> .
+<https://github.com/john1hsu/chess-graph/id/stockfish> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/endgame-tablebases> .
+<https://github.com/john1hsu/chess-graph/id/stockfish> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/evaluation-function> .
+<https://github.com/john1hsu/chess-graph/id/stockfish> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/leela-chess-zero> .
+<https://github.com/john1hsu/chess-graph/id/stockfish> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/stockfish/s1> .
+<https://github.com/john1hsu/chess-graph/id/stockfish> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/stockfish/s2> .
+<https://github.com/john1hsu/chess-graph/id/stockfish> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/stockfish/s3> .
+<https://github.com/john1hsu/chess-graph/id/stockfish> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/stockfish/s4> .
+<https://github.com/john1hsu/chess-graph/id/stockfish> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/stockfish/s5> .
+<https://github.com/john1hsu/chess-graph/id/stockfish> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/stockfish/s6> .
+<https://github.com/john1hsu/chess-graph/id/stockfish> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/marco-costalba> .
+<https://github.com/john1hsu/chess-graph/id/stockfish> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/tord-romstad> .
+<https://github.com/john1hsu/chess-graph/id/stockfish> <https://github.com/john1hsu/chess-graph/ontology#domain> "computer-chess" .
+<https://github.com/john1hsu/chess-graph/id/stockfish> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/top-chess-engine-championship> .
+<https://github.com/john1hsu/chess-graph/id/stockfish> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/stockfish> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> .
+<https://github.com/john1hsu/chess-graph/id/stockfish> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/nnue> .
+<https://github.com/john1hsu/chess-graph/id/stockfish> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/universal-chess-interface> .
+<https://github.com/john1hsu/chess-graph/id/stockfish> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/template-theory> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/template-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#CognitiveConcept> .
 <https://github.com/john1hsu/chess-graph/id/template-theory> <http://www.w3.org/2000/01/rdf-schema#label> "Template theory" .
