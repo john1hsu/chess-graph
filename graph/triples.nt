@@ -1,3 +1,34 @@
+<https://github.com/john1hsu/chess-graph/id/adolf-anderssen> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/adolf-anderssen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
+<https://github.com/john1hsu/chess-graph/id/adolf-anderssen> <http://www.w3.org/2000/01/rdf-schema#label> "Adolf Anderssen" .
+<https://github.com/john1hsu/chess-graph/id/adolf-anderssen> <http://www.w3.org/2004/02/skos/core#altLabel> "A. Anderssen" .
+<https://github.com/john1hsu/chess-graph/id/adolf-anderssen> <http://www.w3.org/2004/02/skos/core#altLabel> "Anderssen" .
+<https://github.com/john1hsu/chess-graph/id/adolf-anderssen> <http://www.w3.org/2004/02/skos/core#altLabel> "Karl Ernst Adolf Anderssen" .
+<https://github.com/john1hsu/chess-graph/id/adolf-anderssen> <http://www.w3.org/2004/02/skos/core#altLabel> "Professor Anderssen" .
+<https://github.com/john1hsu/chess-graph/id/adolf-anderssen> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/romantic-era> .
+<https://github.com/john1hsu/chess-graph/id/adolf-anderssen> <http://www.w3.org/2004/02/skos/core#definition> "German master and mathematics teacher from Breslau (1818–1879), winner of London 1851, the first international tournament, and of London 1862 and Baden-Baden 1870; the leading attacking player of the Romantic era, remembered for the Immortal and Evergreen games and for his losses in matches to Morphy (1858) and Steinitz (1866)." .
+<https://github.com/john1hsu/chess-graph/id/adolf-anderssen> <http://www.w3.org/2004/02/skos/core#prefLabel> "Adolf Anderssen" .
+<https://github.com/john1hsu/chess-graph/id/adolf-anderssen> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/combination> .
+<https://github.com/john1hsu/chess-graph/id/adolf-anderssen> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/evans-gambit> .
+<https://github.com/john1hsu/chess-graph/id/adolf-anderssen> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/johannes-zukertort> .
+<https://github.com/john1hsu/chess-graph/id/adolf-anderssen> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/paul-morphy> .
+<https://github.com/john1hsu/chess-graph/id/adolf-anderssen> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/sacrifice> .
+<https://github.com/john1hsu/chess-graph/id/adolf-anderssen> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> .
+<https://github.com/john1hsu/chess-graph/id/adolf-anderssen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s1> .
+<https://github.com/john1hsu/chess-graph/id/adolf-anderssen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s2> .
+<https://github.com/john1hsu/chess-graph/id/adolf-anderssen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s3> .
+<https://github.com/john1hsu/chess-graph/id/adolf-anderssen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s4> .
+<https://github.com/john1hsu/chess-graph/id/adolf-anderssen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s5> .
+<https://github.com/john1hsu/chess-graph/id/adolf-anderssen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s6> .
+<https://github.com/john1hsu/chess-graph/id/adolf-anderssen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s7> .
+<https://github.com/john1hsu/chess-graph/id/adolf-anderssen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s8> .
+<https://github.com/john1hsu/chess-graph/id/adolf-anderssen> <https://github.com/john1hsu/chess-graph/ontology#domain> "players" .
+<https://github.com/john1hsu/chess-graph/id/adolf-anderssen> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/evergreen-game> .
+<https://github.com/john1hsu/chess-graph/id/adolf-anderssen> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/immortal-game> .
+<https://github.com/john1hsu/chess-graph/id/adolf-anderssen> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/baden-baden-1870> .
+<https://github.com/john1hsu/chess-graph/id/adolf-anderssen> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/london-1851> .
+<https://github.com/john1hsu/chess-graph/id/adolf-anderssen> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/adolf-anderssen> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Person> .
 <https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> <http://www.w3.org/2000/01/rdf-schema#label> "Adriaan de Groot" .
@@ -3110,6 +3141,46 @@
 <https://github.com/john1hsu/chess-graph/id/slav-defence> <https://github.com/john1hsu/chess-graph/ontology#moves> "1.d4 d5 2.c4 c6" .
 <https://github.com/john1hsu/chess-graph/id/slav-defence> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/slav-defence> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s1> <http://purl.org/dc/terms/title> "Adolf Anderssen" .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s1> <https://schema.org/url> "https://www.britannica.com/biography/Adolf-Anderssen" .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s2> <http://purl.org/dc/terms/publisher> "Encyclopedia.com / Columbia University Press" .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s2> <http://purl.org/dc/terms/title> "Anderssen, Adolf (The Columbia Encyclopedia, 6th ed.)" .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s2> <https://schema.org/url> "https://encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/anderssen-adolf" .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s3> <http://purl.org/dc/terms/publisher> "ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s3> <http://purl.org/dc/terms/title> "An Adolf Anderssen anniversary (André Schulz)" .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s3> <https://schema.org/url> "https://en.chessbase.com/post/an-adolf-anderssen-anniversary" .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s4> <http://purl.org/dc/terms/publisher> "Chess Archaeology" .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s4> <http://purl.org/dc/terms/title> "Anderssen–Steinitz Championship Match, London 1866 (researched by Nick Pope)" .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s4> <https://schema.org/url> "https://chessarch.com/archive/1866.07.18_Anderssen-Steinitz/index.shtml" .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s5> <http://purl.org/dc/terms/publisher> "Chess Notes by Edward Winter" .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s5> <http://purl.org/dc/terms/title> "The Evergreen Game (Edward Winter)" .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s5> <https://schema.org/url> "https://chesshistory.com/winter/extra/evergreen.html" .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s6> <http://purl.org/dc/terms/publisher> "ChessBase" .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s6> <http://purl.org/dc/terms/title> "Anderssen, A – Dufresne, J [C52], Berlin 1852 (game score)" .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s6> <https://schema.org/url> "https://en.chessbase.com/portals/4/files/games/gkanalysis/focus03g0.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s7> <http://purl.org/dc/terms/publisher> "chessgames.com" .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s7> <http://purl.org/dc/terms/title> "Baden-Baden Tournament (1870)" .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s7> <https://schema.org/url> "https://chessgames.com/perl/chess.pl?tid=79256" .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s8> <http://purl.org/dc/terms/publisher> "American Heritage" .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s8> <http://purl.org/dc/terms/title> "Paul Morphy, Chess Prodigy (Charles L. Cutler)" .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s8> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s8> <https://schema.org/url> "https://www.americanheritage.com/paul-morphy-chess-prodigy" .
 <https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s1> <http://purl.org/dc/terms/publisher> "Fernand Gobet and Jörg Musch, Brunel University Research Archive" .
 <https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s1> <http://purl.org/dc/terms/title> "Adriaan Dingeman de Groot (1914–2006) — obituary, Psychologische Rundschau" .
 <https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

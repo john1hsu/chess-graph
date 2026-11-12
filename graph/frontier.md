@@ -10,11 +10,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:herbert-simon` |
 | `kt:key-squares` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:triangulation`, `kt:zugzwang` |
 | `kt:leela-chess-zero` | `kt:computer-chess`, `kt:monte-carlo-tree-search`, `kt:nnue`, `kt:stockfish` |
-| `kt:adolf-anderssen` | `kt:immortal-game`, `kt:romantic-era`, `kt:wilhelm-steinitz` |
 | `kt:alexander-alekhine` | `kt:slav-defence`, `kt:jose-raul-capablanca`, `kt:blindfold-chess` |
 | `kt:boris-spassky` | `kt:fischer-spassky-1972`, `kt:bobby-fischer`, `kt:tigran-petrosian` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position`, `kt:rook-endgames` |
 | `kt:draw` | `kt:dead-position`, `kt:fifty-move-rule`, `kt:stalemate` |
+| `kt:evans-gambit` | `kt:romantic-era`, `kt:italian-game`, `kt:adolf-anderssen` |
 | `kt:francois-andre-danican-philidor` | `kt:philidor-position`, `kt:pawn-structure`, `kt:blindfold-chess` |
 | `kt:minority-attack` | `kt:carlsbad-structure`, `kt:pawn-structure`, `kt:queens-gambit-declined` |
 | `kt:portable-game-notation` | `kt:algebraic-notation`, `kt:forsyth-edwards-notation`, `kt:forsyth-edwards-notation` |
@@ -29,18 +29,20 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:corresponding-squares` | `kt:triangulation`, `kt:triangulation` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
 | `kt:dragon-variation` | `kt:najdorf-variation`, `kt:sicilian-defence` |
-| `kt:evans-gambit` | `kt:romantic-era`, `kt:italian-game` |
 | `kt:fernand-gobet` | `kt:template-theory`, `kt:visualization` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:javokhir-sindarov` | `kt:candidates-tournament`, `kt:gukesh-dommaraju` |
+| `kt:johannes-zukertort` | `kt:adolf-anderssen`, `kt:wilhelm-steinitz` |
 | `kt:ju-wenjun` | `kt:womens-world-chess-championship`, `kt:womens-world-chess-championship` |
 | `kt:karpov-versus-unzicker-nice-1974` | `kt:prophylaxis`, `kt:anatoly-karpov` |
+| `kt:london-1851` | `kt:immortal-game`, `kt:adolf-anderssen` |
 | `kt:miguel-najdorf` | `kt:najdorf-variation`, `kt:blindfold-chess` |
 | `kt:mikhail-chigorin` | `kt:hastings-1895`, `kt:wilhelm-steinitz` |
 | `kt:move-ordering` | `kt:alpha-beta-pruning`, `kt:quiescence-search` |
 | `kt:open-games` | `kt:italian-game`, `kt:ruy-lopez` |
 | `kt:origins-of-chess` | `kt:chaturanga`, `kt:history-of-chess` |
 | `kt:overprotection` | `kt:prophylaxis`, `kt:prophylaxis` |
+| `kt:paul-morphy` | `kt:romantic-era`, `kt:adolf-anderssen` |
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
 | `kt:progressive-deepening` | `kt:calculation`, `kt:candidate-moves` |
@@ -72,6 +74,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:artificial-intelligence` | `kt:computer-chess` |
 | `kt:as-suli` | `kt:shatranj` |
 | `kt:backward-pawn` | `kt:outpost` |
+| `kt:baden-baden-1870` | `kt:adolf-anderssen` |
 | `kt:berlin-defence` | `kt:ruy-lopez` |
 | `kt:board-representation` | `kt:bitboards` |
 | `kt:breakthrough` | `kt:passed-pawn` |
@@ -89,6 +92,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:englisch-versus-steinitz-london-1883` | `kt:bishop-pair` |
 | `kt:english-attack` | `kt:najdorf-variation` |
 | `kt:european-chess-union` | `kt:fide` |
+| `kt:evergreen-game` | `kt:adolf-anderssen` |
 | `kt:exchange-sacrifice` | `kt:sacrifice` |
 | `kt:extended-position-description` | `kt:forsyth-edwards-notation` |
 | `kt:fide-ethics-and-disciplinary-code` | `kt:fair-play-regulations` |
@@ -112,7 +116,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:indian-defences` | `kt:nimzo-indian-defence` |
 | `kt:international-master-title` | `kt:grandmaster-title` |
 | `kt:intrinsic-performance-rating` | `kt:fair-play-regulations` |
-| `kt:johannes-zukertort` | `kt:wilhelm-steinitz` |
 | `kt:john-mccarthy` | `kt:alpha-beta-pruning` |
 | `kt:john-von-neumann` | `kt:minimax` |
 | `kt:kaissa` | `kt:bitboards` |
@@ -128,7 +131,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:leipzig-1894` | `kt:siegbert-tarrasch` |
 | `kt:leonardo-torres-y-quevedo` | `kt:claude-shannon` |
 | `kt:lionel-kieseritzky` | `kt:immortal-game` |
-| `kt:london-1851` | `kt:immortal-game` |
 | `kt:london-system` | `kt:carlsbad-structure` |
 | `kt:long-term-working-memory` | `kt:template-theory` |
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position` |
@@ -151,7 +153,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:panov-botvinnik-attack` | `kt:caro-kann-defence` |
 | `kt:passive-rook-defence` | `kt:philidor-position` |
 | `kt:paul-keres` | `kt:correspondence-chess` |
-| `kt:paul-morphy` | `kt:romantic-era` |
 | `kt:petrosian-versus-spassky-moscow-1966-game-10` | `kt:tigran-petrosian` |
 | `kt:philipp-stamma` | `kt:algebraic-notation` |
 | `kt:piece-values` | `kt:material-advantage` |

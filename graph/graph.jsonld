@@ -6451,6 +6451,115 @@
       ]
     },
     {
+      "@id": "kt:adolf-anderssen",
+      "@type": "kto:Player",
+      "skos:prefLabel": "Adolf Anderssen",
+      "skos:definition": "German master and mathematics teacher from Breslau (1818–1879), winner of London 1851, the first international tournament, and of London 1862 and Baden-Baden 1870; the leading attacking player of the Romantic era, remembered for the Immortal and Evergreen games and for his losses in matches to Morphy (1858) and Steinitz (1866).",
+      "kto:domain": "players",
+      "dcterms:created": "2026-11-12",
+      "kto:verified": "2026-11-12",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Adolf Anderssen",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/biography/Adolf-Anderssen",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Anderssen, Adolf (The Columbia Encyclopedia, 6th ed.)",
+          "dcterms:publisher": "Encyclopedia.com / Columbia University Press",
+          "schema:url": "https://encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/anderssen-adolf",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "An Adolf Anderssen anniversary (André Schulz)",
+          "dcterms:publisher": "ChessBase News",
+          "schema:url": "https://en.chessbase.com/post/an-adolf-anderssen-anniversary",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Anderssen–Steinitz Championship Match, London 1866 (researched by Nick Pope)",
+          "dcterms:publisher": "Chess Archaeology",
+          "schema:url": "https://chessarch.com/archive/1866.07.18_Anderssen-Steinitz/index.shtml",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The Evergreen Game (Edward Winter)",
+          "dcterms:publisher": "Chess Notes by Edward Winter",
+          "schema:url": "https://chesshistory.com/winter/extra/evergreen.html",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Anderssen, A – Dufresne, J [C52], Berlin 1852 (game score)",
+          "dcterms:publisher": "ChessBase",
+          "schema:url": "https://en.chessbase.com/portals/4/files/games/gkanalysis/focus03g0.htm",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "Baden-Baden Tournament (1870)",
+          "dcterms:publisher": "chessgames.com",
+          "schema:url": "https://chessgames.com/perl/chess.pl?tid=79256",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "Paul Morphy, Chess Prodigy (Charles L. Cutler)",
+          "dcterms:publisher": "American Heritage",
+          "schema:url": "https://www.americanheritage.com/paul-morphy-chess-prodigy",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/players/adolf-anderssen.md",
+      "skos:altLabel": [
+        "Karl Ernst Adolf Anderssen",
+        "A. Anderssen",
+        "Anderssen",
+        "Professor Anderssen"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:romantic-era"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:wilhelm-steinitz"
+        },
+        {
+          "@id": "kt:paul-morphy"
+        },
+        {
+          "@id": "kt:johannes-zukertort"
+        },
+        {
+          "@id": "kt:evans-gambit"
+        },
+        {
+          "@id": "kt:combination"
+        },
+        {
+          "@id": "kt:sacrifice"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:immortal-game"
+        },
+        {
+          "@id": "kt:evergreen-game"
+        }
+      ],
+      "kto:playedIn": [
+        {
+          "@id": "kt:london-1851"
+        },
+        {
+          "@id": "kt:baden-baden-1870"
+        }
+      ]
+    },
+    {
       "@id": "kt:anatoly-karpov",
       "@type": "kto:Player",
       "skos:prefLabel": "Anatoly Karpov",

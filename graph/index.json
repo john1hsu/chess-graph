@@ -1,5 +1,32 @@
 [
   {
+    "id": "kt:adolf-anderssen",
+    "title": "Adolf Anderssen",
+    "aliases": [
+      "Karl Ernst Adolf Anderssen",
+      "A. Anderssen",
+      "Anderssen",
+      "Professor Anderssen"
+    ],
+    "type": "Player",
+    "domain": "players",
+    "file": "articles/players/adolf-anderssen.md",
+    "created": "2026-11-12",
+    "verified": "2026-11-12",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://www.britannica.com/biography/Adolf-Anderssen",
+      "https://encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/anderssen-adolf",
+      "https://en.chessbase.com/post/an-adolf-anderssen-anniversary",
+      "https://chessarch.com/archive/1866.07.18_Anderssen-Steinitz/index.shtml",
+      "https://chesshistory.com/winter/extra/evergreen.html",
+      "https://en.chessbase.com/portals/4/files/games/gkanalysis/focus03g0.htm",
+      "https://chessgames.com/perl/chess.pl?tid=79256",
+      "https://www.americanheritage.com/paul-morphy-chess-prodigy"
+    ]
+  },
+  {
     "id": "kt:adriaan-de-groot",
     "title": "Adriaan de Groot",
     "aliases": [
