@@ -172,6 +172,36 @@
 <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/carlsbad-1929> .
 <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/back-rank-mate> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/back-rank-mate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#MatingPattern> .
+<https://github.com/john1hsu/chess-graph/id/back-rank-mate> <http://www.w3.org/2000/01/rdf-schema#label> "Back-rank mate" .
+<https://github.com/john1hsu/chess-graph/id/back-rank-mate> <http://www.w3.org/2004/02/skos/core#altLabel> "Back rank mate" .
+<https://github.com/john1hsu/chess-graph/id/back-rank-mate> <http://www.w3.org/2004/02/skos/core#altLabel> "Back-rank checkmate" .
+<https://github.com/john1hsu/chess-graph/id/back-rank-mate> <http://www.w3.org/2004/02/skos/core#altLabel> "Back-rank weakness" .
+<https://github.com/john1hsu/chess-graph/id/back-rank-mate> <http://www.w3.org/2004/02/skos/core#altLabel> "Corridor mate" .
+<https://github.com/john1hsu/chess-graph/id/back-rank-mate> <http://www.w3.org/2004/02/skos/core#altLabel> "Weak back rank" .
+<https://github.com/john1hsu/chess-graph/id/back-rank-mate> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/checkmate> .
+<https://github.com/john1hsu/chess-graph/id/back-rank-mate> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-tactics> .
+<https://github.com/john1hsu/chess-graph/id/back-rank-mate> <http://www.w3.org/2004/02/skos/core#definition> "A checkmate delivered by a rook or queen along the opponent's first rank, where the king cannot escape because the squares in front of it are blocked by its own pawns or covered by enemy pieces." .
+<https://github.com/john1hsu/chess-graph/id/back-rank-mate> <http://www.w3.org/2004/02/skos/core#prefLabel> "Back-rank mate" .
+<https://github.com/john1hsu/chess-graph/id/back-rank-mate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/castling> .
+<https://github.com/john1hsu/chess-graph/id/back-rank-mate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/combination> .
+<https://github.com/john1hsu/chess-graph/id/back-rank-mate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/deflection> .
+<https://github.com/john1hsu/chess-graph/id/back-rank-mate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/prophylaxis> .
+<https://github.com/john1hsu/chess-graph/id/back-rank-mate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/smothered-mate> .
+<https://github.com/john1hsu/chess-graph/id/back-rank-mate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s1> .
+<https://github.com/john1hsu/chess-graph/id/back-rank-mate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s2> .
+<https://github.com/john1hsu/chess-graph/id/back-rank-mate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s3> .
+<https://github.com/john1hsu/chess-graph/id/back-rank-mate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s4> .
+<https://github.com/john1hsu/chess-graph/id/back-rank-mate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s5> .
+<https://github.com/john1hsu/chess-graph/id/back-rank-mate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s6> .
+<https://github.com/john1hsu/chess-graph/id/back-rank-mate> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/smothered-mate> .
+<https://github.com/john1hsu/chess-graph/id/back-rank-mate> <https://github.com/john1hsu/chess-graph/ontology#domain> "tactics" .
+<https://github.com/john1hsu/chess-graph/id/back-rank-mate> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/adams-versus-torre-new-orleans-1920> .
+<https://github.com/john1hsu/chess-graph/id/back-rank-mate> <https://github.com/john1hsu/chess-graph/ontology#fen> "6k1/5ppp/8/8/8/8/5PPP/3R2K1 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/back-rank-mate> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/back-rank-mate> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/deflection> .
+<https://github.com/john1hsu/chess-graph/id/back-rank-mate> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/bishop-pair> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/bishop-pair> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
 <https://github.com/john1hsu/chess-graph/id/bishop-pair> <http://www.w3.org/2000/01/rdf-schema#label> "Bishop pair" .
@@ -2910,6 +2940,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
 <https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s6> <https://schema.org/url> "https://www.chessgames.com/perl/chessgame?gid=1102400" .
+<https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s1> <http://purl.org/dc/terms/publisher> "FIDE" .
+<https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s1> <http://purl.org/dc/terms/title> "Glossary of chess terms (FIDE education archive)" .
+<https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s1> <https://schema.org/url> "https://eduarchive.fide.com/wp-content/uploads/2020/05/glossary_en.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s2> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes" .
+<https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s2> <http://purl.org/dc/terms/title> "The Back-Rank Mate" .
+<https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s2> <https://schema.org/url> "https://www.chesshistory.com/winter/extra/backrank.html" .
+<https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s3> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes" .
+<https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s3> <http://purl.org/dc/terms/title> "Adams v Torre – A Sham?" .
+<https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s3> <https://schema.org/url> "https://www.chesshistory.com/winter/extra/adamstorre.html" .
+<https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s4> <http://purl.org/dc/terms/publisher> "Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s4> <http://purl.org/dc/terms/title> "Back-Rank Mate (Chess Terms)" .
+<https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s4> <https://schema.org/url> "https://www.chess.com/terms/back-rank-mate-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s5> <http://purl.org/dc/terms/publisher> "ChessKid (Chess.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s5> <http://purl.org/dc/terms/title> "Back Rank Checkmate (Chess Terms)" .
+<https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s5> <https://schema.org/url> "https://www.chesskid.com/learn/terms/back-rank-checkmate" .
+<https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s6> <http://purl.org/dc/terms/publisher> "Ward Farnsworth, chesstactics.org" .
+<https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s6> <http://purl.org/dc/terms/title> "The Back Rank Mate: Sealing off the King's Flight Squares, Figure 6.1.3.5 (Predator at the Chessboard)" .
+<https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s6> <https://schema.org/url> "https://www.chesstactics.org/mating-patterns/the-back-rank-mate/sealing-off-the-kings-flight-squares/6_1_3_5.html" .
 <https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s1> <http://purl.org/dc/terms/publisher> "Larry Kaufman, Chess.com (updated 17 November 2008)" .
 <https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s1> <http://purl.org/dc/terms/title> "The Evaluation of Material Imbalances" .
 <https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

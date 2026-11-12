@@ -154,6 +154,32 @@
     ]
   },
   {
+    "id": "kt:back-rank-mate",
+    "title": "Back-rank mate",
+    "aliases": [
+      "Back rank mate",
+      "Back-rank checkmate",
+      "Corridor mate",
+      "Back-rank weakness",
+      "Weak back rank"
+    ],
+    "type": "MatingPattern",
+    "domain": "tactics",
+    "file": "articles/tactics/back-rank-mate.md",
+    "created": "2026-11-12",
+    "verified": "2026-11-12",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://eduarchive.fide.com/wp-content/uploads/2020/05/glossary_en.pdf",
+      "https://www.chesshistory.com/winter/extra/backrank.html",
+      "https://www.chesshistory.com/winter/extra/adamstorre.html",
+      "https://www.chess.com/terms/back-rank-mate-chess",
+      "https://www.chesskid.com/learn/terms/back-rank-checkmate",
+      "https://www.chesstactics.org/mating-patterns/the-back-rank-mate/sealing-off-the-kings-flight-squares/6_1_3_5.html"
+    ]
+  },
+  {
     "id": "kt:bishop-pair",
     "title": "Bishop pair",
     "aliases": [

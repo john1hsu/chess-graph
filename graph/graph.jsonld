@@ -7519,6 +7519,104 @@
       ]
     },
     {
+      "@id": "kt:back-rank-mate",
+      "@type": "kto:MatingPattern",
+      "skos:prefLabel": "Back-rank mate",
+      "skos:definition": "A checkmate delivered by a rook or queen along the opponent's first rank, where the king cannot escape because the squares in front of it are blocked by its own pawns or covered by enemy pieces.",
+      "kto:domain": "tactics",
+      "dcterms:created": "2026-11-12",
+      "kto:verified": "2026-11-12",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Glossary of chess terms (FIDE education archive)",
+          "dcterms:publisher": "FIDE",
+          "schema:url": "https://eduarchive.fide.com/wp-content/uploads/2020/05/glossary_en.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "The Back-Rank Mate",
+          "dcterms:publisher": "Edward Winter, Chess Notes",
+          "schema:url": "https://www.chesshistory.com/winter/extra/backrank.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Adams v Torre – A Sham?",
+          "dcterms:publisher": "Edward Winter, Chess Notes",
+          "schema:url": "https://www.chesshistory.com/winter/extra/adamstorre.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Back-Rank Mate (Chess Terms)",
+          "dcterms:publisher": "Chess.com",
+          "schema:url": "https://www.chess.com/terms/back-rank-mate-chess",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Back Rank Checkmate (Chess Terms)",
+          "dcterms:publisher": "ChessKid (Chess.com)",
+          "schema:url": "https://www.chesskid.com/learn/terms/back-rank-checkmate",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The Back Rank Mate: Sealing off the King's Flight Squares, Figure 6.1.3.5 (Predator at the Chessboard)",
+          "dcterms:publisher": "Ward Farnsworth, chesstactics.org",
+          "schema:url": "https://www.chesstactics.org/mating-patterns/the-back-rank-mate/sealing-off-the-kings-flight-squares/6_1_3_5.html",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/tactics/back-rank-mate.md",
+      "skos:altLabel": [
+        "Back rank mate",
+        "Back-rank checkmate",
+        "Corridor mate",
+        "Back-rank weakness",
+        "Weak back rank"
+      ],
+      "kto:fen": "6k1/5ppp/8/8/8/8/5PPP/3R2K1 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:checkmate"
+        },
+        {
+          "@id": "kt:chess-tactics"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:combination"
+        },
+        {
+          "@id": "kt:castling"
+        },
+        {
+          "@id": "kt:deflection"
+        },
+        {
+          "@id": "kt:smothered-mate"
+        },
+        {
+          "@id": "kt:prophylaxis"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:deflection"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:smothered-mate"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:adams-versus-torre-new-orleans-1920"
+        }
+      ]
+    },
+    {
       "@id": "kt:chess-tactics",
       "@type": "kto:Concept",
       "skos:prefLabel": "Chess tactics",

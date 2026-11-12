@@ -11,15 +11,16 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:queens-gambit-accepted` | `kt:isolated-queens-pawn`, `kt:queens-gambit-declined`, `kt:queens-gambit`, `kt:slav-defence` |
 | `kt:tigran-petrosian` | `kt:prophylaxis`, `kt:bobby-fischer`, `kt:mikhail-botvinnik`, `kt:sacrifice` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position`, `kt:rook-endgames` |
+| `kt:deflection` | `kt:back-rank-mate`, `kt:back-rank-mate`, `kt:zwischenzug` |
 | `kt:fifty-move-rule` | `kt:endgame-tablebases`, `kt:fide-laws-of-chess`, `kt:forsyth-edwards-notation` |
 | `kt:portable-game-notation` | `kt:algebraic-notation`, `kt:forsyth-edwards-notation`, `kt:forsyth-edwards-notation` |
 | `kt:semi-open-games` | `kt:caro-kann-defence`, `kt:french-defence`, `kt:sicilian-defence` |
+| `kt:smothered-mate` | `kt:back-rank-mate`, `kt:back-rank-mate`, `kt:einstellung-effect` |
 | `kt:stockfish` | `kt:bitboards`, `kt:computer-chess`, `kt:endgame-tablebases` |
 | `kt:adolf-anderssen` | `kt:romantic-era`, `kt:wilhelm-steinitz` |
 | `kt:alekhines-defence` | `kt:fischer-spassky-1972`, `kt:hypermodernism` |
 | `kt:alexander-alekhine` | `kt:slav-defence`, `kt:jose-raul-capablanca` |
 | `kt:alphazero` | `kt:evaluation-function`, `kt:chess-variants` |
-| `kt:back-rank-mate` | `kt:checkmate`, `kt:combination` |
 | `kt:boris-spassky` | `kt:fischer-spassky-1972`, `kt:bobby-fischer` |
 | `kt:botvinnik-versus-capablanca-avro-1938` | `kt:soviet-chess-school`, `kt:mikhail-botvinnik` |
 | `kt:candidate-moves` | `kt:prophylaxis`, `kt:calculation` |
@@ -65,6 +66,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:world-chess-championship-1886` | `kt:world-chess-championship`, `kt:wilhelm-steinitz` |
 | `kt:world-federation-for-chess-composition` | `kt:chess-composition`, `kt:codex-of-chess-composition` |
 | `kt:abraham-luchins` | `kt:einstellung-effect` |
+| `kt:adams-versus-torre-new-orleans-1920` | `kt:back-rank-mate` |
 | `kt:albin-countergambit` | `kt:queens-gambit` |
 | `kt:alexander-kotov` | `kt:calculation` |
 | `kt:alfred-binet` | `kt:cognitive-psychology-of-chess` |
@@ -88,7 +90,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:correspondence-chess` | `kt:chess-titles` |
 | `kt:david-forsyth` | `kt:forsyth-edwards-notation` |
 | `kt:deep-blue` | `kt:deep-blue-versus-kasparov` |
-| `kt:deflection` | `kt:zwischenzug` |
 | `kt:ding-liren` | `kt:gukesh-dommaraju` |
 | `kt:ding-versus-gukesh-singapore-2024-game-14` | `kt:gukesh-dommaraju` |
 | `kt:englisch-versus-steinitz-london-1883` | `kt:bishop-pair` |
@@ -178,7 +179,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:semi-slav-defence` | `kt:slav-defence` |
 | `kt:shogi` | `kt:chess-variants` |
 | `kt:shuffle-chess` | `kt:chess960` |
-| `kt:smothered-mate` | `kt:einstellung-effect` |
 | `kt:solving-chess` | `kt:game-tree-search` |
 | `kt:st-petersburg-1895-96` | `kt:hastings-1895` |
 | `kt:static-exchange-evaluation` | `kt:quiescence-search` |
