@@ -1287,6 +1287,34 @@
     ]
   },
   {
+    "id": "kt:fifty-move-rule",
+    "title": "Fifty-move rule",
+    "aliases": [
+      "50-move rule",
+      "Fifty move rule",
+      "Fifty-move draw",
+      "Article 9.3",
+      "Seventy-five-move rule",
+      "75-move rule"
+    ],
+    "type": "Rule",
+    "domain": "rules-and-notation",
+    "file": "articles/rules-and-notation/fifty-move-rule.md",
+    "created": "2026-11-12",
+    "verified": "2026-11-12",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://rcc.fide.com/article9/",
+      "https://new.uschess.org/sites/default/files/media/documents/uschess-fide-rules-comparison.pdf",
+      "https://chesshistory.com/winter/extra/fifty.html",
+      "https://arbiters.fide.com/wp-content/uploads/2023/06/The-Saving-75.pdf",
+      "https://en.chessbase.com/post/fifty-shades-of-a-draw",
+      "https://reading-9.eprints-hosting.org/34268/2/chessendrecann.pdf",
+      "https://rcc.fide.com/frequently-asked-questions/"
+    ]
+  },
+  {
     "id": "kt:fischer-spassky-1972",
     "title": "Fischer–Spassky 1972",
     "aliases": [

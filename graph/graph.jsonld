@@ -7373,6 +7373,117 @@
       ]
     },
     {
+      "@id": "kt:fifty-move-rule",
+      "@type": "kto:Rule",
+      "skos:prefLabel": "Fifty-move rule",
+      "skos:definition": "The FIDE rule that the player on the move may claim a draw once each side has made 50 consecutive moves without a pawn move or a capture; since 2014 FIDE also ends such a game automatically after 75 moves by each side.",
+      "kto:domain": "rules-and-notation",
+      "dcterms:created": "2026-11-12",
+      "kto:verified": "2026-11-12",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Article 9: The Drawn Game",
+          "dcterms:publisher": "FIDE Rules Commission",
+          "schema:url": "https://rcc.fide.com/article9/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Summary of differences between the FIDE Laws of Chess and the US Chess Official Rules of Chess, 7th edition (updated 1 January 2022)",
+          "dcterms:publisher": "US Chess",
+          "schema:url": "https://new.uschess.org/sites/default/files/media/documents/uschess-fide-rules-comparison.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Chess: the 50-move Rule",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://chesshistory.com/winter/extra/fifty.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "The Saving 75",
+          "dcterms:publisher": "Amir Erfan Hashemi, FIDE Arbiters' Commission (arbiters.fide.com), April 2023",
+          "schema:url": "https://arbiters.fide.com/wp-content/uploads/2023/06/The-Saving-75.pdf",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Fifty Shades of a Draw",
+          "dcterms:publisher": "Tamas Gyomber, ChessBase News / ECU E-Magazine, February 2023",
+          "schema:url": "https://en.chessbase.com/post/fifty-shades-of-a-draw",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Chess Endgame Records (v7, 2014)",
+          "dcterms:publisher": "Guy Haworth, University of Reading",
+          "schema:url": "https://reading-9.eprints-hosting.org/34268/2/chessendrecann.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Frequently Asked Questions",
+          "dcterms:publisher": "FIDE Rules Commission",
+          "schema:url": "https://rcc.fide.com/frequently-asked-questions/",
+          "kto:sourceType": "governing-body"
+        }
+      ],
+      "kto:file": "articles/rules-and-notation/fifty-move-rule.md",
+      "skos:altLabel": [
+        "50-move rule",
+        "Fifty move rule",
+        "Fifty-move draw",
+        "Article 9.3",
+        "Seventy-five-move rule",
+        "75-move rule"
+      ],
+      "kto:fen": "3k4/7r/3K4/4B3/8/8/8/R7 w - - 90 140",
+      "skos:broader": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        },
+        {
+          "@id": "kt:draw"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:threefold-repetition"
+        },
+        {
+          "@id": "kt:dead-position"
+        },
+        {
+          "@id": "kt:stalemate"
+        },
+        {
+          "@id": "kt:endgame-tablebases"
+        },
+        {
+          "@id": "kt:arbiter"
+        },
+        {
+          "@id": "kt:forsyth-edwards-notation"
+        },
+        {
+          "@id": "kt:us-chess"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:fide"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:dead-position"
+        }
+      ]
+    },
+    {
       "@id": "kt:forsyth-edwards-notation",
       "@type": "kto:Notation",
       "skos:prefLabel": "Forsyth–Edwards Notation",

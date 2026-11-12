@@ -1426,6 +1426,40 @@
 <https://github.com/john1hsu/chess-graph/id/fide> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/european-chess-union> .
 <https://github.com/john1hsu/chess-graph/id/fide> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/fide> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/fifty-move-rule> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/fifty-move-rule> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Rule> .
+<https://github.com/john1hsu/chess-graph/id/fifty-move-rule> <http://www.w3.org/2000/01/rdf-schema#label> "Fifty-move rule" .
+<https://github.com/john1hsu/chess-graph/id/fifty-move-rule> <http://www.w3.org/2004/02/skos/core#altLabel> "50-move rule" .
+<https://github.com/john1hsu/chess-graph/id/fifty-move-rule> <http://www.w3.org/2004/02/skos/core#altLabel> "75-move rule" .
+<https://github.com/john1hsu/chess-graph/id/fifty-move-rule> <http://www.w3.org/2004/02/skos/core#altLabel> "Article 9.3" .
+<https://github.com/john1hsu/chess-graph/id/fifty-move-rule> <http://www.w3.org/2004/02/skos/core#altLabel> "Fifty move rule" .
+<https://github.com/john1hsu/chess-graph/id/fifty-move-rule> <http://www.w3.org/2004/02/skos/core#altLabel> "Fifty-move draw" .
+<https://github.com/john1hsu/chess-graph/id/fifty-move-rule> <http://www.w3.org/2004/02/skos/core#altLabel> "Seventy-five-move rule" .
+<https://github.com/john1hsu/chess-graph/id/fifty-move-rule> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/draw> .
+<https://github.com/john1hsu/chess-graph/id/fifty-move-rule> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/fifty-move-rule> <http://www.w3.org/2004/02/skos/core#definition> "The FIDE rule that the player on the move may claim a draw once each side has made 50 consecutive moves without a pawn move or a capture; since 2014 FIDE also ends such a game automatically after 75 moves by each side." .
+<https://github.com/john1hsu/chess-graph/id/fifty-move-rule> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fifty-move rule" .
+<https://github.com/john1hsu/chess-graph/id/fifty-move-rule> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/arbiter> .
+<https://github.com/john1hsu/chess-graph/id/fifty-move-rule> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/dead-position> .
+<https://github.com/john1hsu/chess-graph/id/fifty-move-rule> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/endgame-tablebases> .
+<https://github.com/john1hsu/chess-graph/id/fifty-move-rule> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> .
+<https://github.com/john1hsu/chess-graph/id/fifty-move-rule> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/stalemate> .
+<https://github.com/john1hsu/chess-graph/id/fifty-move-rule> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/threefold-repetition> .
+<https://github.com/john1hsu/chess-graph/id/fifty-move-rule> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/us-chess> .
+<https://github.com/john1hsu/chess-graph/id/fifty-move-rule> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s1> .
+<https://github.com/john1hsu/chess-graph/id/fifty-move-rule> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s2> .
+<https://github.com/john1hsu/chess-graph/id/fifty-move-rule> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s3> .
+<https://github.com/john1hsu/chess-graph/id/fifty-move-rule> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s4> .
+<https://github.com/john1hsu/chess-graph/id/fifty-move-rule> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s5> .
+<https://github.com/john1hsu/chess-graph/id/fifty-move-rule> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s6> .
+<https://github.com/john1hsu/chess-graph/id/fifty-move-rule> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s7> .
+<https://github.com/john1hsu/chess-graph/id/fifty-move-rule> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/dead-position> .
+<https://github.com/john1hsu/chess-graph/id/fifty-move-rule> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/fide> .
+<https://github.com/john1hsu/chess-graph/id/fifty-move-rule> <https://github.com/john1hsu/chess-graph/ontology#domain> "rules-and-notation" .
+<https://github.com/john1hsu/chess-graph/id/fifty-move-rule> <https://github.com/john1hsu/chess-graph/ontology#fen> "3k4/7r/3K4/4B3/8/8/8/R7 w - - 90 140" .
+<https://github.com/john1hsu/chess-graph/id/fifty-move-rule> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/fifty-move-rule> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/fifty-move-rule> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Event> .
 <https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> <http://www.w3.org/2000/01/rdf-schema#label> "Fischer–Spassky 1972" .
@@ -4272,6 +4306,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/fide/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/fide/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/fide/s6> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/congratulations-fide-turns-100?page=0" .
+<https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s1> <http://purl.org/dc/terms/title> "Article 9: The Drawn Game" .
+<https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s1> <https://schema.org/url> "https://rcc.fide.com/article9/" .
+<https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s2> <http://purl.org/dc/terms/publisher> "US Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s2> <http://purl.org/dc/terms/title> "Summary of differences between the FIDE Laws of Chess and the US Chess Official Rules of Chess, 7th edition (updated 1 January 2022)" .
+<https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s2> <https://schema.org/url> "https://new.uschess.org/sites/default/files/media/documents/uschess-fide-rules-comparison.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s3> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s3> <http://purl.org/dc/terms/title> "Chess: the 50-move Rule" .
+<https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s3> <https://schema.org/url> "https://chesshistory.com/winter/extra/fifty.html" .
+<https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s4> <http://purl.org/dc/terms/publisher> "Amir Erfan Hashemi, FIDE Arbiters' Commission (arbiters.fide.com), April 2023" .
+<https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s4> <http://purl.org/dc/terms/title> "The Saving 75" .
+<https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s4> <https://schema.org/url> "https://arbiters.fide.com/wp-content/uploads/2023/06/The-Saving-75.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s5> <http://purl.org/dc/terms/publisher> "Tamas Gyomber, ChessBase News / ECU E-Magazine, February 2023" .
+<https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s5> <http://purl.org/dc/terms/title> "Fifty Shades of a Draw" .
+<https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s5> <https://schema.org/url> "https://en.chessbase.com/post/fifty-shades-of-a-draw" .
+<https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s6> <http://purl.org/dc/terms/publisher> "Guy Haworth, University of Reading" .
+<https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s6> <http://purl.org/dc/terms/title> "Chess Endgame Records (v7, 2014)" .
+<https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s6> <https://schema.org/url> "https://reading-9.eprints-hosting.org/34268/2/chessendrecann.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s7> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s7> <http://purl.org/dc/terms/title> "Frequently Asked Questions" .
+<https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s7> <https://schema.org/url> "https://rcc.fide.com/frequently-asked-questions/" .
 <https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s1> <http://purl.org/dc/terms/publisher> "OlimpBase (Wojciech Bartelski)" .
 <https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s1> <http://purl.org/dc/terms/title> "FIDE World Chess Championship cycle 1969-1972: Match, Reykjavik 1972" .
 <https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
