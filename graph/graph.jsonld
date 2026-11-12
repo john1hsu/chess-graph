@@ -2365,6 +2365,104 @@
       ]
     },
     {
+      "@id": "kt:chess-tournament",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Chess tournament",
+      "skos:definition": "A competition in which several players (or teams) play a planned series of games and are ranked by score; the main formats are the all-play-all round robin, the Swiss system and the knockout, with tie-break rules separating players who finish level, all set out for rated play in Section C of the FIDE Handbook.",
+      "kto:domain": "events-and-organizations",
+      "dcterms:created": "2026-11-12",
+      "kto:verified": "2026-11-12",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "C.04.1 Basic Rules for Swiss Systems (applied from 1 February 2026)",
+          "dcterms:publisher": "FIDE Handbook",
+          "schema:url": "https://handbook.fide.com/chapter/C0401202507",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "C.04.2 General Handling Rules for Swiss Tournaments (applied from 1 February 2026)",
+          "dcterms:publisher": "FIDE Handbook",
+          "schema:url": "https://handbook.fide.com/chapter/GeneralHandlingRulesForSwissTournaments202602",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "C.05 Annex 1: Details of Berger Tables",
+          "dcterms:publisher": "FIDE Handbook",
+          "schema:url": "https://handbook.fide.com/chapter/C05Annex1",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "C.07 Play-Off and Tie-Break Regulations (applied from 1 March 2026)",
+          "dcterms:publisher": "FIDE Handbook",
+          "schema:url": "https://handbook.fide.com/chapter/TieBreakRegulations032026",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "125 years Swiss System",
+          "dcterms:publisher": "ChessBase News (André Schulz, 17 June 2020)",
+          "schema:url": "https://en.chessbase.com/post/125-years-swiss-system",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "London 1851",
+          "dcterms:publisher": "OlimpBase (Wojciech Bartelski)",
+          "schema:url": "https://www.olimpbase.org/ind-varia/it-london1851.html",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "175 years ago: Anderssen's Immortal Game is played in London",
+          "dcterms:publisher": "ChessBase News (André Schulz, 23 June 2026)",
+          "schema:url": "https://en.chessbase.com/newsroom/post/175-years-anderssen-immortal",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/events-and-organizations/chess-tournament.md",
+      "skos:altLabel": [
+        "Tournament chess",
+        "Chess tournaments",
+        "Tournament formats in chess"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:arbiter"
+        },
+        {
+          "@id": "kt:hastings-1895"
+        },
+        {
+          "@id": "kt:candidates-tournament"
+        },
+        {
+          "@id": "kt:chess-olympiad"
+        }
+      ],
+      "kto:sanctionedBy": [
+        {
+          "@id": "kt:fide"
+        }
+      ],
+      "kto:governedBy": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:swiss-system"
+        },
+        {
+          "@id": "kt:tie-break"
+        }
+      ]
+    },
+    {
       "@id": "kt:elo-rating-system",
       "@type": "kto:RatingSystem",
       "skos:prefLabel": "Elo rating system",

@@ -735,6 +735,33 @@
 <https://github.com/john1hsu/chess-graph/id/chess-titles> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/fide> .
 <https://github.com/john1hsu/chess-graph/id/chess-titles> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/chess-titles> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/chess-tournament> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/chess-tournament> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Concept> .
+<https://github.com/john1hsu/chess-graph/id/chess-tournament> <http://www.w3.org/2000/01/rdf-schema#label> "Chess tournament" .
+<https://github.com/john1hsu/chess-graph/id/chess-tournament> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess tournaments" .
+<https://github.com/john1hsu/chess-graph/id/chess-tournament> <http://www.w3.org/2004/02/skos/core#altLabel> "Tournament chess" .
+<https://github.com/john1hsu/chess-graph/id/chess-tournament> <http://www.w3.org/2004/02/skos/core#altLabel> "Tournament formats in chess" .
+<https://github.com/john1hsu/chess-graph/id/chess-tournament> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess> .
+<https://github.com/john1hsu/chess-graph/id/chess-tournament> <http://www.w3.org/2004/02/skos/core#definition> "A competition in which several players (or teams) play a planned series of games and are ranked by score; the main formats are the all-play-all round robin, the Swiss system and the knockout, with tie-break rules separating players who finish level, all set out for rated play in Section C of the FIDE Handbook." .
+<https://github.com/john1hsu/chess-graph/id/chess-tournament> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chess tournament" .
+<https://github.com/john1hsu/chess-graph/id/chess-tournament> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/arbiter> .
+<https://github.com/john1hsu/chess-graph/id/chess-tournament> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/candidates-tournament> .
+<https://github.com/john1hsu/chess-graph/id/chess-tournament> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-olympiad> .
+<https://github.com/john1hsu/chess-graph/id/chess-tournament> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/hastings-1895> .
+<https://github.com/john1hsu/chess-graph/id/chess-tournament> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s1> .
+<https://github.com/john1hsu/chess-graph/id/chess-tournament> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s2> .
+<https://github.com/john1hsu/chess-graph/id/chess-tournament> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s3> .
+<https://github.com/john1hsu/chess-graph/id/chess-tournament> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s4> .
+<https://github.com/john1hsu/chess-graph/id/chess-tournament> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s5> .
+<https://github.com/john1hsu/chess-graph/id/chess-tournament> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s6> .
+<https://github.com/john1hsu/chess-graph/id/chess-tournament> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s7> .
+<https://github.com/john1hsu/chess-graph/id/chess-tournament> <https://github.com/john1hsu/chess-graph/ontology#domain> "events-and-organizations" .
+<https://github.com/john1hsu/chess-graph/id/chess-tournament> <https://github.com/john1hsu/chess-graph/ontology#governedBy> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/chess-tournament> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/swiss-system> .
+<https://github.com/john1hsu/chess-graph/id/chess-tournament> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/tie-break> .
+<https://github.com/john1hsu/chess-graph/id/chess-tournament> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/fide> .
+<https://github.com/john1hsu/chess-graph/id/chess-tournament> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/chess-tournament> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/chess-variants> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/chess-variants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Concept> .
 <https://github.com/john1hsu/chess-graph/id/chess-variants> <http://www.w3.org/2000/01/rdf-schema#label> "Chess variants" .
@@ -3626,6 +3653,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/chess-titles/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/chess-titles/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-titles/s5> <https://schema.org/url> "https://www.iccf.com/userfiles/files/How%20to%20achieve%20an%20ICCF%20Title%2001-01-2013.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s1> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s1> <http://purl.org/dc/terms/title> "C.04.1 Basic Rules for Swiss Systems (applied from 1 February 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s1> <https://schema.org/url> "https://handbook.fide.com/chapter/C0401202507" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s2> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s2> <http://purl.org/dc/terms/title> "C.04.2 General Handling Rules for Swiss Tournaments (applied from 1 February 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s2> <https://schema.org/url> "https://handbook.fide.com/chapter/GeneralHandlingRulesForSwissTournaments202602" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s3> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s3> <http://purl.org/dc/terms/title> "C.05 Annex 1: Details of Berger Tables" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s3> <https://schema.org/url> "https://handbook.fide.com/chapter/C05Annex1" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s4> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s4> <http://purl.org/dc/terms/title> "C.07 Play-Off and Tie-Break Regulations (applied from 1 March 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s4> <https://schema.org/url> "https://handbook.fide.com/chapter/TieBreakRegulations032026" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s5> <http://purl.org/dc/terms/publisher> "ChessBase News (André Schulz, 17 June 2020)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s5> <http://purl.org/dc/terms/title> "125 years Swiss System" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s5> <https://schema.org/url> "https://en.chessbase.com/post/125-years-swiss-system" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s6> <http://purl.org/dc/terms/publisher> "OlimpBase (Wojciech Bartelski)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s6> <http://purl.org/dc/terms/title> "London 1851" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s6> <https://schema.org/url> "https://www.olimpbase.org/ind-varia/it-london1851.html" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s7> <http://purl.org/dc/terms/publisher> "ChessBase News (André Schulz, 23 June 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s7> <http://purl.org/dc/terms/title> "175 years ago: Anderssen's Immortal Game is played in London" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-tournament/s7> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/175-years-anderssen-immortal" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-variants/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-variants/s1> <http://purl.org/dc/terms/title> "FIDE Laws of Chess, Guidelines II. Chess960 Rules" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-variants/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

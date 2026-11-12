@@ -662,6 +662,31 @@
     ]
   },
   {
+    "id": "kt:chess-tournament",
+    "title": "Chess tournament",
+    "aliases": [
+      "Tournament chess",
+      "Chess tournaments",
+      "Tournament formats in chess"
+    ],
+    "type": "Concept",
+    "domain": "events-and-organizations",
+    "file": "articles/events-and-organizations/chess-tournament.md",
+    "created": "2026-11-12",
+    "verified": "2026-11-12",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://handbook.fide.com/chapter/C0401202507",
+      "https://handbook.fide.com/chapter/GeneralHandlingRulesForSwissTournaments202602",
+      "https://handbook.fide.com/chapter/C05Annex1",
+      "https://handbook.fide.com/chapter/TieBreakRegulations032026",
+      "https://en.chessbase.com/post/125-years-swiss-system",
+      "https://www.olimpbase.org/ind-varia/it-london1851.html",
+      "https://en.chessbase.com/newsroom/post/175-years-anderssen-immortal"
+    ]
+  },
+  {
     "id": "kt:chess-variants",
     "title": "Chess variants",
     "aliases": [

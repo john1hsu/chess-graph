@@ -4,7 +4,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:chess` | `kt:chess-endgame`, `kt:chess-titles`, `kt:chaturanga`, `kt:history-of-chess`, `kt:shatranj`, `kt:chess-strategy`, `kt:fide-laws-of-chess`, `kt:chess-tactics`, `kt:chess-composition`, `kt:chess-variants`, `kt:correspondence-chess` |
+| `kt:chess` | `kt:chess-endgame`, `kt:chess-titles`, `kt:chess-tournament`, `kt:chaturanga`, `kt:history-of-chess`, `kt:shatranj`, `kt:chess-strategy`, `kt:fide-laws-of-chess`, `kt:chess-tactics`, `kt:chess-composition`, `kt:chess-variants`, `kt:correspondence-chess` |
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:mikhail-botvinnik`, `kt:wilhelm-steinitz` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:herbert-simon` |
 | `kt:key-squares` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:triangulation`, `kt:zugzwang` |
@@ -28,7 +28,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:botvinnik-versus-capablanca-avro-1938` | `kt:soviet-chess-school`, `kt:mikhail-botvinnik` |
 | `kt:carlsbad-structure` | `kt:pawn-structure`, `kt:queens-gambit-declined` |
 | `kt:chess-organizations` | `kt:fide`, `kt:us-chess` |
-| `kt:chess-tournament` | `kt:arbiter`, `kt:hastings-1895` |
 | `kt:corresponding-squares` | `kt:triangulation`, `kt:triangulation` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
 | `kt:dragon-variation` | `kt:najdorf-variation`, `kt:sicilian-defence` |
@@ -184,10 +183,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:st-petersburg-1895-96` | `kt:hastings-1895` |
 | `kt:static-exchange-evaluation` | `kt:quiescence-search` |
 | `kt:steven-j-edwards` | `kt:forsyth-edwards-notation` |
+| `kt:swiss-system` | `kt:chess-tournament` |
 | `kt:swiss-system-tournament` | `kt:chess-olympiad` |
 | `kt:tarrasch-defence` | `kt:isolated-queens-pawn` |
 | `kt:team-chess` | `kt:chess-olympiad` |
 | `kt:the-exchange` | `kt:material-advantage` |
+| `kt:tie-break` | `kt:chess-tournament` |
 | `kt:tie-break-regulations` | `kt:chess-olympiad` |
 | `kt:top-chess-engine-championship` | `kt:stockfish` |
 | `kt:tord-romstad` | `kt:stockfish` |
