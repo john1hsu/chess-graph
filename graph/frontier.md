@@ -15,6 +15,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:closed-games` | `kt:queens-gambit-accepted`, `kt:queens-gambit`, `kt:semi-open-games` |
 | `kt:corresponding-squares` | `kt:key-squares`, `kt:triangulation`, `kt:triangulation` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position`, `kt:rook-endgames` |
+| `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search`, `kt:progressive-deepening` |
 | `kt:javokhir-sindarov` | `kt:candidates-tournament`, `kt:fide-world-cup`, `kt:gukesh-dommaraju` |
 | `kt:magnus-carlsen` | `kt:fide-world-cup`, `kt:fide-world-cup`, `kt:gukesh-dommaraju` |
 | `kt:mikhail-chigorin` | `kt:hastings-1895`, `kt:evans-gambit`, `kt:wilhelm-steinitz` |
@@ -30,7 +31,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:dragon-variation` | `kt:najdorf-variation`, `kt:sicilian-defence` |
 | `kt:gambit` | `kt:evans-gambit`, `kt:sacrifice` |
 | `kt:howard-staunton` | `kt:london-1851`, `kt:london-1851` |
-| `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:johannes-zukertort` | `kt:adolf-anderssen`, `kt:wilhelm-steinitz` |
 | `kt:ju-wenjun` | `kt:womens-world-chess-championship`, `kt:womens-world-chess-championship` |
 | `kt:karpov-versus-unzicker-nice-1974` | `kt:prophylaxis`, `kt:anatoly-karpov` |
@@ -45,7 +45,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
 | `kt:perpetual-check` | `kt:draw`, `kt:threefold-repetition` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
-| `kt:progressive-deepening` | `kt:calculation`, `kt:candidate-moves` |
 | `kt:rook-on-the-seventh-rank` | `kt:open-file`, `kt:open-file` |
 | `kt:saavedra-position` | `kt:pawn-promotion`, `kt:endgame-study` |
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:zugzwang`, `kt:aron-nimzowitsch` |

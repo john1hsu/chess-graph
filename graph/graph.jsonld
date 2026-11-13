@@ -11980,6 +11980,87 @@
       ]
     },
     {
+      "@id": "kt:progressive-deepening",
+      "@type": "kto:CognitiveConcept",
+      "skos:prefLabel": "Progressive deepening",
+      "skos:definition": "Adriaan de Groot's name for the way chess players return again and again to the same candidate move or variation while thinking, each time looking a little further or with new information, instead of analysing every option once to a fixed depth.",
+      "kto:domain": "training-and-improvement",
+      "dcterms:created": "2026-11-13",
+      "kto:verified": "2026-11-13",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Adriaan Dingeman de Groot (1914–2006) — obituary, Psychologische Rundschau",
+          "dcterms:publisher": "Fernand Gobet and Jochen Musch, Brunel University Research Archive",
+          "schema:url": "https://bura.brunel.ac.uk/bitstream/2438/2617/1/De%20Groot%20Obituary%20-%20%20Psychologische%20Rundschau.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Chess players' thinking revisited (Swiss Journal of Psychology 57, 1998)",
+          "dcterms:publisher": "Fernand Gobet, Brunel University Research Archive",
+          "schema:url": "https://bura.brunel.ac.uk/bitstream/2438/822/4/1791.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Expertise in Chess (Cambridge Handbook of Expertise and Expert Performance, 2006, pp. 523–538)",
+          "dcterms:publisher": "Fernand Gobet and Neil Charness, Cambridge University Press",
+          "schema:url": "https://www.cambridge.org/core/books/cambridge-handbook-of-expertise-and-expert-performance/expertise-in-chess/80ECEE9EB4E29866F90C8A45B9F8034E",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Adaptive expert decision making: Skilled chessplayers search more and deeper (ICGA Journal 27(4), 2004)",
+          "dcterms:publisher": "Guillermo Campitelli and Fernand Gobet, Brunel University Research Archive",
+          "schema:url": "https://bura.brunel.ac.uk/bitstream/2438/825/1/Gobet_Search_ICGA.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Iterative Deepening",
+          "dcterms:publisher": "Chess Programming Wiki",
+          "schema:url": "https://www.chessprogramming.org:443/Iterative_Deepening",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/training-and-improvement/progressive-deepening.md",
+      "skos:altLabel": [
+        "Progressive deepening of search",
+        "Reinvestigation",
+        "Move reinvestigation"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:calculation"
+        },
+        {
+          "@id": "kt:cognitive-psychology-of-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:candidate-moves"
+        },
+        {
+          "@id": "kt:iterative-deepening"
+        },
+        {
+          "@id": "kt:chess-expertise"
+        },
+        {
+          "@id": "kt:template-theory"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:calculation"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:adriaan-de-groot"
+        }
+      ]
+    },
+    {
       "@id": "kt:template-theory",
       "@type": "kto:CognitiveConcept",
       "skos:prefLabel": "Template theory",

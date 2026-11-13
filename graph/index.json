@@ -2747,6 +2747,29 @@
     ]
   },
   {
+    "id": "kt:progressive-deepening",
+    "title": "Progressive deepening",
+    "aliases": [
+      "Progressive deepening of search",
+      "Reinvestigation",
+      "Move reinvestigation"
+    ],
+    "type": "CognitiveConcept",
+    "domain": "training-and-improvement",
+    "file": "articles/training-and-improvement/progressive-deepening.md",
+    "created": "2026-11-13",
+    "verified": "2026-11-13",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://bura.brunel.ac.uk/bitstream/2438/2617/1/De%20Groot%20Obituary%20-%20%20Psychologische%20Rundschau.pdf",
+      "https://bura.brunel.ac.uk/bitstream/2438/822/4/1791.pdf",
+      "https://www.cambridge.org/core/books/cambridge-handbook-of-expertise-and-expert-performance/expertise-in-chess/80ECEE9EB4E29866F90C8A45B9F8034E",
+      "https://bura.brunel.ac.uk/bitstream/2438/825/1/Gobet_Search_ICGA.pdf",
+      "https://www.chessprogramming.org:443/Iterative_Deepening"
+    ]
+  },
+  {
     "id": "kt:prophylaxis",
     "title": "Prophylaxis",
     "aliases": [

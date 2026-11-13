@@ -3072,6 +3072,30 @@
 <https://github.com/john1hsu/chess-graph/id/pin> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> .
 <https://github.com/john1hsu/chess-graph/id/pin> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/pin> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/progressive-deepening> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/chess-graph/id/progressive-deepening> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#CognitiveConcept> .
+<https://github.com/john1hsu/chess-graph/id/progressive-deepening> <http://www.w3.org/2000/01/rdf-schema#label> "Progressive deepening" .
+<https://github.com/john1hsu/chess-graph/id/progressive-deepening> <http://www.w3.org/2004/02/skos/core#altLabel> "Move reinvestigation" .
+<https://github.com/john1hsu/chess-graph/id/progressive-deepening> <http://www.w3.org/2004/02/skos/core#altLabel> "Progressive deepening of search" .
+<https://github.com/john1hsu/chess-graph/id/progressive-deepening> <http://www.w3.org/2004/02/skos/core#altLabel> "Reinvestigation" .
+<https://github.com/john1hsu/chess-graph/id/progressive-deepening> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/calculation> .
+<https://github.com/john1hsu/chess-graph/id/progressive-deepening> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/progressive-deepening> <http://www.w3.org/2004/02/skos/core#definition> "Adriaan de Groot's name for the way chess players return again and again to the same candidate move or variation while thinking, each time looking a little further or with new information, instead of analysing every option once to a fixed depth." .
+<https://github.com/john1hsu/chess-graph/id/progressive-deepening> <http://www.w3.org/2004/02/skos/core#prefLabel> "Progressive deepening" .
+<https://github.com/john1hsu/chess-graph/id/progressive-deepening> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/candidate-moves> .
+<https://github.com/john1hsu/chess-graph/id/progressive-deepening> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-expertise> .
+<https://github.com/john1hsu/chess-graph/id/progressive-deepening> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/iterative-deepening> .
+<https://github.com/john1hsu/chess-graph/id/progressive-deepening> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/template-theory> .
+<https://github.com/john1hsu/chess-graph/id/progressive-deepening> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/progressive-deepening/s1> .
+<https://github.com/john1hsu/chess-graph/id/progressive-deepening> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/progressive-deepening/s2> .
+<https://github.com/john1hsu/chess-graph/id/progressive-deepening> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/progressive-deepening/s3> .
+<https://github.com/john1hsu/chess-graph/id/progressive-deepening> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/progressive-deepening/s4> .
+<https://github.com/john1hsu/chess-graph/id/progressive-deepening> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/progressive-deepening/s5> .
+<https://github.com/john1hsu/chess-graph/id/progressive-deepening> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> .
+<https://github.com/john1hsu/chess-graph/id/progressive-deepening> <https://github.com/john1hsu/chess-graph/ontology#domain> "training-and-improvement" .
+<https://github.com/john1hsu/chess-graph/id/progressive-deepening> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/calculation> .
+<https://github.com/john1hsu/chess-graph/id/progressive-deepening> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/progressive-deepening> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-13" .
 <https://github.com/john1hsu/chess-graph/id/prophylaxis> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/prophylaxis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
 <https://github.com/john1hsu/chess-graph/id/prophylaxis> <http://www.w3.org/2000/01/rdf-schema#label> "Prophylaxis" .
@@ -6693,6 +6717,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/pin/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/pin/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/pin/s5> <https://schema.org/url> "https://www.chess.com/terms/pin-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/progressive-deepening/s1> <http://purl.org/dc/terms/publisher> "Fernand Gobet and Jochen Musch, Brunel University Research Archive" .
+<https://github.com/john1hsu/chess-graph/id/source/progressive-deepening/s1> <http://purl.org/dc/terms/title> "Adriaan Dingeman de Groot (1914–2006) — obituary, Psychologische Rundschau" .
+<https://github.com/john1hsu/chess-graph/id/source/progressive-deepening/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/progressive-deepening/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/progressive-deepening/s1> <https://schema.org/url> "https://bura.brunel.ac.uk/bitstream/2438/2617/1/De%20Groot%20Obituary%20-%20%20Psychologische%20Rundschau.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/progressive-deepening/s2> <http://purl.org/dc/terms/publisher> "Fernand Gobet, Brunel University Research Archive" .
+<https://github.com/john1hsu/chess-graph/id/source/progressive-deepening/s2> <http://purl.org/dc/terms/title> "Chess players' thinking revisited (Swiss Journal of Psychology 57, 1998)" .
+<https://github.com/john1hsu/chess-graph/id/source/progressive-deepening/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/progressive-deepening/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/progressive-deepening/s2> <https://schema.org/url> "https://bura.brunel.ac.uk/bitstream/2438/822/4/1791.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/progressive-deepening/s3> <http://purl.org/dc/terms/publisher> "Fernand Gobet and Neil Charness, Cambridge University Press" .
+<https://github.com/john1hsu/chess-graph/id/source/progressive-deepening/s3> <http://purl.org/dc/terms/title> "Expertise in Chess (Cambridge Handbook of Expertise and Expert Performance, 2006, pp. 523–538)" .
+<https://github.com/john1hsu/chess-graph/id/source/progressive-deepening/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/progressive-deepening/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/progressive-deepening/s3> <https://schema.org/url> "https://www.cambridge.org/core/books/cambridge-handbook-of-expertise-and-expert-performance/expertise-in-chess/80ECEE9EB4E29866F90C8A45B9F8034E" .
+<https://github.com/john1hsu/chess-graph/id/source/progressive-deepening/s4> <http://purl.org/dc/terms/publisher> "Guillermo Campitelli and Fernand Gobet, Brunel University Research Archive" .
+<https://github.com/john1hsu/chess-graph/id/source/progressive-deepening/s4> <http://purl.org/dc/terms/title> "Adaptive expert decision making: Skilled chessplayers search more and deeper (ICGA Journal 27(4), 2004)" .
+<https://github.com/john1hsu/chess-graph/id/source/progressive-deepening/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/progressive-deepening/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/progressive-deepening/s4> <https://schema.org/url> "https://bura.brunel.ac.uk/bitstream/2438/825/1/Gobet_Search_ICGA.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/progressive-deepening/s5> <http://purl.org/dc/terms/publisher> "Chess Programming Wiki" .
+<https://github.com/john1hsu/chess-graph/id/source/progressive-deepening/s5> <http://purl.org/dc/terms/title> "Iterative Deepening" .
+<https://github.com/john1hsu/chess-graph/id/source/progressive-deepening/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/progressive-deepening/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/progressive-deepening/s5> <https://schema.org/url> "https://www.chessprogramming.org:443/Iterative_Deepening" .
 <https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s1> <http://purl.org/dc/terms/publisher> "Aron Nimzowitsch, Quality Chess (2007 edition)" .
 <https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s1> <http://purl.org/dc/terms/title> "My System (excerpt, with foreword by Artur Yusupov)" .
 <https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
