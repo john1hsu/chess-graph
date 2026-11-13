@@ -3003,6 +3003,31 @@
     ]
   },
   {
+    "id": "kt:rule-of-the-square",
+    "title": "Rule of the square",
+    "aliases": [
+      "Square of the pawn",
+      "Square rule",
+      "The square rule",
+      "Pawn square",
+      "Quadrant rule"
+    ],
+    "type": "Technique",
+    "domain": "endgames",
+    "file": "articles/endgames/rule-of-the-square.md",
+    "created": "2026-11-13",
+    "verified": "2026-11-13",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.debestezet.nl/catalog/images/PDF/Dvoretskys%20Endgame%20Manual%206th%20Edition.pdf",
+      "https://download.boekhuis.nl/9789056916176_fragm-docb.pdf",
+      "https://gutenberg.org/cache/epub/33870/pg33870-images.html",
+      "https://www.chessprogramming.org/Rule_of_the_Square",
+      "https://en.chessbase.com/post/study-of-the-month-2021-07"
+    ]
+  },
+  {
     "id": "kt:ruy-lopez",
     "title": "Ruy Lopez",
     "aliases": [

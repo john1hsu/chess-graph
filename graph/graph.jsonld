@@ -2306,6 +2306,90 @@
       ]
     },
     {
+      "@id": "kt:rule-of-the-square",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Rule of the square",
+      "skos:definition": "A visual shortcut for king-against-passed-pawn races: draw the square whose side runs from the pawn to its promotion rank; if the defending king can step into that square, it catches the unsupported pawn, otherwise the pawn queens.",
+      "kto:domain": "endgames",
+      "dcterms:created": "2026-11-13",
+      "kto:verified": "2026-11-13",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Dvoretsky's Endgame Manual, sixth edition (excerpt with table of contents)",
+          "dcterms:publisher": "Mark Dvoretsky, revised by Karsten Müller and Alex Fishbein, Russell Enterprises (2025); excerpt hosted by De Beste Zet",
+          "schema:url": "https://www.debestezet.nl/catalog/images/PDF/Dvoretskys%20Endgame%20Manual%206th%20Edition.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "100 Endgames You Must Know, fourth improved edition (sample pages and contents)",
+          "dcterms:publisher": "Jesús de la Villa, New In Chess (2015); excerpt hosted by Boekhuis",
+          "schema:url": "https://download.boekhuis.nl/9789056916176_fragm-docb.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Chess Fundamentals (1921), Project Gutenberg eBook #33870",
+          "dcterms:publisher": "José Raúl Capablanca; Project Gutenberg",
+          "schema:url": "https://gutenberg.org/cache/epub/33870/pg33870-images.html",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Rule of the Square",
+          "dcterms:publisher": "Chess Programming Wiki",
+          "schema:url": "https://www.chessprogramming.org/Rule_of_the_Square",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "Kaleidoscope II (Study of the Month, July 2021)",
+          "dcterms:publisher": "Siegfried Hornecker, ChessBase News (2021-07-31)",
+          "schema:url": "https://en.chessbase.com/post/study-of-the-month-2021-07",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/endgames/rule-of-the-square.md",
+      "skos:altLabel": [
+        "Square of the pawn",
+        "Square rule",
+        "The square rule",
+        "Pawn square",
+        "Quadrant rule"
+      ],
+      "kto:fen": "8/8/8/6k1/1P6/8/8/7K w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:king-and-pawn-endgames"
+        },
+        {
+          "@id": "kt:passed-pawn"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:key-squares"
+        },
+        {
+          "@id": "kt:opposition"
+        },
+        {
+          "@id": "kt:reti-endgame-study"
+        },
+        {
+          "@id": "kt:pawn-promotion"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:tempo"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:counting-in-pawn-races"
+        }
+      ]
+    },
+    {
       "@id": "kt:triangulation",
       "@type": "kto:Technique",
       "skos:prefLabel": "Triangulation",

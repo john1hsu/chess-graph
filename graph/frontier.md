@@ -19,7 +19,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:magnus-carlsen` | `kt:fide-world-cup`, `kt:fide-world-cup`, `kt:gukesh-dommaraju` |
 | `kt:mikhail-chigorin` | `kt:hastings-1895`, `kt:evans-gambit`, `kt:wilhelm-steinitz` |
 | `kt:portable-game-notation` | `kt:algebraic-notation`, `kt:forsyth-edwards-notation`, `kt:forsyth-edwards-notation` |
-| `kt:rule-of-the-square` | `kt:key-squares`, `kt:king-and-pawn-endgames`, `kt:passed-pawn` |
 | `kt:universal-chess-interface` | `kt:leela-chess-zero`, `kt:stockfish`, `kt:chess960` |
 | `kt:vladimir-kramnik` | `kt:alphazero`, `kt:ruy-lopez`, `kt:garry-kasparov` |
 | `kt:alexander-kotov` | `kt:calculation`, `kt:candidate-moves` |
@@ -85,6 +84,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
 | `kt:chrest` | `kt:template-theory` |
 | `kt:cognitive-science` | `kt:cognitive-psychology-of-chess` |
+| `kt:counting-in-pawn-races` | `kt:rule-of-the-square` |
 | `kt:crazyhouse` | `kt:bughouse` |
 | `kt:david-forsyth` | `kt:forsyth-edwards-notation` |
 | `kt:deep-blue` | `kt:deep-blue-versus-kasparov` |
@@ -172,6 +172,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:remi-coulom` | `kt:monte-carlo-tree-search` |
 | `kt:reshevsky-versus-petrosian-zurich-1953` | `kt:sacrifice` |
 | `kt:restraint` | `kt:prophylaxis` |
+| `kt:reti-endgame-study` | `kt:rule-of-the-square` |
 | `kt:reti-opening` | `kt:hypermodernism` |
 | `kt:reti-versus-bogoljubow-new-york-1924` | `kt:hypermodernism` |
 | `kt:reti-versus-tartakower-vienna-1910` | `kt:double-check` |
@@ -198,6 +199,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:swiss-system-tournament` | `kt:chess-olympiad` |
 | `kt:tarrasch-defence` | `kt:isolated-queens-pawn` |
 | `kt:team-chess` | `kt:chess-olympiad` |
+| `kt:tempo` | `kt:rule-of-the-square` |
 | `kt:the-exchange` | `kt:material-advantage` |
 | `kt:tie-break-regulations` | `kt:chess-olympiad` |
 | `kt:tord-romstad` | `kt:stockfish` |

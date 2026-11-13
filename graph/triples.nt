@@ -3357,6 +3357,33 @@
 <https://github.com/john1hsu/chess-graph/id/rook-endgames> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/rook-endgames> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> .
 <https://github.com/john1hsu/chess-graph/id/rook-endgames> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/rule-of-the-square> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/chess-graph/id/rule-of-the-square> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Technique> .
+<https://github.com/john1hsu/chess-graph/id/rule-of-the-square> <http://www.w3.org/2000/01/rdf-schema#label> "Rule of the square" .
+<https://github.com/john1hsu/chess-graph/id/rule-of-the-square> <http://www.w3.org/2004/02/skos/core#altLabel> "Pawn square" .
+<https://github.com/john1hsu/chess-graph/id/rule-of-the-square> <http://www.w3.org/2004/02/skos/core#altLabel> "Quadrant rule" .
+<https://github.com/john1hsu/chess-graph/id/rule-of-the-square> <http://www.w3.org/2004/02/skos/core#altLabel> "Square of the pawn" .
+<https://github.com/john1hsu/chess-graph/id/rule-of-the-square> <http://www.w3.org/2004/02/skos/core#altLabel> "Square rule" .
+<https://github.com/john1hsu/chess-graph/id/rule-of-the-square> <http://www.w3.org/2004/02/skos/core#altLabel> "The square rule" .
+<https://github.com/john1hsu/chess-graph/id/rule-of-the-square> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/king-and-pawn-endgames> .
+<https://github.com/john1hsu/chess-graph/id/rule-of-the-square> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/passed-pawn> .
+<https://github.com/john1hsu/chess-graph/id/rule-of-the-square> <http://www.w3.org/2004/02/skos/core#definition> "A visual shortcut for king-against-passed-pawn races: draw the square whose side runs from the pawn to its promotion rank; if the defending king can step into that square, it catches the unsupported pawn, otherwise the pawn queens." .
+<https://github.com/john1hsu/chess-graph/id/rule-of-the-square> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rule of the square" .
+<https://github.com/john1hsu/chess-graph/id/rule-of-the-square> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/key-squares> .
+<https://github.com/john1hsu/chess-graph/id/rule-of-the-square> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/opposition> .
+<https://github.com/john1hsu/chess-graph/id/rule-of-the-square> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/pawn-promotion> .
+<https://github.com/john1hsu/chess-graph/id/rule-of-the-square> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/reti-endgame-study> .
+<https://github.com/john1hsu/chess-graph/id/rule-of-the-square> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s1> .
+<https://github.com/john1hsu/chess-graph/id/rule-of-the-square> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s2> .
+<https://github.com/john1hsu/chess-graph/id/rule-of-the-square> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s3> .
+<https://github.com/john1hsu/chess-graph/id/rule-of-the-square> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s4> .
+<https://github.com/john1hsu/chess-graph/id/rule-of-the-square> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s5> .
+<https://github.com/john1hsu/chess-graph/id/rule-of-the-square> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/counting-in-pawn-races> .
+<https://github.com/john1hsu/chess-graph/id/rule-of-the-square> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/tempo> .
+<https://github.com/john1hsu/chess-graph/id/rule-of-the-square> <https://github.com/john1hsu/chess-graph/ontology#domain> "endgames" .
+<https://github.com/john1hsu/chess-graph/id/rule-of-the-square> <https://github.com/john1hsu/chess-graph/ontology#fen> "8/8/8/6k1/1P6/8/8/7K w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/rule-of-the-square> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/rule-of-the-square> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-13" .
 <https://github.com/john1hsu/chess-graph/id/ruy-lopez> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/ruy-lopez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Opening> .
 <https://github.com/john1hsu/chess-graph/id/ruy-lopez> <http://www.w3.org/2000/01/rdf-schema#label> "Ruy Lopez" .
@@ -7104,6 +7131,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s6> <https://schema.org/url> "https://en.chessbase.com/post/some-rook-endings-are-drawn-some-are-not" .
+<https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s1> <http://purl.org/dc/terms/publisher> "Mark Dvoretsky, revised by Karsten Müller and Alex Fishbein, Russell Enterprises (2025); excerpt hosted by De Beste Zet" .
+<https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s1> <http://purl.org/dc/terms/title> "Dvoretsky's Endgame Manual, sixth edition (excerpt with table of contents)" .
+<https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s1> <https://schema.org/url> "https://www.debestezet.nl/catalog/images/PDF/Dvoretskys%20Endgame%20Manual%206th%20Edition.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s2> <http://purl.org/dc/terms/publisher> "Jesús de la Villa, New In Chess (2015); excerpt hosted by Boekhuis" .
+<https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s2> <http://purl.org/dc/terms/title> "100 Endgames You Must Know, fourth improved edition (sample pages and contents)" .
+<https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s2> <https://schema.org/url> "https://download.boekhuis.nl/9789056916176_fragm-docb.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s3> <http://purl.org/dc/terms/publisher> "José Raúl Capablanca; Project Gutenberg" .
+<https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s3> <http://purl.org/dc/terms/title> "Chess Fundamentals (1921), Project Gutenberg eBook #33870" .
+<https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s3> <https://schema.org/url> "https://gutenberg.org/cache/epub/33870/pg33870-images.html" .
+<https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s4> <http://purl.org/dc/terms/publisher> "Chess Programming Wiki" .
+<https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s4> <http://purl.org/dc/terms/title> "Rule of the Square" .
+<https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s4> <https://schema.org/url> "https://www.chessprogramming.org/Rule_of_the_Square" .
+<https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s5> <http://purl.org/dc/terms/publisher> "Siegfried Hornecker, ChessBase News (2021-07-31)" .
+<https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s5> <http://purl.org/dc/terms/title> "Kaleidoscope II (Study of the Month, July 2021)" .
+<https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s5> <https://schema.org/url> "https://en.chessbase.com/post/study-of-the-month-2021-07" .
 <https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s1> <http://purl.org/dc/terms/title> "Ruy López de Segura" .
 <https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
