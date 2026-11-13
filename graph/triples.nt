@@ -3367,6 +3367,36 @@
 <https://github.com/john1hsu/chess-graph/id/sacrifice> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/gambit> .
 <https://github.com/john1hsu/chess-graph/id/sacrifice> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/sacrifice> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/semi-open-games> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/chess-graph/id/semi-open-games> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Concept> .
+<https://github.com/john1hsu/chess-graph/id/semi-open-games> <http://www.w3.org/2000/01/rdf-schema#label> "Semi-open games" .
+<https://github.com/john1hsu/chess-graph/id/semi-open-games> <http://www.w3.org/2004/02/skos/core#altLabel> "Half-open games" .
+<https://github.com/john1hsu/chess-graph/id/semi-open-games> <http://www.w3.org/2004/02/skos/core#altLabel> "Semi-Open Game" .
+<https://github.com/john1hsu/chess-graph/id/semi-open-games> <http://www.w3.org/2004/02/skos/core#altLabel> "Semi-Open Openings" .
+<https://github.com/john1hsu/chess-graph/id/semi-open-games> <http://www.w3.org/2004/02/skos/core#altLabel> "Semi-open game" .
+<https://github.com/john1hsu/chess-graph/id/semi-open-games> <http://www.w3.org/2004/02/skos/core#altLabel> "Semi-open openings" .
+<https://github.com/john1hsu/chess-graph/id/semi-open-games> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-openings> .
+<https://github.com/john1hsu/chess-graph/id/semi-open-games> <http://www.w3.org/2004/02/skos/core#definition> "The family of openings in which Black answers 1.e4 with any move other than 1...e5, such as the Sicilian, French, Caro-Kann, Pirc, Scandinavian and Alekhine's Defence; the label is a historical classification rather than a description of how open the resulting positions are." .
+<https://github.com/john1hsu/chess-graph/id/semi-open-games> <http://www.w3.org/2004/02/skos/core#prefLabel> "Semi-open games" .
+<https://github.com/john1hsu/chess-graph/id/semi-open-games> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/closed-games> .
+<https://github.com/john1hsu/chess-graph/id/semi-open-games> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/hypermodernism> .
+<https://github.com/john1hsu/chess-graph/id/semi-open-games> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/open-games> .
+<https://github.com/john1hsu/chess-graph/id/semi-open-games> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/soviet-chess-school> .
+<https://github.com/john1hsu/chess-graph/id/semi-open-games> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s1> .
+<https://github.com/john1hsu/chess-graph/id/semi-open-games> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s2> .
+<https://github.com/john1hsu/chess-graph/id/semi-open-games> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s3> .
+<https://github.com/john1hsu/chess-graph/id/semi-open-games> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s4> .
+<https://github.com/john1hsu/chess-graph/id/semi-open-games> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s5> .
+<https://github.com/john1hsu/chess-graph/id/semi-open-games> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s6> .
+<https://github.com/john1hsu/chess-graph/id/semi-open-games> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s7> .
+<https://github.com/john1hsu/chess-graph/id/semi-open-games> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/open-games> .
+<https://github.com/john1hsu/chess-graph/id/semi-open-games> <https://github.com/john1hsu/chess-graph/ontology#domain> "openings" .
+<https://github.com/john1hsu/chess-graph/id/semi-open-games> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/alekhines-defence> .
+<https://github.com/john1hsu/chess-graph/id/semi-open-games> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/caro-kann-defence> .
+<https://github.com/john1hsu/chess-graph/id/semi-open-games> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/french-defence> .
+<https://github.com/john1hsu/chess-graph/id/semi-open-games> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/sicilian-defence> .
+<https://github.com/john1hsu/chess-graph/id/semi-open-games> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/semi-open-games> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-13" .
 <https://github.com/john1hsu/chess-graph/id/shatranj> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/shatranj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Variant> .
 <https://github.com/john1hsu/chess-graph/id/shatranj> <http://www.w3.org/2000/01/rdf-schema#label> "Shatranj" .
@@ -6983,6 +7013,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/sacrifice/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/sacrifice/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
 <https://github.com/john1hsu/chess-graph/id/source/sacrifice/s6> <https://schema.org/url> "https://www.chesshistory.com/winter/extra/combination.html" .
+<https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s1> <http://purl.org/dc/terms/publisher> "ChessBase Learn" .
+<https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s1> <http://purl.org/dc/terms/title> "Semi-open games" .
+<https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s1> <https://schema.org/url> "https://learn.chessbase.com/en/page/semi-open-games" .
+<https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s2> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s2> <http://purl.org/dc/terms/title> "Chess: Development of theory" .
+<https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s2> <https://schema.org/url> "https://www.britannica.com/topic/chess/Development-of-theory" .
+<https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s3> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s3> <http://purl.org/dc/terms/title> "Sicilian Defense" .
+<https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s3> <https://schema.org/url> "https://www.britannica.com/topic/Sicilian-Defense" .
+<https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s4> <http://purl.org/dc/terms/publisher> "Informant Publishing (2021), New In Chess product page" .
+<https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s4> <http://purl.org/dc/terms/title> "Encyclopaedia of Chess Openings BI (B00–B49)" .
+<https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s4> <https://schema.org/url> "https://www.newinchess.com/encyclopaedia-of-chess-openings-bi" .
+<https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s5> <http://purl.org/dc/terms/publisher> "Informant Publishing (2021), New In Chess product page" .
+<https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s5> <http://purl.org/dc/terms/title> "Encyclopaedia of Chess Openings BII (B50–B99)" .
+<https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s5> <https://schema.org/url> "https://newinchess.com/encyclopaedia-of-chess-openings-bii" .
+<https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s6> <http://purl.org/dc/terms/publisher> "Nagesh Havanur, ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s6> <http://purl.org/dc/terms/title> "Opening Encyclopaedia: Semi-Open Games" .
+<https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s6> <https://schema.org/url> "https://en.chessbase.com/post/opening-encyclopaedia-review-nagesh-havanur-p2" .
+<https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s7> <http://purl.org/dc/terms/publisher> "Chess.com article" .
+<https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s7> <http://purl.org/dc/terms/title> "Meeting 1.e4: Semi-Open Games" .
+<https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s7> <https://schema.org/url> "https://www.chess.com/article/view/meeting-1e4-semi-open-games" .
 <https://github.com/john1hsu/chess-graph/id/source/shatranj/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/shatranj/s1> <http://purl.org/dc/terms/title> "Shatranj" .
 <https://github.com/john1hsu/chess-graph/id/source/shatranj/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

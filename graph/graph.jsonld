@@ -7030,6 +7030,107 @@
       ]
     },
     {
+      "@id": "kt:semi-open-games",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Semi-open games",
+      "skos:definition": "The family of openings in which Black answers 1.e4 with any move other than 1...e5, such as the Sicilian, French, Caro-Kann, Pirc, Scandinavian and Alekhine's Defence; the label is a historical classification rather than a description of how open the resulting positions are.",
+      "kto:domain": "openings",
+      "dcterms:created": "2026-11-13",
+      "kto:verified": "2026-11-13",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Semi-open games",
+          "dcterms:publisher": "ChessBase Learn",
+          "schema:url": "https://learn.chessbase.com/en/page/semi-open-games",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Chess: Development of theory",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/chess/Development-of-theory",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Sicilian Defense",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/Sicilian-Defense",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Encyclopaedia of Chess Openings BI (B00–B49)",
+          "dcterms:publisher": "Informant Publishing (2021), New In Chess product page",
+          "schema:url": "https://www.newinchess.com/encyclopaedia-of-chess-openings-bi",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Encyclopaedia of Chess Openings BII (B50–B99)",
+          "dcterms:publisher": "Informant Publishing (2021), New In Chess product page",
+          "schema:url": "https://newinchess.com/encyclopaedia-of-chess-openings-bii",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Opening Encyclopaedia: Semi-Open Games",
+          "dcterms:publisher": "Nagesh Havanur, ChessBase News",
+          "schema:url": "https://en.chessbase.com/post/opening-encyclopaedia-review-nagesh-havanur-p2",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Meeting 1.e4: Semi-Open Games",
+          "dcterms:publisher": "Chess.com article",
+          "schema:url": "https://www.chess.com/article/view/meeting-1e4-semi-open-games",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/openings/semi-open-games.md",
+      "skos:altLabel": [
+        "Semi-Open Game",
+        "Semi-open game",
+        "Semi-open openings",
+        "Semi-Open Openings",
+        "Half-open games"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess-openings"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:open-games"
+        },
+        {
+          "@id": "kt:closed-games"
+        },
+        {
+          "@id": "kt:hypermodernism"
+        },
+        {
+          "@id": "kt:soviet-chess-school"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:sicilian-defence"
+        },
+        {
+          "@id": "kt:french-defence"
+        },
+        {
+          "@id": "kt:caro-kann-defence"
+        },
+        {
+          "@id": "kt:alekhines-defence"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:open-games"
+        }
+      ]
+    },
+    {
       "@id": "kt:sicilian-defence",
       "@type": "kto:Opening",
       "skos:prefLabel": "Sicilian Defence",
