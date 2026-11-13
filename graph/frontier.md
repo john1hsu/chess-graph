@@ -77,6 +77,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:as-suli` | `kt:shatranj` |
 | `kt:baden-baden-1870` | `kt:adolf-anderssen` |
 | `kt:berlin-defence` | `kt:ruy-lopez` |
+| `kt:blitz-chess` | `kt:bughouse` |
 | `kt:board-representation` | `kt:bitboards` |
 | `kt:breakthrough` | `kt:passed-pawn` |
 | `kt:carlsbad-1923` | `kt:carlsbad-structure` |
@@ -85,6 +86,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
 | `kt:chrest` | `kt:template-theory` |
 | `kt:cognitive-science` | `kt:cognitive-psychology-of-chess` |
+| `kt:crazyhouse` | `kt:bughouse` |
 | `kt:david-forsyth` | `kt:forsyth-edwards-notation` |
 | `kt:deep-blue` | `kt:deep-blue-versus-kasparov` |
 | `kt:ding-liren` | `kt:gukesh-dommaraju` |

@@ -334,6 +334,29 @@
     ]
   },
   {
+    "id": "kt:bughouse",
+    "title": "Bughouse",
+    "aliases": [
+      "Bughouse chess",
+      "Double bughouse"
+    ],
+    "type": "Variant",
+    "domain": "variants-and-compositions",
+    "file": "articles/variants-and-compositions/bughouse.md",
+    "created": "2026-11-13",
+    "verified": "2026-11-13",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://www.chessfed.gr/old_site/wccc2007/files/bughouse_chess_complete_rules.pdf",
+      "https://nwchess.com/articles/rules/bughouse_rules.htm",
+      "https://new.uschess.org/supernationals-2025/bughouse",
+      "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2020.00024/pdf",
+      "https://support.chess.com/en/articles/8615092-what-is-bughouse",
+      "https://lichess.org/@/MrPushwood/blog/when-bughouse-was-new/bUxg53cG"
+    ]
+  },
+  {
     "id": "kt:calculation",
     "title": "Calculation",
     "aliases": [

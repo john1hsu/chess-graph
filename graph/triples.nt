@@ -375,6 +375,30 @@
 <https://github.com/john1hsu/chess-graph/id/bobby-fischer> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/us-chess-championship> .
 <https://github.com/john1hsu/chess-graph/id/bobby-fischer> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/bobby-fischer> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/bughouse> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/chess-graph/id/bughouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Variant> .
+<https://github.com/john1hsu/chess-graph/id/bughouse> <http://www.w3.org/2000/01/rdf-schema#label> "Bughouse" .
+<https://github.com/john1hsu/chess-graph/id/bughouse> <http://www.w3.org/2004/02/skos/core#altLabel> "Bughouse chess" .
+<https://github.com/john1hsu/chess-graph/id/bughouse> <http://www.w3.org/2004/02/skos/core#altLabel> "Double bughouse" .
+<https://github.com/john1hsu/chess-graph/id/bughouse> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-variants> .
+<https://github.com/john1hsu/chess-graph/id/bughouse> <http://www.w3.org/2004/02/skos/core#definition> "A four-player team variant of chess played on two boards at once, in which each partner has the opposite colour and every piece a player captures is handed to the partner, who may drop it onto any empty square of their own board instead of making a normal move." .
+<https://github.com/john1hsu/chess-graph/id/bughouse> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bughouse" .
+<https://github.com/john1hsu/chess-graph/id/bughouse> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/blitz-chess> .
+<https://github.com/john1hsu/chess-graph/id/bughouse> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/checkmate> .
+<https://github.com/john1hsu/chess-graph/id/bughouse> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess960> .
+<https://github.com/john1hsu/chess-graph/id/bughouse> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/crazyhouse> .
+<https://github.com/john1hsu/chess-graph/id/bughouse> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/pawn-promotion> .
+<https://github.com/john1hsu/chess-graph/id/bughouse> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bughouse/s1> .
+<https://github.com/john1hsu/chess-graph/id/bughouse> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bughouse/s2> .
+<https://github.com/john1hsu/chess-graph/id/bughouse> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bughouse/s3> .
+<https://github.com/john1hsu/chess-graph/id/bughouse> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bughouse/s4> .
+<https://github.com/john1hsu/chess-graph/id/bughouse> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bughouse/s5> .
+<https://github.com/john1hsu/chess-graph/id/bughouse> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bughouse/s6> .
+<https://github.com/john1hsu/chess-graph/id/bughouse> <https://github.com/john1hsu/chess-graph/ontology#domain> "variants-and-compositions" .
+<https://github.com/john1hsu/chess-graph/id/bughouse> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/us-chess> .
+<https://github.com/john1hsu/chess-graph/id/bughouse> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/bughouse> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/sacrifice> .
+<https://github.com/john1hsu/chess-graph/id/bughouse> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-13" .
 <https://github.com/john1hsu/chess-graph/id/calculation> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/calculation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Technique> .
 <https://github.com/john1hsu/chess-graph/id/calculation> <http://www.w3.org/2000/01/rdf-schema#label> "Calculation" .
@@ -3701,6 +3725,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s6> <https://schema.org/url> "https://chesshistory.com/winter/extra/byrnefischer.html" .
+<https://github.com/john1hsu/chess-graph/id/source/bughouse/s1> <http://purl.org/dc/terms/publisher> "Hellenic Chess Federation (chessfed.gr), WCCC 2007 event files" .
+<https://github.com/john1hsu/chess-graph/id/source/bughouse/s1> <http://purl.org/dc/terms/title> "Laws of Bughouse chess (OTB), Document Version 1.00" .
+<https://github.com/john1hsu/chess-graph/id/source/bughouse/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bughouse/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/bughouse/s1> <https://schema.org/url> "https://www.chessfed.gr/old_site/wccc2007/files/bughouse_chess_complete_rules.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/bughouse/s2> <http://purl.org/dc/terms/publisher> "Northwest Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/bughouse/s2> <http://purl.org/dc/terms/title> "Bughouse Rules (revised March 1, 2004; as posted by USCF at the 2006 National High School Championships)" .
+<https://github.com/john1hsu/chess-graph/id/source/bughouse/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bughouse/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/bughouse/s2> <https://schema.org/url> "https://nwchess.com/articles/rules/bughouse_rules.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/bughouse/s3> <http://purl.org/dc/terms/publisher> "US Chess Federation" .
+<https://github.com/john1hsu/chess-graph/id/source/bughouse/s3> <http://purl.org/dc/terms/title> "National Bughouse Championship, SuperNationals VIII" .
+<https://github.com/john1hsu/chess-graph/id/source/bughouse/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bughouse/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/bughouse/s3> <https://schema.org/url> "https://new.uschess.org/supernationals-2025/bughouse" .
+<https://github.com/john1hsu/chess-graph/id/source/bughouse/s4> <http://purl.org/dc/terms/publisher> "Czech, Willig, Beyer, Kersting & Fürnkranz, Frontiers in Artificial Intelligence 3:24 (2020)" .
+<https://github.com/john1hsu/chess-graph/id/source/bughouse/s4> <http://purl.org/dc/terms/title> "Learning to Play the Chess Variant Crazyhouse Above World Champion Level With Deep Neural Networks and Human Data" .
+<https://github.com/john1hsu/chess-graph/id/source/bughouse/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bughouse/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/bughouse/s4> <https://schema.org/url> "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2020.00024/pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/bughouse/s5> <http://purl.org/dc/terms/publisher> "Chess.com Help Center" .
+<https://github.com/john1hsu/chess-graph/id/source/bughouse/s5> <http://purl.org/dc/terms/title> "What is Bughouse?" .
+<https://github.com/john1hsu/chess-graph/id/source/bughouse/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bughouse/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/bughouse/s5> <https://schema.org/url> "https://support.chess.com/en/articles/8615092-what-is-bughouse" .
+<https://github.com/john1hsu/chess-graph/id/source/bughouse/s6> <http://purl.org/dc/terms/publisher> "Lichess blog (MrPushwood)" .
+<https://github.com/john1hsu/chess-graph/id/source/bughouse/s6> <http://purl.org/dc/terms/title> "When Bughouse Was New!" .
+<https://github.com/john1hsu/chess-graph/id/source/bughouse/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bughouse/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/bughouse/s6> <https://schema.org/url> "https://lichess.org/@/MrPushwood/blog/when-bughouse-was-new/bUxg53cG" .
 <https://github.com/john1hsu/chess-graph/id/source/calculation/s1> <http://purl.org/dc/terms/publisher> "Batsford Books" .
 <https://github.com/john1hsu/chess-graph/id/source/calculation/s1> <http://purl.org/dc/terms/title> "Think Like a Grandmaster (A. A. Kotov)" .
 <https://github.com/john1hsu/chess-graph/id/source/calculation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

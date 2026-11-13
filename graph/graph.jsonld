@@ -11379,6 +11379,92 @@
       ]
     },
     {
+      "@id": "kt:bughouse",
+      "@type": "kto:Variant",
+      "skos:prefLabel": "Bughouse",
+      "skos:definition": "A four-player team variant of chess played on two boards at once, in which each partner has the opposite colour and every piece a player captures is handed to the partner, who may drop it onto any empty square of their own board instead of making a normal move.",
+      "kto:domain": "variants-and-compositions",
+      "dcterms:created": "2026-11-13",
+      "kto:verified": "2026-11-13",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Laws of Bughouse chess (OTB), Document Version 1.00",
+          "dcterms:publisher": "Hellenic Chess Federation (chessfed.gr), WCCC 2007 event files",
+          "schema:url": "https://www.chessfed.gr/old_site/wccc2007/files/bughouse_chess_complete_rules.pdf",
+          "kto:sourceType": "primary-record"
+        },
+        {
+          "dcterms:title": "Bughouse Rules (revised March 1, 2004; as posted by USCF at the 2006 National High School Championships)",
+          "dcterms:publisher": "Northwest Chess",
+          "schema:url": "https://nwchess.com/articles/rules/bughouse_rules.htm",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "National Bughouse Championship, SuperNationals VIII",
+          "dcterms:publisher": "US Chess Federation",
+          "schema:url": "https://new.uschess.org/supernationals-2025/bughouse",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "Learning to Play the Chess Variant Crazyhouse Above World Champion Level With Deep Neural Networks and Human Data",
+          "dcterms:publisher": "Czech, Willig, Beyer, Kersting & Fürnkranz, Frontiers in Artificial Intelligence 3:24 (2020)",
+          "schema:url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2020.00024/pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "What is Bughouse?",
+          "dcterms:publisher": "Chess.com Help Center",
+          "schema:url": "https://support.chess.com/en/articles/8615092-what-is-bughouse",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "When Bughouse Was New!",
+          "dcterms:publisher": "Lichess blog (MrPushwood)",
+          "schema:url": "https://lichess.org/@/MrPushwood/blog/when-bughouse-was-new/bUxg53cG",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/variants-and-compositions/bughouse.md",
+      "skos:altLabel": [
+        "Bughouse chess",
+        "Double bughouse"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess-variants"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:crazyhouse"
+        },
+        {
+          "@id": "kt:blitz-chess"
+        },
+        {
+          "@id": "kt:checkmate"
+        },
+        {
+          "@id": "kt:pawn-promotion"
+        },
+        {
+          "@id": "kt:chess960"
+        }
+      ],
+      "kto:sanctionedBy": [
+        {
+          "@id": "kt:us-chess"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:sacrifice"
+        }
+      ]
+    },
+    {
       "@id": "kt:chess-composition",
       "@type": "kto:Concept",
       "skos:prefLabel": "Chess composition",
