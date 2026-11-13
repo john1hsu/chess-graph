@@ -5026,6 +5026,104 @@
       ]
     },
     {
+      "@id": "kt:world-chess-championship-1886",
+      "@type": "kto:Event",
+      "skos:prefLabel": "World Chess Championship 1886",
+      "skos:definition": "The 1886 match in New York, Saint Louis and New Orleans, played expressly \"for the Championship of the World\", in which Wilhelm Steinitz beat Johannes Zukertort by ten wins to five with five draws, and which is regarded as the first official world chess championship.",
+      "kto:domain": "history",
+      "dcterms:created": "2026-11-13",
+      "kto:verified": "2026-11-13",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "World Chess Championship :: New York City, Saint Louis, New Orleans 1886",
+          "dcterms:publisher": "OlimpBase (Wojciech Bartelski)",
+          "schema:url": "https://www.olimpbase.org/ind-wcc/wc1886-wch.html",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "Chess in the 19th century. Milestones of 1886",
+          "dcterms:publisher": "FIDE Historical Committee (Sergio Ernesto Negri)",
+          "schema:url": "https://his.fide.com/2026/05/08/chess-in-the-19th-century-milestones-of-1886/",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The First World Chess Champion",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://chesshistory.com/winter/extra/champion.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Johannes Zukertort",
+          "dcterms:publisher": "World Chess Hall of Fame",
+          "schema:url": "https://worldchesshof.org/?p=833",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Johannes Zukertort and the First World Chess Championship Match",
+          "dcterms:publisher": "ChessBase News (Eugene Manlapao)",
+          "schema:url": "https://en.chessbase.com/post/johannes-zukertort-and-the-first-world-chess-championship-match",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Steinitz-Zukertort, 1886 (game 1, from The Collected Works of Wilhelm Steinitz)",
+          "dcterms:publisher": "ChessCentral",
+          "schema:url": "https://chesscentral.com/steinitz-zukertort-1886",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/history/world-chess-championship-1886.md",
+      "skos:altLabel": [
+        "Steinitz–Zukertort 1886",
+        "Steinitz versus Zukertort 1886",
+        "Steinitz vs Zukertort 1886",
+        "Zukertort–Steinitz 1886",
+        "Steinitz–Zukertort match",
+        "First World Chess Championship match"
+      ],
+      "kto:fen": "1r6/p7/2p4R/P1Pp1kp1/3P1bp1/2K5/4N1q1/5R2 w - - 2 47",
+      "skos:broader": [
+        {
+          "@id": "kt:world-chess-championship"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:romantic-era"
+        },
+        {
+          "@id": "kt:slav-defence"
+        },
+        {
+          "@id": "kt:london-1883"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:world-chess-championship"
+        }
+      ],
+      "kto:playedBy": [
+        {
+          "@id": "kt:wilhelm-steinitz"
+        },
+        {
+          "@id": "kt:johannes-zukertort"
+        }
+      ],
+      "kto:wonBy": [
+        {
+          "@id": "kt:wilhelm-steinitz"
+        }
+      ],
+      "kto:organizedBy": [
+        {
+          "@id": "kt:manhattan-chess-club"
+        }
+      ]
+    },
+    {
       "@id": "kt:world-chess-championship",
       "@type": "kto:Event",
       "skos:prefLabel": "World Chess Championship",

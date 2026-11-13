@@ -7983,6 +7983,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
 <https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s7> <https://schema.org/url> "https://www.fide.com/fide-womens-candidates-2026-a-clash-of-generations/" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s1> <http://purl.org/dc/terms/publisher> "OlimpBase (Wojciech Bartelski)" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s1> <http://purl.org/dc/terms/title> "World Chess Championship :: New York City, Saint Louis, New Orleans 1886" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s1> <https://schema.org/url> "https://www.olimpbase.org/ind-wcc/wc1886-wch.html" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s2> <http://purl.org/dc/terms/publisher> "FIDE Historical Committee (Sergio Ernesto Negri)" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s2> <http://purl.org/dc/terms/title> "Chess in the 19th century. Milestones of 1886" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s2> <https://schema.org/url> "https://his.fide.com/2026/05/08/chess-in-the-19th-century-milestones-of-1886/" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s3> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s3> <http://purl.org/dc/terms/title> "The First World Chess Champion" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s3> <https://schema.org/url> "https://chesshistory.com/winter/extra/champion.html" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s4> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s4> <http://purl.org/dc/terms/title> "Johannes Zukertort" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s4> <https://schema.org/url> "https://worldchesshof.org/?p=833" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s5> <http://purl.org/dc/terms/publisher> "ChessBase News (Eugene Manlapao)" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s5> <http://purl.org/dc/terms/title> "Johannes Zukertort and the First World Chess Championship Match" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s5> <https://schema.org/url> "https://en.chessbase.com/post/johannes-zukertort-and-the-first-world-chess-championship-match" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s6> <http://purl.org/dc/terms/publisher> "ChessCentral" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s6> <http://purl.org/dc/terms/title> "Steinitz-Zukertort, 1886 (game 1, from The Collected Works of Wilhelm Steinitz)" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s6> <https://schema.org/url> "https://chesscentral.com/steinitz-zukertort-1886" .
 <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s1> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
 <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s1> <http://purl.org/dc/terms/title> "World Chess Championship Timeline (exhibition panel, PDF)" .
 <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -8463,6 +8493,36 @@
 <https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/ju-wenjun> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Event> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> <http://www.w3.org/2000/01/rdf-schema#label> "World Chess Championship 1886" .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> <http://www.w3.org/2004/02/skos/core#altLabel> "First World Chess Championship match" .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> <http://www.w3.org/2004/02/skos/core#altLabel> "Steinitz versus Zukertort 1886" .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> <http://www.w3.org/2004/02/skos/core#altLabel> "Steinitz vs Zukertort 1886" .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> <http://www.w3.org/2004/02/skos/core#altLabel> "Steinitz–Zukertort 1886" .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> <http://www.w3.org/2004/02/skos/core#altLabel> "Steinitz–Zukertort match" .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> <http://www.w3.org/2004/02/skos/core#altLabel> "Zukertort–Steinitz 1886" .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> <http://www.w3.org/2004/02/skos/core#definition> "The 1886 match in New York, Saint Louis and New Orleans, played expressly \"for the Championship of the World\", in which Wilhelm Steinitz beat Johannes Zukertort by ten wins to five with five draws, and which is regarded as the first official world chess championship." .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> <http://www.w3.org/2004/02/skos/core#prefLabel> "World Chess Championship 1886" .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/london-1883> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/romantic-era> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/slav-defence> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s1> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s2> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s3> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s4> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s5> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s6> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> <https://github.com/john1hsu/chess-graph/ontology#domain> "history" .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> <https://github.com/john1hsu/chess-graph/ontology#fen> "1r6/p7/2p4R/P1Pp1kp1/3P1bp1/2K5/4N1q1/5R2 w - - 2 47" .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> <https://github.com/john1hsu/chess-graph/ontology#organizedBy> <https://github.com/john1hsu/chess-graph/id/manhattan-chess-club> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> <https://github.com/john1hsu/chess-graph/ontology#playedBy> <https://github.com/john1hsu/chess-graph/id/johannes-zukertort> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> <https://github.com/john1hsu/chess-graph/ontology#playedBy> <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-13" .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> .
 <https://github.com/john1hsu/chess-graph/id/world-chess-championship> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/world-chess-championship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Event> .
 <https://github.com/john1hsu/chess-graph/id/world-chess-championship> <http://www.w3.org/2000/01/rdf-schema#label> "World Chess Championship" .

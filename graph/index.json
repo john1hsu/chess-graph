@@ -3707,6 +3707,33 @@
     ]
   },
   {
+    "id": "kt:world-chess-championship-1886",
+    "title": "World Chess Championship 1886",
+    "aliases": [
+      "Steinitz–Zukertort 1886",
+      "Steinitz versus Zukertort 1886",
+      "Steinitz vs Zukertort 1886",
+      "Zukertort–Steinitz 1886",
+      "Steinitz–Zukertort match",
+      "First World Chess Championship match"
+    ],
+    "type": "Event",
+    "domain": "history",
+    "file": "articles/history/world-chess-championship-1886.md",
+    "created": "2026-11-13",
+    "verified": "2026-11-13",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://www.olimpbase.org/ind-wcc/wc1886-wch.html",
+      "https://his.fide.com/2026/05/08/chess-in-the-19th-century-milestones-of-1886/",
+      "https://chesshistory.com/winter/extra/champion.html",
+      "https://worldchesshof.org/?p=833",
+      "https://en.chessbase.com/post/johannes-zukertort-and-the-first-world-chess-championship-match",
+      "https://chesscentral.com/steinitz-zukertort-1886"
+    ]
+  },
+  {
     "id": "kt:world-federation-for-chess-composition",
     "title": "World Federation for Chess Composition",
     "aliases": [
