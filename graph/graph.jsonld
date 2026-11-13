@@ -13383,6 +13383,113 @@
           "@id": "kt:endgame-tablebases"
         }
       ]
+    },
+    {
+      "@id": "kt:selfmate",
+      "@type": "kto:ProblemGenre",
+      "skos:prefLabel": "Selfmate",
+      "skos:definition": "A chess problem genre in which White moves first and must force an unwilling Black to deliver checkmate within a stated number of moves; Black defends by trying to avoid giving mate.",
+      "kto:domain": "variants-and-compositions",
+      "dcterms:created": "2026-11-13",
+      "kto:verified": "2026-11-13",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Chess: Chess composition",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/chess/Chess-composition",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Codex of Chess Compositions (version Vilnius 2019)",
+          "dcterms:publisher": "World Federation for Chess Composition (WFCC)",
+          "schema:url": "https://www.wfcc.ch/?p=198",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Chess glossary (Freshman Seminar 23j: Chess and Mathematics)",
+          "dcterms:publisher": "Noam Elkies, Harvard University, Department of Mathematics",
+          "schema:url": "https://people.math.harvard.edu/~elkies/FS23j.05/glossary_chess.html",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Selfmates & Reflexmates (beginners' guide)",
+          "dcterms:publisher": "British Chess Problem Society, The Problemist",
+          "schema:url": "https://theproblemist.org/beginner.pl?type=b_sr",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Glossary of chess problem terms",
+          "dcterms:publisher": "British Chess Problem Society",
+          "schema:url": "https://www.theproblemist.org/dloads/Glossary.pdf",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Selfmates (Problem World)",
+          "dcterms:publisher": "Peter Wong, OzProblems",
+          "schema:url": "https://www.ozproblems.com/problem-world/selfmates",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "Problem World introduction to selfmates",
+          "dcterms:publisher": "Peter Wong, OzProblems Walkabout, 8 August 2019",
+          "schema:url": "https://www.ozproblems.com/walkabout/walkabout2019/aug8",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "Christmas puzzles: I'll force you to mate!",
+          "dcterms:publisher": "Frederic Friedel, ChessBase News, 29 December 2020",
+          "schema:url": "https://en.chessbase.com/post/christmas-puzzles-i-ll-force-you-to-mate",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/variants-and-compositions/selfmate.md",
+      "skos:altLabel": [
+        "Selfmates",
+        "Self-mate",
+        "Sui-mate",
+        "Suimate",
+        "s#"
+      ],
+      "kto:fen": "7k/8/8/5Q2/8/2p5/p1p1p3/2KbN3 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-problems"
+        },
+        {
+          "@id": "kt:chess-composition"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:checkmate"
+        },
+        {
+          "@id": "kt:zugzwang"
+        },
+        {
+          "@id": "kt:pawn-promotion"
+        },
+        {
+          "@id": "kt:reflexmate"
+        }
+      ],
+      "kto:governedBy": [
+        {
+          "@id": "kt:codex-of-chess-composition"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:helpmate"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:battery"
+        }
+      ]
     }
   ]
 }

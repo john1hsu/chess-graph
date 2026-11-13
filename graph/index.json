@@ -3031,6 +3031,34 @@
     ]
   },
   {
+    "id": "kt:selfmate",
+    "title": "Selfmate",
+    "aliases": [
+      "Selfmates",
+      "Self-mate",
+      "Sui-mate",
+      "Suimate",
+      "s#"
+    ],
+    "type": "ProblemGenre",
+    "domain": "variants-and-compositions",
+    "file": "articles/variants-and-compositions/selfmate.md",
+    "created": "2026-11-13",
+    "verified": "2026-11-13",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.britannica.com/topic/chess/Chess-composition",
+      "https://www.wfcc.ch/?p=198",
+      "https://people.math.harvard.edu/~elkies/FS23j.05/glossary_chess.html",
+      "https://theproblemist.org/beginner.pl?type=b_sr",
+      "https://www.theproblemist.org/dloads/Glossary.pdf",
+      "https://www.ozproblems.com/problem-world/selfmates",
+      "https://www.ozproblems.com/walkabout/walkabout2019/aug8",
+      "https://en.chessbase.com/post/christmas-puzzles-i-ll-force-you-to-mate"
+    ]
+  },
+  {
     "id": "kt:semi-open-games",
     "title": "Semi-open games",
     "aliases": [

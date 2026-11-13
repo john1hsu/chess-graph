@@ -3391,6 +3391,37 @@
 <https://github.com/john1hsu/chess-graph/id/sacrifice> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/gambit> .
 <https://github.com/john1hsu/chess-graph/id/sacrifice> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/sacrifice> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/selfmate> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/chess-graph/id/selfmate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#ProblemGenre> .
+<https://github.com/john1hsu/chess-graph/id/selfmate> <http://www.w3.org/2000/01/rdf-schema#label> "Selfmate" .
+<https://github.com/john1hsu/chess-graph/id/selfmate> <http://www.w3.org/2004/02/skos/core#altLabel> "Self-mate" .
+<https://github.com/john1hsu/chess-graph/id/selfmate> <http://www.w3.org/2004/02/skos/core#altLabel> "Selfmates" .
+<https://github.com/john1hsu/chess-graph/id/selfmate> <http://www.w3.org/2004/02/skos/core#altLabel> "Sui-mate" .
+<https://github.com/john1hsu/chess-graph/id/selfmate> <http://www.w3.org/2004/02/skos/core#altLabel> "Suimate" .
+<https://github.com/john1hsu/chess-graph/id/selfmate> <http://www.w3.org/2004/02/skos/core#altLabel> "s#" .
+<https://github.com/john1hsu/chess-graph/id/selfmate> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-composition> .
+<https://github.com/john1hsu/chess-graph/id/selfmate> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-problems> .
+<https://github.com/john1hsu/chess-graph/id/selfmate> <http://www.w3.org/2004/02/skos/core#definition> "A chess problem genre in which White moves first and must force an unwilling Black to deliver checkmate within a stated number of moves; Black defends by trying to avoid giving mate." .
+<https://github.com/john1hsu/chess-graph/id/selfmate> <http://www.w3.org/2004/02/skos/core#prefLabel> "Selfmate" .
+<https://github.com/john1hsu/chess-graph/id/selfmate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/checkmate> .
+<https://github.com/john1hsu/chess-graph/id/selfmate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/pawn-promotion> .
+<https://github.com/john1hsu/chess-graph/id/selfmate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/reflexmate> .
+<https://github.com/john1hsu/chess-graph/id/selfmate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/zugzwang> .
+<https://github.com/john1hsu/chess-graph/id/selfmate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/selfmate/s1> .
+<https://github.com/john1hsu/chess-graph/id/selfmate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/selfmate/s2> .
+<https://github.com/john1hsu/chess-graph/id/selfmate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/selfmate/s3> .
+<https://github.com/john1hsu/chess-graph/id/selfmate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/selfmate/s4> .
+<https://github.com/john1hsu/chess-graph/id/selfmate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/selfmate/s5> .
+<https://github.com/john1hsu/chess-graph/id/selfmate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/selfmate/s6> .
+<https://github.com/john1hsu/chess-graph/id/selfmate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/selfmate/s7> .
+<https://github.com/john1hsu/chess-graph/id/selfmate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/selfmate/s8> .
+<https://github.com/john1hsu/chess-graph/id/selfmate> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/helpmate> .
+<https://github.com/john1hsu/chess-graph/id/selfmate> <https://github.com/john1hsu/chess-graph/ontology#domain> "variants-and-compositions" .
+<https://github.com/john1hsu/chess-graph/id/selfmate> <https://github.com/john1hsu/chess-graph/ontology#fen> "7k/8/8/5Q2/8/2p5/p1p1p3/2KbN3 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/selfmate> <https://github.com/john1hsu/chess-graph/ontology#governedBy> <https://github.com/john1hsu/chess-graph/id/codex-of-chess-composition> .
+<https://github.com/john1hsu/chess-graph/id/selfmate> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/selfmate> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/battery> .
+<https://github.com/john1hsu/chess-graph/id/selfmate> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-13" .
 <https://github.com/john1hsu/chess-graph/id/semi-open-games> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/chess-graph/id/semi-open-games> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Concept> .
 <https://github.com/john1hsu/chess-graph/id/semi-open-games> <http://www.w3.org/2000/01/rdf-schema#label> "Semi-open games" .
@@ -7062,6 +7093,46 @@
 <https://github.com/john1hsu/chess-graph/id/source/sacrifice/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/sacrifice/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
 <https://github.com/john1hsu/chess-graph/id/source/sacrifice/s6> <https://schema.org/url> "https://www.chesshistory.com/winter/extra/combination.html" .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s1> <http://purl.org/dc/terms/title> "Chess: Chess composition" .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s1> <https://schema.org/url> "https://www.britannica.com/topic/chess/Chess-composition" .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s2> <http://purl.org/dc/terms/publisher> "World Federation for Chess Composition (WFCC)" .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s2> <http://purl.org/dc/terms/title> "Codex of Chess Compositions (version Vilnius 2019)" .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s2> <https://schema.org/url> "https://www.wfcc.ch/?p=198" .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s3> <http://purl.org/dc/terms/publisher> "Noam Elkies, Harvard University, Department of Mathematics" .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s3> <http://purl.org/dc/terms/title> "Chess glossary (Freshman Seminar 23j: Chess and Mathematics)" .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s3> <https://schema.org/url> "https://people.math.harvard.edu/~elkies/FS23j.05/glossary_chess.html" .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s4> <http://purl.org/dc/terms/publisher> "British Chess Problem Society, The Problemist" .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s4> <http://purl.org/dc/terms/title> "Selfmates & Reflexmates (beginners' guide)" .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s4> <https://schema.org/url> "https://theproblemist.org/beginner.pl?type=b_sr" .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s5> <http://purl.org/dc/terms/publisher> "British Chess Problem Society" .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s5> <http://purl.org/dc/terms/title> "Glossary of chess problem terms" .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s5> <https://schema.org/url> "https://www.theproblemist.org/dloads/Glossary.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s6> <http://purl.org/dc/terms/publisher> "Peter Wong, OzProblems" .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s6> <http://purl.org/dc/terms/title> "Selfmates (Problem World)" .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s6> <https://schema.org/url> "https://www.ozproblems.com/problem-world/selfmates" .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s7> <http://purl.org/dc/terms/publisher> "Peter Wong, OzProblems Walkabout, 8 August 2019" .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s7> <http://purl.org/dc/terms/title> "Problem World introduction to selfmates" .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s7> <https://schema.org/url> "https://www.ozproblems.com/walkabout/walkabout2019/aug8" .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s8> <http://purl.org/dc/terms/publisher> "Frederic Friedel, ChessBase News, 29 December 2020" .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s8> <http://purl.org/dc/terms/title> "Christmas puzzles: I'll force you to mate!" .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s8> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/selfmate/s8> <https://schema.org/url> "https://en.chessbase.com/post/christmas-puzzles-i-ll-force-you-to-mate" .
 <https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s1> <http://purl.org/dc/terms/publisher> "ChessBase Learn" .
 <https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s1> <http://purl.org/dc/terms/title> "Semi-open games" .
 <https://github.com/john1hsu/chess-graph/id/source/semi-open-games/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

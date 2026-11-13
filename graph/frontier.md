@@ -74,6 +74,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:artificial-intelligence` | `kt:computer-chess` |
 | `kt:as-suli` | `kt:shatranj` |
 | `kt:baden-baden-1870` | `kt:adolf-anderssen` |
+| `kt:battery` | `kt:selfmate` |
 | `kt:blitz-chess` | `kt:bughouse` |
 | `kt:board-representation` | `kt:bitboards` |
 | `kt:breakthrough` | `kt:passed-pawn` |
@@ -165,6 +166,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:proof-game` | `kt:retrograde-analysis` |
 | `kt:proof-number-search` | `kt:game-tree-search` |
 | `kt:puzzle-training` | `kt:deliberate-practice` |
+| `kt:reflexmate` | `kt:selfmate` |
 | `kt:reinforcement-learning` | `kt:alphazero` |
 | `kt:remi-coulom` | `kt:monte-carlo-tree-search` |
 | `kt:reshevsky-versus-petrosian-zurich-1953` | `kt:sacrifice` |
@@ -182,7 +184,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:same-coloured-bishops` | `kt:opposite-coloured-bishops` |
 | `kt:samisch-variation` | `kt:nimzo-indian-defence` |
 | `kt:samuel-reshevsky` | `kt:us-chess-championship` |
-| `kt:selfmate` | `kt:helpmate` |
 | `kt:semi-slav-defence` | `kt:slav-defence` |
 | `kt:shogi` | `kt:chess-variants` |
 | `kt:shuffle-chess` | `kt:chess960` |
