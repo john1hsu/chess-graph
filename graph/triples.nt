@@ -7960,6 +7960,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
 <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s6> <https://schema.org/url> "https://www.fide.com/geneva-to-host-fide-world-championship-match-2026/" .
+<https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s1> <http://purl.org/dc/terms/publisher> "Klaus Wenda, World Federation for Chess Composition (wfcc.ch, September 2007)" .
+<https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s1> <http://purl.org/dc/terms/title> "The 50th Anniversary Meeting of the Permanent Commission of the FIDÉ for Chess Composition (PCCC)" .
+<https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s1> <https://schema.org/url> "https://wfcc.ch/?p=381" .
+<https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s2> <http://purl.org/dc/terms/publisher> "World Federation for Chess Composition (wfcc.ch)" .
+<https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s2> <http://purl.org/dc/terms/title> "WFCC Statutes (accepted 19 October 2010, Hersonissos, Crete)" .
+<https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s2> <https://schema.org/url> "https://www.wfcc.ch/?p=435" .
+<https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s3> <http://purl.org/dc/terms/publisher> "World Federation for Chess Composition (wfcc.ch)" .
+<https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s3> <http://purl.org/dc/terms/title> "53rd PCCC Crete" .
+<https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s3> <https://schema.org/url> "https://www.wfcc.ch/?p=206" .
+<https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s4> <http://purl.org/dc/terms/publisher> "FIDE (fide.com, 14 August 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s4> <http://purl.org/dc/terms/title> "Marjan Kovacevic re-elected as WFCC President; Germany wins gold at the 49th World Chess Solving Championship" .
+<https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s4> <https://schema.org/url> "https://www.fide.com/marjan-kovacevic-re-elected-as-wfcc-president-germany-wins-gold-at-the-49th-world-chess-solving-championship/" .
+<https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s5> <http://purl.org/dc/terms/publisher> "Aletihad (22 January 2024)" .
+<https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s5> <http://purl.org/dc/terms/title> "World Federation for Chess Composition moving HQ to Fujairah" .
+<https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s5> <https://schema.org/url> "https://en.aletihad.ae/news/sport/4458306/world-federation-for-chess-composition-moving-hq-to-fujairah" .
+<https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s6> <http://purl.org/dc/terms/publisher> "Siegfried Hornecker, ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s6> <http://purl.org/dc/terms/title> "Understanding chess composition competition (Study of the Month)" .
+<https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s6> <https://schema.org/url> "https://en.chessbase.com/post/study-of-the-month-2019-8" .
 <https://github.com/john1hsu/chess-graph/id/source/zugzwang/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
 <https://github.com/john1hsu/chess-graph/id/source/zugzwang/s1> <http://purl.org/dc/terms/title> "Zugzwang (Chess Notes feature article)" .
 <https://github.com/john1hsu/chess-graph/id/source/zugzwang/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -8408,6 +8438,31 @@
 <https://github.com/john1hsu/chess-graph/id/world-chess-championship> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/fide> .
 <https://github.com/john1hsu/chess-graph/id/world-chess-championship> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/world-chess-championship> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/world-federation-for-chess-composition> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/chess-graph/id/world-federation-for-chess-composition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Organization> .
+<https://github.com/john1hsu/chess-graph/id/world-federation-for-chess-composition> <http://www.w3.org/2000/01/rdf-schema#label> "World Federation for Chess Composition" .
+<https://github.com/john1hsu/chess-graph/id/world-federation-for-chess-composition> <http://www.w3.org/2004/02/skos/core#altLabel> "FIDE Permanent Commission for Chess Composition" .
+<https://github.com/john1hsu/chess-graph/id/world-federation-for-chess-composition> <http://www.w3.org/2004/02/skos/core#altLabel> "PCCC" .
+<https://github.com/john1hsu/chess-graph/id/world-federation-for-chess-composition> <http://www.w3.org/2004/02/skos/core#altLabel> "Permanent Commission of FIDE for Chess Compositions" .
+<https://github.com/john1hsu/chess-graph/id/world-federation-for-chess-composition> <http://www.w3.org/2004/02/skos/core#altLabel> "WFCC" .
+<https://github.com/john1hsu/chess-graph/id/world-federation-for-chess-composition> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-organizations> .
+<https://github.com/john1hsu/chess-graph/id/world-federation-for-chess-composition> <http://www.w3.org/2004/02/skos/core#definition> "The international body for chess problems and endgame studies, founded in 1956 as FIDE's Permanent Commission for Chess Composition and independent under its present name since 2010; it sets composition rules, runs world composing and solving championships, publishes the FIDE Albums and awards titles with FIDE." .
+<https://github.com/john1hsu/chess-graph/id/world-federation-for-chess-composition> <http://www.w3.org/2004/02/skos/core#prefLabel> "World Federation for Chess Composition" .
+<https://github.com/john1hsu/chess-graph/id/world-federation-for-chess-composition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-composition> .
+<https://github.com/john1hsu/chess-graph/id/world-federation-for-chess-composition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-problems> .
+<https://github.com/john1hsu/chess-graph/id/world-federation-for-chess-composition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-titles> .
+<https://github.com/john1hsu/chess-graph/id/world-federation-for-chess-composition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/codex-of-chess-composition> .
+<https://github.com/john1hsu/chess-graph/id/world-federation-for-chess-composition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/endgame-study> .
+<https://github.com/john1hsu/chess-graph/id/world-federation-for-chess-composition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fide> .
+<https://github.com/john1hsu/chess-graph/id/world-federation-for-chess-composition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s1> .
+<https://github.com/john1hsu/chess-graph/id/world-federation-for-chess-composition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s2> .
+<https://github.com/john1hsu/chess-graph/id/world-federation-for-chess-composition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s3> .
+<https://github.com/john1hsu/chess-graph/id/world-federation-for-chess-composition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s4> .
+<https://github.com/john1hsu/chess-graph/id/world-federation-for-chess-composition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s5> .
+<https://github.com/john1hsu/chess-graph/id/world-federation-for-chess-composition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s6> .
+<https://github.com/john1hsu/chess-graph/id/world-federation-for-chess-composition> <https://github.com/john1hsu/chess-graph/ontology#domain> "events-and-organizations" .
+<https://github.com/john1hsu/chess-graph/id/world-federation-for-chess-composition> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/world-federation-for-chess-composition> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-13" .
 <https://github.com/john1hsu/chess-graph/id/zugzwang> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/zugzwang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
 <https://github.com/john1hsu/chess-graph/id/zugzwang> <http://www.w3.org/2000/01/rdf-schema#label> "Zugzwang" .

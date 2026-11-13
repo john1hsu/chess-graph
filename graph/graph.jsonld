@@ -3776,6 +3776,87 @@
       ]
     },
     {
+      "@id": "kt:world-federation-for-chess-composition",
+      "@type": "kto:Organization",
+      "skos:prefLabel": "World Federation for Chess Composition",
+      "skos:definition": "The international body for chess problems and endgame studies, founded in 1956 as FIDE's Permanent Commission for Chess Composition and independent under its present name since 2010; it sets composition rules, runs world composing and solving championships, publishes the FIDE Albums and awards titles with FIDE.",
+      "kto:domain": "events-and-organizations",
+      "dcterms:created": "2026-11-13",
+      "kto:verified": "2026-11-13",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The 50th Anniversary Meeting of the Permanent Commission of the FIDÉ for Chess Composition (PCCC)",
+          "dcterms:publisher": "Klaus Wenda, World Federation for Chess Composition (wfcc.ch, September 2007)",
+          "schema:url": "https://wfcc.ch/?p=381",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "WFCC Statutes (accepted 19 October 2010, Hersonissos, Crete)",
+          "dcterms:publisher": "World Federation for Chess Composition (wfcc.ch)",
+          "schema:url": "https://www.wfcc.ch/?p=435",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "53rd PCCC Crete",
+          "dcterms:publisher": "World Federation for Chess Composition (wfcc.ch)",
+          "schema:url": "https://www.wfcc.ch/?p=206",
+          "kto:sourceType": "primary-record"
+        },
+        {
+          "dcterms:title": "Marjan Kovacevic re-elected as WFCC President; Germany wins gold at the 49th World Chess Solving Championship",
+          "dcterms:publisher": "FIDE (fide.com, 14 August 2026)",
+          "schema:url": "https://www.fide.com/marjan-kovacevic-re-elected-as-wfcc-president-germany-wins-gold-at-the-49th-world-chess-solving-championship/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "World Federation for Chess Composition moving HQ to Fujairah",
+          "dcterms:publisher": "Aletihad (22 January 2024)",
+          "schema:url": "https://en.aletihad.ae/news/sport/4458306/world-federation-for-chess-composition-moving-hq-to-fujairah",
+          "kto:sourceType": "news"
+        },
+        {
+          "dcterms:title": "Understanding chess composition competition (Study of the Month)",
+          "dcterms:publisher": "Siegfried Hornecker, ChessBase News",
+          "schema:url": "https://en.chessbase.com/post/study-of-the-month-2019-8",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/events-and-organizations/world-federation-for-chess-composition.md",
+      "skos:altLabel": [
+        "WFCC",
+        "PCCC",
+        "FIDE Permanent Commission for Chess Composition",
+        "Permanent Commission of FIDE for Chess Compositions"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess-organizations"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:chess-composition"
+        },
+        {
+          "@id": "kt:codex-of-chess-composition"
+        },
+        {
+          "@id": "kt:chess-problems"
+        },
+        {
+          "@id": "kt:endgame-study"
+        },
+        {
+          "@id": "kt:fide"
+        },
+        {
+          "@id": "kt:chess-titles"
+        }
+      ]
+    },
+    {
       "@id": "kt:chaturanga",
       "@type": "kto:Variant",
       "skos:prefLabel": "Chaturanga",

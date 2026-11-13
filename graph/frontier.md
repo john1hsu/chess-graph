@@ -11,6 +11,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alekhines-defence` | `kt:fischer-spassky-1972`, `kt:hypermodernism`, `kt:semi-open-games` |
 | `kt:alexander-alekhine` | `kt:slav-defence`, `kt:jose-raul-capablanca`, `kt:blindfold-chess` |
 | `kt:boris-spassky` | `kt:fischer-spassky-1972`, `kt:bobby-fischer`, `kt:tigran-petrosian` |
+| `kt:chess-organizations` | `kt:fide`, `kt:us-chess`, `kt:world-federation-for-chess-composition` |
 | `kt:corresponding-squares` | `kt:key-squares`, `kt:triangulation`, `kt:triangulation` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position`, `kt:rook-endgames` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search`, `kt:progressive-deepening` |
@@ -26,7 +27,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:berlin-defence` | `kt:alphazero`, `kt:ruy-lopez` |
 | `kt:botvinnik-versus-capablanca-avro-1938` | `kt:soviet-chess-school`, `kt:mikhail-botvinnik` |
 | `kt:chess-openings` | `kt:open-games`, `kt:semi-open-games` |
-| `kt:chess-organizations` | `kt:fide`, `kt:us-chess` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
 | `kt:dragon-variation` | `kt:najdorf-variation`, `kt:sicilian-defence` |
 | `kt:gambit` | `kt:evans-gambit`, `kt:sacrifice` |
@@ -59,7 +59,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:transposition-table` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:underpromotion` | `kt:pawn-promotion`, `kt:excelsior` |
 | `kt:world-chess-championship-1886` | `kt:world-chess-championship`, `kt:wilhelm-steinitz` |
-| `kt:world-federation-for-chess-composition` | `kt:chess-composition`, `kt:codex-of-chess-composition` |
 | `kt:abraham-luchins` | `kt:einstellung-effect` |
 | `kt:adams-versus-torre-new-orleans-1920` | `kt:back-rank-mate` |
 | `kt:albin-countergambit` | `kt:queens-gambit` |

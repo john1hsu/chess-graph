@@ -3682,6 +3682,31 @@
     ]
   },
   {
+    "id": "kt:world-federation-for-chess-composition",
+    "title": "World Federation for Chess Composition",
+    "aliases": [
+      "WFCC",
+      "PCCC",
+      "FIDE Permanent Commission for Chess Composition",
+      "Permanent Commission of FIDE for Chess Compositions"
+    ],
+    "type": "Organization",
+    "domain": "events-and-organizations",
+    "file": "articles/events-and-organizations/world-federation-for-chess-composition.md",
+    "created": "2026-11-13",
+    "verified": "2026-11-13",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://wfcc.ch/?p=381",
+      "https://www.wfcc.ch/?p=435",
+      "https://www.wfcc.ch/?p=206",
+      "https://www.fide.com/marjan-kovacevic-re-elected-as-wfcc-president-germany-wins-gold-at-the-49th-world-chess-solving-championship/",
+      "https://en.aletihad.ae/news/sport/4458306/world-federation-for-chess-composition-moving-hq-to-fujairah",
+      "https://en.chessbase.com/post/study-of-the-month-2019-8"
+    ]
+  },
+  {
     "id": "kt:zugzwang",
     "title": "Zugzwang",
     "aliases": [
