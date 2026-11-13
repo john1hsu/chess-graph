@@ -2160,6 +2160,30 @@
     ]
   },
   {
+    "id": "kt:minority-attack",
+    "title": "Minority attack",
+    "aliases": [
+      "Minority pawn attack",
+      "Queenside minority attack",
+      "Minoritätsangriff"
+    ],
+    "type": "StrategicConcept",
+    "domain": "middlegame-strategy",
+    "file": "articles/middlegame-strategy/minority-attack.md",
+    "created": "2026-11-13",
+    "verified": "2026-11-13",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/7743.pdf",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/89020.pdf",
+      "https://shop.chess-tigers.de/cdn/shop/files/ctqg.pdf",
+      "https://www.chess.com/terms/minority-attack-chess",
+      "https://en.chessbase.com/newsroom/post/the-winning-academy-28-how-to-defend-against-a-minority-attack",
+      "https://chesscafe.com/the-skittles-room/the-minority-attack-by-nigel-davies/"
+    ]
+  },
+  {
     "id": "kt:monte-carlo-tree-search",
     "title": "Monte Carlo tree search",
     "aliases": [

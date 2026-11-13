@@ -2415,6 +2415,33 @@
 <https://github.com/john1hsu/chess-graph/id/minimax> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/john-von-neumann> .
 <https://github.com/john1hsu/chess-graph/id/minimax> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/minimax> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-07" .
+<https://github.com/john1hsu/chess-graph/id/minority-attack> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/chess-graph/id/minority-attack> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
+<https://github.com/john1hsu/chess-graph/id/minority-attack> <http://www.w3.org/2000/01/rdf-schema#label> "Minority attack" .
+<https://github.com/john1hsu/chess-graph/id/minority-attack> <http://www.w3.org/2004/02/skos/core#altLabel> "Minority pawn attack" .
+<https://github.com/john1hsu/chess-graph/id/minority-attack> <http://www.w3.org/2004/02/skos/core#altLabel> "Minoritätsangriff" .
+<https://github.com/john1hsu/chess-graph/id/minority-attack> <http://www.w3.org/2004/02/skos/core#altLabel> "Queenside minority attack" .
+<https://github.com/john1hsu/chess-graph/id/minority-attack> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-strategy> .
+<https://github.com/john1hsu/chess-graph/id/minority-attack> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/pawn-structure> .
+<https://github.com/john1hsu/chess-graph/id/minority-attack> <http://www.w3.org/2004/02/skos/core#definition> "A middlegame plan in which one side advances fewer pawns against the opponent's larger pawn group on the same wing, typically White's b2–b4–b5 against Black's a-, b- and c-pawns in the Carlsbad structure, in order to open a half-open file and leave the defender with a weak backward or isolated pawn." .
+<https://github.com/john1hsu/chess-graph/id/minority-attack> <http://www.w3.org/2004/02/skos/core#prefLabel> "Minority attack" .
+<https://github.com/john1hsu/chess-graph/id/minority-attack> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/anatoly-karpov> .
+<https://github.com/john1hsu/chess-graph/id/minority-attack> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/carlsbad-structure> .
+<https://github.com/john1hsu/chess-graph/id/minority-attack> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> .
+<https://github.com/john1hsu/chess-graph/id/minority-attack> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/outpost> .
+<https://github.com/john1hsu/chess-graph/id/minority-attack> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/queens-gambit-declined> .
+<https://github.com/john1hsu/chess-graph/id/minority-attack> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/tigran-petrosian> .
+<https://github.com/john1hsu/chess-graph/id/minority-attack> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/minority-attack/s1> .
+<https://github.com/john1hsu/chess-graph/id/minority-attack> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/minority-attack/s2> .
+<https://github.com/john1hsu/chess-graph/id/minority-attack> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/minority-attack/s3> .
+<https://github.com/john1hsu/chess-graph/id/minority-attack> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/minority-attack/s4> .
+<https://github.com/john1hsu/chess-graph/id/minority-attack> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/minority-attack/s5> .
+<https://github.com/john1hsu/chess-graph/id/minority-attack> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/minority-attack/s6> .
+<https://github.com/john1hsu/chess-graph/id/minority-attack> <https://github.com/john1hsu/chess-graph/ontology#domain> "middlegame-strategy" .
+<https://github.com/john1hsu/chess-graph/id/minority-attack> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/backward-pawn> .
+<https://github.com/john1hsu/chess-graph/id/minority-attack> <https://github.com/john1hsu/chess-graph/ontology#moves> "1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.cxd5 exd5 5.Bg5 Be7 6.e3 c6" .
+<https://github.com/john1hsu/chess-graph/id/minority-attack> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/minority-attack> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-13" .
 <https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Algorithm> .
 <https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <http://www.w3.org/2000/01/rdf-schema#label> "Monte Carlo tree search" .
@@ -5638,6 +5665,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/minimax/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/minimax/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
 <https://github.com/john1hsu/chess-graph/id/source/minimax/s5> <https://schema.org/url> "https://www.britannica.com/topic/mini-max-theorem" .
+<https://github.com/john1hsu/chess-graph/id/source/minority-attack/s1> <http://purl.org/dc/terms/publisher> "Nigel Davies, Everyman Chess (excerpt hosted by New In Chess)" .
+<https://github.com/john1hsu/chess-graph/id/source/minority-attack/s1> <http://purl.org/dc/terms/title> "The Queen's Gambit Declined: Move by Move (excerpt)" .
+<https://github.com/john1hsu/chess-graph/id/source/minority-attack/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/minority-attack/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/minority-attack/s1> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/7743.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/minority-attack/s2> <http://purl.org/dc/terms/publisher> "Semko Semkov, Chess Stars (excerpt hosted by New In Chess)" .
+<https://github.com/john1hsu/chess-graph/id/source/minority-attack/s2> <http://purl.org/dc/terms/title> "Squeezing the QGD (excerpt)" .
+<https://github.com/john1hsu/chess-graph/id/source/minority-attack/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/minority-attack/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/minority-attack/s2> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/89020.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/minority-attack/s3> <http://purl.org/dc/terms/publisher> "Michael Prusikin, New In Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/minority-attack/s3> <http://purl.org/dc/terms/title> "Countering the Queen's Gambit (excerpt)" .
+<https://github.com/john1hsu/chess-graph/id/source/minority-attack/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/minority-attack/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/minority-attack/s3> <https://schema.org/url> "https://shop.chess-tigers.de/cdn/shop/files/ctqg.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/minority-attack/s4> <http://purl.org/dc/terms/publisher> "Chess.com (Chess Terms)" .
+<https://github.com/john1hsu/chess-graph/id/source/minority-attack/s4> <http://purl.org/dc/terms/title> "Minority Attack" .
+<https://github.com/john1hsu/chess-graph/id/source/minority-attack/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/minority-attack/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/minority-attack/s4> <https://schema.org/url> "https://www.chess.com/terms/minority-attack-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/minority-attack/s5> <http://purl.org/dc/terms/publisher> "GM Jan Markos, ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/minority-attack/s5> <http://purl.org/dc/terms/title> "The Winning Academy 28: How to Defend Against a Minority Attack?" .
+<https://github.com/john1hsu/chess-graph/id/source/minority-attack/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/minority-attack/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/minority-attack/s5> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/the-winning-academy-28-how-to-defend-against-a-minority-attack" .
+<https://github.com/john1hsu/chess-graph/id/source/minority-attack/s6> <http://purl.org/dc/terms/publisher> "GM Nigel Davies, ChessCafe (The Skittles Room)" .
+<https://github.com/john1hsu/chess-graph/id/source/minority-attack/s6> <http://purl.org/dc/terms/title> "The Minority Attack" .
+<https://github.com/john1hsu/chess-graph/id/source/minority-attack/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/minority-attack/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/minority-attack/s6> <https://schema.org/url> "https://chesscafe.com/the-skittles-room/the-minority-attack-by-nigel-davies/" .
 <https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s1> <http://purl.org/dc/terms/publisher> "Rémi Coulom, author's page" .
 <https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s1> <http://purl.org/dc/terms/title> "Efficient Selectivity and Backup Operators in Monte-Carlo Tree Search (Computers and Games 2006)" .
 <https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

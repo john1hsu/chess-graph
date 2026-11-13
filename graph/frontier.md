@@ -16,12 +16,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position`, `kt:rook-endgames` |
 | `kt:evans-gambit` | `kt:romantic-era`, `kt:italian-game`, `kt:adolf-anderssen` |
 | `kt:francois-andre-danican-philidor` | `kt:philidor-position`, `kt:pawn-structure`, `kt:blindfold-chess` |
-| `kt:minority-attack` | `kt:carlsbad-structure`, `kt:pawn-structure`, `kt:queens-gambit-declined` |
 | `kt:portable-game-notation` | `kt:algebraic-notation`, `kt:forsyth-edwards-notation`, `kt:forsyth-edwards-notation` |
 | `kt:semi-open-games` | `kt:caro-kann-defence`, `kt:french-defence`, `kt:sicilian-defence` |
 | `kt:smothered-mate` | `kt:back-rank-mate`, `kt:back-rank-mate`, `kt:einstellung-effect` |
 | `kt:alekhines-defence` | `kt:fischer-spassky-1972`, `kt:hypermodernism` |
 | `kt:alexander-kotov` | `kt:calculation`, `kt:candidate-moves` |
+| `kt:backward-pawn` | `kt:minority-attack`, `kt:outpost` |
 | `kt:botvinnik-versus-capablanca-avro-1938` | `kt:soviet-chess-school`, `kt:mikhail-botvinnik` |
 | `kt:chess-organizations` | `kt:fide`, `kt:us-chess` |
 | `kt:closed-games` | `kt:queens-gambit-accepted`, `kt:queens-gambit` |
@@ -73,7 +73,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:arpad-elo` | `kt:elo-rating-system` |
 | `kt:artificial-intelligence` | `kt:computer-chess` |
 | `kt:as-suli` | `kt:shatranj` |
-| `kt:backward-pawn` | `kt:outpost` |
 | `kt:baden-baden-1870` | `kt:adolf-anderssen` |
 | `kt:berlin-defence` | `kt:ruy-lopez` |
 | `kt:board-representation` | `kt:bitboards` |

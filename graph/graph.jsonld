@@ -5205,6 +5205,95 @@
       ]
     },
     {
+      "@id": "kt:minority-attack",
+      "@type": "kto:StrategicConcept",
+      "skos:prefLabel": "Minority attack",
+      "skos:definition": "A middlegame plan in which one side advances fewer pawns against the opponent's larger pawn group on the same wing, typically White's b2–b4–b5 against Black's a-, b- and c-pawns in the Carlsbad structure, in order to open a half-open file and leave the defender with a weak backward or isolated pawn.",
+      "kto:domain": "middlegame-strategy",
+      "dcterms:created": "2026-11-13",
+      "kto:verified": "2026-11-13",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Queen's Gambit Declined: Move by Move (excerpt)",
+          "dcterms:publisher": "Nigel Davies, Everyman Chess (excerpt hosted by New In Chess)",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/7743.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Squeezing the QGD (excerpt)",
+          "dcterms:publisher": "Semko Semkov, Chess Stars (excerpt hosted by New In Chess)",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/89020.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Countering the Queen's Gambit (excerpt)",
+          "dcterms:publisher": "Michael Prusikin, New In Chess",
+          "schema:url": "https://shop.chess-tigers.de/cdn/shop/files/ctqg.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Minority Attack",
+          "dcterms:publisher": "Chess.com (Chess Terms)",
+          "schema:url": "https://www.chess.com/terms/minority-attack-chess",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The Winning Academy 28: How to Defend Against a Minority Attack?",
+          "dcterms:publisher": "GM Jan Markos, ChessBase News",
+          "schema:url": "https://en.chessbase.com/newsroom/post/the-winning-academy-28-how-to-defend-against-a-minority-attack",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The Minority Attack",
+          "dcterms:publisher": "GM Nigel Davies, ChessCafe (The Skittles Room)",
+          "schema:url": "https://chesscafe.com/the-skittles-room/the-minority-attack-by-nigel-davies/",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/middlegame-strategy/minority-attack.md",
+      "skos:altLabel": [
+        "Minority pawn attack",
+        "Queenside minority attack",
+        "Minoritätsangriff"
+      ],
+      "kto:moves": "1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.cxd5 exd5 5.Bg5 Be7 6.e3 c6",
+      "skos:broader": [
+        {
+          "@id": "kt:pawn-structure"
+        },
+        {
+          "@id": "kt:chess-strategy"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:carlsbad-structure"
+        },
+        {
+          "@id": "kt:queens-gambit-declined"
+        },
+        {
+          "@id": "kt:outpost"
+        },
+        {
+          "@id": "kt:tigran-petrosian"
+        },
+        {
+          "@id": "kt:jose-raul-capablanca"
+        },
+        {
+          "@id": "kt:anatoly-karpov"
+        }
+      ],
+      "kto:leadsTo": [
+        {
+          "@id": "kt:backward-pawn"
+        }
+      ]
+    },
+    {
       "@id": "kt:outpost",
       "@type": "kto:StrategicConcept",
       "skos:prefLabel": "Outpost",
