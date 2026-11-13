@@ -2517,6 +2517,32 @@
     ]
   },
   {
+    "id": "kt:open-file",
+    "title": "Open file",
+    "aliases": [
+      "Open files",
+      "Open line",
+      "Half-open file",
+      "Semi-open file",
+      "Control of the open file"
+    ],
+    "type": "StrategicConcept",
+    "domain": "middlegame-strategy",
+    "file": "articles/middlegame-strategy/open-file.md",
+    "created": "2026-11-13",
+    "verified": "2026-11-13",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.chess.com/terms/chess-file",
+      "https://gutenberg.org/files/5614/5614-h/5614-h.htm",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/9027.pdf",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/9069.pdf",
+      "https://www.chess.com/article/view/the-power-of-positional-chess-pt-4",
+      "https://lichess.org/z2fASrJZ"
+    ]
+  },
+  {
     "id": "kt:opposite-coloured-bishops",
     "title": "Opposite-coloured bishops",
     "aliases": [

@@ -1,9 +1,9 @@
 # Graph statistics
 
-- Articles (nodes written): **139**
-- Frontier nodes (referenced, unwritten): **211**
-- Edges: **1308**
-- Citations: **809**
+- Articles (nodes written): **140**
+- Frontier nodes (referenced, unwritten): **214**
+- Edges: **1318**
+- Citations: **815**
 
 - Weakly connected components: **1**
 - Isolated articles (no edges): **0**
@@ -12,33 +12,32 @@
 
 | Node | PageRank | Written |
 |---|---|---|
-| `kt:fide-laws-of-chess` | 0.0135 | yes |
-| `kt:fide` | 0.0115 | yes |
-| `kt:world-chess-championship` | 0.0096 | yes |
-| `kt:pawn-promotion` | 0.0092 | yes |
+| `kt:fide-laws-of-chess` | 0.0134 | yes |
+| `kt:fide` | 0.0114 | yes |
+| `kt:world-chess-championship` | 0.0095 | yes |
+| `kt:pawn-promotion` | 0.0091 | yes |
 | `kt:combination` | 0.0086 | yes |
 | `kt:chess-tactics` | 0.0084 | yes |
-| `kt:pawn-structure` | 0.0078 | yes |
-| `kt:chess-strategy` | 0.0077 | yes |
+| `kt:pawn-structure` | 0.0080 | yes |
+| `kt:chess-strategy` | 0.0078 | yes |
 | `kt:isolated-queens-pawn` | 0.0075 | yes |
-| `kt:chess` | 0.0074 | no |
-| `kt:material-advantage` | 0.0074 | yes |
-| `kt:stalemate` | 0.0072 | yes |
-| `kt:game-tree-search` | 0.0070 | yes |
-| `kt:outpost` | 0.0068 | yes |
-| `kt:aron-nimzowitsch` | 0.0068 | yes |
+| `kt:chess` | 0.0073 | no |
+| `kt:material-advantage` | 0.0073 | yes |
+| `kt:stalemate` | 0.0071 | yes |
+| `kt:outpost` | 0.0070 | yes |
+| `kt:aron-nimzowitsch` | 0.0070 | yes |
+| `kt:game-tree-search` | 0.0069 | yes |
 
-## Communities (Louvain): 9
+## Communities (Louvain): 8
 
-1. `kt:albin-countergambit`, `kt:alekhines-defence`, `kt:alexander-alekhine`, `kt:aron-nimzowitsch`, `kt:backward-pawn`, `kt:bishop-pair`, `kt:blockade`, `kt:breakthrough`, `kt:carlsbad-1923`, `kt:carlsbad-1929`, `kt:carlsbad-structure`, `kt:chess-endgame` …
-2. `kt:arbiter`, `kt:arpad-elo`, `kt:candidates-tournament`, `kt:chess-olympiad`, `kt:chess-organizations`, `kt:chess-rating-systems`, `kt:chess-titles`, `kt:chess-tournament`, `kt:dead-position`, `kt:ding-liren`, `kt:ding-versus-gukesh-singapore-2024-game-14`, `kt:draw` …
-3. `kt:alpha-beta-pruning`, `kt:alphazero`, `kt:artificial-intelligence`, `kt:bitboards`, `kt:board-representation`, `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue`, `kt:deep-blue-versus-kasparov`, `kt:deepmind`, `kt:evaluation-function`, `kt:game-tree-search` …
-4. `kt:algebraic-notation`, `kt:allumwandlung`, `kt:blitz-chess`, `kt:bughouse`, `kt:castling`, `kt:chess-composition`, `kt:chess-problems`, `kt:chess960`, `kt:codex-of-chess-composition`, `kt:crazyhouse`, `kt:david-forsyth`, `kt:descriptive-notation` …
-5. `kt:adolf-anderssen`, `kt:baden-baden-1870`, `kt:emanuel-lasker`, `kt:evans-gambit`, `kt:evergreen-game`, `kt:gambit`, `kt:giuoco-pianissimo`, `kt:harry-nelson-pillsbury`, `kt:hastings-1895`, `kt:howard-staunton`, `kt:immortal-game`, `kt:italian-game` …
-6. `kt:anatoly-karpov`, `kt:berlin-defence`, `kt:bobby-fischer`, `kt:boris-spassky`, `kt:botvinnik-versus-capablanca-avro-1938`, `kt:caro-kann-defence`, `kt:dragon-variation`, `kt:english-attack`, `kt:fischer-spassky-1972`, `kt:french-defence`, `kt:game-of-the-century`, `kt:garry-kasparov` …
-7. `kt:abraham-luchins`, `kt:adriaan-de-groot`, `kt:alexander-kotov`, `kt:alfred-binet`, `kt:allen-newell`, `kt:anders-ericsson`, `kt:calculation`, `kt:candidate-moves`, `kt:chess-expertise`, `kt:chrest`, `kt:chunking-theory`, `kt:cognitive-psychology-of-chess` …
-8. `kt:adams-versus-torre-new-orleans-1920`, `kt:back-rank-mate`, `kt:carlsen-versus-anand-sochi-2014-game-6`, `kt:checkmate`, `kt:chess-tactics`, `kt:combination`, `kt:decoy`, `kt:deflection`, `kt:discovered-attack`, `kt:double-check`, `kt:exchange-sacrifice`, `kt:fork` …
-9. `kt:as-suli`, `kt:blindfold-chess`, `kt:chaturanga`, `kt:chess`, `kt:chess-variants`, `kt:correspondence-chess`, `kt:four-handed-chaturanga`, `kt:francois-andre-danican-philidor`, `kt:francois-antoine-de-legal`, `kt:history-of-chess`, `kt:iccf`, `kt:miguel-najdorf` …
+1. `kt:adolf-anderssen`, `kt:albin-countergambit`, `kt:alekhine-versus-nimzowitsch-san-remo-1930`, `kt:alekhines-gun`, `kt:alexander-alekhine`, `kt:aron-nimzowitsch`, `kt:backward-pawn`, `kt:baden-baden-1870`, `kt:bishop-pair`, `kt:blockade`, `kt:carlsbad-1923`, `kt:carlsbad-1929` …
+2. `kt:arbiter`, `kt:arpad-elo`, `kt:candidates-tournament`, `kt:chess-olympiad`, `kt:chess-organizations`, `kt:chess-rating-systems`, `kt:chess-titles`, `kt:chess-tournament`, `kt:correspondence-chess`, `kt:dead-position`, `kt:ding-liren`, `kt:ding-versus-gukesh-singapore-2024-game-14` …
+3. `kt:algebraic-notation`, `kt:allumwandlung`, `kt:as-suli`, `kt:blitz-chess`, `kt:bughouse`, `kt:castling`, `kt:chaturanga`, `kt:chess`, `kt:chess-composition`, `kt:chess-problems`, `kt:chess-variants`, `kt:chess960` …
+4. `kt:alpha-beta-pruning`, `kt:alphazero`, `kt:artificial-intelligence`, `kt:bitboards`, `kt:board-representation`, `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue`, `kt:deep-blue-versus-kasparov`, `kt:deepmind`, `kt:evaluation-function`, `kt:game-tree-search` …
+5. `kt:alekhines-defence`, `kt:anatoly-karpov`, `kt:berlin-defence`, `kt:bobby-fischer`, `kt:boris-spassky`, `kt:botvinnik-versus-capablanca-avro-1938`, `kt:caro-kann-defence`, `kt:dragon-variation`, `kt:english-attack`, `kt:fischer-spassky-1972`, `kt:french-defence`, `kt:game-of-the-century` …
+6. `kt:abraham-luchins`, `kt:adriaan-de-groot`, `kt:alexander-kotov`, `kt:alfred-binet`, `kt:allen-newell`, `kt:anders-ericsson`, `kt:blindfold-chess`, `kt:calculation`, `kt:candidate-moves`, `kt:chess-expertise`, `kt:chrest`, `kt:chunking-theory` …
+7. `kt:adams-versus-torre-new-orleans-1920`, `kt:back-rank-mate`, `kt:carlsen-versus-anand-sochi-2014-game-6`, `kt:checkmate`, `kt:chess-tactics`, `kt:combination`, `kt:decoy`, `kt:deflection`, `kt:discovered-attack`, `kt:double-check`, `kt:exchange-sacrifice`, `kt:fork` …
+8. `kt:breakthrough`, `kt:chess-endgame`, `kt:corresponding-squares`, `kt:cutting-off-the-king`, `kt:endgame-tablebases`, `kt:fortress`, `kt:francois-andre-danican-philidor`, `kt:francois-antoine-de-legal`, `kt:ken-thompson`, `kt:key-squares`, `kt:king-and-pawn-endgames`, `kt:lucena-position` …
 
 ## By type
 
@@ -62,7 +61,7 @@
 - Rule: 13
 - School: 3
 - Software: 1
-- StrategicConcept: 10
+- StrategicConcept: 11
 - TacticalMotif: 8
 - Technique: 6
 - Title: 2
@@ -75,7 +74,7 @@
 - endgames: 13
 - events-and-organizations: 13
 - history: 13
-- middlegame-strategy: 12
+- middlegame-strategy: 13
 - openings: 12
 - players: 13
 - rules-and-notation: 13
@@ -91,5 +90,5 @@
 ## By status
 
 - contested: 1
-- current: 110
+- current: 111
 - historical: 28

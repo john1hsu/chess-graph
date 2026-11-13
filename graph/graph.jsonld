@@ -5668,6 +5668,104 @@
       ]
     },
     {
+      "@id": "kt:open-file",
+      "@type": "kto:StrategicConcept",
+      "skos:prefLabel": "Open file",
+      "skos:definition": "A file with no pawns of either colour on it, which gives rooks and queens an unobstructed path into the enemy position; a half-open file has a pawn of only one side and is open for the other. Seizing and exploiting such files, usually to reach the seventh or eighth rank, is a basic positional theme.",
+      "kto:domain": "middlegame-strategy",
+      "dcterms:created": "2026-11-13",
+      "kto:verified": "2026-11-13",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Chess File",
+          "dcterms:publisher": "Chess.com (Chess Terms)",
+          "schema:url": "https://www.chess.com/terms/chess-file",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Chess Strategy (trans. J. du Mont), Project Gutenberg eBook #5614",
+          "dcterms:publisher": "Edward Lasker, G. Bell & Sons translation, via Project Gutenberg",
+          "schema:url": "https://gutenberg.org/files/5614/5614-h/5614-h.htm",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "My System & Chess Praxis (sample pages, contents)",
+          "dcterms:publisher": "Aron Nimzowitsch, trans. Robert Sherwood, New In Chess (2016)",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/9027.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Chess Pattern Recognition for Beginners (sample pages)",
+          "dcterms:publisher": "Arthur van de Oudeweetering, New In Chess (2018)",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/9069.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The Power of Positional Chess, Pt. 4",
+          "dcterms:publisher": "IM Jeremy Silman, Chess.com",
+          "schema:url": "https://www.chess.com/article/view/the-power-of-positional-chess-pt-4",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Alekhine vs. Nimzowitsch, San Remo 1930, round 3 (game record)",
+          "dcterms:publisher": "Lichess",
+          "schema:url": "https://lichess.org/z2fASrJZ",
+          "kto:sourceType": "database"
+        }
+      ],
+      "kto:file": "articles/middlegame-strategy/open-file.md",
+      "skos:altLabel": [
+        "Open files",
+        "Open line",
+        "Half-open file",
+        "Semi-open file",
+        "Control of the open file"
+      ],
+      "kto:fen": "2r2k2/p1rqn1p1/Ppn1p2p/1B1pPp2/1P1P1P2/2R2N2/2R3PP/2Q3K1 w - - 14 27",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-strategy"
+        },
+        {
+          "@id": "kt:pawn-structure"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:outpost"
+        },
+        {
+          "@id": "kt:carlsbad-structure"
+        },
+        {
+          "@id": "kt:minority-attack"
+        },
+        {
+          "@id": "kt:rook-on-the-seventh-rank"
+        },
+        {
+          "@id": "kt:alekhines-gun"
+        }
+      ],
+      "kto:championedBy": [
+        {
+          "@id": "kt:aron-nimzowitsch"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:alekhine-versus-nimzowitsch-san-remo-1930"
+        }
+      ],
+      "kto:leadsTo": [
+        {
+          "@id": "kt:rook-on-the-seventh-rank"
+        }
+      ]
+    },
+    {
       "@id": "kt:outpost",
       "@type": "kto:StrategicConcept",
       "skos:prefLabel": "Outpost",

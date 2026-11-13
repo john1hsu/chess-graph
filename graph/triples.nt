@@ -2819,6 +2819,36 @@
 <https://github.com/john1hsu/chess-graph/id/nnue> <https://github.com/john1hsu/chess-graph/ontology#fen> "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1" .
 <https://github.com/john1hsu/chess-graph/id/nnue> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/nnue> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/open-file> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/chess-graph/id/open-file> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
+<https://github.com/john1hsu/chess-graph/id/open-file> <http://www.w3.org/2000/01/rdf-schema#label> "Open file" .
+<https://github.com/john1hsu/chess-graph/id/open-file> <http://www.w3.org/2004/02/skos/core#altLabel> "Control of the open file" .
+<https://github.com/john1hsu/chess-graph/id/open-file> <http://www.w3.org/2004/02/skos/core#altLabel> "Half-open file" .
+<https://github.com/john1hsu/chess-graph/id/open-file> <http://www.w3.org/2004/02/skos/core#altLabel> "Open files" .
+<https://github.com/john1hsu/chess-graph/id/open-file> <http://www.w3.org/2004/02/skos/core#altLabel> "Open line" .
+<https://github.com/john1hsu/chess-graph/id/open-file> <http://www.w3.org/2004/02/skos/core#altLabel> "Semi-open file" .
+<https://github.com/john1hsu/chess-graph/id/open-file> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-strategy> .
+<https://github.com/john1hsu/chess-graph/id/open-file> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/pawn-structure> .
+<https://github.com/john1hsu/chess-graph/id/open-file> <http://www.w3.org/2004/02/skos/core#definition> "A file with no pawns of either colour on it, which gives rooks and queens an unobstructed path into the enemy position; a half-open file has a pawn of only one side and is open for the other. Seizing and exploiting such files, usually to reach the seventh or eighth rank, is a basic positional theme." .
+<https://github.com/john1hsu/chess-graph/id/open-file> <http://www.w3.org/2004/02/skos/core#prefLabel> "Open file" .
+<https://github.com/john1hsu/chess-graph/id/open-file> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/alekhines-gun> .
+<https://github.com/john1hsu/chess-graph/id/open-file> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/carlsbad-structure> .
+<https://github.com/john1hsu/chess-graph/id/open-file> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/minority-attack> .
+<https://github.com/john1hsu/chess-graph/id/open-file> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/outpost> .
+<https://github.com/john1hsu/chess-graph/id/open-file> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> .
+<https://github.com/john1hsu/chess-graph/id/open-file> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/open-file/s1> .
+<https://github.com/john1hsu/chess-graph/id/open-file> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/open-file/s2> .
+<https://github.com/john1hsu/chess-graph/id/open-file> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/open-file/s3> .
+<https://github.com/john1hsu/chess-graph/id/open-file> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/open-file/s4> .
+<https://github.com/john1hsu/chess-graph/id/open-file> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/open-file/s5> .
+<https://github.com/john1hsu/chess-graph/id/open-file> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/open-file/s6> .
+<https://github.com/john1hsu/chess-graph/id/open-file> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> .
+<https://github.com/john1hsu/chess-graph/id/open-file> <https://github.com/john1hsu/chess-graph/ontology#domain> "middlegame-strategy" .
+<https://github.com/john1hsu/chess-graph/id/open-file> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/alekhine-versus-nimzowitsch-san-remo-1930> .
+<https://github.com/john1hsu/chess-graph/id/open-file> <https://github.com/john1hsu/chess-graph/ontology#fen> "2r2k2/p1rqn1p1/Ppn1p2p/1B1pPp2/1P1P1P2/2R2N2/2R3PP/2Q3K1 w - - 14 27" .
+<https://github.com/john1hsu/chess-graph/id/open-file> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> .
+<https://github.com/john1hsu/chess-graph/id/open-file> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/open-file> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-13" .
 <https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#EndgameType> .
 <https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <http://www.w3.org/2000/01/rdf-schema#label> "Opposite-coloured bishops" .
@@ -6378,6 +6408,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/nnue/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/nnue/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/chess-graph/id/source/nnue/s5> <https://schema.org/url> "https://arxiv.org/pdf/2209.01506" .
+<https://github.com/john1hsu/chess-graph/id/source/open-file/s1> <http://purl.org/dc/terms/publisher> "Chess.com (Chess Terms)" .
+<https://github.com/john1hsu/chess-graph/id/source/open-file/s1> <http://purl.org/dc/terms/title> "Chess File" .
+<https://github.com/john1hsu/chess-graph/id/source/open-file/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/open-file/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/open-file/s1> <https://schema.org/url> "https://www.chess.com/terms/chess-file" .
+<https://github.com/john1hsu/chess-graph/id/source/open-file/s2> <http://purl.org/dc/terms/publisher> "Edward Lasker, G. Bell & Sons translation, via Project Gutenberg" .
+<https://github.com/john1hsu/chess-graph/id/source/open-file/s2> <http://purl.org/dc/terms/title> "Chess Strategy (trans. J. du Mont), Project Gutenberg eBook #5614" .
+<https://github.com/john1hsu/chess-graph/id/source/open-file/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/open-file/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/open-file/s2> <https://schema.org/url> "https://gutenberg.org/files/5614/5614-h/5614-h.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/open-file/s3> <http://purl.org/dc/terms/publisher> "Aron Nimzowitsch, trans. Robert Sherwood, New In Chess (2016)" .
+<https://github.com/john1hsu/chess-graph/id/source/open-file/s3> <http://purl.org/dc/terms/title> "My System & Chess Praxis (sample pages, contents)" .
+<https://github.com/john1hsu/chess-graph/id/source/open-file/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/open-file/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/open-file/s3> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/9027.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/open-file/s4> <http://purl.org/dc/terms/publisher> "Arthur van de Oudeweetering, New In Chess (2018)" .
+<https://github.com/john1hsu/chess-graph/id/source/open-file/s4> <http://purl.org/dc/terms/title> "Chess Pattern Recognition for Beginners (sample pages)" .
+<https://github.com/john1hsu/chess-graph/id/source/open-file/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/open-file/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/open-file/s4> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/9069.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/open-file/s5> <http://purl.org/dc/terms/publisher> "IM Jeremy Silman, Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/open-file/s5> <http://purl.org/dc/terms/title> "The Power of Positional Chess, Pt. 4" .
+<https://github.com/john1hsu/chess-graph/id/source/open-file/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/open-file/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/open-file/s5> <https://schema.org/url> "https://www.chess.com/article/view/the-power-of-positional-chess-pt-4" .
+<https://github.com/john1hsu/chess-graph/id/source/open-file/s6> <http://purl.org/dc/terms/publisher> "Lichess" .
+<https://github.com/john1hsu/chess-graph/id/source/open-file/s6> <http://purl.org/dc/terms/title> "Alekhine vs. Nimzowitsch, San Remo 1930, round 3 (game record)" .
+<https://github.com/john1hsu/chess-graph/id/source/open-file/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/open-file/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/open-file/s6> <https://schema.org/url> "https://lichess.org/z2fASrJZ" .
 <https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s1> <http://purl.org/dc/terms/publisher> "Jesús de la Villa, New In Chess (2023); excerpt hosted by Chess Tigers" .
 <https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s1> <http://purl.org/dc/terms/title> "100 Endgames You Must Know, sixth edition (excerpt, Chapter 9: Opposite-coloured bishops)" .
 <https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

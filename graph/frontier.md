@@ -47,6 +47,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:perpetual-check` | `kt:draw`, `kt:threefold-repetition` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
 | `kt:progressive-deepening` | `kt:calculation`, `kt:candidate-moves` |
+| `kt:rook-on-the-seventh-rank` | `kt:open-file`, `kt:open-file` |
 | `kt:saavedra-position` | `kt:pawn-promotion`, `kt:endgame-study` |
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:zugzwang`, `kt:aron-nimzowitsch` |
 | `kt:saint-louis-chess-club` | `kt:us-chess-championship`, `kt:us-chess` |
@@ -65,6 +66,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:abraham-luchins` | `kt:einstellung-effect` |
 | `kt:adams-versus-torre-new-orleans-1920` | `kt:back-rank-mate` |
 | `kt:albin-countergambit` | `kt:queens-gambit` |
+| `kt:alekhine-versus-nimzowitsch-san-remo-1930` | `kt:open-file` |
+| `kt:alekhines-gun` | `kt:open-file` |
 | `kt:alfred-binet` | `kt:cognitive-psychology-of-chess` |
 | `kt:allen-newell` | `kt:herbert-simon` |
 | `kt:allumwandlung` | `kt:excelsior` |
