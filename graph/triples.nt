@@ -2880,6 +2880,40 @@
 <https://github.com/john1hsu/chess-graph/id/open-file> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> .
 <https://github.com/john1hsu/chess-graph/id/open-file> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/open-file> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-13" .
+<https://github.com/john1hsu/chess-graph/id/open-games> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/chess-graph/id/open-games> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Concept> .
+<https://github.com/john1hsu/chess-graph/id/open-games> <http://www.w3.org/2000/01/rdf-schema#label> "Open games" .
+<https://github.com/john1hsu/chess-graph/id/open-games> <http://www.w3.org/2004/02/skos/core#altLabel> "1.e4 e5" .
+<https://github.com/john1hsu/chess-graph/id/open-games> <http://www.w3.org/2004/02/skos/core#altLabel> "Double King Pawn openings" .
+<https://github.com/john1hsu/chess-graph/id/open-games> <http://www.w3.org/2004/02/skos/core#altLabel> "Double king's pawn openings" .
+<https://github.com/john1hsu/chess-graph/id/open-games> <http://www.w3.org/2004/02/skos/core#altLabel> "King's pawn openings with 1...e5" .
+<https://github.com/john1hsu/chess-graph/id/open-games> <http://www.w3.org/2004/02/skos/core#altLabel> "Open Game" .
+<https://github.com/john1hsu/chess-graph/id/open-games> <http://www.w3.org/2004/02/skos/core#altLabel> "Open game" .
+<https://github.com/john1hsu/chess-graph/id/open-games> <http://www.w3.org/2004/02/skos/core#altLabel> "Open openings" .
+<https://github.com/john1hsu/chess-graph/id/open-games> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-openings> .
+<https://github.com/john1hsu/chess-graph/id/open-games> <http://www.w3.org/2004/02/skos/core#definition> "The family of openings that begin 1.e4 e5, including the Italian Game, Ruy Lopez, King's Gambit, Petroff Defence and Scotch; \"open\" is a historical label, and some of these lines lead to closed positions." .
+<https://github.com/john1hsu/chess-graph/id/open-games> <http://www.w3.org/2004/02/skos/core#prefLabel> "Open games" .
+<https://github.com/john1hsu/chess-graph/id/open-games> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/closed-games> .
+<https://github.com/john1hsu/chess-graph/id/open-games> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/romantic-era> .
+<https://github.com/john1hsu/chess-graph/id/open-games> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/semi-open-games> .
+<https://github.com/john1hsu/chess-graph/id/open-games> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> .
+<https://github.com/john1hsu/chess-graph/id/open-games> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/open-games/s1> .
+<https://github.com/john1hsu/chess-graph/id/open-games> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/open-games/s2> .
+<https://github.com/john1hsu/chess-graph/id/open-games> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/open-games/s3> .
+<https://github.com/john1hsu/chess-graph/id/open-games> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/open-games/s4> .
+<https://github.com/john1hsu/chess-graph/id/open-games> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/open-games/s5> .
+<https://github.com/john1hsu/chess-graph/id/open-games> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/open-games/s6> .
+<https://github.com/john1hsu/chess-graph/id/open-games> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/open-games/s7> .
+<https://github.com/john1hsu/chess-graph/id/open-games> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/semi-open-games> .
+<https://github.com/john1hsu/chess-graph/id/open-games> <https://github.com/john1hsu/chess-graph/ontology#domain> "openings" .
+<https://github.com/john1hsu/chess-graph/id/open-games> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/evans-gambit> .
+<https://github.com/john1hsu/chess-graph/id/open-games> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/italian-game> .
+<https://github.com/john1hsu/chess-graph/id/open-games> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/kings-gambit> .
+<https://github.com/john1hsu/chess-graph/id/open-games> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/petroffs-defence> .
+<https://github.com/john1hsu/chess-graph/id/open-games> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/ruy-lopez> .
+<https://github.com/john1hsu/chess-graph/id/open-games> <https://github.com/john1hsu/chess-graph/ontology#moves> "1.e4 e5" .
+<https://github.com/john1hsu/chess-graph/id/open-games> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/open-games> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-13" .
 <https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#EndgameType> .
 <https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <http://www.w3.org/2000/01/rdf-schema#label> "Opposite-coloured bishops" .
@@ -6626,6 +6660,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/open-file/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/open-file/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
 <https://github.com/john1hsu/chess-graph/id/source/open-file/s6> <https://schema.org/url> "https://lichess.org/z2fASrJZ" .
+<https://github.com/john1hsu/chess-graph/id/source/open-games/s1> <http://purl.org/dc/terms/publisher> "ChessBase Learn" .
+<https://github.com/john1hsu/chess-graph/id/source/open-games/s1> <http://purl.org/dc/terms/title> "Chess openings - Open Games" .
+<https://github.com/john1hsu/chess-graph/id/source/open-games/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/open-games/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/open-games/s1> <https://schema.org/url> "https://learn.chessbase.com/en/page/chess-openings-open-games" .
+<https://github.com/john1hsu/chess-graph/id/source/open-games/s2> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/open-games/s2> <http://purl.org/dc/terms/title> "Chess: Development of theory" .
+<https://github.com/john1hsu/chess-graph/id/source/open-games/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/open-games/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/open-games/s2> <https://schema.org/url> "https://www.britannica.com/topic/chess/Development-of-theory" .
+<https://github.com/john1hsu/chess-graph/id/source/open-games/s3> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/open-games/s3> <http://purl.org/dc/terms/title> "Ruy López opening" .
+<https://github.com/john1hsu/chess-graph/id/source/open-games/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/open-games/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/open-games/s3> <https://schema.org/url> "https://www.britannica.com/topic/Ruy-Lopez-opening" .
+<https://github.com/john1hsu/chess-graph/id/source/open-games/s4> <http://purl.org/dc/terms/publisher> "Quality Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/open-games/s4> <http://purl.org/dc/terms/title> "Playing 1.e4 e5 – A Classical Repertoire (Nikolaos Ntirlis, 2016)" .
+<https://github.com/john1hsu/chess-graph/id/source/open-games/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/open-games/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/open-games/s4> <https://schema.org/url> "https://www.qualitychess.co.uk/products/1/267/playing_1e4_e5_-_a_classical_repertoire_by_nikolaos_ntirlis/" .
+<https://github.com/john1hsu/chess-graph/id/source/open-games/s5> <http://purl.org/dc/terms/publisher> "ChessBase help (ChessBase 16)" .
+<https://github.com/john1hsu/chess-graph/id/source/open-games/s5> <http://purl.org/dc/terms/title> "ECO classification" .
+<https://github.com/john1hsu/chess-graph/id/source/open-games/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/open-games/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/open-games/s5> <https://schema.org/url> "https://help.chessbase.com/CBase/16/Esp/eco_classification.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/open-games/s6> <http://purl.org/dc/terms/publisher> "Nagesh Havanur, ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/open-games/s6> <http://purl.org/dc/terms/title> "Opening Encyclopaedia 2026: Introduction and Open Games" .
+<https://github.com/john1hsu/chess-graph/id/source/open-games/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/open-games/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/open-games/s6> <https://schema.org/url> "https://en.chessbase.com/post/opening-encyclopaedia-2026-review-nagesh-havanur" .
+<https://github.com/john1hsu/chess-graph/id/source/open-games/s7> <http://purl.org/dc/terms/publisher> "ChessCafe.com" .
+<https://github.com/john1hsu/chess-graph/id/source/open-games/s7> <http://purl.org/dc/terms/title> "First Steps: 1 e4 e5, by John Emms (review)" .
+<https://github.com/john1hsu/chess-graph/id/source/open-games/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/open-games/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/open-games/s7> <https://schema.org/url> "https://chesscafe.com/book-reviews/first-steps-1-e4-e5-by-john-emms/" .
 <https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s1> <http://purl.org/dc/terms/publisher> "Jesús de la Villa, New In Chess (2023); excerpt hosted by Chess Tigers" .
 <https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s1> <http://purl.org/dc/terms/title> "100 Endgames You Must Know, sixth edition (excerpt, Chapter 9: Opposite-coloured bishops)" .
 <https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

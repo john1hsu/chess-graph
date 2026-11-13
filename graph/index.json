@@ -2571,6 +2571,35 @@
     ]
   },
   {
+    "id": "kt:open-games",
+    "title": "Open games",
+    "aliases": [
+      "Open Game",
+      "Open game",
+      "Open openings",
+      "Double king's pawn openings",
+      "Double King Pawn openings",
+      "King's pawn openings with 1...e5",
+      "1.e4 e5"
+    ],
+    "type": "Concept",
+    "domain": "openings",
+    "file": "articles/openings/open-games.md",
+    "created": "2026-11-13",
+    "verified": "2026-11-13",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://learn.chessbase.com/en/page/chess-openings-open-games",
+      "https://www.britannica.com/topic/chess/Development-of-theory",
+      "https://www.britannica.com/topic/Ruy-Lopez-opening",
+      "https://www.qualitychess.co.uk/products/1/267/playing_1e4_e5_-_a_classical_repertoire_by_nikolaos_ntirlis/",
+      "https://help.chessbase.com/CBase/16/Esp/eco_classification.htm",
+      "https://en.chessbase.com/post/opening-encyclopaedia-2026-review-nagesh-havanur",
+      "https://chesscafe.com/book-reviews/first-steps-1-e4-e5-by-john-emms/"
+    ]
+  },
+  {
     "id": "kt:opposite-coloured-bishops",
     "title": "Opposite-coloured bishops",
     "aliases": [

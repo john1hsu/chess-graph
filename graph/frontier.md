@@ -6,16 +6,16 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:chess` | `kt:chess-endgame`, `kt:chess-titles`, `kt:chess-tournament`, `kt:chaturanga`, `kt:history-of-chess`, `kt:shatranj`, `kt:chess-strategy`, `kt:fide-laws-of-chess`, `kt:chess-tactics`, `kt:blindfold-chess`, `kt:chess-composition`, `kt:chess-variants`, `kt:correspondence-chess` |
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:mikhail-botvinnik`, `kt:tigran-petrosian`, `kt:wilhelm-steinitz` |
+| `kt:closed-games` | `kt:open-games`, `kt:queens-gambit-accepted`, `kt:queens-gambit`, `kt:semi-open-games` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:herbert-simon` |
-| `kt:open-games` | `kt:italian-game`, `kt:ruy-lopez`, `kt:semi-open-games`, `kt:semi-open-games` |
 | `kt:alekhines-defence` | `kt:fischer-spassky-1972`, `kt:hypermodernism`, `kt:semi-open-games` |
 | `kt:alexander-alekhine` | `kt:slav-defence`, `kt:jose-raul-capablanca`, `kt:blindfold-chess` |
 | `kt:boris-spassky` | `kt:fischer-spassky-1972`, `kt:bobby-fischer`, `kt:tigran-petrosian` |
-| `kt:closed-games` | `kt:queens-gambit-accepted`, `kt:queens-gambit`, `kt:semi-open-games` |
 | `kt:corresponding-squares` | `kt:key-squares`, `kt:triangulation`, `kt:triangulation` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position`, `kt:rook-endgames` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search`, `kt:progressive-deepening` |
 | `kt:javokhir-sindarov` | `kt:candidates-tournament`, `kt:fide-world-cup`, `kt:gukesh-dommaraju` |
+| `kt:kings-gambit` | `kt:immortal-game`, `kt:evans-gambit`, `kt:open-games` |
 | `kt:magnus-carlsen` | `kt:fide-world-cup`, `kt:fide-world-cup`, `kt:gukesh-dommaraju` |
 | `kt:mikhail-chigorin` | `kt:hastings-1895`, `kt:evans-gambit`, `kt:wilhelm-steinitz` |
 | `kt:portable-game-notation` | `kt:algebraic-notation`, `kt:forsyth-edwards-notation`, `kt:forsyth-edwards-notation` |
@@ -25,6 +25,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:backward-pawn` | `kt:minority-attack`, `kt:outpost` |
 | `kt:berlin-defence` | `kt:alphazero`, `kt:ruy-lopez` |
 | `kt:botvinnik-versus-capablanca-avro-1938` | `kt:soviet-chess-school`, `kt:mikhail-botvinnik` |
+| `kt:chess-openings` | `kt:open-games`, `kt:semi-open-games` |
 | `kt:chess-organizations` | `kt:fide`, `kt:us-chess` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
 | `kt:dragon-variation` | `kt:najdorf-variation`, `kt:sicilian-defence` |
@@ -33,7 +34,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:johannes-zukertort` | `kt:adolf-anderssen`, `kt:wilhelm-steinitz` |
 | `kt:ju-wenjun` | `kt:womens-world-chess-championship`, `kt:womens-world-chess-championship` |
 | `kt:karpov-versus-unzicker-nice-1974` | `kt:prophylaxis`, `kt:anatoly-karpov` |
-| `kt:kings-gambit` | `kt:immortal-game`, `kt:evans-gambit` |
 | `kt:lionel-kieseritzky` | `kt:immortal-game`, `kt:london-1851` |
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position`, `kt:smothered-mate` |
 | `kt:miguel-najdorf` | `kt:najdorf-variation`, `kt:blindfold-chess` |
@@ -80,7 +80,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:carlsbad-1923` | `kt:carlsbad-structure` |
 | `kt:carlsbad-1929` | `kt:aron-nimzowitsch` |
 | `kt:carlsen-versus-anand-sochi-2014-game-6` | `kt:zwischenzug` |
-| `kt:chess-openings` | `kt:semi-open-games` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
 | `kt:chrest` | `kt:template-theory` |
 | `kt:cognitive-science` | `kt:cognitive-psychology-of-chess` |
@@ -157,6 +156,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:panov-botvinnik-attack` | `kt:caro-kann-defence` |
 | `kt:passive-rook-defence` | `kt:philidor-position` |
 | `kt:paul-keres` | `kt:correspondence-chess` |
+| `kt:petroffs-defence` | `kt:open-games` |
 | `kt:petrosian-versus-spassky-moscow-1966-game-10` | `kt:tigran-petrosian` |
 | `kt:philidor-defence` | `kt:francois-andre-danican-philidor` |
 | `kt:philipp-stamma` | `kt:algebraic-notation` |
