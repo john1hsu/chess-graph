@@ -725,6 +725,120 @@
       ]
     },
     {
+      "@id": "kt:leela-chess-zero",
+      "@type": "kto:Engine",
+      "skos:prefLabel": "Leela Chess Zero",
+      "skos:definition": "A free, open-source UCI chess engine, inspired by AlphaZero, that chooses moves with a Monte Carlo tree search guided by a neural network trained through distributed self-play, and that won the Top Chess Engine Championship in Season 15 (2019).",
+      "kto:domain": "computer-chess",
+      "dcterms:created": "2026-11-13",
+      "kto:verified": "2026-11-13",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "What is Lc0?",
+          "dcterms:publisher": "Leela Chess Zero project (lczero.org)",
+          "schema:url": "https://lczero.org/dev/wiki/what-is-lc0",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "Project overview",
+          "dcterms:publisher": "Leela Chess Zero project (lczero.org)",
+          "schema:url": "https://lczero.org/dev/overview",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "LeelaChessZero/lczero (deprecated original repository, README)",
+          "dcterms:publisher": "Leela Chess Zero project, GitHub",
+          "schema:url": "https://github.com/leelachesszero/lczero",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "LeelaChessZero/lc0 (README) and releases",
+          "dcterms:publisher": "Leela Chess Zero project, GitHub",
+          "schema:url": "https://github.com/LeelaChessZero/lc0",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "Project History",
+          "dcterms:publisher": "Leela Chess Zero project (lczero.org)",
+          "schema:url": "https://lczero.org/dev/wiki/project-history",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "Leela Chess Zero Blog, posts of January–March 2019",
+          "dcterms:publisher": "Leela Chess Zero project (lczero.org)",
+          "schema:url": "https://lczero.org/blog/page/5",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "Leela Chess Zero Blog, posts of March–July 2019",
+          "dcterms:publisher": "Leela Chess Zero project (lczero.org)",
+          "schema:url": "https://lczero.org/blog/page/4",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "The TCEC15 Computer Chess Superfinal: a perspective",
+          "dcterms:publisher": "Matthew Sadler, Top Chess Engine Championship (tcec-chess.com)",
+          "schema:url": "https://tcec-chess.com/articles/Sufi_15_-_Sadler.pdf",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "First major title for a neural network in chess: Lc0 wins TCEC Cup",
+          "dcterms:publisher": "Chessdom",
+          "schema:url": "https://www.chessdom.com/first-major-title-for-a-neural-network-in-chess-lc0-wins-tcec-cup/",
+          "kto:sourceType": "news"
+        }
+      ],
+      "kto:file": "articles/computer-chess/leela-chess-zero.md",
+      "skos:altLabel": [
+        "Lc0",
+        "LCZero",
+        "Leela",
+        "Leela Chess"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:computer-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:alphazero"
+        },
+        {
+          "@id": "kt:stockfish"
+        },
+        {
+          "@id": "kt:nnue"
+        },
+        {
+          "@id": "kt:evaluation-function"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:monte-carlo-tree-search"
+        },
+        {
+          "@id": "kt:universal-chess-interface"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:alphazero"
+        },
+        {
+          "@id": "kt:leela-zero"
+        }
+      ],
+      "kto:playedIn": [
+        {
+          "@id": "kt:top-chess-engine-championship"
+        }
+      ]
+    },
+    {
       "@id": "kt:minimax",
       "@type": "kto:Algorithm",
       "skos:prefLabel": "Minimax",

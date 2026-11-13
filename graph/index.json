@@ -2256,6 +2256,34 @@
     ]
   },
   {
+    "id": "kt:leela-chess-zero",
+    "title": "Leela Chess Zero",
+    "aliases": [
+      "Lc0",
+      "LCZero",
+      "Leela",
+      "Leela Chess"
+    ],
+    "type": "Engine",
+    "domain": "computer-chess",
+    "file": "articles/computer-chess/leela-chess-zero.md",
+    "created": "2026-11-13",
+    "verified": "2026-11-13",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://lczero.org/dev/wiki/what-is-lc0",
+      "https://lczero.org/dev/overview",
+      "https://github.com/leelachesszero/lczero",
+      "https://github.com/LeelaChessZero/lc0",
+      "https://lczero.org/dev/wiki/project-history",
+      "https://lczero.org/blog/page/5",
+      "https://lczero.org/blog/page/4",
+      "https://tcec-chess.com/articles/Sufi_15_-_Sadler.pdf",
+      "https://www.chessdom.com/first-major-title-for-a-neural-network-in-chess-lc0-wins-tcec-cup/"
+    ]
+  },
+  {
     "id": "kt:london-1851",
     "title": "London 1851",
     "aliases": [

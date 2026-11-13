@@ -2527,6 +2527,37 @@
 <https://github.com/john1hsu/chess-graph/id/king-and-pawn-endgames> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/opposition> .
 <https://github.com/john1hsu/chess-graph/id/king-and-pawn-endgames> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/triangulation> .
 <https://github.com/john1hsu/chess-graph/id/king-and-pawn-endgames> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Engine> .
+<https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <http://www.w3.org/2000/01/rdf-schema#label> "Leela Chess Zero" .
+<https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <http://www.w3.org/2004/02/skos/core#altLabel> "LCZero" .
+<https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <http://www.w3.org/2004/02/skos/core#altLabel> "Lc0" .
+<https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <http://www.w3.org/2004/02/skos/core#altLabel> "Leela Chess" .
+<https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <http://www.w3.org/2004/02/skos/core#altLabel> "Leela" .
+<https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/computer-chess> .
+<https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <http://www.w3.org/2004/02/skos/core#definition> "A free, open-source UCI chess engine, inspired by AlphaZero, that chooses moves with a Monte Carlo tree search guided by a neural network trained through distributed self-play, and that won the Top Chess Engine Championship in Season 15 (2019)." .
+<https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <http://www.w3.org/2004/02/skos/core#prefLabel> "Leela Chess Zero" .
+<https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/alphazero> .
+<https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/evaluation-function> .
+<https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/nnue> .
+<https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/stockfish> .
+<https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s1> .
+<https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s2> .
+<https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s3> .
+<https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s4> .
+<https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s5> .
+<https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s6> .
+<https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s7> .
+<https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s8> .
+<https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s9> .
+<https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <https://github.com/john1hsu/chess-graph/ontology#domain> "computer-chess" .
+<https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/alphazero> .
+<https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/leela-zero> .
+<https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/top-chess-engine-championship> .
+<https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> .
+<https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/universal-chess-interface> .
+<https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-13" .
 <https://github.com/john1hsu/chess-graph/id/london-1851> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/london-1851> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Event> .
 <https://github.com/john1hsu/chess-graph/id/london-1851> <http://www.w3.org/2000/01/rdf-schema#label> "London 1851" .
@@ -6208,6 +6239,51 @@
 <https://github.com/john1hsu/chess-graph/id/source/king-and-pawn-endgames/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/king-and-pawn-endgames/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/king-and-pawn-endgames/s4> <https://schema.org/url> "https://www.chess.com/terms/square-rule-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s1> <http://purl.org/dc/terms/publisher> "Leela Chess Zero project (lczero.org)" .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s1> <http://purl.org/dc/terms/title> "What is Lc0?" .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s1> <https://schema.org/url> "https://lczero.org/dev/wiki/what-is-lc0" .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s2> <http://purl.org/dc/terms/publisher> "Leela Chess Zero project (lczero.org)" .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s2> <http://purl.org/dc/terms/title> "Project overview" .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s2> <https://schema.org/url> "https://lczero.org/dev/overview" .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s3> <http://purl.org/dc/terms/publisher> "Leela Chess Zero project, GitHub" .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s3> <http://purl.org/dc/terms/title> "LeelaChessZero/lczero (deprecated original repository, README)" .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s3> <https://schema.org/url> "https://github.com/leelachesszero/lczero" .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s4> <http://purl.org/dc/terms/publisher> "Leela Chess Zero project, GitHub" .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s4> <http://purl.org/dc/terms/title> "LeelaChessZero/lc0 (README) and releases" .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s4> <https://schema.org/url> "https://github.com/LeelaChessZero/lc0" .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s5> <http://purl.org/dc/terms/publisher> "Leela Chess Zero project (lczero.org)" .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s5> <http://purl.org/dc/terms/title> "Project History" .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s5> <https://schema.org/url> "https://lczero.org/dev/wiki/project-history" .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s6> <http://purl.org/dc/terms/publisher> "Leela Chess Zero project (lczero.org)" .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s6> <http://purl.org/dc/terms/title> "Leela Chess Zero Blog, posts of January–March 2019" .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s6> <https://schema.org/url> "https://lczero.org/blog/page/5" .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s7> <http://purl.org/dc/terms/publisher> "Leela Chess Zero project (lczero.org)" .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s7> <http://purl.org/dc/terms/title> "Leela Chess Zero Blog, posts of March–July 2019" .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s7> <https://schema.org/url> "https://lczero.org/blog/page/4" .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s8> <http://purl.org/dc/terms/publisher> "Matthew Sadler, Top Chess Engine Championship (tcec-chess.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s8> <http://purl.org/dc/terms/title> "The TCEC15 Computer Chess Superfinal: a perspective" .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s8> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s8> <https://schema.org/url> "https://tcec-chess.com/articles/Sufi_15_-_Sadler.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s9> <http://purl.org/dc/terms/publisher> "Chessdom" .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s9> <http://purl.org/dc/terms/title> "First major title for a neural network in chess: Lc0 wins TCEC Cup" .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s9> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s9> <https://schema.org/url> "https://www.chessdom.com/first-major-title-for-a-neural-network-in-chess-lc0-wins-tcec-cup/" .
 <https://github.com/john1hsu/chess-graph/id/source/london-1851/s1> <http://purl.org/dc/terms/publisher> "OlimpBase (Wojciech Bartelski)" .
 <https://github.com/john1hsu/chess-graph/id/source/london-1851/s1> <http://purl.org/dc/terms/title> "London chess tournament :: London 1851" .
 <https://github.com/john1hsu/chess-graph/id/source/london-1851/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

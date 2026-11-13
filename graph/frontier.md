@@ -6,7 +6,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:chess` | `kt:chess-endgame`, `kt:chess-titles`, `kt:chess-tournament`, `kt:chaturanga`, `kt:history-of-chess`, `kt:shatranj`, `kt:chess-strategy`, `kt:fide-laws-of-chess`, `kt:chess-tactics`, `kt:blindfold-chess`, `kt:chess-composition`, `kt:chess-variants`, `kt:correspondence-chess` |
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:mikhail-botvinnik`, `kt:tigran-petrosian`, `kt:wilhelm-steinitz` |
-| `kt:leela-chess-zero` | `kt:alphazero`, `kt:computer-chess`, `kt:monte-carlo-tree-search`, `kt:nnue`, `kt:stockfish` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:herbert-simon` |
 | `kt:open-games` | `kt:italian-game`, `kt:ruy-lopez`, `kt:semi-open-games`, `kt:semi-open-games` |
 | `kt:alekhines-defence` | `kt:fischer-spassky-1972`, `kt:hypermodernism`, `kt:semi-open-games` |
@@ -21,6 +20,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mikhail-chigorin` | `kt:hastings-1895`, `kt:evans-gambit`, `kt:wilhelm-steinitz` |
 | `kt:portable-game-notation` | `kt:algebraic-notation`, `kt:forsyth-edwards-notation`, `kt:forsyth-edwards-notation` |
 | `kt:rule-of-the-square` | `kt:key-squares`, `kt:king-and-pawn-endgames`, `kt:passed-pawn` |
+| `kt:universal-chess-interface` | `kt:leela-chess-zero`, `kt:stockfish`, `kt:chess960` |
 | `kt:vladimir-kramnik` | `kt:alphazero`, `kt:ruy-lopez`, `kt:garry-kasparov` |
 | `kt:alexander-kotov` | `kt:calculation`, `kt:candidate-moves` |
 | `kt:backward-pawn` | `kt:minority-attack`, `kt:outpost` |
@@ -56,9 +56,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:sveshnikov-variation` | `kt:outpost`, `kt:sicilian-defence` |
 | `kt:talent` | `kt:chess-expertise`, `kt:deliberate-practice` |
 | `kt:tie-break` | `kt:chess-tournament`, `kt:us-chess-championship` |
+| `kt:top-chess-engine-championship` | `kt:leela-chess-zero`, `kt:stockfish` |
 | `kt:transposition-table` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:underpromotion` | `kt:pawn-promotion`, `kt:excelsior` |
-| `kt:universal-chess-interface` | `kt:stockfish`, `kt:chess960` |
 | `kt:world-chess-championship-1886` | `kt:world-chess-championship`, `kt:wilhelm-steinitz` |
 | `kt:world-federation-for-chess-composition` | `kt:chess-composition`, `kt:codex-of-chess-composition` |
 | `kt:abraham-luchins` | `kt:einstellung-effect` |
@@ -132,6 +132,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:lasker-capablanca-st-petersburg-1914` | `kt:emanuel-lasker` |
 | `kt:lasker-thomas-1912` | `kt:decoy` |
 | `kt:lasker-versus-bauer-amsterdam-1889` | `kt:combination` |
+| `kt:leela-zero` | `kt:leela-chess-zero` |
 | `kt:leipzig-1894` | `kt:siegbert-tarrasch` |
 | `kt:leonardo-torres-y-quevedo` | `kt:claude-shannon` |
 | `kt:levon-aronian` | `kt:fide-world-cup` |
@@ -199,7 +200,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:team-chess` | `kt:chess-olympiad` |
 | `kt:the-exchange` | `kt:material-advantage` |
 | `kt:tie-break-regulations` | `kt:chess-olympiad` |
-| `kt:top-chess-engine-championship` | `kt:stockfish` |
 | `kt:tord-romstad` | `kt:stockfish` |
 | `kt:two-knights-defence` | `kt:italian-game` |
 | `kt:us-womens-chess-championship` | `kt:us-chess-championship` |
