@@ -10015,6 +10015,111 @@
       ]
     },
     {
+      "@id": "kt:smothered-mate",
+      "@type": "kto:MatingPattern",
+      "skos:prefLabel": "Smothered mate",
+      "skos:definition": "A checkmate, almost always given by a knight, in which the mated king cannot move because every neighbouring square is occupied by its own pieces or pawns; its best-known form, Philidor's legacy, ends with a queen sacrifice that forces a rook to block the king's last escape square.",
+      "kto:domain": "tactics",
+      "dcterms:created": "2026-11-13",
+      "kto:verified": "2026-11-13",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Smothered Mate",
+          "dcterms:publisher": "Edward Winter, Chess Notes",
+          "schema:url": "https://www.chesshistory.com/winter/extra/smothered.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "François-André Danican Philidor",
+          "dcterms:publisher": "Edward Winter, Chess Notes",
+          "schema:url": "https://chesshistory.com/winter/extra/philidor1.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Other Classic Mating Ideas: The Smothered Mate, Figures 6.2.14.1, 6.2.14.4 and 6.2.14.6 (Predator at the Chessboard)",
+          "dcterms:publisher": "Ward Farnsworth, chesstactics.org",
+          "schema:url": "https://www.chesstactics.org/mating-patterns/other-classic-mating-ideas/the-smothered-mate/6_2_14_6.html",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Smothered Mate (Chess Terms)",
+          "dcterms:publisher": "ChessKid (Chess.com)",
+          "schema:url": "https://www.chesskid.com/learn/terms/smothered-mate",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Study of the month: Don't bother me with smother mate",
+          "dcterms:publisher": "ChessBase News (Siegfried Hornecker)",
+          "schema:url": "https://en.chessbase.com/post/study-of-the-month-don-t-bother-me-with-smother-mate",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "9. Smothered mate (tactics course)",
+          "dcterms:publisher": "ChessBase",
+          "schema:url": "https://learn.chessbase.com/en/page/smothered-mate",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/tactics/smothered-mate.md",
+      "skos:altLabel": [
+        "Smothered checkmate",
+        "Smother mate",
+        "Philidor's legacy",
+        "Philidor's Legacy"
+      ],
+      "kto:fen": "r4r1k/6pp/7N/3Q4/8/8/5PPP/6K1 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:checkmate"
+        },
+        {
+          "@id": "kt:chess-tactics"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:back-rank-mate"
+        },
+        {
+          "@id": "kt:sacrifice"
+        },
+        {
+          "@id": "kt:combination"
+        },
+        {
+          "@id": "kt:pin"
+        },
+        {
+          "@id": "kt:decoy"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:back-rank-mate"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:decoy"
+        },
+        {
+          "@id": "kt:sacrifice"
+        }
+      ],
+      "kto:namedAfter": [
+        {
+          "@id": "kt:francois-andre-danican-philidor"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:luis-ramirez-de-lucena"
+        }
+      ]
+    },
+    {
       "@id": "kt:zwischenzug",
       "@type": "kto:TacticalMotif",
       "skos:prefLabel": "Zwischenzug",

@@ -2918,6 +2918,31 @@
     ]
   },
   {
+    "id": "kt:smothered-mate",
+    "title": "Smothered mate",
+    "aliases": [
+      "Smothered checkmate",
+      "Smother mate",
+      "Philidor's legacy",
+      "Philidor's Legacy"
+    ],
+    "type": "MatingPattern",
+    "domain": "tactics",
+    "file": "articles/tactics/smothered-mate.md",
+    "created": "2026-11-13",
+    "verified": "2026-11-13",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.chesshistory.com/winter/extra/smothered.html",
+      "https://chesshistory.com/winter/extra/philidor1.html",
+      "https://www.chesstactics.org/mating-patterns/other-classic-mating-ideas/the-smothered-mate/6_2_14_6.html",
+      "https://www.chesskid.com/learn/terms/smothered-mate",
+      "https://en.chessbase.com/post/study-of-the-month-don-t-bother-me-with-smother-mate",
+      "https://learn.chessbase.com/en/page/smothered-mate"
+    ]
+  },
+  {
     "id": "kt:soviet-chess-school",
     "title": "Soviet chess school",
     "aliases": [
