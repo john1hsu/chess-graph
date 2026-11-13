@@ -3763,6 +3763,91 @@
       ]
     },
     {
+      "@id": "kt:evergreen-game",
+      "@type": "kto:Game",
+      "skos:prefLabel": "Evergreen Game",
+      "skos:definition": "The Evans Gambit game Adolf Anderssen won against Jean Dufresne, first published in 1852, in which White gave up a knight, a rook and the queen to mate with two bishops; Steinitz's 1879 tribute calling it an evergreen in Anderssen's laurel crown gave it its name.",
+      "kto:domain": "history",
+      "dcterms:created": "2026-11-13",
+      "kto:verified": "2026-11-13",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Evergreen Game (Anderssen v Dufresne)",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://www.chesshistory.com/winter/extra/evergreen.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Common Sense in Chess (Emanuel Lasker), Ogilvie Publishing Company, New York; Internet Archive scan",
+          "dcterms:publisher": "Internet Archive (University of California Libraries copy)",
+          "schema:url": "https://archive.org/download/commonsenseinche00laskrich/commonsenseinche00laskrich_bw.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Anderssen, A – Dufresne, J [C52] (annotated game, notes credited to Garry Kasparov)",
+          "dcterms:publisher": "ChessBase",
+          "schema:url": "https://en.chessbase.com/portals/4/files/games/gkanalysis/focus03g0.htm",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The Evergreen Game, Part I (IM Bryan Smith)",
+          "dcterms:publisher": "ChessKid",
+          "schema:url": "https://www.chesskid.com/learn/articles/the-evergreen-game",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/history/evergreen-game.md",
+      "skos:altLabel": [
+        "The Evergreen Game",
+        "Evergreen Partie",
+        "Immergrüne Partie",
+        "Anderssen versus Dufresne",
+        "Anderssen vs Dufresne 1852",
+        "Anderssen–Dufresne Berlin 1852"
+      ],
+      "kto:fen": "1r2k1r1/pbppnp1p/1bn2P2/7q/Q7/B1PB1N2/P4PPP/3RR1K1 b - - 2 19",
+      "skos:broader": [
+        {
+          "@id": "kt:romantic-era"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:immortal-game"
+        },
+        {
+          "@id": "kt:evans-gambit"
+        },
+        {
+          "@id": "kt:combination"
+        },
+        {
+          "@id": "kt:wilhelm-steinitz"
+        },
+        {
+          "@id": "kt:emanuel-lasker"
+        }
+      ],
+      "kto:playedBy": [
+        {
+          "@id": "kt:adolf-anderssen"
+        },
+        {
+          "@id": "kt:jean-dufresne"
+        }
+      ],
+      "kto:exemplifies": [
+        {
+          "@id": "kt:romantic-era"
+        },
+        {
+          "@id": "kt:sacrifice"
+        }
+      ]
+    },
+    {
       "@id": "kt:fischer-spassky-1972",
       "@type": "kto:Event",
       "skos:prefLabel": "Fischer–Spassky 1972",

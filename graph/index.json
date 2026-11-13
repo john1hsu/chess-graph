@@ -1410,6 +1410,31 @@
     ]
   },
   {
+    "id": "kt:evergreen-game",
+    "title": "Evergreen Game",
+    "aliases": [
+      "The Evergreen Game",
+      "Evergreen Partie",
+      "Immergrüne Partie",
+      "Anderssen versus Dufresne",
+      "Anderssen vs Dufresne 1852",
+      "Anderssen–Dufresne Berlin 1852"
+    ],
+    "type": "Game",
+    "domain": "history",
+    "file": "articles/history/evergreen-game.md",
+    "created": "2026-11-13",
+    "verified": "2026-11-13",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://www.chesshistory.com/winter/extra/evergreen.html",
+      "https://archive.org/download/commonsenseinche00laskrich/commonsenseinche00laskrich_bw.pdf",
+      "https://en.chessbase.com/portals/4/files/games/gkanalysis/focus03g0.htm",
+      "https://www.chesskid.com/learn/articles/the-evergreen-game"
+    ]
+  },
+  {
     "id": "kt:excelsior",
     "title": "Excelsior",
     "aliases": [

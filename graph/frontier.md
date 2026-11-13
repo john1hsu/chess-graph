@@ -29,7 +29,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:closed-games` | `kt:queens-gambit-accepted`, `kt:queens-gambit` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
 | `kt:dragon-variation` | `kt:najdorf-variation`, `kt:sicilian-defence` |
-| `kt:evergreen-game` | `kt:evans-gambit`, `kt:adolf-anderssen` |
 | `kt:gambit` | `kt:evans-gambit`, `kt:sacrifice` |
 | `kt:howard-staunton` | `kt:london-1851`, `kt:london-1851` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
@@ -117,6 +116,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:international-master` | `kt:fernand-gobet` |
 | `kt:international-master-title` | `kt:grandmaster-title` |
 | `kt:intrinsic-performance-rating` | `kt:fair-play-regulations` |
+| `kt:jean-dufresne` | `kt:evergreen-game` |
 | `kt:john-mccarthy` | `kt:alpha-beta-pruning` |
 | `kt:john-von-neumann` | `kt:minimax` |
 | `kt:kaissa` | `kt:bitboards` |
