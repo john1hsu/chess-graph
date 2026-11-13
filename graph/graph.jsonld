@@ -9934,6 +9934,114 @@
       ]
     },
     {
+      "@id": "kt:decoy",
+      "@type": "kto:TacticalMotif",
+      "skos:prefLabel": "Decoy",
+      "skos:definition": "A tactic that lures an enemy piece onto a particular square, where it can then be exploited by a fork, pin, mating net or other follow-up; it is the mirror image of deflection, which drives a defender away from a square rather than drawing one onto it.",
+      "kto:domain": "tactics",
+      "dcterms:created": "2026-11-13",
+      "kto:verified": "2026-11-13",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Decoy (Chess Terms)",
+          "dcterms:publisher": "Chess.com",
+          "schema:url": "https://www.chess.com/terms/decoy-chess",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Look! It's Elvis! (The Decoy Part 1)",
+          "dcterms:publisher": "Jessica Martin, ChessKid",
+          "schema:url": "https://www.chesskid.com/learn/articles/look-its-elvis-the-decoy",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Decoys on the Diagonal / Bishop Check Sacrifices, Figure 5.3.4.5 (Predator at the Chessboard)",
+          "dcterms:publisher": "Ward Farnsworth, chesstactics.org",
+          "schema:url": "https://www.chesstactics.org/removing-the-guard/attacking-the-guard/decoys-on-the-diagonal_bishop-check-sacrifices/5_3_4_5.html",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Flush Checks / The Decoy, Figure 5.3.3.1 (Predator at the Chessboard)",
+          "dcterms:publisher": "Ward Farnsworth, chesstactics.org",
+          "schema:url": "https://www.chesstactics.org/removing-the-guard/attacking-the-guard/flush-checks_the-decoy/5_3_3_1.html",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Chess Tactics for Kids (sample: contents and Tactic 7, Decoy Sacrifices)",
+          "dcterms:publisher": "Murray Chandler, Gambit Publications",
+          "schema:url": "https://shop.chess-tigers.de/cdn/shop/files/Chess_Tactics_for_Kids.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Chaos in a Miniature (Edward Lasker v Sir George Thomas)",
+          "dcterms:publisher": "Edward Winter, Chess Notes",
+          "schema:url": "https://www.chesshistory.com/winter/extra/laskerthomas.html",
+          "kto:sourceType": "reference"
+        }
+      ],
+      "kto:file": "articles/tactics/decoy.md",
+      "skos:altLabel": [
+        "Attraction",
+        "Decoy sacrifice",
+        "Luring",
+        "Magnet"
+      ],
+      "kto:fen": "rn3rk1/pbppq1pp/1p2pb2/4N2Q/3PN3/3B4/PPP2PPP/R3K2R w KQ - 6 11",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-tactics"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:deflection"
+        },
+        {
+          "@id": "kt:combination"
+        },
+        {
+          "@id": "kt:sacrifice"
+        },
+        {
+          "@id": "kt:fork"
+        },
+        {
+          "@id": "kt:back-rank-mate"
+        },
+        {
+          "@id": "kt:smothered-mate"
+        },
+        {
+          "@id": "kt:zwischenzug"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:deflection"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:fork"
+        },
+        {
+          "@id": "kt:checkmate"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:sacrifice"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:lasker-thomas-1912"
+        }
+      ]
+    },
+    {
       "@id": "kt:deflection",
       "@type": "kto:TacticalMotif",
       "skos:prefLabel": "Deflection",
