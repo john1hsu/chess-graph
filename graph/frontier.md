@@ -8,7 +8,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:mikhail-botvinnik`, `kt:tigran-petrosian`, `kt:wilhelm-steinitz` |
 | `kt:leela-chess-zero` | `kt:alphazero`, `kt:computer-chess`, `kt:monte-carlo-tree-search`, `kt:nnue`, `kt:stockfish` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:herbert-simon` |
-| `kt:threefold-repetition` | `kt:draw`, `kt:en-passant`, `kt:fide-laws-of-chess`, `kt:fifty-move-rule` |
 | `kt:alexander-alekhine` | `kt:slav-defence`, `kt:jose-raul-capablanca`, `kt:blindfold-chess` |
 | `kt:boris-spassky` | `kt:fischer-spassky-1972`, `kt:bobby-fischer`, `kt:tigran-petrosian` |
 | `kt:corresponding-squares` | `kt:key-squares`, `kt:triangulation`, `kt:triangulation` |
@@ -47,6 +46,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:overprotection` | `kt:prophylaxis`, `kt:prophylaxis` |
 | `kt:paul-morphy` | `kt:romantic-era`, `kt:adolf-anderssen` |
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
+| `kt:perpetual-check` | `kt:draw`, `kt:threefold-repetition` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
 | `kt:progressive-deepening` | `kt:calculation`, `kt:candidate-moves` |
 | `kt:saavedra-position` | `kt:pawn-promotion`, `kt:endgame-study` |
@@ -153,7 +153,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:panov-botvinnik-attack` | `kt:caro-kann-defence` |
 | `kt:passive-rook-defence` | `kt:philidor-position` |
 | `kt:paul-keres` | `kt:correspondence-chess` |
-| `kt:perpetual-check` | `kt:draw` |
 | `kt:petrosian-versus-spassky-moscow-1966-game-10` | `kt:tigran-petrosian` |
 | `kt:philidor-defence` | `kt:francois-andre-danican-philidor` |
 | `kt:philipp-stamma` | `kt:algebraic-notation` |
@@ -187,6 +186,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:shuffle-chess` | `kt:chess960` |
 | `kt:simultaneous-exhibition` | `kt:blindfold-chess` |
 | `kt:solving-chess` | `kt:game-tree-search` |
+| `kt:spassky-versus-fischer-reykjavik-1972-game-17` | `kt:threefold-repetition` |
 | `kt:st-petersburg-1895-96` | `kt:hastings-1895` |
 | `kt:static-exchange-evaluation` | `kt:quiescence-search` |
 | `kt:steven-j-edwards` | `kt:forsyth-edwards-notation` |

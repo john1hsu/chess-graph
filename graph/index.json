@@ -3187,6 +3187,32 @@
     ]
   },
   {
+    "id": "kt:threefold-repetition",
+    "title": "Threefold repetition",
+    "aliases": [
+      "Draw by repetition",
+      "Repetition of position",
+      "Triple occurrence of position",
+      "Three-fold repetition",
+      "Fivefold repetition",
+      "Article 9.2"
+    ],
+    "type": "Rule",
+    "domain": "rules-and-notation",
+    "file": "articles/rules-and-notation/threefold-repetition.md",
+    "created": "2026-11-13",
+    "verified": "2026-11-13",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://rcc.fide.com/article9/",
+      "https://new.uschess.org/sites/default/files/media/documents/uschess-fide-rules-comparison.pdf",
+      "https://www.chesshistory.com/winter/extra/repetition.html",
+      "https://aicf.in/wp-content/uploads/2013/07/Arbiter-Case-studies.pdf",
+      "https://en.chessbase.com/newsroom/post/bobby-fischer-in-iceland-45-years-ago-13"
+    ]
+  },
+  {
     "id": "kt:tigran-petrosian",
     "title": "Tigran Petrosian",
     "aliases": [

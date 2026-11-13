@@ -7107,6 +7107,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/template-theory/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/template-theory/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/chess-graph/id/source/template-theory/s4> <https://schema.org/url> "https://core.ac.uk/download/333533.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/threefold-repetition/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/threefold-repetition/s1> <http://purl.org/dc/terms/title> "Article 9: The Drawn Game" .
+<https://github.com/john1hsu/chess-graph/id/source/threefold-repetition/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/threefold-repetition/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/threefold-repetition/s1> <https://schema.org/url> "https://rcc.fide.com/article9/" .
+<https://github.com/john1hsu/chess-graph/id/source/threefold-repetition/s2> <http://purl.org/dc/terms/publisher> "US Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/threefold-repetition/s2> <http://purl.org/dc/terms/title> "Summary of differences between the FIDE Laws of Chess and the US Chess Official Rules of Chess, 7th edition (updated 1 January 2022)" .
+<https://github.com/john1hsu/chess-graph/id/source/threefold-repetition/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/threefold-repetition/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/threefold-repetition/s2> <https://schema.org/url> "https://new.uschess.org/sites/default/files/media/documents/uschess-fide-rules-comparison.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/threefold-repetition/s3> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/threefold-repetition/s3> <http://purl.org/dc/terms/title> "Repetition of Position or Moves in Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/threefold-repetition/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/threefold-repetition/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/threefold-repetition/s3> <https://schema.org/url> "https://www.chesshistory.com/winter/extra/repetition.html" .
+<https://github.com/john1hsu/chess-graph/id/source/threefold-repetition/s4> <http://purl.org/dc/terms/publisher> "All India Chess Federation" .
+<https://github.com/john1hsu/chess-graph/id/source/threefold-repetition/s4> <http://purl.org/dc/terms/title> "Arbiter Case Studies" .
+<https://github.com/john1hsu/chess-graph/id/source/threefold-repetition/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/threefold-repetition/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/threefold-repetition/s4> <https://schema.org/url> "https://aicf.in/wp-content/uploads/2013/07/Arbiter-Case-studies.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/threefold-repetition/s5> <http://purl.org/dc/terms/publisher> "Frederic Friedel, ChessBase News, 25 August 2017" .
+<https://github.com/john1hsu/chess-graph/id/source/threefold-repetition/s5> <http://purl.org/dc/terms/title> "Bobby Fischer in Iceland — 45 years ago (11)" .
+<https://github.com/john1hsu/chess-graph/id/source/threefold-repetition/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/threefold-repetition/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/threefold-repetition/s5> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/bobby-fischer-in-iceland-45-years-ago-13" .
 <https://github.com/john1hsu/chess-graph/id/source/tigran-petrosian/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/tigran-petrosian/s1> <http://purl.org/dc/terms/title> "Tigran Vartanovich Petrosyan" .
 <https://github.com/john1hsu/chess-graph/id/source/tigran-petrosian/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -7544,6 +7569,39 @@
 <https://github.com/john1hsu/chess-graph/id/template-theory> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/chunking-theory> .
 <https://github.com/john1hsu/chess-graph/id/template-theory> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/template-theory> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/threefold-repetition> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/chess-graph/id/threefold-repetition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Rule> .
+<https://github.com/john1hsu/chess-graph/id/threefold-repetition> <http://www.w3.org/2000/01/rdf-schema#label> "Threefold repetition" .
+<https://github.com/john1hsu/chess-graph/id/threefold-repetition> <http://www.w3.org/2004/02/skos/core#altLabel> "Article 9.2" .
+<https://github.com/john1hsu/chess-graph/id/threefold-repetition> <http://www.w3.org/2004/02/skos/core#altLabel> "Draw by repetition" .
+<https://github.com/john1hsu/chess-graph/id/threefold-repetition> <http://www.w3.org/2004/02/skos/core#altLabel> "Fivefold repetition" .
+<https://github.com/john1hsu/chess-graph/id/threefold-repetition> <http://www.w3.org/2004/02/skos/core#altLabel> "Repetition of position" .
+<https://github.com/john1hsu/chess-graph/id/threefold-repetition> <http://www.w3.org/2004/02/skos/core#altLabel> "Three-fold repetition" .
+<https://github.com/john1hsu/chess-graph/id/threefold-repetition> <http://www.w3.org/2004/02/skos/core#altLabel> "Triple occurrence of position" .
+<https://github.com/john1hsu/chess-graph/id/threefold-repetition> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/draw> .
+<https://github.com/john1hsu/chess-graph/id/threefold-repetition> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/threefold-repetition> <http://www.w3.org/2004/02/skos/core#definition> "The FIDE rule that the player on the move may claim a draw when the same position, with the same side to move and the same possible moves, has occurred or is about to occur for at least the third time; a fifth occurrence ends the game automatically." .
+<https://github.com/john1hsu/chess-graph/id/threefold-repetition> <http://www.w3.org/2004/02/skos/core#prefLabel> "Threefold repetition" .
+<https://github.com/john1hsu/chess-graph/id/threefold-repetition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/arbiter> .
+<https://github.com/john1hsu/chess-graph/id/threefold-repetition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/castling> .
+<https://github.com/john1hsu/chess-graph/id/threefold-repetition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/en-passant> .
+<https://github.com/john1hsu/chess-graph/id/threefold-repetition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fifty-move-rule> .
+<https://github.com/john1hsu/chess-graph/id/threefold-repetition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/perpetual-check> .
+<https://github.com/john1hsu/chess-graph/id/threefold-repetition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/touch-move> .
+<https://github.com/john1hsu/chess-graph/id/threefold-repetition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/us-chess> .
+<https://github.com/john1hsu/chess-graph/id/threefold-repetition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/threefold-repetition/s1> .
+<https://github.com/john1hsu/chess-graph/id/threefold-repetition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/threefold-repetition/s2> .
+<https://github.com/john1hsu/chess-graph/id/threefold-repetition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/threefold-repetition/s3> .
+<https://github.com/john1hsu/chess-graph/id/threefold-repetition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/threefold-repetition/s4> .
+<https://github.com/john1hsu/chess-graph/id/threefold-repetition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/threefold-repetition/s5> .
+<https://github.com/john1hsu/chess-graph/id/threefold-repetition> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/dead-position> .
+<https://github.com/john1hsu/chess-graph/id/threefold-repetition> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/fide> .
+<https://github.com/john1hsu/chess-graph/id/threefold-repetition> <https://github.com/john1hsu/chess-graph/ontology#domain> "rules-and-notation" .
+<https://github.com/john1hsu/chess-graph/id/threefold-repetition> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/spassky-versus-fischer-reykjavik-1972-game-17> .
+<https://github.com/john1hsu/chess-graph/id/threefold-repetition> <https://github.com/john1hsu/chess-graph/ontology#moves> "1.e4 Nf6 2.e5 d5 3.Bc4 Ng8 4.Bf1 Nf6 5.Bc4 Ng8 6.Bf1 Nf6" .
+<https://github.com/john1hsu/chess-graph/id/threefold-repetition> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/threefold-repetition> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/threefold-repetition> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-13" .
 <https://github.com/john1hsu/chess-graph/id/tigran-petrosian> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/tigran-petrosian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
 <https://github.com/john1hsu/chess-graph/id/tigran-petrosian> <http://www.w3.org/2000/01/rdf-schema#label> "Tigran Petrosian" .

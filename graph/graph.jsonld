@@ -9366,6 +9366,110 @@
       ]
     },
     {
+      "@id": "kt:threefold-repetition",
+      "@type": "kto:Rule",
+      "skos:prefLabel": "Threefold repetition",
+      "skos:definition": "The FIDE rule that the player on the move may claim a draw when the same position, with the same side to move and the same possible moves, has occurred or is about to occur for at least the third time; a fifth occurrence ends the game automatically.",
+      "kto:domain": "rules-and-notation",
+      "dcterms:created": "2026-11-13",
+      "kto:verified": "2026-11-13",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Article 9: The Drawn Game",
+          "dcterms:publisher": "FIDE Rules Commission",
+          "schema:url": "https://rcc.fide.com/article9/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Summary of differences between the FIDE Laws of Chess and the US Chess Official Rules of Chess, 7th edition (updated 1 January 2022)",
+          "dcterms:publisher": "US Chess",
+          "schema:url": "https://new.uschess.org/sites/default/files/media/documents/uschess-fide-rules-comparison.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Repetition of Position or Moves in Chess",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://www.chesshistory.com/winter/extra/repetition.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Arbiter Case Studies",
+          "dcterms:publisher": "All India Chess Federation",
+          "schema:url": "https://aicf.in/wp-content/uploads/2013/07/Arbiter-Case-studies.pdf",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Bobby Fischer in Iceland — 45 years ago (11)",
+          "dcterms:publisher": "Frederic Friedel, ChessBase News, 25 August 2017",
+          "schema:url": "https://en.chessbase.com/newsroom/post/bobby-fischer-in-iceland-45-years-ago-13",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/rules-and-notation/threefold-repetition.md",
+      "skos:altLabel": [
+        "Draw by repetition",
+        "Repetition of position",
+        "Triple occurrence of position",
+        "Three-fold repetition",
+        "Fivefold repetition",
+        "Article 9.2"
+      ],
+      "kto:moves": "1.e4 Nf6 2.e5 d5 3.Bc4 Ng8 4.Bf1 Nf6 5.Bc4 Ng8 6.Bf1 Nf6",
+      "skos:broader": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        },
+        {
+          "@id": "kt:draw"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:fifty-move-rule"
+        },
+        {
+          "@id": "kt:en-passant"
+        },
+        {
+          "@id": "kt:castling"
+        },
+        {
+          "@id": "kt:touch-move"
+        },
+        {
+          "@id": "kt:arbiter"
+        },
+        {
+          "@id": "kt:us-chess"
+        },
+        {
+          "@id": "kt:perpetual-check"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:fide"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:spassky-versus-fischer-reykjavik-1972-game-17"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:dead-position"
+        }
+      ]
+    },
+    {
       "@id": "kt:touch-move",
       "@type": "kto:Rule",
       "skos:prefLabel": "Touch-move",
