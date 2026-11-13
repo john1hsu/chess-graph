@@ -7432,6 +7432,98 @@
       ]
     },
     {
+      "@id": "kt:francois-andre-danican-philidor",
+      "@type": "kto:Player",
+      "skos:prefLabel": "François-André Danican Philidor",
+      "skos:definition": "French chess master and opera composer (1726–1795), regarded as the strongest player of his time, whose L'Analyze des Echecs (London, 1749) was the first influential manual to treat pawn play and overall strategy, and who gave some of the earliest recorded blindfold exhibitions.",
+      "kto:domain": "players",
+      "dcterms:created": "2026-11-13",
+      "kto:verified": "2026-11-13",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "François-André Philidor",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://britannica.com/biography/Francois-Andre-Philidor",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Francois-Andre Philidor (Encyclopedia of World Biography)",
+          "dcterms:publisher": "Encyclopedia.com / Gale",
+          "schema:url": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/francois-andre-philidor",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Philidor, François-André Danican (The Columbia Encyclopedia, 6th ed.)",
+          "dcterms:publisher": "Encyclopedia.com / Columbia University Press",
+          "schema:url": "https://encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/philidor-francois-andre-danican",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Philidor at 300: Chess Master, Musician and Pioneer (André Schulz)",
+          "dcterms:publisher": "ChessBase News",
+          "schema:url": "https://en.chessbase.com/post/philidor-at-300-chess-master-musician-and-pioneer",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "François-André Danican Philidor (Edward Winter)",
+          "dcterms:publisher": "Chess Notes by Edward Winter",
+          "schema:url": "https://chesshistory.com/winter/extra/philidor1.html",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Philidor: 'Pawns are the soul of chess' (Edward Winter)",
+          "dcterms:publisher": "Chess Notes by Edward Winter",
+          "schema:url": "https://chesshistory.com/winter/extra/philidor.html",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Philidor Defense (C41)",
+          "dcterms:publisher": "chessgames.com",
+          "schema:url": "https://www.chessgames.com/perl/chessopening?eco=c41",
+          "kto:sourceType": "database"
+        }
+      ],
+      "kto:file": "articles/players/francois-andre-danican-philidor.md",
+      "skos:altLabel": [
+        "Francois-Andre Danican Philidor",
+        "François-André Philidor",
+        "Francois-Andre Philidor",
+        "André Philidor",
+        "F.-A. Philidor",
+        "Philidor",
+        "André Danican Philidor"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:history-of-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:pawn-structure"
+        },
+        {
+          "@id": "kt:blindfold-chess"
+        },
+        {
+          "@id": "kt:philidor-position"
+        },
+        {
+          "@id": "kt:smothered-mate"
+        },
+        {
+          "@id": "kt:philidor-defence"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:francois-antoine-de-legal"
+        }
+      ]
+    },
+    {
       "@id": "kt:garry-kasparov",
       "@type": "kto:Player",
       "skos:prefLabel": "Garry Kasparov",

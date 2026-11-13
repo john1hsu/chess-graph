@@ -1864,6 +1864,35 @@
 <https://github.com/john1hsu/chess-graph/id/fortress> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/fortress> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/blockade> .
 <https://github.com/john1hsu/chess-graph/id/fortress> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/francois-andre-danican-philidor> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/chess-graph/id/francois-andre-danican-philidor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
+<https://github.com/john1hsu/chess-graph/id/francois-andre-danican-philidor> <http://www.w3.org/2000/01/rdf-schema#label> "François-André Danican Philidor" .
+<https://github.com/john1hsu/chess-graph/id/francois-andre-danican-philidor> <http://www.w3.org/2004/02/skos/core#altLabel> "André Danican Philidor" .
+<https://github.com/john1hsu/chess-graph/id/francois-andre-danican-philidor> <http://www.w3.org/2004/02/skos/core#altLabel> "André Philidor" .
+<https://github.com/john1hsu/chess-graph/id/francois-andre-danican-philidor> <http://www.w3.org/2004/02/skos/core#altLabel> "F.-A. Philidor" .
+<https://github.com/john1hsu/chess-graph/id/francois-andre-danican-philidor> <http://www.w3.org/2004/02/skos/core#altLabel> "Francois-Andre Danican Philidor" .
+<https://github.com/john1hsu/chess-graph/id/francois-andre-danican-philidor> <http://www.w3.org/2004/02/skos/core#altLabel> "Francois-Andre Philidor" .
+<https://github.com/john1hsu/chess-graph/id/francois-andre-danican-philidor> <http://www.w3.org/2004/02/skos/core#altLabel> "François-André Philidor" .
+<https://github.com/john1hsu/chess-graph/id/francois-andre-danican-philidor> <http://www.w3.org/2004/02/skos/core#altLabel> "Philidor" .
+<https://github.com/john1hsu/chess-graph/id/francois-andre-danican-philidor> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/history-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/francois-andre-danican-philidor> <http://www.w3.org/2004/02/skos/core#definition> "French chess master and opera composer (1726–1795), regarded as the strongest player of his time, whose L'Analyze des Echecs (London, 1749) was the first influential manual to treat pawn play and overall strategy, and who gave some of the earliest recorded blindfold exhibitions." .
+<https://github.com/john1hsu/chess-graph/id/francois-andre-danican-philidor> <http://www.w3.org/2004/02/skos/core#prefLabel> "François-André Danican Philidor" .
+<https://github.com/john1hsu/chess-graph/id/francois-andre-danican-philidor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/blindfold-chess> .
+<https://github.com/john1hsu/chess-graph/id/francois-andre-danican-philidor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/pawn-structure> .
+<https://github.com/john1hsu/chess-graph/id/francois-andre-danican-philidor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/philidor-defence> .
+<https://github.com/john1hsu/chess-graph/id/francois-andre-danican-philidor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/philidor-position> .
+<https://github.com/john1hsu/chess-graph/id/francois-andre-danican-philidor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/smothered-mate> .
+<https://github.com/john1hsu/chess-graph/id/francois-andre-danican-philidor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s1> .
+<https://github.com/john1hsu/chess-graph/id/francois-andre-danican-philidor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s2> .
+<https://github.com/john1hsu/chess-graph/id/francois-andre-danican-philidor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s3> .
+<https://github.com/john1hsu/chess-graph/id/francois-andre-danican-philidor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s4> .
+<https://github.com/john1hsu/chess-graph/id/francois-andre-danican-philidor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s5> .
+<https://github.com/john1hsu/chess-graph/id/francois-andre-danican-philidor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s6> .
+<https://github.com/john1hsu/chess-graph/id/francois-andre-danican-philidor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s7> .
+<https://github.com/john1hsu/chess-graph/id/francois-andre-danican-philidor> <https://github.com/john1hsu/chess-graph/ontology#domain> "players" .
+<https://github.com/john1hsu/chess-graph/id/francois-andre-danican-philidor> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/francois-antoine-de-legal> .
+<https://github.com/john1hsu/chess-graph/id/francois-andre-danican-philidor> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/francois-andre-danican-philidor> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-13" .
 <https://github.com/john1hsu/chess-graph/id/french-defence> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/french-defence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Opening> .
 <https://github.com/john1hsu/chess-graph/id/french-defence> <http://www.w3.org/2000/01/rdf-schema#label> "French Defence" .
@@ -5274,6 +5303,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/fortress/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/fortress/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/fortress/s6> <https://schema.org/url> "https://lichess.org/@/BigBrainChess_08/blog/the-wrong-coloured-bishop-fortresses-save-a-lost-position/nlOuSTzJ" .
+<https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s1> <http://purl.org/dc/terms/title> "François-André Philidor" .
+<https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s1> <https://schema.org/url> "https://britannica.com/biography/Francois-Andre-Philidor" .
+<https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s2> <http://purl.org/dc/terms/publisher> "Encyclopedia.com / Gale" .
+<https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s2> <http://purl.org/dc/terms/title> "Francois-Andre Philidor (Encyclopedia of World Biography)" .
+<https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s2> <https://schema.org/url> "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/francois-andre-philidor" .
+<https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s3> <http://purl.org/dc/terms/publisher> "Encyclopedia.com / Columbia University Press" .
+<https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s3> <http://purl.org/dc/terms/title> "Philidor, François-André Danican (The Columbia Encyclopedia, 6th ed.)" .
+<https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s3> <https://schema.org/url> "https://encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/philidor-francois-andre-danican" .
+<https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s4> <http://purl.org/dc/terms/publisher> "ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s4> <http://purl.org/dc/terms/title> "Philidor at 300: Chess Master, Musician and Pioneer (André Schulz)" .
+<https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s4> <https://schema.org/url> "https://en.chessbase.com/post/philidor-at-300-chess-master-musician-and-pioneer" .
+<https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s5> <http://purl.org/dc/terms/publisher> "Chess Notes by Edward Winter" .
+<https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s5> <http://purl.org/dc/terms/title> "François-André Danican Philidor (Edward Winter)" .
+<https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s5> <https://schema.org/url> "https://chesshistory.com/winter/extra/philidor1.html" .
+<https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s6> <http://purl.org/dc/terms/publisher> "Chess Notes by Edward Winter" .
+<https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s6> <http://purl.org/dc/terms/title> "Philidor: 'Pawns are the soul of chess' (Edward Winter)" .
+<https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s6> <https://schema.org/url> "https://chesshistory.com/winter/extra/philidor.html" .
+<https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s7> <http://purl.org/dc/terms/publisher> "chessgames.com" .
+<https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s7> <http://purl.org/dc/terms/title> "Philidor Defense (C41)" .
+<https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/francois-andre-danican-philidor/s7> <https://schema.org/url> "https://www.chessgames.com/perl/chessopening?eco=c41" .
 <https://github.com/john1hsu/chess-graph/id/source/french-defence/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
 <https://github.com/john1hsu/chess-graph/id/source/french-defence/s1> <http://purl.org/dc/terms/title> "The French Defence" .
 <https://github.com/john1hsu/chess-graph/id/source/french-defence/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

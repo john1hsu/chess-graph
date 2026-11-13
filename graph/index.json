@@ -1668,6 +1668,35 @@
     ]
   },
   {
+    "id": "kt:francois-andre-danican-philidor",
+    "title": "François-André Danican Philidor",
+    "aliases": [
+      "Francois-Andre Danican Philidor",
+      "François-André Philidor",
+      "Francois-Andre Philidor",
+      "André Philidor",
+      "F.-A. Philidor",
+      "Philidor",
+      "André Danican Philidor"
+    ],
+    "type": "Player",
+    "domain": "players",
+    "file": "articles/players/francois-andre-danican-philidor.md",
+    "created": "2026-11-13",
+    "verified": "2026-11-13",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://britannica.com/biography/Francois-Andre-Philidor",
+      "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/francois-andre-philidor",
+      "https://encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/philidor-francois-andre-danican",
+      "https://en.chessbase.com/post/philidor-at-300-chess-master-musician-and-pioneer",
+      "https://chesshistory.com/winter/extra/philidor1.html",
+      "https://chesshistory.com/winter/extra/philidor.html",
+      "https://www.chessgames.com/perl/chessopening?eco=c41"
+    ]
+  },
+  {
     "id": "kt:french-defence",
     "title": "French Defence",
     "aliases": [
