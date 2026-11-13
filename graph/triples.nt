@@ -1490,6 +1490,38 @@
 <https://github.com/john1hsu/chess-graph/id/evaluation-function> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/claude-shannon> .
 <https://github.com/john1hsu/chess-graph/id/evaluation-function> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/evaluation-function> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-07" .
+<https://github.com/john1hsu/chess-graph/id/evans-gambit> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/chess-graph/id/evans-gambit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Variation> .
+<https://github.com/john1hsu/chess-graph/id/evans-gambit> <http://www.w3.org/2000/01/rdf-schema#label> "Evans Gambit" .
+<https://github.com/john1hsu/chess-graph/id/evans-gambit> <http://www.w3.org/2004/02/skos/core#altLabel> "Evans Gambit Accepted" .
+<https://github.com/john1hsu/chess-graph/id/evans-gambit> <http://www.w3.org/2004/02/skos/core#altLabel> "German Game" .
+<https://github.com/john1hsu/chess-graph/id/evans-gambit> <http://www.w3.org/2004/02/skos/core#altLabel> "Giuoco Piano Evans Gambit" .
+<https://github.com/john1hsu/chess-graph/id/evans-gambit> <http://www.w3.org/2004/02/skos/core#altLabel> "Italian Game Evans Gambit" .
+<https://github.com/john1hsu/chess-graph/id/evans-gambit> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/gambit> .
+<https://github.com/john1hsu/chess-graph/id/evans-gambit> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/italian-game> .
+<https://github.com/john1hsu/chess-graph/id/evans-gambit> <http://www.w3.org/2004/02/skos/core#definition> "A gambit line of the Italian Game, 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4, in which White offers a wing pawn to gain time for c2-c3 and d2-d4, rapid development and an attack on the black king; devised by Captain William Davies Evans in the 1820s and never refuted." .
+<https://github.com/john1hsu/chess-graph/id/evans-gambit> <http://www.w3.org/2004/02/skos/core#prefLabel> "Evans Gambit" .
+<https://github.com/john1hsu/chess-graph/id/evans-gambit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/kings-gambit> .
+<https://github.com/john1hsu/chess-graph/id/evans-gambit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> .
+<https://github.com/john1hsu/chess-graph/id/evans-gambit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/romantic-era> .
+<https://github.com/john1hsu/chess-graph/id/evans-gambit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> .
+<https://github.com/john1hsu/chess-graph/id/evans-gambit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s1> .
+<https://github.com/john1hsu/chess-graph/id/evans-gambit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s2> .
+<https://github.com/john1hsu/chess-graph/id/evans-gambit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s3> .
+<https://github.com/john1hsu/chess-graph/id/evans-gambit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s4> .
+<https://github.com/john1hsu/chess-graph/id/evans-gambit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s5> .
+<https://github.com/john1hsu/chess-graph/id/evans-gambit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s6> .
+<https://github.com/john1hsu/chess-graph/id/evans-gambit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s7> .
+<https://github.com/john1hsu/chess-graph/id/evans-gambit> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/adolf-anderssen> .
+<https://github.com/john1hsu/chess-graph/id/evans-gambit> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/garry-kasparov> .
+<https://github.com/john1hsu/chess-graph/id/evans-gambit> <https://github.com/john1hsu/chess-graph/ontology#domain> "openings" .
+<https://github.com/john1hsu/chess-graph/id/evans-gambit> <https://github.com/john1hsu/chess-graph/ontology#eco> "C51" .
+<https://github.com/john1hsu/chess-graph/id/evans-gambit> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/evergreen-game> .
+<https://github.com/john1hsu/chess-graph/id/evans-gambit> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/kasparov-versus-anand-riga-1995> .
+<https://github.com/john1hsu/chess-graph/id/evans-gambit> <https://github.com/john1hsu/chess-graph/ontology#moves> "1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4" .
+<https://github.com/john1hsu/chess-graph/id/evans-gambit> <https://github.com/john1hsu/chess-graph/ontology#namedAfter> <https://github.com/john1hsu/chess-graph/id/william-davies-evans> .
+<https://github.com/john1hsu/chess-graph/id/evans-gambit> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/evans-gambit> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-13" .
 <https://github.com/john1hsu/chess-graph/id/excelsior> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/excelsior> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#ProblemTheme> .
 <https://github.com/john1hsu/chess-graph/id/excelsior> <http://www.w3.org/2000/01/rdf-schema#label> "Excelsior" .
@@ -4715,6 +4747,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
 <https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s7> <https://schema.org/url> "https://github.com/official-stockfish/Stockfish/blob/master/src/evaluate.cpp" .
+<https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s1> <http://purl.org/dc/terms/title> "The Evans Gambit" .
+<https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s1> <https://schema.org/url> "https://www.chesshistory.com/winter/extra/evansgambit.html" .
+<https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s2> <http://purl.org/dc/terms/publisher> "Andrew Martin, New In Chess product sample PDF (introduction dated April 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s2> <http://purl.org/dc/terms/title> "The Evans Gambit (sample pages: introduction and contents)" .
+<https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s2> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/81034.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s3> <http://purl.org/dc/terms/publisher> "Johannes Fischer, ChessBase News (21 August 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s3> <http://purl.org/dc/terms/title> "The Evans Gambit – a timeless opening system?" .
+<https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s3> <https://schema.org/url> "https://en.chessbase.com/post/evans-gambit-evergreen-opening" .
+<https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s4> <http://purl.org/dc/terms/publisher> "Raymond Keene, The Spectator archive" .
+<https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s4> <http://purl.org/dc/terms/title> "Chess (column, 29 April 1995)" .
+<https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s4> <https://schema.org/url> "https://archive.spectator.co.uk/article/29th-april-1995/52/chess" .
+<https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s5> <http://purl.org/dc/terms/publisher> "GM Bryan Smith, Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s5> <http://purl.org/dc/terms/title> "The Evans Gambit: A History" .
+<https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s5> <https://schema.org/url> "https://www.chess.com/article/view/the-evans-gambit-a-history" .
+<https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s6> <http://purl.org/dc/terms/publisher> "GM Bryan Smith, Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s6> <http://purl.org/dc/terms/title> "The Evans Gambit: Modern Play" .
+<https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s6> <https://schema.org/url> "https://www.chess.com/article/the-evans-gambit-modern-play" .
+<https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s7> <http://purl.org/dc/terms/publisher> "Chessgames.com" .
+<https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s7> <http://purl.org/dc/terms/title> "Garry Kasparov vs Viswanathan Anand, Tal Memorial, Riga 1995" .
+<https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/evans-gambit/s7> <https://schema.org/url> "https://www.chessgames.com/perl/chessgame?gid=1018648" .
 <https://github.com/john1hsu/chess-graph/id/source/excelsior/s1> <http://purl.org/dc/terms/publisher> "Jeremy Morse; hosted by the British Chess Problem Society (The Problemist)" .
 <https://github.com/john1hsu/chess-graph/id/source/excelsior/s1> <http://purl.org/dc/terms/title> "Chess Problems: Tasks and Records (3rd edition), Chapter 19: Onwards and Upwards" .
 <https://github.com/john1hsu/chess-graph/id/source/excelsior/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

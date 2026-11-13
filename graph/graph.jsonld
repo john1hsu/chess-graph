@@ -5681,6 +5681,113 @@
       ]
     },
     {
+      "@id": "kt:evans-gambit",
+      "@type": "kto:Variation",
+      "skos:prefLabel": "Evans Gambit",
+      "skos:definition": "A gambit line of the Italian Game, 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4, in which White offers a wing pawn to gain time for c2-c3 and d2-d4, rapid development and an attack on the black king; devised by Captain William Davies Evans in the 1820s and never refuted.",
+      "kto:domain": "openings",
+      "dcterms:created": "2026-11-13",
+      "kto:verified": "2026-11-13",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Evans Gambit",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://www.chesshistory.com/winter/extra/evansgambit.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "The Evans Gambit (sample pages: introduction and contents)",
+          "dcterms:publisher": "Andrew Martin, New In Chess product sample PDF (introduction dated April 2026)",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/81034.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The Evans Gambit – a timeless opening system?",
+          "dcterms:publisher": "Johannes Fischer, ChessBase News (21 August 2026)",
+          "schema:url": "https://en.chessbase.com/post/evans-gambit-evergreen-opening",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Chess (column, 29 April 1995)",
+          "dcterms:publisher": "Raymond Keene, The Spectator archive",
+          "schema:url": "https://archive.spectator.co.uk/article/29th-april-1995/52/chess",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The Evans Gambit: A History",
+          "dcterms:publisher": "GM Bryan Smith, Chess.com",
+          "schema:url": "https://www.chess.com/article/view/the-evans-gambit-a-history",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The Evans Gambit: Modern Play",
+          "dcterms:publisher": "GM Bryan Smith, Chess.com",
+          "schema:url": "https://www.chess.com/article/the-evans-gambit-modern-play",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Garry Kasparov vs Viswanathan Anand, Tal Memorial, Riga 1995",
+          "dcterms:publisher": "Chessgames.com",
+          "schema:url": "https://www.chessgames.com/perl/chessgame?gid=1018648",
+          "kto:sourceType": "database"
+        }
+      ],
+      "kto:file": "articles/openings/evans-gambit.md",
+      "skos:altLabel": [
+        "Evans Gambit Accepted",
+        "Italian Game Evans Gambit",
+        "Giuoco Piano Evans Gambit",
+        "German Game"
+      ],
+      "kto:eco": "C51",
+      "kto:moves": "1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4",
+      "skos:broader": [
+        {
+          "@id": "kt:italian-game"
+        },
+        {
+          "@id": "kt:gambit"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:romantic-era"
+        },
+        {
+          "@id": "kt:kings-gambit"
+        },
+        {
+          "@id": "kt:wilhelm-steinitz"
+        },
+        {
+          "@id": "kt:mikhail-chigorin"
+        }
+      ],
+      "kto:namedAfter": [
+        {
+          "@id": "kt:william-davies-evans"
+        }
+      ],
+      "kto:championedBy": [
+        {
+          "@id": "kt:garry-kasparov"
+        },
+        {
+          "@id": "kt:adolf-anderssen"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:kasparov-versus-anand-riga-1995"
+        },
+        {
+          "@id": "kt:evergreen-game"
+        }
+      ]
+    },
+    {
       "@id": "kt:french-defence",
       "@type": "kto:Opening",
       "skos:prefLabel": "French Defence",

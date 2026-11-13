@@ -1338,6 +1338,33 @@
     ]
   },
   {
+    "id": "kt:evans-gambit",
+    "title": "Evans Gambit",
+    "aliases": [
+      "Evans Gambit Accepted",
+      "Italian Game Evans Gambit",
+      "Giuoco Piano Evans Gambit",
+      "German Game"
+    ],
+    "type": "Variation",
+    "domain": "openings",
+    "file": "articles/openings/evans-gambit.md",
+    "created": "2026-11-13",
+    "verified": "2026-11-13",
+    "volatile": false,
+    "status": "current",
+    "eco": "C51",
+    "source_urls": [
+      "https://www.chesshistory.com/winter/extra/evansgambit.html",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/81034.pdf",
+      "https://en.chessbase.com/post/evans-gambit-evergreen-opening",
+      "https://archive.spectator.co.uk/article/29th-april-1995/52/chess",
+      "https://www.chess.com/article/view/the-evans-gambit-a-history",
+      "https://www.chess.com/article/the-evans-gambit-modern-play",
+      "https://www.chessgames.com/perl/chessgame?gid=1018648"
+    ]
+  },
+  {
     "id": "kt:excelsior",
     "title": "Excelsior",
     "aliases": [

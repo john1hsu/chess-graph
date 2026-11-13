@@ -14,8 +14,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alexander-alekhine` | `kt:slav-defence`, `kt:jose-raul-capablanca`, `kt:blindfold-chess` |
 | `kt:boris-spassky` | `kt:fischer-spassky-1972`, `kt:bobby-fischer`, `kt:tigran-petrosian` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position`, `kt:rook-endgames` |
-| `kt:evans-gambit` | `kt:romantic-era`, `kt:italian-game`, `kt:adolf-anderssen` |
 | `kt:francois-andre-danican-philidor` | `kt:philidor-position`, `kt:pawn-structure`, `kt:blindfold-chess` |
+| `kt:mikhail-chigorin` | `kt:hastings-1895`, `kt:evans-gambit`, `kt:wilhelm-steinitz` |
 | `kt:portable-game-notation` | `kt:algebraic-notation`, `kt:forsyth-edwards-notation`, `kt:forsyth-edwards-notation` |
 | `kt:semi-open-games` | `kt:caro-kann-defence`, `kt:french-defence`, `kt:sicilian-defence` |
 | `kt:smothered-mate` | `kt:back-rank-mate`, `kt:back-rank-mate`, `kt:einstellung-effect` |
@@ -28,16 +28,18 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:corresponding-squares` | `kt:triangulation`, `kt:triangulation` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
 | `kt:dragon-variation` | `kt:najdorf-variation`, `kt:sicilian-defence` |
+| `kt:evergreen-game` | `kt:evans-gambit`, `kt:adolf-anderssen` |
 | `kt:fernand-gobet` | `kt:template-theory`, `kt:visualization` |
+| `kt:gambit` | `kt:evans-gambit`, `kt:sacrifice` |
 | `kt:howard-staunton` | `kt:london-1851`, `kt:london-1851` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:javokhir-sindarov` | `kt:candidates-tournament`, `kt:gukesh-dommaraju` |
 | `kt:johannes-zukertort` | `kt:adolf-anderssen`, `kt:wilhelm-steinitz` |
 | `kt:ju-wenjun` | `kt:womens-world-chess-championship`, `kt:womens-world-chess-championship` |
 | `kt:karpov-versus-unzicker-nice-1974` | `kt:prophylaxis`, `kt:anatoly-karpov` |
+| `kt:kings-gambit` | `kt:immortal-game`, `kt:evans-gambit` |
 | `kt:lionel-kieseritzky` | `kt:immortal-game`, `kt:london-1851` |
 | `kt:miguel-najdorf` | `kt:najdorf-variation`, `kt:blindfold-chess` |
-| `kt:mikhail-chigorin` | `kt:hastings-1895`, `kt:wilhelm-steinitz` |
 | `kt:move-ordering` | `kt:alpha-beta-pruning`, `kt:quiescence-search` |
 | `kt:open-games` | `kt:italian-game`, `kt:ruy-lopez` |
 | `kt:origins-of-chess` | `kt:chaturanga`, `kt:history-of-chess` |
@@ -91,7 +93,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:englisch-versus-steinitz-london-1883` | `kt:bishop-pair` |
 | `kt:english-attack` | `kt:najdorf-variation` |
 | `kt:european-chess-union` | `kt:fide` |
-| `kt:evergreen-game` | `kt:adolf-anderssen` |
 | `kt:exchange-sacrifice` | `kt:sacrifice` |
 | `kt:extended-position-description` | `kt:forsyth-edwards-notation` |
 | `kt:fide-ethics-and-disciplinary-code` | `kt:fair-play-regulations` |
@@ -101,7 +102,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fischer-spassky-1972-game-6` | `kt:hanging-pawns` |
 | `kt:four-handed-chaturanga` | `kt:chaturanga` |
 | `kt:frank-marshall` | `kt:us-chess-championship` |
-| `kt:gambit` | `kt:sacrifice` |
 | `kt:game-of-the-century` | `kt:bobby-fischer` |
 | `kt:giuoco-pianissimo` | `kt:italian-game` |
 | `kt:glicko-rating-system` | `kt:elo-rating-system` |
@@ -118,10 +118,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:john-mccarthy` | `kt:alpha-beta-pruning` |
 | `kt:john-von-neumann` | `kt:minimax` |
 | `kt:kaissa` | `kt:bitboards` |
+| `kt:kasparov-versus-anand-riga-1995` | `kt:evans-gambit` |
 | `kt:kasparov-versus-topalov-wijk-aan-zee-1999` | `kt:garry-kasparov` |
 | `kt:ken-thompson` | `kt:endgame-tablebases` |
 | `kt:king-safety` | `kt:castling` |
-| `kt:kings-gambit` | `kt:immortal-game` |
 | `kt:kings-indian-defence` | `kt:soviet-chess-school` |
 | `kt:knight-versus-bishop` | `kt:good-and-bad-bishops` |
 | `kt:lasker-capablanca-havana-1921-game-10` | `kt:jose-raul-capablanca` |
@@ -203,6 +203,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:viswanathan-anand` | `kt:gukesh-dommaraju` |
 | `kt:weak-squares` | `kt:outpost` |
 | `kt:william-chase` | `kt:chunking-theory` |
+| `kt:william-davies-evans` | `kt:evans-gambit` |
 | `kt:winawer-variation` | `kt:french-defence` |
 | `kt:world-chess-championship-1894` | `kt:emanuel-lasker` |
 | `kt:world-chess-championship-1908` | `kt:siegbert-tarrasch` |
