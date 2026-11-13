@@ -10901,6 +10901,114 @@
       ]
     },
     {
+      "@id": "kt:fernand-gobet",
+      "@type": "kto:Person",
+      "skos:prefLabel": "Fernand Gobet",
+      "skos:definition": "Cognitive scientist and International Master who represented Switzerland at Chess Olympiads and, with Herbert Simon, developed template theory and the CHREST model, central accounts of how chess experts perceive, remember and learn positions.",
+      "kto:domain": "training-and-improvement",
+      "dcterms:created": "2026-11-13",
+      "kto:verified": "2026-11-13",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "A bit about Fernand Gobet",
+          "dcterms:publisher": "ESRC International Centre for Language and Communicative Development (LuCiD)",
+          "schema:url": "https://lucid.ac.uk/who-we-are/our-people/co-investigators/fernand-gobet",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Prof Fernand Gobet",
+          "dcterms:publisher": "University of Liverpool",
+          "schema:url": "https://www.liverpool.ac.uk/people/fernand-gobet",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The Psychology of Chess (Fernand Gobet)",
+          "dcterms:publisher": "Routledge",
+          "schema:url": "https://www.routledge.com/The-Psychology-of-Chess/Gobet/p/book/9781138216655",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "26th Chess Olympiad, Thessaloniki 1984 — Switzerland",
+          "dcterms:publisher": "OlimpBase",
+          "schema:url": "https://www.olimpbase.org/1984/1984sui.html",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "28th Chess Olympiad, Thessaloniki 1988 — Switzerland",
+          "dcterms:publisher": "OlimpBase",
+          "schema:url": "https://www.olimpbase.org/1988/1988sui.html",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "Templates in chess memory: A mechanism for recalling several boards (Cognitive Psychology 31, 1996)",
+          "dcterms:publisher": "Fernand Gobet and Herbert A. Simon, Brunel University Research Archive",
+          "schema:url": "https://bura.brunel.ac.uk/handle/2438/1339",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The role of domain-specific practice, handedness and starting age in chess (Developmental Psychology 43, 2007)",
+          "dcterms:publisher": "Fernand Gobet and Guillermo Campitelli, Brunel University Research Archive",
+          "schema:url": "https://bura.brunel.ac.uk/handle/2438/611",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "What's in a Name? The Multiple Meanings of \"Chunk\" and \"Chunking\" (Frontiers in Psychology 7, 2016)",
+          "dcterms:publisher": "Fernand Gobet, Martyn Lloyd-Kelly and Peter C. R. Lane, PubMed Central",
+          "schema:url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4746241",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/training-and-improvement/fernand-gobet.md",
+      "skos:altLabel": [
+        "F. Gobet"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:cognitive-psychology-of-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:template-theory"
+        },
+        {
+          "@id": "kt:chunking-theory"
+        },
+        {
+          "@id": "kt:chess-expertise"
+        },
+        {
+          "@id": "kt:deliberate-practice"
+        },
+        {
+          "@id": "kt:visualization"
+        },
+        {
+          "@id": "kt:adriaan-de-groot"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:herbert-simon"
+        },
+        {
+          "@id": "kt:adriaan-de-groot"
+        }
+      ],
+      "kto:playedIn": [
+        {
+          "@id": "kt:chess-olympiad"
+        }
+      ],
+      "kto:holdsTitle": [
+        {
+          "@id": "kt:international-master"
+        }
+      ]
+    },
+    {
       "@id": "kt:herbert-simon",
       "@type": "kto:Person",
       "skos:prefLabel": "Herbert Simon",

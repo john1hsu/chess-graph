@@ -1416,6 +1416,30 @@
     ]
   },
   {
+    "id": "kt:fernand-gobet",
+    "title": "Fernand Gobet",
+    "aliases": [
+      "F. Gobet"
+    ],
+    "type": "Person",
+    "domain": "training-and-improvement",
+    "file": "articles/training-and-improvement/fernand-gobet.md",
+    "created": "2026-11-13",
+    "verified": "2026-11-13",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://lucid.ac.uk/who-we-are/our-people/co-investigators/fernand-gobet",
+      "https://www.liverpool.ac.uk/people/fernand-gobet",
+      "https://www.routledge.com/The-Psychology-of-Chess/Gobet/p/book/9781138216655",
+      "https://www.olimpbase.org/1984/1984sui.html",
+      "https://www.olimpbase.org/1988/1988sui.html",
+      "https://bura.brunel.ac.uk/handle/2438/1339",
+      "https://bura.brunel.ac.uk/handle/2438/611",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4746241"
+    ]
+  },
+  {
     "id": "kt:fide",
     "title": "FIDE",
     "aliases": [

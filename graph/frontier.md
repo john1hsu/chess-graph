@@ -29,7 +29,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
 | `kt:dragon-variation` | `kt:najdorf-variation`, `kt:sicilian-defence` |
 | `kt:evergreen-game` | `kt:evans-gambit`, `kt:adolf-anderssen` |
-| `kt:fernand-gobet` | `kt:template-theory`, `kt:visualization` |
 | `kt:gambit` | `kt:evans-gambit`, `kt:sacrifice` |
 | `kt:howard-staunton` | `kt:london-1851`, `kt:london-1851` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
@@ -113,6 +112,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:iccf` | `kt:correspondence-chess` |
 | `kt:illegal-move` | `kt:touch-move` |
 | `kt:indian-defences` | `kt:nimzo-indian-defence` |
+| `kt:international-master` | `kt:fernand-gobet` |
 | `kt:international-master-title` | `kt:grandmaster-title` |
 | `kt:intrinsic-performance-rating` | `kt:fair-play-regulations` |
 | `kt:john-mccarthy` | `kt:alpha-beta-pruning` |
