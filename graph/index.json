@@ -104,6 +104,28 @@
     ]
   },
   {
+    "id": "kt:alphazero",
+    "title": "AlphaZero",
+    "aliases": [
+      "Alpha Zero",
+      "DeepMind AlphaZero"
+    ],
+    "type": "Engine",
+    "domain": "computer-chess",
+    "file": "articles/computer-chess/alphazero.md",
+    "created": "2026-11-13",
+    "verified": "2026-11-13",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://arxiv.org/html/1712.01815",
+      "https://turing.iimas.unam.mx/~luis/cursos/IA2022-1/lecturas/AlphaZero.pdf",
+      "https://deepmind.google/blog/alphazero-shedding-new-light-on-chess-shogi-and-go/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9704706",
+      "https://www.newinchess.com/game-changer"
+    ]
+  },
+  {
     "id": "kt:anatoly-karpov",
     "title": "Anatoly Karpov",
     "aliases": [

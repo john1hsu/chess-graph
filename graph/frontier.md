@@ -6,11 +6,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:chess` | `kt:chess-endgame`, `kt:chess-titles`, `kt:chess-tournament`, `kt:chaturanga`, `kt:history-of-chess`, `kt:shatranj`, `kt:chess-strategy`, `kt:fide-laws-of-chess`, `kt:chess-tactics`, `kt:blindfold-chess`, `kt:chess-composition`, `kt:chess-variants`, `kt:correspondence-chess` |
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:mikhail-botvinnik`, `kt:tigran-petrosian`, `kt:wilhelm-steinitz` |
-| `kt:alphazero` | `kt:evaluation-function`, `kt:nnue`, `kt:stockfish`, `kt:chess-variants` |
+| `kt:leela-chess-zero` | `kt:alphazero`, `kt:computer-chess`, `kt:monte-carlo-tree-search`, `kt:nnue`, `kt:stockfish` |
 | `kt:francois-andre-danican-philidor` | `kt:philidor-position`, `kt:pawn-structure`, `kt:smothered-mate`, `kt:blindfold-chess` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:herbert-simon` |
 | `kt:key-squares` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:triangulation`, `kt:zugzwang` |
-| `kt:leela-chess-zero` | `kt:computer-chess`, `kt:monte-carlo-tree-search`, `kt:nnue`, `kt:stockfish` |
 | `kt:threefold-repetition` | `kt:draw`, `kt:en-passant`, `kt:fide-laws-of-chess`, `kt:fifty-move-rule` |
 | `kt:alexander-alekhine` | `kt:slav-defence`, `kt:jose-raul-capablanca`, `kt:blindfold-chess` |
 | `kt:boris-spassky` | `kt:fischer-spassky-1972`, `kt:bobby-fischer`, `kt:tigran-petrosian` |
@@ -19,9 +18,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mikhail-chigorin` | `kt:hastings-1895`, `kt:evans-gambit`, `kt:wilhelm-steinitz` |
 | `kt:portable-game-notation` | `kt:algebraic-notation`, `kt:forsyth-edwards-notation`, `kt:forsyth-edwards-notation` |
 | `kt:semi-open-games` | `kt:caro-kann-defence`, `kt:french-defence`, `kt:sicilian-defence` |
+| `kt:vladimir-kramnik` | `kt:alphazero`, `kt:ruy-lopez`, `kt:garry-kasparov` |
 | `kt:alekhines-defence` | `kt:fischer-spassky-1972`, `kt:hypermodernism` |
 | `kt:alexander-kotov` | `kt:calculation`, `kt:candidate-moves` |
 | `kt:backward-pawn` | `kt:minority-attack`, `kt:outpost` |
+| `kt:berlin-defence` | `kt:alphazero`, `kt:ruy-lopez` |
 | `kt:botvinnik-versus-capablanca-avro-1938` | `kt:soviet-chess-school`, `kt:mikhail-botvinnik` |
 | `kt:chess-organizations` | `kt:fide`, `kt:us-chess` |
 | `kt:closed-games` | `kt:queens-gambit-accepted`, `kt:queens-gambit` |
@@ -62,7 +63,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:transposition-table` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:underpromotion` | `kt:pawn-promotion`, `kt:excelsior` |
 | `kt:universal-chess-interface` | `kt:stockfish`, `kt:chess960` |
-| `kt:vladimir-kramnik` | `kt:ruy-lopez`, `kt:garry-kasparov` |
 | `kt:world-chess-championship-1886` | `kt:world-chess-championship`, `kt:wilhelm-steinitz` |
 | `kt:world-federation-for-chess-composition` | `kt:chess-composition`, `kt:codex-of-chess-composition` |
 | `kt:abraham-luchins` | `kt:einstellung-effect` |
@@ -76,7 +76,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:artificial-intelligence` | `kt:computer-chess` |
 | `kt:as-suli` | `kt:shatranj` |
 | `kt:baden-baden-1870` | `kt:adolf-anderssen` |
-| `kt:berlin-defence` | `kt:ruy-lopez` |
 | `kt:blitz-chess` | `kt:bughouse` |
 | `kt:board-representation` | `kt:bitboards` |
 | `kt:breakthrough` | `kt:passed-pawn` |
@@ -89,6 +88,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:crazyhouse` | `kt:bughouse` |
 | `kt:david-forsyth` | `kt:forsyth-edwards-notation` |
 | `kt:deep-blue` | `kt:deep-blue-versus-kasparov` |
+| `kt:deepmind` | `kt:alphazero` |
 | `kt:ding-liren` | `kt:gukesh-dommaraju` |
 | `kt:ding-versus-gukesh-singapore-2024-game-14` | `kt:gukesh-dommaraju` |
 | `kt:englisch-versus-steinitz-london-1883` | `kt:bishop-pair` |
@@ -163,6 +163,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:proof-game` | `kt:retrograde-analysis` |
 | `kt:proof-number-search` | `kt:game-tree-search` |
 | `kt:puzzle-training` | `kt:deliberate-practice` |
+| `kt:reinforcement-learning` | `kt:alphazero` |
 | `kt:remi-coulom` | `kt:monte-carlo-tree-search` |
 | `kt:reshevsky-versus-petrosian-zurich-1953` | `kt:sacrifice` |
 | `kt:restraint` | `kt:prophylaxis` |

@@ -115,6 +115,32 @@
 <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <https://github.com/john1hsu/chess-graph/ontology#fen> "r1bqkb1r/pppp1ppp/2n2n2/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 4 4" .
 <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-07" .
+<https://github.com/john1hsu/chess-graph/id/alphazero> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/chess-graph/id/alphazero> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Engine> .
+<https://github.com/john1hsu/chess-graph/id/alphazero> <http://www.w3.org/2000/01/rdf-schema#label> "AlphaZero" .
+<https://github.com/john1hsu/chess-graph/id/alphazero> <http://www.w3.org/2004/02/skos/core#altLabel> "Alpha Zero" .
+<https://github.com/john1hsu/chess-graph/id/alphazero> <http://www.w3.org/2004/02/skos/core#altLabel> "DeepMind AlphaZero" .
+<https://github.com/john1hsu/chess-graph/id/alphazero> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/computer-chess> .
+<https://github.com/john1hsu/chess-graph/id/alphazero> <http://www.w3.org/2004/02/skos/core#definition> "A game-playing system from DeepMind that learned chess, shogi and Go from the rules alone by reinforcement learning through self-play, combining a deep neural network with Monte Carlo tree search; announced in December 2017 and published in Science in December 2018 after it defeated Stockfish in a 1,000-game match." .
+<https://github.com/john1hsu/chess-graph/id/alphazero> <http://www.w3.org/2004/02/skos/core#prefLabel> "AlphaZero" .
+<https://github.com/john1hsu/chess-graph/id/alphazero> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/berlin-defence> .
+<https://github.com/john1hsu/chess-graph/id/alphazero> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/leela-chess-zero> .
+<https://github.com/john1hsu/chess-graph/id/alphazero> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/nnue> .
+<https://github.com/john1hsu/chess-graph/id/alphazero> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/vladimir-kramnik> .
+<https://github.com/john1hsu/chess-graph/id/alphazero> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/alphazero/s1> .
+<https://github.com/john1hsu/chess-graph/id/alphazero> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/alphazero/s2> .
+<https://github.com/john1hsu/chess-graph/id/alphazero> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/alphazero/s3> .
+<https://github.com/john1hsu/chess-graph/id/alphazero> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/alphazero/s4> .
+<https://github.com/john1hsu/chess-graph/id/alphazero> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/alphazero/s5> .
+<https://github.com/john1hsu/chess-graph/id/alphazero> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> .
+<https://github.com/john1hsu/chess-graph/id/alphazero> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/stockfish> .
+<https://github.com/john1hsu/chess-graph/id/alphazero> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/deepmind> .
+<https://github.com/john1hsu/chess-graph/id/alphazero> <https://github.com/john1hsu/chess-graph/ontology#domain> "computer-chess" .
+<https://github.com/john1hsu/chess-graph/id/alphazero> <https://github.com/john1hsu/chess-graph/ontology#moves> "1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6" .
+<https://github.com/john1hsu/chess-graph/id/alphazero> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/alphazero> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> .
+<https://github.com/john1hsu/chess-graph/id/alphazero> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/reinforcement-learning> .
+<https://github.com/john1hsu/chess-graph/id/alphazero> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-13" .
 <https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
 <https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <http://www.w3.org/2000/01/rdf-schema#label> "Anatoly Karpov" .
@@ -3470,6 +3496,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s5> <https://schema.org/url> "https://www.isa-afp.org/browser_info/current/AFP/Alpha_Beta_Pruning/document.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/alphazero/s1> <http://purl.org/dc/terms/publisher> "Silver et al., DeepMind (arXiv)" .
+<https://github.com/john1hsu/chess-graph/id/source/alphazero/s1> <http://purl.org/dc/terms/title> "Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm (arXiv:1712.01815)" .
+<https://github.com/john1hsu/chess-graph/id/source/alphazero/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/alphazero/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/alphazero/s1> <https://schema.org/url> "https://arxiv.org/html/1712.01815" .
+<https://github.com/john1hsu/chess-graph/id/source/alphazero/s2> <http://purl.org/dc/terms/publisher> "Silver et al., Science (copy hosted by UNAM IIMAS course materials)" .
+<https://github.com/john1hsu/chess-graph/id/source/alphazero/s2> <http://purl.org/dc/terms/title> "A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play (Science 362(6419):1140-1144, 2018)" .
+<https://github.com/john1hsu/chess-graph/id/source/alphazero/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/alphazero/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/alphazero/s2> <https://schema.org/url> "https://turing.iimas.unam.mx/~luis/cursos/IA2022-1/lecturas/AlphaZero.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/alphazero/s3> <http://purl.org/dc/terms/publisher> "Google DeepMind" .
+<https://github.com/john1hsu/chess-graph/id/source/alphazero/s3> <http://purl.org/dc/terms/title> "AlphaZero: Shedding new light on chess, shogi, and Go (6 December 2018)" .
+<https://github.com/john1hsu/chess-graph/id/source/alphazero/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/alphazero/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/alphazero/s3> <https://schema.org/url> "https://deepmind.google/blog/alphazero-shedding-new-light-on-chess-shogi-and-go/" .
+<https://github.com/john1hsu/chess-graph/id/source/alphazero/s4> <http://purl.org/dc/terms/publisher> "McGrath et al., Proceedings of the National Academy of Sciences (PubMed Central)" .
+<https://github.com/john1hsu/chess-graph/id/source/alphazero/s4> <http://purl.org/dc/terms/title> "Acquisition of chess knowledge in AlphaZero (PNAS 119(47):e2206625119, 2022)" .
+<https://github.com/john1hsu/chess-graph/id/source/alphazero/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/alphazero/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/alphazero/s4> <https://schema.org/url> "https://pmc.ncbi.nlm.nih.gov/articles/PMC9704706" .
+<https://github.com/john1hsu/chess-graph/id/source/alphazero/s5> <http://purl.org/dc/terms/publisher> "Matthew Sadler and Natasha Regan, New In Chess (2019)" .
+<https://github.com/john1hsu/chess-graph/id/source/alphazero/s5> <http://purl.org/dc/terms/title> "Game Changer: AlphaZero's Groundbreaking Chess Strategies and the Promise of AI" .
+<https://github.com/john1hsu/chess-graph/id/source/alphazero/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/alphazero/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/alphazero/s5> <https://schema.org/url> "https://www.newinchess.com/game-changer" .
 <https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s1> <http://purl.org/dc/terms/title> "Anatoly Yevgenyevich Karpov" .
 <https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
