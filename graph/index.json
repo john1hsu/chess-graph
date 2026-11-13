@@ -583,6 +583,31 @@
     ]
   },
   {
+    "id": "kt:chess",
+    "title": "Chess",
+    "aliases": [
+      "Game of chess",
+      "Western chess",
+      "International chess",
+      "Orthodox chess",
+      "The royal game"
+    ],
+    "type": "Concept",
+    "domain": "rules-and-notation",
+    "file": "articles/rules-and-notation/chess.md",
+    "created": "2026-11-13",
+    "verified": "2026-11-13",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://rcc.fide.com/fide-laws-of-chess_fulltexthtml/",
+      "https://rcc.fide.com/article1",
+      "https://www.britannica.com/topic/chess",
+      "https://fermatslibrary.com/s/programming-a-computer-for-playing-chess",
+      "https://www.fide.com/chess-joins-the-international-world-games-association/"
+    ]
+  },
+  {
     "id": "kt:chess-composition",
     "title": "Chess composition",
     "aliases": [

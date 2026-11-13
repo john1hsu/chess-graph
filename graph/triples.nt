@@ -958,6 +958,34 @@
 <https://github.com/john1hsu/chess-graph/id/chess960> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/fide> .
 <https://github.com/john1hsu/chess-graph/id/chess960> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/chess960> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/chess> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/chess-graph/id/chess> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Concept> .
+<https://github.com/john1hsu/chess-graph/id/chess> <http://www.w3.org/2000/01/rdf-schema#label> "Chess" .
+<https://github.com/john1hsu/chess-graph/id/chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Game of chess" .
+<https://github.com/john1hsu/chess-graph/id/chess> <http://www.w3.org/2004/02/skos/core#altLabel> "International chess" .
+<https://github.com/john1hsu/chess-graph/id/chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Orthodox chess" .
+<https://github.com/john1hsu/chess-graph/id/chess> <http://www.w3.org/2004/02/skos/core#altLabel> "The royal game" .
+<https://github.com/john1hsu/chess-graph/id/chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Western chess" .
+<https://github.com/john1hsu/chess-graph/id/chess> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/abstract-strategy-game> .
+<https://github.com/john1hsu/chess-graph/id/chess> <http://www.w3.org/2004/02/skos/core#definition> "A two-player strategy board game played on an 8×8 board with sixteen pieces per side, in which White moves first and each player tries to checkmate the opponent's king; a game with no chance element and perfect information, governed internationally by FIDE's Laws of Chess." .
+<https://github.com/john1hsu/chess-graph/id/chess> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chess" .
+<https://github.com/john1hsu/chess-graph/id/chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-strategy> .
+<https://github.com/john1hsu/chess-graph/id/chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-tactics> .
+<https://github.com/john1hsu/chess-graph/id/chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-variants> .
+<https://github.com/john1hsu/chess-graph/id/chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/history-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess/s1> .
+<https://github.com/john1hsu/chess-graph/id/chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess/s2> .
+<https://github.com/john1hsu/chess-graph/id/chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess/s3> .
+<https://github.com/john1hsu/chess-graph/id/chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess/s4> .
+<https://github.com/john1hsu/chess-graph/id/chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess/s5> .
+<https://github.com/john1hsu/chess-graph/id/chess> <https://github.com/john1hsu/chess-graph/ontology#domain> "rules-and-notation" .
+<https://github.com/john1hsu/chess-graph/id/chess> <https://github.com/john1hsu/chess-graph/ontology#fen> "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/chess> <https://github.com/john1hsu/chess-graph/ontology#governedBy> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/chess> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/checkmate> .
+<https://github.com/john1hsu/chess-graph/id/chess> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/chess-endgame> .
+<https://github.com/john1hsu/chess-graph/id/chess> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/fide> .
+<https://github.com/john1hsu/chess-graph/id/chess> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/chess> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-13" .
 <https://github.com/john1hsu/chess-graph/id/chunking-theory> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/chunking-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#CognitiveConcept> .
 <https://github.com/john1hsu/chess-graph/id/chunking-theory> <http://www.w3.org/2000/01/rdf-schema#label> "Chunking theory" .
@@ -4675,6 +4703,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/chess-variants/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/chess-variants/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-variants/s6> <https://schema.org/url> "https://chessvariants.org/books.dir/ecv.html" .
+<https://github.com/john1hsu/chess-graph/id/source/chess/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/chess/s1> <http://purl.org/dc/terms/title> "FIDE Laws of Chess (full text, in force from 1 January 2023)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/chess/s1> <https://schema.org/url> "https://rcc.fide.com/fide-laws-of-chess_fulltexthtml/" .
+<https://github.com/john1hsu/chess-graph/id/source/chess/s2> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/chess/s2> <http://purl.org/dc/terms/title> "Article 1: The Nature and Objectives of the Game of Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/chess/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/chess/s2> <https://schema.org/url> "https://rcc.fide.com/article1" .
+<https://github.com/john1hsu/chess-graph/id/source/chess/s3> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/chess/s3> <http://purl.org/dc/terms/title> "Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/chess/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/chess/s3> <https://schema.org/url> "https://www.britannica.com/topic/chess" .
+<https://github.com/john1hsu/chess-graph/id/source/chess/s4> <http://purl.org/dc/terms/publisher> "Claude E. Shannon, reproduced by Fermat's Library" .
+<https://github.com/john1hsu/chess-graph/id/source/chess/s4> <http://purl.org/dc/terms/title> "Programming a Computer for Playing Chess (Philosophical Magazine, 1950), full text" .
+<https://github.com/john1hsu/chess-graph/id/source/chess/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/chess/s4> <https://schema.org/url> "https://fermatslibrary.com/s/programming-a-computer-for-playing-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/chess/s5> <http://purl.org/dc/terms/publisher> "FIDE" .
+<https://github.com/john1hsu/chess-graph/id/source/chess/s5> <http://purl.org/dc/terms/title> "Chess joins the International World Games Association" .
+<https://github.com/john1hsu/chess-graph/id/source/chess/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/chess/s5> <https://schema.org/url> "https://www.fide.com/chess-joins-the-international-world-games-association/" .
 <https://github.com/john1hsu/chess-graph/id/source/chess960/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
 <https://github.com/john1hsu/chess-graph/id/source/chess960/s1> <http://purl.org/dc/terms/title> "FIDE Laws of Chess, Guidelines II. Chess960 Rules" .
 <https://github.com/john1hsu/chess-graph/id/source/chess960/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

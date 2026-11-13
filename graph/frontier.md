@@ -4,7 +4,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:chess` | `kt:chess-endgame`, `kt:chess-titles`, `kt:chess-tournament`, `kt:chaturanga`, `kt:history-of-chess`, `kt:shatranj`, `kt:chess-strategy`, `kt:fide-laws-of-chess`, `kt:chess-tactics`, `kt:blindfold-chess`, `kt:chess-composition`, `kt:chess-variants`, `kt:correspondence-chess` |
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:mikhail-botvinnik`, `kt:tigran-petrosian`, `kt:wilhelm-steinitz` |
 | `kt:closed-games` | `kt:open-games`, `kt:queens-gambit-accepted`, `kt:queens-gambit`, `kt:semi-open-games` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:herbert-simon` |
@@ -60,6 +59,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:underpromotion` | `kt:pawn-promotion`, `kt:excelsior` |
 | `kt:world-chess-championship-1886` | `kt:world-chess-championship`, `kt:wilhelm-steinitz` |
 | `kt:abraham-luchins` | `kt:einstellung-effect` |
+| `kt:abstract-strategy-game` | `kt:chess` |
 | `kt:adams-versus-torre-new-orleans-1920` | `kt:back-rank-mate` |
 | `kt:albin-countergambit` | `kt:queens-gambit` |
 | `kt:alekhine-versus-nimzowitsch-san-remo-1930` | `kt:open-file` |
