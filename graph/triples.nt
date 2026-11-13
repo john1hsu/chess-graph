@@ -1685,6 +1685,35 @@
 <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/touch-move> .
 <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/fide-world-cup> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/chess-graph/id/fide-world-cup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Event> .
+<https://github.com/john1hsu/chess-graph/id/fide-world-cup> <http://www.w3.org/2000/01/rdf-schema#label> "FIDE World Cup" .
+<https://github.com/john1hsu/chess-graph/id/fide-world-cup> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess World Cup" .
+<https://github.com/john1hsu/chess-graph/id/fide-world-cup> <http://www.w3.org/2004/02/skos/core#altLabel> "FIDE Chess World Cup" .
+<https://github.com/john1hsu/chess-graph/id/fide-world-cup> <http://www.w3.org/2004/02/skos/core#altLabel> "World Cup (chess)" .
+<https://github.com/john1hsu/chess-graph/id/fide-world-cup> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-tournament> .
+<https://github.com/john1hsu/chess-graph/id/fide-world-cup> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/fide-world-cup> <http://www.w3.org/2004/02/skos/core#definition> "FIDE's large single-elimination knockout tournament, held every two years since the 2005 edition in Khanty-Mansiysk, whose top finishers qualify for the Candidates Tournament in the world championship cycle." .
+<https://github.com/john1hsu/chess-graph/id/fide-world-cup> <http://www.w3.org/2004/02/skos/core#prefLabel> "FIDE World Cup" .
+<https://github.com/john1hsu/chess-graph/id/fide-world-cup> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/candidates-tournament> .
+<https://github.com/john1hsu/chess-graph/id/fide-world-cup> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/fide-world-cup> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/magnus-carlsen> .
+<https://github.com/john1hsu/chess-graph/id/fide-world-cup> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/fide-world-cup> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fide-world-cup/s1> .
+<https://github.com/john1hsu/chess-graph/id/fide-world-cup> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fide-world-cup/s2> .
+<https://github.com/john1hsu/chess-graph/id/fide-world-cup> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fide-world-cup/s3> .
+<https://github.com/john1hsu/chess-graph/id/fide-world-cup> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fide-world-cup/s4> .
+<https://github.com/john1hsu/chess-graph/id/fide-world-cup> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fide-world-cup/s5> .
+<https://github.com/john1hsu/chess-graph/id/fide-world-cup> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fide-world-cup/s6> .
+<https://github.com/john1hsu/chess-graph/id/fide-world-cup> <https://github.com/john1hsu/chess-graph/ontology#domain> "events-and-organizations" .
+<https://github.com/john1hsu/chess-graph/id/fide-world-cup> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/candidates-tournament> .
+<https://github.com/john1hsu/chess-graph/id/fide-world-cup> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/fide-world-cup> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/fide> .
+<https://github.com/john1hsu/chess-graph/id/fide-world-cup> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/fide-world-cup> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-13" .
+<https://github.com/john1hsu/chess-graph/id/fide-world-cup> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> .
+<https://github.com/john1hsu/chess-graph/id/fide-world-cup> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/levon-aronian> .
+<https://github.com/john1hsu/chess-graph/id/fide-world-cup> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/magnus-carlsen> .
 <https://github.com/john1hsu/chess-graph/id/fide> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/fide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Organization> .
 <https://github.com/john1hsu/chess-graph/id/fide> <http://www.w3.org/2000/01/rdf-schema#label> "FIDE" .
@@ -5128,6 +5157,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
 <https://github.com/john1hsu/chess-graph/id/source/fide-laws-of-chess/s6> <https://schema.org/url> "https://www.fide.com/?p=49091" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-world-cup/s1> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-world-cup/s1> <http://purl.org/dc/terms/title> "Regulations for the FIDE World Cup 2025" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-world-cup/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fide-world-cup/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-world-cup/s1> <https://schema.org/url> "https://handbook.fide.com/files/handbook/WorldCup2025Regulations.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-world-cup/s2> <http://purl.org/dc/terms/publisher> "FIDE (fide.com news, 26 November 2025)" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-world-cup/s2> <http://purl.org/dc/terms/title> "Javokhir Sindarov crowned 2025 FIDE World Cup Champion" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-world-cup/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fide-world-cup/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-world-cup/s2> <https://schema.org/url> "https://www.fide.com/?p=41274" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-world-cup/s3> <http://purl.org/dc/terms/publisher> "FIDE (fide.com news, August 2023)" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-world-cup/s3> <http://purl.org/dc/terms/title> "Magnus Carlsen secures first World Cup victory" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-world-cup/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fide-world-cup/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-world-cup/s3> <https://schema.org/url> "https://www.fide.com/magnus-carlsen-secures-first-world-cup-victory/" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-world-cup/s4> <http://purl.org/dc/terms/publisher> "ChessBase News (18 December 2005)" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-world-cup/s4> <http://purl.org/dc/terms/title> "Levon Aronian wins FIDE World Cup" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-world-cup/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fide-world-cup/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-world-cup/s4> <https://schema.org/url> "https://en.chessbase.com/post/levon-aronian-wins-fide-world-cup" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-world-cup/s5> <http://purl.org/dc/terms/publisher> "ChessBase News (Carlos Alberto Colodro, 26 November 2025)" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-world-cup/s5> <http://purl.org/dc/terms/title> "Javokhir Sindarov wins FIDE World Cup" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-world-cup/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fide-world-cup/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-world-cup/s5> <https://schema.org/url> "https://en.chessbase.com/post/world-cup-2025-r8tb" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-world-cup/s6> <http://purl.org/dc/terms/publisher> "Chess.com News (Colin McGourty, November 2025)" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-world-cup/s6> <http://purl.org/dc/terms/title> "Javokhir Sindarov Becomes Youngest Ever World Cup Winner" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-world-cup/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fide-world-cup/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/fide-world-cup/s6> <https://schema.org/url> "https://www.chess.com/news/view/2025-fide-world-cup-final-tiebreaks" .
 <https://github.com/john1hsu/chess-graph/id/source/fide/s1> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
 <https://github.com/john1hsu/chess-graph/id/source/fide/s1> <http://purl.org/dc/terms/title> "FIDE Charter (in force from 1 March 2020)" .
 <https://github.com/john1hsu/chess-graph/id/source/fide/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

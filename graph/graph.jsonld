@@ -3003,6 +3003,109 @@
       ]
     },
     {
+      "@id": "kt:fide-world-cup",
+      "@type": "kto:Event",
+      "skos:prefLabel": "FIDE World Cup",
+      "skos:definition": "FIDE's large single-elimination knockout tournament, held every two years since the 2005 edition in Khanty-Mansiysk, whose top finishers qualify for the Candidates Tournament in the world championship cycle.",
+      "kto:domain": "events-and-organizations",
+      "dcterms:created": "2026-11-13",
+      "kto:verified": "2026-11-13",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Regulations for the FIDE World Cup 2025",
+          "dcterms:publisher": "FIDE Handbook",
+          "schema:url": "https://handbook.fide.com/files/handbook/WorldCup2025Regulations.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Javokhir Sindarov crowned 2025 FIDE World Cup Champion",
+          "dcterms:publisher": "FIDE (fide.com news, 26 November 2025)",
+          "schema:url": "https://www.fide.com/?p=41274",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Magnus Carlsen secures first World Cup victory",
+          "dcterms:publisher": "FIDE (fide.com news, August 2023)",
+          "schema:url": "https://www.fide.com/magnus-carlsen-secures-first-world-cup-victory/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Levon Aronian wins FIDE World Cup",
+          "dcterms:publisher": "ChessBase News (18 December 2005)",
+          "schema:url": "https://en.chessbase.com/post/levon-aronian-wins-fide-world-cup",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Javokhir Sindarov wins FIDE World Cup",
+          "dcterms:publisher": "ChessBase News (Carlos Alberto Colodro, 26 November 2025)",
+          "schema:url": "https://en.chessbase.com/post/world-cup-2025-r8tb",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Javokhir Sindarov Becomes Youngest Ever World Cup Winner",
+          "dcterms:publisher": "Chess.com News (Colin McGourty, November 2025)",
+          "schema:url": "https://www.chess.com/news/view/2025-fide-world-cup-final-tiebreaks",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/events-and-organizations/fide-world-cup.md",
+      "skos:altLabel": [
+        "Chess World Cup",
+        "World Cup (chess)",
+        "FIDE Chess World Cup"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:world-chess-championship"
+        },
+        {
+          "@id": "kt:chess-tournament"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:candidates-tournament"
+        },
+        {
+          "@id": "kt:womens-world-chess-championship"
+        },
+        {
+          "@id": "kt:fide-laws-of-chess"
+        },
+        {
+          "@id": "kt:magnus-carlsen"
+        }
+      ],
+      "kto:sanctionedBy": [
+        {
+          "@id": "kt:fide"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:world-chess-championship"
+        }
+      ],
+      "kto:leadsTo": [
+        {
+          "@id": "kt:candidates-tournament"
+        }
+      ],
+      "kto:wonBy": [
+        {
+          "@id": "kt:javokhir-sindarov"
+        },
+        {
+          "@id": "kt:magnus-carlsen"
+        },
+        {
+          "@id": "kt:levon-aronian"
+        }
+      ]
+    },
+    {
       "@id": "kt:fide",
       "@type": "kto:Organization",
       "skos:prefLabel": "FIDE",

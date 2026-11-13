@@ -14,6 +14,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:corresponding-squares` | `kt:key-squares`, `kt:triangulation`, `kt:triangulation` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position`, `kt:rook-endgames` |
 | `kt:decoy` | `kt:deflection`, `kt:smothered-mate`, `kt:smothered-mate` |
+| `kt:javokhir-sindarov` | `kt:candidates-tournament`, `kt:fide-world-cup`, `kt:gukesh-dommaraju` |
+| `kt:magnus-carlsen` | `kt:fide-world-cup`, `kt:fide-world-cup`, `kt:gukesh-dommaraju` |
 | `kt:mikhail-chigorin` | `kt:hastings-1895`, `kt:evans-gambit`, `kt:wilhelm-steinitz` |
 | `kt:portable-game-notation` | `kt:algebraic-notation`, `kt:forsyth-edwards-notation`, `kt:forsyth-edwards-notation` |
 | `kt:rule-of-the-square` | `kt:key-squares`, `kt:king-and-pawn-endgames`, `kt:passed-pawn` |
@@ -32,7 +34,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:gambit` | `kt:evans-gambit`, `kt:sacrifice` |
 | `kt:howard-staunton` | `kt:london-1851`, `kt:london-1851` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
-| `kt:javokhir-sindarov` | `kt:candidates-tournament`, `kt:gukesh-dommaraju` |
 | `kt:johannes-zukertort` | `kt:adolf-anderssen`, `kt:wilhelm-steinitz` |
 | `kt:ju-wenjun` | `kt:womens-world-chess-championship`, `kt:womens-world-chess-championship` |
 | `kt:karpov-versus-unzicker-nice-1974` | `kt:prophylaxis`, `kt:anatoly-karpov` |
@@ -130,9 +131,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:lasker-versus-bauer-amsterdam-1889` | `kt:combination` |
 | `kt:leipzig-1894` | `kt:siegbert-tarrasch` |
 | `kt:leonardo-torres-y-quevedo` | `kt:claude-shannon` |
+| `kt:levon-aronian` | `kt:fide-world-cup` |
 | `kt:london-system` | `kt:carlsbad-structure` |
 | `kt:long-term-working-memory` | `kt:template-theory` |
-| `kt:magnus-carlsen` | `kt:gukesh-dommaraju` |
 | `kt:mailbox-board-representation` | `kt:bitboards` |
 | `kt:marco-costalba` | `kt:stockfish` |
 | `kt:marcus-kann` | `kt:caro-kann-defence` |

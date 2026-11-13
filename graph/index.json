@@ -1535,6 +1535,30 @@
     ]
   },
   {
+    "id": "kt:fide-world-cup",
+    "title": "FIDE World Cup",
+    "aliases": [
+      "Chess World Cup",
+      "World Cup (chess)",
+      "FIDE Chess World Cup"
+    ],
+    "type": "Event",
+    "domain": "events-and-organizations",
+    "file": "articles/events-and-organizations/fide-world-cup.md",
+    "created": "2026-11-13",
+    "verified": "2026-11-13",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://handbook.fide.com/files/handbook/WorldCup2025Regulations.pdf",
+      "https://www.fide.com/?p=41274",
+      "https://www.fide.com/magnus-carlsen-secures-first-world-cup-victory/",
+      "https://en.chessbase.com/post/levon-aronian-wins-fide-world-cup",
+      "https://en.chessbase.com/post/world-cup-2025-r8tb",
+      "https://www.chess.com/news/view/2025-fide-world-cup-final-tiebreaks"
+    ]
+  },
+  {
     "id": "kt:fifty-move-rule",
     "title": "Fifty-move rule",
     "aliases": [
