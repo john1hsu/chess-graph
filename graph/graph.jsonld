@@ -1464,6 +1464,103 @@
       ]
     },
     {
+      "@id": "kt:key-squares",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Key squares",
+      "skos:definition": "In king-and-pawn endgames, the squares that the attacking king needs to reach to force the pawn through: once the king stands on a key square, the pawn promotes whoever is to move, unless the defender can capture the pawn at once.",
+      "kto:domain": "endgames",
+      "dcterms:created": "2026-11-13",
+      "kto:verified": "2026-11-13",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Chess Fundamentals (1921), Project Gutenberg eBook #33870",
+          "dcterms:publisher": "José Raúl Capablanca, Harcourt, Brace and Howe; Project Gutenberg",
+          "schema:url": "https://gutenberg.org/cache/epub/33870/pg33870-images.html",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Chess Strategy (1915), Project Gutenberg eBook #5614",
+          "dcterms:publisher": "Edward Lasker; Project Gutenberg",
+          "schema:url": "https://gutenberg.org/files/5614/5614-h/5614-h.htm",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Chess Endgames for Kids (sample pages, contents and Lesson 14: Triangulation and More Opposition)",
+          "dcterms:publisher": "Karsten Müller, Gambit Publications (2015); excerpt hosted by Chess Tigers",
+          "schema:url": "https://chess-tigers.de/cdn/shop/files/Chess_Endgames_for_Kids.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Dvoretsky's Endgame Manual, sixth edition (excerpt with table of contents)",
+          "dcterms:publisher": "Mark Dvoretsky, revised by Karsten Müller and Alex Fishbein, Russell Enterprises (2025); excerpt hosted by De Beste Zet",
+          "schema:url": "https://www.debestezet.nl/catalog/images/PDF/Dvoretskys%20Endgame%20Manual%206th%20Edition.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "No road to Rome",
+          "dcterms:publisher": "Karsten Müller, ChessBase News (2020-06-30)",
+          "schema:url": "https://en.chessbase.com/post/endgame-blog-karsten-mueller-2020_26",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Coach Dante's Endgame Crash Course! -- Pawns: Key Squares",
+          "dcterms:publisher": "CoachDVS88, Chess.com blog",
+          "schema:url": "https://www.chess.com/blog/CoachDVS88/coach-dante-s-endgame-crash-course-pawns-key-squares",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "Pawn Endgame in Chess: Getting It Right!",
+          "dcterms:publisher": "Shaun Sedice, US Chess Sales blog",
+          "schema:url": "https://www.uscfsales.com/chess-blog/pawn-endgame-in-chess-getting-it-right/",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/endgames/key-squares.md",
+      "skos:altLabel": [
+        "Key square",
+        "Critical squares",
+        "Critical square",
+        "Key squares of a pawn"
+      ],
+      "kto:fen": "8/3k4/8/3K4/3P4/8/8/8 b - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:king-and-pawn-endgames"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:opposition"
+        },
+        {
+          "@id": "kt:corresponding-squares"
+        },
+        {
+          "@id": "kt:triangulation"
+        },
+        {
+          "@id": "kt:rule-of-the-square"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:pawn-promotion"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:zugzwang"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:opposition"
+        }
+      ]
+    },
+    {
       "@id": "kt:king-and-pawn-endgames",
       "@type": "kto:EndgameType",
       "skos:prefLabel": "King and pawn endgames",

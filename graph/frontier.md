@@ -9,14 +9,15 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:leela-chess-zero` | `kt:alphazero`, `kt:computer-chess`, `kt:monte-carlo-tree-search`, `kt:nnue`, `kt:stockfish` |
 | `kt:francois-andre-danican-philidor` | `kt:philidor-position`, `kt:pawn-structure`, `kt:smothered-mate`, `kt:blindfold-chess` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:herbert-simon` |
-| `kt:key-squares` | `kt:king-and-pawn-endgames`, `kt:opposition`, `kt:triangulation`, `kt:zugzwang` |
 | `kt:threefold-repetition` | `kt:draw`, `kt:en-passant`, `kt:fide-laws-of-chess`, `kt:fifty-move-rule` |
 | `kt:alexander-alekhine` | `kt:slav-defence`, `kt:jose-raul-capablanca`, `kt:blindfold-chess` |
 | `kt:boris-spassky` | `kt:fischer-spassky-1972`, `kt:bobby-fischer`, `kt:tigran-petrosian` |
+| `kt:corresponding-squares` | `kt:key-squares`, `kt:triangulation`, `kt:triangulation` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position`, `kt:rook-endgames` |
 | `kt:decoy` | `kt:deflection`, `kt:smothered-mate`, `kt:smothered-mate` |
 | `kt:mikhail-chigorin` | `kt:hastings-1895`, `kt:evans-gambit`, `kt:wilhelm-steinitz` |
 | `kt:portable-game-notation` | `kt:algebraic-notation`, `kt:forsyth-edwards-notation`, `kt:forsyth-edwards-notation` |
+| `kt:rule-of-the-square` | `kt:key-squares`, `kt:king-and-pawn-endgames`, `kt:passed-pawn` |
 | `kt:semi-open-games` | `kt:caro-kann-defence`, `kt:french-defence`, `kt:sicilian-defence` |
 | `kt:vladimir-kramnik` | `kt:alphazero`, `kt:ruy-lopez`, `kt:garry-kasparov` |
 | `kt:alekhines-defence` | `kt:fischer-spassky-1972`, `kt:hypermodernism` |
@@ -26,7 +27,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:botvinnik-versus-capablanca-avro-1938` | `kt:soviet-chess-school`, `kt:mikhail-botvinnik` |
 | `kt:chess-organizations` | `kt:fide`, `kt:us-chess` |
 | `kt:closed-games` | `kt:queens-gambit-accepted`, `kt:queens-gambit` |
-| `kt:corresponding-squares` | `kt:triangulation`, `kt:triangulation` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
 | `kt:dragon-variation` | `kt:najdorf-variation`, `kt:sicilian-defence` |
 | `kt:evergreen-game` | `kt:evans-gambit`, `kt:adolf-anderssen` |
@@ -49,7 +49,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
 | `kt:progressive-deepening` | `kt:calculation`, `kt:candidate-moves` |
-| `kt:rule-of-the-square` | `kt:king-and-pawn-endgames`, `kt:passed-pawn` |
 | `kt:saavedra-position` | `kt:pawn-promotion`, `kt:endgame-study` |
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:zugzwang`, `kt:aron-nimzowitsch` |
 | `kt:saint-louis-chess-club` | `kt:us-chess-championship`, `kt:us-chess` |

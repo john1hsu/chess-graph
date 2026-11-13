@@ -2102,6 +2102,32 @@
     ]
   },
   {
+    "id": "kt:key-squares",
+    "title": "Key squares",
+    "aliases": [
+      "Key square",
+      "Critical squares",
+      "Critical square",
+      "Key squares of a pawn"
+    ],
+    "type": "Concept",
+    "domain": "endgames",
+    "file": "articles/endgames/key-squares.md",
+    "created": "2026-11-13",
+    "verified": "2026-11-13",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://gutenberg.org/cache/epub/33870/pg33870-images.html",
+      "https://gutenberg.org/files/5614/5614-h/5614-h.htm",
+      "https://chess-tigers.de/cdn/shop/files/Chess_Endgames_for_Kids.pdf",
+      "https://www.debestezet.nl/catalog/images/PDF/Dvoretskys%20Endgame%20Manual%206th%20Edition.pdf",
+      "https://en.chessbase.com/post/endgame-blog-karsten-mueller-2020_26",
+      "https://www.chess.com/blog/CoachDVS88/coach-dante-s-endgame-crash-course-pawns-key-squares",
+      "https://www.uscfsales.com/chess-blog/pawn-endgame-in-chess-getting-it-right/"
+    ]
+  },
+  {
     "id": "kt:king-and-pawn-endgames",
     "title": "King and pawn endgames",
     "aliases": [
