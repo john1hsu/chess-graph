@@ -8143,6 +8143,105 @@
       ]
     },
     {
+      "@id": "kt:draw",
+      "@type": "kto:Rule",
+      "skos:prefLabel": "Draw",
+      "skos:definition": "A game of chess that ends with neither player winning, scored as half a point each; under the FIDE Laws it arises from stalemate, a dead position, mutual agreement, a correct repetition or fifty-move claim, the automatic fivefold/75-move rules, or a flag fall when the opponent could not checkmate.",
+      "kto:domain": "rules-and-notation",
+      "dcterms:created": "2026-11-13",
+      "kto:verified": "2026-11-13",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Article 9: The Drawn Game",
+          "dcterms:publisher": "FIDE Rules Commission",
+          "schema:url": "https://rcc.fide.com/article9/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Article 5: The Completion of the Game",
+          "dcterms:publisher": "FIDE Rules Commission",
+          "schema:url": "https://rcc.fide.com/article5/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Questions & Answers, November 2021",
+          "dcterms:publisher": "FIDE Rules Commission",
+          "schema:url": "https://rcc.fide.com/2021/11/08/questions-answers-november-2021/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Chess Draws",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://www.chesshistory.com/winter/extra/draws.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Unfought draws – reader feedback",
+          "dcterms:publisher": "ChessBase News, 20 March 2008",
+          "schema:url": "https://en.chessbase.com/post/unfought-draws-reader-feedback",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/rules-and-notation/draw.md",
+      "skos:altLabel": [
+        "Drawn game",
+        "Draw (chess)",
+        "Remis",
+        "Draw by agreement",
+        "Agreed draw",
+        "Draw offer"
+      ],
+      "kto:fen": "8/8/8/4k3/3q4/2r5/8/7K b - - 0 70",
+      "skos:broader": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:arbiter"
+        },
+        {
+          "@id": "kt:chess-tournament"
+        },
+        {
+          "@id": "kt:fortress"
+        },
+        {
+          "@id": "kt:perpetual-check"
+        },
+        {
+          "@id": "kt:emanuel-lasker"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:stalemate"
+        },
+        {
+          "@id": "kt:dead-position"
+        },
+        {
+          "@id": "kt:threefold-repetition"
+        },
+        {
+          "@id": "kt:fifty-move-rule"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:checkmate"
+        }
+      ]
+    },
+    {
       "@id": "kt:en-passant",
       "@type": "kto:Rule",
       "skos:prefLabel": "En passant",

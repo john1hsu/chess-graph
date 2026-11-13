@@ -1264,6 +1264,38 @@
 <https://github.com/john1hsu/chess-graph/id/double-check> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/checkmate> .
 <https://github.com/john1hsu/chess-graph/id/double-check> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/double-check> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/draw> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/chess-graph/id/draw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Rule> .
+<https://github.com/john1hsu/chess-graph/id/draw> <http://www.w3.org/2000/01/rdf-schema#label> "Draw" .
+<https://github.com/john1hsu/chess-graph/id/draw> <http://www.w3.org/2004/02/skos/core#altLabel> "Agreed draw" .
+<https://github.com/john1hsu/chess-graph/id/draw> <http://www.w3.org/2004/02/skos/core#altLabel> "Draw (chess)" .
+<https://github.com/john1hsu/chess-graph/id/draw> <http://www.w3.org/2004/02/skos/core#altLabel> "Draw by agreement" .
+<https://github.com/john1hsu/chess-graph/id/draw> <http://www.w3.org/2004/02/skos/core#altLabel> "Draw offer" .
+<https://github.com/john1hsu/chess-graph/id/draw> <http://www.w3.org/2004/02/skos/core#altLabel> "Drawn game" .
+<https://github.com/john1hsu/chess-graph/id/draw> <http://www.w3.org/2004/02/skos/core#altLabel> "Remis" .
+<https://github.com/john1hsu/chess-graph/id/draw> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/draw> <http://www.w3.org/2004/02/skos/core#definition> "A game of chess that ends with neither player winning, scored as half a point each; under the FIDE Laws it arises from stalemate, a dead position, mutual agreement, a correct repetition or fifty-move claim, the automatic fivefold/75-move rules, or a flag fall when the opponent could not checkmate." .
+<https://github.com/john1hsu/chess-graph/id/draw> <http://www.w3.org/2004/02/skos/core#prefLabel> "Draw" .
+<https://github.com/john1hsu/chess-graph/id/draw> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/arbiter> .
+<https://github.com/john1hsu/chess-graph/id/draw> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-tournament> .
+<https://github.com/john1hsu/chess-graph/id/draw> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/emanuel-lasker> .
+<https://github.com/john1hsu/chess-graph/id/draw> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fortress> .
+<https://github.com/john1hsu/chess-graph/id/draw> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/perpetual-check> .
+<https://github.com/john1hsu/chess-graph/id/draw> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/draw/s1> .
+<https://github.com/john1hsu/chess-graph/id/draw> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/draw/s2> .
+<https://github.com/john1hsu/chess-graph/id/draw> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/draw/s3> .
+<https://github.com/john1hsu/chess-graph/id/draw> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/draw/s4> .
+<https://github.com/john1hsu/chess-graph/id/draw> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/draw/s5> .
+<https://github.com/john1hsu/chess-graph/id/draw> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/checkmate> .
+<https://github.com/john1hsu/chess-graph/id/draw> <https://github.com/john1hsu/chess-graph/ontology#domain> "rules-and-notation" .
+<https://github.com/john1hsu/chess-graph/id/draw> <https://github.com/john1hsu/chess-graph/ontology#fen> "8/8/8/4k3/3q4/2r5/8/7K b - - 0 70" .
+<https://github.com/john1hsu/chess-graph/id/draw> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/dead-position> .
+<https://github.com/john1hsu/chess-graph/id/draw> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/fifty-move-rule> .
+<https://github.com/john1hsu/chess-graph/id/draw> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/stalemate> .
+<https://github.com/john1hsu/chess-graph/id/draw> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/threefold-repetition> .
+<https://github.com/john1hsu/chess-graph/id/draw> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/draw> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/draw> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-13" .
 <https://github.com/john1hsu/chess-graph/id/einstellung-effect> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/einstellung-effect> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#CognitiveConcept> .
 <https://github.com/john1hsu/chess-graph/id/einstellung-effect> <http://www.w3.org/2000/01/rdf-schema#label> "Einstellung effect" .
@@ -4431,6 +4463,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/double-check/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/double-check/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/double-check/s5> <https://schema.org/url> "https://www.chess.com/fr/terms/double-check-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/draw/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/draw/s1> <http://purl.org/dc/terms/title> "Article 9: The Drawn Game" .
+<https://github.com/john1hsu/chess-graph/id/source/draw/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/draw/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/draw/s1> <https://schema.org/url> "https://rcc.fide.com/article9/" .
+<https://github.com/john1hsu/chess-graph/id/source/draw/s2> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/draw/s2> <http://purl.org/dc/terms/title> "Article 5: The Completion of the Game" .
+<https://github.com/john1hsu/chess-graph/id/source/draw/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/draw/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/draw/s2> <https://schema.org/url> "https://rcc.fide.com/article5/" .
+<https://github.com/john1hsu/chess-graph/id/source/draw/s3> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/draw/s3> <http://purl.org/dc/terms/title> "Questions & Answers, November 2021" .
+<https://github.com/john1hsu/chess-graph/id/source/draw/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/draw/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/draw/s3> <https://schema.org/url> "https://rcc.fide.com/2021/11/08/questions-answers-november-2021/" .
+<https://github.com/john1hsu/chess-graph/id/source/draw/s4> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/draw/s4> <http://purl.org/dc/terms/title> "Chess Draws" .
+<https://github.com/john1hsu/chess-graph/id/source/draw/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/draw/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/draw/s4> <https://schema.org/url> "https://www.chesshistory.com/winter/extra/draws.html" .
+<https://github.com/john1hsu/chess-graph/id/source/draw/s5> <http://purl.org/dc/terms/publisher> "ChessBase News, 20 March 2008" .
+<https://github.com/john1hsu/chess-graph/id/source/draw/s5> <http://purl.org/dc/terms/title> "Unfought draws – reader feedback" .
+<https://github.com/john1hsu/chess-graph/id/source/draw/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/draw/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/draw/s5> <https://schema.org/url> "https://en.chessbase.com/post/unfought-draws-reader-feedback" .
 <https://github.com/john1hsu/chess-graph/id/source/einstellung-effect/s1> <http://purl.org/dc/terms/publisher> "Merim Bilalić, Peter McLeod and Fernand Gobet, Brunel University Research Archive" .
 <https://github.com/john1hsu/chess-graph/id/source/einstellung-effect/s1> <http://purl.org/dc/terms/title> "Why good thoughts block better ones: The mechanism of the pernicious Einstellung (set) effect (Cognition, 2008)" .
 <https://github.com/john1hsu/chess-graph/id/source/einstellung-effect/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

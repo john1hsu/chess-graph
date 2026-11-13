@@ -1130,6 +1130,32 @@
     ]
   },
   {
+    "id": "kt:draw",
+    "title": "Draw",
+    "aliases": [
+      "Drawn game",
+      "Draw (chess)",
+      "Remis",
+      "Draw by agreement",
+      "Agreed draw",
+      "Draw offer"
+    ],
+    "type": "Rule",
+    "domain": "rules-and-notation",
+    "file": "articles/rules-and-notation/draw.md",
+    "created": "2026-11-13",
+    "verified": "2026-11-13",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://rcc.fide.com/article9/",
+      "https://rcc.fide.com/article5/",
+      "https://rcc.fide.com/2021/11/08/questions-answers-november-2021/",
+      "https://www.chesshistory.com/winter/extra/draws.html",
+      "https://en.chessbase.com/post/unfought-draws-reader-feedback"
+    ]
+  },
+  {
     "id": "kt:einstellung-effect",
     "title": "Einstellung effect",
     "aliases": [
