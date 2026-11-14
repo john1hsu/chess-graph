@@ -2842,6 +2842,32 @@
     ]
   },
   {
+    "id": "kt:overloading",
+    "title": "Overloading",
+    "aliases": [
+      "Overload",
+      "Overloaded piece",
+      "Overloaded defender",
+      "Overworked piece",
+      "Overworked defender"
+    ],
+    "type": "TacticalMotif",
+    "domain": "tactics",
+    "file": "articles/tactics/overloading.md",
+    "created": "2026-11-14",
+    "verified": "2026-11-14",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.englishchess.org.uk/wp-content/uploads/2010/01/guard.pdf",
+      "https://www.chesstactics.org/removing-the-guard/distracting-the-guard_the-overworked-piece/simple-cases_one-guard-protects-two-men/5_2_1_1.html",
+      "https://www.chesstactics.org/removing-the-guard/distracting-the-guard_the-overworked-piece/when-a-piece-guards-two-mating-squares/5_2_3_1.html",
+      "https://www.chesstactics.org/removing-the-guard/attacking-the-guard/introduction/5_3_1_1.html",
+      "https://www.chess.com/blog/ForwardChess/overloaded-pieces-when-two-is-too-much",
+      "https://www.chesshistory.com/winter/extra/adamstorre.html"
+    ]
+  },
+  {
     "id": "kt:passed-pawn",
     "title": "Passed pawn",
     "aliases": [

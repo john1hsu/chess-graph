@@ -12255,6 +12255,96 @@
       ]
     },
     {
+      "@id": "kt:overloading",
+      "@type": "kto:TacticalMotif",
+      "skos:prefLabel": "Overloading",
+      "skos:definition": "A tactical weakness in which one defending piece has more than one defensive duty, so that forcing it to carry out one duty abandons the other and lets the attacker win material or give mate.",
+      "kto:domain": "tactics",
+      "dcterms:created": "2026-11-14",
+      "kto:verified": "2026-11-14",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Removing the Guard (Chess Skills leaflet)",
+          "dcterms:publisher": "English Chess Federation",
+          "schema:url": "https://www.englishchess.org.uk/wp-content/uploads/2010/01/guard.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Predator at the Chessboard, 5.2.1: Distracting the guard, the overworked piece (simple cases)",
+          "dcterms:publisher": "Ward Farnsworth",
+          "schema:url": "https://www.chesstactics.org/removing-the-guard/distracting-the-guard_the-overworked-piece/simple-cases_one-guard-protects-two-men/5_2_1_1.html",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Predator at the Chessboard, 5.2.3: When a piece guards two mating squares",
+          "dcterms:publisher": "Ward Farnsworth",
+          "schema:url": "https://www.chesstactics.org/removing-the-guard/distracting-the-guard_the-overworked-piece/when-a-piece-guards-two-mating-squares/5_2_3_1.html",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Predator at the Chessboard, 5.3.1: Attacking the guard (introduction)",
+          "dcterms:publisher": "Ward Farnsworth",
+          "schema:url": "https://www.chesstactics.org/removing-the-guard/attacking-the-guard/introduction/5_3_1_1.html",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Overloaded Pieces: When two is too much",
+          "dcterms:publisher": "Forward Chess (Chess.com blog)",
+          "schema:url": "https://www.chess.com/blog/ForwardChess/overloaded-pieces-when-two-is-too-much",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Adams v Torre – A Sham?",
+          "dcterms:publisher": "Edward Winter, Chess Notes",
+          "schema:url": "https://www.chesshistory.com/winter/extra/adamstorre.html",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/tactics/overloading.md",
+      "skos:altLabel": [
+        "Overload",
+        "Overloaded piece",
+        "Overloaded defender",
+        "Overworked piece",
+        "Overworked defender"
+      ],
+      "kto:fen": "4r1k1/5p1p/3q1np1/8/8/b1B5/5PPP/R2Q2K1 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-tactics"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:deflection"
+        },
+        {
+          "@id": "kt:combination"
+        },
+        {
+          "@id": "kt:removing-the-guard"
+        },
+        {
+          "@id": "kt:fork"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:material-advantage"
+        },
+        {
+          "@id": "kt:back-rank-mate"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:adams-versus-torre-new-orleans-1920"
+        }
+      ]
+    },
+    {
       "@id": "kt:pin",
       "@type": "kto:TacticalMotif",
       "skos:prefLabel": "Pin",

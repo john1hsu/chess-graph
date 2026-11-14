@@ -3183,6 +3183,34 @@
 <https://github.com/john1hsu/chess-graph/id/outpost> <https://github.com/john1hsu/chess-graph/ontology#fen> "r1bqkb1r/5p1p/p1np1p2/1p1Np3/4P3/N7/PPP2PPP/R2QKB1R b KQkq - 1 10" .
 <https://github.com/john1hsu/chess-graph/id/outpost> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/outpost> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/overloading> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/overloading> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TacticalMotif> .
+<https://github.com/john1hsu/chess-graph/id/overloading> <http://www.w3.org/2000/01/rdf-schema#label> "Overloading" .
+<https://github.com/john1hsu/chess-graph/id/overloading> <http://www.w3.org/2004/02/skos/core#altLabel> "Overload" .
+<https://github.com/john1hsu/chess-graph/id/overloading> <http://www.w3.org/2004/02/skos/core#altLabel> "Overloaded defender" .
+<https://github.com/john1hsu/chess-graph/id/overloading> <http://www.w3.org/2004/02/skos/core#altLabel> "Overloaded piece" .
+<https://github.com/john1hsu/chess-graph/id/overloading> <http://www.w3.org/2004/02/skos/core#altLabel> "Overworked defender" .
+<https://github.com/john1hsu/chess-graph/id/overloading> <http://www.w3.org/2004/02/skos/core#altLabel> "Overworked piece" .
+<https://github.com/john1hsu/chess-graph/id/overloading> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-tactics> .
+<https://github.com/john1hsu/chess-graph/id/overloading> <http://www.w3.org/2004/02/skos/core#definition> "A tactical weakness in which one defending piece has more than one defensive duty, so that forcing it to carry out one duty abandons the other and lets the attacker win material or give mate." .
+<https://github.com/john1hsu/chess-graph/id/overloading> <http://www.w3.org/2004/02/skos/core#prefLabel> "Overloading" .
+<https://github.com/john1hsu/chess-graph/id/overloading> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/combination> .
+<https://github.com/john1hsu/chess-graph/id/overloading> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/deflection> .
+<https://github.com/john1hsu/chess-graph/id/overloading> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fork> .
+<https://github.com/john1hsu/chess-graph/id/overloading> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/removing-the-guard> .
+<https://github.com/john1hsu/chess-graph/id/overloading> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/overloading/s1> .
+<https://github.com/john1hsu/chess-graph/id/overloading> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/overloading/s2> .
+<https://github.com/john1hsu/chess-graph/id/overloading> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/overloading/s3> .
+<https://github.com/john1hsu/chess-graph/id/overloading> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/overloading/s4> .
+<https://github.com/john1hsu/chess-graph/id/overloading> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/overloading/s5> .
+<https://github.com/john1hsu/chess-graph/id/overloading> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/overloading/s6> .
+<https://github.com/john1hsu/chess-graph/id/overloading> <https://github.com/john1hsu/chess-graph/ontology#domain> "tactics" .
+<https://github.com/john1hsu/chess-graph/id/overloading> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/back-rank-mate> .
+<https://github.com/john1hsu/chess-graph/id/overloading> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/material-advantage> .
+<https://github.com/john1hsu/chess-graph/id/overloading> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/adams-versus-torre-new-orleans-1920> .
+<https://github.com/john1hsu/chess-graph/id/overloading> <https://github.com/john1hsu/chess-graph/ontology#fen> "4r1k1/5p1p/3q1np1/8/8/b1B5/5PPP/R2Q2K1 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/overloading> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/overloading> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-14" .
 <https://github.com/john1hsu/chess-graph/id/passed-pawn> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/passed-pawn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
 <https://github.com/john1hsu/chess-graph/id/passed-pawn> <http://www.w3.org/2000/01/rdf-schema#label> "Passed pawn" .
@@ -7235,6 +7263,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/outpost/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/outpost/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/outpost/s6> <https://schema.org/url> "https://en.chessbase.com/post/the-winning-academy-32-the-hole" .
+<https://github.com/john1hsu/chess-graph/id/source/overloading/s1> <http://purl.org/dc/terms/publisher> "English Chess Federation" .
+<https://github.com/john1hsu/chess-graph/id/source/overloading/s1> <http://purl.org/dc/terms/title> "Removing the Guard (Chess Skills leaflet)" .
+<https://github.com/john1hsu/chess-graph/id/source/overloading/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/overloading/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/overloading/s1> <https://schema.org/url> "https://www.englishchess.org.uk/wp-content/uploads/2010/01/guard.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/overloading/s2> <http://purl.org/dc/terms/publisher> "Ward Farnsworth" .
+<https://github.com/john1hsu/chess-graph/id/source/overloading/s2> <http://purl.org/dc/terms/title> "Predator at the Chessboard, 5.2.1: Distracting the guard, the overworked piece (simple cases)" .
+<https://github.com/john1hsu/chess-graph/id/source/overloading/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/overloading/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/overloading/s2> <https://schema.org/url> "https://www.chesstactics.org/removing-the-guard/distracting-the-guard_the-overworked-piece/simple-cases_one-guard-protects-two-men/5_2_1_1.html" .
+<https://github.com/john1hsu/chess-graph/id/source/overloading/s3> <http://purl.org/dc/terms/publisher> "Ward Farnsworth" .
+<https://github.com/john1hsu/chess-graph/id/source/overloading/s3> <http://purl.org/dc/terms/title> "Predator at the Chessboard, 5.2.3: When a piece guards two mating squares" .
+<https://github.com/john1hsu/chess-graph/id/source/overloading/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/overloading/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/overloading/s3> <https://schema.org/url> "https://www.chesstactics.org/removing-the-guard/distracting-the-guard_the-overworked-piece/when-a-piece-guards-two-mating-squares/5_2_3_1.html" .
+<https://github.com/john1hsu/chess-graph/id/source/overloading/s4> <http://purl.org/dc/terms/publisher> "Ward Farnsworth" .
+<https://github.com/john1hsu/chess-graph/id/source/overloading/s4> <http://purl.org/dc/terms/title> "Predator at the Chessboard, 5.3.1: Attacking the guard (introduction)" .
+<https://github.com/john1hsu/chess-graph/id/source/overloading/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/overloading/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/overloading/s4> <https://schema.org/url> "https://www.chesstactics.org/removing-the-guard/attacking-the-guard/introduction/5_3_1_1.html" .
+<https://github.com/john1hsu/chess-graph/id/source/overloading/s5> <http://purl.org/dc/terms/publisher> "Forward Chess (Chess.com blog)" .
+<https://github.com/john1hsu/chess-graph/id/source/overloading/s5> <http://purl.org/dc/terms/title> "Overloaded Pieces: When two is too much" .
+<https://github.com/john1hsu/chess-graph/id/source/overloading/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/overloading/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/overloading/s5> <https://schema.org/url> "https://www.chess.com/blog/ForwardChess/overloaded-pieces-when-two-is-too-much" .
+<https://github.com/john1hsu/chess-graph/id/source/overloading/s6> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes" .
+<https://github.com/john1hsu/chess-graph/id/source/overloading/s6> <http://purl.org/dc/terms/title> "Adams v Torre – A Sham?" .
+<https://github.com/john1hsu/chess-graph/id/source/overloading/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/overloading/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/overloading/s6> <https://schema.org/url> "https://www.chesshistory.com/winter/extra/adamstorre.html" .
 <https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s1> <http://purl.org/dc/terms/publisher> "Chess.com (Chess Terms)" .
 <https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s1> <http://purl.org/dc/terms/title> "Passed Pawn" .
 <https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
