@@ -46,6 +46,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
 | `kt:rook-on-the-seventh-rank` | `kt:open-file`, `kt:open-file` |
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:zugzwang`, `kt:aron-nimzowitsch` |
+| `kt:shogi` | `kt:chess-variants`, `kt:crazyhouse` |
 | `kt:simplification` | `kt:material-advantage`, `kt:material-advantage` |
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
 | `kt:steinitz-von-bardeleben-hastings-1895` | `kt:hastings-1895`, `kt:wilhelm-steinitz` |
@@ -79,7 +80,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cognitive-science` | `kt:cognitive-psychology-of-chess` |
 | `kt:colle-versus-ohanlon-nice-1930` | `kt:greek-gift-sacrifice` |
 | `kt:counting-in-pawn-races` | `kt:rule-of-the-square` |
-| `kt:crazyhouse` | `kt:bughouse` |
 | `kt:david-forsyth` | `kt:forsyth-edwards-notation` |
 | `kt:deep-blue` | `kt:deep-blue-versus-kasparov` |
 | `kt:deepmind` | `kt:alphazero` |
@@ -192,7 +192,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:samuel-reshevsky` | `kt:us-chess-championship` |
 | `kt:san-remo-1930` | `kt:alexander-alekhine` |
 | `kt:semi-slav-defence` | `kt:slav-defence` |
-| `kt:shogi` | `kt:chess-variants` |
 | `kt:shuffle-chess` | `kt:chess960` |
 | `kt:simultaneous-exhibition` | `kt:blindfold-chess` |
 | `kt:sinquefield-cup` | `kt:saint-louis-chess-club` |

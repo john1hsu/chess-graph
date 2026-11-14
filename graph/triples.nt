@@ -1303,6 +1303,31 @@
 <https://github.com/john1hsu/chess-graph/id/corresponding-squares> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/triangulation> .
 <https://github.com/john1hsu/chess-graph/id/corresponding-squares> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/corresponding-squares> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/crazyhouse> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/crazyhouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Variant> .
+<https://github.com/john1hsu/chess-graph/id/crazyhouse> <http://www.w3.org/2000/01/rdf-schema#label> "Crazyhouse" .
+<https://github.com/john1hsu/chess-graph/id/crazyhouse> <http://www.w3.org/2004/02/skos/core#altLabel> "Crazy house" .
+<https://github.com/john1hsu/chess-graph/id/crazyhouse> <http://www.w3.org/2004/02/skos/core#altLabel> "Crazyhouse chess" .
+<https://github.com/john1hsu/chess-graph/id/crazyhouse> <http://www.w3.org/2004/02/skos/core#altLabel> "Drop chess" .
+<https://github.com/john1hsu/chess-graph/id/crazyhouse> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-variants> .
+<https://github.com/john1hsu/chess-graph/id/crazyhouse> <http://www.w3.org/2004/02/skos/core#definition> "A two-player chess variant in which every captured piece changes colour and goes into the capturer's pocket, from which it may later be dropped onto any empty square instead of making a normal move." .
+<https://github.com/john1hsu/chess-graph/id/crazyhouse> <http://www.w3.org/2004/02/skos/core#prefLabel> "Crazyhouse" .
+<https://github.com/john1hsu/chess-graph/id/crazyhouse> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/bughouse> .
+<https://github.com/john1hsu/chess-graph/id/crazyhouse> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/checkmate> .
+<https://github.com/john1hsu/chess-graph/id/crazyhouse> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> .
+<https://github.com/john1hsu/chess-graph/id/crazyhouse> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/pawn-promotion> .
+<https://github.com/john1hsu/chess-graph/id/crazyhouse> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/shogi> .
+<https://github.com/john1hsu/chess-graph/id/crazyhouse> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/stockfish> .
+<https://github.com/john1hsu/chess-graph/id/crazyhouse> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/crazyhouse/s1> .
+<https://github.com/john1hsu/chess-graph/id/crazyhouse> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/crazyhouse/s2> .
+<https://github.com/john1hsu/chess-graph/id/crazyhouse> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/crazyhouse/s3> .
+<https://github.com/john1hsu/chess-graph/id/crazyhouse> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/crazyhouse/s4> .
+<https://github.com/john1hsu/chess-graph/id/crazyhouse> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/chess960> .
+<https://github.com/john1hsu/chess-graph/id/crazyhouse> <https://github.com/john1hsu/chess-graph/ontology#domain> "variants-and-compositions" .
+<https://github.com/john1hsu/chess-graph/id/crazyhouse> <https://github.com/john1hsu/chess-graph/ontology#fen> "6k1/5ppp/8/8/8/8/5PPP/6K1 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/crazyhouse> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/crazyhouse> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/sacrifice> .
+<https://github.com/john1hsu/chess-graph/id/crazyhouse> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-14" .
 <https://github.com/john1hsu/chess-graph/id/dead-position> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/dead-position> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Rule> .
 <https://github.com/john1hsu/chess-graph/id/dead-position> <http://www.w3.org/2000/01/rdf-schema#label> "Dead position" .
@@ -5333,6 +5358,26 @@
 <https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s6> <https://schema.org/url> "https://www.chessprogramming.org/Corresponding_Squares" .
+<https://github.com/john1hsu/chess-graph/id/source/crazyhouse/s1> <http://purl.org/dc/terms/publisher> "Czech, Willig, Beyer, Kersting & Fürnkranz, arXiv:1908.06660 (2019; later in Frontiers in Artificial Intelligence)" .
+<https://github.com/john1hsu/chess-graph/id/source/crazyhouse/s1> <http://purl.org/dc/terms/title> "Learning to play the Chess Variant Crazyhouse above World Champion Level with Deep Neural Networks and Human Data" .
+<https://github.com/john1hsu/chess-graph/id/source/crazyhouse/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/crazyhouse/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/crazyhouse/s1> <https://schema.org/url> "https://arxiv.org/pdf/1908.06660" .
+<https://github.com/john1hsu/chess-graph/id/source/crazyhouse/s2> <http://purl.org/dc/terms/publisher> "Gordon Chi, Stanford University (arXiv:1908.09296)" .
+<https://github.com/john1hsu/chess-graph/id/source/crazyhouse/s2> <http://purl.org/dc/terms/title> "Exploring the Performance of Deep Residual Networks in Crazyhouse Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/crazyhouse/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/crazyhouse/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/crazyhouse/s2> <https://schema.org/url> "https://arxiv.org/pdf/1908.09296" .
+<https://github.com/john1hsu/chess-graph/id/source/crazyhouse/s3> <http://purl.org/dc/terms/publisher> "Lichess (variant rules page)" .
+<https://github.com/john1hsu/chess-graph/id/source/crazyhouse/s3> <http://purl.org/dc/terms/title> "Crazyhouse" .
+<https://github.com/john1hsu/chess-graph/id/source/crazyhouse/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/crazyhouse/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/crazyhouse/s3> <https://schema.org/url> "https://lichess.org/variant/crazyhouse" .
+<https://github.com/john1hsu/chess-graph/id/source/crazyhouse/s4> <http://purl.org/dc/terms/publisher> "Chess.com Help Center" .
+<https://github.com/john1hsu/chess-graph/id/source/crazyhouse/s4> <http://purl.org/dc/terms/title> "What is Crazyhouse?" .
+<https://github.com/john1hsu/chess-graph/id/source/crazyhouse/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/crazyhouse/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/crazyhouse/s4> <https://schema.org/url> "https://support.chess.com/en/articles/8614995-what-is-crazyhouse" .
 <https://github.com/john1hsu/chess-graph/id/source/dead-position/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
 <https://github.com/john1hsu/chess-graph/id/source/dead-position/s1> <http://purl.org/dc/terms/title> "Laws of Chess, Article 5: The Completion of the Game" .
 <https://github.com/john1hsu/chess-graph/id/source/dead-position/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

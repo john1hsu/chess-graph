@@ -1169,6 +1169,28 @@
     ]
   },
   {
+    "id": "kt:crazyhouse",
+    "title": "Crazyhouse",
+    "aliases": [
+      "Drop chess",
+      "Crazy house",
+      "Crazyhouse chess"
+    ],
+    "type": "Variant",
+    "domain": "variants-and-compositions",
+    "file": "articles/variants-and-compositions/crazyhouse.md",
+    "created": "2026-11-14",
+    "verified": "2026-11-14",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://arxiv.org/pdf/1908.06660",
+      "https://arxiv.org/pdf/1908.09296",
+      "https://lichess.org/variant/crazyhouse",
+      "https://support.chess.com/en/articles/8614995-what-is-crazyhouse"
+    ]
+  },
+  {
     "id": "kt:dead-position",
     "title": "Dead position",
     "aliases": [

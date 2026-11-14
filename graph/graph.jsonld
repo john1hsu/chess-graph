@@ -14885,6 +14885,85 @@
       ]
     },
     {
+      "@id": "kt:crazyhouse",
+      "@type": "kto:Variant",
+      "skos:prefLabel": "Crazyhouse",
+      "skos:definition": "A two-player chess variant in which every captured piece changes colour and goes into the capturer's pocket, from which it may later be dropped onto any empty square instead of making a normal move.",
+      "kto:domain": "variants-and-compositions",
+      "dcterms:created": "2026-11-14",
+      "kto:verified": "2026-11-14",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Learning to play the Chess Variant Crazyhouse above World Champion Level with Deep Neural Networks and Human Data",
+          "dcterms:publisher": "Czech, Willig, Beyer, Kersting & Fürnkranz, arXiv:1908.06660 (2019; later in Frontiers in Artificial Intelligence)",
+          "schema:url": "https://arxiv.org/pdf/1908.06660",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Exploring the Performance of Deep Residual Networks in Crazyhouse Chess",
+          "dcterms:publisher": "Gordon Chi, Stanford University (arXiv:1908.09296)",
+          "schema:url": "https://arxiv.org/pdf/1908.09296",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Crazyhouse",
+          "dcterms:publisher": "Lichess (variant rules page)",
+          "schema:url": "https://lichess.org/variant/crazyhouse",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "What is Crazyhouse?",
+          "dcterms:publisher": "Chess.com Help Center",
+          "schema:url": "https://support.chess.com/en/articles/8614995-what-is-crazyhouse",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/variants-and-compositions/crazyhouse.md",
+      "skos:altLabel": [
+        "Drop chess",
+        "Crazy house",
+        "Crazyhouse chess"
+      ],
+      "kto:fen": "6k1/5ppp/8/8/8/8/5PPP/6K1 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-variants"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:bughouse"
+        },
+        {
+          "@id": "kt:shogi"
+        },
+        {
+          "@id": "kt:checkmate"
+        },
+        {
+          "@id": "kt:pawn-promotion"
+        },
+        {
+          "@id": "kt:monte-carlo-tree-search"
+        },
+        {
+          "@id": "kt:stockfish"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:sacrifice"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:chess960"
+        }
+      ]
+    },
+    {
       "@id": "kt:endgame-study",
       "@type": "kto:ProblemGenre",
       "skos:prefLabel": "Endgame study",
