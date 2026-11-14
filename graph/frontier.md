@@ -4,11 +4,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:mikhail-botvinnik`, `kt:tigran-petrosian`, `kt:wilhelm-steinitz` |
+| `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:alexander-alekhine`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:mikhail-botvinnik`, `kt:tigran-petrosian`, `kt:wilhelm-steinitz` |
+| `kt:alekhines-defence` | `kt:fischer-spassky-1972`, `kt:hypermodernism`, `kt:semi-open-games`, `kt:alexander-alekhine` |
 | `kt:closed-games` | `kt:open-games`, `kt:queens-gambit-accepted`, `kt:queens-gambit`, `kt:semi-open-games` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:herbert-simon` |
-| `kt:alekhines-defence` | `kt:fischer-spassky-1972`, `kt:hypermodernism`, `kt:semi-open-games` |
-| `kt:alexander-alekhine` | `kt:slav-defence`, `kt:jose-raul-capablanca`, `kt:blindfold-chess` |
 | `kt:boris-spassky` | `kt:fischer-spassky-1972`, `kt:bobby-fischer`, `kt:tigran-petrosian` |
 | `kt:chess-organizations` | `kt:fide`, `kt:us-chess`, `kt:world-federation-for-chess-composition` |
 | `kt:corresponding-squares` | `kt:key-squares`, `kt:triangulation`, `kt:triangulation` |
@@ -22,6 +21,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:portable-game-notation` | `kt:algebraic-notation`, `kt:forsyth-edwards-notation`, `kt:forsyth-edwards-notation` |
 | `kt:universal-chess-interface` | `kt:leela-chess-zero`, `kt:stockfish`, `kt:chess960` |
 | `kt:vladimir-kramnik` | `kt:alphazero`, `kt:ruy-lopez`, `kt:garry-kasparov` |
+| `kt:alekhine-versus-nimzowitsch-san-remo-1930` | `kt:open-file`, `kt:alexander-alekhine` |
+| `kt:alekhines-gun` | `kt:open-file`, `kt:alexander-alekhine` |
 | `kt:alexander-kotov` | `kt:calculation`, `kt:candidate-moves` |
 | `kt:backward-pawn` | `kt:minority-attack`, `kt:outpost` |
 | `kt:berlin-defence` | `kt:alphazero`, `kt:ruy-lopez` |
@@ -35,6 +36,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:karpov-versus-unzicker-nice-1974` | `kt:prophylaxis`, `kt:anatoly-karpov` |
 | `kt:lionel-kieseritzky` | `kt:immortal-game`, `kt:london-1851` |
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position`, `kt:smothered-mate` |
+| `kt:max-euwe` | `kt:slav-defence`, `kt:alexander-alekhine` |
 | `kt:miguel-najdorf` | `kt:najdorf-variation`, `kt:blindfold-chess` |
 | `kt:move-ordering` | `kt:alpha-beta-pruning`, `kt:quiescence-search` |
 | `kt:origins-of-chess` | `kt:chaturanga`, `kt:history-of-chess` |
@@ -57,12 +59,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:top-chess-engine-championship` | `kt:leela-chess-zero`, `kt:stockfish` |
 | `kt:transposition-table` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
 | `kt:underpromotion` | `kt:pawn-promotion`, `kt:excelsior` |
+| `kt:world-chess-championship-1927` | `kt:alexander-alekhine`, `kt:jose-raul-capablanca` |
 | `kt:abraham-luchins` | `kt:einstellung-effect` |
 | `kt:abstract-strategy-game` | `kt:chess` |
 | `kt:adams-versus-torre-new-orleans-1920` | `kt:back-rank-mate` |
 | `kt:albin-countergambit` | `kt:queens-gambit` |
-| `kt:alekhine-versus-nimzowitsch-san-remo-1930` | `kt:open-file` |
-| `kt:alekhines-gun` | `kt:open-file` |
 | `kt:alfred-binet` | `kt:cognitive-psychology-of-chess` |
 | `kt:allen-newell` | `kt:herbert-simon` |
 | `kt:allumwandlung` | `kt:excelsior` |
@@ -142,7 +143,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:marcus-kann` | `kt:caro-kann-defence` |
 | `kt:marmaduke-wyvill` | `kt:london-1851` |
 | `kt:marshall-attack` | `kt:ruy-lopez` |
-| `kt:max-euwe` | `kt:slav-defence` |
 | `kt:max-lange` | `kt:helpmate` |
 | `kt:merim-bilalic` | `kt:einstellung-effect` |
 | `kt:mitrofanov-study-1967` | `kt:deflection` |
@@ -186,6 +186,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:same-coloured-bishops` | `kt:opposite-coloured-bishops` |
 | `kt:samisch-variation` | `kt:nimzo-indian-defence` |
 | `kt:samuel-reshevsky` | `kt:us-chess-championship` |
+| `kt:san-remo-1930` | `kt:alexander-alekhine` |
 | `kt:semi-slav-defence` | `kt:slav-defence` |
 | `kt:shogi` | `kt:chess-variants` |
 | `kt:shuffle-chess` | `kt:chess960` |
@@ -216,7 +217,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:world-chess-championship-1894` | `kt:emanuel-lasker` |
 | `kt:world-chess-championship-1908` | `kt:siegbert-tarrasch` |
 | `kt:world-chess-championship-1921` | `kt:jose-raul-capablanca` |
-| `kt:world-chess-championship-1927` | `kt:jose-raul-capablanca` |
+| `kt:world-chess-championship-1935` | `kt:alexander-alekhine` |
+| `kt:world-chess-championship-1937` | `kt:alexander-alekhine` |
 | `kt:wrong-bishop` | `kt:fortress` |
 | `kt:xiangqi` | `kt:chess-variants` |
 | `kt:yu-nasu` | `kt:nnue` |

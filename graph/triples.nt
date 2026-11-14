@@ -55,6 +55,40 @@
 <https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/chess-olympiad> .
 <https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/alexander-alekhine> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/alexander-alekhine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
+<https://github.com/john1hsu/chess-graph/id/alexander-alekhine> <http://www.w3.org/2000/01/rdf-schema#label> "Alexander Alekhine" .
+<https://github.com/john1hsu/chess-graph/id/alexander-alekhine> <http://www.w3.org/2004/02/skos/core#altLabel> "Alekhin" .
+<https://github.com/john1hsu/chess-graph/id/alexander-alekhine> <http://www.w3.org/2004/02/skos/core#altLabel> "Aleksandr Aleksandrovich Alyokhin" .
+<https://github.com/john1hsu/chess-graph/id/alexander-alekhine> <http://www.w3.org/2004/02/skos/core#altLabel> "Aleksandr Alyokhin" .
+<https://github.com/john1hsu/chess-graph/id/alexander-alekhine> <http://www.w3.org/2004/02/skos/core#altLabel> "Alexander Alekhin" .
+<https://github.com/john1hsu/chess-graph/id/alexander-alekhine> <http://www.w3.org/2004/02/skos/core#altLabel> "Alexandre Alekhine" .
+<https://github.com/john1hsu/chess-graph/id/alexander-alekhine> <http://www.w3.org/2004/02/skos/core#altLabel> "Aljechin" .
+<https://github.com/john1hsu/chess-graph/id/alexander-alekhine> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/alexander-alekhine> <http://www.w3.org/2004/02/skos/core#definition> "Russian-born French master (1892–1946) and the fourth world chess champion, who took the title from Capablanca in 1927, lost it to Max Euwe in 1935, regained it in 1937 and held it until his death; renowned for deep, varied attacking play and record blindfold exhibitions." .
+<https://github.com/john1hsu/chess-graph/id/alexander-alekhine> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alexander Alekhine" .
+<https://github.com/john1hsu/chess-graph/id/alexander-alekhine> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/alekhines-defence> .
+<https://github.com/john1hsu/chess-graph/id/alexander-alekhine> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/alekhines-gun> .
+<https://github.com/john1hsu/chess-graph/id/alexander-alekhine> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/blindfold-chess> .
+<https://github.com/john1hsu/chess-graph/id/alexander-alekhine> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> .
+<https://github.com/john1hsu/chess-graph/id/alexander-alekhine> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/max-euwe> .
+<https://github.com/john1hsu/chess-graph/id/alexander-alekhine> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s1> .
+<https://github.com/john1hsu/chess-graph/id/alexander-alekhine> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s2> .
+<https://github.com/john1hsu/chess-graph/id/alexander-alekhine> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s3> .
+<https://github.com/john1hsu/chess-graph/id/alexander-alekhine> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s4> .
+<https://github.com/john1hsu/chess-graph/id/alexander-alekhine> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s5> .
+<https://github.com/john1hsu/chess-graph/id/alexander-alekhine> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s6> .
+<https://github.com/john1hsu/chess-graph/id/alexander-alekhine> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s7> .
+<https://github.com/john1hsu/chess-graph/id/alexander-alekhine> <https://github.com/john1hsu/chess-graph/ontology#domain> "players" .
+<https://github.com/john1hsu/chess-graph/id/alexander-alekhine> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/alekhine-versus-nimzowitsch-san-remo-1930> .
+<https://github.com/john1hsu/chess-graph/id/alexander-alekhine> <https://github.com/john1hsu/chess-graph/ontology#fen> "2rk4/p1rqn1p1/P1n1p2p/3pPp2/BP1P1P1P/2R2N2/2R3P1/2Q3K1 b - - 0 30" .
+<https://github.com/john1hsu/chess-graph/id/alexander-alekhine> <https://github.com/john1hsu/chess-graph/ontology#holdsTitle> <https://github.com/john1hsu/chess-graph/id/world-chess-champion> .
+<https://github.com/john1hsu/chess-graph/id/alexander-alekhine> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/san-remo-1930> .
+<https://github.com/john1hsu/chess-graph/id/alexander-alekhine> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/world-chess-championship-1927> .
+<https://github.com/john1hsu/chess-graph/id/alexander-alekhine> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/world-chess-championship-1935> .
+<https://github.com/john1hsu/chess-graph/id/alexander-alekhine> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/world-chess-championship-1937> .
+<https://github.com/john1hsu/chess-graph/id/alexander-alekhine> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/alexander-alekhine> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-14" .
 <https://github.com/john1hsu/chess-graph/id/algebraic-notation> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/algebraic-notation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Notation> .
 <https://github.com/john1hsu/chess-graph/id/algebraic-notation> <http://www.w3.org/2000/01/rdf-schema#label> "Algebraic notation" .
@@ -3823,6 +3857,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s6> <https://schema.org/url> "https://kwabc.org/en/newsitem/adrianus-dingeman-de-groot-1914-2006-chess-player-and-chess-psychologist.html" .
+<https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s1> <http://purl.org/dc/terms/title> "Alexander Alekhine" .
+<https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s1> <https://schema.org/url> "https://www.britannica.com/biography/Alexander-Alekhine" .
+<https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s2> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
+<https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s2> <http://purl.org/dc/terms/title> "Alexander Alekhine (1892 – 1946) (inductee page)" .
+<https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s2> <https://schema.org/url> "https://worldchesshof.org/inductee/alexander-alekhine" .
+<https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s3> <http://purl.org/dc/terms/publisher> "OlimpBase (Wojciech Bartelski)" .
+<https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s3> <http://purl.org/dc/terms/title> "World Chess Championship :: Buenos Aires 1927" .
+<https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s3> <https://schema.org/url> "https://www.olimpbase.org/ind-wcc/wc1927-wch.html" .
+<https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s4> <http://purl.org/dc/terms/publisher> "OlimpBase (Wojciech Bartelski)" .
+<https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s4> <http://purl.org/dc/terms/title> "World Chess Championship 1929, 1934, 1935 and 1937 match pages" .
+<https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s4> <https://schema.org/url> "https://www.olimpbase.org/ind-wcc/wc1935-wch.html" .
+<https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s5> <http://purl.org/dc/terms/publisher> "FIDE Chess Museum" .
+<https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s5> <http://purl.org/dc/terms/title> "1937 World Championship Match between Max Euwe and Alexander Alekhine" .
+<https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s5> <https://schema.org/url> "https://museum.fide.com/exhibits/1937-world-championship-match-between-max-euwe-and-alexander-alekhine" .
+<https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s6> <http://purl.org/dc/terms/publisher> "ChessBase" .
+<https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s6> <http://purl.org/dc/terms/title> "At the height of his career: Alekhine wins San Remo 1930 with 14 out of 15 (Johannes Fischer)" .
+<https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s6> <https://schema.org/url> "https://en.chessbase.com/post/at-the-height-of-his-career-alekhine-wins-san-remo-1930-with-14-out-of-15" .
+<https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s7> <http://purl.org/dc/terms/publisher> "GameKnot" .
+<https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s7> <http://purl.org/dc/terms/title> "San Remo 1930: Alekhine vs. Nimzowitsch (game record)" .
+<https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s7> <https://schema.org/url> "https://gameknot.com/annotation.pl/san-remo-1930?gm=36283" .
 <https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
 <https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s1> <http://purl.org/dc/terms/title> "Appendix C. Algebraic Notation (FIDE Laws of Chess)" .
 <https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
