@@ -5,7 +5,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:alexander-alekhine`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:mikhail-botvinnik`, `kt:tigran-petrosian`, `kt:wilhelm-steinitz` |
-| `kt:alekhines-defence` | `kt:fischer-spassky-1972`, `kt:hypermodernism`, `kt:semi-open-games`, `kt:alexander-alekhine` |
 | `kt:chess-organizations` | `kt:fide`, `kt:saint-louis-chess-club`, `kt:us-chess`, `kt:world-federation-for-chess-composition` |
 | `kt:closed-games` | `kt:open-games`, `kt:queens-gambit-accepted`, `kt:queens-gambit`, `kt:semi-open-games` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:herbert-simon` |
@@ -100,6 +99,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fide-world-fischer-random-chess-championship` | `kt:chess960` |
 | `kt:fischer-spassky-1972-game-6` | `kt:hanging-pawns` |
 | `kt:four-handed-chaturanga` | `kt:chaturanga` |
+| `kt:four-pawns-attack` | `kt:alekhines-defence` |
 | `kt:francois-antoine-de-legal` | `kt:francois-andre-danican-philidor` |
 | `kt:frank-marshall` | `kt:us-chess-championship` |
 | `kt:game-of-the-century` | `kt:bobby-fischer` |

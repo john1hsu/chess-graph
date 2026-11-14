@@ -55,6 +55,37 @@
 <https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/chess-olympiad> .
 <https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/alekhines-defence> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/alekhines-defence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Opening> .
+<https://github.com/john1hsu/chess-graph/id/alekhines-defence> <http://www.w3.org/2000/01/rdf-schema#label> "Alekhine's Defence" .
+<https://github.com/john1hsu/chess-graph/id/alekhines-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "Alekhine Defence" .
+<https://github.com/john1hsu/chess-graph/id/alekhines-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "Alekhine Defense" .
+<https://github.com/john1hsu/chess-graph/id/alekhines-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "Alekhine's Defense" .
+<https://github.com/john1hsu/chess-graph/id/alekhines-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "Alekhine's Opening" .
+<https://github.com/john1hsu/chess-graph/id/alekhines-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "Alekhines Defence" .
+<https://github.com/john1hsu/chess-graph/id/alekhines-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "Aljechin-Verteidigung" .
+<https://github.com/john1hsu/chess-graph/id/alekhines-defence> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/semi-open-games> .
+<https://github.com/john1hsu/chess-graph/id/alekhines-defence> <http://www.w3.org/2004/02/skos/core#definition> "A hypermodern semi-open defence to 1.e4 in which Black replies 1...Nf6, inviting White to chase the knight with 2.e5 and build a broad pawn centre that Black then aims to undermine." .
+<https://github.com/john1hsu/chess-graph/id/alekhines-defence> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alekhine's Defence" .
+<https://github.com/john1hsu/chess-graph/id/alekhines-defence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/caro-kann-defence> .
+<https://github.com/john1hsu/chess-graph/id/alekhines-defence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> .
+<https://github.com/john1hsu/chess-graph/id/alekhines-defence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/hypermodernism> .
+<https://github.com/john1hsu/chess-graph/id/alekhines-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s1> .
+<https://github.com/john1hsu/chess-graph/id/alekhines-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s2> .
+<https://github.com/john1hsu/chess-graph/id/alekhines-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s3> .
+<https://github.com/john1hsu/chess-graph/id/alekhines-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s4> .
+<https://github.com/john1hsu/chess-graph/id/alekhines-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s5> .
+<https://github.com/john1hsu/chess-graph/id/alekhines-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s6> .
+<https://github.com/john1hsu/chess-graph/id/alekhines-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s7> .
+<https://github.com/john1hsu/chess-graph/id/alekhines-defence> <https://github.com/john1hsu/chess-graph/ontology#alternativeTo> <https://github.com/john1hsu/chess-graph/id/sicilian-defence> .
+<https://github.com/john1hsu/chess-graph/id/alekhines-defence> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/bobby-fischer> .
+<https://github.com/john1hsu/chess-graph/id/alekhines-defence> <https://github.com/john1hsu/chess-graph/ontology#domain> "openings" .
+<https://github.com/john1hsu/chess-graph/id/alekhines-defence> <https://github.com/john1hsu/chess-graph/ontology#eco> "B02" .
+<https://github.com/john1hsu/chess-graph/id/alekhines-defence> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/four-pawns-attack> .
+<https://github.com/john1hsu/chess-graph/id/alekhines-defence> <https://github.com/john1hsu/chess-graph/ontology#moves> "1.e4 Nf6 2.e5 Nd5" .
+<https://github.com/john1hsu/chess-graph/id/alekhines-defence> <https://github.com/john1hsu/chess-graph/ontology#namedAfter> <https://github.com/john1hsu/chess-graph/id/alexander-alekhine> .
+<https://github.com/john1hsu/chess-graph/id/alekhines-defence> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/alekhines-defence> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-14" .
 <https://github.com/john1hsu/chess-graph/id/alexander-alekhine> <http://purl.org/dc/terms/created> "2026-11-14" .
 <https://github.com/john1hsu/chess-graph/id/alexander-alekhine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
 <https://github.com/john1hsu/chess-graph/id/alexander-alekhine> <http://www.w3.org/2000/01/rdf-schema#label> "Alexander Alekhine" .
@@ -3973,6 +4004,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s6> <https://schema.org/url> "https://kwabc.org/en/newsitem/adrianus-dingeman-de-groot-1914-2006-chess-player-and-chess-psychologist.html" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s1> <http://purl.org/dc/terms/title> "Alekhine's Defence" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s1> <https://schema.org/url> "https://chesshistory.com/winter/extra/alekhinedefence.html" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s2> <http://purl.org/dc/terms/publisher> "ChessBase Learn" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s2> <http://purl.org/dc/terms/title> "The Alekhine Defence" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s2> <https://schema.org/url> "https://learn.chessbase.com/en/page/the-alekhine-defence" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s3> <http://purl.org/dc/terms/publisher> "Cyrus Lakdawala, Everyman Chess (2014), New In Chess product page" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s3> <http://purl.org/dc/terms/title> "The Alekhine Defence: Move by Move" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s3> <https://schema.org/url> "https://www.newinchess.com/the-alekhine-defence-move-by-move" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s4> <http://purl.org/dc/terms/publisher> "Evgeny and Vladimir Sveshnikov, New In Chess (product sample PDF)" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s4> <http://purl.org/dc/terms/title> "A Chess Opening Repertoire for Blitz and Rapid (Alekhine's Defence chapters), sample pages" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s4> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/9020.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s5> <http://purl.org/dc/terms/publisher> "ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s5> <http://purl.org/dc/terms/title> "Fifty years ago: Fischer leads 8:5" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s5> <https://schema.org/url> "https://en.chessbase.com/post/fifty-years-ago-fischer-leads-8-5" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s6> <http://purl.org/dc/terms/publisher> "Chessgames.com" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s6> <http://purl.org/dc/terms/title> "Alekhine's Defense (B02) 1 e4 Nf6" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s6> <https://schema.org/url> "https://www.chessgames.com/perl/chessopening?eco=B02" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s7> <http://purl.org/dc/terms/publisher> "Chessgames.com" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s7> <http://purl.org/dc/terms/title> "Alekhine's Defense (B03) 1 e4 Nf6 2 e5 Nd5 3 d4" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s7> <https://schema.org/url> "https://chessgames.com/perl/chessopening?eco=B03" .
 <https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s1> <http://purl.org/dc/terms/title> "Alexander Alekhine" .
 <https://github.com/john1hsu/chess-graph/id/source/alexander-alekhine/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

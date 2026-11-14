@@ -6806,6 +6806,108 @@
       ]
     },
     {
+      "@id": "kt:alekhines-defence",
+      "@type": "kto:Opening",
+      "skos:prefLabel": "Alekhine's Defence",
+      "skos:definition": "A hypermodern semi-open defence to 1.e4 in which Black replies 1...Nf6, inviting White to chase the knight with 2.e5 and build a broad pawn centre that Black then aims to undermine.",
+      "kto:domain": "openings",
+      "dcterms:created": "2026-11-14",
+      "kto:verified": "2026-11-14",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Alekhine's Defence",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://chesshistory.com/winter/extra/alekhinedefence.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "The Alekhine Defence",
+          "dcterms:publisher": "ChessBase Learn",
+          "schema:url": "https://learn.chessbase.com/en/page/the-alekhine-defence",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The Alekhine Defence: Move by Move",
+          "dcterms:publisher": "Cyrus Lakdawala, Everyman Chess (2014), New In Chess product page",
+          "schema:url": "https://www.newinchess.com/the-alekhine-defence-move-by-move",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "A Chess Opening Repertoire for Blitz and Rapid (Alekhine's Defence chapters), sample pages",
+          "dcterms:publisher": "Evgeny and Vladimir Sveshnikov, New In Chess (product sample PDF)",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/9020.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Fifty years ago: Fischer leads 8:5",
+          "dcterms:publisher": "ChessBase News",
+          "schema:url": "https://en.chessbase.com/post/fifty-years-ago-fischer-leads-8-5",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Alekhine's Defense (B02) 1 e4 Nf6",
+          "dcterms:publisher": "Chessgames.com",
+          "schema:url": "https://www.chessgames.com/perl/chessopening?eco=B02",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "Alekhine's Defense (B03) 1 e4 Nf6 2 e5 Nd5 3 d4",
+          "dcterms:publisher": "Chessgames.com",
+          "schema:url": "https://chessgames.com/perl/chessopening?eco=B03",
+          "kto:sourceType": "database"
+        }
+      ],
+      "kto:file": "articles/openings/alekhines-defence.md",
+      "skos:altLabel": [
+        "Alekhine's Defense",
+        "Alekhine Defence",
+        "Alekhine Defense",
+        "Alekhines Defence",
+        "Aljechin-Verteidigung",
+        "Alekhine's Opening"
+      ],
+      "kto:eco": "B02",
+      "kto:moves": "1.e4 Nf6 2.e5 Nd5",
+      "skos:broader": [
+        {
+          "@id": "kt:semi-open-games"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:hypermodernism"
+        },
+        {
+          "@id": "kt:fischer-spassky-1972"
+        },
+        {
+          "@id": "kt:caro-kann-defence"
+        }
+      ],
+      "kto:namedAfter": [
+        {
+          "@id": "kt:alexander-alekhine"
+        }
+      ],
+      "kto:leadsTo": [
+        {
+          "@id": "kt:four-pawns-attack"
+        }
+      ],
+      "kto:championedBy": [
+        {
+          "@id": "kt:bobby-fischer"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:sicilian-defence"
+        }
+      ]
+    },
+    {
       "@id": "kt:caro-kann-defence",
       "@type": "kto:Opening",
       "skos:prefLabel": "Caro-Kann Defence",

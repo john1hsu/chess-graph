@@ -52,6 +52,35 @@
     ]
   },
   {
+    "id": "kt:alekhines-defence",
+    "title": "Alekhine's Defence",
+    "aliases": [
+      "Alekhine's Defense",
+      "Alekhine Defence",
+      "Alekhine Defense",
+      "Alekhines Defence",
+      "Aljechin-Verteidigung",
+      "Alekhine's Opening"
+    ],
+    "type": "Opening",
+    "domain": "openings",
+    "file": "articles/openings/alekhines-defence.md",
+    "created": "2026-11-14",
+    "verified": "2026-11-14",
+    "volatile": false,
+    "status": "current",
+    "eco": "B02",
+    "source_urls": [
+      "https://chesshistory.com/winter/extra/alekhinedefence.html",
+      "https://learn.chessbase.com/en/page/the-alekhine-defence",
+      "https://www.newinchess.com/the-alekhine-defence-move-by-move",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/9020.pdf",
+      "https://en.chessbase.com/post/fifty-years-ago-fischer-leads-8-5",
+      "https://www.chessgames.com/perl/chessopening?eco=B02",
+      "https://chessgames.com/perl/chessopening?eco=B03"
+    ]
+  },
+  {
     "id": "kt:alexander-alekhine",
     "title": "Alexander Alekhine",
     "aliases": [
