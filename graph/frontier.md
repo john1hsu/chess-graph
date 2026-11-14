@@ -11,7 +11,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:kings-gambit` | `kt:immortal-game`, `kt:evans-gambit`, `kt:open-games`, `kt:boris-spassky` |
 | `kt:magnus-carlsen` | `kt:fide-world-cup`, `kt:fide-world-cup`, `kt:gukesh-dommaraju`, `kt:talent` |
 | `kt:chess-openings` | `kt:opening-book`, `kt:open-games`, `kt:semi-open-games` |
-| `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position`, `kt:rook-endgames` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search`, `kt:progressive-deepening` |
 | `kt:javokhir-sindarov` | `kt:candidates-tournament`, `kt:fide-world-cup`, `kt:gukesh-dommaraju` |
 | `kt:johannes-zukertort` | `kt:world-chess-championship-1886`, `kt:adolf-anderssen`, `kt:wilhelm-steinitz` |
@@ -182,6 +181,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:retractor` | `kt:retrograde-analysis` |
 | `kt:richard-reti` | `kt:hypermodernism` |
 | `kt:robert-hyatt` | `kt:bitboards` |
+| `kt:rook-versus-pawn` | `kt:cutting-off-the-king` |
 | `kt:rubinstein-variation` | `kt:nimzo-indian-defence` |
 | `kt:rudolf-huber` | `kt:universal-chess-interface` |
 | `kt:rudolf-spielmann` | `kt:sacrifice` |
@@ -192,6 +192,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:samuel-reshevsky` | `kt:us-chess-championship` |
 | `kt:san-remo-1930` | `kt:alexander-alekhine` |
 | `kt:semi-slav-defence` | `kt:slav-defence` |
+| `kt:shouldering` | `kt:cutting-off-the-king` |
 | `kt:shuffle-chess` | `kt:chess960` |
 | `kt:simultaneous-exhibition` | `kt:blindfold-chess` |
 | `kt:sinquefield-cup` | `kt:saint-louis-chess-club` |

@@ -1328,6 +1328,40 @@
 <https://github.com/john1hsu/chess-graph/id/crazyhouse> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/crazyhouse> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/sacrifice> .
 <https://github.com/john1hsu/chess-graph/id/crazyhouse> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Technique> .
+<https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> <http://www.w3.org/2000/01/rdf-schema#label> "Cutting off the king" .
+<https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> <http://www.w3.org/2004/02/skos/core#altLabel> "Cut off the king" .
+<https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> <http://www.w3.org/2004/02/skos/core#altLabel> "Cut-off" .
+<https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> <http://www.w3.org/2004/02/skos/core#altLabel> "Cutting off along a file" .
+<https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> <http://www.w3.org/2004/02/skos/core#altLabel> "Cutting off along a rank" .
+<https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> <http://www.w3.org/2004/02/skos/core#altLabel> "Cutting the king off" .
+<https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> <http://www.w3.org/2004/02/skos/core#altLabel> "Horizontal cut" .
+<https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> <http://www.w3.org/2004/02/skos/core#altLabel> "King cut off" .
+<https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> <http://www.w3.org/2004/02/skos/core#altLabel> "Vertical cut" .
+<https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-endgame> .
+<https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/rook-endgames> .
+<https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> <http://www.w3.org/2004/02/skos/core#definition> "The endgame technique of using a rook (or another long-range piece) to control a whole file or rank so that the enemy king cannot cross it, keeping the defending king away from a passed pawn or confining it to the edge of the board." .
+<https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cutting off the king" .
+<https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/checkmate> .
+<https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/king-and-pawn-endgames> .
+<https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/lucena-position> .
+<https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/passed-pawn> .
+<https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/philidor-position> .
+<https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s1> .
+<https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s2> .
+<https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s3> .
+<https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s4> .
+<https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s5> .
+<https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s6> .
+<https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s7> .
+<https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> <https://github.com/john1hsu/chess-graph/ontology#alternativeTo> <https://github.com/john1hsu/chess-graph/id/shouldering> .
+<https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> <https://github.com/john1hsu/chess-graph/ontology#domain> "endgames" .
+<https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/lucena-position> .
+<https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> <https://github.com/john1hsu/chess-graph/ontology#fen> "6k1/R7/8/8/8/8/8/6K1 b - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/rook-versus-pawn> .
+<https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-14" .
 <https://github.com/john1hsu/chess-graph/id/dead-position> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/dead-position> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Rule> .
 <https://github.com/john1hsu/chess-graph/id/dead-position> <http://www.w3.org/2000/01/rdf-schema#label> "Dead position" .
@@ -5404,6 +5438,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/crazyhouse/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/crazyhouse/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/crazyhouse/s4> <https://schema.org/url> "https://support.chess.com/en/articles/8614995-what-is-crazyhouse" .
+<https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s1> <http://purl.org/dc/terms/publisher> "José Raúl Capablanca; Project Gutenberg" .
+<https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s1> <http://purl.org/dc/terms/title> "Chess Fundamentals (1921), Project Gutenberg eBook #33870" .
+<https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s1> <https://schema.org/url> "https://gutenberg.org/cache/epub/33870/pg33870-images.html" .
+<https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s2> <http://purl.org/dc/terms/publisher> "Mark Dvoretsky, Russell Enterprises (excerpt hosted by De Beste Zet)" .
+<https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s2> <http://purl.org/dc/terms/title> "Dvoretsky's Endgame Manual, 6th edition (sample pages)" .
+<https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s2> <https://schema.org/url> "https://www.debestezet.nl/catalog/images/PDF/Dvoretskys%20Endgame%20Manual%206th%20Edition.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s3> <http://purl.org/dc/terms/publisher> "Jesús de la Villa, New In Chess (excerpt hosted by Chess Tigers)" .
+<https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s3> <http://purl.org/dc/terms/title> "100 Endgames You Must Know, sixth edition (sample pages)" .
+<https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s3> <https://schema.org/url> "https://shop.chess-tigers.de/cdn/shop/files/100endgames.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s4> <http://purl.org/dc/terms/publisher> "GM Matthew Sadler" .
+<https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s4> <http://purl.org/dc/terms/title> "King, Rook and Pawn vs King and Rook – Part II" .
+<https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s4> <https://schema.org/url> "https://matthewsadler.me.uk/the-endgame/king-rook-pawn-vs-king-rook-part-ii/" .
+<https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s5> <http://purl.org/dc/terms/publisher> "Azel Chua (AdviceCabinet), Chess.com blog" .
+<https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s5> <http://purl.org/dc/terms/title> "Lone Pawn in Rook Endings: Number of Files Needed to Cut the King Off (Part 2)" .
+<https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s5> <https://schema.org/url> "https://www.chess.com/blog/AdviceCabinet/lone-pawn-in-rook-endings-number-of-files-needed-to-cut-the-king-off-part-2" .
+<https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s6> <http://purl.org/dc/terms/publisher> "Charlotte Chess Center, Endgame Column" .
+<https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s6> <http://purl.org/dc/terms/title> "Rook vs Pawn" .
+<https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s6> <https://schema.org/url> "https://www.charlottechesscenter.org/post/rook-vs-pawn" .
+<https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s7> <http://purl.org/dc/terms/publisher> "Charlotte Chess Center, Endgame Column" .
+<https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s7> <http://purl.org/dc/terms/title> "\"Simple\" Rook and Pawn vs Rook - Part 1: Cases Where the Pawn Wins" .
+<https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s7> <https://schema.org/url> "https://www.charlottechesscenter.org/post/simple-rook-and-pawn-vs-rook-part-1-cases-where-the-pawn-wins" .
 <https://github.com/john1hsu/chess-graph/id/source/dead-position/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
 <https://github.com/john1hsu/chess-graph/id/source/dead-position/s1> <http://purl.org/dc/terms/title> "Laws of Chess, Article 5: The Completion of the Game" .
 <https://github.com/john1hsu/chess-graph/id/source/dead-position/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

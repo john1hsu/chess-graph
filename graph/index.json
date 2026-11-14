@@ -1191,6 +1191,36 @@
     ]
   },
   {
+    "id": "kt:cutting-off-the-king",
+    "title": "Cutting off the king",
+    "aliases": [
+      "Cut off the king",
+      "Cutting the king off",
+      "King cut off",
+      "Cut-off",
+      "Horizontal cut",
+      "Vertical cut",
+      "Cutting off along a rank",
+      "Cutting off along a file"
+    ],
+    "type": "Technique",
+    "domain": "endgames",
+    "file": "articles/endgames/cutting-off-the-king.md",
+    "created": "2026-11-14",
+    "verified": "2026-11-14",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://gutenberg.org/cache/epub/33870/pg33870-images.html",
+      "https://www.debestezet.nl/catalog/images/PDF/Dvoretskys%20Endgame%20Manual%206th%20Edition.pdf",
+      "https://shop.chess-tigers.de/cdn/shop/files/100endgames.pdf",
+      "https://matthewsadler.me.uk/the-endgame/king-rook-pawn-vs-king-rook-part-ii/",
+      "https://www.chess.com/blog/AdviceCabinet/lone-pawn-in-rook-endings-number-of-files-needed-to-cut-the-king-off-part-2",
+      "https://www.charlottechesscenter.org/post/rook-vs-pawn",
+      "https://www.charlottechesscenter.org/post/simple-rook-and-pawn-vs-rook-part-1-cases-where-the-pawn-wins"
+    ]
+  },
+  {
     "id": "kt:dead-position",
     "title": "Dead position",
     "aliases": [

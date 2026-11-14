@@ -1643,6 +1643,113 @@
       ]
     },
     {
+      "@id": "kt:cutting-off-the-king",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Cutting off the king",
+      "skos:definition": "The endgame technique of using a rook (or another long-range piece) to control a whole file or rank so that the enemy king cannot cross it, keeping the defending king away from a passed pawn or confining it to the edge of the board.",
+      "kto:domain": "endgames",
+      "dcterms:created": "2026-11-14",
+      "kto:verified": "2026-11-14",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Chess Fundamentals (1921), Project Gutenberg eBook #33870",
+          "dcterms:publisher": "José Raúl Capablanca; Project Gutenberg",
+          "schema:url": "https://gutenberg.org/cache/epub/33870/pg33870-images.html",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Dvoretsky's Endgame Manual, 6th edition (sample pages)",
+          "dcterms:publisher": "Mark Dvoretsky, Russell Enterprises (excerpt hosted by De Beste Zet)",
+          "schema:url": "https://www.debestezet.nl/catalog/images/PDF/Dvoretskys%20Endgame%20Manual%206th%20Edition.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "100 Endgames You Must Know, sixth edition (sample pages)",
+          "dcterms:publisher": "Jesús de la Villa, New In Chess (excerpt hosted by Chess Tigers)",
+          "schema:url": "https://shop.chess-tigers.de/cdn/shop/files/100endgames.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "King, Rook and Pawn vs King and Rook – Part II",
+          "dcterms:publisher": "GM Matthew Sadler",
+          "schema:url": "https://matthewsadler.me.uk/the-endgame/king-rook-pawn-vs-king-rook-part-ii/",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Lone Pawn in Rook Endings: Number of Files Needed to Cut the King Off (Part 2)",
+          "dcterms:publisher": "Azel Chua (AdviceCabinet), Chess.com blog",
+          "schema:url": "https://www.chess.com/blog/AdviceCabinet/lone-pawn-in-rook-endings-number-of-files-needed-to-cut-the-king-off-part-2",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "Rook vs Pawn",
+          "dcterms:publisher": "Charlotte Chess Center, Endgame Column",
+          "schema:url": "https://www.charlottechesscenter.org/post/rook-vs-pawn",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "\"Simple\" Rook and Pawn vs Rook - Part 1: Cases Where the Pawn Wins",
+          "dcterms:publisher": "Charlotte Chess Center, Endgame Column",
+          "schema:url": "https://www.charlottechesscenter.org/post/simple-rook-and-pawn-vs-rook-part-1-cases-where-the-pawn-wins",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/endgames/cutting-off-the-king.md",
+      "skos:altLabel": [
+        "Cut off the king",
+        "Cutting the king off",
+        "King cut off",
+        "Cut-off",
+        "Horizontal cut",
+        "Vertical cut",
+        "Cutting off along a rank",
+        "Cutting off along a file"
+      ],
+      "kto:fen": "6k1/R7/8/8/8/8/8/6K1 b - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:rook-endgames"
+        },
+        {
+          "@id": "kt:chess-endgame"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:lucena-position"
+        },
+        {
+          "@id": "kt:philidor-position"
+        },
+        {
+          "@id": "kt:king-and-pawn-endgames"
+        },
+        {
+          "@id": "kt:checkmate"
+        },
+        {
+          "@id": "kt:passed-pawn"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:lucena-position"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:shouldering"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:rook-versus-pawn"
+        }
+      ]
+    },
+    {
       "@id": "kt:endgame-tablebases",
       "@type": "kto:Software",
       "skos:prefLabel": "Endgame tablebases",
