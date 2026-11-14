@@ -12947,6 +12947,73 @@
       ]
     },
     {
+      "@id": "kt:starting-age",
+      "@type": "kto:CognitiveConcept",
+      "skos:prefLabel": "Starting age",
+      "skos:definition": "The age at which a player first learns chess, begins serious study or joins a club, studied as a predictor of eventual playing strength; earlier starters reach higher ratings even when total practice is held constant, which some researchers read as evidence of a sensitive period.",
+      "kto:domain": "training-and-improvement",
+      "dcterms:created": "2026-11-14",
+      "kto:verified": "2026-11-14",
+      "kto:status": "contested",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Role of Domain-Specific Practice, Handedness and Starting Age in Chess (Developmental Psychology 43, 159-172)",
+          "dcterms:publisher": "Fernand Gobet and Guillermo Campitelli, via CORE",
+          "schema:url": "https://core.ac.uk/download/333345.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Impact of Domain-Specific Experience on Chess Skill: Reanalysis of a Key Study (American Journal of Psychology 132(1), 27-38)",
+          "dcterms:publisher": "Burgoyne, Nye, Macnamara, Charness and Hambrick, via Georgia Tech Attention and Working Memory Lab",
+          "schema:url": "https://englelab.gatech.edu/articles/2019/Burgoyne_et_al_2019_AJP.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Individual differences in expertise development over decades in a complex intellectual domain (Memory & Cognition 37(2), 194-209)",
+          "dcterms:publisher": "Robert W. Howard, Springer / Psychonomic Society",
+          "schema:url": "https://link.springer.com/content/pdf/10.3758/MC.37.2.194.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "A multilevel model analysis of expertise in chess across the life span (Psychology and Aging 22(2))",
+          "dcterms:publisher": "Roy W. Roring and Neil Charness, via Weill Cornell Medicine VIVO",
+          "schema:url": "https://vivo.weill.cornell.edu/display/pubid17563184",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/training-and-improvement/starting-age.md",
+      "skos:altLabel": [
+        "Age of starting chess",
+        "Age of onset in chess",
+        "Critical period in chess",
+        "Sensitive period for chess skill",
+        "Early start in chess"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess-expertise"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:deliberate-practice"
+        },
+        {
+          "@id": "kt:talent"
+        },
+        {
+          "@id": "kt:chunking-theory"
+        },
+        {
+          "@id": "kt:fernand-gobet"
+        },
+        {
+          "@id": "kt:grandmaster-title"
+        }
+      ]
+    },
+    {
       "@id": "kt:template-theory",
       "@type": "kto:CognitiveConcept",
       "skos:prefLabel": "Template theory",

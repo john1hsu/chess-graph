@@ -3481,6 +3481,30 @@
     ]
   },
   {
+    "id": "kt:starting-age",
+    "title": "Starting age",
+    "aliases": [
+      "Age of starting chess",
+      "Age of onset in chess",
+      "Critical period in chess",
+      "Sensitive period for chess skill",
+      "Early start in chess"
+    ],
+    "type": "CognitiveConcept",
+    "domain": "training-and-improvement",
+    "file": "articles/training-and-improvement/starting-age.md",
+    "created": "2026-11-14",
+    "verified": "2026-11-14",
+    "volatile": false,
+    "status": "contested",
+    "source_urls": [
+      "https://core.ac.uk/download/333345.pdf",
+      "https://englelab.gatech.edu/articles/2019/Burgoyne_et_al_2019_AJP.pdf",
+      "https://link.springer.com/content/pdf/10.3758/MC.37.2.194.pdf",
+      "https://vivo.weill.cornell.edu/display/pubid17563184"
+    ]
+  },
+  {
     "id": "kt:stockfish",
     "title": "Stockfish",
     "aliases": [

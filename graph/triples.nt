@@ -7849,6 +7849,26 @@
 <https://github.com/john1hsu/chess-graph/id/source/stalemate/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/stalemate/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/stalemate/s5> <https://schema.org/url> "https://en.chessbase.com/post/who-needs-stalemate-let-s-abolish-it-" .
+<https://github.com/john1hsu/chess-graph/id/source/starting-age/s1> <http://purl.org/dc/terms/publisher> "Fernand Gobet and Guillermo Campitelli, via CORE" .
+<https://github.com/john1hsu/chess-graph/id/source/starting-age/s1> <http://purl.org/dc/terms/title> "The Role of Domain-Specific Practice, Handedness and Starting Age in Chess (Developmental Psychology 43, 159-172)" .
+<https://github.com/john1hsu/chess-graph/id/source/starting-age/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/starting-age/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/starting-age/s1> <https://schema.org/url> "https://core.ac.uk/download/333345.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/starting-age/s2> <http://purl.org/dc/terms/publisher> "Burgoyne, Nye, Macnamara, Charness and Hambrick, via Georgia Tech Attention and Working Memory Lab" .
+<https://github.com/john1hsu/chess-graph/id/source/starting-age/s2> <http://purl.org/dc/terms/title> "The Impact of Domain-Specific Experience on Chess Skill: Reanalysis of a Key Study (American Journal of Psychology 132(1), 27-38)" .
+<https://github.com/john1hsu/chess-graph/id/source/starting-age/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/starting-age/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/starting-age/s2> <https://schema.org/url> "https://englelab.gatech.edu/articles/2019/Burgoyne_et_al_2019_AJP.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/starting-age/s3> <http://purl.org/dc/terms/publisher> "Robert W. Howard, Springer / Psychonomic Society" .
+<https://github.com/john1hsu/chess-graph/id/source/starting-age/s3> <http://purl.org/dc/terms/title> "Individual differences in expertise development over decades in a complex intellectual domain (Memory & Cognition 37(2), 194-209)" .
+<https://github.com/john1hsu/chess-graph/id/source/starting-age/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/starting-age/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/starting-age/s3> <https://schema.org/url> "https://link.springer.com/content/pdf/10.3758/MC.37.2.194.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/starting-age/s4> <http://purl.org/dc/terms/publisher> "Roy W. Roring and Neil Charness, via Weill Cornell Medicine VIVO" .
+<https://github.com/john1hsu/chess-graph/id/source/starting-age/s4> <http://purl.org/dc/terms/title> "A multilevel model analysis of expertise in chess across the life span (Psychology and Aging 22(2))" .
+<https://github.com/john1hsu/chess-graph/id/source/starting-age/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/starting-age/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/starting-age/s4> <https://schema.org/url> "https://vivo.weill.cornell.edu/display/pubid17563184" .
 <https://github.com/john1hsu/chess-graph/id/source/stockfish/s1> <http://purl.org/dc/terms/publisher> "The Stockfish developers (stockfishchess.org)" .
 <https://github.com/john1hsu/chess-graph/id/source/stockfish/s1> <http://purl.org/dc/terms/title> "About Stockfish" .
 <https://github.com/john1hsu/chess-graph/id/source/stockfish/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -8394,6 +8414,29 @@
 <https://github.com/john1hsu/chess-graph/id/stalemate> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
 <https://github.com/john1hsu/chess-graph/id/stalemate> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/stalemate> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/starting-age> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/starting-age> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#CognitiveConcept> .
+<https://github.com/john1hsu/chess-graph/id/starting-age> <http://www.w3.org/2000/01/rdf-schema#label> "Starting age" .
+<https://github.com/john1hsu/chess-graph/id/starting-age> <http://www.w3.org/2004/02/skos/core#altLabel> "Age of onset in chess" .
+<https://github.com/john1hsu/chess-graph/id/starting-age> <http://www.w3.org/2004/02/skos/core#altLabel> "Age of starting chess" .
+<https://github.com/john1hsu/chess-graph/id/starting-age> <http://www.w3.org/2004/02/skos/core#altLabel> "Critical period in chess" .
+<https://github.com/john1hsu/chess-graph/id/starting-age> <http://www.w3.org/2004/02/skos/core#altLabel> "Early start in chess" .
+<https://github.com/john1hsu/chess-graph/id/starting-age> <http://www.w3.org/2004/02/skos/core#altLabel> "Sensitive period for chess skill" .
+<https://github.com/john1hsu/chess-graph/id/starting-age> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-expertise> .
+<https://github.com/john1hsu/chess-graph/id/starting-age> <http://www.w3.org/2004/02/skos/core#definition> "The age at which a player first learns chess, begins serious study or joins a club, studied as a predictor of eventual playing strength; earlier starters reach higher ratings even when total practice is held constant, which some researchers read as evidence of a sensitive period." .
+<https://github.com/john1hsu/chess-graph/id/starting-age> <http://www.w3.org/2004/02/skos/core#prefLabel> "Starting age" .
+<https://github.com/john1hsu/chess-graph/id/starting-age> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chunking-theory> .
+<https://github.com/john1hsu/chess-graph/id/starting-age> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/deliberate-practice> .
+<https://github.com/john1hsu/chess-graph/id/starting-age> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fernand-gobet> .
+<https://github.com/john1hsu/chess-graph/id/starting-age> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/grandmaster-title> .
+<https://github.com/john1hsu/chess-graph/id/starting-age> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/talent> .
+<https://github.com/john1hsu/chess-graph/id/starting-age> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/starting-age/s1> .
+<https://github.com/john1hsu/chess-graph/id/starting-age> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/starting-age/s2> .
+<https://github.com/john1hsu/chess-graph/id/starting-age> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/starting-age/s3> .
+<https://github.com/john1hsu/chess-graph/id/starting-age> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/starting-age/s4> .
+<https://github.com/john1hsu/chess-graph/id/starting-age> <https://github.com/john1hsu/chess-graph/ontology#domain> "training-and-improvement" .
+<https://github.com/john1hsu/chess-graph/id/starting-age> <https://github.com/john1hsu/chess-graph/ontology#status> "contested" .
+<https://github.com/john1hsu/chess-graph/id/starting-age> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-14" .
 <https://github.com/john1hsu/chess-graph/id/stockfish> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/stockfish> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Engine> .
 <https://github.com/john1hsu/chess-graph/id/stockfish> <http://www.w3.org/2000/01/rdf-schema#label> "Stockfish" .
