@@ -2786,6 +2786,31 @@
     ]
   },
   {
+    "id": "kt:opening-book",
+    "title": "Opening book",
+    "aliases": [
+      "Opening books",
+      "Engine opening book",
+      "Book (computer chess)",
+      "Opening library"
+    ],
+    "type": "Concept",
+    "domain": "computer-chess",
+    "file": "articles/computer-chess/opening-book.md",
+    "created": "2026-11-14",
+    "verified": "2026-11-14",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.chessprogramming.org/Opening_Book",
+      "https://www.cefns.nau.edu/~edo/Classes/CS470-570_WWW/Readings/Campbell2002.pdf",
+      "https://content.iospress.com/articles/icga-journal/icg22102",
+      "https://www.chessprogramming.org/Book_Learning",
+      "https://tcec-chess.com/articles/TCEC_Openings_FAQ.html",
+      "https://github.com/official-stockfish/Stockfish"
+    ]
+  },
+  {
     "id": "kt:opposite-coloured-bishops",
     "title": "Opposite-coloured bishops",
     "aliases": [

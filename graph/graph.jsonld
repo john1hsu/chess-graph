@@ -1107,6 +1107,94 @@
       ]
     },
     {
+      "@id": "kt:opening-book",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Opening book",
+      "skos:definition": "A database of opening positions and moves that a chess program consults before it starts searching, so it can reply instantly with prepared moves until the game leaves known theory (\"out of book\").",
+      "kto:domain": "computer-chess",
+      "dcterms:created": "2026-11-14",
+      "kto:verified": "2026-11-14",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Opening Book",
+          "dcterms:publisher": "Chess Programming Wiki",
+          "schema:url": "https://www.chessprogramming.org/Opening_Book",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "Deep Blue (M. Campbell, A. J. Hoane Jr., F.-h. Hsu)",
+          "dcterms:publisher": "IBM T. J. Watson Research Center authors; course reading hosted by Northern Arizona University",
+          "schema:url": "https://www.cefns.nau.edu/~edo/Classes/CS470-570_WWW/Readings/Campbell2002.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Book Learning - a Methodology to Tune an Opening Book Automatically (ICGA Journal 22(1), 1999, pp. 3-12)",
+          "dcterms:publisher": "Robert M. Hyatt, University of Alabama at Birmingham; IOS Press",
+          "schema:url": "https://content.iospress.com/articles/icga-journal/icg22102",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Book Learning",
+          "dcterms:publisher": "Chess Programming Wiki",
+          "schema:url": "https://www.chessprogramming.org/Book_Learning",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "TCEC Openings FAQ",
+          "dcterms:publisher": "Top Chess Engine Championship",
+          "schema:url": "https://tcec-chess.com/articles/TCEC_Openings_FAQ.html",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "Stockfish (README)",
+          "dcterms:publisher": "Stockfish developers, GitHub",
+          "schema:url": "https://github.com/official-stockfish/Stockfish",
+          "kto:sourceType": "official-project"
+        }
+      ],
+      "kto:file": "articles/computer-chess/opening-book.md",
+      "skos:altLabel": [
+        "Opening books",
+        "Engine opening book",
+        "Book (computer chess)",
+        "Opening library"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:computer-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:chess-openings"
+        },
+        {
+          "@id": "kt:transposition-table"
+        },
+        {
+          "@id": "kt:universal-chess-interface"
+        },
+        {
+          "@id": "kt:top-chess-engine-championship"
+        },
+        {
+          "@id": "kt:deep-blue-versus-kasparov"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:game-tree-search"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:endgame-tablebases"
+        }
+      ]
+    },
+    {
       "@id": "kt:quiescence-search",
       "@type": "kto:Algorithm",
       "skos:prefLabel": "Quiescence search",
