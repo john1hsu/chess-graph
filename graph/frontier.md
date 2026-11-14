@@ -4,11 +4,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:alexander-alekhine`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:boris-spassky`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:mikhail-botvinnik`, `kt:tigran-petrosian`, `kt:wilhelm-steinitz` |
+| `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:alexander-alekhine`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:boris-spassky`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:magnus-carlsen`, `kt:mikhail-botvinnik`, `kt:tigran-petrosian`, `kt:wilhelm-steinitz` |
 | `kt:chess-openings` | `kt:opening-book`, `kt:closed-games`, `kt:open-games`, `kt:semi-open-games` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:herbert-simon` |
 | `kt:kings-gambit` | `kt:immortal-game`, `kt:evans-gambit`, `kt:open-games`, `kt:boris-spassky` |
-| `kt:magnus-carlsen` | `kt:fide-world-cup`, `kt:fide-world-cup`, `kt:gukesh-dommaraju`, `kt:talent` |
 | `kt:dragon-variation` | `kt:backward-pawn`, `kt:najdorf-variation`, `kt:sicilian-defence` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search`, `kt:progressive-deepening` |
 | `kt:javokhir-sindarov` | `kt:candidates-tournament`, `kt:fide-world-cup`, `kt:gukesh-dommaraju` |
@@ -26,7 +25,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alekhines-gun` | `kt:open-file`, `kt:alexander-alekhine` |
 | `kt:alexander-kotov` | `kt:calculation`, `kt:candidate-moves` |
 | `kt:berlin-defence` | `kt:alphazero`, `kt:ruy-lopez` |
+| `kt:blitz-chess` | `kt:magnus-carlsen`, `kt:bughouse` |
 | `kt:botvinnik-versus-capablanca-avro-1938` | `kt:soviet-chess-school`, `kt:mikhail-botvinnik` |
+| `kt:carlsen-versus-anand-sochi-2014-game-6` | `kt:magnus-carlsen`, `kt:zwischenzug` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
 | `kt:european-chess-union` | `kt:chess-organizations`, `kt:fide` |
 | `kt:extended-position-description` | `kt:forsyth-edwards-notation`, `kt:portable-game-notation` |
@@ -51,6 +52,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
 | `kt:steven-j-edwards` | `kt:forsyth-edwards-notation`, `kt:portable-game-notation` |
 | `kt:tie-break` | `kt:chess-tournament`, `kt:us-chess-championship` |
+| `kt:viswanathan-anand` | `kt:gukesh-dommaraju`, `kt:magnus-carlsen` |
 | `kt:abraham-luchins` | `kt:einstellung-effect` |
 | `kt:abstract-strategy-game` | `kt:chess` |
 | `kt:albin-countergambit` | `kt:queens-gambit` |
@@ -63,12 +65,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:as-suli` | `kt:shatranj` |
 | `kt:baden-baden-1870` | `kt:adolf-anderssen` |
 | `kt:battery` | `kt:selfmate` |
-| `kt:blitz-chess` | `kt:bughouse` |
 | `kt:board-representation` | `kt:bitboards` |
 | `kt:breakthrough` | `kt:passed-pawn` |
 | `kt:carlsbad-1923` | `kt:carlsbad-structure` |
 | `kt:carlsbad-1929` | `kt:aron-nimzowitsch` |
-| `kt:carlsen-versus-anand-sochi-2014-game-6` | `kt:zwischenzug` |
 | `kt:catalan-opening` | `kt:closed-games` |
 | `kt:chess-engine-communication-protocol` | `kt:universal-chess-interface` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
@@ -215,7 +215,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:vancura-position` | `kt:rook-endgames` |
 | `kt:vera-menchik` | `kt:womens-world-chess-championship` |
 | `kt:viktor-korchnoi` | `kt:anatoly-karpov` |
-| `kt:viswanathan-anand` | `kt:gukesh-dommaraju` |
 | `kt:william-chase` | `kt:chunking-theory` |
 | `kt:william-davies-evans` | `kt:evans-gambit` |
 | `kt:winawer-variation` | `kt:french-defence` |

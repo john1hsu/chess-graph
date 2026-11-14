@@ -2630,6 +2630,32 @@
     ]
   },
   {
+    "id": "kt:magnus-carlsen",
+    "title": "Magnus Carlsen",
+    "aliases": [
+      "Sven Magnus Øen Carlsen",
+      "Carlsen",
+      "Magnus Carlsen (chess player)"
+    ],
+    "type": "Player",
+    "domain": "players",
+    "file": "articles/players/magnus-carlsen.md",
+    "created": "2026-11-14",
+    "verified": "2026-11-14",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://www.britannica.com/biography/Magnus-Carlsen",
+      "https://museum.fide.com/champions/magnus-carlsen",
+      "https://chennai2013.fide.com/carlsens-rise-to-the-top",
+      "https://www.fide.com/carlsen-and-goryachkina-take-world-rapid-titles-in-doha/",
+      "https://www.fide.com/?p=42521",
+      "https://chess.com/news/view/november-2026-fide-rating-list",
+      "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-4",
+      "https://en.chessbase.com/post/sochi-g6-carlsen-won-anand-missed-big-chance"
+    ]
+  },
+  {
     "id": "kt:material-advantage",
     "title": "Material advantage",
     "aliases": [

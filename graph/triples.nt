@@ -2949,6 +2949,37 @@
 <https://github.com/john1hsu/chess-graph/id/lucena-position> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/lucena-position> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> .
 <https://github.com/john1hsu/chess-graph/id/lucena-position> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-07" .
+<https://github.com/john1hsu/chess-graph/id/magnus-carlsen> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/magnus-carlsen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
+<https://github.com/john1hsu/chess-graph/id/magnus-carlsen> <http://www.w3.org/2000/01/rdf-schema#label> "Magnus Carlsen" .
+<https://github.com/john1hsu/chess-graph/id/magnus-carlsen> <http://www.w3.org/2004/02/skos/core#altLabel> "Carlsen" .
+<https://github.com/john1hsu/chess-graph/id/magnus-carlsen> <http://www.w3.org/2004/02/skos/core#altLabel> "Magnus Carlsen (chess player)" .
+<https://github.com/john1hsu/chess-graph/id/magnus-carlsen> <http://www.w3.org/2004/02/skos/core#altLabel> "Sven Magnus Øen Carlsen" .
+<https://github.com/john1hsu/chess-graph/id/magnus-carlsen> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/magnus-carlsen> <http://www.w3.org/2004/02/skos/core#definition> "Norwegian grandmaster (born 1990) who won the world chess championship in 2013 and four title matches after it before declining to defend, holds the highest rating in history (2882) and multiple world rapid and blitz titles, and as of November 2026 is still the world's top-rated player." .
+<https://github.com/john1hsu/chess-graph/id/magnus-carlsen> <http://www.w3.org/2004/02/skos/core#prefLabel> "Magnus Carlsen" .
+<https://github.com/john1hsu/chess-graph/id/magnus-carlsen> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/blitz-chess> .
+<https://github.com/john1hsu/chess-graph/id/magnus-carlsen> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/elo-rating-system> .
+<https://github.com/john1hsu/chess-graph/id/magnus-carlsen> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fide-world-cup> .
+<https://github.com/john1hsu/chess-graph/id/magnus-carlsen> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/garry-kasparov> .
+<https://github.com/john1hsu/chess-graph/id/magnus-carlsen> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> .
+<https://github.com/john1hsu/chess-graph/id/magnus-carlsen> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/viswanathan-anand> .
+<https://github.com/john1hsu/chess-graph/id/magnus-carlsen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s1> .
+<https://github.com/john1hsu/chess-graph/id/magnus-carlsen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s2> .
+<https://github.com/john1hsu/chess-graph/id/magnus-carlsen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s3> .
+<https://github.com/john1hsu/chess-graph/id/magnus-carlsen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s4> .
+<https://github.com/john1hsu/chess-graph/id/magnus-carlsen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s5> .
+<https://github.com/john1hsu/chess-graph/id/magnus-carlsen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s6> .
+<https://github.com/john1hsu/chess-graph/id/magnus-carlsen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s7> .
+<https://github.com/john1hsu/chess-graph/id/magnus-carlsen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s8> .
+<https://github.com/john1hsu/chess-graph/id/magnus-carlsen> <https://github.com/john1hsu/chess-graph/ontology#domain> "players" .
+<https://github.com/john1hsu/chess-graph/id/magnus-carlsen> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/carlsen-versus-anand-sochi-2014-game-6> .
+<https://github.com/john1hsu/chess-graph/id/magnus-carlsen> <https://github.com/john1hsu/chess-graph/ontology#holdsTitle> <https://github.com/john1hsu/chess-graph/id/grandmaster-title> .
+<https://github.com/john1hsu/chess-graph/id/magnus-carlsen> <https://github.com/john1hsu/chess-graph/ontology#holdsTitle> <https://github.com/john1hsu/chess-graph/id/world-chess-champion> .
+<https://github.com/john1hsu/chess-graph/id/magnus-carlsen> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/candidates-tournament> .
+<https://github.com/john1hsu/chess-graph/id/magnus-carlsen> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/fide-world-cup> .
+<https://github.com/john1hsu/chess-graph/id/magnus-carlsen> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/magnus-carlsen> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-14" .
 <https://github.com/john1hsu/chess-graph/id/material-advantage> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/material-advantage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
 <https://github.com/john1hsu/chess-graph/id/material-advantage> <http://www.w3.org/2000/01/rdf-schema#label> "Material advantage" .
@@ -7213,6 +7244,46 @@
 <https://github.com/john1hsu/chess-graph/id/source/lucena-position/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/lucena-position/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/lucena-position/s6> <https://schema.org/url> "https://www.charlottechesscenter.org/post/simple-rook-and-pawn-vs-rook-part-1-cases-where-the-pawn-wins" .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s1> <http://purl.org/dc/terms/title> "Magnus Carlsen" .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s1> <https://schema.org/url> "https://www.britannica.com/biography/Magnus-Carlsen" .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s2> <http://purl.org/dc/terms/publisher> "FIDE Open Chess Museum" .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s2> <http://purl.org/dc/terms/title> "Magnus Carlsen (World Champions gallery)" .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s2> <https://schema.org/url> "https://museum.fide.com/champions/magnus-carlsen" .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s3> <http://purl.org/dc/terms/publisher> "FIDE" .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s3> <http://purl.org/dc/terms/title> "Carlsen's rise to the top (FIDE World Championship Match Chennai 2013)" .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s3> <https://schema.org/url> "https://chennai2013.fide.com/carlsens-rise-to-the-top" .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s4> <http://purl.org/dc/terms/publisher> "FIDE" .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s4> <http://purl.org/dc/terms/title> "Carlsen and Goryachkina take World Rapid titles in Doha" .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s4> <https://schema.org/url> "https://www.fide.com/carlsen-and-goryachkina-take-world-rapid-titles-in-doha/" .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s5> <http://purl.org/dc/terms/publisher> "FIDE" .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s5> <http://purl.org/dc/terms/title> "Magnus Carlsen and Bibisara Assaubayeva win World Blitz crowns" .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s5> <https://schema.org/url> "https://www.fide.com/?p=42521" .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s6> <http://purl.org/dc/terms/publisher> "Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s6> <http://purl.org/dc/terms/title> "November FIDE Rating List: Nihal Enters Top 20, Sindarov Leads Gukesh By 72 Points (Colin McGourty)" .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s6> <https://schema.org/url> "https://chess.com/news/view/november-2026-fide-rating-list" .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s7> <http://purl.org/dc/terms/publisher> "Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s7> <http://purl.org/dc/terms/title> "Total Chess: Caruana Hits 2800, Within 7.2 Points Of Carlsen's World No. 1 Spot" .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s7> <https://schema.org/url> "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-4" .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s8> <http://purl.org/dc/terms/publisher> "ChessBase" .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s8> <http://purl.org/dc/terms/title> "Sochi G6: Carlsen won, Anand missed big chance (Johannes Fischer)" .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s8> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s8> <https://schema.org/url> "https://en.chessbase.com/post/sochi-g6-carlsen-won-anand-missed-big-chance" .
 <https://github.com/john1hsu/chess-graph/id/source/material-advantage/s1> <http://purl.org/dc/terms/publisher> "Nenad Tomašev, Ulrich Paquet, Demis Hassabis and Vladimir Kramnik, arXiv:2009.04374 (2020)" .
 <https://github.com/john1hsu/chess-graph/id/source/material-advantage/s1> <http://purl.org/dc/terms/title> "Assessing Game Balance with AlphaZero: Exploring Alternative Rule Sets in Chess" .
 <https://github.com/john1hsu/chess-graph/id/source/material-advantage/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

@@ -10191,6 +10191,119 @@
       ]
     },
     {
+      "@id": "kt:magnus-carlsen",
+      "@type": "kto:Player",
+      "skos:prefLabel": "Magnus Carlsen",
+      "skos:definition": "Norwegian grandmaster (born 1990) who won the world chess championship in 2013 and four title matches after it before declining to defend, holds the highest rating in history (2882) and multiple world rapid and blitz titles, and as of November 2026 is still the world's top-rated player.",
+      "kto:domain": "players",
+      "dcterms:created": "2026-11-14",
+      "kto:verified": "2026-11-14",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Magnus Carlsen",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/biography/Magnus-Carlsen",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Magnus Carlsen (World Champions gallery)",
+          "dcterms:publisher": "FIDE Open Chess Museum",
+          "schema:url": "https://museum.fide.com/champions/magnus-carlsen",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Carlsen's rise to the top (FIDE World Championship Match Chennai 2013)",
+          "dcterms:publisher": "FIDE",
+          "schema:url": "https://chennai2013.fide.com/carlsens-rise-to-the-top",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Carlsen and Goryachkina take World Rapid titles in Doha",
+          "dcterms:publisher": "FIDE",
+          "schema:url": "https://www.fide.com/carlsen-and-goryachkina-take-world-rapid-titles-in-doha/",
+          "kto:sourceType": "primary-record"
+        },
+        {
+          "dcterms:title": "Magnus Carlsen and Bibisara Assaubayeva win World Blitz crowns",
+          "dcterms:publisher": "FIDE",
+          "schema:url": "https://www.fide.com/?p=42521",
+          "kto:sourceType": "primary-record"
+        },
+        {
+          "dcterms:title": "November FIDE Rating List: Nihal Enters Top 20, Sindarov Leads Gukesh By 72 Points (Colin McGourty)",
+          "dcterms:publisher": "Chess.com",
+          "schema:url": "https://chess.com/news/view/november-2026-fide-rating-list",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Total Chess: Caruana Hits 2800, Within 7.2 Points Of Carlsen's World No. 1 Spot",
+          "dcterms:publisher": "Chess.com",
+          "schema:url": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-4",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Sochi G6: Carlsen won, Anand missed big chance (Johannes Fischer)",
+          "dcterms:publisher": "ChessBase",
+          "schema:url": "https://en.chessbase.com/post/sochi-g6-carlsen-won-anand-missed-big-chance",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/players/magnus-carlsen.md",
+      "skos:altLabel": [
+        "Sven Magnus Øen Carlsen",
+        "Carlsen",
+        "Magnus Carlsen (chess player)"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:world-chess-championship"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:garry-kasparov"
+        },
+        {
+          "@id": "kt:viswanathan-anand"
+        },
+        {
+          "@id": "kt:gukesh-dommaraju"
+        },
+        {
+          "@id": "kt:fide-world-cup"
+        },
+        {
+          "@id": "kt:elo-rating-system"
+        },
+        {
+          "@id": "kt:blitz-chess"
+        }
+      ],
+      "kto:holdsTitle": [
+        {
+          "@id": "kt:world-chess-champion"
+        },
+        {
+          "@id": "kt:grandmaster-title"
+        }
+      ],
+      "kto:playedIn": [
+        {
+          "@id": "kt:candidates-tournament"
+        },
+        {
+          "@id": "kt:fide-world-cup"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:carlsen-versus-anand-sochi-2014-game-6"
+        }
+      ]
+    },
+    {
       "@id": "kt:mikhail-botvinnik",
       "@type": "kto:Player",
       "skos:prefLabel": "Mikhail Botvinnik",
