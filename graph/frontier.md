@@ -55,7 +55,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:tie-break` | `kt:chess-tournament`, `kt:us-chess-championship` |
 | `kt:top-chess-engine-championship` | `kt:leela-chess-zero`, `kt:stockfish` |
 | `kt:transposition-table` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
-| `kt:world-chess-championship-1927` | `kt:alexander-alekhine`, `kt:jose-raul-capablanca` |
 | `kt:abraham-luchins` | `kt:einstellung-effect` |
 | `kt:abstract-strategy-game` | `kt:chess` |
 | `kt:adams-versus-torre-new-orleans-1920` | `kt:back-rank-mate` |
@@ -78,6 +77,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chess-engine-communication-protocol` | `kt:universal-chess-interface` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
 | `kt:chrest` | `kt:template-theory` |
+| `kt:club-argentino-de-ajedrez` | `kt:world-chess-championship-1927` |
 | `kt:cognitive-science` | `kt:cognitive-psychology-of-chess` |
 | `kt:colle-versus-ohanlon-nice-1930` | `kt:greek-gift-sacrifice` |
 | `kt:counting-in-pawn-races` | `kt:rule-of-the-square` |
@@ -137,6 +137,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:leonardo-torres-y-quevedo` | `kt:claude-shannon` |
 | `kt:levon-aronian` | `kt:fide-world-cup` |
 | `kt:london-1883` | `kt:world-chess-championship-1886` |
+| `kt:london-rules` | `kt:world-chess-championship-1927` |
 | `kt:london-system` | `kt:carlsbad-structure` |
 | `kt:long-term-working-memory` | `kt:template-theory` |
 | `kt:mailbox-board-representation` | `kt:bitboards` |

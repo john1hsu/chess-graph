@@ -8464,6 +8464,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s6> <https://schema.org/url> "https://chesscentral.com/steinitz-zukertort-1886" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s1> <http://purl.org/dc/terms/publisher> "OlimpBase (Wojciech Bartelski)" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s1> <http://purl.org/dc/terms/title> "World Chess Championship :: Buenos Aires 1927" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s1> <https://schema.org/url> "https://www.olimpbase.org/ind-wcc/wc1927-wch.html" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s2> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s2> <http://purl.org/dc/terms/title> "Capablanca v Alekhine, 1927" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s2> <https://schema.org/url> "https://chesshistory.com/winter/extra/capablancaalekhine1927.html" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s3> <http://purl.org/dc/terms/publisher> "FIDE Open Chess Museum" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s3> <http://purl.org/dc/terms/title> "Scoresheet of Game 7 of 1927 World Championship Match Capablanca - Alekhine, Capablanca's handwriting" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s3> <https://schema.org/url> "https://museum.fide.com/exhibits/scoresheet-of-game-7-of-1927-world-championship-match-capablanca-alekhine-capablancas-handwriting" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s4> <http://purl.org/dc/terms/publisher> "National Library of New Zealand, Papers Past" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s4> <http://purl.org/dc/terms/title> "Alekhine's Victory (Hawke's Bay Tribune, 6 December 1927, p. 7)" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s4> <https://schema.org/url> "https://dynamic-rsnz.natlib.govt.nz/newspapers/HBTRIB19271206.2.63" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s5> <http://purl.org/dc/terms/publisher> "chessgames.com" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s5> <http://purl.org/dc/terms/title> "Capablanca - Alekhine World Championship Match (1927)" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s5> <https://schema.org/url> "https://www.chessgames.com/perl/chess.pl?tid=54140" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s6> <http://purl.org/dc/terms/publisher> "chessgames.com" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s6> <http://purl.org/dc/terms/title> "Jose Raul Capablanca vs Alexander Alekhine (1927) First Blood" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s6> <https://schema.org/url> "https://www.chessgames.com/perl/chessgame?gid=1012486&sa=X&ved=0CBcQ9QEwADhQahUKEwjmheH7tPXGAhXItBQKHaI-AU4&kpage=3" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s7> <http://purl.org/dc/terms/publisher> "Mechanics' Institute Chess Room" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s7> <http://purl.org/dc/terms/title> "Chess Room Newsletter #966 (finishing tactics from Capablanca–Alekhine 1927, by FM Paul Whitehead)" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s7> <https://schema.org/url> "https://milibrary.org/node/312887" .
 <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s1> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
 <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s1> <http://purl.org/dc/terms/title> "World Chess Championship Timeline (exhibition panel, PDF)" .
 <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -9053,6 +9088,36 @@
 <https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-13" .
 <https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1927> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1927> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Event> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1927> <http://www.w3.org/2000/01/rdf-schema#label> "World Chess Championship 1927" .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1927> <http://www.w3.org/2004/02/skos/core#altLabel> "Alekhine vs Capablanca 1927" .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1927> <http://www.w3.org/2004/02/skos/core#altLabel> "Alekhine–Capablanca 1927" .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1927> <http://www.w3.org/2004/02/skos/core#altLabel> "Buenos Aires 1927 world championship match" .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1927> <http://www.w3.org/2004/02/skos/core#altLabel> "Capablanca versus Alekhine 1927" .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1927> <http://www.w3.org/2004/02/skos/core#altLabel> "Capablanca–Alekhine 1927" .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1927> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1927> <http://www.w3.org/2004/02/skos/core#definition> "The 1927 match in Buenos Aires, played to six wins under the London Rules, in which Alexander Alekhine took the world title from José Raúl Capablanca with six wins, three losses and 25 draws over 34 games." .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1927> <http://www.w3.org/2004/02/skos/core#prefLabel> "World Chess Championship 1927" .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1927> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/french-defence> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1927> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/london-rules> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1927> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/queens-gambit-declined> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1927> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1927> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s1> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1927> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s2> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1927> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s3> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1927> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s4> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1927> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s5> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1927> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s6> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1927> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1927/s7> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1927> <https://github.com/john1hsu/chess-graph/ontology#domain> "history" .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1927> <https://github.com/john1hsu/chess-graph/ontology#organizedBy> <https://github.com/john1hsu/chess-graph/id/club-argentino-de-ajedrez> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1927> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1927> <https://github.com/john1hsu/chess-graph/ontology#playedBy> <https://github.com/john1hsu/chess-graph/id/alexander-alekhine> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1927> <https://github.com/john1hsu/chess-graph/ontology#playedBy> <https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1927> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1927> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/world-chess-championship-1927> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/alexander-alekhine> .
 <https://github.com/john1hsu/chess-graph/id/world-chess-championship> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/world-chess-championship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Event> .
 <https://github.com/john1hsu/chess-graph/id/world-chess-championship> <http://www.w3.org/2000/01/rdf-schema#label> "World Chess Championship" .

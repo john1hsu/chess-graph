@@ -3973,6 +3973,33 @@
     ]
   },
   {
+    "id": "kt:world-chess-championship-1927",
+    "title": "World Chess Championship 1927",
+    "aliases": [
+      "Capablanca–Alekhine 1927",
+      "Alekhine–Capablanca 1927",
+      "Capablanca versus Alekhine 1927",
+      "Alekhine vs Capablanca 1927",
+      "Buenos Aires 1927 world championship match"
+    ],
+    "type": "Event",
+    "domain": "history",
+    "file": "articles/history/world-chess-championship-1927.md",
+    "created": "2026-11-14",
+    "verified": "2026-11-14",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://www.olimpbase.org/ind-wcc/wc1927-wch.html",
+      "https://chesshistory.com/winter/extra/capablancaalekhine1927.html",
+      "https://museum.fide.com/exhibits/scoresheet-of-game-7-of-1927-world-championship-match-capablanca-alekhine-capablancas-handwriting",
+      "https://dynamic-rsnz.natlib.govt.nz/newspapers/HBTRIB19271206.2.63",
+      "https://www.chessgames.com/perl/chess.pl?tid=54140",
+      "https://www.chessgames.com/perl/chessgame?gid=1012486&sa=X&ved=0CBcQ9QEwADhQahUKEwjmheH7tPXGAhXItBQKHaI-AU4&kpage=3",
+      "https://milibrary.org/node/312887"
+    ]
+  },
+  {
     "id": "kt:world-federation-for-chess-composition",
     "title": "World Federation for Chess Composition",
     "aliases": [

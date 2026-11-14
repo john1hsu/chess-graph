@@ -5393,6 +5393,111 @@
       ]
     },
     {
+      "@id": "kt:world-chess-championship-1927",
+      "@type": "kto:Event",
+      "skos:prefLabel": "World Chess Championship 1927",
+      "skos:definition": "The 1927 match in Buenos Aires, played to six wins under the London Rules, in which Alexander Alekhine took the world title from José Raúl Capablanca with six wins, three losses and 25 draws over 34 games.",
+      "kto:domain": "history",
+      "dcterms:created": "2026-11-14",
+      "kto:verified": "2026-11-14",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "World Chess Championship :: Buenos Aires 1927",
+          "dcterms:publisher": "OlimpBase (Wojciech Bartelski)",
+          "schema:url": "https://www.olimpbase.org/ind-wcc/wc1927-wch.html",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "Capablanca v Alekhine, 1927",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://chesshistory.com/winter/extra/capablancaalekhine1927.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Scoresheet of Game 7 of 1927 World Championship Match Capablanca - Alekhine, Capablanca's handwriting",
+          "dcterms:publisher": "FIDE Open Chess Museum",
+          "schema:url": "https://museum.fide.com/exhibits/scoresheet-of-game-7-of-1927-world-championship-match-capablanca-alekhine-capablancas-handwriting",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Alekhine's Victory (Hawke's Bay Tribune, 6 December 1927, p. 7)",
+          "dcterms:publisher": "National Library of New Zealand, Papers Past",
+          "schema:url": "https://dynamic-rsnz.natlib.govt.nz/newspapers/HBTRIB19271206.2.63",
+          "kto:sourceType": "primary-record"
+        },
+        {
+          "dcterms:title": "Capablanca - Alekhine World Championship Match (1927)",
+          "dcterms:publisher": "chessgames.com",
+          "schema:url": "https://www.chessgames.com/perl/chess.pl?tid=54140",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "Jose Raul Capablanca vs Alexander Alekhine (1927) First Blood",
+          "dcterms:publisher": "chessgames.com",
+          "schema:url": "https://www.chessgames.com/perl/chessgame?gid=1012486&sa=X&ved=0CBcQ9QEwADhQahUKEwjmheH7tPXGAhXItBQKHaI-AU4&kpage=3",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "Chess Room Newsletter #966 (finishing tactics from Capablanca–Alekhine 1927, by FM Paul Whitehead)",
+          "dcterms:publisher": "Mechanics' Institute Chess Room",
+          "schema:url": "https://milibrary.org/node/312887",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/history/world-chess-championship-1927.md",
+      "skos:altLabel": [
+        "Capablanca–Alekhine 1927",
+        "Alekhine–Capablanca 1927",
+        "Capablanca versus Alekhine 1927",
+        "Alekhine vs Capablanca 1927",
+        "Buenos Aires 1927 world championship match"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:world-chess-championship"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:queens-gambit-declined"
+        },
+        {
+          "@id": "kt:french-defence"
+        },
+        {
+          "@id": "kt:london-rules"
+        },
+        {
+          "@id": "kt:world-chess-championship-1886"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:world-chess-championship"
+        }
+      ],
+      "kto:playedBy": [
+        {
+          "@id": "kt:alexander-alekhine"
+        },
+        {
+          "@id": "kt:jose-raul-capablanca"
+        }
+      ],
+      "kto:wonBy": [
+        {
+          "@id": "kt:alexander-alekhine"
+        }
+      ],
+      "kto:organizedBy": [
+        {
+          "@id": "kt:club-argentino-de-ajedrez"
+        }
+      ]
+    },
+    {
       "@id": "kt:world-chess-championship",
       "@type": "kto:Event",
       "skos:prefLabel": "World Chess Championship",
