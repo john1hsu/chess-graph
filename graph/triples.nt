@@ -3512,6 +3512,32 @@
 <https://github.com/john1hsu/chess-graph/id/ruy-lopez> <https://github.com/john1hsu/chess-graph/ontology#namedAfter> <https://github.com/john1hsu/chess-graph/id/ruy-lopez-de-segura> .
 <https://github.com/john1hsu/chess-graph/id/ruy-lopez> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/ruy-lopez> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/saavedra-position> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/saavedra-position> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Game> .
+<https://github.com/john1hsu/chess-graph/id/saavedra-position> <http://www.w3.org/2000/01/rdf-schema#label> "Saavedra position" .
+<https://github.com/john1hsu/chess-graph/id/saavedra-position> <http://www.w3.org/2004/02/skos/core#altLabel> "Barbier–Saavedra study" .
+<https://github.com/john1hsu/chess-graph/id/saavedra-position> <http://www.w3.org/2004/02/skos/core#altLabel> "Saavedra rook promotion" .
+<https://github.com/john1hsu/chess-graph/id/saavedra-position> <http://www.w3.org/2004/02/skos/core#altLabel> "Saavedra study" .
+<https://github.com/john1hsu/chess-graph/id/saavedra-position> <http://www.w3.org/2004/02/skos/core#altLabel> "Saavedra's study" .
+<https://github.com/john1hsu/chess-graph/id/saavedra-position> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/endgame-study> .
+<https://github.com/john1hsu/chess-graph/id/saavedra-position> <http://www.w3.org/2004/02/skos/core#definition> "The most famous endgame study, published in Glasgow in 1895: White (Kb6, Pc6) beats a lone rook (Black Ka1, Rd5) only by escaping the checks and then promoting to a rook instead of a queen, which avoids a stalemate trap. The win is credited to Fernando Saavedra, though its origin is disputed." .
+<https://github.com/john1hsu/chess-graph/id/saavedra-position> <http://www.w3.org/2004/02/skos/core#prefLabel> "Saavedra position" .
+<https://github.com/john1hsu/chess-graph/id/saavedra-position> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-composition> .
+<https://github.com/john1hsu/chess-graph/id/saavedra-position> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/pawn-promotion> .
+<https://github.com/john1hsu/chess-graph/id/saavedra-position> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/rook-endgames> .
+<https://github.com/john1hsu/chess-graph/id/saavedra-position> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/stalemate> .
+<https://github.com/john1hsu/chess-graph/id/saavedra-position> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/saavedra-position/s1> .
+<https://github.com/john1hsu/chess-graph/id/saavedra-position> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/saavedra-position/s2> .
+<https://github.com/john1hsu/chess-graph/id/saavedra-position> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/saavedra-position/s3> .
+<https://github.com/john1hsu/chess-graph/id/saavedra-position> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/saavedra-position/s4> .
+<https://github.com/john1hsu/chess-graph/id/saavedra-position> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/saavedra-position/s5> .
+<https://github.com/john1hsu/chess-graph/id/saavedra-position> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/georges-barbier> .
+<https://github.com/john1hsu/chess-graph/id/saavedra-position> <https://github.com/john1hsu/chess-graph/ontology#domain> "variants-and-compositions" .
+<https://github.com/john1hsu/chess-graph/id/saavedra-position> <https://github.com/john1hsu/chess-graph/ontology#fen> "8/8/1KP5/3r4/8/8/8/k7 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/saavedra-position> <https://github.com/john1hsu/chess-graph/ontology#namedAfter> <https://github.com/john1hsu/chess-graph/id/fernando-saavedra> .
+<https://github.com/john1hsu/chess-graph/id/saavedra-position> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/saavedra-position> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/underpromotion> .
+<https://github.com/john1hsu/chess-graph/id/saavedra-position> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-14" .
 <https://github.com/john1hsu/chess-graph/id/sacrifice> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/sacrifice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Technique> .
 <https://github.com/john1hsu/chess-graph/id/sacrifice> <http://www.w3.org/2000/01/rdf-schema#label> "Sacrifice" .
@@ -7382,6 +7408,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/ruy-lopez/s7> <https://schema.org/url> "https://kwabc.org/en/newsitem/ruy-lopez-de-segura-a-new-biography-sheds-fresh-light-on-a-major-figure-in-chess-history.html" .
+<https://github.com/john1hsu/chess-graph/id/source/saavedra-position/s1> <http://purl.org/dc/terms/publisher> "Tim Krabbé, Chess Curiosities" .
+<https://github.com/john1hsu/chess-graph/id/source/saavedra-position/s1> <http://purl.org/dc/terms/title> "The discovery of the Saavedra (with the 1895 Weekly Citizen columns)" .
+<https://github.com/john1hsu/chess-graph/id/source/saavedra-position/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/saavedra-position/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/saavedra-position/s1> <https://schema.org/url> "https://timkr.home.xs4all.nl/chess/saavedra.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/saavedra-position/s2> <http://purl.org/dc/terms/publisher> "Tim Krabbé, Chess Curiosities" .
+<https://github.com/john1hsu/chess-graph/id/source/saavedra-position/s2> <http://purl.org/dc/terms/title> "The Messenger – the Saavedra myth exposed" .
+<https://github.com/john1hsu/chess-graph/id/source/saavedra-position/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/saavedra-position/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/saavedra-position/s2> <https://schema.org/url> "https://timkr.home.xs4all.nl/chess2/prynd.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/saavedra-position/s3> <http://purl.org/dc/terms/publisher> "Chess Scotland, history biographies (Alan McGowan)" .
+<https://github.com/john1hsu/chess-graph/id/source/saavedra-position/s3> <http://purl.org/dc/terms/title> "Fernando Saavedra" .
+<https://github.com/john1hsu/chess-graph/id/source/saavedra-position/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/saavedra-position/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/saavedra-position/s3> <https://schema.org/url> "https://www.chessscotland.com/documents/history/biographies/saavedra.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/saavedra-position/s4> <http://purl.org/dc/terms/publisher> "Noam D. Elkies (Harvard), originally in Chess Horizons; ACJ Extra" .
+<https://github.com/john1hsu/chess-graph/id/source/saavedra-position/s4> <http://purl.org/dc/terms/title> "Endgame Explorations 6: Underpromotion (Part 1)" .
+<https://github.com/john1hsu/chess-graph/id/source/saavedra-position/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/saavedra-position/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/saavedra-position/s4> <https://schema.org/url> "https://chabris.com/pub/acj/extra/Elkies/Elkies06.html" .
+<https://github.com/john1hsu/chess-graph/id/source/saavedra-position/s5> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/saavedra-position/s5> <http://purl.org/dc/terms/title> "Chess: Chess composition" .
+<https://github.com/john1hsu/chess-graph/id/source/saavedra-position/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/saavedra-position/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/saavedra-position/s5> <https://schema.org/url> "https://www.britannica.com/topic/chess/Chess-composition" .
 <https://github.com/john1hsu/chess-graph/id/source/sacrifice/s1> <http://purl.org/dc/terms/publisher> "Rudolf Spielmann; Dover Publications (via Lehmanns)" .
 <https://github.com/john1hsu/chess-graph/id/source/sacrifice/s1> <http://purl.org/dc/terms/title> "The Art of Sacrifice in Chess (Dover Chess) — publisher's description" .
 <https://github.com/john1hsu/chess-graph/id/source/sacrifice/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

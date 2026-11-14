@@ -14169,6 +14169,91 @@
       ]
     },
     {
+      "@id": "kt:saavedra-position",
+      "@type": "kto:Game",
+      "skos:prefLabel": "Saavedra position",
+      "skos:definition": "The most famous endgame study, published in Glasgow in 1895: White (Kb6, Pc6) beats a lone rook (Black Ka1, Rd5) only by escaping the checks and then promoting to a rook instead of a queen, which avoids a stalemate trap. The win is credited to Fernando Saavedra, though its origin is disputed.",
+      "kto:domain": "variants-and-compositions",
+      "dcterms:created": "2026-11-14",
+      "kto:verified": "2026-11-14",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The discovery of the Saavedra (with the 1895 Weekly Citizen columns)",
+          "dcterms:publisher": "Tim Krabbé, Chess Curiosities",
+          "schema:url": "https://timkr.home.xs4all.nl/chess/saavedra.htm",
+          "kto:sourceType": "primary-record"
+        },
+        {
+          "dcterms:title": "The Messenger – the Saavedra myth exposed",
+          "dcterms:publisher": "Tim Krabbé, Chess Curiosities",
+          "schema:url": "https://timkr.home.xs4all.nl/chess2/prynd.htm",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Fernando Saavedra",
+          "dcterms:publisher": "Chess Scotland, history biographies (Alan McGowan)",
+          "schema:url": "https://www.chessscotland.com/documents/history/biographies/saavedra.htm",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Endgame Explorations 6: Underpromotion (Part 1)",
+          "dcterms:publisher": "Noam D. Elkies (Harvard), originally in Chess Horizons; ACJ Extra",
+          "schema:url": "https://chabris.com/pub/acj/extra/Elkies/Elkies06.html",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Chess: Chess composition",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/chess/Chess-composition",
+          "kto:sourceType": "reference"
+        }
+      ],
+      "kto:file": "articles/variants-and-compositions/saavedra-position.md",
+      "skos:altLabel": [
+        "Saavedra study",
+        "Saavedra's study",
+        "Barbier–Saavedra study",
+        "Saavedra rook promotion"
+      ],
+      "kto:fen": "8/8/1KP5/3r4/8/8/8/k7 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:endgame-study"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:pawn-promotion"
+        },
+        {
+          "@id": "kt:stalemate"
+        },
+        {
+          "@id": "kt:rook-endgames"
+        },
+        {
+          "@id": "kt:chess-composition"
+        }
+      ],
+      "kto:namedAfter": [
+        {
+          "@id": "kt:fernando-saavedra"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:underpromotion"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:georges-barbier"
+        }
+      ]
+    },
+    {
       "@id": "kt:selfmate",
       "@type": "kto:ProblemGenre",
       "skos:prefLabel": "Selfmate",

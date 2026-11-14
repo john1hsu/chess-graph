@@ -3138,6 +3138,30 @@
     ]
   },
   {
+    "id": "kt:saavedra-position",
+    "title": "Saavedra position",
+    "aliases": [
+      "Saavedra study",
+      "Saavedra's study",
+      "Barbier–Saavedra study",
+      "Saavedra rook promotion"
+    ],
+    "type": "Game",
+    "domain": "variants-and-compositions",
+    "file": "articles/variants-and-compositions/saavedra-position.md",
+    "created": "2026-11-14",
+    "verified": "2026-11-14",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://timkr.home.xs4all.nl/chess/saavedra.htm",
+      "https://timkr.home.xs4all.nl/chess2/prynd.htm",
+      "https://www.chessscotland.com/documents/history/biographies/saavedra.htm",
+      "https://chabris.com/pub/acj/extra/Elkies/Elkies06.html",
+      "https://www.britannica.com/topic/chess/Chess-composition"
+    ]
+  },
+  {
     "id": "kt:sacrifice",
     "title": "Sacrifice",
     "aliases": [

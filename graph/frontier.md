@@ -19,6 +19,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:magnus-carlsen` | `kt:fide-world-cup`, `kt:fide-world-cup`, `kt:gukesh-dommaraju` |
 | `kt:mikhail-chigorin` | `kt:hastings-1895`, `kt:evans-gambit`, `kt:wilhelm-steinitz` |
 | `kt:portable-game-notation` | `kt:algebraic-notation`, `kt:forsyth-edwards-notation`, `kt:forsyth-edwards-notation` |
+| `kt:underpromotion` | `kt:pawn-promotion`, `kt:excelsior`, `kt:saavedra-position` |
 | `kt:universal-chess-interface` | `kt:leela-chess-zero`, `kt:stockfish`, `kt:chess960` |
 | `kt:vladimir-kramnik` | `kt:alphazero`, `kt:ruy-lopez`, `kt:garry-kasparov` |
 | `kt:alekhine-versus-nimzowitsch-san-remo-1930` | `kt:open-file`, `kt:alexander-alekhine` |
@@ -47,7 +48,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:perpetual-check` | `kt:draw`, `kt:threefold-repetition` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
 | `kt:rook-on-the-seventh-rank` | `kt:open-file`, `kt:open-file` |
-| `kt:saavedra-position` | `kt:pawn-promotion`, `kt:endgame-study` |
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:zugzwang`, `kt:aron-nimzowitsch` |
 | `kt:saint-louis-chess-club` | `kt:us-chess-championship`, `kt:us-chess` |
 | `kt:simplification` | `kt:material-advantage`, `kt:material-advantage` |
@@ -60,7 +60,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:tie-break` | `kt:chess-tournament`, `kt:us-chess-championship` |
 | `kt:top-chess-engine-championship` | `kt:leela-chess-zero`, `kt:stockfish` |
 | `kt:transposition-table` | `kt:alpha-beta-pruning`, `kt:game-tree-search` |
-| `kt:underpromotion` | `kt:pawn-promotion`, `kt:excelsior` |
 | `kt:world-chess-championship-1927` | `kt:alexander-alekhine`, `kt:jose-raul-capablanca` |
 | `kt:abraham-luchins` | `kt:einstellung-effect` |
 | `kt:abstract-strategy-game` | `kt:chess` |
@@ -96,6 +95,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:european-chess-union` | `kt:fide` |
 | `kt:exchange-sacrifice` | `kt:sacrifice` |
 | `kt:extended-position-description` | `kt:forsyth-edwards-notation` |
+| `kt:fernando-saavedra` | `kt:saavedra-position` |
 | `kt:fide-ethics-and-disciplinary-code` | `kt:fair-play-regulations` |
 | `kt:fide-handbook` | `kt:fair-play-regulations` |
 | `kt:fide-title-regulations` | `kt:grandmaster-title` |
@@ -105,6 +105,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:francois-antoine-de-legal` | `kt:francois-andre-danican-philidor` |
 | `kt:frank-marshall` | `kt:us-chess-championship` |
 | `kt:game-of-the-century` | `kt:bobby-fischer` |
+| `kt:georges-barbier` | `kt:saavedra-position` |
 | `kt:giuoco-pianissimo` | `kt:italian-game` |
 | `kt:glicko-rating-system` | `kt:elo-rating-system` |
 | `kt:good-knight-versus-bad-bishop` | `kt:outpost` |
