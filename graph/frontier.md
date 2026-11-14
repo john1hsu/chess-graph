@@ -5,7 +5,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:alexander-alekhine`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:boris-spassky`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:mikhail-botvinnik`, `kt:tigran-petrosian`, `kt:wilhelm-steinitz` |
-| `kt:chess-organizations` | `kt:fide`, `kt:saint-louis-chess-club`, `kt:us-chess`, `kt:world-federation-for-chess-composition` |
 | `kt:closed-games` | `kt:open-games`, `kt:queens-gambit-accepted`, `kt:queens-gambit`, `kt:semi-open-games` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:herbert-simon` |
 | `kt:kings-gambit` | `kt:immortal-game`, `kt:evans-gambit`, `kt:open-games`, `kt:boris-spassky` |
@@ -29,6 +28,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:botvinnik-versus-capablanca-avro-1938` | `kt:soviet-chess-school`, `kt:mikhail-botvinnik` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
 | `kt:dragon-variation` | `kt:najdorf-variation`, `kt:sicilian-defence` |
+| `kt:european-chess-union` | `kt:chess-organizations`, `kt:fide` |
 | `kt:extended-position-description` | `kt:forsyth-edwards-notation`, `kt:portable-game-notation` |
 | `kt:gambit` | `kt:evans-gambit`, `kt:sacrifice` |
 | `kt:howard-staunton` | `kt:london-1851`, `kt:london-1851` |
@@ -86,7 +86,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ding-versus-gukesh-singapore-2024-game-14` | `kt:gukesh-dommaraju` |
 | `kt:englisch-versus-steinitz-london-1883` | `kt:bishop-pair` |
 | `kt:english-attack` | `kt:najdorf-variation` |
-| `kt:european-chess-union` | `kt:fide` |
 | `kt:exchange-sacrifice` | `kt:sacrifice` |
 | `kt:fernando-saavedra` | `kt:saavedra-position` |
 | `kt:fide-ethics-and-disciplinary-code` | `kt:fair-play-regulations` |
@@ -112,6 +111,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:iccf` | `kt:correspondence-chess` |
 | `kt:illegal-move` | `kt:touch-move` |
 | `kt:indian-defences` | `kt:nimzo-indian-defence` |
+| `kt:international-correspondence-chess-federation` | `kt:chess-organizations` |
 | `kt:international-master` | `kt:fernand-gobet` |
 | `kt:international-master-title` | `kt:grandmaster-title` |
 | `kt:intrinsic-performance-rating` | `kt:fair-play-regulations` |
@@ -165,6 +165,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pillsbury-versus-tarrasch-hastings-1895` | `kt:hastings-1895` |
 | `kt:poisoned-pawn-variation` | `kt:najdorf-variation` |
 | `kt:priority-and-anticipation` | `kt:codex-of-chess-composition` |
+| `kt:professional-chess-association` | `kt:chess-organizations` |
 | `kt:proof-game` | `kt:retrograde-analysis` |
 | `kt:proof-number-search` | `kt:game-tree-search` |
 | `kt:puzzle-training` | `kt:deliberate-practice` |

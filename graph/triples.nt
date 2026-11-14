@@ -854,6 +854,33 @@
 <https://github.com/john1hsu/chess-graph/id/chess-olympiad> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/fide> .
 <https://github.com/john1hsu/chess-graph/id/chess-olympiad> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/chess-olympiad> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/chess-organizations> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/chess-organizations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Concept> .
+<https://github.com/john1hsu/chess-graph/id/chess-organizations> <http://www.w3.org/2000/01/rdf-schema#label> "Chess organizations" .
+<https://github.com/john1hsu/chess-graph/id/chess-organizations> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess governing bodies" .
+<https://github.com/john1hsu/chess-graph/id/chess-organizations> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess organisations" .
+<https://github.com/john1hsu/chess-graph/id/chess-organizations> <http://www.w3.org/2004/02/skos/core#altLabel> "FIDE affiliated organisations" .
+<https://github.com/john1hsu/chess-graph/id/chess-organizations> <http://www.w3.org/2004/02/skos/core#altLabel> "FIDE affiliated organizations" .
+<https://github.com/john1hsu/chess-graph/id/chess-organizations> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess> .
+<https://github.com/john1hsu/chess-graph/id/chess-organizations> <http://www.w3.org/2004/02/skos/core#definition> "The landscape of bodies that run organised chess: FIDE and its national member federations, the continental and regional groupings beneath it, and specialist affiliated organisations for correspondence chess, composition, computer games, school chess and players with disabilities, plus occasional rival professional bodies." .
+<https://github.com/john1hsu/chess-graph/id/chess-organizations> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chess organizations" .
+<https://github.com/john1hsu/chess-graph/id/chess-organizations> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-titles> .
+<https://github.com/john1hsu/chess-graph/id/chess-organizations> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/correspondence-chess> .
+<https://github.com/john1hsu/chess-graph/id/chess-organizations> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fide> .
+<https://github.com/john1hsu/chess-graph/id/chess-organizations> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/us-chess> .
+<https://github.com/john1hsu/chess-graph/id/chess-organizations> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/world-federation-for-chess-composition> .
+<https://github.com/john1hsu/chess-graph/id/chess-organizations> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-organizations/s1> .
+<https://github.com/john1hsu/chess-graph/id/chess-organizations> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-organizations/s2> .
+<https://github.com/john1hsu/chess-graph/id/chess-organizations> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-organizations/s3> .
+<https://github.com/john1hsu/chess-graph/id/chess-organizations> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-organizations/s4> .
+<https://github.com/john1hsu/chess-graph/id/chess-organizations> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-organizations/s5> .
+<https://github.com/john1hsu/chess-graph/id/chess-organizations> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-organizations/s6> .
+<https://github.com/john1hsu/chess-graph/id/chess-organizations> <https://github.com/john1hsu/chess-graph/ontology#domain> "events-and-organizations" .
+<https://github.com/john1hsu/chess-graph/id/chess-organizations> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/european-chess-union> .
+<https://github.com/john1hsu/chess-graph/id/chess-organizations> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/international-correspondence-chess-federation> .
+<https://github.com/john1hsu/chess-graph/id/chess-organizations> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/professional-chess-association> .
+<https://github.com/john1hsu/chess-graph/id/chess-organizations> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/chess-organizations> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-14" .
 <https://github.com/john1hsu/chess-graph/id/chess-problems> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/chess-problems> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#ProblemGenre> .
 <https://github.com/john1hsu/chess-graph/id/chess-problems> <http://www.w3.org/2000/01/rdf-schema#label> "Chess problem" .
@@ -4978,6 +5005,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s9> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-olympiad/s9> <https://schema.org/url> "https://www.europechess.org/uzbekistan-and-china-win-the-46th-chess-olympiad/" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-organizations/s1> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-organizations/s1> <http://purl.org/dc/terms/title> "FIDE Regulations on Affiliated Members (applied from 1 November 2023)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-organizations/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-organizations/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-organizations/s1> <https://schema.org/url> "https://handbook.fide.com/chapter/RegulationsOnAffiliatedMembers" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-organizations/s2> <http://purl.org/dc/terms/publisher> "FIDE Directory (directory.fide.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-organizations/s2> <http://purl.org/dc/terms/title> "Affiliated organizations" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-organizations/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-organizations/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-organizations/s2> <https://schema.org/url> "https://directory.fide.com/list/affiliated_organizations" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-organizations/s3> <http://purl.org/dc/terms/publisher> "FIDE (fide.com news)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-organizations/s3> <http://purl.org/dc/terms/title> "Celebrating 40 years of the European Chess Union: A legacy of unity, growth, and excellence" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-organizations/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-organizations/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-organizations/s3> <https://schema.org/url> "https://www.fide.com/celebrating-40-years-of-the-european-chess-union-a-legacy-of-unity-growth-and-excellence/" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-organizations/s4> <http://purl.org/dc/terms/publisher> "Nol van't Riet, updated by Mariusz Wojnar, \"Celebrating 60 years of the ICCF\" (Polish correspondence chess site, kszgk.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-organizations/s4> <http://purl.org/dc/terms/title> "About ICCF" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-organizations/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-organizations/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-organizations/s4> <https://schema.org/url> "https://kszgk.com/iccf/?p=525" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-organizations/s5> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-organizations/s5> <http://purl.org/dc/terms/title> "Professional Chess Association" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-organizations/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-organizations/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-organizations/s5> <https://schema.org/url> "https://www.britannica.com/topic/Professional-Chess-Association" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-organizations/s6> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-organizations/s6> <http://purl.org/dc/terms/title> "Nigel Short" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-organizations/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-organizations/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-organizations/s6> <https://schema.org/url> "https://www.britannica.com/biography/Nigel-Short" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-problems/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-problems/s1> <http://purl.org/dc/terms/title> "Chess: Chess composition" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-problems/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

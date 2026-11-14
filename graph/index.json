@@ -792,6 +792,31 @@
     ]
   },
   {
+    "id": "kt:chess-organizations",
+    "title": "Chess organizations",
+    "aliases": [
+      "Chess organisations",
+      "Chess governing bodies",
+      "FIDE affiliated organisations",
+      "FIDE affiliated organizations"
+    ],
+    "type": "Concept",
+    "domain": "events-and-organizations",
+    "file": "articles/events-and-organizations/chess-organizations.md",
+    "created": "2026-11-14",
+    "verified": "2026-11-14",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://handbook.fide.com/chapter/RegulationsOnAffiliatedMembers",
+      "https://directory.fide.com/list/affiliated_organizations",
+      "https://www.fide.com/celebrating-40-years-of-the-european-chess-union-a-legacy-of-unity-growth-and-excellence/",
+      "https://kszgk.com/iccf/?p=525",
+      "https://www.britannica.com/topic/Professional-Chess-Association",
+      "https://www.britannica.com/biography/Nigel-Short"
+    ]
+  },
+  {
     "id": "kt:chess-problems",
     "title": "Chess problem",
     "aliases": [
