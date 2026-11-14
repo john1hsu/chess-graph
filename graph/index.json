@@ -3795,6 +3795,32 @@
     ]
   },
   {
+    "id": "kt:steinitz-von-bardeleben-hastings-1895",
+    "title": "Steinitz versus von Bardeleben, Hastings 1895",
+    "aliases": [
+      "Steinitz–von Bardeleben",
+      "Steinitz vs von Bardeleben 1895",
+      "Steinitz–Bardeleben Hastings 1895",
+      "Steinitz's Immortal Game",
+      "The Magic Rook"
+    ],
+    "type": "Game",
+    "domain": "history",
+    "file": "articles/history/steinitz-von-bardeleben-hastings-1895.md",
+    "created": "2026-11-14",
+    "verified": "2026-11-14",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://chesshistory.com/winter/extra/steinitzvonbardeleben.html",
+      "https://www.irlchess.com/hastings/hastings1895_allfiles_v1.1/games_hastings1895/g106.htm",
+      "https://en.chessbase.com/post/kavalek-at-huffington-steinitz-s-immortal-che-game",
+      "https://en.chessbase.com/news/2010/games/kavalek13g0.htm",
+      "https://www.chess.com/blog/batgirl/hastings-1895-brilliancy-prizes",
+      "https://en.chessbase.com/newsroom/post/50-games-the-magic-rook-wilhelm-steinitz-vs-curt-von-bardeleben"
+    ]
+  },
+  {
     "id": "kt:stockfish",
     "title": "Stockfish",
     "aliases": [

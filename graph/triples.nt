@@ -8490,6 +8490,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/starting-age/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/starting-age/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/chess-graph/id/source/starting-age/s4> <https://schema.org/url> "https://vivo.weill.cornell.edu/display/pubid17563184" .
+<https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s1> <http://purl.org/dc/terms/title> "Steinitz v von Bardeleben, Hastings, 1895" .
+<https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s1> <https://schema.org/url> "https://chesshistory.com/winter/extra/steinitzvonbardeleben.html" .
+<https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s2> <http://purl.org/dc/terms/publisher> "IRLchess digital edition of the tournament book" .
+<https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s2> <http://purl.org/dc/terms/title> "Steinitz, William – von Bardeleben, Curt, Hastings 1895 (from The Hastings Chess Tournament 1895, ed. H. F. Cheshire, 1896)" .
+<https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s2> <https://schema.org/url> "https://www.irlchess.com/hastings/hastings1895_allfiles_v1.1/games_hastings1895/g106.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s3> <http://purl.org/dc/terms/publisher> "ChessBase (GM Lubomir Kavalek)" .
+<https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s3> <http://purl.org/dc/terms/title> "Kavalek at Huffington: Steinitz's Immortal Chess Game" .
+<https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s3> <https://schema.org/url> "https://en.chessbase.com/post/kavalek-at-huffington-steinitz-s-immortal-che-game" .
+<https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s4> <http://purl.org/dc/terms/publisher> "ChessBase" .
+<https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s4> <http://purl.org/dc/terms/title> "Steinitz – von Bardeleben, Hastings 1895 (annotated by GM Lubomir Kavalek)" .
+<https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s4> <https://schema.org/url> "https://en.chessbase.com/news/2010/games/kavalek13g0.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s5> <http://purl.org/dc/terms/publisher> "Chess.com blog (batgirl)" .
+<https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s5> <http://purl.org/dc/terms/title> "Hastings 1895, Prizes (brilliancy sub-committee report reproduced from the tournament book)" .
+<https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s5> <https://schema.org/url> "https://www.chess.com/blog/batgirl/hastings-1895-brilliancy-prizes" .
+<https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s6> <http://purl.org/dc/terms/publisher> "ChessBase" .
+<https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s6> <http://purl.org/dc/terms/title> "50 games you should know: Steinitz vs. von Bardeleben (Johannes Fischer)" .
+<https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s6> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/50-games-the-magic-rook-wilhelm-steinitz-vs-curt-von-bardeleben" .
 <https://github.com/john1hsu/chess-graph/id/source/stockfish/s1> <http://purl.org/dc/terms/publisher> "The Stockfish developers (stockfishchess.org)" .
 <https://github.com/john1hsu/chess-graph/id/source/stockfish/s1> <http://purl.org/dc/terms/title> "About Stockfish" .
 <https://github.com/john1hsu/chess-graph/id/source/stockfish/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -9169,6 +9199,36 @@
 <https://github.com/john1hsu/chess-graph/id/starting-age> <https://github.com/john1hsu/chess-graph/ontology#domain> "training-and-improvement" .
 <https://github.com/john1hsu/chess-graph/id/starting-age> <https://github.com/john1hsu/chess-graph/ontology#status> "contested" .
 <https://github.com/john1hsu/chess-graph/id/starting-age> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Game> .
+<https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> <http://www.w3.org/2000/01/rdf-schema#label> "Steinitz versus von Bardeleben, Hastings 1895" .
+<https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> <http://www.w3.org/2004/02/skos/core#altLabel> "Steinitz vs von Bardeleben 1895" .
+<https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> <http://www.w3.org/2004/02/skos/core#altLabel> "Steinitz's Immortal Game" .
+<https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> <http://www.w3.org/2004/02/skos/core#altLabel> "Steinitz–Bardeleben Hastings 1895" .
+<https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> <http://www.w3.org/2004/02/skos/core#altLabel> "Steinitz–von Bardeleben" .
+<https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> <http://www.w3.org/2004/02/skos/core#altLabel> "The Magic Rook" .
+<https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/hastings-1895> .
+<https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> <http://www.w3.org/2004/02/skos/core#definition> "Wilhelm Steinitz's tenth-round win over Curt von Bardeleben at Hastings 1895, an Italian Game in which a pawn sacrifice and a rook that checked along the seventh rank broke open Black's uncastled king; it won the tournament's first brilliancy prize, and Black ended it by leaving the hall and losing on time." .
+<https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> <http://www.w3.org/2004/02/skos/core#prefLabel> "Steinitz versus von Bardeleben, Hastings 1895" .
+<https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/combination> .
+<https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/evergreen-game> .
+<https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/italian-game> .
+<https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> .
+<https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> .
+<https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s1> .
+<https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s2> .
+<https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s3> .
+<https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s4> .
+<https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s5> .
+<https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s6> .
+<https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> <https://github.com/john1hsu/chess-graph/ontology#domain> "history" .
+<https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> <https://github.com/john1hsu/chess-graph/ontology#exemplifies> <https://github.com/john1hsu/chess-graph/id/sacrifice> .
+<https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> <https://github.com/john1hsu/chess-graph/ontology#fen> "r1r1k3/pp1qR2p/5pp1/3p2N1/6Q1/8/PP3PPP/2R3K1 b - - 0 22" .
+<https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> <https://github.com/john1hsu/chess-graph/ontology#playedBy> <https://github.com/john1hsu/chess-graph/id/curt-von-bardeleben> .
+<https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> <https://github.com/john1hsu/chess-graph/ontology#playedBy> <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> .
+<https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/hastings-1895> .
+<https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-14" .
 <https://github.com/john1hsu/chess-graph/id/stockfish> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/stockfish> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Engine> .
 <https://github.com/john1hsu/chess-graph/id/stockfish> <http://www.w3.org/2000/01/rdf-schema#label> "Stockfish" .

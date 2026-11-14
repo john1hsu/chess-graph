@@ -5579,6 +5579,104 @@
       ]
     },
     {
+      "@id": "kt:steinitz-von-bardeleben-hastings-1895",
+      "@type": "kto:Game",
+      "skos:prefLabel": "Steinitz versus von Bardeleben, Hastings 1895",
+      "skos:definition": "Wilhelm Steinitz's tenth-round win over Curt von Bardeleben at Hastings 1895, an Italian Game in which a pawn sacrifice and a rook that checked along the seventh rank broke open Black's uncastled king; it won the tournament's first brilliancy prize, and Black ended it by leaving the hall and losing on time.",
+      "kto:domain": "history",
+      "dcterms:created": "2026-11-14",
+      "kto:verified": "2026-11-14",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Steinitz v von Bardeleben, Hastings, 1895",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://chesshistory.com/winter/extra/steinitzvonbardeleben.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Steinitz, William – von Bardeleben, Curt, Hastings 1895 (from The Hastings Chess Tournament 1895, ed. H. F. Cheshire, 1896)",
+          "dcterms:publisher": "IRLchess digital edition of the tournament book",
+          "schema:url": "https://www.irlchess.com/hastings/hastings1895_allfiles_v1.1/games_hastings1895/g106.htm",
+          "kto:sourceType": "primary-record"
+        },
+        {
+          "dcterms:title": "Kavalek at Huffington: Steinitz's Immortal Chess Game",
+          "dcterms:publisher": "ChessBase (GM Lubomir Kavalek)",
+          "schema:url": "https://en.chessbase.com/post/kavalek-at-huffington-steinitz-s-immortal-che-game",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Steinitz – von Bardeleben, Hastings 1895 (annotated by GM Lubomir Kavalek)",
+          "dcterms:publisher": "ChessBase",
+          "schema:url": "https://en.chessbase.com/news/2010/games/kavalek13g0.htm",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Hastings 1895, Prizes (brilliancy sub-committee report reproduced from the tournament book)",
+          "dcterms:publisher": "Chess.com blog (batgirl)",
+          "schema:url": "https://www.chess.com/blog/batgirl/hastings-1895-brilliancy-prizes",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "50 games you should know: Steinitz vs. von Bardeleben (Johannes Fischer)",
+          "dcterms:publisher": "ChessBase",
+          "schema:url": "https://en.chessbase.com/newsroom/post/50-games-the-magic-rook-wilhelm-steinitz-vs-curt-von-bardeleben",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/history/steinitz-von-bardeleben-hastings-1895.md",
+      "skos:altLabel": [
+        "Steinitz–von Bardeleben",
+        "Steinitz vs von Bardeleben 1895",
+        "Steinitz–Bardeleben Hastings 1895",
+        "Steinitz's Immortal Game",
+        "The Magic Rook"
+      ],
+      "kto:fen": "r1r1k3/pp1qR2p/5pp1/3p2N1/6Q1/8/PP3PPP/2R3K1 b - - 0 22",
+      "skos:broader": [
+        {
+          "@id": "kt:hastings-1895"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:wilhelm-steinitz"
+        },
+        {
+          "@id": "kt:italian-game"
+        },
+        {
+          "@id": "kt:combination"
+        },
+        {
+          "@id": "kt:rook-on-the-seventh-rank"
+        },
+        {
+          "@id": "kt:evergreen-game"
+        }
+      ],
+      "kto:playedBy": [
+        {
+          "@id": "kt:wilhelm-steinitz"
+        },
+        {
+          "@id": "kt:curt-von-bardeleben"
+        }
+      ],
+      "kto:playedIn": [
+        {
+          "@id": "kt:hastings-1895"
+        }
+      ],
+      "kto:exemplifies": [
+        {
+          "@id": "kt:sacrifice"
+        }
+      ]
+    },
+    {
       "@id": "kt:world-chess-championship-1886",
       "@type": "kto:Event",
       "skos:prefLabel": "World Chess Championship 1886",

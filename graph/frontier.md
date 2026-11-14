@@ -15,6 +15,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:johannes-zukertort` | `kt:world-chess-championship-1886`, `kt:adolf-anderssen`, `kt:wilhelm-steinitz` |
 | `kt:king-safety` | `kt:weak-squares`, `kt:castling`, `kt:greek-gift-sacrifice` |
 | `kt:mikhail-chigorin` | `kt:hastings-1895`, `kt:evans-gambit`, `kt:wilhelm-steinitz` |
+| `kt:rook-on-the-seventh-rank` | `kt:steinitz-von-bardeleben-hastings-1895`, `kt:open-file`, `kt:open-file` |
 | `kt:top-chess-engine-championship` | `kt:leela-chess-zero`, `kt:opening-book`, `kt:stockfish` |
 | `kt:transposition-table` | `kt:alpha-beta-pruning`, `kt:game-tree-search`, `kt:opening-book` |
 | `kt:underpromotion` | `kt:pawn-promotion`, `kt:excelsior`, `kt:saavedra-position` |
@@ -45,12 +46,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
 | `kt:perpetual-check` | `kt:draw`, `kt:threefold-repetition` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
-| `kt:rook-on-the-seventh-rank` | `kt:open-file`, `kt:open-file` |
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:zugzwang`, `kt:aron-nimzowitsch` |
 | `kt:shogi` | `kt:chess-variants`, `kt:crazyhouse` |
 | `kt:simplification` | `kt:material-advantage`, `kt:material-advantage` |
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
-| `kt:steinitz-von-bardeleben-hastings-1895` | `kt:hastings-1895`, `kt:wilhelm-steinitz` |
 | `kt:steven-j-edwards` | `kt:forsyth-edwards-notation`, `kt:portable-game-notation` |
 | `kt:sveshnikov-variation` | `kt:outpost`, `kt:sicilian-defence` |
 | `kt:tie-break` | `kt:chess-tournament`, `kt:us-chess-championship` |
@@ -79,6 +78,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cognitive-science` | `kt:cognitive-psychology-of-chess` |
 | `kt:colle-versus-ohanlon-nice-1930` | `kt:greek-gift-sacrifice` |
 | `kt:counting-in-pawn-races` | `kt:rule-of-the-square` |
+| `kt:curt-von-bardeleben` | `kt:steinitz-von-bardeleben-hastings-1895` |
 | `kt:david-forsyth` | `kt:forsyth-edwards-notation` |
 | `kt:deep-blue` | `kt:deep-blue-versus-kasparov` |
 | `kt:deepmind` | `kt:alphazero` |
