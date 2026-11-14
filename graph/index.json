@@ -1042,6 +1042,33 @@
     ]
   },
   {
+    "id": "kt:closed-games",
+    "title": "Closed games",
+    "aliases": [
+      "Closed Game",
+      "Closed game",
+      "Closed openings",
+      "Double queen's pawn openings",
+      "Double Queen Pawn openings",
+      "1.d4 d5"
+    ],
+    "type": "Concept",
+    "domain": "openings",
+    "file": "articles/openings/closed-games.md",
+    "created": "2026-11-14",
+    "verified": "2026-11-14",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://learn.chessbase.com/en/page/chess-openings-closed-games",
+      "https://www.britannica.com/topic/chess/Development-of-theory",
+      "https://britannica.com/topic/Queens-Gambit-Declined",
+      "https://help.chessbase.com/CBase/18/Eng/eco_classification.htm",
+      "https://www.newinchess.com/playing-1-d4-d5",
+      "https://qualitychess.co.uk/wp-content/uploads/2024/02/Playing-the-Queens-Gambit-excerpt.pdf"
+    ]
+  },
+  {
     "id": "kt:codex-of-chess-composition",
     "title": "Codex of Chess Composition",
     "aliases": [

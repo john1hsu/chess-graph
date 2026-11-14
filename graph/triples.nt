@@ -1159,6 +1159,38 @@
 <https://github.com/john1hsu/chess-graph/id/claude-shannon> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/leonardo-torres-y-quevedo> .
 <https://github.com/john1hsu/chess-graph/id/claude-shannon> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/claude-shannon> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/closed-games> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/closed-games> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Concept> .
+<https://github.com/john1hsu/chess-graph/id/closed-games> <http://www.w3.org/2000/01/rdf-schema#label> "Closed games" .
+<https://github.com/john1hsu/chess-graph/id/closed-games> <http://www.w3.org/2004/02/skos/core#altLabel> "1.d4 d5" .
+<https://github.com/john1hsu/chess-graph/id/closed-games> <http://www.w3.org/2004/02/skos/core#altLabel> "Closed Game" .
+<https://github.com/john1hsu/chess-graph/id/closed-games> <http://www.w3.org/2004/02/skos/core#altLabel> "Closed game" .
+<https://github.com/john1hsu/chess-graph/id/closed-games> <http://www.w3.org/2004/02/skos/core#altLabel> "Closed openings" .
+<https://github.com/john1hsu/chess-graph/id/closed-games> <http://www.w3.org/2004/02/skos/core#altLabel> "Double Queen Pawn openings" .
+<https://github.com/john1hsu/chess-graph/id/closed-games> <http://www.w3.org/2004/02/skos/core#altLabel> "Double queen's pawn openings" .
+<https://github.com/john1hsu/chess-graph/id/closed-games> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-openings> .
+<https://github.com/john1hsu/chess-graph/id/closed-games> <http://www.w3.org/2004/02/skos/core#definition> "The family of openings that begin 1.d4 d5, including the Queen's Gambit (Declined, Accepted, Slav and Semi-Slav), the Catalan and the quiet Queen's Pawn systems; together with the open and semi-open games it forms the traditional three-way division of opening play." .
+<https://github.com/john1hsu/chess-graph/id/closed-games> <http://www.w3.org/2004/02/skos/core#prefLabel> "Closed games" .
+<https://github.com/john1hsu/chess-graph/id/closed-games> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/carlsbad-structure> .
+<https://github.com/john1hsu/chess-graph/id/closed-games> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/hypermodernism> .
+<https://github.com/john1hsu/chess-graph/id/closed-games> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/open-games> .
+<https://github.com/john1hsu/chess-graph/id/closed-games> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/semi-open-games> .
+<https://github.com/john1hsu/chess-graph/id/closed-games> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/closed-games/s1> .
+<https://github.com/john1hsu/chess-graph/id/closed-games> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/closed-games/s2> .
+<https://github.com/john1hsu/chess-graph/id/closed-games> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/closed-games/s3> .
+<https://github.com/john1hsu/chess-graph/id/closed-games> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/closed-games/s4> .
+<https://github.com/john1hsu/chess-graph/id/closed-games> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/closed-games/s5> .
+<https://github.com/john1hsu/chess-graph/id/closed-games> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/closed-games/s6> .
+<https://github.com/john1hsu/chess-graph/id/closed-games> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/open-games> .
+<https://github.com/john1hsu/chess-graph/id/closed-games> <https://github.com/john1hsu/chess-graph/ontology#domain> "openings" .
+<https://github.com/john1hsu/chess-graph/id/closed-games> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/catalan-opening> .
+<https://github.com/john1hsu/chess-graph/id/closed-games> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/queens-gambit-accepted> .
+<https://github.com/john1hsu/chess-graph/id/closed-games> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/queens-gambit-declined> .
+<https://github.com/john1hsu/chess-graph/id/closed-games> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/queens-gambit> .
+<https://github.com/john1hsu/chess-graph/id/closed-games> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/slav-defence> .
+<https://github.com/john1hsu/chess-graph/id/closed-games> <https://github.com/john1hsu/chess-graph/ontology#moves> "1.d4 d5" .
+<https://github.com/john1hsu/chess-graph/id/closed-games> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/closed-games> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-14" .
 <https://github.com/john1hsu/chess-graph/id/codex-of-chess-composition> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/codex-of-chess-composition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Rule> .
 <https://github.com/john1hsu/chess-graph/id/codex-of-chess-composition> <http://www.w3.org/2000/01/rdf-schema#label> "Codex of Chess Composition" .
@@ -5310,6 +5342,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/claude-shannon/s4> <https://schema.org/url> "https://www.scientificamerican.com/author/claude-e-shannon" .
+<https://github.com/john1hsu/chess-graph/id/source/closed-games/s1> <http://purl.org/dc/terms/publisher> "ChessBase Learn" .
+<https://github.com/john1hsu/chess-graph/id/source/closed-games/s1> <http://purl.org/dc/terms/title> "Chess openings - closed games" .
+<https://github.com/john1hsu/chess-graph/id/source/closed-games/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/closed-games/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/closed-games/s1> <https://schema.org/url> "https://learn.chessbase.com/en/page/chess-openings-closed-games" .
+<https://github.com/john1hsu/chess-graph/id/source/closed-games/s2> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/closed-games/s2> <http://purl.org/dc/terms/title> "Chess: Development of theory" .
+<https://github.com/john1hsu/chess-graph/id/source/closed-games/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/closed-games/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/closed-games/s2> <https://schema.org/url> "https://www.britannica.com/topic/chess/Development-of-theory" .
+<https://github.com/john1hsu/chess-graph/id/source/closed-games/s3> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/closed-games/s3> <http://purl.org/dc/terms/title> "Queen's Gambit Declined" .
+<https://github.com/john1hsu/chess-graph/id/source/closed-games/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/closed-games/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/closed-games/s3> <https://schema.org/url> "https://britannica.com/topic/Queens-Gambit-Declined" .
+<https://github.com/john1hsu/chess-graph/id/source/closed-games/s4> <http://purl.org/dc/terms/publisher> "ChessBase help (ChessBase 18)" .
+<https://github.com/john1hsu/chess-graph/id/source/closed-games/s4> <http://purl.org/dc/terms/title> "ECO classification" .
+<https://github.com/john1hsu/chess-graph/id/source/closed-games/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/closed-games/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/closed-games/s4> <https://schema.org/url> "https://help.chessbase.com/CBase/18/Eng/eco_classification.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/closed-games/s5> <http://purl.org/dc/terms/publisher> "Quality Chess, New In Chess product page" .
+<https://github.com/john1hsu/chess-graph/id/source/closed-games/s5> <http://purl.org/dc/terms/title> "Playing 1.d4 d5 (Nikolaos Ntirlis, 2017)" .
+<https://github.com/john1hsu/chess-graph/id/source/closed-games/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/closed-games/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/closed-games/s5> <https://schema.org/url> "https://www.newinchess.com/playing-1-d4-d5" .
+<https://github.com/john1hsu/chess-graph/id/source/closed-games/s6> <http://purl.org/dc/terms/publisher> "Quality Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/closed-games/s6> <http://purl.org/dc/terms/title> "Playing the Queen's Gambit: a grandmaster guide (Lars Schandorff), excerpt" .
+<https://github.com/john1hsu/chess-graph/id/source/closed-games/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/closed-games/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/closed-games/s6> <https://schema.org/url> "https://qualitychess.co.uk/wp-content/uploads/2024/02/Playing-the-Queens-Gambit-excerpt.pdf" .
 <https://github.com/john1hsu/chess-graph/id/source/codex-of-chess-composition/s1> <http://purl.org/dc/terms/publisher> "World Federation for Chess Composition (WFCC)" .
 <https://github.com/john1hsu/chess-graph/id/source/codex-of-chess-composition/s1> <http://purl.org/dc/terms/title> "Codex of Chess Compositions (version Vilnius 2019)" .
 <https://github.com/john1hsu/chess-graph/id/source/codex-of-chess-composition/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
