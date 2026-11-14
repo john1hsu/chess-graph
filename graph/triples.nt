@@ -8078,6 +8078,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
 <https://github.com/john1hsu/chess-graph/id/source/soviet-chess-school/s7> <https://schema.org/url> "https://mcfarlandbooks.com/?p=24170" .
+<https://github.com/john1hsu/chess-graph/id/source/space-advantage/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/space-advantage/s1> <http://purl.org/dc/terms/title> "Chess: Development of theory" .
+<https://github.com/john1hsu/chess-graph/id/source/space-advantage/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/space-advantage/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/space-advantage/s1> <https://schema.org/url> "https://www.britannica.com/topic/chess/Development-of-theory" .
+<https://github.com/john1hsu/chess-graph/id/source/space-advantage/s2> <http://purl.org/dc/terms/publisher> "Cyrus Lakdawala, Popular Chess (2025), publisher's book page at New In Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/space-advantage/s2> <http://purl.org/dc/terms/title> "Exploiting a Space Advantage (Winning Chess Strategies)" .
+<https://github.com/john1hsu/chess-graph/id/source/space-advantage/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/space-advantage/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/space-advantage/s2> <https://schema.org/url> "https://www.newinchess.com/exploiting-a-space-advantage" .
+<https://github.com/john1hsu/chess-graph/id/source/space-advantage/s3> <http://purl.org/dc/terms/publisher> "Peter Heine Nielsen and Carsten Hansen (2018), excerpt hosted by New In Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/space-advantage/s3> <http://purl.org/dc/terms/title> "The Sicilian Accelerated Dragon, 20th Anniversary Edition (sample pages)" .
+<https://github.com/john1hsu/chess-graph/id/source/space-advantage/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/space-advantage/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/space-advantage/s3> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/7961.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/space-advantage/s4> <http://purl.org/dc/terms/publisher> "GM Matthias Wahls, matthias-wahls.com (18 June 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/space-advantage/s4> <http://purl.org/dc/terms/title> "Space (444 most important questions for success in chess, part 115)" .
+<https://github.com/john1hsu/chess-graph/id/source/space-advantage/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/space-advantage/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/space-advantage/s4> <https://schema.org/url> "https://matthias-wahls.com/?p=10655" .
+<https://github.com/john1hsu/chess-graph/id/source/space-advantage/s5> <http://purl.org/dc/terms/publisher> "GM Matthew Sadler, matthewsadler.me.uk (22 March 2016)" .
+<https://github.com/john1hsu/chess-graph/id/source/space-advantage/s5> <http://purl.org/dc/terms/title> "Compact at the 4NCL" .
+<https://github.com/john1hsu/chess-graph/id/source/space-advantage/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/space-advantage/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/space-advantage/s5> <https://schema.org/url> "https://matthewsadler.me.uk/chess-for-life/compact-at-the-4ncl/" .
+<https://github.com/john1hsu/chess-graph/id/source/space-advantage/s6> <http://purl.org/dc/terms/publisher> "GM Magesh Chandran Panchanathan, Chess.com (25 February 2010)" .
+<https://github.com/john1hsu/chess-graph/id/source/space-advantage/s6> <http://purl.org/dc/terms/title> "The Maroczy Bind" .
+<https://github.com/john1hsu/chess-graph/id/source/space-advantage/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/space-advantage/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/space-advantage/s6> <https://schema.org/url> "https://www.chess.com/article/view/the-maroczy-bind-by-gm-magesh-and-gm-arun" .
 <https://github.com/john1hsu/chess-graph/id/source/stalemate/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
 <https://github.com/john1hsu/chess-graph/id/source/stalemate/s1> <http://purl.org/dc/terms/title> "Laws of Chess, Article 5: The Completion of the Game" .
 <https://github.com/john1hsu/chess-graph/id/source/stalemate/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -8694,6 +8724,37 @@
 <https://github.com/john1hsu/chess-graph/id/soviet-chess-school> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/history-of-chess> .
 <https://github.com/john1hsu/chess-graph/id/soviet-chess-school> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/soviet-chess-school> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/space-advantage> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/space-advantage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
+<https://github.com/john1hsu/chess-graph/id/space-advantage> <http://www.w3.org/2000/01/rdf-schema#label> "Space advantage" .
+<https://github.com/john1hsu/chess-graph/id/space-advantage> <http://www.w3.org/2004/02/skos/core#altLabel> "Cramped position" .
+<https://github.com/john1hsu/chess-graph/id/space-advantage> <http://www.w3.org/2004/02/skos/core#altLabel> "Lack of space" .
+<https://github.com/john1hsu/chess-graph/id/space-advantage> <http://www.w3.org/2004/02/skos/core#altLabel> "More space" .
+<https://github.com/john1hsu/chess-graph/id/space-advantage> <http://www.w3.org/2004/02/skos/core#altLabel> "Space control" .
+<https://github.com/john1hsu/chess-graph/id/space-advantage> <http://www.w3.org/2004/02/skos/core#altLabel> "Space" .
+<https://github.com/john1hsu/chess-graph/id/space-advantage> <http://www.w3.org/2004/02/skos/core#altLabel> "Spatial advantage" .
+<https://github.com/john1hsu/chess-graph/id/space-advantage> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-strategy> .
+<https://github.com/john1hsu/chess-graph/id/space-advantage> <http://www.w3.org/2004/02/skos/core#definition> "The advantage of controlling more of the board than the opponent, usually because one side's pawns stand further forward, so that its pieces have more room to manoeuvre while the other side's pieces are cramped behind their own lines." .
+<https://github.com/john1hsu/chess-graph/id/space-advantage> <http://www.w3.org/2004/02/skos/core#prefLabel> "Space advantage" .
+<https://github.com/john1hsu/chess-graph/id/space-advantage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/alekhines-defence> .
+<https://github.com/john1hsu/chess-graph/id/space-advantage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/emanuel-lasker> .
+<https://github.com/john1hsu/chess-graph/id/space-advantage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/hypermodernism> .
+<https://github.com/john1hsu/chess-graph/id/space-advantage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/maroczy-bind> .
+<https://github.com/john1hsu/chess-graph/id/space-advantage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/sicilian-defence> .
+<https://github.com/john1hsu/chess-graph/id/space-advantage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/weak-squares> .
+<https://github.com/john1hsu/chess-graph/id/space-advantage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/space-advantage/s1> .
+<https://github.com/john1hsu/chess-graph/id/space-advantage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/space-advantage/s2> .
+<https://github.com/john1hsu/chess-graph/id/space-advantage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/space-advantage/s3> .
+<https://github.com/john1hsu/chess-graph/id/space-advantage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/space-advantage/s4> .
+<https://github.com/john1hsu/chess-graph/id/space-advantage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/space-advantage/s5> .
+<https://github.com/john1hsu/chess-graph/id/space-advantage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/space-advantage/s6> .
+<https://github.com/john1hsu/chess-graph/id/space-advantage> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> .
+<https://github.com/john1hsu/chess-graph/id/space-advantage> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/weak-squares> .
+<https://github.com/john1hsu/chess-graph/id/space-advantage> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/pawn-structure> .
+<https://github.com/john1hsu/chess-graph/id/space-advantage> <https://github.com/john1hsu/chess-graph/ontology#domain> "middlegame-strategy" .
+<https://github.com/john1hsu/chess-graph/id/space-advantage> <https://github.com/john1hsu/chess-graph/ontology#fen> "rnbqk1nr/pp1pppbp/6p1/8/2PNP3/8/PP3PPP/RNBQKB1R b KQkq - 0 5" .
+<https://github.com/john1hsu/chess-graph/id/space-advantage> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/space-advantage> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-14" .
 <https://github.com/john1hsu/chess-graph/id/stalemate> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/stalemate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Rule> .
 <https://github.com/john1hsu/chess-graph/id/stalemate> <http://www.w3.org/2000/01/rdf-schema#label> "Stalemate" .

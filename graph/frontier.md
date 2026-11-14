@@ -48,7 +48,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:zugzwang`, `kt:aron-nimzowitsch` |
 | `kt:simplification` | `kt:material-advantage`, `kt:material-advantage` |
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
-| `kt:space-advantage` | `kt:weak-squares`, `kt:weak-squares` |
 | `kt:steinitz-von-bardeleben-hastings-1895` | `kt:hastings-1895`, `kt:wilhelm-steinitz` |
 | `kt:sveshnikov-variation` | `kt:outpost`, `kt:sicilian-defence` |
 | `kt:tie-break` | `kt:chess-tournament`, `kt:us-chess-championship` |
@@ -145,6 +144,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:marco-costalba` | `kt:stockfish` |
 | `kt:marcus-kann` | `kt:caro-kann-defence` |
 | `kt:marmaduke-wyvill` | `kt:london-1851` |
+| `kt:maroczy-bind` | `kt:space-advantage` |
 | `kt:marshall-attack` | `kt:ruy-lopez` |
 | `kt:max-lange` | `kt:helpmate` |
 | `kt:merim-bilalic` | `kt:einstellung-effect` |

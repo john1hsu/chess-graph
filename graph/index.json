@@ -3568,6 +3568,33 @@
     ]
   },
   {
+    "id": "kt:space-advantage",
+    "title": "Space advantage",
+    "aliases": [
+      "Space",
+      "Spatial advantage",
+      "More space",
+      "Space control",
+      "Cramped position",
+      "Lack of space"
+    ],
+    "type": "StrategicConcept",
+    "domain": "middlegame-strategy",
+    "file": "articles/middlegame-strategy/space-advantage.md",
+    "created": "2026-11-14",
+    "verified": "2026-11-14",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.britannica.com/topic/chess/Development-of-theory",
+      "https://www.newinchess.com/exploiting-a-space-advantage",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/7961.pdf",
+      "https://matthias-wahls.com/?p=10655",
+      "https://matthewsadler.me.uk/chess-for-life/compact-at-the-4ncl/",
+      "https://www.chess.com/article/view/the-maroczy-bind-by-gm-magesh-and-gm-arun"
+    ]
+  },
+  {
     "id": "kt:stalemate",
     "title": "Stalemate",
     "aliases": [
