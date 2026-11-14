@@ -7982,6 +7982,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/visualization/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/visualization/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
 <https://github.com/john1hsu/chess-graph/id/source/visualization/s5> <https://schema.org/url> "https://mcfarlandbooks.com/?p=22687" .
+<https://github.com/john1hsu/chess-graph/id/source/weak-squares/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/weak-squares/s1> <http://purl.org/dc/terms/title> "Chess: Development of theory" .
+<https://github.com/john1hsu/chess-graph/id/source/weak-squares/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/weak-squares/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/weak-squares/s1> <https://schema.org/url> "https://britannica.com/topic/chess/Development-of-theory" .
+<https://github.com/john1hsu/chess-graph/id/source/weak-squares/s2> <http://purl.org/dc/terms/publisher> "Benjamin Katz, Everyman Chess (2022), excerpt hosted by New In Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/weak-squares/s2> <http://purl.org/dc/terms/title> "Chess Bootcamp: Beyond the Basics (sample pages, chapter 6 'Pawn Structures')" .
+<https://github.com/john1hsu/chess-graph/id/source/weak-squares/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/weak-squares/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/weak-squares/s2> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/8810.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/weak-squares/s3> <http://purl.org/dc/terms/publisher> "Jeremy Silman, Siles Press, excerpt hosted by New In Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/weak-squares/s3> <http://purl.org/dc/terms/title> "How to Reassess Your Chess, 4th edition (front matter and contents)" .
+<https://github.com/john1hsu/chess-graph/id/source/weak-squares/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/weak-squares/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/weak-squares/s3> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/794.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/weak-squares/s4> <http://purl.org/dc/terms/publisher> "Bruce Till, Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/weak-squares/s4> <http://purl.org/dc/terms/title> "What are \"weak squares\"?" .
+<https://github.com/john1hsu/chess-graph/id/source/weak-squares/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/weak-squares/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/weak-squares/s4> <https://schema.org/url> "https://www.chess.com/article/view/what-are-quotweak-squaresquot" .
+<https://github.com/john1hsu/chess-graph/id/source/weak-squares/s5> <http://purl.org/dc/terms/publisher> "Bruce Till, Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/weak-squares/s5> <http://purl.org/dc/terms/title> "The Weak Dark Square Complex" .
+<https://github.com/john1hsu/chess-graph/id/source/weak-squares/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/weak-squares/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/weak-squares/s5> <https://schema.org/url> "https://www.chess.com/article/view/the-weak-dark-square-complex" .
+<https://github.com/john1hsu/chess-graph/id/source/weak-squares/s6> <http://purl.org/dc/terms/publisher> "GM Matthias Wahls, matthias-wahls.com (17 June 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/weak-squares/s6> <http://purl.org/dc/terms/title> "Weak squares (444 most important questions for success in chess, part 114)" .
+<https://github.com/john1hsu/chess-graph/id/source/weak-squares/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/weak-squares/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/weak-squares/s6> <https://schema.org/url> "https://matthias-wahls.com/?p=10629" .
 <https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s1> <http://purl.org/dc/terms/title> "Wilhelm Steinitz" .
 <https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -8505,6 +8535,38 @@
 <https://github.com/john1hsu/chess-graph/id/visualization> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/fernand-gobet> .
 <https://github.com/john1hsu/chess-graph/id/visualization> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/visualization> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/weak-squares> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/weak-squares> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
+<https://github.com/john1hsu/chess-graph/id/weak-squares> <http://www.w3.org/2000/01/rdf-schema#label> "Weak squares" .
+<https://github.com/john1hsu/chess-graph/id/weak-squares> <http://www.w3.org/2004/02/skos/core#altLabel> "Colour complex weakness" .
+<https://github.com/john1hsu/chess-graph/id/weak-squares> <http://www.w3.org/2004/02/skos/core#altLabel> "Hole" .
+<https://github.com/john1hsu/chess-graph/id/weak-squares> <http://www.w3.org/2004/02/skos/core#altLabel> "Holes" .
+<https://github.com/john1hsu/chess-graph/id/weak-squares> <http://www.w3.org/2004/02/skos/core#altLabel> "Weak color complex" .
+<https://github.com/john1hsu/chess-graph/id/weak-squares> <http://www.w3.org/2004/02/skos/core#altLabel> "Weak colour complex" .
+<https://github.com/john1hsu/chess-graph/id/weak-squares> <http://www.w3.org/2004/02/skos/core#altLabel> "Weak square complex" .
+<https://github.com/john1hsu/chess-graph/id/weak-squares> <http://www.w3.org/2004/02/skos/core#altLabel> "Weak square" .
+<https://github.com/john1hsu/chess-graph/id/weak-squares> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-strategy> .
+<https://github.com/john1hsu/chess-graph/id/weak-squares> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/pawn-structure> .
+<https://github.com/john1hsu/chess-graph/id/weak-squares> <http://www.w3.org/2004/02/skos/core#definition> "Squares that one side can no longer contest, usually because the pawns that once guarded them have advanced or disappeared, so the opponent can control or occupy them without being dislodged; a single such square is a \"hole\", and a group of same-coloured ones is a weak colour complex." .
+<https://github.com/john1hsu/chess-graph/id/weak-squares> <http://www.w3.org/2004/02/skos/core#prefLabel> "Weak squares" .
+<https://github.com/john1hsu/chess-graph/id/weak-squares> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/bishop-pair> .
+<https://github.com/john1hsu/chess-graph/id/weak-squares> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> .
+<https://github.com/john1hsu/chess-graph/id/weak-squares> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/king-safety> .
+<https://github.com/john1hsu/chess-graph/id/weak-squares> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/outpost> .
+<https://github.com/john1hsu/chess-graph/id/weak-squares> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/space-advantage> .
+<https://github.com/john1hsu/chess-graph/id/weak-squares> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/weak-squares/s1> .
+<https://github.com/john1hsu/chess-graph/id/weak-squares> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/weak-squares/s2> .
+<https://github.com/john1hsu/chess-graph/id/weak-squares> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/weak-squares/s3> .
+<https://github.com/john1hsu/chess-graph/id/weak-squares> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/weak-squares/s4> .
+<https://github.com/john1hsu/chess-graph/id/weak-squares> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/weak-squares/s5> .
+<https://github.com/john1hsu/chess-graph/id/weak-squares> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/weak-squares/s6> .
+<https://github.com/john1hsu/chess-graph/id/weak-squares> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/space-advantage> .
+<https://github.com/john1hsu/chess-graph/id/weak-squares> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> .
+<https://github.com/john1hsu/chess-graph/id/weak-squares> <https://github.com/john1hsu/chess-graph/ontology#domain> "middlegame-strategy" .
+<https://github.com/john1hsu/chess-graph/id/weak-squares> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/outpost> .
+<https://github.com/john1hsu/chess-graph/id/weak-squares> <https://github.com/john1hsu/chess-graph/ontology#fen> "r4rk1/pp1q1p1p/2p1p1p1/8/3P4/2P1B3/PP1Q1PPP/R4RK1 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/weak-squares> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/weak-squares> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-14" .
 <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
 <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <http://www.w3.org/2000/01/rdf-schema#label> "Wilhelm Steinitz" .

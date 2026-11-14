@@ -3658,6 +3658,34 @@
     ]
   },
   {
+    "id": "kt:weak-squares",
+    "title": "Weak squares",
+    "aliases": [
+      "Weak square",
+      "Hole",
+      "Holes",
+      "Weak colour complex",
+      "Weak color complex",
+      "Colour complex weakness",
+      "Weak square complex"
+    ],
+    "type": "StrategicConcept",
+    "domain": "middlegame-strategy",
+    "file": "articles/middlegame-strategy/weak-squares.md",
+    "created": "2026-11-14",
+    "verified": "2026-11-14",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://britannica.com/topic/chess/Development-of-theory",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/8810.pdf",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/794.pdf",
+      "https://www.chess.com/article/view/what-are-quotweak-squaresquot",
+      "https://www.chess.com/article/view/the-weak-dark-square-complex",
+      "https://matthias-wahls.com/?p=10629"
+    ]
+  },
+  {
     "id": "kt:wilhelm-steinitz",
     "title": "Wilhelm Steinitz",
     "aliases": [

@@ -34,6 +34,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:howard-staunton` | `kt:london-1851`, `kt:london-1851` |
 | `kt:ju-wenjun` | `kt:womens-world-chess-championship`, `kt:womens-world-chess-championship` |
 | `kt:karpov-versus-unzicker-nice-1974` | `kt:prophylaxis`, `kt:anatoly-karpov` |
+| `kt:king-safety` | `kt:weak-squares`, `kt:castling` |
 | `kt:lionel-kieseritzky` | `kt:immortal-game`, `kt:london-1851` |
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position`, `kt:smothered-mate` |
 | `kt:max-euwe` | `kt:slav-defence`, `kt:alexander-alekhine` |
@@ -51,6 +52,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:saint-louis-chess-club` | `kt:us-chess-championship`, `kt:us-chess` |
 | `kt:simplification` | `kt:material-advantage`, `kt:material-advantage` |
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
+| `kt:space-advantage` | `kt:weak-squares`, `kt:weak-squares` |
 | `kt:starting-age` | `kt:chess-expertise`, `kt:deliberate-practice` |
 | `kt:steinitz-von-bardeleben-hastings-1895` | `kt:hastings-1895`, `kt:wilhelm-steinitz` |
 | `kt:sveshnikov-variation` | `kt:outpost`, `kt:sicilian-defence` |
@@ -123,7 +125,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:kasparov-versus-anand-riga-1995` | `kt:evans-gambit` |
 | `kt:kasparov-versus-topalov-wijk-aan-zee-1999` | `kt:garry-kasparov` |
 | `kt:ken-thompson` | `kt:endgame-tablebases` |
-| `kt:king-safety` | `kt:castling` |
 | `kt:kings-indian-defence` | `kt:soviet-chess-school` |
 | `kt:knight-versus-bishop` | `kt:good-and-bad-bishops` |
 | `kt:lasker-capablanca-havana-1921-game-10` | `kt:jose-raul-capablanca` |
@@ -210,7 +211,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:vera-menchik` | `kt:womens-world-chess-championship` |
 | `kt:viktor-korchnoi` | `kt:anatoly-karpov` |
 | `kt:viswanathan-anand` | `kt:gukesh-dommaraju` |
-| `kt:weak-squares` | `kt:outpost` |
 | `kt:william-chase` | `kt:chunking-theory` |
 | `kt:william-davies-evans` | `kt:evans-gambit` |
 | `kt:winawer-variation` | `kt:french-defence` |
