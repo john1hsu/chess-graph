@@ -1212,6 +1212,37 @@
 <https://github.com/john1hsu/chess-graph/id/correspondence-chess> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/iccf> .
 <https://github.com/john1hsu/chess-graph/id/correspondence-chess> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/correspondence-chess> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/corresponding-squares> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/corresponding-squares> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Technique> .
+<https://github.com/john1hsu/chess-graph/id/corresponding-squares> <http://www.w3.org/2000/01/rdf-schema#label> "Corresponding squares" .
+<https://github.com/john1hsu/chess-graph/id/corresponding-squares> <http://www.w3.org/2004/02/skos/core#altLabel> "Cases conjuguées" .
+<https://github.com/john1hsu/chess-graph/id/corresponding-squares> <http://www.w3.org/2004/02/skos/core#altLabel> "Co-ordinate squares" .
+<https://github.com/john1hsu/chess-graph/id/corresponding-squares> <http://www.w3.org/2004/02/skos/core#altLabel> "Conjugate squares" .
+<https://github.com/john1hsu/chess-graph/id/corresponding-squares> <http://www.w3.org/2004/02/skos/core#altLabel> "Coordinate squares" .
+<https://github.com/john1hsu/chess-graph/id/corresponding-squares> <http://www.w3.org/2004/02/skos/core#altLabel> "Related squares" .
+<https://github.com/john1hsu/chess-graph/id/corresponding-squares> <http://www.w3.org/2004/02/skos/core#altLabel> "Sister squares" .
+<https://github.com/john1hsu/chess-graph/id/corresponding-squares> <http://www.w3.org/2004/02/skos/core#altLabel> "Theory of corresponding squares" .
+<https://github.com/john1hsu/chess-graph/id/corresponding-squares> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/king-and-pawn-endgames> .
+<https://github.com/john1hsu/chess-graph/id/corresponding-squares> <http://www.w3.org/2004/02/skos/core#definition> "An endgame analysis method that pairs each square of the attacking king with the square or squares the defending king must occupy in reply; the defender holds only by keeping to these matching squares, so the attacker wins by manoeuvring until no corresponding square is available." .
+<https://github.com/john1hsu/chess-graph/id/corresponding-squares> <http://www.w3.org/2004/02/skos/core#prefLabel> "Corresponding squares" .
+<https://github.com/john1hsu/chess-graph/id/corresponding-squares> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/computer-chess> .
+<https://github.com/john1hsu/chess-graph/id/corresponding-squares> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/key-squares> .
+<https://github.com/john1hsu/chess-graph/id/corresponding-squares> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/opposition> .
+<https://github.com/john1hsu/chess-graph/id/corresponding-squares> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/zugzwang> .
+<https://github.com/john1hsu/chess-graph/id/corresponding-squares> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s1> .
+<https://github.com/john1hsu/chess-graph/id/corresponding-squares> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s2> .
+<https://github.com/john1hsu/chess-graph/id/corresponding-squares> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s3> .
+<https://github.com/john1hsu/chess-graph/id/corresponding-squares> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s4> .
+<https://github.com/john1hsu/chess-graph/id/corresponding-squares> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s5> .
+<https://github.com/john1hsu/chess-graph/id/corresponding-squares> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s6> .
+<https://github.com/john1hsu/chess-graph/id/corresponding-squares> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/zugzwang> .
+<https://github.com/john1hsu/chess-graph/id/corresponding-squares> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/marcel-duchamp> .
+<https://github.com/john1hsu/chess-graph/id/corresponding-squares> <https://github.com/john1hsu/chess-graph/ontology#domain> "endgames" .
+<https://github.com/john1hsu/chess-graph/id/corresponding-squares> <https://github.com/john1hsu/chess-graph/ontology#fen> "6k1/3p4/3p4/3P4/4P1p1/6P1/8/K7 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/corresponding-squares> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/opposition> .
+<https://github.com/john1hsu/chess-graph/id/corresponding-squares> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/triangulation> .
+<https://github.com/john1hsu/chess-graph/id/corresponding-squares> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/corresponding-squares> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-14" .
 <https://github.com/john1hsu/chess-graph/id/dead-position> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/dead-position> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Rule> .
 <https://github.com/john1hsu/chess-graph/id/dead-position> <http://www.w3.org/2000/01/rdf-schema#label> "Dead position" .
@@ -5064,6 +5095,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/correspondence-chess/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/correspondence-chess/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/correspondence-chess/s5> <https://schema.org/url> "https://ajec-echecs.org/2024/02/08/lhistoire-de-liccf-traduit-par-jean-francois-epinoux/?print=pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s1> <http://purl.org/dc/terms/publisher> "Kenneth Ward Church, Proceedings of the Sixth International Joint Conference on Artificial Intelligence (IJCAI 1979)" .
+<https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s1> <http://purl.org/dc/terms/title> "Co-ordinate Square: Solution to Many Chess Pawn Endgames" .
+<https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s1> <https://schema.org/url> "https://ijcai.org/proceedings/1979/37" .
+<https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s2> <http://purl.org/dc/terms/publisher> "Kenneth Ward Church, Massachusetts Institute of Technology, DSpace@MIT (1978)" .
+<https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s2> <http://purl.org/dc/terms/title> "Co-ordinate squares: a solution to many chess pawn endgames (B.S. thesis, advisor Richard Greenblatt)" .
+<https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s2> <https://schema.org/url> "https://dspace.mit.edu/handle/1721.1/154966" .
+<https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s3> <http://purl.org/dc/terms/publisher> "Philadelphia Museum of Art Library and Archives; Marcel Duchamp and Vitaly Halberstadt, L'Echiquier, Paris (1932)" .
+<https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s3> <http://purl.org/dc/terms/title> "Opposition et cases conjuguées sont réconciliées (catalogue record)" .
+<https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s3> <https://schema.org/url> "https://library.philamuseum.org/Record/000075230" .
+<https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s4> <http://purl.org/dc/terms/publisher> "Mark Dvoretsky, revised by Karsten Müller, Russell Enterprises (2020)" .
+<https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s4> <http://purl.org/dc/terms/title> "Dvoretsky's Endgame Manual, fifth edition (excerpt with table of contents)" .
+<https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s4> <https://schema.org/url> "https://shop.chess-tigers.de/cdn/shop/files/dem5_excerpt.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s5> <http://purl.org/dc/terms/publisher> "Sundararajan Kidambi (GM), ChessBase News, 16 June 2023" .
+<https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s5> <http://purl.org/dc/terms/title> "Theory of corresponding squares" .
+<https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s5> <https://schema.org/url> "https://en.chessbase.com/post/theory-of-corresponding-squares-kidambi" .
+<https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s6> <http://purl.org/dc/terms/publisher> "Chess Programming Wiki" .
+<https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s6> <http://purl.org/dc/terms/title> "Corresponding Squares" .
+<https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/corresponding-squares/s6> <https://schema.org/url> "https://www.chessprogramming.org/Corresponding_Squares" .
 <https://github.com/john1hsu/chess-graph/id/source/dead-position/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
 <https://github.com/john1hsu/chess-graph/id/source/dead-position/s1> <http://purl.org/dc/terms/title> "Laws of Chess, Article 5: The Completion of the Game" .
 <https://github.com/john1hsu/chess-graph/id/source/dead-position/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

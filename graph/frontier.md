@@ -10,7 +10,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:herbert-simon` |
 | `kt:boris-spassky` | `kt:fischer-spassky-1972`, `kt:bobby-fischer`, `kt:tigran-petrosian` |
 | `kt:chess-organizations` | `kt:fide`, `kt:us-chess`, `kt:world-federation-for-chess-composition` |
-| `kt:corresponding-squares` | `kt:key-squares`, `kt:triangulation`, `kt:triangulation` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position`, `kt:rook-endgames` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search`, `kt:progressive-deepening` |
 | `kt:javokhir-sindarov` | `kt:candidates-tournament`, `kt:fide-world-cup`, `kt:gukesh-dommaraju` |
@@ -142,6 +141,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:long-term-working-memory` | `kt:template-theory` |
 | `kt:mailbox-board-representation` | `kt:bitboards` |
 | `kt:manhattan-chess-club` | `kt:world-chess-championship-1886` |
+| `kt:marcel-duchamp` | `kt:corresponding-squares` |
 | `kt:marco-costalba` | `kt:stockfish` |
 | `kt:marcus-kann` | `kt:caro-kann-defence` |
 | `kt:marmaduke-wyvill` | `kt:london-1851` |

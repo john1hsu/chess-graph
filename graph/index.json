@@ -1086,6 +1086,34 @@
     ]
   },
   {
+    "id": "kt:corresponding-squares",
+    "title": "Corresponding squares",
+    "aliases": [
+      "Co-ordinate squares",
+      "Coordinate squares",
+      "Sister squares",
+      "Conjugate squares",
+      "Cases conjuguées",
+      "Related squares",
+      "Theory of corresponding squares"
+    ],
+    "type": "Technique",
+    "domain": "endgames",
+    "file": "articles/endgames/corresponding-squares.md",
+    "created": "2026-11-14",
+    "verified": "2026-11-14",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://ijcai.org/proceedings/1979/37",
+      "https://dspace.mit.edu/handle/1721.1/154966",
+      "https://library.philamuseum.org/Record/000075230",
+      "https://shop.chess-tigers.de/cdn/shop/files/dem5_excerpt.pdf",
+      "https://en.chessbase.com/post/theory-of-corresponding-squares-kidambi",
+      "https://www.chessprogramming.org/Corresponding_Squares"
+    ]
+  },
+  {
     "id": "kt:dead-position",
     "title": "Dead position",
     "aliases": [
