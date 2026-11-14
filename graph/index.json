@@ -1954,6 +1954,34 @@
     ]
   },
   {
+    "id": "kt:greek-gift-sacrifice",
+    "title": "Greek gift sacrifice",
+    "aliases": [
+      "Greek gift",
+      "Greek Gift sacrifice",
+      "Classic bishop sacrifice",
+      "Classical bishop sacrifice",
+      "Bxh7+ sacrifice",
+      "Bishop sacrifice on h7"
+    ],
+    "type": "TacticalMotif",
+    "domain": "tactics",
+    "file": "articles/tactics/greek-gift-sacrifice.md",
+    "created": "2026-11-14",
+    "verified": "2026-11-14",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.chesstactics.org/mating-patterns/other-classic-mating-ideas/the-greek-gift_generally/6_2_12_1.html",
+      "https://www.chesstactics.org/mating-patterns/other-classic-mating-ideas/the-greek-gift_the-king-goes-to-g6/6_2_13_1.html",
+      "https://chesshistory.com/winter/extra/greco.html",
+      "https://www.newinchess.com/art-of-attack-in-chess",
+      "https://www.chess.com/article/view/the-classic-bishop-sacrifice-part-one",
+      "https://www.chess.com/article/view/the-classic-bishop-sacrifice-part-three",
+      "https://exeterchessclub.org.uk/node/757"
+    ]
+  },
+  {
     "id": "kt:gukesh-dommaraju",
     "title": "Gukesh Dommaraju",
     "aliases": [

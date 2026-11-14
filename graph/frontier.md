@@ -15,6 +15,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search`, `kt:progressive-deepening` |
 | `kt:javokhir-sindarov` | `kt:candidates-tournament`, `kt:fide-world-cup`, `kt:gukesh-dommaraju` |
 | `kt:johannes-zukertort` | `kt:world-chess-championship-1886`, `kt:adolf-anderssen`, `kt:wilhelm-steinitz` |
+| `kt:king-safety` | `kt:weak-squares`, `kt:castling`, `kt:greek-gift-sacrifice` |
 | `kt:kings-gambit` | `kt:immortal-game`, `kt:evans-gambit`, `kt:open-games` |
 | `kt:magnus-carlsen` | `kt:fide-world-cup`, `kt:fide-world-cup`, `kt:gukesh-dommaraju` |
 | `kt:mikhail-chigorin` | `kt:hastings-1895`, `kt:evans-gambit`, `kt:wilhelm-steinitz` |
@@ -35,7 +36,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:howard-staunton` | `kt:london-1851`, `kt:london-1851` |
 | `kt:ju-wenjun` | `kt:womens-world-chess-championship`, `kt:womens-world-chess-championship` |
 | `kt:karpov-versus-unzicker-nice-1974` | `kt:prophylaxis`, `kt:anatoly-karpov` |
-| `kt:king-safety` | `kt:weak-squares`, `kt:castling` |
 | `kt:lionel-kieseritzky` | `kt:immortal-game`, `kt:london-1851` |
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position`, `kt:smothered-mate` |
 | `kt:max-euwe` | `kt:slav-defence`, `kt:alexander-alekhine` |
@@ -83,6 +83,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
 | `kt:chrest` | `kt:template-theory` |
 | `kt:cognitive-science` | `kt:cognitive-psychology-of-chess` |
+| `kt:colle-versus-ohanlon-nice-1930` | `kt:greek-gift-sacrifice` |
 | `kt:counting-in-pawn-races` | `kt:rule-of-the-square` |
 | `kt:crazyhouse` | `kt:bughouse` |
 | `kt:david-forsyth` | `kt:forsyth-edwards-notation` |
@@ -106,6 +107,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:frank-marshall` | `kt:us-chess-championship` |
 | `kt:game-of-the-century` | `kt:bobby-fischer` |
 | `kt:georges-barbier` | `kt:saavedra-position` |
+| `kt:gioachino-greco` | `kt:greek-gift-sacrifice` |
 | `kt:giuoco-pianissimo` | `kt:italian-game` |
 | `kt:glicko-rating-system` | `kt:elo-rating-system` |
 | `kt:good-knight-versus-bad-bishop` | `kt:outpost` |

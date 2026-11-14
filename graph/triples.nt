@@ -2190,6 +2190,37 @@
 <https://github.com/john1hsu/chess-graph/id/grandmaster-title> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/fide> .
 <https://github.com/john1hsu/chess-graph/id/grandmaster-title> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/grandmaster-title> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/greek-gift-sacrifice> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/greek-gift-sacrifice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TacticalMotif> .
+<https://github.com/john1hsu/chess-graph/id/greek-gift-sacrifice> <http://www.w3.org/2000/01/rdf-schema#label> "Greek gift sacrifice" .
+<https://github.com/john1hsu/chess-graph/id/greek-gift-sacrifice> <http://www.w3.org/2004/02/skos/core#altLabel> "Bishop sacrifice on h7" .
+<https://github.com/john1hsu/chess-graph/id/greek-gift-sacrifice> <http://www.w3.org/2004/02/skos/core#altLabel> "Bxh7+ sacrifice" .
+<https://github.com/john1hsu/chess-graph/id/greek-gift-sacrifice> <http://www.w3.org/2004/02/skos/core#altLabel> "Classic bishop sacrifice" .
+<https://github.com/john1hsu/chess-graph/id/greek-gift-sacrifice> <http://www.w3.org/2004/02/skos/core#altLabel> "Classical bishop sacrifice" .
+<https://github.com/john1hsu/chess-graph/id/greek-gift-sacrifice> <http://www.w3.org/2004/02/skos/core#altLabel> "Greek Gift sacrifice" .
+<https://github.com/john1hsu/chess-graph/id/greek-gift-sacrifice> <http://www.w3.org/2004/02/skos/core#altLabel> "Greek gift" .
+<https://github.com/john1hsu/chess-graph/id/greek-gift-sacrifice> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-tactics> .
+<https://github.com/john1hsu/chess-graph/id/greek-gift-sacrifice> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/sacrifice> .
+<https://github.com/john1hsu/chess-graph/id/greek-gift-sacrifice> <http://www.w3.org/2004/02/skos/core#definition> "The sacrifice of a bishop on h7 (or h2 for Black) with check against a king castled short, usually followed by a knight check from g5 and a queen arriving on the h-file to threaten mate on h7." .
+<https://github.com/john1hsu/chess-graph/id/greek-gift-sacrifice> <http://www.w3.org/2004/02/skos/core#prefLabel> "Greek gift sacrifice" .
+<https://github.com/john1hsu/chess-graph/id/greek-gift-sacrifice> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/checkmate> .
+<https://github.com/john1hsu/chess-graph/id/greek-gift-sacrifice> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/combination> .
+<https://github.com/john1hsu/chess-graph/id/greek-gift-sacrifice> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/french-defence> .
+<https://github.com/john1hsu/chess-graph/id/greek-gift-sacrifice> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/king-safety> .
+<https://github.com/john1hsu/chess-graph/id/greek-gift-sacrifice> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s1> .
+<https://github.com/john1hsu/chess-graph/id/greek-gift-sacrifice> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s2> .
+<https://github.com/john1hsu/chess-graph/id/greek-gift-sacrifice> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s3> .
+<https://github.com/john1hsu/chess-graph/id/greek-gift-sacrifice> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s4> .
+<https://github.com/john1hsu/chess-graph/id/greek-gift-sacrifice> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s5> .
+<https://github.com/john1hsu/chess-graph/id/greek-gift-sacrifice> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s6> .
+<https://github.com/john1hsu/chess-graph/id/greek-gift-sacrifice> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s7> .
+<https://github.com/john1hsu/chess-graph/id/greek-gift-sacrifice> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/gioachino-greco> .
+<https://github.com/john1hsu/chess-graph/id/greek-gift-sacrifice> <https://github.com/john1hsu/chess-graph/ontology#domain> "tactics" .
+<https://github.com/john1hsu/chess-graph/id/greek-gift-sacrifice> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/colle-versus-ohanlon-nice-1930> .
+<https://github.com/john1hsu/chess-graph/id/greek-gift-sacrifice> <https://github.com/john1hsu/chess-graph/ontology#fen> "r1bq1rk1/ppppbppp/2n1p3/3nP3/3P3P/3B1N2/PPP2PP1/RNBQK2R w KQ - 1 7" .
+<https://github.com/john1hsu/chess-graph/id/greek-gift-sacrifice> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/greek-gift-sacrifice> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/decoy> .
+<https://github.com/john1hsu/chess-graph/id/greek-gift-sacrifice> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-14" .
 <https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
 <https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <http://www.w3.org/2000/01/rdf-schema#label> "Gukesh Dommaraju" .
@@ -6013,6 +6044,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s6> <https://schema.org/url> "https://www.mieses.info/en/fide-grandmaster-1950.html" .
+<https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s1> <http://purl.org/dc/terms/publisher> "Ward Farnsworth, chesstactics.org" .
+<https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s1> <http://purl.org/dc/terms/title> "The Greek Gift (generally), Figures 6.2.12.1, 6.2.12.2 and 6.2.12.5 (Predator at the Chessboard)" .
+<https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s1> <https://schema.org/url> "https://www.chesstactics.org/mating-patterns/other-classic-mating-ideas/the-greek-gift_generally/6_2_12_1.html" .
+<https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s2> <http://purl.org/dc/terms/publisher> "Ward Farnsworth, chesstactics.org" .
+<https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s2> <http://purl.org/dc/terms/title> "The Greek Gift: The King Goes to g6, Figure 6.2.13.1 (Predator at the Chessboard)" .
+<https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s2> <https://schema.org/url> "https://www.chesstactics.org/mating-patterns/other-classic-mating-ideas/the-greek-gift_the-king-goes-to-g6/6_2_13_1.html" .
+<https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s3> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes" .
+<https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s3> <http://purl.org/dc/terms/title> "Gioachino Greco" .
+<https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s3> <https://schema.org/url> "https://chesshistory.com/winter/extra/greco.html" .
+<https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s4> <http://purl.org/dc/terms/publisher> "New In Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s4> <http://purl.org/dc/terms/title> "Art of Attack in Chess (Vladimir Vukovic, Everyman Chess) — publisher's description" .
+<https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s4> <https://schema.org/url> "https://www.newinchess.com/art-of-attack-in-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s5> <http://purl.org/dc/terms/publisher> "IM Jeremy Silman, Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s5> <http://purl.org/dc/terms/title> "The Classic Bishop Sacrifice - Part One" .
+<https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s5> <https://schema.org/url> "https://www.chess.com/article/view/the-classic-bishop-sacrifice-part-one" .
+<https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s6> <http://purl.org/dc/terms/publisher> "IM Jeremy Silman, Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s6> <http://purl.org/dc/terms/title> "The Classic Bishop Sacrifice - Part Three" .
+<https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s6> <https://schema.org/url> "https://www.chess.com/article/view/the-classic-bishop-sacrifice-part-three" .
+<https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s7> <http://purl.org/dc/terms/publisher> "Exeter Chess Club" .
+<https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s7> <http://purl.org/dc/terms/title> "The Greek Gift (club training article, games annotated by Dave Regis)" .
+<https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s7> <https://schema.org/url> "https://exeterchessclub.org.uk/node/757" .
 <https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s1> <http://purl.org/dc/terms/title> "Gukesh Dommaraju" .
 <https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

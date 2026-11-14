@@ -11389,6 +11389,108 @@
       ]
     },
     {
+      "@id": "kt:greek-gift-sacrifice",
+      "@type": "kto:TacticalMotif",
+      "skos:prefLabel": "Greek gift sacrifice",
+      "skos:definition": "The sacrifice of a bishop on h7 (or h2 for Black) with check against a king castled short, usually followed by a knight check from g5 and a queen arriving on the h-file to threaten mate on h7.",
+      "kto:domain": "tactics",
+      "dcterms:created": "2026-11-14",
+      "kto:verified": "2026-11-14",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Greek Gift (generally), Figures 6.2.12.1, 6.2.12.2 and 6.2.12.5 (Predator at the Chessboard)",
+          "dcterms:publisher": "Ward Farnsworth, chesstactics.org",
+          "schema:url": "https://www.chesstactics.org/mating-patterns/other-classic-mating-ideas/the-greek-gift_generally/6_2_12_1.html",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The Greek Gift: The King Goes to g6, Figure 6.2.13.1 (Predator at the Chessboard)",
+          "dcterms:publisher": "Ward Farnsworth, chesstactics.org",
+          "schema:url": "https://www.chesstactics.org/mating-patterns/other-classic-mating-ideas/the-greek-gift_the-king-goes-to-g6/6_2_13_1.html",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Gioachino Greco",
+          "dcterms:publisher": "Edward Winter, Chess Notes",
+          "schema:url": "https://chesshistory.com/winter/extra/greco.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Art of Attack in Chess (Vladimir Vukovic, Everyman Chess) — publisher's description",
+          "dcterms:publisher": "New In Chess",
+          "schema:url": "https://www.newinchess.com/art-of-attack-in-chess",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The Classic Bishop Sacrifice - Part One",
+          "dcterms:publisher": "IM Jeremy Silman, Chess.com",
+          "schema:url": "https://www.chess.com/article/view/the-classic-bishop-sacrifice-part-one",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The Classic Bishop Sacrifice - Part Three",
+          "dcterms:publisher": "IM Jeremy Silman, Chess.com",
+          "schema:url": "https://www.chess.com/article/view/the-classic-bishop-sacrifice-part-three",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The Greek Gift (club training article, games annotated by Dave Regis)",
+          "dcterms:publisher": "Exeter Chess Club",
+          "schema:url": "https://exeterchessclub.org.uk/node/757",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/tactics/greek-gift-sacrifice.md",
+      "skos:altLabel": [
+        "Greek gift",
+        "Greek Gift sacrifice",
+        "Classic bishop sacrifice",
+        "Classical bishop sacrifice",
+        "Bxh7+ sacrifice",
+        "Bishop sacrifice on h7"
+      ],
+      "kto:fen": "r1bq1rk1/ppppbppp/2n1p3/3nP3/3P3P/3B1N2/PPP2PP1/RNBQK2R w KQ - 1 7",
+      "skos:broader": [
+        {
+          "@id": "kt:sacrifice"
+        },
+        {
+          "@id": "kt:chess-tactics"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:combination"
+        },
+        {
+          "@id": "kt:checkmate"
+        },
+        {
+          "@id": "kt:french-defence"
+        },
+        {
+          "@id": "kt:king-safety"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:gioachino-greco"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:colle-versus-ohanlon-nice-1930"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:decoy"
+        }
+      ]
+    },
+    {
       "@id": "kt:pin",
       "@type": "kto:TacticalMotif",
       "skos:prefLabel": "Pin",
