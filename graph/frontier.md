@@ -16,7 +16,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:king-safety` | `kt:weak-squares`, `kt:castling`, `kt:greek-gift-sacrifice` |
 | `kt:magnus-carlsen` | `kt:fide-world-cup`, `kt:fide-world-cup`, `kt:gukesh-dommaraju` |
 | `kt:mikhail-chigorin` | `kt:hastings-1895`, `kt:evans-gambit`, `kt:wilhelm-steinitz` |
-| `kt:portable-game-notation` | `kt:algebraic-notation`, `kt:forsyth-edwards-notation`, `kt:forsyth-edwards-notation` |
 | `kt:talent` | `kt:chess-expertise`, `kt:deliberate-practice`, `kt:starting-age` |
 | `kt:underpromotion` | `kt:pawn-promotion`, `kt:excelsior`, `kt:saavedra-position` |
 | `kt:vladimir-kramnik` | `kt:alphazero`, `kt:ruy-lopez`, `kt:garry-kasparov` |
@@ -29,6 +28,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chess-openings` | `kt:open-games`, `kt:semi-open-games` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
 | `kt:dragon-variation` | `kt:najdorf-variation`, `kt:sicilian-defence` |
+| `kt:extended-position-description` | `kt:forsyth-edwards-notation`, `kt:portable-game-notation` |
 | `kt:gambit` | `kt:evans-gambit`, `kt:sacrifice` |
 | `kt:howard-staunton` | `kt:london-1851`, `kt:london-1851` |
 | `kt:ju-wenjun` | `kt:womens-world-chess-championship`, `kt:womens-world-chess-championship` |
@@ -49,6 +49,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:simplification` | `kt:material-advantage`, `kt:material-advantage` |
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
 | `kt:steinitz-von-bardeleben-hastings-1895` | `kt:hastings-1895`, `kt:wilhelm-steinitz` |
+| `kt:steven-j-edwards` | `kt:forsyth-edwards-notation`, `kt:portable-game-notation` |
 | `kt:sveshnikov-variation` | `kt:outpost`, `kt:sicilian-defence` |
 | `kt:tie-break` | `kt:chess-tournament`, `kt:us-chess-championship` |
 | `kt:top-chess-engine-championship` | `kt:leela-chess-zero`, `kt:stockfish` |
@@ -89,7 +90,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:english-attack` | `kt:najdorf-variation` |
 | `kt:european-chess-union` | `kt:fide` |
 | `kt:exchange-sacrifice` | `kt:sacrifice` |
-| `kt:extended-position-description` | `kt:forsyth-edwards-notation` |
 | `kt:fernando-saavedra` | `kt:saavedra-position` |
 | `kt:fide-ethics-and-disciplinary-code` | `kt:fair-play-regulations` |
 | `kt:fide-handbook` | `kt:fair-play-regulations` |
@@ -152,6 +152,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:modena-school` | `kt:romantic-era` |
 | `kt:move-generation` | `kt:bitboards` |
 | `kt:negamax` | `kt:minimax` |
+| `kt:numeric-annotation-glyphs` | `kt:portable-game-notation` |
 | `kt:open-ruy-lopez` | `kt:ruy-lopez` |
 | `kt:opening-repertoire` | `kt:template-theory` |
 | `kt:otto-selz` | `kt:adriaan-de-groot` |
@@ -202,7 +203,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:st-petersburg-1895-96` | `kt:hastings-1895` |
 | `kt:static-exchange-evaluation` | `kt:quiescence-search` |
 | `kt:stefan-meyer-kahlen` | `kt:universal-chess-interface` |
-| `kt:steven-j-edwards` | `kt:forsyth-edwards-notation` |
 | `kt:swiss-system` | `kt:chess-tournament` |
 | `kt:swiss-system-tournament` | `kt:chess-olympiad` |
 | `kt:tarrasch-defence` | `kt:isolated-queens-pawn` |

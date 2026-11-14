@@ -3321,6 +3321,33 @@
 <https://github.com/john1hsu/chess-graph/id/pin> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> .
 <https://github.com/john1hsu/chess-graph/id/pin> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/pin> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/portable-game-notation> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/portable-game-notation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Notation> .
+<https://github.com/john1hsu/chess-graph/id/portable-game-notation> <http://www.w3.org/2000/01/rdf-schema#label> "Portable Game Notation" .
+<https://github.com/john1hsu/chess-graph/id/portable-game-notation> <http://www.w3.org/2004/02/skos/core#altLabel> "PGN format" .
+<https://github.com/john1hsu/chess-graph/id/portable-game-notation> <http://www.w3.org/2004/02/skos/core#altLabel> "PGN standard" .
+<https://github.com/john1hsu/chess-graph/id/portable-game-notation> <http://www.w3.org/2004/02/skos/core#altLabel> "PGN" .
+<https://github.com/john1hsu/chess-graph/id/portable-game-notation> <http://www.w3.org/2004/02/skos/core#altLabel> "Portable Game Notation standard" .
+<https://github.com/john1hsu/chess-graph/id/portable-game-notation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/algebraic-notation> .
+<https://github.com/john1hsu/chess-graph/id/portable-game-notation> <http://www.w3.org/2004/02/skos/core#definition> "A plain-text format for recording and exchanging chess games, consisting of bracketed tag pairs (led by the Seven Tag Roster) followed by movetext in Standard Algebraic Notation; it was defined in a 1994 standard coordinated by Steven J. Edwards and is the common interchange format of chess software, databases and broadcasts." .
+<https://github.com/john1hsu/chess-graph/id/portable-game-notation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Portable Game Notation" .
+<https://github.com/john1hsu/chess-graph/id/portable-game-notation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-titles> .
+<https://github.com/john1hsu/chess-graph/id/portable-game-notation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/computer-chess> .
+<https://github.com/john1hsu/chess-graph/id/portable-game-notation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/extended-position-description> .
+<https://github.com/john1hsu/chess-graph/id/portable-game-notation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> .
+<https://github.com/john1hsu/chess-graph/id/portable-game-notation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/numeric-annotation-glyphs> .
+<https://github.com/john1hsu/chess-graph/id/portable-game-notation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/universal-chess-interface> .
+<https://github.com/john1hsu/chess-graph/id/portable-game-notation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/portable-game-notation/s1> .
+<https://github.com/john1hsu/chess-graph/id/portable-game-notation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/portable-game-notation/s2> .
+<https://github.com/john1hsu/chess-graph/id/portable-game-notation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/portable-game-notation/s3> .
+<https://github.com/john1hsu/chess-graph/id/portable-game-notation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/portable-game-notation/s4> .
+<https://github.com/john1hsu/chess-graph/id/portable-game-notation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/portable-game-notation/s5> .
+<https://github.com/john1hsu/chess-graph/id/portable-game-notation> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/algebraic-notation> .
+<https://github.com/john1hsu/chess-graph/id/portable-game-notation> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/steven-j-edwards> .
+<https://github.com/john1hsu/chess-graph/id/portable-game-notation> <https://github.com/john1hsu/chess-graph/ontology#domain> "rules-and-notation" .
+<https://github.com/john1hsu/chess-graph/id/portable-game-notation> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> .
+<https://github.com/john1hsu/chess-graph/id/portable-game-notation> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/portable-game-notation> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-14" .
 <https://github.com/john1hsu/chess-graph/id/progressive-deepening> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/chess-graph/id/progressive-deepening> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#CognitiveConcept> .
 <https://github.com/john1hsu/chess-graph/id/progressive-deepening> <http://www.w3.org/2000/01/rdf-schema#label> "Progressive deepening" .
@@ -7348,6 +7375,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/pin/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/pin/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/pin/s5> <https://schema.org/url> "https://www.chess.com/terms/pin-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/portable-game-notation/s1> <http://purl.org/dc/terms/publisher> "Steven J. Edwards (coordinator), rec.games.chess; copy distributed with Apple's Chess application" .
+<https://github.com/john1hsu/chess-graph/id/source/portable-game-notation/s1> <http://purl.org/dc/terms/title> "Standard: Portable Game Notation Specification and Implementation Guide (revised 1994-03-12)" .
+<https://github.com/john1hsu/chess-graph/id/source/portable-game-notation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/portable-game-notation/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/portable-game-notation/s1> <https://schema.org/url> "https://opensource.apple.com/source/Chess/Chess-105.0.14/Documentation/PGN-Standard.txt.auto.html" .
+<https://github.com/john1hsu/chess-graph/id/source/portable-game-notation/s2> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
+<https://github.com/john1hsu/chess-graph/id/source/portable-game-notation/s2> <http://purl.org/dc/terms/title> "FIDE Title Regulations effective from 1 January 2024, article 1.9 (Submission of Reports on Title Tournaments)" .
+<https://github.com/john1hsu/chess-graph/id/source/portable-game-notation/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/portable-game-notation/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/portable-game-notation/s2> <https://schema.org/url> "https://handbook.fide.com/chapter/B012024" .
+<https://github.com/john1hsu/chess-graph/id/source/portable-game-notation/s3> <http://purl.org/dc/terms/publisher> "Alan Cowderoy, Ben Bulsink, Andrew Templeton, Eric Bentzen, Mathias Feist and Victor Zakharov; copy distributed with pgn4web" .
+<https://github.com/john1hsu/chess-graph/id/source/portable-game-notation/s3> <http://purl.org/dc/terms/title> "PGN Standard: Proposed Supplement (final draft, 8 September 2001)" .
+<https://github.com/john1hsu/chess-graph/id/source/portable-game-notation/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/portable-game-notation/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/portable-game-notation/s3> <https://schema.org/url> "https://codesearch.dokuwiki.org/xref/plugin/pgn4web/pgn4web/pgn-standard-proposed-supplement.txt" .
+<https://github.com/john1hsu/chess-graph/id/source/portable-game-notation/s4> <http://purl.org/dc/terms/publisher> "ChessBase" .
+<https://github.com/john1hsu/chess-graph/id/source/portable-game-notation/s4> <http://purl.org/dc/terms/title> "PGN (Fritz 19 help)" .
+<https://github.com/john1hsu/chess-graph/id/source/portable-game-notation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/portable-game-notation/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/portable-game-notation/s4> <https://schema.org/url> "https://help.chessbase.com/Fritz/19/Eng/000047.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/portable-game-notation/s5> <http://purl.org/dc/terms/publisher> "Wolfram Research" .
+<https://github.com/john1hsu/chess-graph/id/source/portable-game-notation/s5> <http://purl.org/dc/terms/title> "PGN (.pgn) — Wolfram Language import/export format reference" .
+<https://github.com/john1hsu/chess-graph/id/source/portable-game-notation/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/portable-game-notation/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/portable-game-notation/s5> <https://schema.org/url> "https://reference.wolfram.com/language/ref/format/PGN.html" .
 <https://github.com/john1hsu/chess-graph/id/source/progressive-deepening/s1> <http://purl.org/dc/terms/publisher> "Fernand Gobet and Jochen Musch, Brunel University Research Archive" .
 <https://github.com/john1hsu/chess-graph/id/source/progressive-deepening/s1> <http://purl.org/dc/terms/title> "Adriaan Dingeman de Groot (1914–2006) — obituary, Psychologische Rundschau" .
 <https://github.com/john1hsu/chess-graph/id/source/progressive-deepening/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

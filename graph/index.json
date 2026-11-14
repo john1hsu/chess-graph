@@ -2968,6 +2968,30 @@
     ]
   },
   {
+    "id": "kt:portable-game-notation",
+    "title": "Portable Game Notation",
+    "aliases": [
+      "PGN",
+      "PGN format",
+      "PGN standard",
+      "Portable Game Notation standard"
+    ],
+    "type": "Notation",
+    "domain": "rules-and-notation",
+    "file": "articles/rules-and-notation/portable-game-notation.md",
+    "created": "2026-11-14",
+    "verified": "2026-11-14",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://opensource.apple.com/source/Chess/Chess-105.0.14/Documentation/PGN-Standard.txt.auto.html",
+      "https://handbook.fide.com/chapter/B012024",
+      "https://codesearch.dokuwiki.org/xref/plugin/pgn4web/pgn4web/pgn-standard-proposed-supplement.txt",
+      "https://help.chessbase.com/Fritz/19/Eng/000047.htm",
+      "https://reference.wolfram.com/language/ref/format/PGN.html"
+    ]
+  },
+  {
     "id": "kt:progressive-deepening",
     "title": "Progressive deepening",
     "aliases": [
