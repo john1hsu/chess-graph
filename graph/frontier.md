@@ -8,6 +8,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chess-openings` | `kt:opening-book`, `kt:closed-games`, `kt:open-games`, `kt:semi-open-games` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:herbert-simon` |
 | `kt:kings-gambit` | `kt:immortal-game`, `kt:evans-gambit`, `kt:open-games`, `kt:boris-spassky` |
+| `kt:blitz-chess` | `kt:magnus-carlsen`, `kt:fischer-increment`, `kt:bughouse` |
 | `kt:dragon-variation` | `kt:backward-pawn`, `kt:najdorf-variation`, `kt:sicilian-defence` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search`, `kt:progressive-deepening` |
 | `kt:javokhir-sindarov` | `kt:candidates-tournament`, `kt:fide-world-cup`, `kt:gukesh-dommaraju` |
@@ -25,8 +26,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alekhines-gun` | `kt:open-file`, `kt:alexander-alekhine` |
 | `kt:alexander-kotov` | `kt:calculation`, `kt:candidate-moves` |
 | `kt:berlin-defence` | `kt:alphazero`, `kt:ruy-lopez` |
-| `kt:blitz-chess` | `kt:magnus-carlsen`, `kt:bughouse` |
 | `kt:botvinnik-versus-capablanca-avro-1938` | `kt:soviet-chess-school`, `kt:mikhail-botvinnik` |
+| `kt:bronstein-delay` | `kt:fischer-increment`, `kt:fischer-increment` |
 | `kt:carlsen-versus-anand-sochi-2014-game-6` | `kt:magnus-carlsen`, `kt:zwischenzug` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
 | `kt:european-chess-union` | `kt:chess-organizations`, `kt:fide` |
@@ -70,6 +71,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:carlsbad-1923` | `kt:carlsbad-structure` |
 | `kt:carlsbad-1929` | `kt:aron-nimzowitsch` |
 | `kt:catalan-opening` | `kt:closed-games` |
+| `kt:chess-clock` | `kt:fischer-increment` |
 | `kt:chess-engine-communication-protocol` | `kt:universal-chess-interface` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
 | `kt:chrest` | `kt:template-theory` |
@@ -92,6 +94,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fide-title-regulations` | `kt:grandmaster-title` |
 | `kt:fide-world-fischer-random-chess-championship` | `kt:chess960` |
 | `kt:fischer-spassky-1972-game-6` | `kt:hanging-pawns` |
+| `kt:fischer-spassky-1992` | `kt:fischer-increment` |
 | `kt:four-handed-chaturanga` | `kt:chaturanga` |
 | `kt:four-pawns-attack` | `kt:alekhines-defence` |
 | `kt:francois-antoine-de-legal` | `kt:francois-andre-danican-philidor` |
@@ -168,6 +171,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:proof-game` | `kt:retrograde-analysis` |
 | `kt:proof-number-search` | `kt:game-tree-search` |
 | `kt:puzzle-training` | `kt:deliberate-practice` |
+| `kt:rapid-chess` | `kt:fischer-increment` |
 | `kt:reflexmate` | `kt:selfmate` |
 | `kt:reinforcement-learning` | `kt:alphazero` |
 | `kt:remi-coulom` | `kt:monte-carlo-tree-search` |
@@ -209,6 +213,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:tempo` | `kt:rule-of-the-square` |
 | `kt:the-exchange` | `kt:material-advantage` |
 | `kt:tie-break-regulations` | `kt:chess-olympiad` |
+| `kt:time-management-in-games` | `kt:fischer-increment` |
 | `kt:tord-romstad` | `kt:stockfish` |
 | `kt:two-knights-defence` | `kt:italian-game` |
 | `kt:us-womens-chess-championship` | `kt:us-chess-championship` |

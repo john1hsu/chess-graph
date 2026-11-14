@@ -1902,6 +1902,33 @@
     ]
   },
   {
+    "id": "kt:fischer-increment",
+    "title": "Fischer increment",
+    "aliases": [
+      "Fischer clock",
+      "Fischer mode",
+      "Fischer bonus",
+      "Increment",
+      "Time increment",
+      "Increment time control",
+      "Cumulative time control"
+    ],
+    "type": "TimeControl",
+    "domain": "rules-and-notation",
+    "file": "articles/rules-and-notation/fischer-increment.md",
+    "created": "2026-11-14",
+    "verified": "2026-11-14",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://rcc.fide.com/fide-laws-of-chess_fulltexthtml/",
+      "https://handbook.fide.com/chapter/ChessEquipmentWithElectronicComponenets032026",
+      "https://arbiters.fide.com/wp-content/uploads/Publications/Manual/Arbiters_Manual_2024.pdf",
+      "https://new.uschess.org/sites/default/files/media/documents/us-chess-rule-book-online-only-edition-chp-1-8-21-20.pdf",
+      "https://www.britannica.com/topic/chess/The-time-element-and-competition"
+    ]
+  },
+  {
     "id": "kt:fischer-spassky-1972",
     "title": "Fischer–Spassky 1972",
     "aliases": [

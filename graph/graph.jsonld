@@ -11557,6 +11557,110 @@
       ]
     },
     {
+      "@id": "kt:fischer-increment",
+      "@type": "kto:TimeControl",
+      "skos:prefLabel": "Fischer increment",
+      "skos:definition": "A way of running a chess clock in which a fixed amount of time, typically a few seconds to a minute, is added to a player's clock for every move, including before the first move; patented by Bobby Fischer in 1988 and built into the FIDE Laws of Chess and the US Chess rules.",
+      "kto:domain": "rules-and-notation",
+      "dcterms:created": "2026-11-14",
+      "kto:verified": "2026-11-14",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "FIDE Laws of Chess (full text, applied from 1 January 2023)",
+          "dcterms:publisher": "FIDE Rules Commission",
+          "schema:url": "https://rcc.fide.com/fide-laws-of-chess_fulltexthtml/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "03. Chess Equipment with Electronic Components (effective from 1 March 2026)",
+          "dcterms:publisher": "FIDE Handbook",
+          "schema:url": "https://handbook.fide.com/chapter/ChessEquipmentWithElectronicComponenets032026",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Arbiters' Manual 2024",
+          "dcterms:publisher": "FIDE Arbiters' Commission",
+          "schema:url": "https://arbiters.fide.com/wp-content/uploads/Publications/Manual/Arbiters_Manual_2024.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "US Chess Federation's Official Rules of Chess, 7th edition (online edition, chapters 1–8)",
+          "dcterms:publisher": "US Chess",
+          "schema:url": "https://new.uschess.org/sites/default/files/media/documents/us-chess-rule-book-online-only-edition-chp-1-8-21-20.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Chess: The time element and competition",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/chess/The-time-element-and-competition",
+          "kto:sourceType": "reference"
+        }
+      ],
+      "kto:file": "articles/rules-and-notation/fischer-increment.md",
+      "skos:altLabel": [
+        "Fischer clock",
+        "Fischer mode",
+        "Fischer bonus",
+        "Increment",
+        "Time increment",
+        "Increment time control",
+        "Cumulative time control"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess-clock"
+        },
+        {
+          "@id": "kt:fide-laws-of-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:bronstein-delay"
+        },
+        {
+          "@id": "kt:blitz-chess"
+        },
+        {
+          "@id": "kt:rapid-chess"
+        },
+        {
+          "@id": "kt:time-management-in-games"
+        },
+        {
+          "@id": "kt:arbiter"
+        },
+        {
+          "@id": "kt:us-chess"
+        },
+        {
+          "@id": "kt:fischer-spassky-1992"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:bobby-fischer"
+        }
+      ],
+      "kto:namedAfter": [
+        {
+          "@id": "kt:bobby-fischer"
+        }
+      ],
+      "kto:governedBy": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:bronstein-delay"
+        }
+      ]
+    },
+    {
       "@id": "kt:forsyth-edwards-notation",
       "@type": "kto:Notation",
       "skos:prefLabel": "Forsyth–Edwards Notation",

@@ -2136,6 +2136,39 @@
 <https://github.com/john1hsu/chess-graph/id/fifty-move-rule> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
 <https://github.com/john1hsu/chess-graph/id/fifty-move-rule> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/fifty-move-rule> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/fischer-increment> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/fischer-increment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TimeControl> .
+<https://github.com/john1hsu/chess-graph/id/fischer-increment> <http://www.w3.org/2000/01/rdf-schema#label> "Fischer increment" .
+<https://github.com/john1hsu/chess-graph/id/fischer-increment> <http://www.w3.org/2004/02/skos/core#altLabel> "Cumulative time control" .
+<https://github.com/john1hsu/chess-graph/id/fischer-increment> <http://www.w3.org/2004/02/skos/core#altLabel> "Fischer bonus" .
+<https://github.com/john1hsu/chess-graph/id/fischer-increment> <http://www.w3.org/2004/02/skos/core#altLabel> "Fischer clock" .
+<https://github.com/john1hsu/chess-graph/id/fischer-increment> <http://www.w3.org/2004/02/skos/core#altLabel> "Fischer mode" .
+<https://github.com/john1hsu/chess-graph/id/fischer-increment> <http://www.w3.org/2004/02/skos/core#altLabel> "Increment time control" .
+<https://github.com/john1hsu/chess-graph/id/fischer-increment> <http://www.w3.org/2004/02/skos/core#altLabel> "Increment" .
+<https://github.com/john1hsu/chess-graph/id/fischer-increment> <http://www.w3.org/2004/02/skos/core#altLabel> "Time increment" .
+<https://github.com/john1hsu/chess-graph/id/fischer-increment> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-clock> .
+<https://github.com/john1hsu/chess-graph/id/fischer-increment> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/fischer-increment> <http://www.w3.org/2004/02/skos/core#definition> "A way of running a chess clock in which a fixed amount of time, typically a few seconds to a minute, is added to a player's clock for every move, including before the first move; patented by Bobby Fischer in 1988 and built into the FIDE Laws of Chess and the US Chess rules." .
+<https://github.com/john1hsu/chess-graph/id/fischer-increment> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fischer increment" .
+<https://github.com/john1hsu/chess-graph/id/fischer-increment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/arbiter> .
+<https://github.com/john1hsu/chess-graph/id/fischer-increment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/blitz-chess> .
+<https://github.com/john1hsu/chess-graph/id/fischer-increment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/bronstein-delay> .
+<https://github.com/john1hsu/chess-graph/id/fischer-increment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fischer-spassky-1992> .
+<https://github.com/john1hsu/chess-graph/id/fischer-increment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/rapid-chess> .
+<https://github.com/john1hsu/chess-graph/id/fischer-increment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/time-management-in-games> .
+<https://github.com/john1hsu/chess-graph/id/fischer-increment> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/us-chess> .
+<https://github.com/john1hsu/chess-graph/id/fischer-increment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fischer-increment/s1> .
+<https://github.com/john1hsu/chess-graph/id/fischer-increment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fischer-increment/s2> .
+<https://github.com/john1hsu/chess-graph/id/fischer-increment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fischer-increment/s3> .
+<https://github.com/john1hsu/chess-graph/id/fischer-increment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fischer-increment/s4> .
+<https://github.com/john1hsu/chess-graph/id/fischer-increment> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/fischer-increment/s5> .
+<https://github.com/john1hsu/chess-graph/id/fischer-increment> <https://github.com/john1hsu/chess-graph/ontology#alternativeTo> <https://github.com/john1hsu/chess-graph/id/bronstein-delay> .
+<https://github.com/john1hsu/chess-graph/id/fischer-increment> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/bobby-fischer> .
+<https://github.com/john1hsu/chess-graph/id/fischer-increment> <https://github.com/john1hsu/chess-graph/ontology#domain> "rules-and-notation" .
+<https://github.com/john1hsu/chess-graph/id/fischer-increment> <https://github.com/john1hsu/chess-graph/ontology#governedBy> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/fischer-increment> <https://github.com/john1hsu/chess-graph/ontology#namedAfter> <https://github.com/john1hsu/chess-graph/id/bobby-fischer> .
+<https://github.com/john1hsu/chess-graph/id/fischer-increment> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/fischer-increment> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-14" .
 <https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Event> .
 <https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> <http://www.w3.org/2000/01/rdf-schema#label> "Fischer–Spassky 1972" .
@@ -6374,6 +6407,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
 <https://github.com/john1hsu/chess-graph/id/source/fifty-move-rule/s7> <https://schema.org/url> "https://rcc.fide.com/frequently-asked-questions/" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-increment/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-increment/s1> <http://purl.org/dc/terms/title> "FIDE Laws of Chess (full text, applied from 1 January 2023)" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-increment/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-increment/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-increment/s1> <https://schema.org/url> "https://rcc.fide.com/fide-laws-of-chess_fulltexthtml/" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-increment/s2> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-increment/s2> <http://purl.org/dc/terms/title> "03. Chess Equipment with Electronic Components (effective from 1 March 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-increment/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-increment/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-increment/s2> <https://schema.org/url> "https://handbook.fide.com/chapter/ChessEquipmentWithElectronicComponenets032026" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-increment/s3> <http://purl.org/dc/terms/publisher> "FIDE Arbiters' Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-increment/s3> <http://purl.org/dc/terms/title> "Arbiters' Manual 2024" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-increment/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-increment/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-increment/s3> <https://schema.org/url> "https://arbiters.fide.com/wp-content/uploads/Publications/Manual/Arbiters_Manual_2024.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-increment/s4> <http://purl.org/dc/terms/publisher> "US Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-increment/s4> <http://purl.org/dc/terms/title> "US Chess Federation's Official Rules of Chess, 7th edition (online edition, chapters 1–8)" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-increment/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-increment/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-increment/s4> <https://schema.org/url> "https://new.uschess.org/sites/default/files/media/documents/us-chess-rule-book-online-only-edition-chp-1-8-21-20.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-increment/s5> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-increment/s5> <http://purl.org/dc/terms/title> "Chess: The time element and competition" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-increment/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-increment/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/fischer-increment/s5> <https://schema.org/url> "https://www.britannica.com/topic/chess/The-time-element-and-competition" .
 <https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s1> <http://purl.org/dc/terms/publisher> "OlimpBase (Wojciech Bartelski)" .
 <https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s1> <http://purl.org/dc/terms/title> "FIDE World Chess Championship cycle 1969-1972: Match, Reykjavik 1972" .
 <https://github.com/john1hsu/chess-graph/id/source/fischer-spassky-1972/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
