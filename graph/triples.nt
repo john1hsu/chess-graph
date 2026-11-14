@@ -3633,6 +3633,34 @@
 <https://github.com/john1hsu/chess-graph/id/sacrifice> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/gambit> .
 <https://github.com/john1hsu/chess-graph/id/sacrifice> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/sacrifice> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/saint-louis-chess-club> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/saint-louis-chess-club> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Organization> .
+<https://github.com/john1hsu/chess-graph/id/saint-louis-chess-club> <http://www.w3.org/2000/01/rdf-schema#label> "Saint Louis Chess Club" .
+<https://github.com/john1hsu/chess-graph/id/saint-louis-chess-club> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess Club and Scholastic Center of Saint Louis" .
+<https://github.com/john1hsu/chess-graph/id/saint-louis-chess-club> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess Club and Scholastic Center of St. Louis" .
+<https://github.com/john1hsu/chess-graph/id/saint-louis-chess-club> <http://www.w3.org/2004/02/skos/core#altLabel> "STLCC" .
+<https://github.com/john1hsu/chess-graph/id/saint-louis-chess-club> <http://www.w3.org/2004/02/skos/core#altLabel> "Saint Louis Chess Campus" .
+<https://github.com/john1hsu/chess-graph/id/saint-louis-chess-club> <http://www.w3.org/2004/02/skos/core#altLabel> "St. Louis Chess Club" .
+<https://github.com/john1hsu/chess-graph/id/saint-louis-chess-club> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-organizations> .
+<https://github.com/john1hsu/chess-graph/id/saint-louis-chess-club> <http://www.w3.org/2004/02/skos/core#definition> "A non-profit chess club and scholastic centre in St. Louis, Missouri, opened in July 2008 with funding from Rex and Jeanne Sinquefield; it hosts the U.S. Championships, created the Sinquefield Cup and Cairns Cup, and helped launch the Grand Chess Tour." .
+<https://github.com/john1hsu/chess-graph/id/saint-louis-chess-club> <http://www.w3.org/2004/02/skos/core#prefLabel> "Saint Louis Chess Club" .
+<https://github.com/john1hsu/chess-graph/id/saint-louis-chess-club> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/garry-kasparov> .
+<https://github.com/john1hsu/chess-graph/id/saint-louis-chess-club> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/grand-chess-tour> .
+<https://github.com/john1hsu/chess-graph/id/saint-louis-chess-club> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/sinquefield-cup> .
+<https://github.com/john1hsu/chess-graph/id/saint-louis-chess-club> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/us-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/saint-louis-chess-club> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/us-chess> .
+<https://github.com/john1hsu/chess-graph/id/saint-louis-chess-club> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/world-chess-hall-of-fame> .
+<https://github.com/john1hsu/chess-graph/id/saint-louis-chess-club> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s1> .
+<https://github.com/john1hsu/chess-graph/id/saint-louis-chess-club> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s2> .
+<https://github.com/john1hsu/chess-graph/id/saint-louis-chess-club> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s3> .
+<https://github.com/john1hsu/chess-graph/id/saint-louis-chess-club> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s4> .
+<https://github.com/john1hsu/chess-graph/id/saint-louis-chess-club> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s5> .
+<https://github.com/john1hsu/chess-graph/id/saint-louis-chess-club> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s6> .
+<https://github.com/john1hsu/chess-graph/id/saint-louis-chess-club> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s7> .
+<https://github.com/john1hsu/chess-graph/id/saint-louis-chess-club> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s8> .
+<https://github.com/john1hsu/chess-graph/id/saint-louis-chess-club> <https://github.com/john1hsu/chess-graph/ontology#domain> "events-and-organizations" .
+<https://github.com/john1hsu/chess-graph/id/saint-louis-chess-club> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/saint-louis-chess-club> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-14" .
 <https://github.com/john1hsu/chess-graph/id/selfmate> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/chess-graph/id/selfmate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#ProblemGenre> .
 <https://github.com/john1hsu/chess-graph/id/selfmate> <http://www.w3.org/2000/01/rdf-schema#label> "Selfmate" .
@@ -7590,6 +7618,46 @@
 <https://github.com/john1hsu/chess-graph/id/source/sacrifice/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/sacrifice/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
 <https://github.com/john1hsu/chess-graph/id/source/sacrifice/s6> <https://schema.org/url> "https://www.chesshistory.com/winter/extra/combination.html" .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s1> <http://purl.org/dc/terms/publisher> "Robert W. Duffy, St. Louis Public Radio (St. Louis Beacon), 15 July 2008" .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s1> <http://purl.org/dc/terms/title> "Chess club makes bold move into West End quarters" .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s1> <https://schema.org/url> "https://stlpr.org/arts/2008-07-15/chess-club-makes-bold-move-into-west-end-quarters" .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s2> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s2> <http://purl.org/dc/terms/title> "The Sinquefield Effect: The Resurgence of American Chess (exhibition, 12 April 2018 – 24 February 2019)" .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s2> <https://schema.org/url> "https://worldchesshof.org/exhibit/sinquefield-effect-resurgence-american-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s3> <http://purl.org/dc/terms/publisher> "U.S. Government Publishing Office (govinfo.gov)" .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s3> <http://purl.org/dc/terms/title> "S. Res. 102 — Supporting the designation of Saint Louis as the National Chess Capital, Congressional Record vol. 160, no. 66, p. S2677 (5 May 2014)" .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s3> <https://schema.org/url> "https://www.govinfo.gov/content/pkg/CREC-2014-05-05/html/CREC-2014-05-05-pt1-PgS2677.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s4> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s4> <http://purl.org/dc/terms/title> "Rex Sinquefield (U.S. Chess Hall of Fame inductee, 2020)" .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s4> <https://schema.org/url> "https://worldchesshof.org/inductee/rex-sinquefield" .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s5> <http://purl.org/dc/terms/publisher> "Saint Louis Chess Club press release, Business Wire, 19 August 2025" .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s5> <http://purl.org/dc/terms/title> "Saint Louis Chess Club to Unveil New World Class Facility With a Month of Historic Events" .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s5> <https://schema.org/url> "https://www.businesswire.com/news/home/20250819248971/en/Saint-Louis-Chess-Club-to-Unveil-New-World-Class-Facility-With-a-Month-of-Historic-Events-Legendary-Matches-and-U.S.-U.S.-Womens-Championships" .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s6> <http://purl.org/dc/terms/publisher> "ChessBase Newsroom (Saint Louis Chess Club press release), 16 January 2026" .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s6> <http://purl.org/dc/terms/title> "Saint Louis Chess Club announces 2026 invitational tournament schedule" .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s6> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/saint-louis-chess-club-invitational-tournaments-2026?page=0" .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s7> <http://purl.org/dc/terms/publisher> "Sagar Shah, ChessBase Newsroom, 16 May 2026" .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s7> <http://purl.org/dc/terms/title> "The history of Grand Chess Tour by CEO Michael Khodarkovsky" .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s7> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/history-gct-michael-khodarkovsky" .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s8> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s8> <http://purl.org/dc/terms/title> "Saint Louis: The Chess Capital of America" .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s8> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s8> <https://schema.org/url> "https://worldchesshof.org/plan-your-visit/saint-louis-the-chess-capital-of-america/" .
 <https://github.com/john1hsu/chess-graph/id/source/selfmate/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/selfmate/s1> <http://purl.org/dc/terms/title> "Chess: Chess composition" .
 <https://github.com/john1hsu/chess-graph/id/source/selfmate/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

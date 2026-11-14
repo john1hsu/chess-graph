@@ -3649,6 +3649,100 @@
       ]
     },
     {
+      "@id": "kt:saint-louis-chess-club",
+      "@type": "kto:Organization",
+      "skos:prefLabel": "Saint Louis Chess Club",
+      "skos:definition": "A non-profit chess club and scholastic centre in St. Louis, Missouri, opened in July 2008 with funding from Rex and Jeanne Sinquefield; it hosts the U.S. Championships, created the Sinquefield Cup and Cairns Cup, and helped launch the Grand Chess Tour.",
+      "kto:domain": "events-and-organizations",
+      "dcterms:created": "2026-11-14",
+      "kto:verified": "2026-11-14",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Chess club makes bold move into West End quarters",
+          "dcterms:publisher": "Robert W. Duffy, St. Louis Public Radio (St. Louis Beacon), 15 July 2008",
+          "schema:url": "https://stlpr.org/arts/2008-07-15/chess-club-makes-bold-move-into-west-end-quarters",
+          "kto:sourceType": "news"
+        },
+        {
+          "dcterms:title": "The Sinquefield Effect: The Resurgence of American Chess (exhibition, 12 April 2018 – 24 February 2019)",
+          "dcterms:publisher": "World Chess Hall of Fame",
+          "schema:url": "https://worldchesshof.org/exhibit/sinquefield-effect-resurgence-american-chess",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "S. Res. 102 — Supporting the designation of Saint Louis as the National Chess Capital, Congressional Record vol. 160, no. 66, p. S2677 (5 May 2014)",
+          "dcterms:publisher": "U.S. Government Publishing Office (govinfo.gov)",
+          "schema:url": "https://www.govinfo.gov/content/pkg/CREC-2014-05-05/html/CREC-2014-05-05-pt1-PgS2677.htm",
+          "kto:sourceType": "primary-record"
+        },
+        {
+          "dcterms:title": "Rex Sinquefield (U.S. Chess Hall of Fame inductee, 2020)",
+          "dcterms:publisher": "World Chess Hall of Fame",
+          "schema:url": "https://worldchesshof.org/inductee/rex-sinquefield",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Saint Louis Chess Club to Unveil New World Class Facility With a Month of Historic Events",
+          "dcterms:publisher": "Saint Louis Chess Club press release, Business Wire, 19 August 2025",
+          "schema:url": "https://www.businesswire.com/news/home/20250819248971/en/Saint-Louis-Chess-Club-to-Unveil-New-World-Class-Facility-With-a-Month-of-Historic-Events-Legendary-Matches-and-U.S.-U.S.-Womens-Championships",
+          "kto:sourceType": "news"
+        },
+        {
+          "dcterms:title": "Saint Louis Chess Club announces 2026 invitational tournament schedule",
+          "dcterms:publisher": "ChessBase Newsroom (Saint Louis Chess Club press release), 16 January 2026",
+          "schema:url": "https://en.chessbase.com/newsroom/post/saint-louis-chess-club-invitational-tournaments-2026?page=0",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The history of Grand Chess Tour by CEO Michael Khodarkovsky",
+          "dcterms:publisher": "Sagar Shah, ChessBase Newsroom, 16 May 2026",
+          "schema:url": "https://en.chessbase.com/newsroom/post/history-gct-michael-khodarkovsky",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Saint Louis: The Chess Capital of America",
+          "dcterms:publisher": "World Chess Hall of Fame",
+          "schema:url": "https://worldchesshof.org/plan-your-visit/saint-louis-the-chess-capital-of-america/",
+          "kto:sourceType": "archive"
+        }
+      ],
+      "kto:file": "articles/events-and-organizations/saint-louis-chess-club.md",
+      "skos:altLabel": [
+        "St. Louis Chess Club",
+        "Chess Club and Scholastic Center of Saint Louis",
+        "Chess Club and Scholastic Center of St. Louis",
+        "STLCC",
+        "Saint Louis Chess Campus"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess-organizations"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:us-chess-championship"
+        },
+        {
+          "@id": "kt:us-chess"
+        },
+        {
+          "@id": "kt:world-chess-hall-of-fame"
+        },
+        {
+          "@id": "kt:sinquefield-cup"
+        },
+        {
+          "@id": "kt:grand-chess-tour"
+        },
+        {
+          "@id": "kt:garry-kasparov"
+        }
+      ]
+    },
+    {
       "@id": "kt:us-chess-championship",
       "@type": "kto:Event",
       "skos:prefLabel": "U.S. Chess Championship",

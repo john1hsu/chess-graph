@@ -3246,6 +3246,34 @@
     ]
   },
   {
+    "id": "kt:saint-louis-chess-club",
+    "title": "Saint Louis Chess Club",
+    "aliases": [
+      "St. Louis Chess Club",
+      "Chess Club and Scholastic Center of Saint Louis",
+      "Chess Club and Scholastic Center of St. Louis",
+      "STLCC",
+      "Saint Louis Chess Campus"
+    ],
+    "type": "Organization",
+    "domain": "events-and-organizations",
+    "file": "articles/events-and-organizations/saint-louis-chess-club.md",
+    "created": "2026-11-14",
+    "verified": "2026-11-14",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://stlpr.org/arts/2008-07-15/chess-club-makes-bold-move-into-west-end-quarters",
+      "https://worldchesshof.org/exhibit/sinquefield-effect-resurgence-american-chess",
+      "https://www.govinfo.gov/content/pkg/CREC-2014-05-05/html/CREC-2014-05-05-pt1-PgS2677.htm",
+      "https://worldchesshof.org/inductee/rex-sinquefield",
+      "https://www.businesswire.com/news/home/20250819248971/en/Saint-Louis-Chess-Club-to-Unveil-New-World-Class-Facility-With-a-Month-of-Historic-Events-Legendary-Matches-and-U.S.-U.S.-Womens-Championships",
+      "https://en.chessbase.com/newsroom/post/saint-louis-chess-club-invitational-tournaments-2026?page=0",
+      "https://en.chessbase.com/newsroom/post/history-gct-michael-khodarkovsky",
+      "https://worldchesshof.org/plan-your-visit/saint-louis-the-chess-capital-of-america/"
+    ]
+  },
+  {
     "id": "kt:selfmate",
     "title": "Selfmate",
     "aliases": [

@@ -6,10 +6,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:alexander-alekhine`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:mikhail-botvinnik`, `kt:tigran-petrosian`, `kt:wilhelm-steinitz` |
 | `kt:alekhines-defence` | `kt:fischer-spassky-1972`, `kt:hypermodernism`, `kt:semi-open-games`, `kt:alexander-alekhine` |
+| `kt:chess-organizations` | `kt:fide`, `kt:saint-louis-chess-club`, `kt:us-chess`, `kt:world-federation-for-chess-composition` |
 | `kt:closed-games` | `kt:open-games`, `kt:queens-gambit-accepted`, `kt:queens-gambit`, `kt:semi-open-games` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:herbert-simon` |
 | `kt:boris-spassky` | `kt:fischer-spassky-1972`, `kt:bobby-fischer`, `kt:tigran-petrosian` |
-| `kt:chess-organizations` | `kt:fide`, `kt:us-chess`, `kt:world-federation-for-chess-composition` |
 | `kt:cutting-off-the-king` | `kt:lucena-position`, `kt:philidor-position`, `kt:rook-endgames` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search`, `kt:progressive-deepening` |
 | `kt:javokhir-sindarov` | `kt:candidates-tournament`, `kt:fide-world-cup`, `kt:gukesh-dommaraju` |
@@ -48,7 +48,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
 | `kt:rook-on-the-seventh-rank` | `kt:open-file`, `kt:open-file` |
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:zugzwang`, `kt:aron-nimzowitsch` |
-| `kt:saint-louis-chess-club` | `kt:us-chess-championship`, `kt:us-chess` |
 | `kt:simplification` | `kt:material-advantage`, `kt:material-advantage` |
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
 | `kt:space-advantage` | `kt:weak-squares`, `kt:weak-squares` |
@@ -109,6 +108,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:giuoco-pianissimo` | `kt:italian-game` |
 | `kt:glicko-rating-system` | `kt:elo-rating-system` |
 | `kt:good-knight-versus-bad-bishop` | `kt:outpost` |
+| `kt:grand-chess-tour` | `kt:saint-louis-chess-club` |
 | `kt:hans-berliner` | `kt:horizon-effect` |
 | `kt:harry-nelson-pillsbury` | `kt:hastings-1895` |
 | `kt:horatio-caro` | `kt:caro-kann-defence` |
@@ -195,6 +195,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:shogi` | `kt:chess-variants` |
 | `kt:shuffle-chess` | `kt:chess960` |
 | `kt:simultaneous-exhibition` | `kt:blindfold-chess` |
+| `kt:sinquefield-cup` | `kt:saint-louis-chess-club` |
 | `kt:solving-chess` | `kt:game-tree-search` |
 | `kt:spassky-versus-fischer-reykjavik-1972-game-17` | `kt:threefold-repetition` |
 | `kt:st-petersburg-1895-96` | `kt:hastings-1895` |
@@ -223,6 +224,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:world-chess-championship-1921` | `kt:jose-raul-capablanca` |
 | `kt:world-chess-championship-1935` | `kt:alexander-alekhine` |
 | `kt:world-chess-championship-1937` | `kt:alexander-alekhine` |
+| `kt:world-chess-hall-of-fame` | `kt:saint-louis-chess-club` |
 | `kt:wrong-bishop` | `kt:fortress` |
 | `kt:xiangqi` | `kt:chess-variants` |
 | `kt:yu-nasu` | `kt:nnue` |
