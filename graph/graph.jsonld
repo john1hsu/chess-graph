@@ -13868,6 +13868,81 @@
       ]
     },
     {
+      "@id": "kt:talent",
+      "@type": "kto:CognitiveConcept",
+      "skos:prefLabel": "Talent",
+      "skos:definition": "The idea that players differ in inborn or early-appearing capacities that let some of them learn chess faster and reach higher levels than others with the same amount of practice; in expertise research it is the main rival, or complement, to practice-only explanations of chess skill.",
+      "kto:domain": "training-and-improvement",
+      "dcterms:created": "2026-11-14",
+      "kto:verified": "2026-11-14",
+      "kto:status": "contested",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Does chess need intelligence? A study with young chess players (Intelligence 35(5), 457-470)",
+          "dcterms:publisher": "Merim Bilalić, Peter McLeod and Fernand Gobet, via CORE",
+          "schema:url": "https://core.ac.uk/download/333373.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Deliberate practice: necessary but not sufficient (Current Directions in Psychological Science 20(5), 280-285)",
+          "dcterms:publisher": "Guillermo Campitelli and Fernand Gobet, LSE Research Online",
+          "schema:url": "https://researchonline.lse.ac.uk/id/eprint/102854",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Deliberate Practice: Necessary But Not Sufficient (news release)",
+          "dcterms:publisher": "Association for Psychological Science",
+          "schema:url": "https://www.psychologicalscience.org/news/releases/deliberate-practice-necessary-but-not-sufficient.html",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Checkmate to deliberate practice: the case of Magnus Carlsen (Frontiers in Psychology 5, 878)",
+          "dcterms:publisher": "Fernand Gobet and Morgan H. Ereku, Frontiers",
+          "schema:url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.00878/pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Survey: the role of talent and training in chess",
+          "dcterms:publisher": "ChessBase News (preliminary results by Robert W. Howard)",
+          "schema:url": "https://en.chessbase.com/post/survey-the-role-of-talent-and-training-in-che-1",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/training-and-improvement/talent.md",
+      "skos:altLabel": [
+        "Chess talent",
+        "Natural talent in chess",
+        "Innate ability in chess",
+        "Giftedness in chess",
+        "Talent versus practice"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess-expertise"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:starting-age"
+        },
+        {
+          "@id": "kt:fernand-gobet"
+        },
+        {
+          "@id": "kt:magnus-carlsen"
+        },
+        {
+          "@id": "kt:cognitive-psychology-of-chess"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:deliberate-practice"
+        }
+      ]
+    },
+    {
       "@id": "kt:template-theory",
       "@type": "kto:CognitiveConcept",
       "skos:prefLabel": "Template theory",

@@ -3717,6 +3717,31 @@
     ]
   },
   {
+    "id": "kt:talent",
+    "title": "Talent",
+    "aliases": [
+      "Chess talent",
+      "Natural talent in chess",
+      "Innate ability in chess",
+      "Giftedness in chess",
+      "Talent versus practice"
+    ],
+    "type": "CognitiveConcept",
+    "domain": "training-and-improvement",
+    "file": "articles/training-and-improvement/talent.md",
+    "created": "2026-11-14",
+    "verified": "2026-11-14",
+    "volatile": false,
+    "status": "contested",
+    "source_urls": [
+      "https://core.ac.uk/download/333373.pdf",
+      "https://researchonline.lse.ac.uk/id/eprint/102854",
+      "https://www.psychologicalscience.org/news/releases/deliberate-practice-necessary-but-not-sufficient.html",
+      "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.00878/pdf",
+      "https://en.chessbase.com/post/survey-the-role-of-talent-and-training-in-che-1"
+    ]
+  },
+  {
     "id": "kt:template-theory",
     "title": "Template theory",
     "aliases": [

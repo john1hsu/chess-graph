@@ -8293,6 +8293,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/stockfish/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/stockfish/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "news" .
 <https://github.com/john1hsu/chess-graph/id/source/stockfish/s6> <https://schema.org/url> "https://www.chessdom.com/stockfish-claims-its-19th-tcec-title-defeating-reckless-in-the-superfinal/" .
+<https://github.com/john1hsu/chess-graph/id/source/talent/s1> <http://purl.org/dc/terms/publisher> "Merim Bilalić, Peter McLeod and Fernand Gobet, via CORE" .
+<https://github.com/john1hsu/chess-graph/id/source/talent/s1> <http://purl.org/dc/terms/title> "Does chess need intelligence? A study with young chess players (Intelligence 35(5), 457-470)" .
+<https://github.com/john1hsu/chess-graph/id/source/talent/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/talent/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/talent/s1> <https://schema.org/url> "https://core.ac.uk/download/333373.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/talent/s2> <http://purl.org/dc/terms/publisher> "Guillermo Campitelli and Fernand Gobet, LSE Research Online" .
+<https://github.com/john1hsu/chess-graph/id/source/talent/s2> <http://purl.org/dc/terms/title> "Deliberate practice: necessary but not sufficient (Current Directions in Psychological Science 20(5), 280-285)" .
+<https://github.com/john1hsu/chess-graph/id/source/talent/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/talent/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/talent/s2> <https://schema.org/url> "https://researchonline.lse.ac.uk/id/eprint/102854" .
+<https://github.com/john1hsu/chess-graph/id/source/talent/s3> <http://purl.org/dc/terms/publisher> "Association for Psychological Science" .
+<https://github.com/john1hsu/chess-graph/id/source/talent/s3> <http://purl.org/dc/terms/title> "Deliberate Practice: Necessary But Not Sufficient (news release)" .
+<https://github.com/john1hsu/chess-graph/id/source/talent/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/talent/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/talent/s3> <https://schema.org/url> "https://www.psychologicalscience.org/news/releases/deliberate-practice-necessary-but-not-sufficient.html" .
+<https://github.com/john1hsu/chess-graph/id/source/talent/s4> <http://purl.org/dc/terms/publisher> "Fernand Gobet and Morgan H. Ereku, Frontiers" .
+<https://github.com/john1hsu/chess-graph/id/source/talent/s4> <http://purl.org/dc/terms/title> "Checkmate to deliberate practice: the case of Magnus Carlsen (Frontiers in Psychology 5, 878)" .
+<https://github.com/john1hsu/chess-graph/id/source/talent/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/talent/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/talent/s4> <https://schema.org/url> "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.00878/pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/talent/s5> <http://purl.org/dc/terms/publisher> "ChessBase News (preliminary results by Robert W. Howard)" .
+<https://github.com/john1hsu/chess-graph/id/source/talent/s5> <http://purl.org/dc/terms/title> "Survey: the role of talent and training in chess" .
+<https://github.com/john1hsu/chess-graph/id/source/talent/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/talent/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/talent/s5> <https://schema.org/url> "https://en.chessbase.com/post/survey-the-role-of-talent-and-training-in-che-1" .
 <https://github.com/john1hsu/chess-graph/id/source/template-theory/s1> <http://purl.org/dc/terms/publisher> "Fernand Gobet and Herbert A. Simon, Brunel University Research Archive" .
 <https://github.com/john1hsu/chess-graph/id/source/template-theory/s1> <http://purl.org/dc/terms/title> "Templates in chess memory: A mechanism for recalling several boards (Cognitive Psychology 31(1), 1-40)" .
 <https://github.com/john1hsu/chess-graph/id/source/template-theory/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -8946,6 +8971,30 @@
 <https://github.com/john1hsu/chess-graph/id/stockfish> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/nnue> .
 <https://github.com/john1hsu/chess-graph/id/stockfish> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/universal-chess-interface> .
 <https://github.com/john1hsu/chess-graph/id/stockfish> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/talent> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/talent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#CognitiveConcept> .
+<https://github.com/john1hsu/chess-graph/id/talent> <http://www.w3.org/2000/01/rdf-schema#label> "Talent" .
+<https://github.com/john1hsu/chess-graph/id/talent> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess talent" .
+<https://github.com/john1hsu/chess-graph/id/talent> <http://www.w3.org/2004/02/skos/core#altLabel> "Giftedness in chess" .
+<https://github.com/john1hsu/chess-graph/id/talent> <http://www.w3.org/2004/02/skos/core#altLabel> "Innate ability in chess" .
+<https://github.com/john1hsu/chess-graph/id/talent> <http://www.w3.org/2004/02/skos/core#altLabel> "Natural talent in chess" .
+<https://github.com/john1hsu/chess-graph/id/talent> <http://www.w3.org/2004/02/skos/core#altLabel> "Talent versus practice" .
+<https://github.com/john1hsu/chess-graph/id/talent> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-expertise> .
+<https://github.com/john1hsu/chess-graph/id/talent> <http://www.w3.org/2004/02/skos/core#definition> "The idea that players differ in inborn or early-appearing capacities that let some of them learn chess faster and reach higher levels than others with the same amount of practice; in expertise research it is the main rival, or complement, to practice-only explanations of chess skill." .
+<https://github.com/john1hsu/chess-graph/id/talent> <http://www.w3.org/2004/02/skos/core#prefLabel> "Talent" .
+<https://github.com/john1hsu/chess-graph/id/talent> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/talent> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fernand-gobet> .
+<https://github.com/john1hsu/chess-graph/id/talent> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/magnus-carlsen> .
+<https://github.com/john1hsu/chess-graph/id/talent> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/starting-age> .
+<https://github.com/john1hsu/chess-graph/id/talent> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/talent/s1> .
+<https://github.com/john1hsu/chess-graph/id/talent> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/talent/s2> .
+<https://github.com/john1hsu/chess-graph/id/talent> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/talent/s3> .
+<https://github.com/john1hsu/chess-graph/id/talent> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/talent/s4> .
+<https://github.com/john1hsu/chess-graph/id/talent> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/talent/s5> .
+<https://github.com/john1hsu/chess-graph/id/talent> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/deliberate-practice> .
+<https://github.com/john1hsu/chess-graph/id/talent> <https://github.com/john1hsu/chess-graph/ontology#domain> "training-and-improvement" .
+<https://github.com/john1hsu/chess-graph/id/talent> <https://github.com/john1hsu/chess-graph/ontology#status> "contested" .
+<https://github.com/john1hsu/chess-graph/id/talent> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-14" .
 <https://github.com/john1hsu/chess-graph/id/template-theory> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/template-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#CognitiveConcept> .
 <https://github.com/john1hsu/chess-graph/id/template-theory> <http://www.w3.org/2000/01/rdf-schema#label> "Template theory" .
