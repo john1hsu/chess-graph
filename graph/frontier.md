@@ -22,7 +22,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:portable-game-notation` | `kt:algebraic-notation`, `kt:forsyth-edwards-notation`, `kt:forsyth-edwards-notation` |
 | `kt:talent` | `kt:chess-expertise`, `kt:deliberate-practice`, `kt:starting-age` |
 | `kt:underpromotion` | `kt:pawn-promotion`, `kt:excelsior`, `kt:saavedra-position` |
-| `kt:universal-chess-interface` | `kt:leela-chess-zero`, `kt:stockfish`, `kt:chess960` |
 | `kt:vladimir-kramnik` | `kt:alphazero`, `kt:ruy-lopez`, `kt:garry-kasparov` |
 | `kt:alekhine-versus-nimzowitsch-san-remo-1930` | `kt:open-file`, `kt:alexander-alekhine` |
 | `kt:alekhines-gun` | `kt:open-file`, `kt:alexander-alekhine` |
@@ -79,6 +78,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:carlsbad-1923` | `kt:carlsbad-structure` |
 | `kt:carlsbad-1929` | `kt:aron-nimzowitsch` |
 | `kt:carlsen-versus-anand-sochi-2014-game-6` | `kt:zwischenzug` |
+| `kt:chess-engine-communication-protocol` | `kt:universal-chess-interface` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
 | `kt:chrest` | `kt:template-theory` |
 | `kt:cognitive-science` | `kt:cognitive-psychology-of-chess` |
@@ -183,6 +183,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:richard-reti` | `kt:hypermodernism` |
 | `kt:robert-hyatt` | `kt:bitboards` |
 | `kt:rubinstein-variation` | `kt:nimzo-indian-defence` |
+| `kt:rudolf-huber` | `kt:universal-chess-interface` |
 | `kt:rudolf-spielmann` | `kt:sacrifice` |
 | `kt:ruy-lopez-de-segura` | `kt:ruy-lopez` |
 | `kt:sam-loyd` | `kt:excelsior` |
@@ -198,6 +199,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:spassky-versus-fischer-reykjavik-1972-game-17` | `kt:threefold-repetition` |
 | `kt:st-petersburg-1895-96` | `kt:hastings-1895` |
 | `kt:static-exchange-evaluation` | `kt:quiescence-search` |
+| `kt:stefan-meyer-kahlen` | `kt:universal-chess-interface` |
 | `kt:steven-j-edwards` | `kt:forsyth-edwards-notation` |
 | `kt:swiss-system` | `kt:chess-tournament` |
 | `kt:swiss-system-tournament` | `kt:chess-olympiad` |

@@ -8014,6 +8014,26 @@
 <https://github.com/john1hsu/chess-graph/id/source/triangulation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/triangulation/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
 <https://github.com/john1hsu/chess-graph/id/source/triangulation/s4> <https://schema.org/url> "https://gutenberg.org/files/5614/5614-h/5614-h.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/universal-chess-interface/s1> <http://purl.org/dc/terms/publisher> "Shredder Computer Chess (Stefan Meyer-Kahlen)" .
+<https://github.com/john1hsu/chess-graph/id/source/universal-chess-interface/s1> <http://purl.org/dc/terms/title> "UCI (Universal Chess Interface)" .
+<https://github.com/john1hsu/chess-graph/id/source/universal-chess-interface/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/universal-chess-interface/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/universal-chess-interface/s1> <https://schema.org/url> "https://www.shredderchess.com/chess-features/uci-universal-chess-interface.html" .
+<https://github.com/john1hsu/chess-graph/id/source/universal-chess-interface/s2> <http://purl.org/dc/terms/publisher> "UCI specification text, GNOME Chess source tree" .
+<https://github.com/john1hsu/chess-graph/id/source/universal-chess-interface/s2> <http://purl.org/dc/terms/title> "Description of the universal chess interface (UCI), April 2006 (copy distributed with GNOME Chess 41.1)" .
+<https://github.com/john1hsu/chess-graph/id/source/universal-chess-interface/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/universal-chess-interface/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/universal-chess-interface/s2> <https://schema.org/url> "https://grok.dragonflybsd.org/xref/dports/games/gnome-chess/gnome-chess-41.1/doc/Universal%20Chess%20Interface?a=true" .
+<https://github.com/john1hsu/chess-graph/id/source/universal-chess-interface/s3> <http://purl.org/dc/terms/publisher> "The Stockfish developers, GitHub wiki" .
+<https://github.com/john1hsu/chess-graph/id/source/universal-chess-interface/s3> <http://purl.org/dc/terms/title> "UCI Protocol and Stockfish Commands" .
+<https://github.com/john1hsu/chess-graph/id/source/universal-chess-interface/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/universal-chess-interface/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/universal-chess-interface/s3> <https://schema.org/url> "https://github.com/official-stockfish/Stockfish/wiki/UCI-Protocol-and-Stockfish-Commands" .
+<https://github.com/john1hsu/chess-graph/id/source/universal-chess-interface/s4> <http://purl.org/dc/terms/publisher> "Tim Mann and H. G. Muller, GNU XBoard project" .
+<https://github.com/john1hsu/chess-graph/id/source/universal-chess-interface/s4> <http://purl.org/dc/terms/title> "Chess Engine Communication Protocol (version 2)" .
+<https://github.com/john1hsu/chess-graph/id/source/universal-chess-interface/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/universal-chess-interface/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/universal-chess-interface/s4> <https://schema.org/url> "https://www.gnu.org/software/xboard/engine-intf.html" .
 <https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s1> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame (essay by John McCrary)" .
 <https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s1> <http://purl.org/dc/terms/title> "Early Predecessors of the U.S. Chess Federation" .
 <https://github.com/john1hsu/chess-graph/id/source/us-chess-championship/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -8608,6 +8628,30 @@
 <https://github.com/john1hsu/chess-graph/id/triangulation> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/corresponding-squares> .
 <https://github.com/john1hsu/chess-graph/id/triangulation> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/triangulation> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/universal-chess-interface> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/universal-chess-interface> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Software> .
+<https://github.com/john1hsu/chess-graph/id/universal-chess-interface> <http://www.w3.org/2000/01/rdf-schema#label> "Universal Chess Interface" .
+<https://github.com/john1hsu/chess-graph/id/universal-chess-interface> <http://www.w3.org/2004/02/skos/core#altLabel> "UCI protocol" .
+<https://github.com/john1hsu/chess-graph/id/universal-chess-interface> <http://www.w3.org/2004/02/skos/core#altLabel> "UCI" .
+<https://github.com/john1hsu/chess-graph/id/universal-chess-interface> <http://www.w3.org/2004/02/skos/core#altLabel> "Universal Chess Interface protocol" .
+<https://github.com/john1hsu/chess-graph/id/universal-chess-interface> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/computer-chess> .
+<https://github.com/john1hsu/chess-graph/id/universal-chess-interface> <http://www.w3.org/2004/02/skos/core#definition> "An open, text-based communication protocol, released in 2000 by Rudolf Huber and Stefan Meyer-Kahlen, through which a chess graphical user interface sends positions and search commands to an engine and receives its analysis and chosen move, so that any UCI engine can run in any UCI interface." .
+<https://github.com/john1hsu/chess-graph/id/universal-chess-interface> <http://www.w3.org/2004/02/skos/core#prefLabel> "Universal Chess Interface" .
+<https://github.com/john1hsu/chess-graph/id/universal-chess-interface> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/algebraic-notation> .
+<https://github.com/john1hsu/chess-graph/id/universal-chess-interface> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess960> .
+<https://github.com/john1hsu/chess-graph/id/universal-chess-interface> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> .
+<https://github.com/john1hsu/chess-graph/id/universal-chess-interface> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/leela-chess-zero> .
+<https://github.com/john1hsu/chess-graph/id/universal-chess-interface> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/stockfish> .
+<https://github.com/john1hsu/chess-graph/id/universal-chess-interface> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/universal-chess-interface/s1> .
+<https://github.com/john1hsu/chess-graph/id/universal-chess-interface> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/universal-chess-interface/s2> .
+<https://github.com/john1hsu/chess-graph/id/universal-chess-interface> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/universal-chess-interface/s3> .
+<https://github.com/john1hsu/chess-graph/id/universal-chess-interface> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/universal-chess-interface/s4> .
+<https://github.com/john1hsu/chess-graph/id/universal-chess-interface> <https://github.com/john1hsu/chess-graph/ontology#alternativeTo> <https://github.com/john1hsu/chess-graph/id/chess-engine-communication-protocol> .
+<https://github.com/john1hsu/chess-graph/id/universal-chess-interface> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/rudolf-huber> .
+<https://github.com/john1hsu/chess-graph/id/universal-chess-interface> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/stefan-meyer-kahlen> .
+<https://github.com/john1hsu/chess-graph/id/universal-chess-interface> <https://github.com/john1hsu/chess-graph/ontology#domain> "computer-chess" .
+<https://github.com/john1hsu/chess-graph/id/universal-chess-interface> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/universal-chess-interface> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-14" .
 <https://github.com/john1hsu/chess-graph/id/us-chess-championship> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/us-chess-championship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Event> .
 <https://github.com/john1hsu/chess-graph/id/us-chess-championship> <http://www.w3.org/2000/01/rdf-schema#label> "U.S. Chess Championship" .

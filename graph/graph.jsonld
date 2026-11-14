@@ -1302,6 +1302,84 @@
       ]
     },
     {
+      "@id": "kt:universal-chess-interface",
+      "@type": "kto:Software",
+      "skos:prefLabel": "Universal Chess Interface",
+      "skos:definition": "An open, text-based communication protocol, released in 2000 by Rudolf Huber and Stefan Meyer-Kahlen, through which a chess graphical user interface sends positions and search commands to an engine and receives its analysis and chosen move, so that any UCI engine can run in any UCI interface.",
+      "kto:domain": "computer-chess",
+      "dcterms:created": "2026-11-14",
+      "kto:verified": "2026-11-14",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "UCI (Universal Chess Interface)",
+          "dcterms:publisher": "Shredder Computer Chess (Stefan Meyer-Kahlen)",
+          "schema:url": "https://www.shredderchess.com/chess-features/uci-universal-chess-interface.html",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "Description of the universal chess interface (UCI), April 2006 (copy distributed with GNOME Chess 41.1)",
+          "dcterms:publisher": "UCI specification text, GNOME Chess source tree",
+          "schema:url": "https://grok.dragonflybsd.org/xref/dports/games/gnome-chess/gnome-chess-41.1/doc/Universal%20Chess%20Interface?a=true",
+          "kto:sourceType": "primary-record"
+        },
+        {
+          "dcterms:title": "UCI Protocol and Stockfish Commands",
+          "dcterms:publisher": "The Stockfish developers, GitHub wiki",
+          "schema:url": "https://github.com/official-stockfish/Stockfish/wiki/UCI-Protocol-and-Stockfish-Commands",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "Chess Engine Communication Protocol (version 2)",
+          "dcterms:publisher": "Tim Mann and H. G. Muller, GNU XBoard project",
+          "schema:url": "https://www.gnu.org/software/xboard/engine-intf.html",
+          "kto:sourceType": "official-project"
+        }
+      ],
+      "kto:file": "articles/computer-chess/universal-chess-interface.md",
+      "skos:altLabel": [
+        "UCI",
+        "UCI protocol",
+        "Universal Chess Interface protocol"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:computer-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:stockfish"
+        },
+        {
+          "@id": "kt:leela-chess-zero"
+        },
+        {
+          "@id": "kt:chess960"
+        },
+        {
+          "@id": "kt:forsyth-edwards-notation"
+        },
+        {
+          "@id": "kt:algebraic-notation"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:rudolf-huber"
+        },
+        {
+          "@id": "kt:stefan-meyer-kahlen"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:chess-engine-communication-protocol"
+        }
+      ]
+    },
+    {
       "@id": "kt:chess-endgame",
       "@type": "kto:Concept",
       "skos:prefLabel": "Chess endgame",

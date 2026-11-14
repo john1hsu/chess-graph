@@ -3653,6 +3653,28 @@
     ]
   },
   {
+    "id": "kt:universal-chess-interface",
+    "title": "Universal Chess Interface",
+    "aliases": [
+      "UCI",
+      "UCI protocol",
+      "Universal Chess Interface protocol"
+    ],
+    "type": "Software",
+    "domain": "computer-chess",
+    "file": "articles/computer-chess/universal-chess-interface.md",
+    "created": "2026-11-14",
+    "verified": "2026-11-14",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.shredderchess.com/chess-features/uci-universal-chess-interface.html",
+      "https://grok.dragonflybsd.org/xref/dports/games/gnome-chess/gnome-chess-41.1/doc/Universal%20Chess%20Interface?a=true",
+      "https://github.com/official-stockfish/Stockfish/wiki/UCI-Protocol-and-Stockfish-Commands",
+      "https://www.gnu.org/software/xboard/engine-intf.html"
+    ]
+  },
+  {
     "id": "kt:us-chess",
     "title": "US Chess",
     "aliases": [
