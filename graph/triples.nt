@@ -324,6 +324,37 @@
 <https://github.com/john1hsu/chess-graph/id/back-rank-mate> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/back-rank-mate> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/deflection> .
 <https://github.com/john1hsu/chess-graph/id/back-rank-mate> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/backward-pawn> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/backward-pawn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#PawnStructure> .
+<https://github.com/john1hsu/chess-graph/id/backward-pawn> <http://www.w3.org/2000/01/rdf-schema#label> "Backward pawn" .
+<https://github.com/john1hsu/chess-graph/id/backward-pawn> <http://www.w3.org/2004/02/skos/core#altLabel> "Backward pawns" .
+<https://github.com/john1hsu/chess-graph/id/backward-pawn> <http://www.w3.org/2004/02/skos/core#altLabel> "Backwards pawn" .
+<https://github.com/john1hsu/chess-graph/id/backward-pawn> <http://www.w3.org/2004/02/skos/core#altLabel> "Straggler pawn" .
+<https://github.com/john1hsu/chess-graph/id/backward-pawn> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/pawn-structure> .
+<https://github.com/john1hsu/chess-graph/id/backward-pawn> <http://www.w3.org/2004/02/skos/core#definition> "A pawn that has fallen behind its neighbours on the adjacent files, so that no friendly pawn can protect it and it cannot advance safely because an enemy pawn controls the square in front of it; it is especially weak on a half-open file, and the square in front of it becomes an outpost." .
+<https://github.com/john1hsu/chess-graph/id/backward-pawn> <http://www.w3.org/2004/02/skos/core#prefLabel> "Backward pawn" .
+<https://github.com/john1hsu/chess-graph/id/backward-pawn> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/dragon-variation> .
+<https://github.com/john1hsu/chess-graph/id/backward-pawn> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/francois-andre-danican-philidor> .
+<https://github.com/john1hsu/chess-graph/id/backward-pawn> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/isolated-queens-pawn> .
+<https://github.com/john1hsu/chess-graph/id/backward-pawn> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/minority-attack> .
+<https://github.com/john1hsu/chess-graph/id/backward-pawn> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/najdorf-variation> .
+<https://github.com/john1hsu/chess-graph/id/backward-pawn> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/sicilian-defence> .
+<https://github.com/john1hsu/chess-graph/id/backward-pawn> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/weak-squares> .
+<https://github.com/john1hsu/chess-graph/id/backward-pawn> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> .
+<https://github.com/john1hsu/chess-graph/id/backward-pawn> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s1> .
+<https://github.com/john1hsu/chess-graph/id/backward-pawn> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s2> .
+<https://github.com/john1hsu/chess-graph/id/backward-pawn> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s3> .
+<https://github.com/john1hsu/chess-graph/id/backward-pawn> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s4> .
+<https://github.com/john1hsu/chess-graph/id/backward-pawn> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s5> .
+<https://github.com/john1hsu/chess-graph/id/backward-pawn> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s6> .
+<https://github.com/john1hsu/chess-graph/id/backward-pawn> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s7> .
+<https://github.com/john1hsu/chess-graph/id/backward-pawn> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/isolated-queens-pawn> .
+<https://github.com/john1hsu/chess-graph/id/backward-pawn> <https://github.com/john1hsu/chess-graph/ontology#domain> "middlegame-strategy" .
+<https://github.com/john1hsu/chess-graph/id/backward-pawn> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/sveshnikov-variation> .
+<https://github.com/john1hsu/chess-graph/id/backward-pawn> <https://github.com/john1hsu/chess-graph/ontology#fen> "2r2rk1/4bppp/p2p4/1p1Np3/4P3/8/PPP2PPP/3R1RK1 w - - 0 20" .
+<https://github.com/john1hsu/chess-graph/id/backward-pawn> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/outpost> .
+<https://github.com/john1hsu/chess-graph/id/backward-pawn> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/backward-pawn> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-14" .
 <https://github.com/john1hsu/chess-graph/id/bishop-pair> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/bishop-pair> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
 <https://github.com/john1hsu/chess-graph/id/bishop-pair> <http://www.w3.org/2000/01/rdf-schema#label> "Bishop pair" .
@@ -4492,6 +4523,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s6> <https://schema.org/url> "https://www.chesstactics.org/mating-patterns/the-back-rank-mate/sealing-off-the-kings-flight-squares/6_1_3_5.html" .
+<https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s1> <http://purl.org/dc/terms/title> "Chess: Development of theory" .
+<https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s1> <https://schema.org/url> "https://www.britannica.com/topic/chess/Development-of-theory" .
+<https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s2> <http://purl.org/dc/terms/publisher> "Andrew Soltis, ChessBase News (republished from Encyclopaedia Britannica)" .
+<https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s2> <http://purl.org/dc/terms/title> "Britannica: The Evolution of Chess Theory (Part 2)" .
+<https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s2> <https://schema.org/url> "https://en.chessbase.com/post/britannica-the-development-of-chess-theory-2" .
+<https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s3> <http://purl.org/dc/terms/publisher> "Chess.com (Chess Terms)" .
+<https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s3> <http://purl.org/dc/terms/title> "Backward Pawn" .
+<https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s3> <https://schema.org/url> "https://www.chess.com/terms/backward-pawn-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s4> <http://purl.org/dc/terms/publisher> "Jan Markos, ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s4> <http://purl.org/dc/terms/title> "The Winning Academy 32: The Hole" .
+<https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s4> <https://schema.org/url> "https://en.chessbase.com/post/the-winning-academy-32-the-hole" .
+<https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s5> <http://purl.org/dc/terms/publisher> "Mihail Marin, ChessBase" .
+<https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s5> <http://purl.org/dc/terms/title> "The pawn outpost on d5 in the Dragon (ChessBase Magazine 231)" .
+<https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s5> <https://schema.org/url> "https://en.chessbase.com/post/neu-chessbase-magazin-4" .
+<https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s6> <http://purl.org/dc/terms/publisher> "Dan Heisman, Russell Enterprises" .
+<https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s6> <http://purl.org/dc/terms/title> "Elements of Positional Evaluation, 4th edition (excerpt)" .
+<https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s6> <https://schema.org/url> "https://shop.chess-tigers.de/cdn/shop/files/elements_excerpt.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s7> <http://purl.org/dc/terms/publisher> "Chess Programming Wiki" .
+<https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s7> <http://purl.org/dc/terms/title> "Backward Pawn" .
+<https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s7> <https://schema.org/url> "https://www.chessprogramming.org/Backward_Pawn" .
 <https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s1> <http://purl.org/dc/terms/publisher> "Larry Kaufman, Chess.com (updated 17 November 2008)" .
 <https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s1> <http://purl.org/dc/terms/title> "The Evaluation of Material Imbalances" .
 <https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

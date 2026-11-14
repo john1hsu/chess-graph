@@ -9,12 +9,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:herbert-simon` |
 | `kt:kings-gambit` | `kt:immortal-game`, `kt:evans-gambit`, `kt:open-games`, `kt:boris-spassky` |
 | `kt:magnus-carlsen` | `kt:fide-world-cup`, `kt:fide-world-cup`, `kt:gukesh-dommaraju`, `kt:talent` |
+| `kt:dragon-variation` | `kt:backward-pawn`, `kt:najdorf-variation`, `kt:sicilian-defence` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search`, `kt:progressive-deepening` |
 | `kt:javokhir-sindarov` | `kt:candidates-tournament`, `kt:fide-world-cup`, `kt:gukesh-dommaraju` |
 | `kt:johannes-zukertort` | `kt:world-chess-championship-1886`, `kt:adolf-anderssen`, `kt:wilhelm-steinitz` |
 | `kt:king-safety` | `kt:weak-squares`, `kt:castling`, `kt:greek-gift-sacrifice` |
 | `kt:mikhail-chigorin` | `kt:hastings-1895`, `kt:evans-gambit`, `kt:wilhelm-steinitz` |
 | `kt:rook-on-the-seventh-rank` | `kt:steinitz-von-bardeleben-hastings-1895`, `kt:open-file`, `kt:open-file` |
+| `kt:sveshnikov-variation` | `kt:backward-pawn`, `kt:outpost`, `kt:sicilian-defence` |
 | `kt:top-chess-engine-championship` | `kt:leela-chess-zero`, `kt:opening-book`, `kt:stockfish` |
 | `kt:transposition-table` | `kt:alpha-beta-pruning`, `kt:game-tree-search`, `kt:opening-book` |
 | `kt:underpromotion` | `kt:pawn-promotion`, `kt:excelsior`, `kt:saavedra-position` |
@@ -23,11 +25,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alekhine-versus-nimzowitsch-san-remo-1930` | `kt:open-file`, `kt:alexander-alekhine` |
 | `kt:alekhines-gun` | `kt:open-file`, `kt:alexander-alekhine` |
 | `kt:alexander-kotov` | `kt:calculation`, `kt:candidate-moves` |
-| `kt:backward-pawn` | `kt:minority-attack`, `kt:outpost` |
 | `kt:berlin-defence` | `kt:alphazero`, `kt:ruy-lopez` |
 | `kt:botvinnik-versus-capablanca-avro-1938` | `kt:soviet-chess-school`, `kt:mikhail-botvinnik` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
-| `kt:dragon-variation` | `kt:najdorf-variation`, `kt:sicilian-defence` |
 | `kt:european-chess-union` | `kt:chess-organizations`, `kt:fide` |
 | `kt:extended-position-description` | `kt:forsyth-edwards-notation`, `kt:portable-game-notation` |
 | `kt:gambit` | `kt:evans-gambit`, `kt:sacrifice` |
@@ -50,7 +50,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:simplification` | `kt:material-advantage`, `kt:material-advantage` |
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
 | `kt:steven-j-edwards` | `kt:forsyth-edwards-notation`, `kt:portable-game-notation` |
-| `kt:sveshnikov-variation` | `kt:outpost`, `kt:sicilian-defence` |
 | `kt:tie-break` | `kt:chess-tournament`, `kt:us-chess-championship` |
 | `kt:abraham-luchins` | `kt:einstellung-effect` |
 | `kt:abstract-strategy-game` | `kt:chess` |

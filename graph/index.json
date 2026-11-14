@@ -286,6 +286,31 @@
     ]
   },
   {
+    "id": "kt:backward-pawn",
+    "title": "Backward pawn",
+    "aliases": [
+      "Backward pawns",
+      "Backwards pawn",
+      "Straggler pawn"
+    ],
+    "type": "PawnStructure",
+    "domain": "middlegame-strategy",
+    "file": "articles/middlegame-strategy/backward-pawn.md",
+    "created": "2026-11-14",
+    "verified": "2026-11-14",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.britannica.com/topic/chess/Development-of-theory",
+      "https://en.chessbase.com/post/britannica-the-development-of-chess-theory-2",
+      "https://www.chess.com/terms/backward-pawn-chess",
+      "https://en.chessbase.com/post/the-winning-academy-32-the-hole",
+      "https://en.chessbase.com/post/neu-chessbase-magazin-4",
+      "https://shop.chess-tigers.de/cdn/shop/files/elements_excerpt.pdf",
+      "https://www.chessprogramming.org/Backward_Pawn"
+    ]
+  },
+  {
     "id": "kt:bishop-pair",
     "title": "Bishop pair",
     "aliases": [
