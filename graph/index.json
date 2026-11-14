@@ -413,6 +413,32 @@
     ]
   },
   {
+    "id": "kt:boris-spassky",
+    "title": "Boris Spassky",
+    "aliases": [
+      "Boris Vasilyevich Spassky",
+      "Boris Vasilievich Spassky",
+      "Boris Spasski",
+      "Boris Spasskij",
+      "Spassky"
+    ],
+    "type": "Player",
+    "domain": "players",
+    "file": "articles/players/boris-spassky.md",
+    "created": "2026-11-14",
+    "verified": "2026-11-14",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://www.britannica.com/biography/Boris-Spassky",
+      "https://museum.fide.com/champions/boris-spassky",
+      "https://worldchesshof.org/inductee/boris-spassky/",
+      "https://www.fide.com/boris-spassky-1937-2025",
+      "https://spectator.com/article/remembering-spassky/",
+      "https://en.chessbase.com/post/spassky-plays-the-king-s-gambit"
+    ]
+  },
+  {
     "id": "kt:bughouse",
     "title": "Bughouse",
     "aliases": [

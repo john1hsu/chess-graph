@@ -466,6 +466,35 @@
 <https://github.com/john1hsu/chess-graph/id/bobby-fischer> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/us-chess-championship> .
 <https://github.com/john1hsu/chess-graph/id/bobby-fischer> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/bobby-fischer> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/boris-spassky> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/boris-spassky> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
+<https://github.com/john1hsu/chess-graph/id/boris-spassky> <http://www.w3.org/2000/01/rdf-schema#label> "Boris Spassky" .
+<https://github.com/john1hsu/chess-graph/id/boris-spassky> <http://www.w3.org/2004/02/skos/core#altLabel> "Boris Spasski" .
+<https://github.com/john1hsu/chess-graph/id/boris-spassky> <http://www.w3.org/2004/02/skos/core#altLabel> "Boris Spasskij" .
+<https://github.com/john1hsu/chess-graph/id/boris-spassky> <http://www.w3.org/2004/02/skos/core#altLabel> "Boris Vasilievich Spassky" .
+<https://github.com/john1hsu/chess-graph/id/boris-spassky> <http://www.w3.org/2004/02/skos/core#altLabel> "Boris Vasilyevich Spassky" .
+<https://github.com/john1hsu/chess-graph/id/boris-spassky> <http://www.w3.org/2004/02/skos/core#altLabel> "Spassky" .
+<https://github.com/john1hsu/chess-graph/id/boris-spassky> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/boris-spassky> <http://www.w3.org/2004/02/skos/core#definition> "Soviet-born, later French grandmaster (1937–2025) and the tenth world chess champion, who beat Tigran Petrosian in 1969 and lost the title to Bobby Fischer at Reykjavik in 1972; often described as the first truly universal player, equally at home in attack, defence and the endgame." .
+<https://github.com/john1hsu/chess-graph/id/boris-spassky> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boris Spassky" .
+<https://github.com/john1hsu/chess-graph/id/boris-spassky> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/bobby-fischer> .
+<https://github.com/john1hsu/chess-graph/id/boris-spassky> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/kings-gambit> .
+<https://github.com/john1hsu/chess-graph/id/boris-spassky> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/tigran-petrosian> .
+<https://github.com/john1hsu/chess-graph/id/boris-spassky> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s1> .
+<https://github.com/john1hsu/chess-graph/id/boris-spassky> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s2> .
+<https://github.com/john1hsu/chess-graph/id/boris-spassky> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s3> .
+<https://github.com/john1hsu/chess-graph/id/boris-spassky> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s4> .
+<https://github.com/john1hsu/chess-graph/id/boris-spassky> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s5> .
+<https://github.com/john1hsu/chess-graph/id/boris-spassky> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s6> .
+<https://github.com/john1hsu/chess-graph/id/boris-spassky> <https://github.com/john1hsu/chess-graph/ontology#domain> "players" .
+<https://github.com/john1hsu/chess-graph/id/boris-spassky> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/spassky-versus-bronstein-leningrad-1960> .
+<https://github.com/john1hsu/chess-graph/id/boris-spassky> <https://github.com/john1hsu/chess-graph/ontology#holdsTitle> <https://github.com/john1hsu/chess-graph/id/world-chess-champion> .
+<https://github.com/john1hsu/chess-graph/id/boris-spassky> <https://github.com/john1hsu/chess-graph/ontology#memberOf> <https://github.com/john1hsu/chess-graph/id/soviet-chess-school> .
+<https://github.com/john1hsu/chess-graph/id/boris-spassky> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/candidates-tournament> .
+<https://github.com/john1hsu/chess-graph/id/boris-spassky> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/chess-olympiad> .
+<https://github.com/john1hsu/chess-graph/id/boris-spassky> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> .
+<https://github.com/john1hsu/chess-graph/id/boris-spassky> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/boris-spassky> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-14" .
 <https://github.com/john1hsu/chess-graph/id/bughouse> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/chess-graph/id/bughouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Variant> .
 <https://github.com/john1hsu/chess-graph/id/bughouse> <http://www.w3.org/2000/01/rdf-schema#label> "Bughouse" .
@@ -4409,6 +4438,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s6> <https://schema.org/url> "https://chesshistory.com/winter/extra/byrnefischer.html" .
+<https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s1> <http://purl.org/dc/terms/title> "Boris Spassky" .
+<https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s1> <https://schema.org/url> "https://www.britannica.com/biography/Boris-Spassky" .
+<https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s2> <http://purl.org/dc/terms/publisher> "FIDE Museum" .
+<https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s2> <http://purl.org/dc/terms/title> "Boris Spassky (World Champions gallery)" .
+<https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s2> <https://schema.org/url> "https://museum.fide.com/champions/boris-spassky" .
+<https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s3> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
+<https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s3> <http://purl.org/dc/terms/title> "Boris Spassky (inductee page)" .
+<https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s3> <https://schema.org/url> "https://worldchesshof.org/inductee/boris-spassky/" .
+<https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s4> <http://purl.org/dc/terms/publisher> "FIDE" .
+<https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s4> <http://purl.org/dc/terms/title> "Boris Spassky (1937–2025)" .
+<https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s4> <https://schema.org/url> "https://www.fide.com/boris-spassky-1937-2025" .
+<https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s5> <http://purl.org/dc/terms/publisher> "The Spectator" .
+<https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s5> <http://purl.org/dc/terms/title> "Remembering Spassky (Luke McShane)" .
+<https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s5> <https://schema.org/url> "https://spectator.com/article/remembering-spassky/" .
+<https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s6> <http://purl.org/dc/terms/publisher> "ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s6> <http://purl.org/dc/terms/title> "Spassky plays the King's Gambit (Johannes Fischer)" .
+<https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s6> <https://schema.org/url> "https://en.chessbase.com/post/spassky-plays-the-king-s-gambit" .
 <https://github.com/john1hsu/chess-graph/id/source/bughouse/s1> <http://purl.org/dc/terms/publisher> "Hellenic Chess Federation (chessfed.gr), WCCC 2007 event files" .
 <https://github.com/john1hsu/chess-graph/id/source/bughouse/s1> <http://purl.org/dc/terms/title> "Laws of Bughouse chess (OTB), Document Version 1.00" .
 <https://github.com/john1hsu/chess-graph/id/source/bughouse/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
