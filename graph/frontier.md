@@ -73,6 +73,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:catalan-opening` | `kt:closed-games` |
 | `kt:chess-engine-communication-protocol` | `kt:universal-chess-interface` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
+| `kt:chess-set` | `kt:lewis-chessmen` |
 | `kt:chrest` | `kt:template-theory` |
 | `kt:club-argentino-de-ajedrez` | `kt:world-chess-championship-1927` |
 | `kt:cognitive-science` | `kt:cognitive-psychology-of-chess` |
@@ -112,6 +113,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:grand-chess-tour` | `kt:saint-louis-chess-club` |
 | `kt:hans-berliner` | `kt:horizon-effect` |
 | `kt:harry-nelson-pillsbury` | `kt:hastings-1895` |
+| `kt:hnefatafl` | `kt:lewis-chessmen` |
 | `kt:horatio-caro` | `kt:caro-kann-defence` |
 | `kt:hou-yifan` | `kt:womens-world-chess-championship` |
 | `kt:iccf` | `kt:correspondence-chess` |
@@ -208,6 +210,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:spassky-versus-fischer-reykjavik-1972-game-17` | `kt:threefold-repetition` |
 | `kt:st-petersburg-1895-96` | `kt:hastings-1895` |
 | `kt:static-exchange-evaluation` | `kt:quiescence-search` |
+| `kt:staunton-chess-set` | `kt:lewis-chessmen` |
 | `kt:stefan-meyer-kahlen` | `kt:universal-chess-interface` |
 | `kt:swiss-system` | `kt:chess-tournament` |
 | `kt:swiss-system-tournament` | `kt:chess-olympiad` |

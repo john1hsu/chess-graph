@@ -3044,6 +3044,30 @@
 <https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> .
 <https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/universal-chess-interface> .
 <https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-13" .
+<https://github.com/john1hsu/chess-graph/id/lewis-chessmen> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/chess-graph/id/lewis-chessmen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Artifact> .
+<https://github.com/john1hsu/chess-graph/id/lewis-chessmen> <http://www.w3.org/2000/01/rdf-schema#label> "Lewis chessmen" .
+<https://github.com/john1hsu/chess-graph/id/lewis-chessmen> <http://www.w3.org/2004/02/skos/core#altLabel> "Lewis chess pieces" .
+<https://github.com/john1hsu/chess-graph/id/lewis-chessmen> <http://www.w3.org/2004/02/skos/core#altLabel> "Lewis chess set" .
+<https://github.com/john1hsu/chess-graph/id/lewis-chessmen> <http://www.w3.org/2004/02/skos/core#altLabel> "Lewis hoard" .
+<https://github.com/john1hsu/chess-graph/id/lewis-chessmen> <http://www.w3.org/2004/02/skos/core#altLabel> "Uig chessmen" .
+<https://github.com/john1hsu/chess-graph/id/lewis-chessmen> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/history-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/lewis-chessmen> <http://www.w3.org/2004/02/skos/core#definition> "A hoard of medieval gaming pieces, mostly walrus-ivory chessmen carved in Scandinavia (probably Norway) around the late 12th or early 13th century, found on the Isle of Lewis in the Outer Hebrides in 1831 and now divided between the British Museum and National Museums Scotland." .
+<https://github.com/john1hsu/chess-graph/id/lewis-chessmen> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lewis chessmen" .
+<https://github.com/john1hsu/chess-graph/id/lewis-chessmen> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/hnefatafl> .
+<https://github.com/john1hsu/chess-graph/id/lewis-chessmen> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/shatranj> .
+<https://github.com/john1hsu/chess-graph/id/lewis-chessmen> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/staunton-chess-set> .
+<https://github.com/john1hsu/chess-graph/id/lewis-chessmen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s1> .
+<https://github.com/john1hsu/chess-graph/id/lewis-chessmen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s2> .
+<https://github.com/john1hsu/chess-graph/id/lewis-chessmen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s3> .
+<https://github.com/john1hsu/chess-graph/id/lewis-chessmen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s4> .
+<https://github.com/john1hsu/chess-graph/id/lewis-chessmen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s5> .
+<https://github.com/john1hsu/chess-graph/id/lewis-chessmen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s6> .
+<https://github.com/john1hsu/chess-graph/id/lewis-chessmen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s7> .
+<https://github.com/john1hsu/chess-graph/id/lewis-chessmen> <https://github.com/john1hsu/chess-graph/ontology#domain> "history" .
+<https://github.com/john1hsu/chess-graph/id/lewis-chessmen> <https://github.com/john1hsu/chess-graph/ontology#instanceOf> <https://github.com/john1hsu/chess-graph/id/chess-set> .
+<https://github.com/john1hsu/chess-graph/id/lewis-chessmen> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/lewis-chessmen> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-15" .
 <https://github.com/john1hsu/chess-graph/id/london-1851> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/london-1851> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Event> .
 <https://github.com/john1hsu/chess-graph/id/london-1851> <http://www.w3.org/2000/01/rdf-schema#label> "London 1851" .
@@ -7549,6 +7573,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s9> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "news" .
 <https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s9> <https://schema.org/url> "https://www.chessdom.com/first-major-title-for-a-neural-network-in-chess-lc0-wins-tcec-cup/" .
+<https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s1> <http://purl.org/dc/terms/publisher> "National Museums Scotland" .
+<https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s1> <http://purl.org/dc/terms/title> "Lewis chess pieces" .
+<https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s1> <https://schema.org/url> "https://www.nms.ac.uk/explore-our-collections/stories/scottish-history-and-archaeology/lewis-chess-pieces/" .
+<https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s2> <http://purl.org/dc/terms/publisher> "National Museums Scotland (press release, 31 October 2024)" .
+<https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s2> <http://purl.org/dc/terms/title> "Redisplay of the Lewis chess pieces allows them to be seen in full for the first time" .
+<https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s2> <https://schema.org/url> "https://media.nms.ac.uk/news/redisplay-of-the-lewis-chess-pieces-allows-them-to-be-seen-in-full-for-the-first-time" .
+<https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s3> <http://purl.org/dc/terms/publisher> "The British Museum (blog, 26 February 2021)" .
+<https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s3> <http://purl.org/dc/terms/title> "Top 10 historical board games" .
+<https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s3> <https://schema.org/url> "https://www.britishmuseum.org/blog/top-10-historical-board-games" .
+<https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s4> <http://purl.org/dc/terms/publisher> "National Museums Scotland research repository" .
+<https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s4> <http://purl.org/dc/terms/title> "The Lewis Hoard of Gaming Pieces: a re-examination of their context, meanings, discovery and manufacture (Caldwell, Hall and Wilkinson, Medieval Archaeology 53, 2009)" .
+<https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s4> <https://schema.org/url> "https://nms.iro.bl.uk/concern/articles/e98ac3b9-5bf8-4e8a-ada2-09dd029eb22a?locale=en" .
+<https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s5> <http://purl.org/dc/terms/publisher> "University of Dundee (press release, 11 November 2009)" .
+<https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s5> <http://purl.org/dc/terms/title> "Press release on the Lewis Chessmen study in Medieval Archaeology" .
+<https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s5> <https://schema.org/url> "https://app.dundee.ac.uk/pressreleases/2009/prnov09/chessmen.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s6> <http://purl.org/dc/terms/publisher> "Western Isles Historic Environment Record (Comhairle nan Eilean Siar)" .
+<https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s6> <http://purl.org/dc/terms/title> "Find Spot record 107 - Ardoil, Lewis" .
+<https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s6> <https://schema.org/url> "https://her.cne-siar.gov.uk/Monument/MWE4058" .
+<https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s7> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s7> <http://purl.org/dc/terms/title> "Chess: History" .
+<https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/lewis-chessmen/s7> <https://schema.org/url> "https://www.britannica.com/topic/chess/History" .
 <https://github.com/john1hsu/chess-graph/id/source/london-1851/s1> <http://purl.org/dc/terms/publisher> "OlimpBase (Wojciech Bartelski)" .
 <https://github.com/john1hsu/chess-graph/id/source/london-1851/s1> <http://purl.org/dc/terms/title> "London chess tournament :: London 1851" .
 <https://github.com/john1hsu/chess-graph/id/source/london-1851/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

@@ -2712,6 +2712,32 @@
     ]
   },
   {
+    "id": "kt:lewis-chessmen",
+    "title": "Lewis chessmen",
+    "aliases": [
+      "Lewis chess pieces",
+      "Lewis hoard",
+      "Lewis chess set",
+      "Uig chessmen"
+    ],
+    "type": "Artifact",
+    "domain": "history",
+    "file": "articles/history/lewis-chessmen.md",
+    "created": "2026-11-15",
+    "verified": "2026-11-15",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://www.nms.ac.uk/explore-our-collections/stories/scottish-history-and-archaeology/lewis-chess-pieces/",
+      "https://media.nms.ac.uk/news/redisplay-of-the-lewis-chess-pieces-allows-them-to-be-seen-in-full-for-the-first-time",
+      "https://www.britishmuseum.org/blog/top-10-historical-board-games",
+      "https://nms.iro.bl.uk/concern/articles/e98ac3b9-5bf8-4e8a-ada2-09dd029eb22a?locale=en",
+      "https://app.dundee.ac.uk/pressreleases/2009/prnov09/chessmen.htm",
+      "https://her.cne-siar.gov.uk/Monument/MWE4058",
+      "https://www.britannica.com/topic/chess/History"
+    ]
+  },
+  {
     "id": "kt:london-1851",
     "title": "London 1851",
     "aliases": [

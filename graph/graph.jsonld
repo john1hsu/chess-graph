@@ -5422,6 +5422,89 @@
       ]
     },
     {
+      "@id": "kt:lewis-chessmen",
+      "@type": "kto:Artifact",
+      "skos:prefLabel": "Lewis chessmen",
+      "skos:definition": "A hoard of medieval gaming pieces, mostly walrus-ivory chessmen carved in Scandinavia (probably Norway) around the late 12th or early 13th century, found on the Isle of Lewis in the Outer Hebrides in 1831 and now divided between the British Museum and National Museums Scotland.",
+      "kto:domain": "history",
+      "dcterms:created": "2026-11-15",
+      "kto:verified": "2026-11-15",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Lewis chess pieces",
+          "dcterms:publisher": "National Museums Scotland",
+          "schema:url": "https://www.nms.ac.uk/explore-our-collections/stories/scottish-history-and-archaeology/lewis-chess-pieces/",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Redisplay of the Lewis chess pieces allows them to be seen in full for the first time",
+          "dcterms:publisher": "National Museums Scotland (press release, 31 October 2024)",
+          "schema:url": "https://media.nms.ac.uk/news/redisplay-of-the-lewis-chess-pieces-allows-them-to-be-seen-in-full-for-the-first-time",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Top 10 historical board games",
+          "dcterms:publisher": "The British Museum (blog, 26 February 2021)",
+          "schema:url": "https://www.britishmuseum.org/blog/top-10-historical-board-games",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "The Lewis Hoard of Gaming Pieces: a re-examination of their context, meanings, discovery and manufacture (Caldwell, Hall and Wilkinson, Medieval Archaeology 53, 2009)",
+          "dcterms:publisher": "National Museums Scotland research repository",
+          "schema:url": "https://nms.iro.bl.uk/concern/articles/e98ac3b9-5bf8-4e8a-ada2-09dd029eb22a?locale=en",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Press release on the Lewis Chessmen study in Medieval Archaeology",
+          "dcterms:publisher": "University of Dundee (press release, 11 November 2009)",
+          "schema:url": "https://app.dundee.ac.uk/pressreleases/2009/prnov09/chessmen.htm",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Find Spot record 107 - Ardoil, Lewis",
+          "dcterms:publisher": "Western Isles Historic Environment Record (Comhairle nan Eilean Siar)",
+          "schema:url": "https://her.cne-siar.gov.uk/Monument/MWE4058",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Chess: History",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/chess/History",
+          "kto:sourceType": "reference"
+        }
+      ],
+      "kto:file": "articles/history/lewis-chessmen.md",
+      "skos:altLabel": [
+        "Lewis chess pieces",
+        "Lewis hoard",
+        "Lewis chess set",
+        "Uig chessmen"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:history-of-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:shatranj"
+        },
+        {
+          "@id": "kt:hnefatafl"
+        },
+        {
+          "@id": "kt:staunton-chess-set"
+        }
+      ],
+      "kto:instanceOf": [
+        {
+          "@id": "kt:chess-set"
+        }
+      ]
+    },
+    {
       "@id": "kt:london-1851",
       "@type": "kto:Event",
       "skos:prefLabel": "London 1851",

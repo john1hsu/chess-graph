@@ -78,6 +78,8 @@ kto:RatingSystem    a owl:Class ; rdfs:subClassOf kto:Entity ;
     rdfs:comment "A rating method: Elo, Glicko-2, FIDE rating regulations. Must cite a governing-body or scholarly source." .
 kto:Publication     a owl:Class ; rdfs:subClassOf kto:Entity , schema:CreativeWork ;
     rdfs:comment "A landmark book, periodical or database: My System, Informant, Encyclopaedia of Chess Openings." .
+kto:Artifact        a owl:Class ; rdfs:subClassOf kto:Entity , schema:CreativeWork ; rdfs:label "Artifact" ;
+    rdfs:comment "A physical chess object of historical note, such as a surviving medieval chess set or a museum piece." .
 
 # Computer chess
 kto:Engine          a owl:Class ; rdfs:subClassOf kto:Entity , schema:SoftwareApplication ;
