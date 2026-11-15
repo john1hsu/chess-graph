@@ -6,7 +6,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:alexander-alekhine`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:boris-spassky`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:magnus-carlsen`, `kt:mikhail-botvinnik`, `kt:tigran-petrosian`, `kt:wilhelm-steinitz` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:the-turk`, `kt:herbert-simon` |
-| `kt:chess-clock` | `kt:blitz-chess`, `kt:fischer-increment`, `kt:rapid-chess`, `kt:time-management-in-games` |
+| `kt:bronstein-delay` | `kt:chess-clock`, `kt:fischer-increment`, `kt:fischer-increment` |
 | `kt:dragon-variation` | `kt:backward-pawn`, `kt:najdorf-variation`, `kt:sicilian-defence` |
 | `kt:gambit` | `kt:evans-gambit`, `kt:kings-gambit`, `kt:sacrifice` |
 | `kt:johannes-zukertort` | `kt:world-chess-championship-1886`, `kt:adolf-anderssen`, `kt:wilhelm-steinitz` |
@@ -24,7 +24,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alexander-kotov` | `kt:calculation`, `kt:candidate-moves` |
 | `kt:berlin-defence` | `kt:alphazero`, `kt:ruy-lopez` |
 | `kt:botvinnik-versus-capablanca-avro-1938` | `kt:soviet-chess-school`, `kt:mikhail-botvinnik` |
-| `kt:bronstein-delay` | `kt:fischer-increment`, `kt:fischer-increment` |
 | `kt:carlsen-versus-anand-sochi-2014-game-6` | `kt:magnus-carlsen`, `kt:zwischenzug` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
 | `kt:extended-position-description` | `kt:forsyth-edwards-notation`, `kt:portable-game-notation` |
@@ -70,6 +69,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:charles-babbage` | `kt:the-turk` |
 | `kt:chess-4-5` | `kt:iterative-deepening` |
 | `kt:chess-engine-communication-protocol` | `kt:universal-chess-interface` |
+| `kt:chess-equipment` | `kt:chess-clock` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
 | `kt:chess-set` | `kt:lewis-chessmen` |
 | `kt:chrest` | `kt:template-theory` |

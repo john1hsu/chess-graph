@@ -806,6 +806,34 @@
 <https://github.com/john1hsu/chess-graph/id/checkmate> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
 <https://github.com/john1hsu/chess-graph/id/checkmate> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/checkmate> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/chess-clock> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/chess-graph/id/chess-clock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Equipment> .
+<https://github.com/john1hsu/chess-graph/id/chess-clock> <http://www.w3.org/2000/01/rdf-schema#label> "Chess clock" .
+<https://github.com/john1hsu/chess-graph/id/chess-clock> <http://www.w3.org/2004/02/skos/core#altLabel> "Analogue chess clock" .
+<https://github.com/john1hsu/chess-graph/id/chess-clock> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess timer" .
+<https://github.com/john1hsu/chess-graph/id/chess-clock> <http://www.w3.org/2004/02/skos/core#altLabel> "Chessclock" .
+<https://github.com/john1hsu/chess-graph/id/chess-clock> <http://www.w3.org/2004/02/skos/core#altLabel> "Digital chess clock" .
+<https://github.com/john1hsu/chess-graph/id/chess-clock> <http://www.w3.org/2004/02/skos/core#altLabel> "Game clock" .
+<https://github.com/john1hsu/chess-graph/id/chess-clock> <http://www.w3.org/2004/02/skos/core#altLabel> "Mechanical chess clock" .
+<https://github.com/john1hsu/chess-graph/id/chess-clock> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-equipment> .
+<https://github.com/john1hsu/chess-graph/id/chess-clock> <http://www.w3.org/2004/02/skos/core#definition> "A timing device with two connected time displays, only one of which runs at a time, used to limit each player's thinking time; a player pauses their own clock and starts the opponent's after each move, and the expiry of a player's time is signalled by a \"flag\"." .
+<https://github.com/john1hsu/chess-graph/id/chess-clock> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chess clock" .
+<https://github.com/john1hsu/chess-graph/id/chess-clock> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/arbiter> .
+<https://github.com/john1hsu/chess-graph/id/chess-clock> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/blitz-chess> .
+<https://github.com/john1hsu/chess-graph/id/chess-clock> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/time-management-in-games> .
+<https://github.com/john1hsu/chess-graph/id/chess-clock> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-clock/s1> .
+<https://github.com/john1hsu/chess-graph/id/chess-clock> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-clock/s2> .
+<https://github.com/john1hsu/chess-graph/id/chess-clock> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-clock/s3> .
+<https://github.com/john1hsu/chess-graph/id/chess-clock> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-clock/s4> .
+<https://github.com/john1hsu/chess-graph/id/chess-clock> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-clock/s5> .
+<https://github.com/john1hsu/chess-graph/id/chess-clock> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chess-clock/s6> .
+<https://github.com/john1hsu/chess-graph/id/chess-clock> <https://github.com/john1hsu/chess-graph/ontology#domain> "rules-and-notation" .
+<https://github.com/john1hsu/chess-graph/id/chess-clock> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/bronstein-delay> .
+<https://github.com/john1hsu/chess-graph/id/chess-clock> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/fischer-increment> .
+<https://github.com/john1hsu/chess-graph/id/chess-clock> <https://github.com/john1hsu/chess-graph/ontology#fen> "8/8/4k3/8/8/2K5/8/R7 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/chess-clock> <https://github.com/john1hsu/chess-graph/ontology#governedBy> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/chess-clock> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/chess-clock> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-15" .
 <https://github.com/john1hsu/chess-graph/id/chess-composition> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/chess-composition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Concept> .
 <https://github.com/john1hsu/chess-graph/id/chess-composition> <http://www.w3.org/2000/01/rdf-schema#label> "Chess composition" .
@@ -5489,6 +5517,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/checkmate/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/checkmate/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/checkmate/s5> <https://schema.org/url> "https://chessvariants.com/historic.dir/shatranj.html" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-clock/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-clock/s1> <http://purl.org/dc/terms/title> "FIDE Laws of Chess (full text, applied from 1 January 2023)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-clock/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-clock/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-clock/s1> <https://schema.org/url> "https://rcc.fide.com/fide-laws-of-chess_fulltexthtml/" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-clock/s2> <http://purl.org/dc/terms/publisher> "FIDE Arbiters' Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-clock/s2> <http://purl.org/dc/terms/title> "Arbiters' Manual 2024" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-clock/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-clock/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-clock/s2> <https://schema.org/url> "https://arbiters.fide.com/wp-content/uploads/Publications/Manual/Arbiters_Manual_2024.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-clock/s3> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-clock/s3> <http://purl.org/dc/terms/title> "Chess Equipment without Electronic Components (applied from 1 March 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-clock/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-clock/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-clock/s3> <https://schema.org/url> "https://handbook.fide.com/chapter/ChessEquipmentWithoutElectronicComponenets032026" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-clock/s4> <http://purl.org/dc/terms/publisher> "US Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-clock/s4> <http://purl.org/dc/terms/title> "US Chess Federation's Official Rules of Chess, 7th edition (online edition, chapters 1–8)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-clock/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-clock/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-clock/s4> <https://schema.org/url> "https://new.uschess.org/sites/default/files/media/documents/us-chess-rule-book-online-only-edition-chp-1-8-24-20.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-clock/s5> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-clock/s5> <http://purl.org/dc/terms/title> "Chess: The time element and competition" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-clock/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-clock/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-clock/s5> <https://schema.org/url> "https://www.britannica.com/topic/chess/The-time-element-and-competition" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-clock/s6> <http://purl.org/dc/terms/publisher> "FIDE Chess Museum" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-clock/s6> <http://purl.org/dc/terms/title> "Chess before the 20th century (Fattorini & Sons chess clock)" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-clock/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chess-clock/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/chess-clock/s6> <https://schema.org/url> "https://museum.fide.com/thematic_collections/chess-before-the-20th-century" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-composition/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-composition/s1> <http://purl.org/dc/terms/title> "Chess: Chess composition" .
 <https://github.com/john1hsu/chess-graph/id/source/chess-composition/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

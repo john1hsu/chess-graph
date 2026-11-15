@@ -742,6 +742,33 @@
     ]
   },
   {
+    "id": "kt:chess-clock",
+    "title": "Chess clock",
+    "aliases": [
+      "Chessclock",
+      "Game clock",
+      "Chess timer",
+      "Analogue chess clock",
+      "Digital chess clock",
+      "Mechanical chess clock"
+    ],
+    "type": "Equipment",
+    "domain": "rules-and-notation",
+    "file": "articles/rules-and-notation/chess-clock.md",
+    "created": "2026-11-15",
+    "verified": "2026-11-15",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://rcc.fide.com/fide-laws-of-chess_fulltexthtml/",
+      "https://arbiters.fide.com/wp-content/uploads/Publications/Manual/Arbiters_Manual_2024.pdf",
+      "https://handbook.fide.com/chapter/ChessEquipmentWithoutElectronicComponenets032026",
+      "https://new.uschess.org/sites/default/files/media/documents/us-chess-rule-book-online-only-edition-chp-1-8-24-20.pdf",
+      "https://www.britannica.com/topic/chess/The-time-element-and-competition",
+      "https://museum.fide.com/thematic_collections/chess-before-the-20th-century"
+    ]
+  },
+  {
     "id": "kt:chess-composition",
     "title": "Chess composition",
     "aliases": [
