@@ -2840,6 +2840,36 @@
 <https://github.com/john1hsu/chess-graph/id/immortal-game> <https://github.com/john1hsu/chess-graph/ontology#playedBy> <https://github.com/john1hsu/chess-graph/id/lionel-kieseritzky> .
 <https://github.com/john1hsu/chess-graph/id/immortal-game> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/immortal-game> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/initiative> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/chess-graph/id/initiative> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
+<https://github.com/john1hsu/chess-graph/id/initiative> <http://www.w3.org/2000/01/rdf-schema#label> "Initiative" .
+<https://github.com/john1hsu/chess-graph/id/initiative> <http://www.w3.org/2004/02/skos/core#altLabel> "Dynamic initiative" .
+<https://github.com/john1hsu/chess-graph/id/initiative> <http://www.w3.org/2004/02/skos/core#altLabel> "Having the initiative" .
+<https://github.com/john1hsu/chess-graph/id/initiative> <http://www.w3.org/2004/02/skos/core#altLabel> "Seizing the initiative" .
+<https://github.com/john1hsu/chess-graph/id/initiative> <http://www.w3.org/2004/02/skos/core#altLabel> "The initiative" .
+<https://github.com/john1hsu/chess-graph/id/initiative> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-strategy> .
+<https://github.com/john1hsu/chess-graph/id/initiative> <http://www.w3.org/2004/02/skos/core#definition> "The ability to force matters: the side with the initiative sets the agenda with threats and active moves, while the opponent must spend moves reacting instead of pursuing a plan of its own." .
+<https://github.com/john1hsu/chess-graph/id/initiative> <http://www.w3.org/2004/02/skos/core#prefLabel> "Initiative" .
+<https://github.com/john1hsu/chess-graph/id/initiative> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/emanuel-lasker> .
+<https://github.com/john1hsu/chess-graph/id/initiative> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/king-safety> .
+<https://github.com/john1hsu/chess-graph/id/initiative> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/soviet-chess-school> .
+<https://github.com/john1hsu/chess-graph/id/initiative> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/space-advantage> .
+<https://github.com/john1hsu/chess-graph/id/initiative> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> .
+<https://github.com/john1hsu/chess-graph/id/initiative> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/initiative/s1> .
+<https://github.com/john1hsu/chess-graph/id/initiative> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/initiative/s2> .
+<https://github.com/john1hsu/chess-graph/id/initiative> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/initiative/s3> .
+<https://github.com/john1hsu/chess-graph/id/initiative> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/initiative/s4> .
+<https://github.com/john1hsu/chess-graph/id/initiative> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/initiative/s5> .
+<https://github.com/john1hsu/chess-graph/id/initiative> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/initiative/s6> .
+<https://github.com/john1hsu/chess-graph/id/initiative> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/paul-morphy> .
+<https://github.com/john1hsu/chess-graph/id/initiative> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/material-advantage> .
+<https://github.com/john1hsu/chess-graph/id/initiative> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/development> .
+<https://github.com/john1hsu/chess-graph/id/initiative> <https://github.com/john1hsu/chess-graph/ontology#domain> "middlegame-strategy" .
+<https://github.com/john1hsu/chess-graph/id/initiative> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/carlsen-versus-rapport-wijk-aan-zee-2019> .
+<https://github.com/john1hsu/chess-graph/id/initiative> <https://github.com/john1hsu/chess-graph/ontology#fen> "1r2r1k1/1q1nbppp/p1bp4/B1p1P3/2P2P2/1PN5/P2Q2BP/3R1RK1 b - - 0 25" .
+<https://github.com/john1hsu/chess-graph/id/initiative> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/sacrifice> .
+<https://github.com/john1hsu/chess-graph/id/initiative> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/initiative> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-15" .
 <https://github.com/john1hsu/chess-graph/id/interference> <http://purl.org/dc/terms/created> "2026-11-15" .
 <https://github.com/john1hsu/chess-graph/id/interference> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TacticalMotif> .
 <https://github.com/john1hsu/chess-graph/id/interference> <http://www.w3.org/2000/01/rdf-schema#label> "Interference" .
@@ -7539,6 +7569,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/immortal-game/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/immortal-game/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/immortal-game/s6> <https://schema.org/url> "https://www.chess.com/news/view/adolf-andersson-vs-lionel-kieseritzky-1851" .
+<https://github.com/john1hsu/chess-graph/id/source/initiative/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/initiative/s1> <http://purl.org/dc/terms/title> "Initiative (chess)" .
+<https://github.com/john1hsu/chess-graph/id/source/initiative/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/initiative/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/initiative/s1> <https://schema.org/url> "https://www.britannica.com/topic/initiative-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/initiative/s2> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/initiative/s2> <http://purl.org/dc/terms/title> "Chess: Development of theory" .
+<https://github.com/john1hsu/chess-graph/id/source/initiative/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/initiative/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/initiative/s2> <https://schema.org/url> "https://www.britannica.com/topic/chess/Development-of-theory" .
+<https://github.com/john1hsu/chess-graph/id/source/initiative/s3> <http://purl.org/dc/terms/publisher> "Ivan Sokolov, New In Chess (2013), publisher's book page" .
+<https://github.com/john1hsu/chess-graph/id/source/initiative/s3> <http://purl.org/dc/terms/title> "Sacrifice and Initiative in Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/initiative/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/initiative/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/initiative/s3> <https://schema.org/url> "https://newinchess.com/sacrifice-and-initiative-in-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/initiative/s4> <http://purl.org/dc/terms/publisher> "Ivan Sokolov, sample pages hosted by New In Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/initiative/s4> <http://purl.org/dc/terms/title> "Magnus Carlsen's Middlegame Evolution (sample chapter: A Minor Sacrifice)" .
+<https://github.com/john1hsu/chess-graph/id/source/initiative/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/initiative/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/initiative/s4> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/8473.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/initiative/s5> <http://purl.org/dc/terms/publisher> "IM Jeremy Silman, Chess.com (updated 30 June 2016)" .
+<https://github.com/john1hsu/chess-graph/id/source/initiative/s5> <http://purl.org/dc/terms/title> "What Is The Initiative?" .
+<https://github.com/john1hsu/chess-graph/id/source/initiative/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/initiative/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/initiative/s5> <https://schema.org/url> "https://www.chess.com/article/view/what-is-the-initiative" .
+<https://github.com/john1hsu/chess-graph/id/source/initiative/s6> <http://purl.org/dc/terms/publisher> "ChessBase News (January 2019)" .
+<https://github.com/john1hsu/chess-graph/id/source/initiative/s6> <http://purl.org/dc/terms/title> "Tata Steel Chess 2019: Round 8" .
+<https://github.com/john1hsu/chess-graph/id/source/initiative/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/initiative/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/initiative/s6> <https://schema.org/url> "https://en.chessbase.com/post/tata-steel-chess-2019-round-8" .
 <https://github.com/john1hsu/chess-graph/id/source/interference/s1> <http://purl.org/dc/terms/publisher> "Ward Farnsworth, Predator at the Chessboard" .
 <https://github.com/john1hsu/chess-graph/id/source/interference/s1> <http://purl.org/dc/terms/title> "Blocking the Guard (Interference): Interference to Loosen a Piece" .
 <https://github.com/john1hsu/chess-graph/id/source/interference/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

@@ -2527,6 +2527,31 @@
     ]
   },
   {
+    "id": "kt:initiative",
+    "title": "Initiative",
+    "aliases": [
+      "The initiative",
+      "Having the initiative",
+      "Seizing the initiative",
+      "Dynamic initiative"
+    ],
+    "type": "StrategicConcept",
+    "domain": "middlegame-strategy",
+    "file": "articles/middlegame-strategy/initiative.md",
+    "created": "2026-11-15",
+    "verified": "2026-11-15",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.britannica.com/topic/initiative-chess",
+      "https://www.britannica.com/topic/chess/Development-of-theory",
+      "https://newinchess.com/sacrifice-and-initiative-in-chess",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/8473.pdf",
+      "https://www.chess.com/article/view/what-is-the-initiative",
+      "https://en.chessbase.com/post/tata-steel-chess-2019-round-8"
+    ]
+  },
+  {
     "id": "kt:interference",
     "title": "Interference",
     "aliases": [

@@ -7454,6 +7454,110 @@
       ]
     },
     {
+      "@id": "kt:initiative",
+      "@type": "kto:StrategicConcept",
+      "skos:prefLabel": "Initiative",
+      "skos:definition": "The ability to force matters: the side with the initiative sets the agenda with threats and active moves, while the opponent must spend moves reacting instead of pursuing a plan of its own.",
+      "kto:domain": "middlegame-strategy",
+      "dcterms:created": "2026-11-15",
+      "kto:verified": "2026-11-15",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Initiative (chess)",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/initiative-chess",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Chess: Development of theory",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/chess/Development-of-theory",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Sacrifice and Initiative in Chess",
+          "dcterms:publisher": "Ivan Sokolov, New In Chess (2013), publisher's book page",
+          "schema:url": "https://newinchess.com/sacrifice-and-initiative-in-chess",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Magnus Carlsen's Middlegame Evolution (sample chapter: A Minor Sacrifice)",
+          "dcterms:publisher": "Ivan Sokolov, sample pages hosted by New In Chess",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/8473.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "What Is The Initiative?",
+          "dcterms:publisher": "IM Jeremy Silman, Chess.com (updated 30 June 2016)",
+          "schema:url": "https://www.chess.com/article/view/what-is-the-initiative",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Tata Steel Chess 2019: Round 8",
+          "dcterms:publisher": "ChessBase News (January 2019)",
+          "schema:url": "https://en.chessbase.com/post/tata-steel-chess-2019-round-8",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/middlegame-strategy/initiative.md",
+      "skos:altLabel": [
+        "The initiative",
+        "Having the initiative",
+        "Seizing the initiative",
+        "Dynamic initiative"
+      ],
+      "kto:fen": "1r2r1k1/1q1nbppp/p1bp4/B1p1P3/2P2P2/1PN5/P2Q2BP/3R1RK1 b - - 0 25",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-strategy"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:space-advantage"
+        },
+        {
+          "@id": "kt:soviet-chess-school"
+        },
+        {
+          "@id": "kt:wilhelm-steinitz"
+        },
+        {
+          "@id": "kt:emanuel-lasker"
+        },
+        {
+          "@id": "kt:king-safety"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:material-advantage"
+        }
+      ],
+      "kto:leadsTo": [
+        {
+          "@id": "kt:sacrifice"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:development"
+        }
+      ],
+      "kto:championedBy": [
+        {
+          "@id": "kt:paul-morphy"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:carlsen-versus-rapport-wijk-aan-zee-2019"
+        }
+      ]
+    },
+    {
       "@id": "kt:isolated-queens-pawn",
       "@type": "kto:PawnStructure",
       "skos:prefLabel": "Isolated queen's pawn",
