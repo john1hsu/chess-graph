@@ -52,7 +52,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:tie-break` | `kt:chess-tournament`, `kt:us-chess-championship` |
 | `kt:vancura-position` | `kt:rook-endgames`, `kt:wrong-bishop` |
 | `kt:viswanathan-anand` | `kt:gukesh-dommaraju`, `kt:magnus-carlsen` |
-| `kt:xiangqi` | `kt:chess-variants`, `kt:shogi` |
 | `kt:abraham-luchins` | `kt:einstellung-effect` |
 | `kt:abstract-strategy-game` | `kt:chess` |
 | `kt:alfred-binet` | `kt:cognitive-psychology-of-chess` |
@@ -123,6 +122,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:international-master` | `kt:fernand-gobet` |
 | `kt:international-master-title` | `kt:grandmaster-title` |
 | `kt:intrinsic-performance-rating` | `kt:fair-play-regulations` |
+| `kt:janggi` | `kt:xiangqi` |
 | `kt:jean-dufresne` | `kt:evergreen-game` |
 | `kt:john-mccarthy` | `kt:alpha-beta-pruning` |
 | `kt:john-von-neumann` | `kt:minimax` |
@@ -238,5 +238,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:world-chess-championship-1935` | `kt:alexander-alekhine` |
 | `kt:world-chess-championship-1937` | `kt:alexander-alekhine` |
 | `kt:world-chess-hall-of-fame` | `kt:saint-louis-chess-club` |
+| `kt:world-xiangqi-federation` | `kt:xiangqi` |
 | `kt:yu-nasu` | `kt:nnue` |
 | `kt:zobrist-hashing` | `kt:transposition-table` |

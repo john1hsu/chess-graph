@@ -9990,6 +9990,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/wrong-bishop/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/wrong-bishop/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/wrong-bishop/s5> <https://schema.org/url> "https://lichess.org/@/BigBrainChess_08/blog/the-wrong-coloured-bishop-fortresses-save-a-lost-position/nlOuSTzJ" .
+<https://github.com/john1hsu/chess-graph/id/source/xiangqi/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/xiangqi/s1> <http://purl.org/dc/terms/title> "Chinese chess" .
+<https://github.com/john1hsu/chess-graph/id/source/xiangqi/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/xiangqi/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/xiangqi/s1> <https://schema.org/url> "https://www.britannica.com/topic/Chinese-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/xiangqi/s2> <http://purl.org/dc/terms/publisher> "The Chess Variant Pages (Hans Bodlaender, rewritten by Fergus Duniho)" .
+<https://github.com/john1hsu/chess-graph/id/source/xiangqi/s2> <http://purl.org/dc/terms/title> "Xiangqi: Chinese Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/xiangqi/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/xiangqi/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/xiangqi/s2> <https://schema.org/url> "https://chessvariants.org/xiangqi.html" .
+<https://github.com/john1hsu/chess-graph/id/source/xiangqi/s3> <http://purl.org/dc/terms/publisher> "GNU Project" .
+<https://github.com/john1hsu/chess-graph/id/source/xiangqi/s3> <http://purl.org/dc/terms/title> "Xiangqi (Chinese Chess) rules, XBoard" .
+<https://github.com/john1hsu/chess-graph/id/source/xiangqi/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/xiangqi/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/xiangqi/s3> <https://schema.org/url> "https://www.gnu.org/software/xboard/whats_new/rules/Xiangqi.html" .
+<https://github.com/john1hsu/chess-graph/id/source/xiangqi/s4> <http://purl.org/dc/terms/publisher> "Asian Xiangqi Federation" .
+<https://github.com/john1hsu/chess-graph/id/source/xiangqi/s4> <http://purl.org/dc/terms/title> "About AXF: brief introduction to the AXF Rules (Felix Tan)" .
+<https://github.com/john1hsu/chess-graph/id/source/xiangqi/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/xiangqi/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/xiangqi/s4> <https://schema.org/url> "https://asianxiangqi.org/English/AXFrulesEng.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/xiangqi/s5> <http://purl.org/dc/terms/publisher> "World Xiangqi Federation" .
+<https://github.com/john1hsu/chess-graph/id/source/xiangqi/s5> <http://purl.org/dc/terms/title> "19th WXF World Xiangqi Championship Regulations" .
+<https://github.com/john1hsu/chess-graph/id/source/xiangqi/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/xiangqi/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/xiangqi/s5> <https://schema.org/url> "https://www.wxf-xiangqi.org/images/2025wxf_shanghai/19th_WXF__World_Xiangqi_Championship_Regulations.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/xiangqi/s6> <http://purl.org/dc/terms/publisher> "S.-J. Yen, J.-C. Chen, T.-N. Yang, S.-C. Hsu, ICGA Journal 27(1), 3–18 (2004)" .
+<https://github.com/john1hsu/chess-graph/id/source/xiangqi/s6> <http://purl.org/dc/terms/title> "Computer Chinese Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/xiangqi/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/xiangqi/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/xiangqi/s6> <https://schema.org/url> "https://content.iospress.com/articles/icga-journal/icg27102" .
+<https://github.com/john1hsu/chess-graph/id/source/xiangqi/s7> <http://purl.org/dc/terms/publisher> "Donghwi Park, Korea University" .
+<https://github.com/john1hsu/chess-graph/id/source/xiangqi/s7> <http://purl.org/dc/terms/title> "Space-state complexity of Korean chess and Chinese chess (arXiv:1507.06401)" .
+<https://github.com/john1hsu/chess-graph/id/source/xiangqi/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/xiangqi/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/xiangqi/s7> <https://schema.org/url> "https://arxiv.org/pdf/1507.06401" .
 <https://github.com/john1hsu/chess-graph/id/source/zugzwang/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
 <https://github.com/john1hsu/chess-graph/id/source/zugzwang/s1> <http://purl.org/dc/terms/title> "Zugzwang (Chess Notes feature article)" .
 <https://github.com/john1hsu/chess-graph/id/source/zugzwang/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -10798,6 +10833,32 @@
 <https://github.com/john1hsu/chess-graph/id/wrong-bishop> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/wrong-bishop> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/fortress> .
 <https://github.com/john1hsu/chess-graph/id/wrong-bishop> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-15" .
+<https://github.com/john1hsu/chess-graph/id/xiangqi> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/chess-graph/id/xiangqi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Variant> .
+<https://github.com/john1hsu/chess-graph/id/xiangqi> <http://www.w3.org/2000/01/rdf-schema#label> "Xiangqi" .
+<https://github.com/john1hsu/chess-graph/id/xiangqi> <http://www.w3.org/2004/02/skos/core#altLabel> "Chinese chess" .
+<https://github.com/john1hsu/chess-graph/id/xiangqi> <http://www.w3.org/2004/02/skos/core#altLabel> "Hsiang-chi" .
+<https://github.com/john1hsu/chess-graph/id/xiangqi> <http://www.w3.org/2004/02/skos/core#altLabel> "Xiang Qi" .
+<https://github.com/john1hsu/chess-graph/id/xiangqi> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-variants> .
+<https://github.com/john1hsu/chess-graph/id/xiangqi> <http://www.w3.org/2004/02/skos/core#definition> "The Chinese member of the chess family, played on the 90 intersections of a 9×10 board divided by a river, in which each general is confined to a palace and the cannon captures by jumping a screen." .
+<https://github.com/john1hsu/chess-graph/id/xiangqi> <http://www.w3.org/2004/02/skos/core#prefLabel> "Xiangqi" .
+<https://github.com/john1hsu/chess-graph/id/xiangqi> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/computer-chess> .
+<https://github.com/john1hsu/chess-graph/id/xiangqi> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/janggi> .
+<https://github.com/john1hsu/chess-graph/id/xiangqi> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/shogi> .
+<https://github.com/john1hsu/chess-graph/id/xiangqi> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/stalemate> .
+<https://github.com/john1hsu/chess-graph/id/xiangqi> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/xiangqi/s1> .
+<https://github.com/john1hsu/chess-graph/id/xiangqi> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/xiangqi/s2> .
+<https://github.com/john1hsu/chess-graph/id/xiangqi> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/xiangqi/s3> .
+<https://github.com/john1hsu/chess-graph/id/xiangqi> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/xiangqi/s4> .
+<https://github.com/john1hsu/chess-graph/id/xiangqi> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/xiangqi/s5> .
+<https://github.com/john1hsu/chess-graph/id/xiangqi> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/xiangqi/s6> .
+<https://github.com/john1hsu/chess-graph/id/xiangqi> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/xiangqi/s7> .
+<https://github.com/john1hsu/chess-graph/id/xiangqi> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/chess> .
+<https://github.com/john1hsu/chess-graph/id/xiangqi> <https://github.com/john1hsu/chess-graph/ontology#domain> "variants-and-compositions" .
+<https://github.com/john1hsu/chess-graph/id/xiangqi> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/chaturanga> .
+<https://github.com/john1hsu/chess-graph/id/xiangqi> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/world-xiangqi-federation> .
+<https://github.com/john1hsu/chess-graph/id/xiangqi> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/xiangqi> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-15" .
 <https://github.com/john1hsu/chess-graph/id/zugzwang> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/zugzwang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
 <https://github.com/john1hsu/chess-graph/id/zugzwang> <http://www.w3.org/2000/01/rdf-schema#label> "Zugzwang" .

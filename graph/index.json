@@ -4727,6 +4727,31 @@
     ]
   },
   {
+    "id": "kt:xiangqi",
+    "title": "Xiangqi",
+    "aliases": [
+      "Chinese chess",
+      "Hsiang-chi",
+      "Xiang Qi"
+    ],
+    "type": "Variant",
+    "domain": "variants-and-compositions",
+    "file": "articles/variants-and-compositions/xiangqi.md",
+    "created": "2026-11-15",
+    "verified": "2026-11-15",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://www.britannica.com/topic/Chinese-chess",
+      "https://chessvariants.org/xiangqi.html",
+      "https://www.gnu.org/software/xboard/whats_new/rules/Xiangqi.html",
+      "https://asianxiangqi.org/English/AXFrulesEng.htm",
+      "https://www.wxf-xiangqi.org/images/2025wxf_shanghai/19th_WXF__World_Xiangqi_Championship_Regulations.pdf",
+      "https://content.iospress.com/articles/icga-journal/icg27102",
+      "https://arxiv.org/pdf/1507.06401"
+    ]
+  },
+  {
     "id": "kt:zugzwang",
     "title": "Zugzwang",
     "aliases": [

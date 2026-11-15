@@ -17589,6 +17589,101 @@
           "@id": "kt:federation-of-european-shogi-associations"
         }
       ]
+    },
+    {
+      "@id": "kt:xiangqi",
+      "@type": "kto:Variant",
+      "skos:prefLabel": "Xiangqi",
+      "skos:definition": "The Chinese member of the chess family, played on the 90 intersections of a 9×10 board divided by a river, in which each general is confined to a palace and the cannon captures by jumping a screen.",
+      "kto:domain": "variants-and-compositions",
+      "dcterms:created": "2026-11-15",
+      "kto:verified": "2026-11-15",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Chinese chess",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/Chinese-chess",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Xiangqi: Chinese Chess",
+          "dcterms:publisher": "The Chess Variant Pages (Hans Bodlaender, rewritten by Fergus Duniho)",
+          "schema:url": "https://chessvariants.org/xiangqi.html",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "Xiangqi (Chinese Chess) rules, XBoard",
+          "dcterms:publisher": "GNU Project",
+          "schema:url": "https://www.gnu.org/software/xboard/whats_new/rules/Xiangqi.html",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "About AXF: brief introduction to the AXF Rules (Felix Tan)",
+          "dcterms:publisher": "Asian Xiangqi Federation",
+          "schema:url": "https://asianxiangqi.org/English/AXFrulesEng.htm",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "19th WXF World Xiangqi Championship Regulations",
+          "dcterms:publisher": "World Xiangqi Federation",
+          "schema:url": "https://www.wxf-xiangqi.org/images/2025wxf_shanghai/19th_WXF__World_Xiangqi_Championship_Regulations.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Computer Chinese Chess",
+          "dcterms:publisher": "S.-J. Yen, J.-C. Chen, T.-N. Yang, S.-C. Hsu, ICGA Journal 27(1), 3–18 (2004)",
+          "schema:url": "https://content.iospress.com/articles/icga-journal/icg27102",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Space-state complexity of Korean chess and Chinese chess (arXiv:1507.06401)",
+          "dcterms:publisher": "Donghwi Park, Korea University",
+          "schema:url": "https://arxiv.org/pdf/1507.06401",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/variants-and-compositions/xiangqi.md",
+      "skos:altLabel": [
+        "Chinese chess",
+        "Hsiang-chi",
+        "Xiang Qi"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess-variants"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:shogi"
+        },
+        {
+          "@id": "kt:stalemate"
+        },
+        {
+          "@id": "kt:computer-chess"
+        },
+        {
+          "@id": "kt:janggi"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:chaturanga"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:chess"
+        }
+      ],
+      "kto:sanctionedBy": [
+        {
+          "@id": "kt:world-xiangqi-federation"
+        }
+      ]
     }
   ]
 }
