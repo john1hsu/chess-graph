@@ -10878,6 +10878,106 @@
       ]
     },
     {
+      "@id": "kt:blitz-chess",
+      "@type": "kto:TimeControl",
+      "skos:prefLabel": "Blitz chess",
+      "skos:definition": "A form of chess in which each player has 10 minutes or less for the whole game, counting 60 times any per-move increment; FIDE governs it through Appendix B of the Laws of Chess, rates it on a separate list and stages an annual World Blitz Championship.",
+      "kto:domain": "rules-and-notation",
+      "dcterms:created": "2026-11-15",
+      "kto:verified": "2026-11-15",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Arbiters' Manual 2024 (Laws of Chess with commentary, Appendices A and B)",
+          "dcterms:publisher": "FIDE Arbiters' Commission",
+          "schema:url": "https://arbiters.fide.com/wp-content/uploads/Publications/Manual/Arbiters_Manual_2024.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "FIDE Rapid and Blitz Rating Regulations (applied from 1 March 2024)",
+          "dcterms:publisher": "FIDE Handbook",
+          "schema:url": "https://handbook.fide.com/chapter/B02RBRegulations2024",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Regulations for the FIDE World Rapid and Blitz Championships 2025 (Open)",
+          "dcterms:publisher": "FIDE Handbook",
+          "schema:url": "https://handbook.fide.com/files/handbook/wrbc_regulations_2025_open.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Magnus Carlsen and Bibisara Assaubayeva win World Blitz crowns",
+          "dcterms:publisher": "FIDE",
+          "schema:url": "https://www.fide.com/magnus-carlsen-and-bibisara-assaubayeva-win-world-blitz-crowns/",
+          "kto:sourceType": "primary-record"
+        },
+        {
+          "dcterms:title": "History of the World Blitz Championship",
+          "dcterms:publisher": "FIDE World Rapid and Blitz Championships 2019 (official site)",
+          "schema:url": "https://worldrapidandblitz2019.fide.com/history/1",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "The Effects of Speed on Skilled Chess Performance (Bruce D. Burns, Psychological Science, 2004)",
+          "dcterms:publisher": "Association for Psychological Science",
+          "schema:url": "https://www.psychologicalscience.org/journals/psychological-science/j.0956-7976.2004.00699.x/",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/rules-and-notation/blitz-chess.md",
+      "skos:altLabel": [
+        "Blitz",
+        "Lightning chess",
+        "Speed chess",
+        "Five-minute chess",
+        "Blitz time control"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        },
+        {
+          "@id": "kt:chess-clock"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:rapid-chess"
+        },
+        {
+          "@id": "kt:fischer-increment"
+        },
+        {
+          "@id": "kt:time-management-in-games"
+        },
+        {
+          "@id": "kt:arbiter"
+        },
+        {
+          "@id": "kt:bughouse"
+        },
+        {
+          "@id": "kt:chess-expertise"
+        }
+      ],
+      "kto:governedBy": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:rapid-chess"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:world-blitz-championship"
+        }
+      ]
+    },
+    {
       "@id": "kt:castling",
       "@type": "kto:Rule",
       "skos:prefLabel": "Castling",

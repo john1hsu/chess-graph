@@ -438,6 +438,36 @@
 <https://github.com/john1hsu/chess-graph/id/blindfold-chess> <https://github.com/john1hsu/chess-graph/ontology#domain> "variants-and-compositions" .
 <https://github.com/john1hsu/chess-graph/id/blindfold-chess> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/blindfold-chess> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/blitz-chess> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/chess-graph/id/blitz-chess> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TimeControl> .
+<https://github.com/john1hsu/chess-graph/id/blitz-chess> <http://www.w3.org/2000/01/rdf-schema#label> "Blitz chess" .
+<https://github.com/john1hsu/chess-graph/id/blitz-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Blitz time control" .
+<https://github.com/john1hsu/chess-graph/id/blitz-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Blitz" .
+<https://github.com/john1hsu/chess-graph/id/blitz-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Five-minute chess" .
+<https://github.com/john1hsu/chess-graph/id/blitz-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Lightning chess" .
+<https://github.com/john1hsu/chess-graph/id/blitz-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Speed chess" .
+<https://github.com/john1hsu/chess-graph/id/blitz-chess> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-clock> .
+<https://github.com/john1hsu/chess-graph/id/blitz-chess> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/blitz-chess> <http://www.w3.org/2004/02/skos/core#definition> "A form of chess in which each player has 10 minutes or less for the whole game, counting 60 times any per-move increment; FIDE governs it through Appendix B of the Laws of Chess, rates it on a separate list and stages an annual World Blitz Championship." .
+<https://github.com/john1hsu/chess-graph/id/blitz-chess> <http://www.w3.org/2004/02/skos/core#prefLabel> "Blitz chess" .
+<https://github.com/john1hsu/chess-graph/id/blitz-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/arbiter> .
+<https://github.com/john1hsu/chess-graph/id/blitz-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/bughouse> .
+<https://github.com/john1hsu/chess-graph/id/blitz-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-expertise> .
+<https://github.com/john1hsu/chess-graph/id/blitz-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fischer-increment> .
+<https://github.com/john1hsu/chess-graph/id/blitz-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/rapid-chess> .
+<https://github.com/john1hsu/chess-graph/id/blitz-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/time-management-in-games> .
+<https://github.com/john1hsu/chess-graph/id/blitz-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/blitz-chess/s1> .
+<https://github.com/john1hsu/chess-graph/id/blitz-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/blitz-chess/s2> .
+<https://github.com/john1hsu/chess-graph/id/blitz-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/blitz-chess/s3> .
+<https://github.com/john1hsu/chess-graph/id/blitz-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/blitz-chess/s4> .
+<https://github.com/john1hsu/chess-graph/id/blitz-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/blitz-chess/s5> .
+<https://github.com/john1hsu/chess-graph/id/blitz-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/blitz-chess/s6> .
+<https://github.com/john1hsu/chess-graph/id/blitz-chess> <https://github.com/john1hsu/chess-graph/ontology#alternativeTo> <https://github.com/john1hsu/chess-graph/id/rapid-chess> .
+<https://github.com/john1hsu/chess-graph/id/blitz-chess> <https://github.com/john1hsu/chess-graph/ontology#domain> "rules-and-notation" .
+<https://github.com/john1hsu/chess-graph/id/blitz-chess> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/world-blitz-championship> .
+<https://github.com/john1hsu/chess-graph/id/blitz-chess> <https://github.com/john1hsu/chess-graph/ontology#governedBy> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/blitz-chess> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/blitz-chess> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-15" .
 <https://github.com/john1hsu/chess-graph/id/blockade> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/blockade> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
 <https://github.com/john1hsu/chess-graph/id/blockade> <http://www.w3.org/2000/01/rdf-schema#label> "Blockade" .
@@ -4734,6 +4764,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/blindfold-chess/s6> <https://schema.org/url> "https://en.chessbase.com/post/blindfold-che-history-psychology-champions-records" .
+<https://github.com/john1hsu/chess-graph/id/source/blitz-chess/s1> <http://purl.org/dc/terms/publisher> "FIDE Arbiters' Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/blitz-chess/s1> <http://purl.org/dc/terms/title> "Arbiters' Manual 2024 (Laws of Chess with commentary, Appendices A and B)" .
+<https://github.com/john1hsu/chess-graph/id/source/blitz-chess/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/blitz-chess/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/blitz-chess/s1> <https://schema.org/url> "https://arbiters.fide.com/wp-content/uploads/Publications/Manual/Arbiters_Manual_2024.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/blitz-chess/s2> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
+<https://github.com/john1hsu/chess-graph/id/source/blitz-chess/s2> <http://purl.org/dc/terms/title> "FIDE Rapid and Blitz Rating Regulations (applied from 1 March 2024)" .
+<https://github.com/john1hsu/chess-graph/id/source/blitz-chess/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/blitz-chess/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/blitz-chess/s2> <https://schema.org/url> "https://handbook.fide.com/chapter/B02RBRegulations2024" .
+<https://github.com/john1hsu/chess-graph/id/source/blitz-chess/s3> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
+<https://github.com/john1hsu/chess-graph/id/source/blitz-chess/s3> <http://purl.org/dc/terms/title> "Regulations for the FIDE World Rapid and Blitz Championships 2025 (Open)" .
+<https://github.com/john1hsu/chess-graph/id/source/blitz-chess/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/blitz-chess/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/blitz-chess/s3> <https://schema.org/url> "https://handbook.fide.com/files/handbook/wrbc_regulations_2025_open.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/blitz-chess/s4> <http://purl.org/dc/terms/publisher> "FIDE" .
+<https://github.com/john1hsu/chess-graph/id/source/blitz-chess/s4> <http://purl.org/dc/terms/title> "Magnus Carlsen and Bibisara Assaubayeva win World Blitz crowns" .
+<https://github.com/john1hsu/chess-graph/id/source/blitz-chess/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/blitz-chess/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/blitz-chess/s4> <https://schema.org/url> "https://www.fide.com/magnus-carlsen-and-bibisara-assaubayeva-win-world-blitz-crowns/" .
+<https://github.com/john1hsu/chess-graph/id/source/blitz-chess/s5> <http://purl.org/dc/terms/publisher> "FIDE World Rapid and Blitz Championships 2019 (official site)" .
+<https://github.com/john1hsu/chess-graph/id/source/blitz-chess/s5> <http://purl.org/dc/terms/title> "History of the World Blitz Championship" .
+<https://github.com/john1hsu/chess-graph/id/source/blitz-chess/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/blitz-chess/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/blitz-chess/s5> <https://schema.org/url> "https://worldrapidandblitz2019.fide.com/history/1" .
+<https://github.com/john1hsu/chess-graph/id/source/blitz-chess/s6> <http://purl.org/dc/terms/publisher> "Association for Psychological Science" .
+<https://github.com/john1hsu/chess-graph/id/source/blitz-chess/s6> <http://purl.org/dc/terms/title> "The Effects of Speed on Skilled Chess Performance (Bruce D. Burns, Psychological Science, 2004)" .
+<https://github.com/john1hsu/chess-graph/id/source/blitz-chess/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/blitz-chess/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/blitz-chess/s6> <https://schema.org/url> "https://www.psychologicalscience.org/journals/psychological-science/j.0956-7976.2004.00699.x/" .
 <https://github.com/john1hsu/chess-graph/id/source/blockade/s1> <http://purl.org/dc/terms/publisher> "Aron Nimzowitsch, Quality Chess (2007 edition)" .
 <https://github.com/john1hsu/chess-graph/id/source/blockade/s1> <http://purl.org/dc/terms/title> "My System (excerpt)" .
 <https://github.com/john1hsu/chess-graph/id/source/blockade/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

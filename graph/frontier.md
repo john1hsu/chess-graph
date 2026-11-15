@@ -6,10 +6,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:alexander-alekhine`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:boris-spassky`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:magnus-carlsen`, `kt:mikhail-botvinnik`, `kt:tigran-petrosian`, `kt:wilhelm-steinitz` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search`, `kt:transposition-table`, `kt:transposition-table`, `kt:progressive-deepening` |
-| `kt:blitz-chess` | `kt:magnus-carlsen`, `kt:fischer-increment`, `kt:time-management-in-games`, `kt:bughouse` |
 | `kt:chess-openings` | `kt:opening-book`, `kt:closed-games`, `kt:open-games`, `kt:semi-open-games` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:herbert-simon` |
 | `kt:kings-gambit` | `kt:immortal-game`, `kt:evans-gambit`, `kt:open-games`, `kt:boris-spassky` |
+| `kt:rapid-chess` | `kt:blitz-chess`, `kt:blitz-chess`, `kt:fischer-increment`, `kt:time-management-in-games` |
+| `kt:chess-clock` | `kt:blitz-chess`, `kt:fischer-increment`, `kt:time-management-in-games` |
 | `kt:dragon-variation` | `kt:backward-pawn`, `kt:najdorf-variation`, `kt:sicilian-defence` |
 | `kt:javokhir-sindarov` | `kt:candidates-tournament`, `kt:fide-world-cup`, `kt:gukesh-dommaraju` |
 | `kt:johannes-zukertort` | `kt:world-chess-championship-1886`, `kt:adolf-anderssen`, `kt:wilhelm-steinitz` |
@@ -29,7 +30,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:botvinnik-versus-capablanca-avro-1938` | `kt:soviet-chess-school`, `kt:mikhail-botvinnik` |
 | `kt:bronstein-delay` | `kt:fischer-increment`, `kt:fischer-increment` |
 | `kt:carlsen-versus-anand-sochi-2014-game-6` | `kt:magnus-carlsen`, `kt:zwischenzug` |
-| `kt:chess-clock` | `kt:fischer-increment`, `kt:time-management-in-games` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
 | `kt:european-chess-union` | `kt:chess-organizations`, `kt:fide` |
 | `kt:extended-position-description` | `kt:forsyth-edwards-notation`, `kt:portable-game-notation` |
@@ -47,7 +47,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
 | `kt:perpetual-check` | `kt:draw`, `kt:threefold-repetition` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
-| `kt:rapid-chess` | `kt:fischer-increment`, `kt:time-management-in-games` |
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:zugzwang`, `kt:aron-nimzowitsch` |
 | `kt:simplification` | `kt:material-advantage`, `kt:material-advantage` |
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
@@ -221,6 +220,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:william-chase` | `kt:chunking-theory` |
 | `kt:william-davies-evans` | `kt:evans-gambit` |
 | `kt:winawer-variation` | `kt:french-defence` |
+| `kt:world-blitz-championship` | `kt:blitz-chess` |
 | `kt:world-chess-championship-1894` | `kt:emanuel-lasker` |
 | `kt:world-chess-championship-1908` | `kt:siegbert-tarrasch` |
 | `kt:world-chess-championship-1921` | `kt:jose-raul-capablanca` |

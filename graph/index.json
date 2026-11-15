@@ -388,6 +388,32 @@
     ]
   },
   {
+    "id": "kt:blitz-chess",
+    "title": "Blitz chess",
+    "aliases": [
+      "Blitz",
+      "Lightning chess",
+      "Speed chess",
+      "Five-minute chess",
+      "Blitz time control"
+    ],
+    "type": "TimeControl",
+    "domain": "rules-and-notation",
+    "file": "articles/rules-and-notation/blitz-chess.md",
+    "created": "2026-11-15",
+    "verified": "2026-11-15",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://arbiters.fide.com/wp-content/uploads/Publications/Manual/Arbiters_Manual_2024.pdf",
+      "https://handbook.fide.com/chapter/B02RBRegulations2024",
+      "https://handbook.fide.com/files/handbook/wrbc_regulations_2025_open.pdf",
+      "https://www.fide.com/magnus-carlsen-and-bibisara-assaubayeva-win-world-blitz-crowns/",
+      "https://worldrapidandblitz2019.fide.com/history/1",
+      "https://www.psychologicalscience.org/journals/psychological-science/j.0956-7976.2004.00699.x/"
+    ]
+  },
+  {
     "id": "kt:blockade",
     "title": "Blockade",
     "aliases": [
