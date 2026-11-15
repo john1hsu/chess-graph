@@ -843,6 +843,35 @@
     ]
   },
   {
+    "id": "kt:chess-openings",
+    "title": "Chess openings",
+    "aliases": [
+      "Chess opening",
+      "Opening (chess)",
+      "The opening",
+      "Opening phase",
+      "Opening theory",
+      "Chess opening theory"
+    ],
+    "type": "Concept",
+    "domain": "openings",
+    "file": "articles/openings/chess-openings.md",
+    "created": "2026-11-15",
+    "verified": "2026-11-15",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.britannica.com/topic/opening",
+      "https://www.britannica.com/topic/chess/Development-of-theory",
+      "https://www.britannica.com/topic/development-chess",
+      "https://gutenberg.org/cache/epub/33870/pg33870-images.html",
+      "https://www.newinchess.com/encyclopaedia-of-chess-openings-bi",
+      "https://learn.chessbase.com/en/page/chess-openings-semi-closed-games",
+      "https://en.chessbase.com/post/chebase-tutorials-openings-flank-openings-290413",
+      "https://www.jeremysilman.com/book-review/fco-fundamental-chess-openings/"
+    ]
+  },
+  {
     "id": "kt:chess-organizations",
     "title": "Chess organizations",
     "aliases": [

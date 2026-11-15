@@ -6,7 +6,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:alexander-alekhine`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:boris-spassky`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:magnus-carlsen`, `kt:mikhail-botvinnik`, `kt:tigran-petrosian`, `kt:wilhelm-steinitz` |
 | `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search`, `kt:transposition-table`, `kt:transposition-table`, `kt:progressive-deepening` |
-| `kt:chess-openings` | `kt:opening-book`, `kt:closed-games`, `kt:open-games`, `kt:semi-open-games` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:herbert-simon` |
 | `kt:kings-gambit` | `kt:immortal-game`, `kt:evans-gambit`, `kt:open-games`, `kt:boris-spassky` |
 | `kt:rapid-chess` | `kt:blitz-chess`, `kt:blitz-chess`, `kt:fischer-increment`, `kt:time-management-in-games` |
@@ -41,6 +40,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position`, `kt:smothered-mate` |
 | `kt:max-euwe` | `kt:slav-defence`, `kt:alexander-alekhine` |
 | `kt:miguel-najdorf` | `kt:najdorf-variation`, `kt:blindfold-chess` |
+| `kt:opening-repertoire` | `kt:chess-openings`, `kt:template-theory` |
 | `kt:origins-of-chess` | `kt:chaturanga`, `kt:history-of-chess` |
 | `kt:overprotection` | `kt:prophylaxis`, `kt:prophylaxis` |
 | `kt:paul-morphy` | `kt:romantic-era`, `kt:adolf-anderssen` |
@@ -96,6 +96,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fide-world-fischer-random-chess-championship` | `kt:chess960` |
 | `kt:fischer-spassky-1972-game-6` | `kt:hanging-pawns` |
 | `kt:fischer-spassky-1992` | `kt:fischer-increment` |
+| `kt:flank-openings` | `kt:chess-openings` |
 | `kt:four-handed-chaturanga` | `kt:chaturanga` |
 | `kt:four-pawns-attack` | `kt:alekhines-defence` |
 | `kt:francois-antoine-de-legal` | `kt:francois-andre-danican-philidor` |
@@ -155,7 +156,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:negamax` | `kt:minimax` |
 | `kt:numeric-annotation-glyphs` | `kt:portable-game-notation` |
 | `kt:open-ruy-lopez` | `kt:ruy-lopez` |
-| `kt:opening-repertoire` | `kt:template-theory` |
 | `kt:otto-selz` | `kt:adriaan-de-groot` |
 | `kt:panov-botvinnik-attack` | `kt:caro-kann-defence` |
 | `kt:passive-rook-defence` | `kt:philidor-position` |
@@ -195,6 +195,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:samisch-variation` | `kt:nimzo-indian-defence` |
 | `kt:samuel-reshevsky` | `kt:us-chess-championship` |
 | `kt:san-remo-1930` | `kt:alexander-alekhine` |
+| `kt:semi-closed-games` | `kt:chess-openings` |
 | `kt:semi-slav-defence` | `kt:slav-defence` |
 | `kt:shuffle-chess` | `kt:chess960` |
 | `kt:simultaneous-exhibition` | `kt:blindfold-chess` |

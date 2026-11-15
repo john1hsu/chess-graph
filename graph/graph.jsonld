@@ -7868,6 +7868,118 @@
       ]
     },
     {
+      "@id": "kt:chess-openings",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Chess openings",
+      "skos:definition": "The first phase of a chess game, roughly the first ten to fifteen moves, in which both sides develop their pieces, fight for the centre and secure their kings; also the body of named lines and analysis (\"opening theory\") that players study for this phase.",
+      "kto:domain": "openings",
+      "dcterms:created": "2026-11-15",
+      "kto:verified": "2026-11-15",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "opening (chess)",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/opening",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Chess: Development of theory",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/chess/Development-of-theory",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "development (chess)",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/development-chess",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Chess Fundamentals (1921), Project Gutenberg eBook #33870",
+          "dcterms:publisher": "José Raúl Capablanca, via Project Gutenberg",
+          "schema:url": "https://gutenberg.org/cache/epub/33870/pg33870-images.html",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Encyclopaedia of Chess Openings B I (2021)",
+          "dcterms:publisher": "Informant Publishing, via New In Chess",
+          "schema:url": "https://www.newinchess.com/encyclopaedia-of-chess-openings-bi",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Chess openings - Semi-closed games",
+          "dcterms:publisher": "ChessBase Learn",
+          "schema:url": "https://learn.chessbase.com/en/page/chess-openings-semi-closed-games",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "ChessBase Tutorials Openings: Flank Openings",
+          "dcterms:publisher": "Albert Silver, ChessBase News",
+          "schema:url": "https://en.chessbase.com/post/chebase-tutorials-openings-flank-openings-290413",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "FCO — Fundamental Chess Openings (review)",
+          "dcterms:publisher": "John Donaldson, JeremySilman.com",
+          "schema:url": "https://www.jeremysilman.com/book-review/fco-fundamental-chess-openings/",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/openings/chess-openings.md",
+      "skos:altLabel": [
+        "Chess opening",
+        "Opening (chess)",
+        "The opening",
+        "Opening phase",
+        "Opening theory",
+        "Chess opening theory"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:chess-endgame"
+        },
+        {
+          "@id": "kt:hypermodernism"
+        },
+        {
+          "@id": "kt:opening-book"
+        },
+        {
+          "@id": "kt:opening-repertoire"
+        },
+        {
+          "@id": "kt:siegbert-tarrasch"
+        },
+        {
+          "@id": "kt:jose-raul-capablanca"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:open-games"
+        },
+        {
+          "@id": "kt:semi-open-games"
+        },
+        {
+          "@id": "kt:closed-games"
+        },
+        {
+          "@id": "kt:semi-closed-games"
+        },
+        {
+          "@id": "kt:flank-openings"
+        }
+      ]
+    },
+    {
       "@id": "kt:closed-games",
       "@type": "kto:Concept",
       "skos:prefLabel": "Closed games",
