@@ -6,10 +6,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:alexander-alekhine`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:boris-spassky`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:magnus-carlsen`, `kt:mikhail-botvinnik`, `kt:tigran-petrosian`, `kt:wilhelm-steinitz` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:herbert-simon` |
-| `kt:kings-gambit` | `kt:immortal-game`, `kt:evans-gambit`, `kt:open-games`, `kt:boris-spassky` |
 | `kt:rapid-chess` | `kt:blitz-chess`, `kt:blitz-chess`, `kt:fischer-increment`, `kt:time-management-in-games` |
 | `kt:chess-clock` | `kt:blitz-chess`, `kt:fischer-increment`, `kt:time-management-in-games` |
 | `kt:dragon-variation` | `kt:backward-pawn`, `kt:najdorf-variation`, `kt:sicilian-defence` |
+| `kt:gambit` | `kt:evans-gambit`, `kt:kings-gambit`, `kt:sacrifice` |
 | `kt:johannes-zukertort` | `kt:world-chess-championship-1886`, `kt:adolf-anderssen`, `kt:wilhelm-steinitz` |
 | `kt:mikhail-chigorin` | `kt:hastings-1895`, `kt:evans-gambit`, `kt:wilhelm-steinitz` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning`, `kt:move-ordering` |
@@ -28,7 +28,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:carlsen-versus-anand-sochi-2014-game-6` | `kt:magnus-carlsen`, `kt:zwischenzug` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
 | `kt:extended-position-description` | `kt:forsyth-edwards-notation`, `kt:portable-game-notation` |
-| `kt:gambit` | `kt:evans-gambit`, `kt:sacrifice` |
 | `kt:howard-staunton` | `kt:london-1851`, `kt:london-1851` |
 | `kt:ju-wenjun` | `kt:womens-world-chess-championship`, `kt:womens-world-chess-championship` |
 | `kt:karpov-versus-unzicker-nice-1974` | `kt:prophylaxis`, `kt:anatoly-karpov` |
@@ -78,6 +77,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:colle-versus-ohanlon-nice-1930` | `kt:greek-gift-sacrifice` |
 | `kt:counting-in-pawn-races` | `kt:rule-of-the-square` |
 | `kt:curt-von-bardeleben` | `kt:steinitz-von-bardeleben-hastings-1895` |
+| `kt:david-bronstein` | `kt:kings-gambit` |
 | `kt:david-forsyth` | `kt:forsyth-edwards-notation` |
 | `kt:deep-blue` | `kt:deep-blue-versus-kasparov` |
 | `kt:deepmind` | `kt:alphazero` |
@@ -89,6 +89,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:european-individual-chess-championship` | `kt:european-chess-union` |
 | `kt:european-team-chess-championship` | `kt:european-chess-union` |
 | `kt:exchange-sacrifice` | `kt:sacrifice` |
+| `kt:falkbeer-countergambit` | `kt:kings-gambit` |
 | `kt:federation-of-european-shogi-associations` | `kt:shogi` |
 | `kt:fernando-saavedra` | `kt:saavedra-position` |
 | `kt:fide-ethics-and-disciplinary-code` | `kt:fair-play-regulations` |

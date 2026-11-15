@@ -3102,6 +3102,35 @@
 <https://github.com/john1hsu/chess-graph/id/king-safety> <https://github.com/john1hsu/chess-graph/ontology#moves> "1.c4 e6 2.g3 d5 3.Bg2 d4 4.b4 c5 5.b5 e5 6.d3 Bd6 7.e4 Qc7 8.Ne2 h5 9.h4 Nh6 10.O-O Bg4 11.f3 Be6 12.f4 Bg4 13.f5" .
 <https://github.com/john1hsu/chess-graph/id/king-safety> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/king-safety> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-15" .
+<https://github.com/john1hsu/chess-graph/id/kings-gambit> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/chess-graph/id/kings-gambit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Opening> .
+<https://github.com/john1hsu/chess-graph/id/kings-gambit> <http://www.w3.org/2000/01/rdf-schema#label> "King's Gambit" .
+<https://github.com/john1hsu/chess-graph/id/kings-gambit> <http://www.w3.org/2004/02/skos/core#altLabel> "KGA" .
+<https://github.com/john1hsu/chess-graph/id/kings-gambit> <http://www.w3.org/2004/02/skos/core#altLabel> "KGD" .
+<https://github.com/john1hsu/chess-graph/id/kings-gambit> <http://www.w3.org/2004/02/skos/core#altLabel> "King's Gambit Accepted" .
+<https://github.com/john1hsu/chess-graph/id/kings-gambit> <http://www.w3.org/2004/02/skos/core#altLabel> "King's Gambit Declined" .
+<https://github.com/john1hsu/chess-graph/id/kings-gambit> <http://www.w3.org/2004/02/skos/core#altLabel> "Kings Gambit" .
+<https://github.com/john1hsu/chess-graph/id/kings-gambit> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/gambit> .
+<https://github.com/john1hsu/chess-graph/id/kings-gambit> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/open-games> .
+<https://github.com/john1hsu/chess-graph/id/kings-gambit> <http://www.w3.org/2004/02/skos/core#definition> "An open game, 1.e4 e5 2.f4, in which White offers the f-pawn to deflect Black's e-pawn, build a full centre with d2-d4 and open the f-file against f7; the emblematic attacking opening of the Romantic era, rarely seen at the top today but never conclusively refuted." .
+<https://github.com/john1hsu/chess-graph/id/kings-gambit> <http://www.w3.org/2004/02/skos/core#prefLabel> "King's Gambit" .
+<https://github.com/john1hsu/chess-graph/id/kings-gambit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/evans-gambit> .
+<https://github.com/john1hsu/chess-graph/id/kings-gambit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/romantic-era> .
+<https://github.com/john1hsu/chess-graph/id/kings-gambit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s1> .
+<https://github.com/john1hsu/chess-graph/id/kings-gambit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s2> .
+<https://github.com/john1hsu/chess-graph/id/kings-gambit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s3> .
+<https://github.com/john1hsu/chess-graph/id/kings-gambit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s4> .
+<https://github.com/john1hsu/chess-graph/id/kings-gambit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s5> .
+<https://github.com/john1hsu/chess-graph/id/kings-gambit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s6> .
+<https://github.com/john1hsu/chess-graph/id/kings-gambit> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/boris-spassky> .
+<https://github.com/john1hsu/chess-graph/id/kings-gambit> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/david-bronstein> .
+<https://github.com/john1hsu/chess-graph/id/kings-gambit> <https://github.com/john1hsu/chess-graph/ontology#counteredBy> <https://github.com/john1hsu/chess-graph/id/falkbeer-countergambit> .
+<https://github.com/john1hsu/chess-graph/id/kings-gambit> <https://github.com/john1hsu/chess-graph/ontology#domain> "openings" .
+<https://github.com/john1hsu/chess-graph/id/kings-gambit> <https://github.com/john1hsu/chess-graph/ontology#eco> "C30" .
+<https://github.com/john1hsu/chess-graph/id/kings-gambit> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/immortal-game> .
+<https://github.com/john1hsu/chess-graph/id/kings-gambit> <https://github.com/john1hsu/chess-graph/ontology#moves> "1.e4 e5 2.f4" .
+<https://github.com/john1hsu/chess-graph/id/kings-gambit> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/kings-gambit> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-15" .
 <https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Engine> .
 <https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <http://www.w3.org/2000/01/rdf-schema#label> "Leela Chess Zero" .
@@ -7760,6 +7789,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/king-safety/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/king-safety/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
 <https://github.com/john1hsu/chess-graph/id/source/king-safety/s6> <https://schema.org/url> "https://mongoosepress.com/Excerpts/hacking_king.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s1> <http://purl.org/dc/terms/publisher> "John Shaw, Quality Chess, via New In Chess product sample PDF (preface dated June 2013)" .
+<https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s1> <http://purl.org/dc/terms/title> "The King's Gambit (sample pages: preface, introduction and contents)" .
+<https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s1> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/7093.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s2> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s2> <http://purl.org/dc/terms/title> "The King's Gambit" .
+<https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s2> <https://schema.org/url> "https://chesshistory.com/winter/extra/kingsgambit.html" .
+<https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s3> <http://purl.org/dc/terms/publisher> "GM Bryan Smith, Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s3> <http://purl.org/dc/terms/title> "The King's Gambit: A History" .
+<https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s3> <https://schema.org/url> "https://www.chess.com/article/view/the-history-of-the-kings-gambit" .
+<https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s4> <http://purl.org/dc/terms/publisher> "Johannes Fischer, ChessBase News (30 January 2024)" .
+<https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s4> <http://purl.org/dc/terms/title> "Spassky plays the King's Gambit" .
+<https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s4> <https://schema.org/url> "https://en.chessbase.com/post/spassky-plays-the-king-s-gambit" .
+<https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s5> <http://purl.org/dc/terms/publisher> "365Chess.com ECO reference" .
+<https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s5> <http://purl.org/dc/terms/title> "C30 King's gambit" .
+<https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s5> <https://schema.org/url> "https://www.365chess.com/eco/C30_King's_gambit" .
+<https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s6> <http://purl.org/dc/terms/publisher> "ChessBase Learn" .
+<https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s6> <http://purl.org/dc/terms/title> "The King's Gambit" .
+<https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s6> <https://schema.org/url> "https://learn.chessbase.com/en/page/das-konigsgambit" .
 <https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s1> <http://purl.org/dc/terms/publisher> "Leela Chess Zero project (lczero.org)" .
 <https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s1> <http://purl.org/dc/terms/title> "What is Lc0?" .
 <https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

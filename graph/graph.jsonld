@@ -9026,6 +9026,99 @@
       ]
     },
     {
+      "@id": "kt:kings-gambit",
+      "@type": "kto:Opening",
+      "skos:prefLabel": "King's Gambit",
+      "skos:definition": "An open game, 1.e4 e5 2.f4, in which White offers the f-pawn to deflect Black's e-pawn, build a full centre with d2-d4 and open the f-file against f7; the emblematic attacking opening of the Romantic era, rarely seen at the top today but never conclusively refuted.",
+      "kto:domain": "openings",
+      "dcterms:created": "2026-11-15",
+      "kto:verified": "2026-11-15",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The King's Gambit (sample pages: preface, introduction and contents)",
+          "dcterms:publisher": "John Shaw, Quality Chess, via New In Chess product sample PDF (preface dated June 2013)",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/7093.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The King's Gambit",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://chesshistory.com/winter/extra/kingsgambit.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "The King's Gambit: A History",
+          "dcterms:publisher": "GM Bryan Smith, Chess.com",
+          "schema:url": "https://www.chess.com/article/view/the-history-of-the-kings-gambit",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Spassky plays the King's Gambit",
+          "dcterms:publisher": "Johannes Fischer, ChessBase News (30 January 2024)",
+          "schema:url": "https://en.chessbase.com/post/spassky-plays-the-king-s-gambit",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "C30 King's gambit",
+          "dcterms:publisher": "365Chess.com ECO reference",
+          "schema:url": "https://www.365chess.com/eco/C30_King's_gambit",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "The King's Gambit",
+          "dcterms:publisher": "ChessBase Learn",
+          "schema:url": "https://learn.chessbase.com/en/page/das-konigsgambit",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/openings/kings-gambit.md",
+      "skos:altLabel": [
+        "Kings Gambit",
+        "King's Gambit Accepted",
+        "King's Gambit Declined",
+        "KGA",
+        "KGD"
+      ],
+      "kto:eco": "C30",
+      "kto:moves": "1.e4 e5 2.f4",
+      "skos:broader": [
+        {
+          "@id": "kt:open-games"
+        },
+        {
+          "@id": "kt:gambit"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:romantic-era"
+        },
+        {
+          "@id": "kt:evans-gambit"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:immortal-game"
+        }
+      ],
+      "kto:championedBy": [
+        {
+          "@id": "kt:boris-spassky"
+        },
+        {
+          "@id": "kt:david-bronstein"
+        }
+      ],
+      "kto:counteredBy": [
+        {
+          "@id": "kt:falkbeer-countergambit"
+        }
+      ]
+    },
+    {
       "@id": "kt:najdorf-variation",
       "@type": "kto:Variation",
       "skos:prefLabel": "Najdorf Variation",

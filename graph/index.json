@@ -2760,6 +2760,33 @@
     ]
   },
   {
+    "id": "kt:kings-gambit",
+    "title": "King's Gambit",
+    "aliases": [
+      "Kings Gambit",
+      "King's Gambit Accepted",
+      "King's Gambit Declined",
+      "KGA",
+      "KGD"
+    ],
+    "type": "Opening",
+    "domain": "openings",
+    "file": "articles/openings/kings-gambit.md",
+    "created": "2026-11-15",
+    "verified": "2026-11-15",
+    "volatile": false,
+    "status": "current",
+    "eco": "C30",
+    "source_urls": [
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/7093.pdf",
+      "https://chesshistory.com/winter/extra/kingsgambit.html",
+      "https://www.chess.com/article/view/the-history-of-the-kings-gambit",
+      "https://en.chessbase.com/post/spassky-plays-the-king-s-gambit",
+      "https://www.365chess.com/eco/C30_King's_gambit",
+      "https://learn.chessbase.com/en/page/das-konigsgambit"
+    ]
+  },
+  {
     "id": "kt:leela-chess-zero",
     "title": "Leela Chess Zero",
     "aliases": [
