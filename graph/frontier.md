@@ -5,7 +5,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:alexander-alekhine`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:boris-spassky`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:magnus-carlsen`, `kt:mikhail-botvinnik`, `kt:tigran-petrosian`, `kt:wilhelm-steinitz` |
-| `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:herbert-simon` |
+| `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:the-turk`, `kt:herbert-simon` |
 | `kt:rapid-chess` | `kt:blitz-chess`, `kt:blitz-chess`, `kt:fischer-increment`, `kt:time-management-in-games` |
 | `kt:chess-clock` | `kt:blitz-chess`, `kt:fischer-increment`, `kt:time-management-in-games` |
 | `kt:dragon-variation` | `kt:backward-pawn`, `kt:najdorf-variation`, `kt:sicilian-defence` |
@@ -67,6 +67,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:carlsbad-1923` | `kt:carlsbad-structure` |
 | `kt:carlsbad-1929` | `kt:aron-nimzowitsch` |
 | `kt:catalan-opening` | `kt:closed-games` |
+| `kt:charles-babbage` | `kt:the-turk` |
 | `kt:chess-4-5` | `kt:iterative-deepening` |
 | `kt:chess-engine-communication-protocol` | `kt:universal-chess-interface` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
@@ -236,6 +237,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:william-chase` | `kt:chunking-theory` |
 | `kt:william-davies-evans` | `kt:evans-gambit` |
 | `kt:winawer-variation` | `kt:french-defence` |
+| `kt:wolfgang-von-kempelen` | `kt:the-turk` |
 | `kt:world-blitz-championship` | `kt:blitz-chess` |
 | `kt:world-chess-championship-1894` | `kt:emanuel-lasker` |
 | `kt:world-chess-championship-1908` | `kt:siegbert-tarrasch` |

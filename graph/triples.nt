@@ -9609,6 +9609,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/template-theory/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/template-theory/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/chess-graph/id/source/template-theory/s4> <https://schema.org/url> "https://core.ac.uk/download/333533.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/the-turk/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/the-turk/s1> <http://purl.org/dc/terms/title> "The Mechanical Turk: AI Marvel or Parlor Trick?" .
+<https://github.com/john1hsu/chess-graph/id/source/the-turk/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/the-turk/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/the-turk/s1> <https://schema.org/url> "https://www.britannica.com/story/the-mechanical-turk-ai-marvel-or-parlor-trick" .
+<https://github.com/john1hsu/chess-graph/id/source/the-turk/s2> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/the-turk/s2> <http://purl.org/dc/terms/title> "Chess: Chess and artificial intelligence" .
+<https://github.com/john1hsu/chess-graph/id/source/the-turk/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/the-turk/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/the-turk/s2> <https://schema.org/url> "https://www.britannica.com/topic/chess/Chess-and-artificial-intelligence" .
+<https://github.com/john1hsu/chess-graph/id/source/the-turk/s3> <http://purl.org/dc/terms/publisher> "Linda Hall Library (William B. Ashworth, Jr.)" .
+<https://github.com/john1hsu/chess-graph/id/source/the-turk/s3> <http://purl.org/dc/terms/title> "Scientist of the Day: Wolfgang von Kempelen" .
+<https://github.com/john1hsu/chess-graph/id/source/the-turk/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/the-turk/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/the-turk/s3> <https://schema.org/url> "https://www.lindahall.org/about/news/scientist-of-the-day/wolfgang-von-kempelen" .
+<https://github.com/john1hsu/chess-graph/id/source/the-turk/s4> <http://purl.org/dc/terms/publisher> "Heinz Nixdorf MuseumsForum" .
+<https://github.com/john1hsu/chess-graph/id/source/the-turk/s4> <http://purl.org/dc/terms/title> "The Chess Turk has been brought back to life" .
+<https://github.com/john1hsu/chess-graph/id/source/the-turk/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/the-turk/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/the-turk/s4> <https://schema.org/url> "https://www.hnf.de/en/permanent-exhibition/exhibition-areas/the-mechanization-of-information-technology/early-automatons-miracles-of-technology/the-chess-turk-has-been-brought-back-to-life.html" .
+<https://github.com/john1hsu/chess-graph/id/source/the-turk/s5> <http://purl.org/dc/terms/publisher> "Jefferson Innovator Magazine, Thomas Jefferson University (Dan Flanagan)" .
+<https://github.com/john1hsu/chess-graph/id/source/the-turk/s5> <http://purl.org/dc/terms/title> "The Automaton Chess Player" .
+<https://github.com/john1hsu/chess-graph/id/source/the-turk/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/the-turk/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/the-turk/s5> <https://schema.org/url> "https://magazine.jefferson.edu/issues/summer-2022/automaton-chess-player.html" .
+<https://github.com/john1hsu/chess-graph/id/source/the-turk/s6> <http://purl.org/dc/terms/publisher> "JSTOR Daily (Betsy Golden Kellem)" .
+<https://github.com/john1hsu/chess-graph/id/source/the-turk/s6> <http://purl.org/dc/terms/title> "Before Deep Blue: The Automaton Chess Player" .
+<https://github.com/john1hsu/chess-graph/id/source/the-turk/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/the-turk/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/the-turk/s6> <https://schema.org/url> "https://daily.jstor.org/before-deep-blue-the-automaton-chess-player" .
+<https://github.com/john1hsu/chess-graph/id/source/the-turk/s7> <http://purl.org/dc/terms/publisher> "ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/the-turk/s7> <http://purl.org/dc/terms/title> "Von Kempelen's chess Turk recreated" .
+<https://github.com/john1hsu/chess-graph/id/source/the-turk/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/the-turk/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/the-turk/s7> <https://schema.org/url> "https://en.chessbase.com/post/von-kempelen-s-che-turk-recreated" .
 <https://github.com/john1hsu/chess-graph/id/source/threefold-repetition/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
 <https://github.com/john1hsu/chess-graph/id/source/threefold-repetition/s1> <http://purl.org/dc/terms/title> "Article 9: The Drawn Game" .
 <https://github.com/john1hsu/chess-graph/id/source/threefold-repetition/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -10519,6 +10554,35 @@
 <https://github.com/john1hsu/chess-graph/id/template-theory> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/chunking-theory> .
 <https://github.com/john1hsu/chess-graph/id/template-theory> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/template-theory> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/the-turk> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/chess-graph/id/the-turk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Artifact> .
+<https://github.com/john1hsu/chess-graph/id/the-turk> <http://www.w3.org/2000/01/rdf-schema#label> "The Turk" .
+<https://github.com/john1hsu/chess-graph/id/the-turk> <http://www.w3.org/2004/02/skos/core#altLabel> "Automaton Chess Player" .
+<https://github.com/john1hsu/chess-graph/id/the-turk> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess Turk" .
+<https://github.com/john1hsu/chess-graph/id/the-turk> <http://www.w3.org/2004/02/skos/core#altLabel> "Kempelen's automaton" .
+<https://github.com/john1hsu/chess-graph/id/the-turk> <http://www.w3.org/2004/02/skos/core#altLabel> "Maelzel's Chess Player" .
+<https://github.com/john1hsu/chess-graph/id/the-turk> <http://www.w3.org/2004/02/skos/core#altLabel> "Mechanical Turk" .
+<https://github.com/john1hsu/chess-graph/id/the-turk> <http://www.w3.org/2004/02/skos/core#altLabel> "Schachtürke" .
+<https://github.com/john1hsu/chess-graph/id/the-turk> <http://www.w3.org/2004/02/skos/core#altLabel> "The Mechanical Turk" .
+<https://github.com/john1hsu/chess-graph/id/the-turk> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/history-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/the-turk> <http://www.w3.org/2004/02/skos/core#definition> "A celebrated chess-playing \"automaton\" unveiled by Wolfgang von Kempelen at the Viennese court around 1769–1770: a turbaned figure seated at a cabinet that appeared to play chess by machinery but was secretly worked by a strong human player hidden inside. It toured Europe and America for decades until it was destroyed by fire in Philadelphia in 1854." .
+<https://github.com/john1hsu/chess-graph/id/the-turk> <http://www.w3.org/2004/02/skos/core#prefLabel> "The Turk" .
+<https://github.com/john1hsu/chess-graph/id/the-turk> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/charles-babbage> .
+<https://github.com/john1hsu/chess-graph/id/the-turk> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/computer-chess> .
+<https://github.com/john1hsu/chess-graph/id/the-turk> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/francois-andre-danican-philidor> .
+<https://github.com/john1hsu/chess-graph/id/the-turk> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/history-of-computer-chess> .
+<https://github.com/john1hsu/chess-graph/id/the-turk> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/the-turk/s1> .
+<https://github.com/john1hsu/chess-graph/id/the-turk> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/the-turk/s2> .
+<https://github.com/john1hsu/chess-graph/id/the-turk> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/the-turk/s3> .
+<https://github.com/john1hsu/chess-graph/id/the-turk> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/the-turk/s4> .
+<https://github.com/john1hsu/chess-graph/id/the-turk> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/the-turk/s5> .
+<https://github.com/john1hsu/chess-graph/id/the-turk> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/the-turk/s6> .
+<https://github.com/john1hsu/chess-graph/id/the-turk> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/the-turk/s7> .
+<https://github.com/john1hsu/chess-graph/id/the-turk> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/wolfgang-von-kempelen> .
+<https://github.com/john1hsu/chess-graph/id/the-turk> <https://github.com/john1hsu/chess-graph/ontology#domain> "history" .
+<https://github.com/john1hsu/chess-graph/id/the-turk> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/history-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/the-turk> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/the-turk> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-15" .
 <https://github.com/john1hsu/chess-graph/id/threefold-repetition> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/chess-graph/id/threefold-repetition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Rule> .
 <https://github.com/john1hsu/chess-graph/id/threefold-repetition> <http://www.w3.org/2000/01/rdf-schema#label> "Threefold repetition" .

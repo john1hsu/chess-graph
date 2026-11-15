@@ -6402,6 +6402,100 @@
       ]
     },
     {
+      "@id": "kt:the-turk",
+      "@type": "kto:Artifact",
+      "skos:prefLabel": "The Turk",
+      "skos:definition": "A celebrated chess-playing \"automaton\" unveiled by Wolfgang von Kempelen at the Viennese court around 1769–1770: a turbaned figure seated at a cabinet that appeared to play chess by machinery but was secretly worked by a strong human player hidden inside. It toured Europe and America for decades until it was destroyed by fire in Philadelphia in 1854.",
+      "kto:domain": "history",
+      "dcterms:created": "2026-11-15",
+      "kto:verified": "2026-11-15",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Mechanical Turk: AI Marvel or Parlor Trick?",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/story/the-mechanical-turk-ai-marvel-or-parlor-trick",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Chess: Chess and artificial intelligence",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/chess/Chess-and-artificial-intelligence",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Scientist of the Day: Wolfgang von Kempelen",
+          "dcterms:publisher": "Linda Hall Library (William B. Ashworth, Jr.)",
+          "schema:url": "https://www.lindahall.org/about/news/scientist-of-the-day/wolfgang-von-kempelen",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "The Chess Turk has been brought back to life",
+          "dcterms:publisher": "Heinz Nixdorf MuseumsForum",
+          "schema:url": "https://www.hnf.de/en/permanent-exhibition/exhibition-areas/the-mechanization-of-information-technology/early-automatons-miracles-of-technology/the-chess-turk-has-been-brought-back-to-life.html",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "The Automaton Chess Player",
+          "dcterms:publisher": "Jefferson Innovator Magazine, Thomas Jefferson University (Dan Flanagan)",
+          "schema:url": "https://magazine.jefferson.edu/issues/summer-2022/automaton-chess-player.html",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Before Deep Blue: The Automaton Chess Player",
+          "dcterms:publisher": "JSTOR Daily (Betsy Golden Kellem)",
+          "schema:url": "https://daily.jstor.org/before-deep-blue-the-automaton-chess-player",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Von Kempelen's chess Turk recreated",
+          "dcterms:publisher": "ChessBase News",
+          "schema:url": "https://en.chessbase.com/post/von-kempelen-s-che-turk-recreated",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/history/the-turk.md",
+      "skos:altLabel": [
+        "Mechanical Turk",
+        "The Mechanical Turk",
+        "Automaton Chess Player",
+        "Kempelen's automaton",
+        "Chess Turk",
+        "Schachtürke",
+        "Maelzel's Chess Player"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:history-of-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:computer-chess"
+        },
+        {
+          "@id": "kt:history-of-computer-chess"
+        },
+        {
+          "@id": "kt:francois-andre-danican-philidor"
+        },
+        {
+          "@id": "kt:charles-babbage"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:history-of-chess"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:wolfgang-von-kempelen"
+        }
+      ]
+    },
+    {
       "@id": "kt:world-chess-championship-1886",
       "@type": "kto:Event",
       "skos:prefLabel": "World Chess Championship 1886",
