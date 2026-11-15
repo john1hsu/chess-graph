@@ -4516,6 +4516,33 @@
     ]
   },
   {
+    "id": "kt:vancura-position",
+    "title": "Vancura position",
+    "aliases": [
+      "Vančura position",
+      "Vancura draw",
+      "Vančura draw",
+      "Vancura defence",
+      "Vancura defense",
+      "Vančura defence"
+    ],
+    "type": "EndgameType",
+    "domain": "endgames",
+    "file": "articles/endgames/vancura-position.md",
+    "created": "2026-11-15",
+    "verified": "2026-11-15",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://en.chessbase.com/post/karsten-mueller-understanding-the-vancura-draw",
+      "https://chessjournalism.org/wp-content/uploads/2025/06/ACM_043_Instructional-Alex-Fishbein-Vancura-and-Fellas-56e5e37b8f240cfeb8342366dd431b5e.pdf",
+      "https://shop.chess-tigers.de/cdn/shop/files/100endgames.pdf",
+      "https://shop.chess-tigers.de/cdn/shop/files/dem5_excerpt.pdf",
+      "https://en.chessbase.com/post/study-of-the-month-2020-07",
+      "https://chesshistory.com/winter/extra/vancura.html"
+    ]
+  },
+  {
     "id": "kt:visualization",
     "title": "Visualization",
     "aliases": [

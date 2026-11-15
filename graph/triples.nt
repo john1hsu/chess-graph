@@ -9769,6 +9769,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/us-chess/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/us-chess/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/chess-graph/id/source/us-chess/s7> <https://schema.org/url> "https://www.glicko.net/research/chance.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/vancura-position/s1> <http://purl.org/dc/terms/publisher> "GM Karsten Müller, ChessBase News (2014)" .
+<https://github.com/john1hsu/chess-graph/id/source/vancura-position/s1> <http://purl.org/dc/terms/title> "Karsten Müller: Understanding the Vancura draw" .
+<https://github.com/john1hsu/chess-graph/id/source/vancura-position/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/vancura-position/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/vancura-position/s1> <https://schema.org/url> "https://en.chessbase.com/post/karsten-mueller-understanding-the-vancura-draw" .
+<https://github.com/john1hsu/chess-graph/id/source/vancura-position/s2> <http://purl.org/dc/terms/publisher> "GM Alex Fishbein, American Chess Magazine no. 43, hosted by chessjournalism.org" .
+<https://github.com/john1hsu/chess-graph/id/source/vancura-position/s2> <http://purl.org/dc/terms/title> "Vancura and Fellas" .
+<https://github.com/john1hsu/chess-graph/id/source/vancura-position/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/vancura-position/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/vancura-position/s2> <https://schema.org/url> "https://chessjournalism.org/wp-content/uploads/2025/06/ACM_043_Instructional-Alex-Fishbein-Vancura-and-Fellas-56e5e37b8f240cfeb8342366dd431b5e.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/vancura-position/s3> <http://purl.org/dc/terms/publisher> "Jesús de la Villa, New In Chess (2023); excerpt hosted by Chess Tigers" .
+<https://github.com/john1hsu/chess-graph/id/source/vancura-position/s3> <http://purl.org/dc/terms/title> "100 Endgames You Must Know, sixth edition (excerpt: contents and Ending 76)" .
+<https://github.com/john1hsu/chess-graph/id/source/vancura-position/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/vancura-position/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/vancura-position/s3> <https://schema.org/url> "https://shop.chess-tigers.de/cdn/shop/files/100endgames.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/vancura-position/s4> <http://purl.org/dc/terms/publisher> "Mark Dvoretsky, revised by Karsten Müller, Russell Enterprises (2020); excerpt hosted by Chess Tigers" .
+<https://github.com/john1hsu/chess-graph/id/source/vancura-position/s4> <http://purl.org/dc/terms/title> "Dvoretsky's Endgame Manual, fifth edition (excerpt: contents)" .
+<https://github.com/john1hsu/chess-graph/id/source/vancura-position/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/vancura-position/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/vancura-position/s4> <https://schema.org/url> "https://shop.chess-tigers.de/cdn/shop/files/dem5_excerpt.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/vancura-position/s5> <http://purl.org/dc/terms/publisher> "ChessBase News, Study of the Month (July 2020)" .
+<https://github.com/john1hsu/chess-graph/id/source/vancura-position/s5> <http://purl.org/dc/terms/title> "Check Czech Chess: Father and son Josef Vančura" .
+<https://github.com/john1hsu/chess-graph/id/source/vancura-position/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/vancura-position/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/vancura-position/s5> <https://schema.org/url> "https://en.chessbase.com/post/study-of-the-month-2020-07" .
+<https://github.com/john1hsu/chess-graph/id/source/vancura-position/s6> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/vancura-position/s6> <http://purl.org/dc/terms/title> "Josef Vančura" .
+<https://github.com/john1hsu/chess-graph/id/source/vancura-position/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/vancura-position/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/vancura-position/s6> <https://schema.org/url> "https://chesshistory.com/winter/extra/vancura.html" .
 <https://github.com/john1hsu/chess-graph/id/source/visualization/s1> <http://purl.org/dc/terms/publisher> "Guillermo Campitelli and Fernand Gobet, CORE / University of Nottingham" .
 <https://github.com/john1hsu/chess-graph/id/source/visualization/s1> <http://purl.org/dc/terms/title> "The mind's eye in blindfold chess (European Journal of Cognitive Psychology 17, 23-45, 2005)" .
 <https://github.com/john1hsu/chess-graph/id/source/visualization/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -10627,6 +10657,35 @@
 <https://github.com/john1hsu/chess-graph/id/us-chess> <https://github.com/john1hsu/chess-graph/ontology#memberOf> <https://github.com/john1hsu/chess-graph/id/fide> .
 <https://github.com/john1hsu/chess-graph/id/us-chess> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/us-chess> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/vancura-position> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/chess-graph/id/vancura-position> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#EndgameType> .
+<https://github.com/john1hsu/chess-graph/id/vancura-position> <http://www.w3.org/2000/01/rdf-schema#label> "Vancura position" .
+<https://github.com/john1hsu/chess-graph/id/vancura-position> <http://www.w3.org/2004/02/skos/core#altLabel> "Vancura defence" .
+<https://github.com/john1hsu/chess-graph/id/vancura-position> <http://www.w3.org/2004/02/skos/core#altLabel> "Vancura defense" .
+<https://github.com/john1hsu/chess-graph/id/vancura-position> <http://www.w3.org/2004/02/skos/core#altLabel> "Vancura draw" .
+<https://github.com/john1hsu/chess-graph/id/vancura-position> <http://www.w3.org/2004/02/skos/core#altLabel> "Vančura defence" .
+<https://github.com/john1hsu/chess-graph/id/vancura-position> <http://www.w3.org/2004/02/skos/core#altLabel> "Vančura draw" .
+<https://github.com/john1hsu/chess-graph/id/vancura-position> <http://www.w3.org/2004/02/skos/core#altLabel> "Vančura position" .
+<https://github.com/john1hsu/chess-graph/id/vancura-position> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/rook-endgames> .
+<https://github.com/john1hsu/chess-graph/id/vancura-position> <http://www.w3.org/2004/02/skos/core#definition> "The standard drawing method in rook and rook's pawn against rook when the attacking rook stands in front of a pawn on the sixth rank: the defending rook attacks the pawn from the side and gives lateral checks, while the defending king waits on the far side near g7/h7." .
+<https://github.com/john1hsu/chess-graph/id/vancura-position> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vancura position" .
+<https://github.com/john1hsu/chess-graph/id/vancura-position> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fortress> .
+<https://github.com/john1hsu/chess-graph/id/vancura-position> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/lucena-position> .
+<https://github.com/john1hsu/chess-graph/id/vancura-position> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/philidor-position> .
+<https://github.com/john1hsu/chess-graph/id/vancura-position> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/vancura-position/s1> .
+<https://github.com/john1hsu/chess-graph/id/vancura-position> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/vancura-position/s2> .
+<https://github.com/john1hsu/chess-graph/id/vancura-position> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/vancura-position/s3> .
+<https://github.com/john1hsu/chess-graph/id/vancura-position> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/vancura-position/s4> .
+<https://github.com/john1hsu/chess-graph/id/vancura-position> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/vancura-position/s5> .
+<https://github.com/john1hsu/chess-graph/id/vancura-position> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/vancura-position/s6> .
+<https://github.com/john1hsu/chess-graph/id/vancura-position> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/philidor-position> .
+<https://github.com/john1hsu/chess-graph/id/vancura-position> <https://github.com/john1hsu/chess-graph/ontology#domain> "endgames" .
+<https://github.com/john1hsu/chess-graph/id/vancura-position> <https://github.com/john1hsu/chess-graph/ontology#fen> "R7/6k1/P7/8/8/5K2/8/r7 b - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/vancura-position> <https://github.com/john1hsu/chess-graph/ontology#namedAfter> <https://github.com/john1hsu/chess-graph/id/josef-vancura> .
+<https://github.com/john1hsu/chess-graph/id/vancura-position> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/rook-endgames> .
+<https://github.com/john1hsu/chess-graph/id/vancura-position> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/vancura-position> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/side-checks> .
+<https://github.com/john1hsu/chess-graph/id/vancura-position> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-15" .
 <https://github.com/john1hsu/chess-graph/id/visualization> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/visualization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#CognitiveConcept> .
 <https://github.com/john1hsu/chess-graph/id/visualization> <http://www.w3.org/2000/01/rdf-schema#label> "Visualization" .

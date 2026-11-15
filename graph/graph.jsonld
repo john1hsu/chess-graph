@@ -3017,6 +3017,101 @@
       ]
     },
     {
+      "@id": "kt:vancura-position",
+      "@type": "kto:EndgameType",
+      "skos:prefLabel": "Vancura position",
+      "skos:definition": "The standard drawing method in rook and rook's pawn against rook when the attacking rook stands in front of a pawn on the sixth rank: the defending rook attacks the pawn from the side and gives lateral checks, while the defending king waits on the far side near g7/h7.",
+      "kto:domain": "endgames",
+      "dcterms:created": "2026-11-15",
+      "kto:verified": "2026-11-15",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Karsten Müller: Understanding the Vancura draw",
+          "dcterms:publisher": "GM Karsten Müller, ChessBase News (2014)",
+          "schema:url": "https://en.chessbase.com/post/karsten-mueller-understanding-the-vancura-draw",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Vancura and Fellas",
+          "dcterms:publisher": "GM Alex Fishbein, American Chess Magazine no. 43, hosted by chessjournalism.org",
+          "schema:url": "https://chessjournalism.org/wp-content/uploads/2025/06/ACM_043_Instructional-Alex-Fishbein-Vancura-and-Fellas-56e5e37b8f240cfeb8342366dd431b5e.pdf",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "100 Endgames You Must Know, sixth edition (excerpt: contents and Ending 76)",
+          "dcterms:publisher": "Jesús de la Villa, New In Chess (2023); excerpt hosted by Chess Tigers",
+          "schema:url": "https://shop.chess-tigers.de/cdn/shop/files/100endgames.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Dvoretsky's Endgame Manual, fifth edition (excerpt: contents)",
+          "dcterms:publisher": "Mark Dvoretsky, revised by Karsten Müller, Russell Enterprises (2020); excerpt hosted by Chess Tigers",
+          "schema:url": "https://shop.chess-tigers.de/cdn/shop/files/dem5_excerpt.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Check Czech Chess: Father and son Josef Vančura",
+          "dcterms:publisher": "ChessBase News, Study of the Month (July 2020)",
+          "schema:url": "https://en.chessbase.com/post/study-of-the-month-2020-07",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Josef Vančura",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://chesshistory.com/winter/extra/vancura.html",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/endgames/vancura-position.md",
+      "skos:altLabel": [
+        "Vančura position",
+        "Vancura draw",
+        "Vančura draw",
+        "Vancura defence",
+        "Vancura defense",
+        "Vančura defence"
+      ],
+      "kto:fen": "R7/6k1/P7/8/8/5K2/8/r7 b - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:rook-endgames"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:philidor-position"
+        },
+        {
+          "@id": "kt:lucena-position"
+        },
+        {
+          "@id": "kt:fortress"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:rook-endgames"
+        }
+      ],
+      "kto:namedAfter": [
+        {
+          "@id": "kt:josef-vancura"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:philidor-position"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:side-checks"
+        }
+      ]
+    },
+    {
       "@id": "kt:wrong-bishop",
       "@type": "kto:EndgameType",
       "skos:prefLabel": "Wrong bishop",

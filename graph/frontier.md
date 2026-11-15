@@ -49,7 +49,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
 | `kt:steven-j-edwards` | `kt:forsyth-edwards-notation`, `kt:portable-game-notation` |
 | `kt:tie-break` | `kt:chess-tournament`, `kt:us-chess-championship` |
-| `kt:vancura-position` | `kt:rook-endgames`, `kt:wrong-bishop` |
 | `kt:viswanathan-anand` | `kt:gukesh-dommaraju`, `kt:magnus-carlsen` |
 | `kt:abraham-luchins` | `kt:einstellung-effect` |
 | `kt:abstract-strategy-game` | `kt:chess` |
@@ -127,6 +126,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:jean-dufresne` | `kt:evergreen-game` |
 | `kt:john-mccarthy` | `kt:alpha-beta-pruning` |
 | `kt:john-von-neumann` | `kt:minimax` |
+| `kt:josef-vancura` | `kt:vancura-position` |
 | `kt:kaissa` | `kt:bitboards` |
 | `kt:kasparov-versus-anand-riga-1995` | `kt:evans-gambit` |
 | `kt:kasparov-versus-topalov-wijk-aan-zee-1999` | `kt:garry-kasparov` |
@@ -206,6 +206,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:semi-closed-games` | `kt:chess-openings` |
 | `kt:semi-slav-defence` | `kt:slav-defence` |
 | `kt:shuffle-chess` | `kt:chess960` |
+| `kt:side-checks` | `kt:vancura-position` |
 | `kt:simultaneous-exhibition` | `kt:blindfold-chess` |
 | `kt:sindarov-versus-caruana-candidates-2026` | `kt:javokhir-sindarov` |
 | `kt:sinquefield-cup` | `kt:saint-louis-chess-club` |
