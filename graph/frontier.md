@@ -19,9 +19,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:sveshnikov-variation` | `kt:backward-pawn`, `kt:outpost`, `kt:sicilian-defence` |
 | `kt:top-chess-engine-championship` | `kt:leela-chess-zero`, `kt:opening-book`, `kt:stockfish` |
 | `kt:transposition-table` | `kt:alpha-beta-pruning`, `kt:game-tree-search`, `kt:opening-book` |
-| `kt:underpromotion` | `kt:pawn-promotion`, `kt:excelsior`, `kt:saavedra-position` |
 | `kt:vladimir-kramnik` | `kt:alphazero`, `kt:ruy-lopez`, `kt:garry-kasparov` |
 | `kt:adams-versus-torre-new-orleans-1920` | `kt:back-rank-mate`, `kt:overloading` |
+| `kt:albin-countergambit` | `kt:queens-gambit`, `kt:underpromotion` |
 | `kt:alekhine-versus-nimzowitsch-san-remo-1930` | `kt:open-file`, `kt:alexander-alekhine` |
 | `kt:alekhines-gun` | `kt:open-file`, `kt:alexander-alekhine` |
 | `kt:alexander-kotov` | `kt:calculation`, `kt:candidate-moves` |
@@ -56,7 +56,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:viswanathan-anand` | `kt:gukesh-dommaraju`, `kt:magnus-carlsen` |
 | `kt:abraham-luchins` | `kt:einstellung-effect` |
 | `kt:abstract-strategy-game` | `kt:chess` |
-| `kt:albin-countergambit` | `kt:queens-gambit` |
 | `kt:alfred-binet` | `kt:cognitive-psychology-of-chess` |
 | `kt:allen-newell` | `kt:herbert-simon` |
 | `kt:allumwandlung` | `kt:excelsior` |

@@ -8947,6 +8947,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/triangulation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/triangulation/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
 <https://github.com/john1hsu/chess-graph/id/source/triangulation/s4> <https://schema.org/url> "https://gutenberg.org/files/5614/5614-h/5614-h.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/underpromotion/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/underpromotion/s1> <http://purl.org/dc/terms/title> "FIDE Laws of Chess (applied from 1 January 2023), full text: Articles 3.7.3.3–3.7.3.5, 4.4.4, 4.6 and 7.5.2" .
+<https://github.com/john1hsu/chess-graph/id/source/underpromotion/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/underpromotion/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/underpromotion/s1> <https://schema.org/url> "https://rcc.fide.com/fide-laws-of-chess_fulltexthtml/" .
+<https://github.com/john1hsu/chess-graph/id/source/underpromotion/s2> <http://purl.org/dc/terms/publisher> "Noam D. Elkies (originally in Chess Horizons), via chabris.com" .
+<https://github.com/john1hsu/chess-graph/id/source/underpromotion/s2> <http://purl.org/dc/terms/title> "Endgame Explorations 6: Underpromotion (Part 1)" .
+<https://github.com/john1hsu/chess-graph/id/source/underpromotion/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/underpromotion/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/underpromotion/s2> <https://schema.org/url> "https://www.chabris.com/pub/acj/extra/Elkies/Elkies06.html" .
+<https://github.com/john1hsu/chess-graph/id/source/underpromotion/s3> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/underpromotion/s3> <http://purl.org/dc/terms/title> "Underpromotion in Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/underpromotion/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/underpromotion/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/underpromotion/s3> <https://schema.org/url> "https://chesshistory.com/winter/extra/underpromotion.html" .
+<https://github.com/john1hsu/chess-graph/id/source/underpromotion/s4> <http://purl.org/dc/terms/publisher> "Harold van der Heijden (book listing, biblio.co.uk)" .
+<https://github.com/john1hsu/chess-graph/id/source/underpromotion/s4> <http://purl.org/dc/terms/title> "Pawn Promotion to Bishop or Rook in the Endgame Study (Interchess, 1996)" .
+<https://github.com/john1hsu/chess-graph/id/source/underpromotion/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/underpromotion/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/underpromotion/s4> <https://schema.org/url> "https://biblio.co.uk/book/pawn-promotion-bishop-rook-endgame-study/d/1588419801" .
+<https://github.com/john1hsu/chess-graph/id/source/underpromotion/s5> <http://purl.org/dc/terms/publisher> "GM Daniel Naroditsky, Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/underpromotion/s5> <http://purl.org/dc/terms/title> "A Guide To Underpromotion" .
+<https://github.com/john1hsu/chess-graph/id/source/underpromotion/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/underpromotion/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/underpromotion/s5> <https://schema.org/url> "https://www.chess.com/article/view/a-guide-to-underpromotion" .
+<https://github.com/john1hsu/chess-graph/id/source/underpromotion/s6> <http://purl.org/dc/terms/publisher> "NM Sam Copeland, Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/underpromotion/s6> <http://purl.org/dc/terms/title> "The Rarest Chess Move: Underpromoting To A Bishop" .
+<https://github.com/john1hsu/chess-graph/id/source/underpromotion/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/underpromotion/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/underpromotion/s6> <https://schema.org/url> "https://www.chess.com/blog/SamCopeland/the-rarest-chess-move-underpromoting-to-a-bishop" .
 <https://github.com/john1hsu/chess-graph/id/source/universal-chess-interface/s1> <http://purl.org/dc/terms/publisher> "Shredder Computer Chess (Stefan Meyer-Kahlen)" .
 <https://github.com/john1hsu/chess-graph/id/source/universal-chess-interface/s1> <http://purl.org/dc/terms/title> "UCI (Universal Chess Interface)" .
 <https://github.com/john1hsu/chess-graph/id/source/universal-chess-interface/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -9681,6 +9711,35 @@
 <https://github.com/john1hsu/chess-graph/id/triangulation> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/corresponding-squares> .
 <https://github.com/john1hsu/chess-graph/id/triangulation> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/triangulation> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/underpromotion> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/chess-graph/id/underpromotion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TacticalMotif> .
+<https://github.com/john1hsu/chess-graph/id/underpromotion> <http://www.w3.org/2000/01/rdf-schema#label> "Underpromotion" .
+<https://github.com/john1hsu/chess-graph/id/underpromotion> <http://www.w3.org/2004/02/skos/core#altLabel> "Bishop promotion" .
+<https://github.com/john1hsu/chess-graph/id/underpromotion> <http://www.w3.org/2004/02/skos/core#altLabel> "Knight promotion" .
+<https://github.com/john1hsu/chess-graph/id/underpromotion> <http://www.w3.org/2004/02/skos/core#altLabel> "Knighting" .
+<https://github.com/john1hsu/chess-graph/id/underpromotion> <http://www.w3.org/2004/02/skos/core#altLabel> "Minor promotion" .
+<https://github.com/john1hsu/chess-graph/id/underpromotion> <http://www.w3.org/2004/02/skos/core#altLabel> "Rook promotion" .
+<https://github.com/john1hsu/chess-graph/id/underpromotion> <http://www.w3.org/2004/02/skos/core#altLabel> "Under-promotion" .
+<https://github.com/john1hsu/chess-graph/id/underpromotion> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-tactics> .
+<https://github.com/john1hsu/chess-graph/id/underpromotion> <http://www.w3.org/2004/02/skos/core#definition> "Promoting a pawn to a rook, bishop or knight instead of a queen, chosen either to avoid giving stalemate or to exploit the knight's move, which a queen cannot make." .
+<https://github.com/john1hsu/chess-graph/id/underpromotion> <http://www.w3.org/2004/02/skos/core#prefLabel> "Underpromotion" .
+<https://github.com/john1hsu/chess-graph/id/underpromotion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/albin-countergambit> .
+<https://github.com/john1hsu/chess-graph/id/underpromotion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/endgame-study> .
+<https://github.com/john1hsu/chess-graph/id/underpromotion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/excelsior> .
+<https://github.com/john1hsu/chess-graph/id/underpromotion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fork> .
+<https://github.com/john1hsu/chess-graph/id/underpromotion> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/saavedra-position> .
+<https://github.com/john1hsu/chess-graph/id/underpromotion> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/underpromotion/s1> .
+<https://github.com/john1hsu/chess-graph/id/underpromotion> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/underpromotion/s2> .
+<https://github.com/john1hsu/chess-graph/id/underpromotion> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/underpromotion/s3> .
+<https://github.com/john1hsu/chess-graph/id/underpromotion> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/underpromotion/s4> .
+<https://github.com/john1hsu/chess-graph/id/underpromotion> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/underpromotion/s5> .
+<https://github.com/john1hsu/chess-graph/id/underpromotion> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/underpromotion/s6> .
+<https://github.com/john1hsu/chess-graph/id/underpromotion> <https://github.com/john1hsu/chess-graph/ontology#counters> <https://github.com/john1hsu/chess-graph/id/stalemate> .
+<https://github.com/john1hsu/chess-graph/id/underpromotion> <https://github.com/john1hsu/chess-graph/ontology#domain> "tactics" .
+<https://github.com/john1hsu/chess-graph/id/underpromotion> <https://github.com/john1hsu/chess-graph/ontology#fen> "2K5/1P5r/2k5/8/8/8/8/8 w - - 0 3" .
+<https://github.com/john1hsu/chess-graph/id/underpromotion> <https://github.com/john1hsu/chess-graph/ontology#governedBy> <https://github.com/john1hsu/chess-graph/id/pawn-promotion> .
+<https://github.com/john1hsu/chess-graph/id/underpromotion> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/underpromotion> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-15" .
 <https://github.com/john1hsu/chess-graph/id/universal-chess-interface> <http://purl.org/dc/terms/created> "2026-11-14" .
 <https://github.com/john1hsu/chess-graph/id/universal-chess-interface> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Software> .
 <https://github.com/john1hsu/chess-graph/id/universal-chess-interface> <http://www.w3.org/2000/01/rdf-schema#label> "Universal Chess Interface" .

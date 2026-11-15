@@ -13544,6 +13544,97 @@
       ]
     },
     {
+      "@id": "kt:underpromotion",
+      "@type": "kto:TacticalMotif",
+      "skos:prefLabel": "Underpromotion",
+      "skos:definition": "Promoting a pawn to a rook, bishop or knight instead of a queen, chosen either to avoid giving stalemate or to exploit the knight's move, which a queen cannot make.",
+      "kto:domain": "tactics",
+      "dcterms:created": "2026-11-15",
+      "kto:verified": "2026-11-15",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "FIDE Laws of Chess (applied from 1 January 2023), full text: Articles 3.7.3.3–3.7.3.5, 4.4.4, 4.6 and 7.5.2",
+          "dcterms:publisher": "FIDE Rules Commission",
+          "schema:url": "https://rcc.fide.com/fide-laws-of-chess_fulltexthtml/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Endgame Explorations 6: Underpromotion (Part 1)",
+          "dcterms:publisher": "Noam D. Elkies (originally in Chess Horizons), via chabris.com",
+          "schema:url": "https://www.chabris.com/pub/acj/extra/Elkies/Elkies06.html",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Underpromotion in Chess",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://chesshistory.com/winter/extra/underpromotion.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Pawn Promotion to Bishop or Rook in the Endgame Study (Interchess, 1996)",
+          "dcterms:publisher": "Harold van der Heijden (book listing, biblio.co.uk)",
+          "schema:url": "https://biblio.co.uk/book/pawn-promotion-bishop-rook-endgame-study/d/1588419801",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "A Guide To Underpromotion",
+          "dcterms:publisher": "GM Daniel Naroditsky, Chess.com",
+          "schema:url": "https://www.chess.com/article/view/a-guide-to-underpromotion",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The Rarest Chess Move: Underpromoting To A Bishop",
+          "dcterms:publisher": "NM Sam Copeland, Chess.com",
+          "schema:url": "https://www.chess.com/blog/SamCopeland/the-rarest-chess-move-underpromoting-to-a-bishop",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/tactics/underpromotion.md",
+      "skos:altLabel": [
+        "Under-promotion",
+        "Minor promotion",
+        "Knighting",
+        "Knight promotion",
+        "Rook promotion",
+        "Bishop promotion"
+      ],
+      "kto:fen": "2K5/1P5r/2k5/8/8/8/8/8 w - - 0 3",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-tactics"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:saavedra-position"
+        },
+        {
+          "@id": "kt:albin-countergambit"
+        },
+        {
+          "@id": "kt:fork"
+        },
+        {
+          "@id": "kt:endgame-study"
+        },
+        {
+          "@id": "kt:excelsior"
+        }
+      ],
+      "kto:governedBy": [
+        {
+          "@id": "kt:pawn-promotion"
+        }
+      ],
+      "kto:counters": [
+        {
+          "@id": "kt:stalemate"
+        }
+      ]
+    },
+    {
       "@id": "kt:zwischenzug",
       "@type": "kto:TacticalMotif",
       "skos:prefLabel": "Zwischenzug",

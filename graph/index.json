@@ -4099,6 +4099,33 @@
     ]
   },
   {
+    "id": "kt:underpromotion",
+    "title": "Underpromotion",
+    "aliases": [
+      "Under-promotion",
+      "Minor promotion",
+      "Knighting",
+      "Knight promotion",
+      "Rook promotion",
+      "Bishop promotion"
+    ],
+    "type": "TacticalMotif",
+    "domain": "tactics",
+    "file": "articles/tactics/underpromotion.md",
+    "created": "2026-11-15",
+    "verified": "2026-11-15",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://rcc.fide.com/fide-laws-of-chess_fulltexthtml/",
+      "https://www.chabris.com/pub/acj/extra/Elkies/Elkies06.html",
+      "https://chesshistory.com/winter/extra/underpromotion.html",
+      "https://biblio.co.uk/book/pawn-promotion-bishop-rook-endgame-study/d/1588419801",
+      "https://www.chess.com/article/view/a-guide-to-underpromotion",
+      "https://www.chess.com/blog/SamCopeland/the-rarest-chess-move-underpromoting-to-a-bishop"
+    ]
+  },
+  {
     "id": "kt:universal-chess-interface",
     "title": "Universal Chess Interface",
     "aliases": [
