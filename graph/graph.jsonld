@@ -725,6 +725,102 @@
       ]
     },
     {
+      "@id": "kt:iterative-deepening",
+      "@type": "kto:Algorithm",
+      "skos:prefLabel": "Iterative deepening",
+      "skos:definition": "A search control scheme in which a chess engine runs a series of complete depth-limited searches, one ply, then two, then three and so on, until its time runs out, using each finished iteration both as a ready answer and as move-ordering information for the next.",
+      "kto:domain": "computer-chess",
+      "dcterms:created": "2026-11-15",
+      "kto:verified": "2026-11-15",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Depth-First Iterative-Deepening: An Optimal Admissible Tree Search (Artificial Intelligence 27, 1985)",
+          "dcterms:publisher": "Richard E. Korf, copy hosted by the University of South Carolina",
+          "schema:url": "https://cse.sc.edu/~mgv/csce580f11/gradPres/korf_IDAStar_1985.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Heuristic Search in One and Two Player Games (revised for ACM Computing Surveys)",
+          "dcterms:publisher": "T. Anthony Marsland and Alexander Reinefeld, University of Alberta technical report TR93-02",
+          "schema:url": "https://webdocs.cs.ualberta.ca/~tony/TechnicalReports/TR93-02.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The Anatomy of Chess Programs (8th World Computer Chess Championship brochure, 1995)",
+          "dcterms:publisher": "T. Anthony Marsland, University of Alberta",
+          "schema:url": "https://webdocs.cs.ualberta.ca/~tony/ICCA/anatomy.html",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Iterative Deepening",
+          "dcterms:publisher": "Chess Programming Wiki",
+          "schema:url": "https://www.chessprogramming.org:443/Iterative_Deepening",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "GNU Chess manual: Search algorithm",
+          "dcterms:publisher": "GNU Project, Free Software Foundation",
+          "schema:url": "https://www.gnu.org/software/chess/manual/html_node/Search-algorithm.html",
+          "kto:sourceType": "official-project"
+        }
+      ],
+      "kto:file": "articles/computer-chess/iterative-deepening.md",
+      "skos:altLabel": [
+        "Depth-first iterative deepening",
+        "DFID",
+        "Iterative deepening search",
+        "Iterated search",
+        "ID search"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:game-tree-search"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:alpha-beta-pruning"
+        },
+        {
+          "@id": "kt:transposition-table"
+        },
+        {
+          "@id": "kt:move-ordering"
+        },
+        {
+          "@id": "kt:aspiration-window"
+        },
+        {
+          "@id": "kt:progressive-deepening"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:move-ordering"
+        },
+        {
+          "@id": "kt:time-management-in-games"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:alpha-beta-pruning"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:progressive-deepening"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:chess-4-5"
+        }
+      ]
+    },
+    {
       "@id": "kt:leela-chess-zero",
       "@type": "kto:Engine",
       "skos:prefLabel": "Leela Chess Zero",

@@ -5,7 +5,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:alexander-alekhine`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:boris-spassky`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:magnus-carlsen`, `kt:mikhail-botvinnik`, `kt:tigran-petrosian`, `kt:wilhelm-steinitz` |
-| `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search`, `kt:transposition-table`, `kt:transposition-table`, `kt:progressive-deepening` |
+| `kt:move-ordering` | `kt:alpha-beta-pruning`, `kt:iterative-deepening`, `kt:iterative-deepening`, `kt:quiescence-search`, `kt:transposition-table` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:herbert-simon` |
 | `kt:kings-gambit` | `kt:immortal-game`, `kt:evans-gambit`, `kt:open-games`, `kt:boris-spassky` |
 | `kt:rapid-chess` | `kt:blitz-chess`, `kt:blitz-chess`, `kt:fischer-increment`, `kt:time-management-in-games` |
@@ -13,7 +13,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:dragon-variation` | `kt:backward-pawn`, `kt:najdorf-variation`, `kt:sicilian-defence` |
 | `kt:johannes-zukertort` | `kt:world-chess-championship-1886`, `kt:adolf-anderssen`, `kt:wilhelm-steinitz` |
 | `kt:mikhail-chigorin` | `kt:hastings-1895`, `kt:evans-gambit`, `kt:wilhelm-steinitz` |
-| `kt:move-ordering` | `kt:alpha-beta-pruning`, `kt:quiescence-search`, `kt:transposition-table` |
 | `kt:rook-on-the-seventh-rank` | `kt:steinitz-von-bardeleben-hastings-1895`, `kt:open-file`, `kt:open-file` |
 | `kt:sveshnikov-variation` | `kt:backward-pawn`, `kt:outpost`, `kt:sicilian-defence` |
 | `kt:top-chess-engine-championship` | `kt:leela-chess-zero`, `kt:opening-book`, `kt:stockfish` |
@@ -62,6 +61,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:artificial-intelligence` | `kt:computer-chess` |
 | `kt:as-suli` | `kt:shatranj` |
 | `kt:asian-chess-federation` | `kt:european-chess-union` |
+| `kt:aspiration-window` | `kt:iterative-deepening` |
 | `kt:baden-baden-1870` | `kt:adolf-anderssen` |
 | `kt:battery` | `kt:selfmate` |
 | `kt:board-representation` | `kt:bitboards` |
@@ -69,6 +69,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:carlsbad-1923` | `kt:carlsbad-structure` |
 | `kt:carlsbad-1929` | `kt:aron-nimzowitsch` |
 | `kt:catalan-opening` | `kt:closed-games` |
+| `kt:chess-4-5` | `kt:iterative-deepening` |
 | `kt:chess-engine-communication-protocol` | `kt:universal-chess-interface` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
 | `kt:chess-set` | `kt:lewis-chessmen` |

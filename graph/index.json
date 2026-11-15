@@ -2604,6 +2604,31 @@
     ]
   },
   {
+    "id": "kt:iterative-deepening",
+    "title": "Iterative deepening",
+    "aliases": [
+      "Depth-first iterative deepening",
+      "DFID",
+      "Iterative deepening search",
+      "Iterated search",
+      "ID search"
+    ],
+    "type": "Algorithm",
+    "domain": "computer-chess",
+    "file": "articles/computer-chess/iterative-deepening.md",
+    "created": "2026-11-15",
+    "verified": "2026-11-15",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://cse.sc.edu/~mgv/csce580f11/gradPres/korf_IDAStar_1985.pdf",
+      "https://webdocs.cs.ualberta.ca/~tony/TechnicalReports/TR93-02.pdf",
+      "https://webdocs.cs.ualberta.ca/~tony/ICCA/anatomy.html",
+      "https://www.chessprogramming.org:443/Iterative_Deepening",
+      "https://www.gnu.org/software/chess/manual/html_node/Search-algorithm.html"
+    ]
+  },
+  {
     "id": "kt:javokhir-sindarov",
     "title": "Javokhir Sindarov",
     "aliases": [

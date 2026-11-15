@@ -2926,6 +2926,35 @@
 <https://github.com/john1hsu/chess-graph/id/italian-game> <https://github.com/john1hsu/chess-graph/ontology#moves> "1.e4 e5 2.Nf3 Nc6 3.Bc4" .
 <https://github.com/john1hsu/chess-graph/id/italian-game> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/italian-game> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/iterative-deepening> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/chess-graph/id/iterative-deepening> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Algorithm> .
+<https://github.com/john1hsu/chess-graph/id/iterative-deepening> <http://www.w3.org/2000/01/rdf-schema#label> "Iterative deepening" .
+<https://github.com/john1hsu/chess-graph/id/iterative-deepening> <http://www.w3.org/2004/02/skos/core#altLabel> "DFID" .
+<https://github.com/john1hsu/chess-graph/id/iterative-deepening> <http://www.w3.org/2004/02/skos/core#altLabel> "Depth-first iterative deepening" .
+<https://github.com/john1hsu/chess-graph/id/iterative-deepening> <http://www.w3.org/2004/02/skos/core#altLabel> "ID search" .
+<https://github.com/john1hsu/chess-graph/id/iterative-deepening> <http://www.w3.org/2004/02/skos/core#altLabel> "Iterated search" .
+<https://github.com/john1hsu/chess-graph/id/iterative-deepening> <http://www.w3.org/2004/02/skos/core#altLabel> "Iterative deepening search" .
+<https://github.com/john1hsu/chess-graph/id/iterative-deepening> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/game-tree-search> .
+<https://github.com/john1hsu/chess-graph/id/iterative-deepening> <http://www.w3.org/2004/02/skos/core#definition> "A search control scheme in which a chess engine runs a series of complete depth-limited searches, one ply, then two, then three and so on, until its time runs out, using each finished iteration both as a ready answer and as move-ordering information for the next." .
+<https://github.com/john1hsu/chess-graph/id/iterative-deepening> <http://www.w3.org/2004/02/skos/core#prefLabel> "Iterative deepening" .
+<https://github.com/john1hsu/chess-graph/id/iterative-deepening> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> .
+<https://github.com/john1hsu/chess-graph/id/iterative-deepening> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/aspiration-window> .
+<https://github.com/john1hsu/chess-graph/id/iterative-deepening> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/move-ordering> .
+<https://github.com/john1hsu/chess-graph/id/iterative-deepening> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/progressive-deepening> .
+<https://github.com/john1hsu/chess-graph/id/iterative-deepening> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/transposition-table> .
+<https://github.com/john1hsu/chess-graph/id/iterative-deepening> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/iterative-deepening/s1> .
+<https://github.com/john1hsu/chess-graph/id/iterative-deepening> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/iterative-deepening/s2> .
+<https://github.com/john1hsu/chess-graph/id/iterative-deepening> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/iterative-deepening/s3> .
+<https://github.com/john1hsu/chess-graph/id/iterative-deepening> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/iterative-deepening/s4> .
+<https://github.com/john1hsu/chess-graph/id/iterative-deepening> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/iterative-deepening/s5> .
+<https://github.com/john1hsu/chess-graph/id/iterative-deepening> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/progressive-deepening> .
+<https://github.com/john1hsu/chess-graph/id/iterative-deepening> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> .
+<https://github.com/john1hsu/chess-graph/id/iterative-deepening> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/chess-4-5> .
+<https://github.com/john1hsu/chess-graph/id/iterative-deepening> <https://github.com/john1hsu/chess-graph/ontology#domain> "computer-chess" .
+<https://github.com/john1hsu/chess-graph/id/iterative-deepening> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/move-ordering> .
+<https://github.com/john1hsu/chess-graph/id/iterative-deepening> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/time-management-in-games> .
+<https://github.com/john1hsu/chess-graph/id/iterative-deepening> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/iterative-deepening> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-15" .
 <https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <http://purl.org/dc/terms/created> "2026-11-15" .
 <https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
 <https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <http://www.w3.org/2000/01/rdf-schema#label> "Javokhir Sindarov" .
@@ -7510,6 +7539,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/italian-game/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/italian-game/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
 <https://github.com/john1hsu/chess-graph/id/source/italian-game/s7> <https://schema.org/url> "https://chessgames.com/perl/chessopening?eco=C54" .
+<https://github.com/john1hsu/chess-graph/id/source/iterative-deepening/s1> <http://purl.org/dc/terms/publisher> "Richard E. Korf, copy hosted by the University of South Carolina" .
+<https://github.com/john1hsu/chess-graph/id/source/iterative-deepening/s1> <http://purl.org/dc/terms/title> "Depth-First Iterative-Deepening: An Optimal Admissible Tree Search (Artificial Intelligence 27, 1985)" .
+<https://github.com/john1hsu/chess-graph/id/source/iterative-deepening/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/iterative-deepening/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/iterative-deepening/s1> <https://schema.org/url> "https://cse.sc.edu/~mgv/csce580f11/gradPres/korf_IDAStar_1985.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/iterative-deepening/s2> <http://purl.org/dc/terms/publisher> "T. Anthony Marsland and Alexander Reinefeld, University of Alberta technical report TR93-02" .
+<https://github.com/john1hsu/chess-graph/id/source/iterative-deepening/s2> <http://purl.org/dc/terms/title> "Heuristic Search in One and Two Player Games (revised for ACM Computing Surveys)" .
+<https://github.com/john1hsu/chess-graph/id/source/iterative-deepening/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/iterative-deepening/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/iterative-deepening/s2> <https://schema.org/url> "https://webdocs.cs.ualberta.ca/~tony/TechnicalReports/TR93-02.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/iterative-deepening/s3> <http://purl.org/dc/terms/publisher> "T. Anthony Marsland, University of Alberta" .
+<https://github.com/john1hsu/chess-graph/id/source/iterative-deepening/s3> <http://purl.org/dc/terms/title> "The Anatomy of Chess Programs (8th World Computer Chess Championship brochure, 1995)" .
+<https://github.com/john1hsu/chess-graph/id/source/iterative-deepening/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/iterative-deepening/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/iterative-deepening/s3> <https://schema.org/url> "https://webdocs.cs.ualberta.ca/~tony/ICCA/anatomy.html" .
+<https://github.com/john1hsu/chess-graph/id/source/iterative-deepening/s4> <http://purl.org/dc/terms/publisher> "Chess Programming Wiki" .
+<https://github.com/john1hsu/chess-graph/id/source/iterative-deepening/s4> <http://purl.org/dc/terms/title> "Iterative Deepening" .
+<https://github.com/john1hsu/chess-graph/id/source/iterative-deepening/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/iterative-deepening/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/iterative-deepening/s4> <https://schema.org/url> "https://www.chessprogramming.org:443/Iterative_Deepening" .
+<https://github.com/john1hsu/chess-graph/id/source/iterative-deepening/s5> <http://purl.org/dc/terms/publisher> "GNU Project, Free Software Foundation" .
+<https://github.com/john1hsu/chess-graph/id/source/iterative-deepening/s5> <http://purl.org/dc/terms/title> "GNU Chess manual: Search algorithm" .
+<https://github.com/john1hsu/chess-graph/id/source/iterative-deepening/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/iterative-deepening/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/iterative-deepening/s5> <https://schema.org/url> "https://www.gnu.org/software/chess/manual/html_node/Search-algorithm.html" .
 <https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s10> <http://purl.org/dc/terms/publisher> "Chess.com" .
 <https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s10> <http://purl.org/dc/terms/title> "November FIDE Rating List: Nihal Enters Top 20, Sindarov Leads Gukesh By 72 Points (Colin McGourty)" .
 <https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
