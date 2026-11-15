@@ -30,7 +30,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:bronstein-delay` | `kt:fischer-increment`, `kt:fischer-increment` |
 | `kt:carlsen-versus-anand-sochi-2014-game-6` | `kt:magnus-carlsen`, `kt:zwischenzug` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
-| `kt:european-chess-union` | `kt:chess-organizations`, `kt:fide` |
 | `kt:extended-position-description` | `kt:forsyth-edwards-notation`, `kt:portable-game-notation` |
 | `kt:gambit` | `kt:evans-gambit`, `kt:sacrifice` |
 | `kt:howard-staunton` | `kt:london-1851`, `kt:london-1851` |
@@ -65,6 +64,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:arpad-elo` | `kt:elo-rating-system` |
 | `kt:artificial-intelligence` | `kt:computer-chess` |
 | `kt:as-suli` | `kt:shatranj` |
+| `kt:asian-chess-federation` | `kt:european-chess-union` |
 | `kt:baden-baden-1870` | `kt:adolf-anderssen` |
 | `kt:battery` | `kt:selfmate` |
 | `kt:board-representation` | `kt:bitboards` |
@@ -87,6 +87,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ding-versus-gukesh-singapore-2024-game-14` | `kt:gukesh-dommaraju` |
 | `kt:englisch-versus-steinitz-london-1883` | `kt:bishop-pair` |
 | `kt:english-attack` | `kt:najdorf-variation` |
+| `kt:european-chess-club-cup` | `kt:european-chess-union` |
+| `kt:european-individual-chess-championship` | `kt:european-chess-union` |
+| `kt:european-team-chess-championship` | `kt:european-chess-union` |
 | `kt:exchange-sacrifice` | `kt:sacrifice` |
 | `kt:federation-of-european-shogi-associations` | `kt:shogi` |
 | `kt:fernando-saavedra` | `kt:saavedra-position` |

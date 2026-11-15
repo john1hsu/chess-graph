@@ -1909,6 +1909,29 @@
 <https://github.com/john1hsu/chess-graph/id/endgame-tablebases> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/endgame-tablebases> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/retrograde-analysis> .
 <https://github.com/john1hsu/chess-graph/id/endgame-tablebases> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/european-chess-union> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/chess-graph/id/european-chess-union> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Organization> .
+<https://github.com/john1hsu/chess-graph/id/european-chess-union> <http://www.w3.org/2000/01/rdf-schema#label> "European Chess Union" .
+<https://github.com/john1hsu/chess-graph/id/european-chess-union> <http://www.w3.org/2004/02/skos/core#altLabel> "ECU" .
+<https://github.com/john1hsu/chess-graph/id/european-chess-union> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-organizations> .
+<https://github.com/john1hsu/chess-graph/id/european-chess-union> <http://www.w3.org/2004/02/skos/core#definition> "The continental body for chess in Europe within FIDE, founded in Graz on 30 August 1985; it groups Europe's national federations and holds the right to organise the European championships, from the European Individual and Team Championships to the European Club Cup and youth events." .
+<https://github.com/john1hsu/chess-graph/id/european-chess-union> <http://www.w3.org/2004/02/skos/core#prefLabel> "European Chess Union" .
+<https://github.com/john1hsu/chess-graph/id/european-chess-union> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/asian-chess-federation> .
+<https://github.com/john1hsu/chess-graph/id/european-chess-union> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/european-chess-club-cup> .
+<https://github.com/john1hsu/chess-graph/id/european-chess-union> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/european-individual-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/european-chess-union> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/european-team-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/european-chess-union> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s1> .
+<https://github.com/john1hsu/chess-graph/id/european-chess-union> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s2> .
+<https://github.com/john1hsu/chess-graph/id/european-chess-union> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s3> .
+<https://github.com/john1hsu/chess-graph/id/european-chess-union> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s4> .
+<https://github.com/john1hsu/chess-graph/id/european-chess-union> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s5> .
+<https://github.com/john1hsu/chess-graph/id/european-chess-union> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s6> .
+<https://github.com/john1hsu/chess-graph/id/european-chess-union> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s7> .
+<https://github.com/john1hsu/chess-graph/id/european-chess-union> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s8> .
+<https://github.com/john1hsu/chess-graph/id/european-chess-union> <https://github.com/john1hsu/chess-graph/ontology#domain> "events-and-organizations" .
+<https://github.com/john1hsu/chess-graph/id/european-chess-union> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/fide> .
+<https://github.com/john1hsu/chess-graph/id/european-chess-union> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/european-chess-union> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-15" .
 <https://github.com/john1hsu/chess-graph/id/evaluation-function> <http://purl.org/dc/terms/created> "2026-11-07" .
 <https://github.com/john1hsu/chess-graph/id/evaluation-function> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Algorithm> .
 <https://github.com/john1hsu/chess-graph/id/evaluation-function> <http://www.w3.org/2000/01/rdf-schema#label> "Evaluation function" .
@@ -6258,6 +6281,46 @@
 <https://github.com/john1hsu/chess-graph/id/source/endgame-tablebases/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/endgame-tablebases/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/endgame-tablebases/s6> <https://schema.org/url> "https://research.swtch.com/chess" .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s1> <http://purl.org/dc/terms/publisher> "European Chess Union (europechess.org)" .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s1> <http://purl.org/dc/terms/title> "Celebrating 40 Years of Excellence: The Founding of the European Chess Union" .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s1> <https://schema.org/url> "https://www.europechess.org/celebrating-40-years-of-excellence-the-founding-of-the-european-chess-union/" .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s2> <http://purl.org/dc/terms/publisher> "European Chess Union (social.europechess.org)" .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s2> <http://purl.org/dc/terms/title> "ECU History" .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s2> <https://schema.org/url> "https://social.europechess.org/ecu-history/" .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s3> <http://purl.org/dc/terms/publisher> "European Chess Union (europechess.org, PDF)" .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s3> <http://purl.org/dc/terms/title> "The foundation of the ECU (recollection by Kurt Jungwirth)" .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s3> <https://schema.org/url> "https://www.europechess.org/wp-content/uploads/2021/01/ECU-foundation_Kurt_Jungwirth.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s4> <http://purl.org/dc/terms/publisher> "European Chess Union (europechess.org)" .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s4> <http://purl.org/dc/terms/title> "ECU Profile" .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s4> <https://schema.org/url> "https://www.europechess.org/board/ecu-profile/" .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s5> <http://purl.org/dc/terms/publisher> "FIDE (fide.com, 18 July 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s5> <http://purl.org/dc/terms/title> "ECU General Assembly underway in Bucharest; Zurab Azmaiparashvili re-elected as President" .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s5> <https://schema.org/url> "https://www.fide.com/ecu-general-assembly-underway-in-bucharest-zurab-azmaiparashvili-re-elected-as-president/" .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s6> <http://purl.org/dc/terms/publisher> "European Chess Union (europechess.org, 30 January 2023)" .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s6> <http://purl.org/dc/terms/title> "Statement of the European Chess Union" .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s6> <https://schema.org/url> "https://www.europechess.org/statement-of-the-european-chess-union/" .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s7> <http://purl.org/dc/terms/publisher> "Wojciech Bartelski, OlimpBase" .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s7> <http://purl.org/dc/terms/title> "European Chess Club Cup: history" .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s7> <https://schema.org/url> "https://www.olimpbase.org/club/ecc_history.html" .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s8> <http://purl.org/dc/terms/publisher> "Carlos Alberto Colodro, ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s8> <http://purl.org/dc/terms/title> "A brief history of the European Chess Championships" .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s8> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/european-chess-union/s8> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/brief-history-european-chess-championships" .
 <https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s1> <http://purl.org/dc/terms/publisher> "Claude E. Shannon, reproduced by Fermat's Library" .
 <https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s1> <http://purl.org/dc/terms/title> "Programming a Computer for Playing Chess (Philosophical Magazine, 1950), full text" .
 <https://github.com/john1hsu/chess-graph/id/source/evaluation-function/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

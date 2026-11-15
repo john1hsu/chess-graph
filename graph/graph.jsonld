@@ -3739,6 +3739,95 @@
       ]
     },
     {
+      "@id": "kt:european-chess-union",
+      "@type": "kto:Organization",
+      "skos:prefLabel": "European Chess Union",
+      "skos:definition": "The continental body for chess in Europe within FIDE, founded in Graz on 30 August 1985; it groups Europe's national federations and holds the right to organise the European championships, from the European Individual and Team Championships to the European Club Cup and youth events.",
+      "kto:domain": "events-and-organizations",
+      "dcterms:created": "2026-11-15",
+      "kto:verified": "2026-11-15",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Celebrating 40 Years of Excellence: The Founding of the European Chess Union",
+          "dcterms:publisher": "European Chess Union (europechess.org)",
+          "schema:url": "https://www.europechess.org/celebrating-40-years-of-excellence-the-founding-of-the-european-chess-union/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "ECU History",
+          "dcterms:publisher": "European Chess Union (social.europechess.org)",
+          "schema:url": "https://social.europechess.org/ecu-history/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "The foundation of the ECU (recollection by Kurt Jungwirth)",
+          "dcterms:publisher": "European Chess Union (europechess.org, PDF)",
+          "schema:url": "https://www.europechess.org/wp-content/uploads/2021/01/ECU-foundation_Kurt_Jungwirth.pdf",
+          "kto:sourceType": "primary-record"
+        },
+        {
+          "dcterms:title": "ECU Profile",
+          "dcterms:publisher": "European Chess Union (europechess.org)",
+          "schema:url": "https://www.europechess.org/board/ecu-profile/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "ECU General Assembly underway in Bucharest; Zurab Azmaiparashvili re-elected as President",
+          "dcterms:publisher": "FIDE (fide.com, 18 July 2026)",
+          "schema:url": "https://www.fide.com/ecu-general-assembly-underway-in-bucharest-zurab-azmaiparashvili-re-elected-as-president/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Statement of the European Chess Union",
+          "dcterms:publisher": "European Chess Union (europechess.org, 30 January 2023)",
+          "schema:url": "https://www.europechess.org/statement-of-the-european-chess-union/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "European Chess Club Cup: history",
+          "dcterms:publisher": "Wojciech Bartelski, OlimpBase",
+          "schema:url": "https://www.olimpbase.org/club/ecc_history.html",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "A brief history of the European Chess Championships",
+          "dcterms:publisher": "Carlos Alberto Colodro, ChessBase News",
+          "schema:url": "https://en.chessbase.com/newsroom/post/brief-history-european-chess-championships",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/events-and-organizations/european-chess-union.md",
+      "skos:altLabel": [
+        "ECU"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess-organizations"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:european-individual-chess-championship"
+        },
+        {
+          "@id": "kt:european-team-chess-championship"
+        },
+        {
+          "@id": "kt:european-chess-club-cup"
+        },
+        {
+          "@id": "kt:asian-chess-federation"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:fide"
+        }
+      ]
+    },
+    {
       "@id": "kt:fair-play-regulations",
       "@type": "kto:Rule",
       "skos:prefLabel": "Fair play regulations",

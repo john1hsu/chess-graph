@@ -1700,6 +1700,30 @@
     ]
   },
   {
+    "id": "kt:european-chess-union",
+    "title": "European Chess Union",
+    "aliases": [
+      "ECU"
+    ],
+    "type": "Organization",
+    "domain": "events-and-organizations",
+    "file": "articles/events-and-organizations/european-chess-union.md",
+    "created": "2026-11-15",
+    "verified": "2026-11-15",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://www.europechess.org/celebrating-40-years-of-excellence-the-founding-of-the-european-chess-union/",
+      "https://social.europechess.org/ecu-history/",
+      "https://www.europechess.org/wp-content/uploads/2021/01/ECU-foundation_Kurt_Jungwirth.pdf",
+      "https://www.europechess.org/board/ecu-profile/",
+      "https://www.fide.com/ecu-general-assembly-underway-in-bucharest-zurab-azmaiparashvili-re-elected-as-president/",
+      "https://www.europechess.org/statement-of-the-european-chess-union/",
+      "https://www.olimpbase.org/club/ecc_history.html",
+      "https://en.chessbase.com/newsroom/post/brief-history-european-chess-championships"
+    ]
+  },
+  {
     "id": "kt:evaluation-function",
     "title": "Evaluation function",
     "aliases": [
