@@ -4515,6 +4515,33 @@
     ]
   },
   {
+    "id": "kt:wrong-bishop",
+    "title": "Wrong bishop",
+    "aliases": [
+      "Wrong-coloured bishop",
+      "Wrong-colored bishop",
+      "Bishop of the wrong colour",
+      "Bishop of the wrong color",
+      "Wrong rook pawn",
+      "Wrong rook's pawn",
+      "Bishop and wrong rook pawn"
+    ],
+    "type": "EndgameType",
+    "domain": "endgames",
+    "file": "articles/endgames/wrong-bishop.md",
+    "created": "2026-11-15",
+    "verified": "2026-11-15",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://gutenberg.org/cache/epub/33870/pg33870-images.html",
+      "https://shop.chess-tigers.de/cdn/shop/files/dem5_excerpt.pdf",
+      "https://en.chessbase.com/post/the-wrong-bishop",
+      "https://en.chessbase.com/newsroom/post/the-wrong-bishop-part-two",
+      "https://lichess.org/@/BigBrainChess_08/blog/the-wrong-coloured-bishop-fortresses-save-a-lost-position/nlOuSTzJ"
+    ]
+  },
+  {
     "id": "kt:zugzwang",
     "title": "Zugzwang",
     "aliases": [

@@ -48,10 +48,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:perpetual-check` | `kt:draw`, `kt:threefold-repetition` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:zugzwang`, `kt:aron-nimzowitsch` |
+| `kt:shouldering` | `kt:cutting-off-the-king`, `kt:wrong-bishop` |
 | `kt:simplification` | `kt:material-advantage`, `kt:material-advantage` |
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
 | `kt:steven-j-edwards` | `kt:forsyth-edwards-notation`, `kt:portable-game-notation` |
 | `kt:tie-break` | `kt:chess-tournament`, `kt:us-chess-championship` |
+| `kt:vancura-position` | `kt:rook-endgames`, `kt:wrong-bishop` |
 | `kt:viswanathan-anand` | `kt:gukesh-dommaraju`, `kt:magnus-carlsen` |
 | `kt:xiangqi` | `kt:chess-variants`, `kt:shogi` |
 | `kt:abraham-luchins` | `kt:einstellung-effect` |
@@ -194,7 +196,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:samuel-reshevsky` | `kt:us-chess-championship` |
 | `kt:san-remo-1930` | `kt:alexander-alekhine` |
 | `kt:semi-slav-defence` | `kt:slav-defence` |
-| `kt:shouldering` | `kt:cutting-off-the-king` |
 | `kt:shuffle-chess` | `kt:chess960` |
 | `kt:simultaneous-exhibition` | `kt:blindfold-chess` |
 | `kt:sinquefield-cup` | `kt:saint-louis-chess-club` |
@@ -214,7 +215,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:tord-romstad` | `kt:stockfish` |
 | `kt:two-knights-defence` | `kt:italian-game` |
 | `kt:us-womens-chess-championship` | `kt:us-chess-championship` |
-| `kt:vancura-position` | `kt:rook-endgames` |
 | `kt:vera-menchik` | `kt:womens-world-chess-championship` |
 | `kt:viktor-korchnoi` | `kt:anatoly-karpov` |
 | `kt:william-chase` | `kt:chunking-theory` |
@@ -227,6 +227,5 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:world-chess-championship-1935` | `kt:alexander-alekhine` |
 | `kt:world-chess-championship-1937` | `kt:alexander-alekhine` |
 | `kt:world-chess-hall-of-fame` | `kt:saint-louis-chess-club` |
-| `kt:wrong-bishop` | `kt:fortress` |
 | `kt:yu-nasu` | `kt:nnue` |
 | `kt:zobrist-hashing` | `kt:transposition-table` |

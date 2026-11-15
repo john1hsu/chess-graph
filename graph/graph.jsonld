@@ -2921,6 +2921,97 @@
       ]
     },
     {
+      "@id": "kt:wrong-bishop",
+      "@type": "kto:EndgameType",
+      "skos:prefLabel": "Wrong bishop",
+      "skos:definition": "An ending with bishop and rook's pawn against a lone king in which the bishop does not control the pawn's promotion square; if the defending king reaches that corner the position is a draw, despite the extra piece and pawn.",
+      "kto:domain": "endgames",
+      "dcterms:created": "2026-11-15",
+      "kto:verified": "2026-11-15",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Chess Fundamentals (1921), Project Gutenberg eBook #33870",
+          "dcterms:publisher": "José Raúl Capablanca; Project Gutenberg",
+          "schema:url": "https://gutenberg.org/cache/epub/33870/pg33870-images.html",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Dvoretsky's Endgame Manual, fifth edition (excerpt with table of contents)",
+          "dcterms:publisher": "Mark Dvoretsky, Russell Enterprises; excerpt hosted by Chess Tigers",
+          "schema:url": "https://shop.chess-tigers.de/cdn/shop/files/dem5_excerpt.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The wrong bishop",
+          "dcterms:publisher": "Frederic Friedel, ChessBase News (16 May 2016)",
+          "schema:url": "https://en.chessbase.com/post/the-wrong-bishop",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The wrong bishop – part two",
+          "dcterms:publisher": "Frederic Friedel, ChessBase News (22 May 2016)",
+          "schema:url": "https://en.chessbase.com/newsroom/post/the-wrong-bishop-part-two",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The Wrong-Coloured Bishop: Fortresses - Save A Lost Position",
+          "dcterms:publisher": "BigBrainChess_08, Lichess blog",
+          "schema:url": "https://lichess.org/@/BigBrainChess_08/blog/the-wrong-coloured-bishop-fortresses-save-a-lost-position/nlOuSTzJ",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/endgames/wrong-bishop.md",
+      "skos:altLabel": [
+        "Wrong-coloured bishop",
+        "Wrong-colored bishop",
+        "Bishop of the wrong colour",
+        "Bishop of the wrong color",
+        "Wrong rook pawn",
+        "Wrong rook's pawn",
+        "Bishop and wrong rook pawn"
+      ],
+      "kto:fen": "6k1/8/6KP/5B2/8/8/8/8 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-endgame"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:fortress"
+        },
+        {
+          "@id": "kt:stalemate"
+        },
+        {
+          "@id": "kt:opposite-coloured-bishops"
+        },
+        {
+          "@id": "kt:good-and-bad-bishops"
+        },
+        {
+          "@id": "kt:shouldering"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:fortress"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:stalemate"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:vancura-position"
+        }
+      ]
+    },
+    {
       "@id": "kt:zugzwang",
       "@type": "kto:StrategicConcept",
       "skos:prefLabel": "Zugzwang",

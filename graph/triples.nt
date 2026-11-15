@@ -9504,6 +9504,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s6> <https://schema.org/url> "https://en.chessbase.com/post/study-of-the-month-2019-8" .
+<https://github.com/john1hsu/chess-graph/id/source/wrong-bishop/s1> <http://purl.org/dc/terms/publisher> "José Raúl Capablanca; Project Gutenberg" .
+<https://github.com/john1hsu/chess-graph/id/source/wrong-bishop/s1> <http://purl.org/dc/terms/title> "Chess Fundamentals (1921), Project Gutenberg eBook #33870" .
+<https://github.com/john1hsu/chess-graph/id/source/wrong-bishop/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/wrong-bishop/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/wrong-bishop/s1> <https://schema.org/url> "https://gutenberg.org/cache/epub/33870/pg33870-images.html" .
+<https://github.com/john1hsu/chess-graph/id/source/wrong-bishop/s2> <http://purl.org/dc/terms/publisher> "Mark Dvoretsky, Russell Enterprises; excerpt hosted by Chess Tigers" .
+<https://github.com/john1hsu/chess-graph/id/source/wrong-bishop/s2> <http://purl.org/dc/terms/title> "Dvoretsky's Endgame Manual, fifth edition (excerpt with table of contents)" .
+<https://github.com/john1hsu/chess-graph/id/source/wrong-bishop/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/wrong-bishop/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/wrong-bishop/s2> <https://schema.org/url> "https://shop.chess-tigers.de/cdn/shop/files/dem5_excerpt.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/wrong-bishop/s3> <http://purl.org/dc/terms/publisher> "Frederic Friedel, ChessBase News (16 May 2016)" .
+<https://github.com/john1hsu/chess-graph/id/source/wrong-bishop/s3> <http://purl.org/dc/terms/title> "The wrong bishop" .
+<https://github.com/john1hsu/chess-graph/id/source/wrong-bishop/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/wrong-bishop/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/wrong-bishop/s3> <https://schema.org/url> "https://en.chessbase.com/post/the-wrong-bishop" .
+<https://github.com/john1hsu/chess-graph/id/source/wrong-bishop/s4> <http://purl.org/dc/terms/publisher> "Frederic Friedel, ChessBase News (22 May 2016)" .
+<https://github.com/john1hsu/chess-graph/id/source/wrong-bishop/s4> <http://purl.org/dc/terms/title> "The wrong bishop – part two" .
+<https://github.com/john1hsu/chess-graph/id/source/wrong-bishop/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/wrong-bishop/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/wrong-bishop/s4> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/the-wrong-bishop-part-two" .
+<https://github.com/john1hsu/chess-graph/id/source/wrong-bishop/s5> <http://purl.org/dc/terms/publisher> "BigBrainChess_08, Lichess blog" .
+<https://github.com/john1hsu/chess-graph/id/source/wrong-bishop/s5> <http://purl.org/dc/terms/title> "The Wrong-Coloured Bishop: Fortresses - Save A Lost Position" .
+<https://github.com/john1hsu/chess-graph/id/source/wrong-bishop/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/wrong-bishop/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/wrong-bishop/s5> <https://schema.org/url> "https://lichess.org/@/BigBrainChess_08/blog/the-wrong-coloured-bishop-fortresses-save-a-lost-position/nlOuSTzJ" .
 <https://github.com/john1hsu/chess-graph/id/source/zugzwang/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
 <https://github.com/john1hsu/chess-graph/id/source/zugzwang/s1> <http://purl.org/dc/terms/title> "Zugzwang (Chess Notes feature article)" .
 <https://github.com/john1hsu/chess-graph/id/source/zugzwang/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -10282,6 +10307,36 @@
 <https://github.com/john1hsu/chess-graph/id/world-federation-for-chess-composition> <https://github.com/john1hsu/chess-graph/ontology#domain> "events-and-organizations" .
 <https://github.com/john1hsu/chess-graph/id/world-federation-for-chess-composition> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/world-federation-for-chess-composition> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-13" .
+<https://github.com/john1hsu/chess-graph/id/wrong-bishop> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/chess-graph/id/wrong-bishop> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#EndgameType> .
+<https://github.com/john1hsu/chess-graph/id/wrong-bishop> <http://www.w3.org/2000/01/rdf-schema#label> "Wrong bishop" .
+<https://github.com/john1hsu/chess-graph/id/wrong-bishop> <http://www.w3.org/2004/02/skos/core#altLabel> "Bishop and wrong rook pawn" .
+<https://github.com/john1hsu/chess-graph/id/wrong-bishop> <http://www.w3.org/2004/02/skos/core#altLabel> "Bishop of the wrong color" .
+<https://github.com/john1hsu/chess-graph/id/wrong-bishop> <http://www.w3.org/2004/02/skos/core#altLabel> "Bishop of the wrong colour" .
+<https://github.com/john1hsu/chess-graph/id/wrong-bishop> <http://www.w3.org/2004/02/skos/core#altLabel> "Wrong rook pawn" .
+<https://github.com/john1hsu/chess-graph/id/wrong-bishop> <http://www.w3.org/2004/02/skos/core#altLabel> "Wrong rook's pawn" .
+<https://github.com/john1hsu/chess-graph/id/wrong-bishop> <http://www.w3.org/2004/02/skos/core#altLabel> "Wrong-colored bishop" .
+<https://github.com/john1hsu/chess-graph/id/wrong-bishop> <http://www.w3.org/2004/02/skos/core#altLabel> "Wrong-coloured bishop" .
+<https://github.com/john1hsu/chess-graph/id/wrong-bishop> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-endgame> .
+<https://github.com/john1hsu/chess-graph/id/wrong-bishop> <http://www.w3.org/2004/02/skos/core#definition> "An ending with bishop and rook's pawn against a lone king in which the bishop does not control the pawn's promotion square; if the defending king reaches that corner the position is a draw, despite the extra piece and pawn." .
+<https://github.com/john1hsu/chess-graph/id/wrong-bishop> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wrong bishop" .
+<https://github.com/john1hsu/chess-graph/id/wrong-bishop> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fortress> .
+<https://github.com/john1hsu/chess-graph/id/wrong-bishop> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> .
+<https://github.com/john1hsu/chess-graph/id/wrong-bishop> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> .
+<https://github.com/john1hsu/chess-graph/id/wrong-bishop> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/shouldering> .
+<https://github.com/john1hsu/chess-graph/id/wrong-bishop> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/stalemate> .
+<https://github.com/john1hsu/chess-graph/id/wrong-bishop> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/wrong-bishop/s1> .
+<https://github.com/john1hsu/chess-graph/id/wrong-bishop> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/wrong-bishop/s2> .
+<https://github.com/john1hsu/chess-graph/id/wrong-bishop> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/wrong-bishop/s3> .
+<https://github.com/john1hsu/chess-graph/id/wrong-bishop> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/wrong-bishop/s4> .
+<https://github.com/john1hsu/chess-graph/id/wrong-bishop> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/wrong-bishop/s5> .
+<https://github.com/john1hsu/chess-graph/id/wrong-bishop> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/stalemate> .
+<https://github.com/john1hsu/chess-graph/id/wrong-bishop> <https://github.com/john1hsu/chess-graph/ontology#domain> "endgames" .
+<https://github.com/john1hsu/chess-graph/id/wrong-bishop> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/vancura-position> .
+<https://github.com/john1hsu/chess-graph/id/wrong-bishop> <https://github.com/john1hsu/chess-graph/ontology#fen> "6k1/8/6KP/5B2/8/8/8/8 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/wrong-bishop> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/wrong-bishop> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/fortress> .
+<https://github.com/john1hsu/chess-graph/id/wrong-bishop> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-15" .
 <https://github.com/john1hsu/chess-graph/id/zugzwang> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/zugzwang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
 <https://github.com/john1hsu/chess-graph/id/zugzwang> <http://www.w3.org/2000/01/rdf-schema#label> "Zugzwang" .
