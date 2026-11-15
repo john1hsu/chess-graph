@@ -3013,6 +3013,36 @@
 <https://github.com/john1hsu/chess-graph/id/king-and-pawn-endgames> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/opposition> .
 <https://github.com/john1hsu/chess-graph/id/king-and-pawn-endgames> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/triangulation> .
 <https://github.com/john1hsu/chess-graph/id/king-and-pawn-endgames> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/king-safety> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/chess-graph/id/king-safety> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
+<https://github.com/john1hsu/chess-graph/id/king-safety> <http://www.w3.org/2000/01/rdf-schema#label> "King safety" .
+<https://github.com/john1hsu/chess-graph/id/king-safety> <http://www.w3.org/2004/02/skos/core#altLabel> "King cover" .
+<https://github.com/john1hsu/chess-graph/id/king-safety> <http://www.w3.org/2004/02/skos/core#altLabel> "King shelter" .
+<https://github.com/john1hsu/chess-graph/id/king-safety> <http://www.w3.org/2004/02/skos/core#altLabel> "Pawn shelter" .
+<https://github.com/john1hsu/chess-graph/id/king-safety> <http://www.w3.org/2004/02/skos/core#altLabel> "Pawn shield" .
+<https://github.com/john1hsu/chess-graph/id/king-safety> <http://www.w3.org/2004/02/skos/core#altLabel> "Safety of the king" .
+<https://github.com/john1hsu/chess-graph/id/king-safety> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-strategy> .
+<https://github.com/john1hsu/chess-graph/id/king-safety> <http://www.w3.org/2004/02/skos/core#definition> "The degree to which a king is protected from attack, judged mainly by its pawn shelter, the open lines and weak squares around it, and the balance between attacking and defending pieces nearby; a central factor in deciding where and when to castle and whether an attack is justified." .
+<https://github.com/john1hsu/chess-graph/id/king-safety> <http://www.w3.org/2004/02/skos/core#prefLabel> "King safety" .
+<https://github.com/john1hsu/chess-graph/id/king-safety> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/back-rank-mate> .
+<https://github.com/john1hsu/chess-graph/id/king-safety> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/castling> .
+<https://github.com/john1hsu/chess-graph/id/king-safety> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/greek-gift-sacrifice> .
+<https://github.com/john1hsu/chess-graph/id/king-safety> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/open-file> .
+<https://github.com/john1hsu/chess-graph/id/king-safety> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/weak-squares> .
+<https://github.com/john1hsu/chess-graph/id/king-safety> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/king-safety/s1> .
+<https://github.com/john1hsu/chess-graph/id/king-safety> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/king-safety/s2> .
+<https://github.com/john1hsu/chess-graph/id/king-safety> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/king-safety/s3> .
+<https://github.com/john1hsu/chess-graph/id/king-safety> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/king-safety/s4> .
+<https://github.com/john1hsu/chess-graph/id/king-safety> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/king-safety/s5> .
+<https://github.com/john1hsu/chess-graph/id/king-safety> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/king-safety/s6> .
+<https://github.com/john1hsu/chess-graph/id/king-safety> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/king-activity> .
+<https://github.com/john1hsu/chess-graph/id/king-safety> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/pawn-structure> .
+<https://github.com/john1hsu/chess-graph/id/king-safety> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> .
+<https://github.com/john1hsu/chess-graph/id/king-safety> <https://github.com/john1hsu/chess-graph/ontology#domain> "middlegame-strategy" .
+<https://github.com/john1hsu/chess-graph/id/king-safety> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/pawn-storm> .
+<https://github.com/john1hsu/chess-graph/id/king-safety> <https://github.com/john1hsu/chess-graph/ontology#moves> "1.c4 e6 2.g3 d5 3.Bg2 d4 4.b4 c5 5.b5 e5 6.d3 Bd6 7.e4 Qc7 8.Ne2 h5 9.h4 Nh6 10.O-O Bg4 11.f3 Be6 12.f4 Bg4 13.f5" .
+<https://github.com/john1hsu/chess-graph/id/king-safety> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/king-safety> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-15" .
 <https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Engine> .
 <https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <http://www.w3.org/2000/01/rdf-schema#label> "Leela Chess Zero" .
@@ -7528,6 +7558,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/king-and-pawn-endgames/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/king-and-pawn-endgames/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/king-and-pawn-endgames/s4> <https://schema.org/url> "https://www.chess.com/terms/square-rule-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/king-safety/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/king-safety/s1> <http://purl.org/dc/terms/title> "Chess: Development of theory" .
+<https://github.com/john1hsu/chess-graph/id/source/king-safety/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/king-safety/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/king-safety/s1> <https://schema.org/url> "https://www.britannica.com/topic/chess/Development-of-theory" .
+<https://github.com/john1hsu/chess-graph/id/source/king-safety/s2> <http://purl.org/dc/terms/publisher> "Danny Gormally, Quality Chess (2014), excerpt hosted by New In Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/king-safety/s2> <http://purl.org/dc/terms/title> "Mating the Castled King (excerpt: preface and 'Mate on the h-file')" .
+<https://github.com/john1hsu/chess-graph/id/source/king-safety/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/king-safety/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/king-safety/s2> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/MatingtheCastledKing-excerpt.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/king-safety/s3> <http://purl.org/dc/terms/publisher> "IM Boroljub Zlatanović, Informant Publishing (2024), excerpt hosted by Chess Tigers" .
+<https://github.com/john1hsu/chess-graph/id/source/king-safety/s3> <http://purl.org/dc/terms/title> "Get to Know Your Chess Troops! 1: Everything About the King (excerpt)" .
+<https://github.com/john1hsu/chess-graph/id/source/king-safety/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/king-safety/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/king-safety/s3> <https://schema.org/url> "https://shop.chess-tigers.de/cdn/shop/files/Everything_About_the_King.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/king-safety/s4> <http://purl.org/dc/terms/publisher> "GM Sundararajan Kidambi, ChessBase News (28 September 2022)" .
+<https://github.com/john1hsu/chess-graph/id/source/king-safety/s4> <http://purl.org/dc/terms/title> "Castling into it" .
+<https://github.com/john1hsu/chess-graph/id/source/king-safety/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/king-safety/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/king-safety/s4> <https://schema.org/url> "https://en.chessbase.com/post/castling-into-it-kidambi" .
+<https://github.com/john1hsu/chess-graph/id/source/king-safety/s5> <http://purl.org/dc/terms/publisher> "Chess Programming Wiki" .
+<https://github.com/john1hsu/chess-graph/id/source/king-safety/s5> <http://purl.org/dc/terms/title> "King Safety" .
+<https://github.com/john1hsu/chess-graph/id/source/king-safety/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/king-safety/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/king-safety/s5> <https://schema.org/url> "https://www.chessprogramming.org/King_Safety" .
+<https://github.com/john1hsu/chess-graph/id/source/king-safety/s6> <http://purl.org/dc/terms/publisher> "David Eggleston (2014), excerpt hosted by Mongoose Press" .
+<https://github.com/john1hsu/chess-graph/id/source/king-safety/s6> <http://purl.org/dc/terms/title> "Hacking Up the King (excerpt)" .
+<https://github.com/john1hsu/chess-graph/id/source/king-safety/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/king-safety/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/king-safety/s6> <https://schema.org/url> "https://mongoosepress.com/Excerpts/hacking_king.pdf" .
 <https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s1> <http://purl.org/dc/terms/publisher> "Leela Chess Zero project (lczero.org)" .
 <https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s1> <http://purl.org/dc/terms/title> "What is Lc0?" .
 <https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

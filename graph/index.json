@@ -2684,6 +2684,32 @@
     ]
   },
   {
+    "id": "kt:king-safety",
+    "title": "King safety",
+    "aliases": [
+      "Safety of the king",
+      "King shelter",
+      "Pawn shelter",
+      "Pawn shield",
+      "King cover"
+    ],
+    "type": "StrategicConcept",
+    "domain": "middlegame-strategy",
+    "file": "articles/middlegame-strategy/king-safety.md",
+    "created": "2026-11-15",
+    "verified": "2026-11-15",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.britannica.com/topic/chess/Development-of-theory",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/MatingtheCastledKing-excerpt.pdf",
+      "https://shop.chess-tigers.de/cdn/shop/files/Everything_About_the_King.pdf",
+      "https://en.chessbase.com/post/castling-into-it-kidambi",
+      "https://www.chessprogramming.org/King_Safety",
+      "https://mongoosepress.com/Excerpts/hacking_king.pdf"
+    ]
+  },
+  {
     "id": "kt:leela-chess-zero",
     "title": "Leela Chess Zero",
     "aliases": [

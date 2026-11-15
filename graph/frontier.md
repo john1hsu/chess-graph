@@ -12,7 +12,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chess-clock` | `kt:blitz-chess`, `kt:fischer-increment`, `kt:time-management-in-games` |
 | `kt:dragon-variation` | `kt:backward-pawn`, `kt:najdorf-variation`, `kt:sicilian-defence` |
 | `kt:johannes-zukertort` | `kt:world-chess-championship-1886`, `kt:adolf-anderssen`, `kt:wilhelm-steinitz` |
-| `kt:king-safety` | `kt:weak-squares`, `kt:castling`, `kt:greek-gift-sacrifice` |
 | `kt:mikhail-chigorin` | `kt:hastings-1895`, `kt:evans-gambit`, `kt:wilhelm-steinitz` |
 | `kt:move-ordering` | `kt:alpha-beta-pruning`, `kt:quiescence-search`, `kt:transposition-table` |
 | `kt:rook-on-the-seventh-rank` | `kt:steinitz-von-bardeleben-hastings-1895`, `kt:open-file`, `kt:open-file` |
@@ -130,6 +129,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:kasparov-versus-anand-riga-1995` | `kt:evans-gambit` |
 | `kt:kasparov-versus-topalov-wijk-aan-zee-1999` | `kt:garry-kasparov` |
 | `kt:ken-thompson` | `kt:endgame-tablebases` |
+| `kt:king-activity` | `kt:king-safety` |
 | `kt:kings-indian-defence` | `kt:soviet-chess-school` |
 | `kt:knight-versus-bishop` | `kt:good-and-bad-bishops` |
 | `kt:lasker-capablanca-havana-1921-game-10` | `kt:jose-raul-capablanca` |
@@ -164,6 +164,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:panov-botvinnik-attack` | `kt:caro-kann-defence` |
 | `kt:passive-rook-defence` | `kt:philidor-position` |
 | `kt:paul-keres` | `kt:correspondence-chess` |
+| `kt:pawn-storm` | `kt:king-safety` |
 | `kt:petroffs-defence` | `kt:open-games` |
 | `kt:petrosian-versus-spassky-moscow-1966-game-10` | `kt:tigran-petrosian` |
 | `kt:philidor-defence` | `kt:francois-andre-danican-philidor` |
