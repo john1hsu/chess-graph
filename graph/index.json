@@ -3019,6 +3019,31 @@
     ]
   },
   {
+    "id": "kt:move-ordering",
+    "title": "Move ordering",
+    "aliases": [
+      "Successor ordering",
+      "Move sorting",
+      "Move reordering",
+      "Successor reordering"
+    ],
+    "type": "Technique",
+    "domain": "computer-chess",
+    "file": "articles/computer-chess/move-ordering.md",
+    "created": "2026-11-15",
+    "verified": "2026-11-15",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://webdocs.cs.ualberta.ca/~tony/ICCA/anatomy.html",
+      "https://webdocs.cs.ualberta.ca/~tony/TechnicalReports/TR93-02.pdf",
+      "https://arxiv.org/pdf/1404.1518.pdf",
+      "https://people.csail.mit.edu/heinz/dt/node102.html",
+      "https://www.chessprogramming.org/Special:MobileDiff/1299",
+      "https://www.chessprogramming.org/MVV-LVA"
+    ]
+  },
+  {
     "id": "kt:najdorf-variation",
     "title": "Najdorf Variation",
     "aliases": [

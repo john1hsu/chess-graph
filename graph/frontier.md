@@ -5,7 +5,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:alexander-alekhine`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:boris-spassky`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:magnus-carlsen`, `kt:mikhail-botvinnik`, `kt:tigran-petrosian`, `kt:wilhelm-steinitz` |
-| `kt:move-ordering` | `kt:alpha-beta-pruning`, `kt:iterative-deepening`, `kt:iterative-deepening`, `kt:quiescence-search`, `kt:transposition-table` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:herbert-simon` |
 | `kt:kings-gambit` | `kt:immortal-game`, `kt:evans-gambit`, `kt:open-games`, `kt:boris-spassky` |
 | `kt:rapid-chess` | `kt:blitz-chess`, `kt:blitz-chess`, `kt:fischer-increment`, `kt:time-management-in-games` |
@@ -13,6 +12,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:dragon-variation` | `kt:backward-pawn`, `kt:najdorf-variation`, `kt:sicilian-defence` |
 | `kt:johannes-zukertort` | `kt:world-chess-championship-1886`, `kt:adolf-anderssen`, `kt:wilhelm-steinitz` |
 | `kt:mikhail-chigorin` | `kt:hastings-1895`, `kt:evans-gambit`, `kt:wilhelm-steinitz` |
+| `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning`, `kt:move-ordering` |
 | `kt:rook-on-the-seventh-rank` | `kt:steinitz-von-bardeleben-hastings-1895`, `kt:open-file`, `kt:open-file` |
 | `kt:sveshnikov-variation` | `kt:backward-pawn`, `kt:outpost`, `kt:sicilian-defence` |
 | `kt:top-chess-engine-championship` | `kt:leela-chess-zero`, `kt:opening-book`, `kt:stockfish` |
@@ -41,12 +41,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:paul-morphy` | `kt:romantic-era`, `kt:adolf-anderssen` |
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
 | `kt:perpetual-check` | `kt:draw`, `kt:threefold-repetition` |
-| `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
 | `kt:removing-the-guard` | `kt:interference`, `kt:overloading` |
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:zugzwang`, `kt:aron-nimzowitsch` |
 | `kt:shouldering` | `kt:cutting-off-the-king`, `kt:wrong-bishop` |
 | `kt:simplification` | `kt:material-advantage`, `kt:material-advantage` |
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
+| `kt:static-exchange-evaluation` | `kt:move-ordering`, `kt:quiescence-search` |
 | `kt:steven-j-edwards` | `kt:forsyth-edwards-notation`, `kt:portable-game-notation` |
 | `kt:tie-break` | `kt:chess-tournament`, `kt:us-chess-championship` |
 | `kt:viswanathan-anand` | `kt:gukesh-dommaraju`, `kt:magnus-carlsen` |
@@ -112,6 +112,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:grimshaw-theme` | `kt:interference` |
 | `kt:hans-berliner` | `kt:horizon-effect` |
 | `kt:harry-nelson-pillsbury` | `kt:hastings-1895` |
+| `kt:history-heuristic` | `kt:move-ordering` |
 | `kt:hnefatafl` | `kt:lewis-chessmen` |
 | `kt:horatio-caro` | `kt:caro-kann-defence` |
 | `kt:hou-yifan` | `kt:womens-world-chess-championship` |
@@ -131,6 +132,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:kasparov-versus-anand-riga-1995` | `kt:evans-gambit` |
 | `kt:kasparov-versus-topalov-wijk-aan-zee-1999` | `kt:garry-kasparov` |
 | `kt:ken-thompson` | `kt:endgame-tablebases` |
+| `kt:killer-heuristic` | `kt:move-ordering` |
 | `kt:king-activity` | `kt:king-safety` |
 | `kt:kings-indian-defence` | `kt:soviet-chess-school` |
 | `kt:knight-versus-bishop` | `kt:good-and-bad-bishops` |
@@ -159,6 +161,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mitrofanov-study-1967` | `kt:deflection` |
 | `kt:modena-school` | `kt:romantic-era` |
 | `kt:move-generation` | `kt:bitboards` |
+| `kt:mvv-lva` | `kt:move-ordering` |
 | `kt:negamax` | `kt:minimax` |
 | `kt:novotny-theme` | `kt:interference` |
 | `kt:numeric-annotation-glyphs` | `kt:portable-game-notation` |
@@ -214,7 +217,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:spassky-versus-bronstein-leningrad-1960` | `kt:boris-spassky` |
 | `kt:spassky-versus-fischer-reykjavik-1972-game-17` | `kt:threefold-repetition` |
 | `kt:st-petersburg-1895-96` | `kt:hastings-1895` |
-| `kt:static-exchange-evaluation` | `kt:quiescence-search` |
 | `kt:staunton-chess-set` | `kt:lewis-chessmen` |
 | `kt:stefan-meyer-kahlen` | `kt:universal-chess-interface` |
 | `kt:swiss-system` | `kt:chess-tournament` |

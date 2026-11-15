@@ -1121,6 +1121,107 @@
       ]
     },
     {
+      "@id": "kt:move-ordering",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Move ordering",
+      "skos:definition": "The set of heuristics a chess engine uses to decide in which order to search the moves at each node, trying the likely best move first so that alpha-beta pruning cuts off as many branches as possible and the search approaches the size of the minimal tree.",
+      "kto:domain": "computer-chess",
+      "dcterms:created": "2026-11-15",
+      "kto:verified": "2026-11-15",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Anatomy of Chess Programs (8th World Computer Chess Championship brochure, 1995)",
+          "dcterms:publisher": "T. Anthony Marsland, University of Alberta",
+          "schema:url": "https://webdocs.cs.ualberta.ca/~tony/ICCA/anatomy.html",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Heuristic Search in One and Two Player Games (revised for ACM Computing Surveys)",
+          "dcterms:publisher": "T. Anthony Marsland and Alexander Reinefeld, University of Alberta technical report TR93-02",
+          "schema:url": "https://webdocs.cs.ualberta.ca/~tony/TechnicalReports/TR93-02.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Nearly Optimal Minimax Tree Search? (University of Alberta TR 94-19)",
+          "dcterms:publisher": "Aske Plaat, Jonathan Schaeffer, Wim Pijls and Arie de Bruin, via arXiv",
+          "schema:url": "https://arxiv.org/pdf/1404.1518.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Bibliography (DarkThought computer-chess research pages)",
+          "dcterms:publisher": "Ernst A. Heinz, MIT CSAIL",
+          "schema:url": "https://people.csail.mit.edu/heinz/dt/node102.html",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Move Ordering (page revision view)",
+          "dcterms:publisher": "Chess Programming Wiki",
+          "schema:url": "https://www.chessprogramming.org/Special:MobileDiff/1299",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "MVV-LVA",
+          "dcterms:publisher": "Chess Programming Wiki",
+          "schema:url": "https://www.chessprogramming.org/MVV-LVA",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/computer-chess/move-ordering.md",
+      "skos:altLabel": [
+        "Successor ordering",
+        "Move sorting",
+        "Move reordering",
+        "Successor reordering"
+      ],
+      "kto:fen": "6k1/8/8/3rp3/4P3/5N2/8/3Q2K1 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:game-tree-search"
+        },
+        {
+          "@id": "kt:alpha-beta-pruning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:iterative-deepening"
+        },
+        {
+          "@id": "kt:transposition-table"
+        },
+        {
+          "@id": "kt:quiescence-search"
+        },
+        {
+          "@id": "kt:static-exchange-evaluation"
+        },
+        {
+          "@id": "kt:principal-variation-search"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:iterative-deepening"
+        },
+        {
+          "@id": "kt:transposition-table"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:killer-heuristic"
+        },
+        {
+          "@id": "kt:history-heuristic"
+        },
+        {
+          "@id": "kt:mvv-lva"
+        }
+      ]
+    },
+    {
       "@id": "kt:nnue",
       "@type": "kto:Algorithm",
       "skos:prefLabel": "NNUE",

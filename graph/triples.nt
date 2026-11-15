@@ -3390,6 +3390,37 @@
 <https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/chess-graph/ontology#fen> "6k1/1q3ppp/8/8/8/8/1P3PPP/3R2K1 b - - 0 1" .
 <https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/move-ordering> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/chess-graph/id/move-ordering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Technique> .
+<https://github.com/john1hsu/chess-graph/id/move-ordering> <http://www.w3.org/2000/01/rdf-schema#label> "Move ordering" .
+<https://github.com/john1hsu/chess-graph/id/move-ordering> <http://www.w3.org/2004/02/skos/core#altLabel> "Move reordering" .
+<https://github.com/john1hsu/chess-graph/id/move-ordering> <http://www.w3.org/2004/02/skos/core#altLabel> "Move sorting" .
+<https://github.com/john1hsu/chess-graph/id/move-ordering> <http://www.w3.org/2004/02/skos/core#altLabel> "Successor ordering" .
+<https://github.com/john1hsu/chess-graph/id/move-ordering> <http://www.w3.org/2004/02/skos/core#altLabel> "Successor reordering" .
+<https://github.com/john1hsu/chess-graph/id/move-ordering> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> .
+<https://github.com/john1hsu/chess-graph/id/move-ordering> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/game-tree-search> .
+<https://github.com/john1hsu/chess-graph/id/move-ordering> <http://www.w3.org/2004/02/skos/core#definition> "The set of heuristics a chess engine uses to decide in which order to search the moves at each node, trying the likely best move first so that alpha-beta pruning cuts off as many branches as possible and the search approaches the size of the minimal tree." .
+<https://github.com/john1hsu/chess-graph/id/move-ordering> <http://www.w3.org/2004/02/skos/core#prefLabel> "Move ordering" .
+<https://github.com/john1hsu/chess-graph/id/move-ordering> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/iterative-deepening> .
+<https://github.com/john1hsu/chess-graph/id/move-ordering> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/principal-variation-search> .
+<https://github.com/john1hsu/chess-graph/id/move-ordering> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/quiescence-search> .
+<https://github.com/john1hsu/chess-graph/id/move-ordering> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/static-exchange-evaluation> .
+<https://github.com/john1hsu/chess-graph/id/move-ordering> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/transposition-table> .
+<https://github.com/john1hsu/chess-graph/id/move-ordering> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/move-ordering/s1> .
+<https://github.com/john1hsu/chess-graph/id/move-ordering> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/move-ordering/s2> .
+<https://github.com/john1hsu/chess-graph/id/move-ordering> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/move-ordering/s3> .
+<https://github.com/john1hsu/chess-graph/id/move-ordering> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/move-ordering/s4> .
+<https://github.com/john1hsu/chess-graph/id/move-ordering> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/move-ordering/s5> .
+<https://github.com/john1hsu/chess-graph/id/move-ordering> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/move-ordering/s6> .
+<https://github.com/john1hsu/chess-graph/id/move-ordering> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/iterative-deepening> .
+<https://github.com/john1hsu/chess-graph/id/move-ordering> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/transposition-table> .
+<https://github.com/john1hsu/chess-graph/id/move-ordering> <https://github.com/john1hsu/chess-graph/ontology#domain> "computer-chess" .
+<https://github.com/john1hsu/chess-graph/id/move-ordering> <https://github.com/john1hsu/chess-graph/ontology#fen> "6k1/8/8/3rp3/4P3/5N2/8/3Q2K1 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/move-ordering> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/move-ordering> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/history-heuristic> .
+<https://github.com/john1hsu/chess-graph/id/move-ordering> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/killer-heuristic> .
+<https://github.com/john1hsu/chess-graph/id/move-ordering> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/mvv-lva> .
+<https://github.com/john1hsu/chess-graph/id/move-ordering> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-15" .
 <https://github.com/john1hsu/chess-graph/id/najdorf-variation> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/najdorf-variation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Variation> .
 <https://github.com/john1hsu/chess-graph/id/najdorf-variation> <http://www.w3.org/2000/01/rdf-schema#label> "Najdorf Variation" .
@@ -8044,6 +8075,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
 <https://github.com/john1hsu/chess-graph/id/source/monte-carlo-tree-search/s5> <https://schema.org/url> "https://lczero.org/dev/overview" .
+<https://github.com/john1hsu/chess-graph/id/source/move-ordering/s1> <http://purl.org/dc/terms/publisher> "T. Anthony Marsland, University of Alberta" .
+<https://github.com/john1hsu/chess-graph/id/source/move-ordering/s1> <http://purl.org/dc/terms/title> "The Anatomy of Chess Programs (8th World Computer Chess Championship brochure, 1995)" .
+<https://github.com/john1hsu/chess-graph/id/source/move-ordering/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/move-ordering/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/move-ordering/s1> <https://schema.org/url> "https://webdocs.cs.ualberta.ca/~tony/ICCA/anatomy.html" .
+<https://github.com/john1hsu/chess-graph/id/source/move-ordering/s2> <http://purl.org/dc/terms/publisher> "T. Anthony Marsland and Alexander Reinefeld, University of Alberta technical report TR93-02" .
+<https://github.com/john1hsu/chess-graph/id/source/move-ordering/s2> <http://purl.org/dc/terms/title> "Heuristic Search in One and Two Player Games (revised for ACM Computing Surveys)" .
+<https://github.com/john1hsu/chess-graph/id/source/move-ordering/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/move-ordering/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/move-ordering/s2> <https://schema.org/url> "https://webdocs.cs.ualberta.ca/~tony/TechnicalReports/TR93-02.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/move-ordering/s3> <http://purl.org/dc/terms/publisher> "Aske Plaat, Jonathan Schaeffer, Wim Pijls and Arie de Bruin, via arXiv" .
+<https://github.com/john1hsu/chess-graph/id/source/move-ordering/s3> <http://purl.org/dc/terms/title> "Nearly Optimal Minimax Tree Search? (University of Alberta TR 94-19)" .
+<https://github.com/john1hsu/chess-graph/id/source/move-ordering/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/move-ordering/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/move-ordering/s3> <https://schema.org/url> "https://arxiv.org/pdf/1404.1518.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/move-ordering/s4> <http://purl.org/dc/terms/publisher> "Ernst A. Heinz, MIT CSAIL" .
+<https://github.com/john1hsu/chess-graph/id/source/move-ordering/s4> <http://purl.org/dc/terms/title> "Bibliography (DarkThought computer-chess research pages)" .
+<https://github.com/john1hsu/chess-graph/id/source/move-ordering/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/move-ordering/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/move-ordering/s4> <https://schema.org/url> "https://people.csail.mit.edu/heinz/dt/node102.html" .
+<https://github.com/john1hsu/chess-graph/id/source/move-ordering/s5> <http://purl.org/dc/terms/publisher> "Chess Programming Wiki" .
+<https://github.com/john1hsu/chess-graph/id/source/move-ordering/s5> <http://purl.org/dc/terms/title> "Move Ordering (page revision view)" .
+<https://github.com/john1hsu/chess-graph/id/source/move-ordering/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/move-ordering/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/move-ordering/s5> <https://schema.org/url> "https://www.chessprogramming.org/Special:MobileDiff/1299" .
+<https://github.com/john1hsu/chess-graph/id/source/move-ordering/s6> <http://purl.org/dc/terms/publisher> "Chess Programming Wiki" .
+<https://github.com/john1hsu/chess-graph/id/source/move-ordering/s6> <http://purl.org/dc/terms/title> "MVV-LVA" .
+<https://github.com/john1hsu/chess-graph/id/source/move-ordering/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/move-ordering/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/move-ordering/s6> <https://schema.org/url> "https://www.chessprogramming.org/MVV-LVA" .
 <https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s1> <http://purl.org/dc/terms/publisher> "André Schulz, ChessBase News (15 April 2020)" .
 <https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s1> <http://purl.org/dc/terms/title> "Remembering Miguel Najdorf" .
 <https://github.com/john1hsu/chess-graph/id/source/najdorf-variation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
