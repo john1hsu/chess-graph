@@ -3668,6 +3668,32 @@
     ]
   },
   {
+    "id": "kt:shogi",
+    "title": "Shogi",
+    "aliases": [
+      "Japanese chess",
+      "Shōgi",
+      "Shougi",
+      "将棋"
+    ],
+    "type": "Variant",
+    "domain": "variants-and-compositions",
+    "file": "articles/variants-and-compositions/shogi.md",
+    "created": "2026-11-15",
+    "verified": "2026-11-15",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://www.britannica.com/summary/shogi",
+      "https://fesashogi.eu/rules/",
+      "https://gnu.org/software/gnushogi/manual/The-rules-of-shogi.html",
+      "https://core.ac.uk/download/286924113.pdf",
+      "https://ginza.tkl.iis.u-tokyo.ac.jp/new/uploads/publication_file/file/614/06598505.pdf",
+      "https://ar5iv.arxiv.org/html/1712.01815",
+      "https://arxiv.org/pdf/2209.01506"
+    ]
+  },
+  {
     "id": "kt:sicilian-defence",
     "title": "Sicilian Defence",
     "aliases": [

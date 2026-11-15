@@ -16521,6 +16521,100 @@
           "@id": "kt:battery"
         }
       ]
+    },
+    {
+      "@id": "kt:shogi",
+      "@type": "kto:Variant",
+      "skos:prefLabel": "Shogi",
+      "skos:definition": "The Japanese member of the chess family, played on a 9×9 board with twenty pieces a side, in which captured pieces join the captor's hand and may later be dropped back onto the board.",
+      "kto:domain": "variants-and-compositions",
+      "dcterms:created": "2026-11-15",
+      "kto:verified": "2026-11-15",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Shogi (summary)",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/summary/shogi",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Shogi official playing rules (adopted 4 August 2017)",
+          "dcterms:publisher": "Federation of European Shogi Associations (FESA)",
+          "schema:url": "https://fesashogi.eu/rules/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "The rules of shogi (GNU Shogi manual)",
+          "dcterms:publisher": "GNU Project",
+          "schema:url": "https://gnu.org/software/gnushogi/manual/The-rules-of-shogi.html",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "Computer Shogi 2000 through 2004",
+          "dcterms:publisher": "Takenobu Takizawa, Waseda University Repository",
+          "schema:url": "https://core.ac.uk/download/286924113.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "A System-Design Outline of the Distributed-Shogi-System Akara 2010",
+          "dcterms:publisher": "Hoki, Yokoyama, Yamashita, Kaneko, Obata, Tsuruoka & Ito, SNPD 2013 (IEEE/ACIS)",
+          "schema:url": "https://ginza.tkl.iis.u-tokyo.ac.jp/new/uploads/publication_file/file/614/06598505.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm (arXiv:1712.01815)",
+          "dcterms:publisher": "D. Silver et al., DeepMind",
+          "schema:url": "https://ar5iv.arxiv.org/html/1712.01815",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Neural Networks for Chess (arXiv:2209.01506)",
+          "dcterms:publisher": "Dominik Klein",
+          "schema:url": "https://arxiv.org/pdf/2209.01506",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/variants-and-compositions/shogi.md",
+      "skos:altLabel": [
+        "Japanese chess",
+        "Shōgi",
+        "Shougi",
+        "将棋"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess-variants"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:crazyhouse"
+        },
+        {
+          "@id": "kt:xiangqi"
+        },
+        {
+          "@id": "kt:alphazero"
+        },
+        {
+          "@id": "kt:nnue"
+        },
+        {
+          "@id": "kt:pawn-promotion"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:chess"
+        }
+      ],
+      "kto:sanctionedBy": [
+        {
+          "@id": "kt:federation-of-european-shogi-associations"
+        }
+      ]
     }
   ]
 }

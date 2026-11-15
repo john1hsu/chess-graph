@@ -4105,6 +4105,33 @@
 <https://github.com/john1hsu/chess-graph/id/shatranj> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/chess> .
 <https://github.com/john1hsu/chess-graph/id/shatranj> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/shatranj> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/shogi> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/chess-graph/id/shogi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Variant> .
+<https://github.com/john1hsu/chess-graph/id/shogi> <http://www.w3.org/2000/01/rdf-schema#label> "Shogi" .
+<https://github.com/john1hsu/chess-graph/id/shogi> <http://www.w3.org/2004/02/skos/core#altLabel> "Japanese chess" .
+<https://github.com/john1hsu/chess-graph/id/shogi> <http://www.w3.org/2004/02/skos/core#altLabel> "Shougi" .
+<https://github.com/john1hsu/chess-graph/id/shogi> <http://www.w3.org/2004/02/skos/core#altLabel> "Shōgi" .
+<https://github.com/john1hsu/chess-graph/id/shogi> <http://www.w3.org/2004/02/skos/core#altLabel> "将棋" .
+<https://github.com/john1hsu/chess-graph/id/shogi> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-variants> .
+<https://github.com/john1hsu/chess-graph/id/shogi> <http://www.w3.org/2004/02/skos/core#definition> "The Japanese member of the chess family, played on a 9×9 board with twenty pieces a side, in which captured pieces join the captor's hand and may later be dropped back onto the board." .
+<https://github.com/john1hsu/chess-graph/id/shogi> <http://www.w3.org/2004/02/skos/core#prefLabel> "Shogi" .
+<https://github.com/john1hsu/chess-graph/id/shogi> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/alphazero> .
+<https://github.com/john1hsu/chess-graph/id/shogi> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/crazyhouse> .
+<https://github.com/john1hsu/chess-graph/id/shogi> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/nnue> .
+<https://github.com/john1hsu/chess-graph/id/shogi> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/pawn-promotion> .
+<https://github.com/john1hsu/chess-graph/id/shogi> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/xiangqi> .
+<https://github.com/john1hsu/chess-graph/id/shogi> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/shogi/s1> .
+<https://github.com/john1hsu/chess-graph/id/shogi> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/shogi/s2> .
+<https://github.com/john1hsu/chess-graph/id/shogi> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/shogi/s3> .
+<https://github.com/john1hsu/chess-graph/id/shogi> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/shogi/s4> .
+<https://github.com/john1hsu/chess-graph/id/shogi> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/shogi/s5> .
+<https://github.com/john1hsu/chess-graph/id/shogi> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/shogi/s6> .
+<https://github.com/john1hsu/chess-graph/id/shogi> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/shogi/s7> .
+<https://github.com/john1hsu/chess-graph/id/shogi> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/chess> .
+<https://github.com/john1hsu/chess-graph/id/shogi> <https://github.com/john1hsu/chess-graph/ontology#domain> "variants-and-compositions" .
+<https://github.com/john1hsu/chess-graph/id/shogi> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/federation-of-european-shogi-associations> .
+<https://github.com/john1hsu/chess-graph/id/shogi> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/shogi> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-15" .
 <https://github.com/john1hsu/chess-graph/id/sicilian-defence> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/sicilian-defence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Opening> .
 <https://github.com/john1hsu/chess-graph/id/sicilian-defence> <http://www.w3.org/2000/01/rdf-schema#label> "Sicilian Defence" .
@@ -8482,6 +8509,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/shatranj/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/shatranj/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/shatranj/s6> <https://schema.org/url> "https://www.thearticle.com/islam-chess-and-the-first-grandmaster" .
+<https://github.com/john1hsu/chess-graph/id/source/shogi/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/shogi/s1> <http://purl.org/dc/terms/title> "Shogi (summary)" .
+<https://github.com/john1hsu/chess-graph/id/source/shogi/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/shogi/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/shogi/s1> <https://schema.org/url> "https://www.britannica.com/summary/shogi" .
+<https://github.com/john1hsu/chess-graph/id/source/shogi/s2> <http://purl.org/dc/terms/publisher> "Federation of European Shogi Associations (FESA)" .
+<https://github.com/john1hsu/chess-graph/id/source/shogi/s2> <http://purl.org/dc/terms/title> "Shogi official playing rules (adopted 4 August 2017)" .
+<https://github.com/john1hsu/chess-graph/id/source/shogi/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/shogi/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/shogi/s2> <https://schema.org/url> "https://fesashogi.eu/rules/" .
+<https://github.com/john1hsu/chess-graph/id/source/shogi/s3> <http://purl.org/dc/terms/publisher> "GNU Project" .
+<https://github.com/john1hsu/chess-graph/id/source/shogi/s3> <http://purl.org/dc/terms/title> "The rules of shogi (GNU Shogi manual)" .
+<https://github.com/john1hsu/chess-graph/id/source/shogi/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/shogi/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/shogi/s3> <https://schema.org/url> "https://gnu.org/software/gnushogi/manual/The-rules-of-shogi.html" .
+<https://github.com/john1hsu/chess-graph/id/source/shogi/s4> <http://purl.org/dc/terms/publisher> "Takenobu Takizawa, Waseda University Repository" .
+<https://github.com/john1hsu/chess-graph/id/source/shogi/s4> <http://purl.org/dc/terms/title> "Computer Shogi 2000 through 2004" .
+<https://github.com/john1hsu/chess-graph/id/source/shogi/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/shogi/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/shogi/s4> <https://schema.org/url> "https://core.ac.uk/download/286924113.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/shogi/s5> <http://purl.org/dc/terms/publisher> "Hoki, Yokoyama, Yamashita, Kaneko, Obata, Tsuruoka & Ito, SNPD 2013 (IEEE/ACIS)" .
+<https://github.com/john1hsu/chess-graph/id/source/shogi/s5> <http://purl.org/dc/terms/title> "A System-Design Outline of the Distributed-Shogi-System Akara 2010" .
+<https://github.com/john1hsu/chess-graph/id/source/shogi/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/shogi/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/shogi/s5> <https://schema.org/url> "https://ginza.tkl.iis.u-tokyo.ac.jp/new/uploads/publication_file/file/614/06598505.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/shogi/s6> <http://purl.org/dc/terms/publisher> "D. Silver et al., DeepMind" .
+<https://github.com/john1hsu/chess-graph/id/source/shogi/s6> <http://purl.org/dc/terms/title> "Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm (arXiv:1712.01815)" .
+<https://github.com/john1hsu/chess-graph/id/source/shogi/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/shogi/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/shogi/s6> <https://schema.org/url> "https://ar5iv.arxiv.org/html/1712.01815" .
+<https://github.com/john1hsu/chess-graph/id/source/shogi/s7> <http://purl.org/dc/terms/publisher> "Dominik Klein" .
+<https://github.com/john1hsu/chess-graph/id/source/shogi/s7> <http://purl.org/dc/terms/title> "Neural Networks for Chess (arXiv:2209.01506)" .
+<https://github.com/john1hsu/chess-graph/id/source/shogi/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/shogi/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/shogi/s7> <https://schema.org/url> "https://arxiv.org/pdf/2209.01506" .
 <https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s1> <http://purl.org/dc/terms/publisher> "ChessBase Learn" .
 <https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s1> <http://purl.org/dc/terms/title> "The Sicilian Defence" .
 <https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

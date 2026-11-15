@@ -50,12 +50,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
 | `kt:rapid-chess` | `kt:fischer-increment`, `kt:time-management-in-games` |
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:zugzwang`, `kt:aron-nimzowitsch` |
-| `kt:shogi` | `kt:chess-variants`, `kt:crazyhouse` |
 | `kt:simplification` | `kt:material-advantage`, `kt:material-advantage` |
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
 | `kt:steven-j-edwards` | `kt:forsyth-edwards-notation`, `kt:portable-game-notation` |
 | `kt:tie-break` | `kt:chess-tournament`, `kt:us-chess-championship` |
 | `kt:viswanathan-anand` | `kt:gukesh-dommaraju`, `kt:magnus-carlsen` |
+| `kt:xiangqi` | `kt:chess-variants`, `kt:shogi` |
 | `kt:abraham-luchins` | `kt:einstellung-effect` |
 | `kt:abstract-strategy-game` | `kt:chess` |
 | `kt:alfred-binet` | `kt:cognitive-psychology-of-chess` |
@@ -88,6 +88,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:englisch-versus-steinitz-london-1883` | `kt:bishop-pair` |
 | `kt:english-attack` | `kt:najdorf-variation` |
 | `kt:exchange-sacrifice` | `kt:sacrifice` |
+| `kt:federation-of-european-shogi-associations` | `kt:shogi` |
 | `kt:fernando-saavedra` | `kt:saavedra-position` |
 | `kt:fide-ethics-and-disciplinary-code` | `kt:fair-play-regulations` |
 | `kt:fide-handbook` | `kt:fair-play-regulations` |
@@ -228,5 +229,4 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:world-chess-championship-1937` | `kt:alexander-alekhine` |
 | `kt:world-chess-hall-of-fame` | `kt:saint-louis-chess-club` |
 | `kt:wrong-bishop` | `kt:fortress` |
-| `kt:xiangqi` | `kt:chess-variants` |
 | `kt:yu-nasu` | `kt:nnue` |
