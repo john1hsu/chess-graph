@@ -10471,6 +10471,129 @@
       ]
     },
     {
+      "@id": "kt:javokhir-sindarov",
+      "@type": "kto:Player",
+      "skos:prefLabel": "Javokhir Sindarov",
+      "skos:definition": "Uzbek grandmaster (born 2005) who earned the title at 12, was part of Uzbekistan's Olympiad-winning teams of 2022 and 2026, became the youngest FIDE World Cup winner in 2025 and won the 2026 Candidates Tournament with a record 10/14; as of November 2026 he is world No. 4 and about to challenge Gukesh D for the world title in Geneva.",
+      "kto:domain": "players",
+      "dcterms:created": "2026-11-15",
+      "kto:verified": "2026-11-15",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Sindarov: second youngest GM ever (Macauley Peterson)",
+          "dcterms:publisher": "ChessBase",
+          "schema:url": "https://en.chessbase.com/post/javokhir-sindarov-second-youngest-gm-ever",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The young guns who ruled the Olympiad - Team Uzbekistan (Sagar Shah)",
+          "dcterms:publisher": "ChessBase",
+          "schema:url": "https://en.chessbase.com/post/the-young-guns-who-ruled-the-olympiad-team-uzbekistan",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "2025: A breakthrough year for Javokhir Sindarov (Carlos Alberto Colodro)",
+          "dcterms:publisher": "ChessBase",
+          "schema:url": "https://en.chessbase.com/newsroom/post/2025-breakthrough-year-javokhir-sindarov?page=0",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Javokhir Sindarov crowned 2025 FIDE World Cup Champion",
+          "dcterms:publisher": "FIDE",
+          "schema:url": "https://www.fide.com/javokhir-sindarov-crowned-2025-fide-world-cup-champion/",
+          "kto:sourceType": "primary-record"
+        },
+        {
+          "dcterms:title": "Candidates R14: Sindarov achieves record-breaking score, Giri and Caruana grab wins (Carlos Alberto Colodro)",
+          "dcterms:publisher": "ChessBase",
+          "schema:url": "https://en.chessbase.com/post/candidates-tournament-2026-o-14",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Candidates R4: Sindarov stuns Caruana in clash of co-leaders, climbs to world number six (Carlos Alberto Colodro)",
+          "dcterms:publisher": "ChessBase",
+          "schema:url": "https://en.chessbase.com/post/candidates-tournament-2026-o-4",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "FIDE Candidates Tournament 2026 — Sindarov, Javokhir – Caruana, Fabiano (game score)",
+          "dcterms:publisher": "Lichess study",
+          "schema:url": "https://lichess.org/study/embed/L5mZq8u7/SvencduR",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "Salesforce FIDE World Championship Match 2026: Schedule, format, and prize fund confirmed",
+          "dcterms:publisher": "FIDE",
+          "schema:url": "https://www.fide.com/salesforce-fide-world-championship-match-2026-schedule-format-and-prize-fund-confirmed/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Uzbekistan, India and Germany on the podium (Carlos Alberto Colodro)",
+          "dcterms:publisher": "ChessBase",
+          "schema:url": "https://en.chessbase.com/post/chess-olympiad-2026-11",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "November FIDE Rating List: Nihal Enters Top 20, Sindarov Leads Gukesh By 72 Points (Colin McGourty)",
+          "dcterms:publisher": "Chess.com",
+          "schema:url": "https://chess.com/news/view/november-2026-fide-rating-list",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/players/javokhir-sindarov.md",
+      "skos:altLabel": [
+        "Sindarov",
+        "Javokhir Sindorov",
+        "Sindarov Javokhir",
+        "Javohir Sindarov"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:world-chess-championship"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:gukesh-dommaraju"
+        },
+        {
+          "@id": "kt:candidates-tournament"
+        },
+        {
+          "@id": "kt:fide-world-cup"
+        },
+        {
+          "@id": "kt:chess-olympiad"
+        },
+        {
+          "@id": "kt:queens-gambit-accepted"
+        }
+      ],
+      "kto:holdsTitle": [
+        {
+          "@id": "kt:grandmaster-title"
+        }
+      ],
+      "kto:playedIn": [
+        {
+          "@id": "kt:fide-world-cup"
+        },
+        {
+          "@id": "kt:candidates-tournament"
+        },
+        {
+          "@id": "kt:chess-olympiad"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:sindarov-versus-caruana-candidates-2026"
+        }
+      ]
+    },
+    {
       "@id": "kt:jose-raul-capablanca",
       "@type": "kto:Player",
       "skos:prefLabel": "José Raúl Capablanca",

@@ -11,7 +11,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:rapid-chess` | `kt:blitz-chess`, `kt:blitz-chess`, `kt:fischer-increment`, `kt:time-management-in-games` |
 | `kt:chess-clock` | `kt:blitz-chess`, `kt:fischer-increment`, `kt:time-management-in-games` |
 | `kt:dragon-variation` | `kt:backward-pawn`, `kt:najdorf-variation`, `kt:sicilian-defence` |
-| `kt:javokhir-sindarov` | `kt:candidates-tournament`, `kt:fide-world-cup`, `kt:gukesh-dommaraju` |
 | `kt:johannes-zukertort` | `kt:world-chess-championship-1886`, `kt:adolf-anderssen`, `kt:wilhelm-steinitz` |
 | `kt:king-safety` | `kt:weak-squares`, `kt:castling`, `kt:greek-gift-sacrifice` |
 | `kt:mikhail-chigorin` | `kt:hastings-1895`, `kt:evans-gambit`, `kt:wilhelm-steinitz` |
@@ -202,6 +201,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:semi-slav-defence` | `kt:slav-defence` |
 | `kt:shuffle-chess` | `kt:chess960` |
 | `kt:simultaneous-exhibition` | `kt:blindfold-chess` |
+| `kt:sindarov-versus-caruana-candidates-2026` | `kt:javokhir-sindarov` |
 | `kt:sinquefield-cup` | `kt:saint-louis-chess-club` |
 | `kt:solving-chess` | `kt:game-tree-search` |
 | `kt:spassky-versus-bronstein-leningrad-1960` | `kt:boris-spassky` |

@@ -2579,6 +2579,35 @@
     ]
   },
   {
+    "id": "kt:javokhir-sindarov",
+    "title": "Javokhir Sindarov",
+    "aliases": [
+      "Sindarov",
+      "Javokhir Sindorov",
+      "Sindarov Javokhir",
+      "Javohir Sindarov"
+    ],
+    "type": "Player",
+    "domain": "players",
+    "file": "articles/players/javokhir-sindarov.md",
+    "created": "2026-11-15",
+    "verified": "2026-11-15",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://en.chessbase.com/post/javokhir-sindarov-second-youngest-gm-ever",
+      "https://en.chessbase.com/post/the-young-guns-who-ruled-the-olympiad-team-uzbekistan",
+      "https://en.chessbase.com/newsroom/post/2025-breakthrough-year-javokhir-sindarov?page=0",
+      "https://www.fide.com/javokhir-sindarov-crowned-2025-fide-world-cup-champion/",
+      "https://en.chessbase.com/post/candidates-tournament-2026-o-14",
+      "https://en.chessbase.com/post/candidates-tournament-2026-o-4",
+      "https://lichess.org/study/embed/L5mZq8u7/SvencduR",
+      "https://www.fide.com/salesforce-fide-world-championship-match-2026-schedule-format-and-prize-fund-confirmed/",
+      "https://en.chessbase.com/post/chess-olympiad-2026-11",
+      "https://chess.com/news/view/november-2026-fide-rating-list"
+    ]
+  },
+  {
     "id": "kt:jose-raul-capablanca",
     "title": "José Raúl Capablanca",
     "aliases": [

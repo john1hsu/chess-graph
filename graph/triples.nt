@@ -2896,6 +2896,39 @@
 <https://github.com/john1hsu/chess-graph/id/italian-game> <https://github.com/john1hsu/chess-graph/ontology#moves> "1.e4 e5 2.Nf3 Nc6 3.Bc4" .
 <https://github.com/john1hsu/chess-graph/id/italian-game> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/italian-game> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
+<https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <http://www.w3.org/2000/01/rdf-schema#label> "Javokhir Sindarov" .
+<https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <http://www.w3.org/2004/02/skos/core#altLabel> "Javohir Sindarov" .
+<https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <http://www.w3.org/2004/02/skos/core#altLabel> "Javokhir Sindorov" .
+<https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <http://www.w3.org/2004/02/skos/core#altLabel> "Sindarov Javokhir" .
+<https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <http://www.w3.org/2004/02/skos/core#altLabel> "Sindarov" .
+<https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <http://www.w3.org/2004/02/skos/core#definition> "Uzbek grandmaster (born 2005) who earned the title at 12, was part of Uzbekistan's Olympiad-winning teams of 2022 and 2026, became the youngest FIDE World Cup winner in 2025 and won the 2026 Candidates Tournament with a record 10/14; as of November 2026 he is world No. 4 and about to challenge Gukesh D for the world title in Geneva." .
+<https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <http://www.w3.org/2004/02/skos/core#prefLabel> "Javokhir Sindarov" .
+<https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/candidates-tournament> .
+<https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-olympiad> .
+<https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fide-world-cup> .
+<https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> .
+<https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/queens-gambit-accepted> .
+<https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s10> .
+<https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s1> .
+<https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s2> .
+<https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s3> .
+<https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s4> .
+<https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s5> .
+<https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s6> .
+<https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s7> .
+<https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s8> .
+<https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s9> .
+<https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <https://github.com/john1hsu/chess-graph/ontology#domain> "players" .
+<https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/sindarov-versus-caruana-candidates-2026> .
+<https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <https://github.com/john1hsu/chess-graph/ontology#holdsTitle> <https://github.com/john1hsu/chess-graph/id/grandmaster-title> .
+<https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/candidates-tournament> .
+<https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/chess-olympiad> .
+<https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/fide-world-cup> .
+<https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-15" .
 <https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
 <https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <http://www.w3.org/2000/01/rdf-schema#label> "José Raúl Capablanca" .
@@ -7336,6 +7369,56 @@
 <https://github.com/john1hsu/chess-graph/id/source/italian-game/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/italian-game/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
 <https://github.com/john1hsu/chess-graph/id/source/italian-game/s7> <https://schema.org/url> "https://chessgames.com/perl/chessopening?eco=C54" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s10> <http://purl.org/dc/terms/publisher> "Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s10> <http://purl.org/dc/terms/title> "November FIDE Rating List: Nihal Enters Top 20, Sindarov Leads Gukesh By 72 Points (Colin McGourty)" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s10> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s10> <https://schema.org/url> "https://chess.com/news/view/november-2026-fide-rating-list" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s1> <http://purl.org/dc/terms/publisher> "ChessBase" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s1> <http://purl.org/dc/terms/title> "Sindarov: second youngest GM ever (Macauley Peterson)" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s1> <https://schema.org/url> "https://en.chessbase.com/post/javokhir-sindarov-second-youngest-gm-ever" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s2> <http://purl.org/dc/terms/publisher> "ChessBase" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s2> <http://purl.org/dc/terms/title> "The young guns who ruled the Olympiad - Team Uzbekistan (Sagar Shah)" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s2> <https://schema.org/url> "https://en.chessbase.com/post/the-young-guns-who-ruled-the-olympiad-team-uzbekistan" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s3> <http://purl.org/dc/terms/publisher> "ChessBase" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s3> <http://purl.org/dc/terms/title> "2025: A breakthrough year for Javokhir Sindarov (Carlos Alberto Colodro)" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s3> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/2025-breakthrough-year-javokhir-sindarov?page=0" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s4> <http://purl.org/dc/terms/publisher> "FIDE" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s4> <http://purl.org/dc/terms/title> "Javokhir Sindarov crowned 2025 FIDE World Cup Champion" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s4> <https://schema.org/url> "https://www.fide.com/javokhir-sindarov-crowned-2025-fide-world-cup-champion/" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s5> <http://purl.org/dc/terms/publisher> "ChessBase" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s5> <http://purl.org/dc/terms/title> "Candidates R14: Sindarov achieves record-breaking score, Giri and Caruana grab wins (Carlos Alberto Colodro)" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s5> <https://schema.org/url> "https://en.chessbase.com/post/candidates-tournament-2026-o-14" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s6> <http://purl.org/dc/terms/publisher> "ChessBase" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s6> <http://purl.org/dc/terms/title> "Candidates R4: Sindarov stuns Caruana in clash of co-leaders, climbs to world number six (Carlos Alberto Colodro)" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s6> <https://schema.org/url> "https://en.chessbase.com/post/candidates-tournament-2026-o-4" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s7> <http://purl.org/dc/terms/publisher> "Lichess study" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s7> <http://purl.org/dc/terms/title> "FIDE Candidates Tournament 2026 — Sindarov, Javokhir – Caruana, Fabiano (game score)" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s7> <https://schema.org/url> "https://lichess.org/study/embed/L5mZq8u7/SvencduR" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s8> <http://purl.org/dc/terms/publisher> "FIDE" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s8> <http://purl.org/dc/terms/title> "Salesforce FIDE World Championship Match 2026: Schedule, format, and prize fund confirmed" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s8> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s8> <https://schema.org/url> "https://www.fide.com/salesforce-fide-world-championship-match-2026-schedule-format-and-prize-fund-confirmed/" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s9> <http://purl.org/dc/terms/publisher> "ChessBase" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s9> <http://purl.org/dc/terms/title> "Uzbekistan, India and Germany on the podium (Carlos Alberto Colodro)" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s9> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s9> <https://schema.org/url> "https://en.chessbase.com/post/chess-olympiad-2026-11" .
 <https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s1> <http://purl.org/dc/terms/title> "José Raúl Capablanca" .
 <https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
