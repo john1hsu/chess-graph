@@ -3156,6 +3156,32 @@
     ]
   },
   {
+    "id": "kt:opening-repertoire",
+    "title": "Opening repertoire",
+    "aliases": [
+      "Chess opening repertoire",
+      "Repertoire building",
+      "Building an opening repertoire",
+      "Opening specialization"
+    ],
+    "type": "Technique",
+    "domain": "training-and-improvement",
+    "file": "articles/training-and-improvement/opening-repertoire.md",
+    "created": "2026-11-15",
+    "verified": "2026-11-15",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC3217924",
+      "https://bura.brunel.ac.uk/bitstream/2438/2965/1/Bilalic-Specialisation-CogSci-final.pdf",
+      "https://en.chessbase.com/post/grivas-training-building-a-repertoire",
+      "https://www.jeremysilman.com/book-review/how-to-build-your-chess-opening-repertoire/",
+      "https://blog.qualitychess.co.uk/2145",
+      "https://www.365chess.com/eco/B90_Sicilian_Najdorf",
+      "https://365chess.com/eco/C15_French_Winawer_(Nimzovich)_variation"
+    ]
+  },
+  {
     "id": "kt:opposite-coloured-bishops",
     "title": "Opposite-coloured bishops",
     "aliases": [

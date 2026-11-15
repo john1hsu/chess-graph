@@ -37,7 +37,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position`, `kt:smothered-mate` |
 | `kt:max-euwe` | `kt:slav-defence`, `kt:alexander-alekhine` |
 | `kt:miguel-najdorf` | `kt:najdorf-variation`, `kt:blindfold-chess` |
-| `kt:opening-repertoire` | `kt:chess-openings`, `kt:template-theory` |
 | `kt:origins-of-chess` | `kt:chaturanga`, `kt:history-of-chess` |
 | `kt:overprotection` | `kt:prophylaxis`, `kt:prophylaxis` |
 | `kt:paul-morphy` | `kt:romantic-era`, `kt:adolf-anderssen` |
@@ -163,6 +162,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:novotny-theme` | `kt:interference` |
 | `kt:numeric-annotation-glyphs` | `kt:portable-game-notation` |
 | `kt:open-ruy-lopez` | `kt:ruy-lopez` |
+| `kt:opening-surprise` | `kt:opening-repertoire` |
 | `kt:otto-selz` | `kt:adriaan-de-groot` |
 | `kt:panov-botvinnik-attack` | `kt:caro-kann-defence` |
 | `kt:passive-rook-defence` | `kt:philidor-position` |
@@ -223,6 +223,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:the-exchange` | `kt:material-advantage` |
 | `kt:tie-break-regulations` | `kt:chess-olympiad` |
 | `kt:tord-romstad` | `kt:stockfish` |
+| `kt:transposition` | `kt:opening-repertoire` |
 | `kt:two-knights-defence` | `kt:italian-game` |
 | `kt:us-womens-chess-championship` | `kt:us-chess-championship` |
 | `kt:vera-menchik` | `kt:womens-world-chess-championship` |

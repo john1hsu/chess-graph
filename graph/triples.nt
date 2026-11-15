@@ -3541,6 +3541,33 @@
 <https://github.com/john1hsu/chess-graph/id/opening-book> <https://github.com/john1hsu/chess-graph/ontology#domain> "computer-chess" .
 <https://github.com/john1hsu/chess-graph/id/opening-book> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/opening-book> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/opening-repertoire> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/chess-graph/id/opening-repertoire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Technique> .
+<https://github.com/john1hsu/chess-graph/id/opening-repertoire> <http://www.w3.org/2000/01/rdf-schema#label> "Opening repertoire" .
+<https://github.com/john1hsu/chess-graph/id/opening-repertoire> <http://www.w3.org/2004/02/skos/core#altLabel> "Building an opening repertoire" .
+<https://github.com/john1hsu/chess-graph/id/opening-repertoire> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess opening repertoire" .
+<https://github.com/john1hsu/chess-graph/id/opening-repertoire> <http://www.w3.org/2004/02/skos/core#altLabel> "Opening specialization" .
+<https://github.com/john1hsu/chess-graph/id/opening-repertoire> <http://www.w3.org/2004/02/skos/core#altLabel> "Repertoire building" .
+<https://github.com/john1hsu/chess-graph/id/opening-repertoire> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-expertise> .
+<https://github.com/john1hsu/chess-graph/id/opening-repertoire> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-openings> .
+<https://github.com/john1hsu/chess-graph/id/opening-repertoire> <http://www.w3.org/2004/02/skos/core#definition> "The fixed set of openings a player prepares and normally plays, typically one system with White and defences against each main first move with Black, and the training practice of choosing, studying and maintaining that set." .
+<https://github.com/john1hsu/chess-graph/id/opening-repertoire> <http://www.w3.org/2004/02/skos/core#prefLabel> "Opening repertoire" .
+<https://github.com/john1hsu/chess-graph/id/opening-repertoire> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/french-defence> .
+<https://github.com/john1hsu/chess-graph/id/opening-repertoire> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/najdorf-variation> .
+<https://github.com/john1hsu/chess-graph/id/opening-repertoire> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/opening-book> .
+<https://github.com/john1hsu/chess-graph/id/opening-repertoire> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/template-theory> .
+<https://github.com/john1hsu/chess-graph/id/opening-repertoire> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s1> .
+<https://github.com/john1hsu/chess-graph/id/opening-repertoire> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s2> .
+<https://github.com/john1hsu/chess-graph/id/opening-repertoire> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s3> .
+<https://github.com/john1hsu/chess-graph/id/opening-repertoire> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s4> .
+<https://github.com/john1hsu/chess-graph/id/opening-repertoire> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s5> .
+<https://github.com/john1hsu/chess-graph/id/opening-repertoire> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s6> .
+<https://github.com/john1hsu/chess-graph/id/opening-repertoire> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s7> .
+<https://github.com/john1hsu/chess-graph/id/opening-repertoire> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/opening-surprise> .
+<https://github.com/john1hsu/chess-graph/id/opening-repertoire> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/transposition> .
+<https://github.com/john1hsu/chess-graph/id/opening-repertoire> <https://github.com/john1hsu/chess-graph/ontology#domain> "training-and-improvement" .
+<https://github.com/john1hsu/chess-graph/id/opening-repertoire> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/opening-repertoire> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-15" .
 <https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#EndgameType> .
 <https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <http://www.w3.org/2000/01/rdf-schema#label> "Opposite-coloured bishops" .
@@ -8148,6 +8175,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/opening-book/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/opening-book/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
 <https://github.com/john1hsu/chess-graph/id/source/opening-book/s6> <https://schema.org/url> "https://github.com/official-stockfish/Stockfish" .
+<https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s1> <http://purl.org/dc/terms/publisher> "Philippe Chassy and Fernand Gobet, PubMed Central" .
+<https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s1> <http://purl.org/dc/terms/title> "Measuring Chess Experts' Single-Use Sequence Knowledge: An Archival Study of Departure from 'Theoretical' Openings (PLoS ONE 6(11): e26692, 2011)" .
+<https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s1> <https://schema.org/url> "https://pmc.ncbi.nlm.nih.gov/articles/PMC3217924" .
+<https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s2> <http://purl.org/dc/terms/publisher> "Merim Bilalić, Peter McLeod and Fernand Gobet, Brunel University Research Archive" .
+<https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s2> <http://purl.org/dc/terms/title> "Specialization effect and its influence on memory and problem solving in expert chess players (Cognitive Science 33(6), 1117-1143, 2009)" .
+<https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s2> <https://schema.org/url> "https://bura.brunel.ac.uk/bitstream/2438/2965/1/Bilalic-Specialisation-CogSci-final.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s3> <http://purl.org/dc/terms/publisher> "GM Efstratios Grivas, ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s3> <http://purl.org/dc/terms/title> "Grivas Training: Building a Repertoire (18 April 2011)" .
+<https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s3> <https://schema.org/url> "https://en.chessbase.com/post/grivas-training-building-a-repertoire" .
+<https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s4> <http://purl.org/dc/terms/publisher> "IM Jeremy Silman, jeremysilman.com" .
+<https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s4> <http://purl.org/dc/terms/title> "How To Build Your Chess Opening Repertoire (review of Steve Giddins, Gambit Publications)" .
+<https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s4> <https://schema.org/url> "https://www.jeremysilman.com/book-review/how-to-build-your-chess-opening-repertoire/" .
+<https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s5> <http://purl.org/dc/terms/publisher> "Quality Chess blog" .
+<https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s5> <http://purl.org/dc/terms/title> "The element of surprise – Part 2" .
+<https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s5> <https://schema.org/url> "https://blog.qualitychess.co.uk/2145" .
+<https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s6> <http://purl.org/dc/terms/publisher> "365Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s6> <http://purl.org/dc/terms/title> "B90 Sicilian Najdorf" .
+<https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s6> <https://schema.org/url> "https://www.365chess.com/eco/B90_Sicilian_Najdorf" .
+<https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s7> <http://purl.org/dc/terms/publisher> "365Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s7> <http://purl.org/dc/terms/title> "C15 French Winawer (Nimzovich) variation" .
+<https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s7> <https://schema.org/url> "https://365chess.com/eco/C15_French_Winawer_(Nimzovich)_variation" .
 <https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s1> <http://purl.org/dc/terms/publisher> "Jesús de la Villa, New In Chess (2023); excerpt hosted by Chess Tigers" .
 <https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s1> <http://purl.org/dc/terms/title> "100 Endgames You Must Know, sixth edition (excerpt, Chapter 9: Opposite-coloured bishops)" .
 <https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

@@ -15498,6 +15498,100 @@
       ]
     },
     {
+      "@id": "kt:opening-repertoire",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Opening repertoire",
+      "skos:definition": "The fixed set of openings a player prepares and normally plays, typically one system with White and defences against each main first move with Black, and the training practice of choosing, studying and maintaining that set.",
+      "kto:domain": "training-and-improvement",
+      "dcterms:created": "2026-11-15",
+      "kto:verified": "2026-11-15",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Measuring Chess Experts' Single-Use Sequence Knowledge: An Archival Study of Departure from 'Theoretical' Openings (PLoS ONE 6(11): e26692, 2011)",
+          "dcterms:publisher": "Philippe Chassy and Fernand Gobet, PubMed Central",
+          "schema:url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3217924",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Specialization effect and its influence on memory and problem solving in expert chess players (Cognitive Science 33(6), 1117-1143, 2009)",
+          "dcterms:publisher": "Merim Bilalić, Peter McLeod and Fernand Gobet, Brunel University Research Archive",
+          "schema:url": "https://bura.brunel.ac.uk/bitstream/2438/2965/1/Bilalic-Specialisation-CogSci-final.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Grivas Training: Building a Repertoire (18 April 2011)",
+          "dcterms:publisher": "GM Efstratios Grivas, ChessBase News",
+          "schema:url": "https://en.chessbase.com/post/grivas-training-building-a-repertoire",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "How To Build Your Chess Opening Repertoire (review of Steve Giddins, Gambit Publications)",
+          "dcterms:publisher": "IM Jeremy Silman, jeremysilman.com",
+          "schema:url": "https://www.jeremysilman.com/book-review/how-to-build-your-chess-opening-repertoire/",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The element of surprise – Part 2",
+          "dcterms:publisher": "Quality Chess blog",
+          "schema:url": "https://blog.qualitychess.co.uk/2145",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "B90 Sicilian Najdorf",
+          "dcterms:publisher": "365Chess",
+          "schema:url": "https://www.365chess.com/eco/B90_Sicilian_Najdorf",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "C15 French Winawer (Nimzovich) variation",
+          "dcterms:publisher": "365Chess",
+          "schema:url": "https://365chess.com/eco/C15_French_Winawer_(Nimzovich)_variation",
+          "kto:sourceType": "database"
+        }
+      ],
+      "kto:file": "articles/training-and-improvement/opening-repertoire.md",
+      "skos:altLabel": [
+        "Chess opening repertoire",
+        "Repertoire building",
+        "Building an opening repertoire",
+        "Opening specialization"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess-openings"
+        },
+        {
+          "@id": "kt:chess-expertise"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:template-theory"
+        },
+        {
+          "@id": "kt:najdorf-variation"
+        },
+        {
+          "@id": "kt:french-defence"
+        },
+        {
+          "@id": "kt:opening-book"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:transposition"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:opening-surprise"
+        }
+      ]
+    },
+    {
       "@id": "kt:progressive-deepening",
       "@type": "kto:CognitiveConcept",
       "skos:prefLabel": "Progressive deepening",
