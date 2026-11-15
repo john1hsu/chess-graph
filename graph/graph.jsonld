@@ -1390,6 +1390,88 @@
       ]
     },
     {
+      "@id": "kt:transposition-table",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Transposition table",
+      "skos:definition": "A large hash table in which a chess engine caches the results of positions it has already searched (score or bound, search depth and best move), so that a position reached again by a different move order, or in a later iteration, need not be searched from scratch.",
+      "kto:domain": "computer-chess",
+      "dcterms:created": "2026-11-15",
+      "kto:verified": "2026-11-15",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "A New Hashing Method With Application for Game Playing (Technical Report TR88, 1970)",
+          "dcterms:publisher": "Albert L. Zobrist, University of Wisconsin–Madison, Computer Sciences Department",
+          "schema:url": "https://research.cs.wisc.edu/techreports/viewreport.php?report=88",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The Anatomy of Chess Programs (1995)",
+          "dcterms:publisher": "T. A. Marsland, University of Alberta",
+          "schema:url": "https://webdocs.cs.ualberta.ca/~tony/ICCA/anatomy.html",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Parallel Game-tree Search (Technical Report TR85-1)",
+          "dcterms:publisher": "T. A. Marsland and F. Popowich, University of Alberta",
+          "schema:url": "https://webdocs.cs.ualberta.ca/~tony/TechnicalReports/TR85-1.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Learning Search Decisions (PhD thesis, 2003)",
+          "dcterms:publisher": "Levente Kocsis, Maastricht University",
+          "schema:url": "https://cris.maastrichtuniversity.nl/ws/files/847817/guid-fb7fc02b-f018-40c2-9253-e6112141c356-ASSET1.0.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Mac Hack",
+          "dcterms:publisher": "Chess Programming Wiki",
+          "schema:url": "https://www.chessprogramming.org:443/Mac_Hack",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/computer-chess/transposition-table.md",
+      "skos:altLabel": [
+        "Hash table (chess engine)",
+        "TT",
+        "Transposition hash table"
+      ],
+      "kto:fen": "rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3",
+      "skos:broader": [
+        {
+          "@id": "kt:game-tree-search"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:alpha-beta-pruning"
+        },
+        {
+          "@id": "kt:iterative-deepening"
+        },
+        {
+          "@id": "kt:move-ordering"
+        },
+        {
+          "@id": "kt:stockfish"
+        },
+        {
+          "@id": "kt:endgame-tablebases"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:zobrist-hashing"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:iterative-deepening"
+        }
+      ]
+    },
+    {
       "@id": "kt:universal-chess-interface",
       "@type": "kto:Software",
       "skos:prefLabel": "Universal Chess Interface",

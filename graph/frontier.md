@@ -5,20 +5,20 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:alexander-alekhine`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:boris-spassky`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:magnus-carlsen`, `kt:mikhail-botvinnik`, `kt:tigran-petrosian`, `kt:wilhelm-steinitz` |
+| `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search`, `kt:transposition-table`, `kt:transposition-table`, `kt:progressive-deepening` |
 | `kt:blitz-chess` | `kt:magnus-carlsen`, `kt:fischer-increment`, `kt:time-management-in-games`, `kt:bughouse` |
 | `kt:chess-openings` | `kt:opening-book`, `kt:closed-games`, `kt:open-games`, `kt:semi-open-games` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:herbert-simon` |
 | `kt:kings-gambit` | `kt:immortal-game`, `kt:evans-gambit`, `kt:open-games`, `kt:boris-spassky` |
 | `kt:dragon-variation` | `kt:backward-pawn`, `kt:najdorf-variation`, `kt:sicilian-defence` |
-| `kt:iterative-deepening` | `kt:alpha-beta-pruning`, `kt:game-tree-search`, `kt:progressive-deepening` |
 | `kt:javokhir-sindarov` | `kt:candidates-tournament`, `kt:fide-world-cup`, `kt:gukesh-dommaraju` |
 | `kt:johannes-zukertort` | `kt:world-chess-championship-1886`, `kt:adolf-anderssen`, `kt:wilhelm-steinitz` |
 | `kt:king-safety` | `kt:weak-squares`, `kt:castling`, `kt:greek-gift-sacrifice` |
 | `kt:mikhail-chigorin` | `kt:hastings-1895`, `kt:evans-gambit`, `kt:wilhelm-steinitz` |
+| `kt:move-ordering` | `kt:alpha-beta-pruning`, `kt:quiescence-search`, `kt:transposition-table` |
 | `kt:rook-on-the-seventh-rank` | `kt:steinitz-von-bardeleben-hastings-1895`, `kt:open-file`, `kt:open-file` |
 | `kt:sveshnikov-variation` | `kt:backward-pawn`, `kt:outpost`, `kt:sicilian-defence` |
 | `kt:top-chess-engine-championship` | `kt:leela-chess-zero`, `kt:opening-book`, `kt:stockfish` |
-| `kt:transposition-table` | `kt:alpha-beta-pruning`, `kt:game-tree-search`, `kt:opening-book` |
 | `kt:vladimir-kramnik` | `kt:alphazero`, `kt:ruy-lopez`, `kt:garry-kasparov` |
 | `kt:adams-versus-torre-new-orleans-1920` | `kt:back-rank-mate`, `kt:overloading` |
 | `kt:albin-countergambit` | `kt:queens-gambit`, `kt:underpromotion` |
@@ -41,7 +41,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position`, `kt:smothered-mate` |
 | `kt:max-euwe` | `kt:slav-defence`, `kt:alexander-alekhine` |
 | `kt:miguel-najdorf` | `kt:najdorf-variation`, `kt:blindfold-chess` |
-| `kt:move-ordering` | `kt:alpha-beta-pruning`, `kt:quiescence-search` |
 | `kt:origins-of-chess` | `kt:chaturanga`, `kt:history-of-chess` |
 | `kt:overprotection` | `kt:prophylaxis`, `kt:prophylaxis` |
 | `kt:paul-morphy` | `kt:romantic-era`, `kt:adolf-anderssen` |
@@ -230,3 +229,4 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:world-chess-hall-of-fame` | `kt:saint-louis-chess-club` |
 | `kt:wrong-bishop` | `kt:fortress` |
 | `kt:yu-nasu` | `kt:nnue` |
+| `kt:zobrist-hashing` | `kt:transposition-table` |

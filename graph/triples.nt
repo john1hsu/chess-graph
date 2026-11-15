@@ -9019,6 +9019,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/touch-move/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/touch-move/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
 <https://github.com/john1hsu/chess-graph/id/source/touch-move/s5> <https://schema.org/url> "https://handbook.fide.com/chapter/E012014" .
+<https://github.com/john1hsu/chess-graph/id/source/transposition-table/s1> <http://purl.org/dc/terms/publisher> "Albert L. Zobrist, University of Wisconsin–Madison, Computer Sciences Department" .
+<https://github.com/john1hsu/chess-graph/id/source/transposition-table/s1> <http://purl.org/dc/terms/title> "A New Hashing Method With Application for Game Playing (Technical Report TR88, 1970)" .
+<https://github.com/john1hsu/chess-graph/id/source/transposition-table/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/transposition-table/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/transposition-table/s1> <https://schema.org/url> "https://research.cs.wisc.edu/techreports/viewreport.php?report=88" .
+<https://github.com/john1hsu/chess-graph/id/source/transposition-table/s2> <http://purl.org/dc/terms/publisher> "T. A. Marsland, University of Alberta" .
+<https://github.com/john1hsu/chess-graph/id/source/transposition-table/s2> <http://purl.org/dc/terms/title> "The Anatomy of Chess Programs (1995)" .
+<https://github.com/john1hsu/chess-graph/id/source/transposition-table/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/transposition-table/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/transposition-table/s2> <https://schema.org/url> "https://webdocs.cs.ualberta.ca/~tony/ICCA/anatomy.html" .
+<https://github.com/john1hsu/chess-graph/id/source/transposition-table/s3> <http://purl.org/dc/terms/publisher> "T. A. Marsland and F. Popowich, University of Alberta" .
+<https://github.com/john1hsu/chess-graph/id/source/transposition-table/s3> <http://purl.org/dc/terms/title> "Parallel Game-tree Search (Technical Report TR85-1)" .
+<https://github.com/john1hsu/chess-graph/id/source/transposition-table/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/transposition-table/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/transposition-table/s3> <https://schema.org/url> "https://webdocs.cs.ualberta.ca/~tony/TechnicalReports/TR85-1.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/transposition-table/s4> <http://purl.org/dc/terms/publisher> "Levente Kocsis, Maastricht University" .
+<https://github.com/john1hsu/chess-graph/id/source/transposition-table/s4> <http://purl.org/dc/terms/title> "Learning Search Decisions (PhD thesis, 2003)" .
+<https://github.com/john1hsu/chess-graph/id/source/transposition-table/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/transposition-table/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/transposition-table/s4> <https://schema.org/url> "https://cris.maastrichtuniversity.nl/ws/files/847817/guid-fb7fc02b-f018-40c2-9253-e6112141c356-ASSET1.0.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/transposition-table/s5> <http://purl.org/dc/terms/publisher> "Chess Programming Wiki" .
+<https://github.com/john1hsu/chess-graph/id/source/transposition-table/s5> <http://purl.org/dc/terms/title> "Mac Hack" .
+<https://github.com/john1hsu/chess-graph/id/source/transposition-table/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/transposition-table/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/transposition-table/s5> <https://schema.org/url> "https://www.chessprogramming.org:443/Mac_Hack" .
 <https://github.com/john1hsu/chess-graph/id/source/triangulation/s1> <http://purl.org/dc/terms/publisher> "Karsten Müller, Gambit Publications (2015); excerpt hosted by Chess Tigers" .
 <https://github.com/john1hsu/chess-graph/id/source/triangulation/s1> <http://purl.org/dc/terms/title> "Chess Endgames for Kids (sample pages, Lesson 14: Triangulation and More Opposition)" .
 <https://github.com/john1hsu/chess-graph/id/source/triangulation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -9805,6 +9830,31 @@
 <https://github.com/john1hsu/chess-graph/id/touch-move> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
 <https://github.com/john1hsu/chess-graph/id/touch-move> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/touch-move> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/transposition-table> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/chess-graph/id/transposition-table> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Technique> .
+<https://github.com/john1hsu/chess-graph/id/transposition-table> <http://www.w3.org/2000/01/rdf-schema#label> "Transposition table" .
+<https://github.com/john1hsu/chess-graph/id/transposition-table> <http://www.w3.org/2004/02/skos/core#altLabel> "Hash table (chess engine)" .
+<https://github.com/john1hsu/chess-graph/id/transposition-table> <http://www.w3.org/2004/02/skos/core#altLabel> "TT" .
+<https://github.com/john1hsu/chess-graph/id/transposition-table> <http://www.w3.org/2004/02/skos/core#altLabel> "Transposition hash table" .
+<https://github.com/john1hsu/chess-graph/id/transposition-table> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/game-tree-search> .
+<https://github.com/john1hsu/chess-graph/id/transposition-table> <http://www.w3.org/2004/02/skos/core#definition> "A large hash table in which a chess engine caches the results of positions it has already searched (score or bound, search depth and best move), so that a position reached again by a different move order, or in a later iteration, need not be searched from scratch." .
+<https://github.com/john1hsu/chess-graph/id/transposition-table> <http://www.w3.org/2004/02/skos/core#prefLabel> "Transposition table" .
+<https://github.com/john1hsu/chess-graph/id/transposition-table> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> .
+<https://github.com/john1hsu/chess-graph/id/transposition-table> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/endgame-tablebases> .
+<https://github.com/john1hsu/chess-graph/id/transposition-table> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/iterative-deepening> .
+<https://github.com/john1hsu/chess-graph/id/transposition-table> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/move-ordering> .
+<https://github.com/john1hsu/chess-graph/id/transposition-table> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/stockfish> .
+<https://github.com/john1hsu/chess-graph/id/transposition-table> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/transposition-table/s1> .
+<https://github.com/john1hsu/chess-graph/id/transposition-table> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/transposition-table/s2> .
+<https://github.com/john1hsu/chess-graph/id/transposition-table> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/transposition-table/s3> .
+<https://github.com/john1hsu/chess-graph/id/transposition-table> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/transposition-table/s4> .
+<https://github.com/john1hsu/chess-graph/id/transposition-table> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/transposition-table/s5> .
+<https://github.com/john1hsu/chess-graph/id/transposition-table> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/zobrist-hashing> .
+<https://github.com/john1hsu/chess-graph/id/transposition-table> <https://github.com/john1hsu/chess-graph/ontology#domain> "computer-chess" .
+<https://github.com/john1hsu/chess-graph/id/transposition-table> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/iterative-deepening> .
+<https://github.com/john1hsu/chess-graph/id/transposition-table> <https://github.com/john1hsu/chess-graph/ontology#fen> "rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3" .
+<https://github.com/john1hsu/chess-graph/id/transposition-table> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/transposition-table> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-15" .
 <https://github.com/john1hsu/chess-graph/id/triangulation> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/triangulation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Technique> .
 <https://github.com/john1hsu/chess-graph/id/triangulation> <http://www.w3.org/2000/01/rdf-schema#label> "Triangulation" .

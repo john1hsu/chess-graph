@@ -4129,6 +4129,29 @@
     ]
   },
   {
+    "id": "kt:transposition-table",
+    "title": "Transposition table",
+    "aliases": [
+      "Hash table (chess engine)",
+      "TT",
+      "Transposition hash table"
+    ],
+    "type": "Technique",
+    "domain": "computer-chess",
+    "file": "articles/computer-chess/transposition-table.md",
+    "created": "2026-11-15",
+    "verified": "2026-11-15",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://research.cs.wisc.edu/techreports/viewreport.php?report=88",
+      "https://webdocs.cs.ualberta.ca/~tony/ICCA/anatomy.html",
+      "https://webdocs.cs.ualberta.ca/~tony/TechnicalReports/TR85-1.pdf",
+      "https://cris.maastrichtuniversity.nl/ws/files/847817/guid-fb7fc02b-f018-40c2-9253-e6112141c356-ASSET1.0.pdf",
+      "https://www.chessprogramming.org:443/Mac_Hack"
+    ]
+  },
+  {
     "id": "kt:triangulation",
     "title": "Triangulation",
     "aliases": [
