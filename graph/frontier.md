@@ -48,7 +48,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
 | `kt:static-exchange-evaluation` | `kt:move-ordering`, `kt:quiescence-search` |
 | `kt:steven-j-edwards` | `kt:forsyth-edwards-notation`, `kt:portable-game-notation` |
-| `kt:tie-break` | `kt:chess-tournament`, `kt:us-chess-championship` |
+| `kt:swiss-system` | `kt:chess-tournament`, `kt:tie-break` |
 | `kt:viswanathan-anand` | `kt:gukesh-dommaraju`, `kt:magnus-carlsen` |
 | `kt:abraham-luchins` | `kt:einstellung-effect` |
 | `kt:abstract-strategy-game` | `kt:chess` |
@@ -178,6 +178,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:philipp-stamma` | `kt:algebraic-notation` |
 | `kt:piece-values` | `kt:material-advantage` |
 | `kt:pillsbury-versus-tarrasch-hastings-1895` | `kt:hastings-1895` |
+| `kt:play-off` | `kt:tie-break` |
 | `kt:poisoned-pawn-variation` | `kt:najdorf-variation` |
 | `kt:priority-and-anticipation` | `kt:codex-of-chess-composition` |
 | `kt:professional-chess-association` | `kt:chess-organizations` |
@@ -219,7 +220,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:st-petersburg-1895-96` | `kt:hastings-1895` |
 | `kt:staunton-chess-set` | `kt:lewis-chessmen` |
 | `kt:stefan-meyer-kahlen` | `kt:universal-chess-interface` |
-| `kt:swiss-system` | `kt:chess-tournament` |
 | `kt:swiss-system-tournament` | `kt:chess-olympiad` |
 | `kt:tarrasch-defence` | `kt:isolated-queens-pawn` |
 | `kt:team-chess` | `kt:chess-olympiad` |

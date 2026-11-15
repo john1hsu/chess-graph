@@ -4581,6 +4581,94 @@
       ]
     },
     {
+      "@id": "kt:tie-break",
+      "@type": "kto:Rule",
+      "skos:prefLabel": "Tie-break",
+      "skos:definition": "The pre-announced methods a chess competition uses to rank players or teams who finish on the same score, either off the board (Buchholz, Sonneborn-Berger, direct encounter, number of wins, rating-based measures and others, applied in a fixed order) or over the board by a play-off; FIDE codifies them in Handbook chapter C.07.",
+      "kto:domain": "events-and-organizations",
+      "dcterms:created": "2026-11-15",
+      "kto:verified": "2026-11-15",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "C.07 Play-Off and Tie-Break Regulations (approved 29 July 2024, applied 1 August 2024 to 28 February 2026)",
+          "dcterms:publisher": "FIDE Handbook",
+          "schema:url": "https://handbook.fide.com/chapter/TieBreakRegulations082024",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "FIDE reminds organizers and arbiters of updated Play-Off and Tie-Break Regulations effective March 1, 2026",
+          "dcterms:publisher": "FIDE",
+          "schema:url": "https://www.fide.com/fide-reminds-organizers-and-arbiters-of-updated-play-off-and-tie-break-regulations-effective-march-1-2026/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "US Chess Federation's Official Rules of Chess, 7th edition, free download version (chapters 1, 2, 9, 10, 11; revised 1 January 2026), rule 34 Breaking Ties",
+          "dcterms:publisher": "US Chess Federation",
+          "schema:url": "https://new.uschess.org/sites/default/files/media/documents/us-chess-rule-book-online-2026.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Tie Break Regulations",
+          "dcterms:publisher": "All India Chess Federation",
+          "schema:url": "https://aicf.in/tie-break-regulations",
+          "kto:sourceType": "governing-body"
+        }
+      ],
+      "kto:file": "articles/events-and-organizations/tie-break.md",
+      "skos:altLabel": [
+        "Tiebreak",
+        "Tie-breaks",
+        "Tiebreaks",
+        "Tie-break systems",
+        "Tie-break regulations",
+        "Play-Off and Tie-Break Regulations",
+        "FIDE C.07",
+        "Breaking ties"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess-tournament"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:arbiter"
+        },
+        {
+          "@id": "kt:chess-olympiad"
+        },
+        {
+          "@id": "kt:us-chess"
+        },
+        {
+          "@id": "kt:us-chess-championship"
+        },
+        {
+          "@id": "kt:blitz-chess"
+        },
+        {
+          "@id": "kt:candidates-tournament"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:fide"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:swiss-system"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:play-off"
+        }
+      ]
+    },
+    {
       "@id": "kt:us-chess-championship",
       "@type": "kto:Event",
       "skos:prefLabel": "U.S. Chess Championship",

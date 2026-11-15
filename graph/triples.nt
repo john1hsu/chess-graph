@@ -9575,6 +9575,26 @@
 <https://github.com/john1hsu/chess-graph/id/source/threefold-repetition/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/threefold-repetition/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/threefold-repetition/s5> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/bobby-fischer-in-iceland-45-years-ago-13" .
+<https://github.com/john1hsu/chess-graph/id/source/tie-break/s1> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
+<https://github.com/john1hsu/chess-graph/id/source/tie-break/s1> <http://purl.org/dc/terms/title> "C.07 Play-Off and Tie-Break Regulations (approved 29 July 2024, applied 1 August 2024 to 28 February 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/tie-break/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/tie-break/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/tie-break/s1> <https://schema.org/url> "https://handbook.fide.com/chapter/TieBreakRegulations082024" .
+<https://github.com/john1hsu/chess-graph/id/source/tie-break/s2> <http://purl.org/dc/terms/publisher> "FIDE" .
+<https://github.com/john1hsu/chess-graph/id/source/tie-break/s2> <http://purl.org/dc/terms/title> "FIDE reminds organizers and arbiters of updated Play-Off and Tie-Break Regulations effective March 1, 2026" .
+<https://github.com/john1hsu/chess-graph/id/source/tie-break/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/tie-break/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/tie-break/s2> <https://schema.org/url> "https://www.fide.com/fide-reminds-organizers-and-arbiters-of-updated-play-off-and-tie-break-regulations-effective-march-1-2026/" .
+<https://github.com/john1hsu/chess-graph/id/source/tie-break/s3> <http://purl.org/dc/terms/publisher> "US Chess Federation" .
+<https://github.com/john1hsu/chess-graph/id/source/tie-break/s3> <http://purl.org/dc/terms/title> "US Chess Federation's Official Rules of Chess, 7th edition, free download version (chapters 1, 2, 9, 10, 11; revised 1 January 2026), rule 34 Breaking Ties" .
+<https://github.com/john1hsu/chess-graph/id/source/tie-break/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/tie-break/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/tie-break/s3> <https://schema.org/url> "https://new.uschess.org/sites/default/files/media/documents/us-chess-rule-book-online-2026.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/tie-break/s4> <http://purl.org/dc/terms/publisher> "All India Chess Federation" .
+<https://github.com/john1hsu/chess-graph/id/source/tie-break/s4> <http://purl.org/dc/terms/title> "Tie Break Regulations" .
+<https://github.com/john1hsu/chess-graph/id/source/tie-break/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/tie-break/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/tie-break/s4> <https://schema.org/url> "https://aicf.in/tie-break-regulations" .
 <https://github.com/john1hsu/chess-graph/id/source/tigran-petrosian/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/tigran-petrosian/s1> <http://purl.org/dc/terms/title> "Tigran Vartanovich Petrosyan" .
 <https://github.com/john1hsu/chess-graph/id/source/tigran-petrosian/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -10473,6 +10493,36 @@
 <https://github.com/john1hsu/chess-graph/id/threefold-repetition> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
 <https://github.com/john1hsu/chess-graph/id/threefold-repetition> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/threefold-repetition> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-13" .
+<https://github.com/john1hsu/chess-graph/id/tie-break> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/chess-graph/id/tie-break> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Rule> .
+<https://github.com/john1hsu/chess-graph/id/tie-break> <http://www.w3.org/2000/01/rdf-schema#label> "Tie-break" .
+<https://github.com/john1hsu/chess-graph/id/tie-break> <http://www.w3.org/2004/02/skos/core#altLabel> "Breaking ties" .
+<https://github.com/john1hsu/chess-graph/id/tie-break> <http://www.w3.org/2004/02/skos/core#altLabel> "FIDE C.07" .
+<https://github.com/john1hsu/chess-graph/id/tie-break> <http://www.w3.org/2004/02/skos/core#altLabel> "Play-Off and Tie-Break Regulations" .
+<https://github.com/john1hsu/chess-graph/id/tie-break> <http://www.w3.org/2004/02/skos/core#altLabel> "Tie-break regulations" .
+<https://github.com/john1hsu/chess-graph/id/tie-break> <http://www.w3.org/2004/02/skos/core#altLabel> "Tie-break systems" .
+<https://github.com/john1hsu/chess-graph/id/tie-break> <http://www.w3.org/2004/02/skos/core#altLabel> "Tie-breaks" .
+<https://github.com/john1hsu/chess-graph/id/tie-break> <http://www.w3.org/2004/02/skos/core#altLabel> "Tiebreak" .
+<https://github.com/john1hsu/chess-graph/id/tie-break> <http://www.w3.org/2004/02/skos/core#altLabel> "Tiebreaks" .
+<https://github.com/john1hsu/chess-graph/id/tie-break> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-tournament> .
+<https://github.com/john1hsu/chess-graph/id/tie-break> <http://www.w3.org/2004/02/skos/core#definition> "The pre-announced methods a chess competition uses to rank players or teams who finish on the same score, either off the board (Buchholz, Sonneborn-Berger, direct encounter, number of wins, rating-based measures and others, applied in a fixed order) or over the board by a play-off; FIDE codifies them in Handbook chapter C.07." .
+<https://github.com/john1hsu/chess-graph/id/tie-break> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tie-break" .
+<https://github.com/john1hsu/chess-graph/id/tie-break> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/arbiter> .
+<https://github.com/john1hsu/chess-graph/id/tie-break> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/blitz-chess> .
+<https://github.com/john1hsu/chess-graph/id/tie-break> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/candidates-tournament> .
+<https://github.com/john1hsu/chess-graph/id/tie-break> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-olympiad> .
+<https://github.com/john1hsu/chess-graph/id/tie-break> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/us-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/tie-break> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/us-chess> .
+<https://github.com/john1hsu/chess-graph/id/tie-break> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/tie-break/s1> .
+<https://github.com/john1hsu/chess-graph/id/tie-break> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/tie-break/s2> .
+<https://github.com/john1hsu/chess-graph/id/tie-break> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/tie-break/s3> .
+<https://github.com/john1hsu/chess-graph/id/tie-break> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/tie-break/s4> .
+<https://github.com/john1hsu/chess-graph/id/tie-break> <https://github.com/john1hsu/chess-graph/ontology#alternativeTo> <https://github.com/john1hsu/chess-graph/id/play-off> .
+<https://github.com/john1hsu/chess-graph/id/tie-break> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/swiss-system> .
+<https://github.com/john1hsu/chess-graph/id/tie-break> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/fide> .
+<https://github.com/john1hsu/chess-graph/id/tie-break> <https://github.com/john1hsu/chess-graph/ontology#domain> "events-and-organizations" .
+<https://github.com/john1hsu/chess-graph/id/tie-break> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/tie-break> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-15" .
 <https://github.com/john1hsu/chess-graph/id/tigran-petrosian> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/tigran-petrosian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
 <https://github.com/john1hsu/chess-graph/id/tigran-petrosian> <http://www.w3.org/2000/01/rdf-schema#label> "Tigran Petrosian" .

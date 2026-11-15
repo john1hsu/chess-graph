@@ -4311,6 +4311,33 @@
     ]
   },
   {
+    "id": "kt:tie-break",
+    "title": "Tie-break",
+    "aliases": [
+      "Tiebreak",
+      "Tie-breaks",
+      "Tiebreaks",
+      "Tie-break systems",
+      "Tie-break regulations",
+      "Play-Off and Tie-Break Regulations",
+      "FIDE C.07",
+      "Breaking ties"
+    ],
+    "type": "Rule",
+    "domain": "events-and-organizations",
+    "file": "articles/events-and-organizations/tie-break.md",
+    "created": "2026-11-15",
+    "verified": "2026-11-15",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://handbook.fide.com/chapter/TieBreakRegulations082024",
+      "https://www.fide.com/fide-reminds-organizers-and-arbiters-of-updated-play-off-and-tie-break-regulations-effective-march-1-2026/",
+      "https://new.uschess.org/sites/default/files/media/documents/us-chess-rule-book-online-2026.pdf",
+      "https://aicf.in/tie-break-regulations"
+    ]
+  },
+  {
     "id": "kt:tigran-petrosian",
     "title": "Tigran Petrosian",
     "aliases": [
