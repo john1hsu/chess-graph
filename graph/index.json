@@ -3663,6 +3663,32 @@
     ]
   },
   {
+    "id": "kt:rapid-chess",
+    "title": "Rapid chess",
+    "aliases": [
+      "Rapid",
+      "Rapid play",
+      "Rapidplay",
+      "Active chess",
+      "Rapid time control"
+    ],
+    "type": "TimeControl",
+    "domain": "rules-and-notation",
+    "file": "articles/rules-and-notation/rapid-chess.md",
+    "created": "2026-11-15",
+    "verified": "2026-11-15",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://rcc.fide.com/?p=876",
+      "https://handbook.fide.com/chapter/B02RBRegulations2024",
+      "https://handbook.fide.com/files/handbook/wrbc_regulations_2025_open.pdf",
+      "https://worldrapidandblitz2025.fide.com/?p=1711",
+      "https://worldrapidandblitz2019.fide.com/history/2",
+      "https://bura.brunel.ac.uk/bitstream/2438/1391/1/Chabris_Hearst_Reply.pdf"
+    ]
+  },
+  {
     "id": "kt:retrograde-analysis",
     "title": "Retrograde analysis",
     "aliases": [

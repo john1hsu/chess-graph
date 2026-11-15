@@ -4099,6 +4099,36 @@
 <https://github.com/john1hsu/chess-graph/id/quiescence-search> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/claude-shannon> .
 <https://github.com/john1hsu/chess-graph/id/quiescence-search> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/quiescence-search> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/rapid-chess> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/chess-graph/id/rapid-chess> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TimeControl> .
+<https://github.com/john1hsu/chess-graph/id/rapid-chess> <http://www.w3.org/2000/01/rdf-schema#label> "Rapid chess" .
+<https://github.com/john1hsu/chess-graph/id/rapid-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Active chess" .
+<https://github.com/john1hsu/chess-graph/id/rapid-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Rapid play" .
+<https://github.com/john1hsu/chess-graph/id/rapid-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Rapid time control" .
+<https://github.com/john1hsu/chess-graph/id/rapid-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Rapid" .
+<https://github.com/john1hsu/chess-graph/id/rapid-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Rapidplay" .
+<https://github.com/john1hsu/chess-graph/id/rapid-chess> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-clock> .
+<https://github.com/john1hsu/chess-graph/id/rapid-chess> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/rapid-chess> <http://www.w3.org/2004/02/skos/core#definition> "A form of chess in which each player has more than 10 and less than 60 minutes for the whole game, counting 60 times any per-move increment; FIDE governs it through Appendix A of the Laws of Chess, rates it on a separate list and holds an annual World Rapid Championship." .
+<https://github.com/john1hsu/chess-graph/id/rapid-chess> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rapid chess" .
+<https://github.com/john1hsu/chess-graph/id/rapid-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/arbiter> .
+<https://github.com/john1hsu/chess-graph/id/rapid-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/blitz-chess> .
+<https://github.com/john1hsu/chess-graph/id/rapid-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-expertise> .
+<https://github.com/john1hsu/chess-graph/id/rapid-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fischer-increment> .
+<https://github.com/john1hsu/chess-graph/id/rapid-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/tie-break> .
+<https://github.com/john1hsu/chess-graph/id/rapid-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/time-management-in-games> .
+<https://github.com/john1hsu/chess-graph/id/rapid-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s1> .
+<https://github.com/john1hsu/chess-graph/id/rapid-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s2> .
+<https://github.com/john1hsu/chess-graph/id/rapid-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s3> .
+<https://github.com/john1hsu/chess-graph/id/rapid-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s4> .
+<https://github.com/john1hsu/chess-graph/id/rapid-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s5> .
+<https://github.com/john1hsu/chess-graph/id/rapid-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s6> .
+<https://github.com/john1hsu/chess-graph/id/rapid-chess> <https://github.com/john1hsu/chess-graph/ontology#alternativeTo> <https://github.com/john1hsu/chess-graph/id/blitz-chess> .
+<https://github.com/john1hsu/chess-graph/id/rapid-chess> <https://github.com/john1hsu/chess-graph/ontology#domain> "rules-and-notation" .
+<https://github.com/john1hsu/chess-graph/id/rapid-chess> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/world-rapid-championship> .
+<https://github.com/john1hsu/chess-graph/id/rapid-chess> <https://github.com/john1hsu/chess-graph/ontology#governedBy> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/rapid-chess> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/rapid-chess> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-15" .
 <https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#ProblemGenre> .
 <https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <http://www.w3.org/2000/01/rdf-schema#label> "Retrograde analysis" .
@@ -8854,6 +8884,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/quiescence-search/s6> <https://schema.org/url> "https://mediocrechess.sourceforge.net/guides/quiescentsearch.html" .
+<https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s1> <http://purl.org/dc/terms/title> "Laws of Chess, Appendix A. Rapid Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s1> <https://schema.org/url> "https://rcc.fide.com/?p=876" .
+<https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s2> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
+<https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s2> <http://purl.org/dc/terms/title> "FIDE Rapid and Blitz Rating Regulations (applied from 1 March 2024)" .
+<https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s2> <https://schema.org/url> "https://handbook.fide.com/chapter/B02RBRegulations2024" .
+<https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s3> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
+<https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s3> <http://purl.org/dc/terms/title> "Regulations for the FIDE World Rapid and Blitz Championships 2025 (Open)" .
+<https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s3> <https://schema.org/url> "https://handbook.fide.com/files/handbook/wrbc_regulations_2025_open.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s4> <http://purl.org/dc/terms/publisher> "FIDE World Rapid and Blitz Championships 2025 (official site)" .
+<https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s4> <http://purl.org/dc/terms/title> "Carlsen and Goryachkina take World Rapid titles in Doha" .
+<https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s4> <https://schema.org/url> "https://worldrapidandblitz2025.fide.com/?p=1711" .
+<https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s5> <http://purl.org/dc/terms/publisher> "FIDE World Rapid and Blitz Championships 2019 (official site)" .
+<https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s5> <http://purl.org/dc/terms/title> "From Mazatlan to Luzhniki (history of the World Rapid Championship)" .
+<https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s5> <https://schema.org/url> "https://worldrapidandblitz2019.fide.com/history/2" .
+<https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s6> <http://purl.org/dc/terms/publisher> "Brunel University Research Archive" .
+<https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s6> <http://purl.org/dc/terms/title> "Forward search, pattern recognition and visualization in expert chess: A reply to Chabris and Hearst (2003) (Fernand Gobet)" .
+<https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s6> <https://schema.org/url> "https://bura.brunel.ac.uk/bitstream/2438/1391/1/Chabris_Hearst_Reply.pdf" .
 <https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s1> <http://purl.org/dc/terms/publisher> "World Federation for Chess Composition (WFCC)" .
 <https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s1> <http://purl.org/dc/terms/title> "Codex of Chess Compositions (version Vilnius 2019)" .
 <https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

@@ -6,8 +6,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:alexander-alekhine`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:boris-spassky`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:magnus-carlsen`, `kt:mikhail-botvinnik`, `kt:tigran-petrosian`, `kt:wilhelm-steinitz` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:the-turk`, `kt:herbert-simon` |
-| `kt:rapid-chess` | `kt:blitz-chess`, `kt:blitz-chess`, `kt:fischer-increment`, `kt:time-management-in-games` |
-| `kt:chess-clock` | `kt:blitz-chess`, `kt:fischer-increment`, `kt:time-management-in-games` |
+| `kt:chess-clock` | `kt:blitz-chess`, `kt:fischer-increment`, `kt:rapid-chess`, `kt:time-management-in-games` |
 | `kt:dragon-variation` | `kt:backward-pawn`, `kt:najdorf-variation`, `kt:sicilian-defence` |
 | `kt:gambit` | `kt:evans-gambit`, `kt:kings-gambit`, `kt:sacrifice` |
 | `kt:johannes-zukertort` | `kt:world-chess-championship-1886`, `kt:adolf-anderssen`, `kt:wilhelm-steinitz` |
@@ -245,6 +244,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:world-chess-championship-1935` | `kt:alexander-alekhine` |
 | `kt:world-chess-championship-1937` | `kt:alexander-alekhine` |
 | `kt:world-chess-hall-of-fame` | `kt:saint-louis-chess-club` |
+| `kt:world-rapid-championship` | `kt:rapid-chess` |
 | `kt:world-xiangqi-federation` | `kt:xiangqi` |
 | `kt:yu-nasu` | `kt:nnue` |
 | `kt:zobrist-hashing` | `kt:transposition-table` |

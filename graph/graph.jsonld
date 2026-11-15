@@ -13260,6 +13260,106 @@
       ]
     },
     {
+      "@id": "kt:rapid-chess",
+      "@type": "kto:TimeControl",
+      "skos:prefLabel": "Rapid chess",
+      "skos:definition": "A form of chess in which each player has more than 10 and less than 60 minutes for the whole game, counting 60 times any per-move increment; FIDE governs it through Appendix A of the Laws of Chess, rates it on a separate list and holds an annual World Rapid Championship.",
+      "kto:domain": "rules-and-notation",
+      "dcterms:created": "2026-11-15",
+      "kto:verified": "2026-11-15",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Laws of Chess, Appendix A. Rapid Chess",
+          "dcterms:publisher": "FIDE Rules Commission",
+          "schema:url": "https://rcc.fide.com/?p=876",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "FIDE Rapid and Blitz Rating Regulations (applied from 1 March 2024)",
+          "dcterms:publisher": "FIDE Handbook",
+          "schema:url": "https://handbook.fide.com/chapter/B02RBRegulations2024",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Regulations for the FIDE World Rapid and Blitz Championships 2025 (Open)",
+          "dcterms:publisher": "FIDE Handbook",
+          "schema:url": "https://handbook.fide.com/files/handbook/wrbc_regulations_2025_open.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Carlsen and Goryachkina take World Rapid titles in Doha",
+          "dcterms:publisher": "FIDE World Rapid and Blitz Championships 2025 (official site)",
+          "schema:url": "https://worldrapidandblitz2025.fide.com/?p=1711",
+          "kto:sourceType": "primary-record"
+        },
+        {
+          "dcterms:title": "From Mazatlan to Luzhniki (history of the World Rapid Championship)",
+          "dcterms:publisher": "FIDE World Rapid and Blitz Championships 2019 (official site)",
+          "schema:url": "https://worldrapidandblitz2019.fide.com/history/2",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "Forward search, pattern recognition and visualization in expert chess: A reply to Chabris and Hearst (2003) (Fernand Gobet)",
+          "dcterms:publisher": "Brunel University Research Archive",
+          "schema:url": "https://bura.brunel.ac.uk/bitstream/2438/1391/1/Chabris_Hearst_Reply.pdf",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/rules-and-notation/rapid-chess.md",
+      "skos:altLabel": [
+        "Rapid",
+        "Rapid play",
+        "Rapidplay",
+        "Active chess",
+        "Rapid time control"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        },
+        {
+          "@id": "kt:chess-clock"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:blitz-chess"
+        },
+        {
+          "@id": "kt:fischer-increment"
+        },
+        {
+          "@id": "kt:arbiter"
+        },
+        {
+          "@id": "kt:time-management-in-games"
+        },
+        {
+          "@id": "kt:tie-break"
+        },
+        {
+          "@id": "kt:chess-expertise"
+        }
+      ],
+      "kto:governedBy": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:blitz-chess"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:world-rapid-championship"
+        }
+      ]
+    },
+    {
       "@id": "kt:stalemate",
       "@type": "kto:Rule",
       "skos:prefLabel": "Stalemate",
