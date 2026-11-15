@@ -11745,6 +11745,116 @@
       ]
     },
     {
+      "@id": "kt:mikhail-tal",
+      "@type": "kto:Player",
+      "skos:prefLabel": "Mikhail Tal",
+      "skos:definition": "Latvian-born Soviet grandmaster (1936–1992) and the eighth world chess champion, who beat Mikhail Botvinnik in 1960 at 23 and lost the 1961 rematch; nicknamed \"the Magician from Riga\" for a daring, sacrificial attacking style, he also won six USSR championships and the 1988 world blitz title.",
+      "kto:domain": "players",
+      "dcterms:created": "2026-11-15",
+      "kto:verified": "2026-11-15",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Mikhail Nekhemyevich Tal",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/biography/Mikhail-Nekhemyevich-Tal",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Mikhail Tal (inductee page)",
+          "dcterms:publisher": "World Chess Hall of Fame",
+          "schema:url": "https://worldchesshof.org/inductee/mikhail-tal/",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Mikhail Tal (World Champions gallery)",
+          "dcterms:publisher": "FIDE Museum",
+          "schema:url": "https://museum.fide.com/champions/mikhail-tal",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "World Championship 23th (1960), tournament games",
+          "dcterms:publisher": "365chess",
+          "schema:url": "https://www.365chess.com/tournaments/World_Championship_23th_1960/25597",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "Botvinnik - Tal World Championship Rematch (1961)",
+          "dcterms:publisher": "chessgames.com",
+          "schema:url": "https://chessgames.com/perl/chess.pl?tid=54393",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "Botvinnik vs Tal, 1960 World Championship Match, game 6",
+          "dcterms:publisher": "GameKnot",
+          "schema:url": "https://gameknot.com/annotation.pl/a-tal-order?gm=12179",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "Mikhail Tal's Greatest Game! Best of the 60s: Botvinnik vs. Tal, 1960",
+          "dcterms:publisher": "Chess.com (Sam Copeland, NM)",
+          "schema:url": "https://www.chess.com/blog/SamCopeland/mikhail-tals-explains-his-greatest-game-best-of-the-60s-botvinnik-vs-tal-1960",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/players/mikhail-tal.md",
+      "skos:altLabel": [
+        "Mikhail Nekhemyevich Tal",
+        "Mikhail Nekhemievich Tal",
+        "Mihail Tal",
+        "Mikhail Tahl",
+        "Misha Tal",
+        "Tal",
+        "Magician from Riga",
+        "Wizard from Riga"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:world-chess-championship"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:mikhail-botvinnik"
+        },
+        {
+          "@id": "kt:sacrifice"
+        },
+        {
+          "@id": "kt:initiative"
+        }
+      ],
+      "kto:holdsTitle": [
+        {
+          "@id": "kt:world-chess-champion"
+        }
+      ],
+      "kto:memberOf": [
+        {
+          "@id": "kt:soviet-chess-school"
+        }
+      ],
+      "kto:playedIn": [
+        {
+          "@id": "kt:candidates-tournament"
+        },
+        {
+          "@id": "kt:chess-olympiad"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:combination"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:botvinnik-versus-tal-moscow-1960-game-6"
+        }
+      ]
+    },
+    {
       "@id": "kt:siegbert-tarrasch",
       "@type": "kto:Player",
       "skos:prefLabel": "Siegbert Tarrasch",

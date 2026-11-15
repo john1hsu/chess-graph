@@ -3024,6 +3024,36 @@
     ]
   },
   {
+    "id": "kt:mikhail-tal",
+    "title": "Mikhail Tal",
+    "aliases": [
+      "Mikhail Nekhemyevich Tal",
+      "Mikhail Nekhemievich Tal",
+      "Mihail Tal",
+      "Mikhail Tahl",
+      "Misha Tal",
+      "Tal",
+      "Magician from Riga",
+      "Wizard from Riga"
+    ],
+    "type": "Player",
+    "domain": "players",
+    "file": "articles/players/mikhail-tal.md",
+    "created": "2026-11-15",
+    "verified": "2026-11-15",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://www.britannica.com/biography/Mikhail-Nekhemyevich-Tal",
+      "https://worldchesshof.org/inductee/mikhail-tal/",
+      "https://museum.fide.com/champions/mikhail-tal",
+      "https://www.365chess.com/tournaments/World_Championship_23th_1960/25597",
+      "https://chessgames.com/perl/chess.pl?tid=54393",
+      "https://gameknot.com/annotation.pl/a-tal-order?gm=12179",
+      "https://www.chess.com/blog/SamCopeland/mikhail-tals-explains-his-greatest-game-best-of-the-60s-botvinnik-vs-tal-1960"
+    ]
+  },
+  {
     "id": "kt:minimax",
     "title": "Minimax",
     "aliases": [

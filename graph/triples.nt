@@ -3392,6 +3392,39 @@
 <https://github.com/john1hsu/chess-graph/id/mikhail-botvinnik> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/chess-olympiad> .
 <https://github.com/john1hsu/chess-graph/id/mikhail-botvinnik> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/mikhail-botvinnik> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/mikhail-tal> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/chess-graph/id/mikhail-tal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-tal> <http://www.w3.org/2000/01/rdf-schema#label> "Mikhail Tal" .
+<https://github.com/john1hsu/chess-graph/id/mikhail-tal> <http://www.w3.org/2004/02/skos/core#altLabel> "Magician from Riga" .
+<https://github.com/john1hsu/chess-graph/id/mikhail-tal> <http://www.w3.org/2004/02/skos/core#altLabel> "Mihail Tal" .
+<https://github.com/john1hsu/chess-graph/id/mikhail-tal> <http://www.w3.org/2004/02/skos/core#altLabel> "Mikhail Nekhemievich Tal" .
+<https://github.com/john1hsu/chess-graph/id/mikhail-tal> <http://www.w3.org/2004/02/skos/core#altLabel> "Mikhail Nekhemyevich Tal" .
+<https://github.com/john1hsu/chess-graph/id/mikhail-tal> <http://www.w3.org/2004/02/skos/core#altLabel> "Mikhail Tahl" .
+<https://github.com/john1hsu/chess-graph/id/mikhail-tal> <http://www.w3.org/2004/02/skos/core#altLabel> "Misha Tal" .
+<https://github.com/john1hsu/chess-graph/id/mikhail-tal> <http://www.w3.org/2004/02/skos/core#altLabel> "Tal" .
+<https://github.com/john1hsu/chess-graph/id/mikhail-tal> <http://www.w3.org/2004/02/skos/core#altLabel> "Wizard from Riga" .
+<https://github.com/john1hsu/chess-graph/id/mikhail-tal> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-tal> <http://www.w3.org/2004/02/skos/core#definition> "Latvian-born Soviet grandmaster (1936–1992) and the eighth world chess champion, who beat Mikhail Botvinnik in 1960 at 23 and lost the 1961 rematch; nicknamed \"the Magician from Riga\" for a daring, sacrificial attacking style, he also won six USSR championships and the 1988 world blitz title." .
+<https://github.com/john1hsu/chess-graph/id/mikhail-tal> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mikhail Tal" .
+<https://github.com/john1hsu/chess-graph/id/mikhail-tal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/initiative> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-tal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/mikhail-botvinnik> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-tal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/sacrifice> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-tal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s1> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-tal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s2> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-tal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s3> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-tal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s4> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-tal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s5> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-tal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s6> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-tal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s7> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-tal> <https://github.com/john1hsu/chess-graph/ontology#domain> "players" .
+<https://github.com/john1hsu/chess-graph/id/mikhail-tal> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/botvinnik-versus-tal-moscow-1960-game-6> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-tal> <https://github.com/john1hsu/chess-graph/ontology#holdsTitle> <https://github.com/john1hsu/chess-graph/id/world-chess-champion> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-tal> <https://github.com/john1hsu/chess-graph/ontology#memberOf> <https://github.com/john1hsu/chess-graph/id/soviet-chess-school> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-tal> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/candidates-tournament> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-tal> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/chess-olympiad> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-tal> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/mikhail-tal> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/combination> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-tal> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-15" .
 <https://github.com/john1hsu/chess-graph/id/minimax> <http://purl.org/dc/terms/created> "2026-11-07" .
 <https://github.com/john1hsu/chess-graph/id/minimax> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Algorithm> .
 <https://github.com/john1hsu/chess-graph/id/minimax> <http://www.w3.org/2000/01/rdf-schema#label> "Minimax" .
@@ -8202,6 +8235,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/mikhail-botvinnik/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/mikhail-botvinnik/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/mikhail-botvinnik/s5> <https://schema.org/url> "https://en.chessbase.com/post/ken-thompson-moscow-adventures-2" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s1> <http://purl.org/dc/terms/title> "Mikhail Nekhemyevich Tal" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s1> <https://schema.org/url> "https://www.britannica.com/biography/Mikhail-Nekhemyevich-Tal" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s2> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s2> <http://purl.org/dc/terms/title> "Mikhail Tal (inductee page)" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s2> <https://schema.org/url> "https://worldchesshof.org/inductee/mikhail-tal/" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s3> <http://purl.org/dc/terms/publisher> "FIDE Museum" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s3> <http://purl.org/dc/terms/title> "Mikhail Tal (World Champions gallery)" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s3> <https://schema.org/url> "https://museum.fide.com/champions/mikhail-tal" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s4> <http://purl.org/dc/terms/publisher> "365chess" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s4> <http://purl.org/dc/terms/title> "World Championship 23th (1960), tournament games" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s4> <https://schema.org/url> "https://www.365chess.com/tournaments/World_Championship_23th_1960/25597" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s5> <http://purl.org/dc/terms/publisher> "chessgames.com" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s5> <http://purl.org/dc/terms/title> "Botvinnik - Tal World Championship Rematch (1961)" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s5> <https://schema.org/url> "https://chessgames.com/perl/chess.pl?tid=54393" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s6> <http://purl.org/dc/terms/publisher> "GameKnot" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s6> <http://purl.org/dc/terms/title> "Botvinnik vs Tal, 1960 World Championship Match, game 6" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s6> <https://schema.org/url> "https://gameknot.com/annotation.pl/a-tal-order?gm=12179" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s7> <http://purl.org/dc/terms/publisher> "Chess.com (Sam Copeland, NM)" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s7> <http://purl.org/dc/terms/title> "Mikhail Tal's Greatest Game! Best of the 60s: Botvinnik vs. Tal, 1960" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s7> <https://schema.org/url> "https://www.chess.com/blog/SamCopeland/mikhail-tals-explains-his-greatest-game-best-of-the-60s-botvinnik-vs-tal-1960" .
 <https://github.com/john1hsu/chess-graph/id/source/minimax/s1> <http://purl.org/dc/terms/publisher> "Claude E. Shannon, reproduced by Fermat's Library" .
 <https://github.com/john1hsu/chess-graph/id/source/minimax/s1> <http://purl.org/dc/terms/title> "Programming a Computer for Playing Chess (Philosophical Magazine, 1950), full text" .
 <https://github.com/john1hsu/chess-graph/id/source/minimax/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
