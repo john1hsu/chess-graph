@@ -2840,6 +2840,36 @@
 <https://github.com/john1hsu/chess-graph/id/immortal-game> <https://github.com/john1hsu/chess-graph/ontology#playedBy> <https://github.com/john1hsu/chess-graph/id/lionel-kieseritzky> .
 <https://github.com/john1hsu/chess-graph/id/immortal-game> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/immortal-game> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/interference> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/chess-graph/id/interference> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TacticalMotif> .
+<https://github.com/john1hsu/chess-graph/id/interference> <http://www.w3.org/2000/01/rdf-schema#label> "Interference" .
+<https://github.com/john1hsu/chess-graph/id/interference> <http://www.w3.org/2004/02/skos/core#altLabel> "Blocking the guard" .
+<https://github.com/john1hsu/chess-graph/id/interference> <http://www.w3.org/2004/02/skos/core#altLabel> "Interference tactic" .
+<https://github.com/john1hsu/chess-graph/id/interference> <http://www.w3.org/2004/02/skos/core#altLabel> "Line interference" .
+<https://github.com/john1hsu/chess-graph/id/interference> <http://www.w3.org/2004/02/skos/core#altLabel> "Line interruption" .
+<https://github.com/john1hsu/chess-graph/id/interference> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-tactics> .
+<https://github.com/john1hsu/chess-graph/id/interference> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/removing-the-guard> .
+<https://github.com/john1hsu/chess-graph/id/interference> <http://www.w3.org/2004/02/skos/core#definition> "A tactic in which a piece is placed, often as a sacrifice or with check, on the line between an enemy long-range piece and the piece or square it defends, cutting the defence so that material or mate can be won." .
+<https://github.com/john1hsu/chess-graph/id/interference> <http://www.w3.org/2004/02/skos/core#prefLabel> "Interference" .
+<https://github.com/john1hsu/chess-graph/id/interference> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-problems> .
+<https://github.com/john1hsu/chess-graph/id/interference> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/combination> .
+<https://github.com/john1hsu/chess-graph/id/interference> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/deflection> .
+<https://github.com/john1hsu/chess-graph/id/interference> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/overloading> .
+<https://github.com/john1hsu/chess-graph/id/interference> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/pin> .
+<https://github.com/john1hsu/chess-graph/id/interference> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/interference/s1> .
+<https://github.com/john1hsu/chess-graph/id/interference> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/interference/s2> .
+<https://github.com/john1hsu/chess-graph/id/interference> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/interference/s3> .
+<https://github.com/john1hsu/chess-graph/id/interference> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/interference/s4> .
+<https://github.com/john1hsu/chess-graph/id/interference> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/interference/s5> .
+<https://github.com/john1hsu/chess-graph/id/interference> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/interference/s6> .
+<https://github.com/john1hsu/chess-graph/id/interference> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/deflection> .
+<https://github.com/john1hsu/chess-graph/id/interference> <https://github.com/john1hsu/chess-graph/ontology#domain> "tactics" .
+<https://github.com/john1hsu/chess-graph/id/interference> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/material-advantage> .
+<https://github.com/john1hsu/chess-graph/id/interference> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/grimshaw-theme> .
+<https://github.com/john1hsu/chess-graph/id/interference> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/novotny-theme> .
+<https://github.com/john1hsu/chess-graph/id/interference> <https://github.com/john1hsu/chess-graph/ontology#fen> "k3q3/pp6/6R1/2np4/8/6K1/PPQ5/8 b - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/interference> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/interference> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-15" .
 <https://github.com/john1hsu/chess-graph/id/isolated-queens-pawn> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/isolated-queens-pawn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#PawnStructure> .
 <https://github.com/john1hsu/chess-graph/id/isolated-queens-pawn> <http://www.w3.org/2000/01/rdf-schema#label> "Isolated queen's pawn" .
@@ -7363,6 +7393,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/immortal-game/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/immortal-game/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/immortal-game/s6> <https://schema.org/url> "https://www.chess.com/news/view/adolf-andersson-vs-lionel-kieseritzky-1851" .
+<https://github.com/john1hsu/chess-graph/id/source/interference/s1> <http://purl.org/dc/terms/publisher> "Ward Farnsworth, Predator at the Chessboard" .
+<https://github.com/john1hsu/chess-graph/id/source/interference/s1> <http://purl.org/dc/terms/title> "Blocking the Guard (Interference): Interference to Loosen a Piece" .
+<https://github.com/john1hsu/chess-graph/id/source/interference/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/interference/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/interference/s1> <https://schema.org/url> "https://www.chesstactics.org/removing-the-guard/blocking-the-guard_interference/interference-to-loosen-a-piece/5_4_1_1.html" .
+<https://github.com/john1hsu/chess-graph/id/source/interference/s2> <http://purl.org/dc/terms/publisher> "Cyrus Lakdawala, Everyman Chess (via New In Chess)" .
+<https://github.com/john1hsu/chess-graph/id/source/interference/s2> <http://purl.org/dc/terms/title> "Tactical Training (sample: contents and introduction)" .
+<https://github.com/john1hsu/chess-graph/id/source/interference/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/interference/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/interference/s2> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/8416.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/interference/s3> <http://purl.org/dc/terms/publisher> "Martin Weteschnik, Quality Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/interference/s3> <http://purl.org/dc/terms/title> "Understanding Chess Tactics (excerpt)" .
+<https://github.com/john1hsu/chess-graph/id/source/interference/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/interference/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/interference/s3> <https://schema.org/url> "https://qualitychess.co.uk/wp-content/uploads/2024/02/UnderstandingChessTactics-excerpt.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/interference/s4> <http://purl.org/dc/terms/publisher> "Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/interference/s4> <http://purl.org/dc/terms/title> "Interference (Chess Terms)" .
+<https://github.com/john1hsu/chess-graph/id/source/interference/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/interference/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/interference/s4> <https://schema.org/url> "https://www.chess.com/terms/interference-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/interference/s5> <http://purl.org/dc/terms/publisher> "Steve Giddins, ChessBase" .
+<https://github.com/john1hsu/chess-graph/id/source/interference/s5> <http://purl.org/dc/terms/title> "Problem chess: Forgive me interfering, won't you?" .
+<https://github.com/john1hsu/chess-graph/id/source/interference/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/interference/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/interference/s5> <https://schema.org/url> "https://en.chessbase.com/post/problem-che-forgive-me-interfering-won-t-you-" .
+<https://github.com/john1hsu/chess-graph/id/source/interference/s6> <http://purl.org/dc/terms/publisher> "Jon Speelman, ChessBase" .
+<https://github.com/john1hsu/chess-graph/id/source/interference/s6> <http://purl.org/dc/terms/title> "Patterns of interference" .
+<https://github.com/john1hsu/chess-graph/id/source/interference/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/interference/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/interference/s6> <https://schema.org/url> "https://en.chessbase.com/post/speelman-agony-183" .
 <https://github.com/john1hsu/chess-graph/id/source/isolated-queens-pawn/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/isolated-queens-pawn/s1> <http://purl.org/dc/terms/title> "Isolated pawn" .
 <https://github.com/john1hsu/chess-graph/id/source/isolated-queens-pawn/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

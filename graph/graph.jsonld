@@ -13842,6 +13842,106 @@
       ]
     },
     {
+      "@id": "kt:interference",
+      "@type": "kto:TacticalMotif",
+      "skos:prefLabel": "Interference",
+      "skos:definition": "A tactic in which a piece is placed, often as a sacrifice or with check, on the line between an enemy long-range piece and the piece or square it defends, cutting the defence so that material or mate can be won.",
+      "kto:domain": "tactics",
+      "dcterms:created": "2026-11-15",
+      "kto:verified": "2026-11-15",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Blocking the Guard (Interference): Interference to Loosen a Piece",
+          "dcterms:publisher": "Ward Farnsworth, Predator at the Chessboard",
+          "schema:url": "https://www.chesstactics.org/removing-the-guard/blocking-the-guard_interference/interference-to-loosen-a-piece/5_4_1_1.html",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Tactical Training (sample: contents and introduction)",
+          "dcterms:publisher": "Cyrus Lakdawala, Everyman Chess (via New In Chess)",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/8416.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Understanding Chess Tactics (excerpt)",
+          "dcterms:publisher": "Martin Weteschnik, Quality Chess",
+          "schema:url": "https://qualitychess.co.uk/wp-content/uploads/2024/02/UnderstandingChessTactics-excerpt.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Interference (Chess Terms)",
+          "dcterms:publisher": "Chess.com",
+          "schema:url": "https://www.chess.com/terms/interference-chess",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Problem chess: Forgive me interfering, won't you?",
+          "dcterms:publisher": "Steve Giddins, ChessBase",
+          "schema:url": "https://en.chessbase.com/post/problem-che-forgive-me-interfering-won-t-you-",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Patterns of interference",
+          "dcterms:publisher": "Jon Speelman, ChessBase",
+          "schema:url": "https://en.chessbase.com/post/speelman-agony-183",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/tactics/interference.md",
+      "skos:altLabel": [
+        "Interference tactic",
+        "Line interference",
+        "Line interruption",
+        "Blocking the guard"
+      ],
+      "kto:fen": "k3q3/pp6/6R1/2np4/8/6K1/PPQ5/8 b - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-tactics"
+        },
+        {
+          "@id": "kt:removing-the-guard"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:deflection"
+        },
+        {
+          "@id": "kt:overloading"
+        },
+        {
+          "@id": "kt:combination"
+        },
+        {
+          "@id": "kt:chess-problems"
+        },
+        {
+          "@id": "kt:pin"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:deflection"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:material-advantage"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:novotny-theme"
+        },
+        {
+          "@id": "kt:grimshaw-theme"
+        }
+      ]
+    },
+    {
       "@id": "kt:overloading",
       "@type": "kto:TacticalMotif",
       "skos:prefLabel": "Overloading",

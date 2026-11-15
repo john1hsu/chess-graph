@@ -2527,6 +2527,31 @@
     ]
   },
   {
+    "id": "kt:interference",
+    "title": "Interference",
+    "aliases": [
+      "Interference tactic",
+      "Line interference",
+      "Line interruption",
+      "Blocking the guard"
+    ],
+    "type": "TacticalMotif",
+    "domain": "tactics",
+    "file": "articles/tactics/interference.md",
+    "created": "2026-11-15",
+    "verified": "2026-11-15",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.chesstactics.org/removing-the-guard/blocking-the-guard_interference/interference-to-loosen-a-piece/5_4_1_1.html",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/8416.pdf",
+      "https://qualitychess.co.uk/wp-content/uploads/2024/02/UnderstandingChessTactics-excerpt.pdf",
+      "https://www.chess.com/terms/interference-chess",
+      "https://en.chessbase.com/post/problem-che-forgive-me-interfering-won-t-you-",
+      "https://en.chessbase.com/post/speelman-agony-183"
+    ]
+  },
+  {
     "id": "kt:isolated-queens-pawn",
     "title": "Isolated queen's pawn",
     "aliases": [

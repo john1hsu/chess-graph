@@ -44,6 +44,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
 | `kt:perpetual-check` | `kt:draw`, `kt:threefold-repetition` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning` |
+| `kt:removing-the-guard` | `kt:interference`, `kt:overloading` |
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:zugzwang`, `kt:aron-nimzowitsch` |
 | `kt:shouldering` | `kt:cutting-off-the-king`, `kt:wrong-bishop` |
 | `kt:simplification` | `kt:material-advantage`, `kt:material-advantage` |
@@ -110,6 +111,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:glicko-rating-system` | `kt:elo-rating-system` |
 | `kt:good-knight-versus-bad-bishop` | `kt:outpost` |
 | `kt:grand-chess-tour` | `kt:saint-louis-chess-club` |
+| `kt:grimshaw-theme` | `kt:interference` |
 | `kt:hans-berliner` | `kt:horizon-effect` |
 | `kt:harry-nelson-pillsbury` | `kt:hastings-1895` |
 | `kt:hnefatafl` | `kt:lewis-chessmen` |
@@ -158,6 +160,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:modena-school` | `kt:romantic-era` |
 | `kt:move-generation` | `kt:bitboards` |
 | `kt:negamax` | `kt:minimax` |
+| `kt:novotny-theme` | `kt:interference` |
 | `kt:numeric-annotation-glyphs` | `kt:portable-game-notation` |
 | `kt:open-ruy-lopez` | `kt:ruy-lopez` |
 | `kt:otto-selz` | `kt:adriaan-de-groot` |
@@ -180,7 +183,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:reflexmate` | `kt:selfmate` |
 | `kt:reinforcement-learning` | `kt:alphazero` |
 | `kt:remi-coulom` | `kt:monte-carlo-tree-search` |
-| `kt:removing-the-guard` | `kt:overloading` |
 | `kt:reshevsky-versus-petrosian-zurich-1953` | `kt:sacrifice` |
 | `kt:restraint` | `kt:prophylaxis` |
 | `kt:reti-endgame-study` | `kt:rule-of-the-square` |
