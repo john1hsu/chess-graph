@@ -14931,6 +14931,93 @@
       ]
     },
     {
+      "@id": "kt:time-management-in-games",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Time management in games",
+      "skos:definition": "The practical skill of spending a limited clock budget across a game: thinking where the position demands it, moving quickly where it does not, and avoiding a time scramble in which a player must move too fast to keep the quality of play or risks losing on time.",
+      "kto:domain": "training-and-improvement",
+      "dcterms:created": "2026-11-15",
+      "kto:verified": "2026-11-15",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "FIDE Laws of Chess (applied from 1 January 2023), Articles 6 and 8.4 and Guidelines III",
+          "dcterms:publisher": "FIDE Rules Commission",
+          "schema:url": "https://rcc.fide.com/fide-laws-of-chess_fulltexthtml/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Response Time Distributions in Rapid Chess: A Large-Scale Decision Making Experiment (Frontiers in Neuroscience, 2010)",
+          "dcterms:publisher": "Mariano Sigman, Pablo Etchemendy, Diego Fernández Slezak and Guillermo A. Cecchi, Frontiers",
+          "schema:url": "https://www.frontiersin.org/articles/10.3389/fnins.2010.00060/pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The roles of recognition processes and look-ahead search in time-constrained expert problem solving: Evidence from grandmaster level chess (Psychological Science 7, 1996)",
+          "dcterms:publisher": "Fernand Gobet and Herbert A. Simon, Brunel University Research Archive",
+          "schema:url": "https://bura.brunel.ac.uk/bitstream/2438/1338/1/FullText.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Forward search, pattern recognition and visualization in expert chess: A reply to Chabris and Hearst (2003)",
+          "dcterms:publisher": "Fernand Gobet, Brunel University Research Archive",
+          "schema:url": "https://bura.brunel.ac.uk/bitstream/2438/1391/1/Chabris_Hearst_Reply.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Effects of Speed on Skilled Chess Performance (abstract)",
+          "dcterms:publisher": "Association for Psychological Science, Psychological Science",
+          "schema:url": "https://www.psychologicalscience.org/journals/psychological-science/j.0956-7976.2004.00699.x/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "News report on Bruce D. Burns's blitz chess study (June 2004)",
+          "dcterms:publisher": "ScienceDaily",
+          "schema:url": "https://sciencedaily.com/releases/2004/06/040602060812.htm",
+          "kto:sourceType": "news"
+        }
+      ],
+      "kto:file": "articles/training-and-improvement/time-management-in-games.md",
+      "skos:altLabel": [
+        "Time management",
+        "Clock management",
+        "Time trouble",
+        "Time pressure",
+        "Zeitnot",
+        "Time scramble"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess-expertise"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:calculation"
+        },
+        {
+          "@id": "kt:chess-clock"
+        },
+        {
+          "@id": "kt:blitz-chess"
+        },
+        {
+          "@id": "kt:fischer-increment"
+        }
+      ],
+      "kto:governedBy": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:rapid-chess"
+        }
+      ]
+    },
+    {
       "@id": "kt:visualization",
       "@type": "kto:CognitiveConcept",
       "skos:prefLabel": "Visualization",

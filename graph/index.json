@@ -4049,6 +4049,33 @@
     ]
   },
   {
+    "id": "kt:time-management-in-games",
+    "title": "Time management in games",
+    "aliases": [
+      "Time management",
+      "Clock management",
+      "Time trouble",
+      "Time pressure",
+      "Zeitnot",
+      "Time scramble"
+    ],
+    "type": "Technique",
+    "domain": "training-and-improvement",
+    "file": "articles/training-and-improvement/time-management-in-games.md",
+    "created": "2026-11-15",
+    "verified": "2026-11-15",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://rcc.fide.com/fide-laws-of-chess_fulltexthtml/",
+      "https://www.frontiersin.org/articles/10.3389/fnins.2010.00060/pdf",
+      "https://bura.brunel.ac.uk/bitstream/2438/1338/1/FullText.pdf",
+      "https://bura.brunel.ac.uk/bitstream/2438/1391/1/Chabris_Hearst_Reply.pdf",
+      "https://www.psychologicalscience.org/journals/psychological-science/j.0956-7976.2004.00699.x/",
+      "https://sciencedaily.com/releases/2004/06/040602060812.htm"
+    ]
+  },
+  {
     "id": "kt:touch-move",
     "title": "Touch-move",
     "aliases": [
