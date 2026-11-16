@@ -4140,6 +4140,38 @@
 <https://github.com/john1hsu/chess-graph/id/prophylaxis> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/overprotection> .
 <https://github.com/john1hsu/chess-graph/id/prophylaxis> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/prophylaxis> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/puzzle-training> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/chess-graph/id/puzzle-training> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TrainingMethod> .
+<https://github.com/john1hsu/chess-graph/id/puzzle-training> <http://www.w3.org/2000/01/rdf-schema#label> "Puzzle training" .
+<https://github.com/john1hsu/chess-graph/id/puzzle-training> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess puzzles" .
+<https://github.com/john1hsu/chess-graph/id/puzzle-training> <http://www.w3.org/2004/02/skos/core#altLabel> "Solving tactics" .
+<https://github.com/john1hsu/chess-graph/id/puzzle-training> <http://www.w3.org/2004/02/skos/core#altLabel> "Tactical puzzles" .
+<https://github.com/john1hsu/chess-graph/id/puzzle-training> <http://www.w3.org/2004/02/skos/core#altLabel> "Tactics puzzles" .
+<https://github.com/john1hsu/chess-graph/id/puzzle-training> <http://www.w3.org/2004/02/skos/core#altLabel> "Tactics trainer" .
+<https://github.com/john1hsu/chess-graph/id/puzzle-training> <http://www.w3.org/2004/02/skos/core#altLabel> "Tactics training" .
+<https://github.com/john1hsu/chess-graph/id/puzzle-training> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-tactics> .
+<https://github.com/john1hsu/chess-graph/id/puzzle-training> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/deliberate-practice> .
+<https://github.com/john1hsu/chess-graph/id/puzzle-training> <http://www.w3.org/2004/02/skos/core#definition> "Practising chess by solving positions with a forcing, clear-cut solution, usually tactics taken from real games; online sites rate both puzzles and solvers, and methods such as repeated cycles of the same set aim to turn calculation into fast pattern recognition." .
+<https://github.com/john1hsu/chess-graph/id/puzzle-training> <http://www.w3.org/2004/02/skos/core#prefLabel> "Puzzle training" .
+<https://github.com/john1hsu/chess-graph/id/puzzle-training> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/calculation> .
+<https://github.com/john1hsu/chess-graph/id/puzzle-training> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-problems> .
+<https://github.com/john1hsu/chess-graph/id/puzzle-training> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chunking-theory> .
+<https://github.com/john1hsu/chess-graph/id/puzzle-training> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/einstellung-effect> .
+<https://github.com/john1hsu/chess-graph/id/puzzle-training> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/visualization> .
+<https://github.com/john1hsu/chess-graph/id/puzzle-training> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s1> .
+<https://github.com/john1hsu/chess-graph/id/puzzle-training> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s2> .
+<https://github.com/john1hsu/chess-graph/id/puzzle-training> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s3> .
+<https://github.com/john1hsu/chess-graph/id/puzzle-training> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s4> .
+<https://github.com/john1hsu/chess-graph/id/puzzle-training> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s5> .
+<https://github.com/john1hsu/chess-graph/id/puzzle-training> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s6> .
+<https://github.com/john1hsu/chess-graph/id/puzzle-training> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/chess-problems> .
+<https://github.com/john1hsu/chess-graph/id/puzzle-training> <https://github.com/john1hsu/chess-graph/ontology#domain> "training-and-improvement" .
+<https://github.com/john1hsu/chess-graph/id/puzzle-training> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/back-rank-mate> .
+<https://github.com/john1hsu/chess-graph/id/puzzle-training> <https://github.com/john1hsu/chess-graph/ontology#fen> "6k1/5ppp/8/8/8/8/r4PPP/4R1K1 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/puzzle-training> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/woodpecker-method> .
+<https://github.com/john1hsu/chess-graph/id/puzzle-training> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/puzzle-training> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/calculation> .
+<https://github.com/john1hsu/chess-graph/id/puzzle-training> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-16" .
 <https://github.com/john1hsu/chess-graph/id/queens-gambit-accepted> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/queens-gambit-accepted> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Opening> .
 <https://github.com/john1hsu/chess-graph/id/queens-gambit-accepted> <http://www.w3.org/2000/01/rdf-schema#label> "Queen's Gambit Accepted" .
@@ -9082,6 +9114,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/prophylaxis/s7> <https://schema.org/url> "https://rafaelleitao.com/karpov-x-unzicker" .
+<https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s1> <http://purl.org/dc/terms/publisher> "Lichess" .
+<https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s1> <http://purl.org/dc/terms/title> "New puzzles are here!" .
+<https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s1> <https://schema.org/url> "https://lichess.org/blog/X-S6gRUAAGjNX4ki/new-puzzles-are-here" .
+<https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s2> <http://purl.org/dc/terms/publisher> "Lichess" .
+<https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s2> <http://purl.org/dc/terms/title> "lichess.org open database: Puzzles" .
+<https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s2> <https://schema.org/url> "https://database.lichess.org/" .
+<https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s3> <http://purl.org/dc/terms/publisher> "Fernand Gobet and Neil Charness, via CORE" .
+<https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s3> <http://purl.org/dc/terms/title> "Chess and games (Cambridge Handbook of Expertise and Expert Performance, pp. 523-538)" .
+<https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s3> <https://schema.org/url> "https://core.ac.uk/download/334186.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s4> <http://purl.org/dc/terms/publisher> "Han L. J. van der Maas and Eric-Jan Wagenmakers, University of Amsterdam Digital Academic Repository" .
+<https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s4> <http://purl.org/dc/terms/title> "A psychometric analysis of chess expertise (American Journal of Psychology 118, 29-60)" .
+<https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s4> <https://schema.org/url> "https://dare.uva.nl/id/44227bd6-730b-4f8d-885d-6c7d08d1eebf" .
+<https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s5> <http://purl.org/dc/terms/publisher> "Daniel A. Southwick, Kyle W. Harwell, Garrett Wright, Joseph A. Olsen and Benjamin M. Ogles, via CiteDrive" .
+<https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s5> <http://purl.org/dc/terms/title> "Not All Practice Is Created Equal: Longitudinal Evidence From Over 40,000 Chess Players (Psychological Science 37(7), 514-523)" .
+<https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s5> <https://schema.org/url> "https://www.citedrive.com/en/discovery/not-all-practice-is-created-equal-longitudinal-evidence-from-over-40000-chess-players/" .
+<https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s6> <http://purl.org/dc/terms/publisher> "Axel Smith and Hans Tikkanen, Quality Chess (New in Chess shop page)" .
+<https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s6> <http://purl.org/dc/terms/title> "The Woodpecker Method" .
+<https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s6> <https://schema.org/url> "https://newinchess.com/the-woodpecker-method" .
 <https://github.com/john1hsu/chess-graph/id/source/queens-gambit-accepted/s1> <http://purl.org/dc/terms/publisher> "Max Dlugy, Russell Enterprises (2023), excerpt PDF hosted by Chess Tigers" .
 <https://github.com/john1hsu/chess-graph/id/source/queens-gambit-accepted/s1> <http://purl.org/dc/terms/title> "The Queen's Gambit Accepted: A Modern Counterattack in an Ancient Opening (excerpt)" .
 <https://github.com/john1hsu/chess-graph/id/source/queens-gambit-accepted/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

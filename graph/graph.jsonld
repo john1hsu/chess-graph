@@ -16913,6 +16913,110 @@
       ]
     },
     {
+      "@id": "kt:puzzle-training",
+      "@type": "kto:TrainingMethod",
+      "skos:prefLabel": "Puzzle training",
+      "skos:definition": "Practising chess by solving positions with a forcing, clear-cut solution, usually tactics taken from real games; online sites rate both puzzles and solvers, and methods such as repeated cycles of the same set aim to turn calculation into fast pattern recognition.",
+      "kto:domain": "training-and-improvement",
+      "dcterms:created": "2026-11-16",
+      "kto:verified": "2026-11-16",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "New puzzles are here!",
+          "dcterms:publisher": "Lichess",
+          "schema:url": "https://lichess.org/blog/X-S6gRUAAGjNX4ki/new-puzzles-are-here",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "lichess.org open database: Puzzles",
+          "dcterms:publisher": "Lichess",
+          "schema:url": "https://database.lichess.org/",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "Chess and games (Cambridge Handbook of Expertise and Expert Performance, pp. 523-538)",
+          "dcterms:publisher": "Fernand Gobet and Neil Charness, via CORE",
+          "schema:url": "https://core.ac.uk/download/334186.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "A psychometric analysis of chess expertise (American Journal of Psychology 118, 29-60)",
+          "dcterms:publisher": "Han L. J. van der Maas and Eric-Jan Wagenmakers, University of Amsterdam Digital Academic Repository",
+          "schema:url": "https://dare.uva.nl/id/44227bd6-730b-4f8d-885d-6c7d08d1eebf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Not All Practice Is Created Equal: Longitudinal Evidence From Over 40,000 Chess Players (Psychological Science 37(7), 514-523)",
+          "dcterms:publisher": "Daniel A. Southwick, Kyle W. Harwell, Garrett Wright, Joseph A. Olsen and Benjamin M. Ogles, via CiteDrive",
+          "schema:url": "https://www.citedrive.com/en/discovery/not-all-practice-is-created-equal-longitudinal-evidence-from-over-40000-chess-players/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Woodpecker Method",
+          "dcterms:publisher": "Axel Smith and Hans Tikkanen, Quality Chess (New in Chess shop page)",
+          "schema:url": "https://newinchess.com/the-woodpecker-method",
+          "kto:sourceType": "book"
+        }
+      ],
+      "kto:file": "articles/training-and-improvement/puzzle-training.md",
+      "skos:altLabel": [
+        "Tactics training",
+        "Tactical puzzles",
+        "Chess puzzles",
+        "Tactics puzzles",
+        "Solving tactics",
+        "Tactics trainer"
+      ],
+      "kto:fen": "6k1/5ppp/8/8/8/8/r4PPP/4R1K1 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:deliberate-practice"
+        },
+        {
+          "@id": "kt:chess-tactics"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:calculation"
+        },
+        {
+          "@id": "kt:chunking-theory"
+        },
+        {
+          "@id": "kt:einstellung-effect"
+        },
+        {
+          "@id": "kt:visualization"
+        },
+        {
+          "@id": "kt:chess-problems"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:calculation"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:woodpecker-method"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:back-rank-mate"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:chess-problems"
+        }
+      ]
+    },
+    {
       "@id": "kt:starting-age",
       "@type": "kto:CognitiveConcept",
       "skos:prefLabel": "Starting age",

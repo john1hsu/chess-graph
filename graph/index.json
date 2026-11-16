@@ -3697,6 +3697,33 @@
     ]
   },
   {
+    "id": "kt:puzzle-training",
+    "title": "Puzzle training",
+    "aliases": [
+      "Tactics training",
+      "Tactical puzzles",
+      "Chess puzzles",
+      "Tactics puzzles",
+      "Solving tactics",
+      "Tactics trainer"
+    ],
+    "type": "TrainingMethod",
+    "domain": "training-and-improvement",
+    "file": "articles/training-and-improvement/puzzle-training.md",
+    "created": "2026-11-16",
+    "verified": "2026-11-16",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://lichess.org/blog/X-S6gRUAAGjNX4ki/new-puzzles-are-here",
+      "https://database.lichess.org/",
+      "https://core.ac.uk/download/334186.pdf",
+      "https://dare.uva.nl/id/44227bd6-730b-4f8d-885d-6c7d08d1eebf",
+      "https://www.citedrive.com/en/discovery/not-all-practice-is-created-equal-longitudinal-evidence-from-over-40000-chess-players/",
+      "https://newinchess.com/the-woodpecker-method"
+    ]
+  },
+  {
     "id": "kt:queens-gambit",
     "title": "Queen's Gambit",
     "aliases": [

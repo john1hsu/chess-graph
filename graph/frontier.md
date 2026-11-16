@@ -186,7 +186,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:professional-chess-association` | `kt:chess-organizations` |
 | `kt:proof-game` | `kt:retrograde-analysis` |
 | `kt:proof-number-search` | `kt:game-tree-search` |
-| `kt:puzzle-training` | `kt:deliberate-practice` |
 | `kt:reflexmate` | `kt:selfmate` |
 | `kt:reinforcement-learning` | `kt:alphazero` |
 | `kt:remi-coulom` | `kt:monte-carlo-tree-search` |
@@ -238,6 +237,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:william-davies-evans` | `kt:evans-gambit` |
 | `kt:winawer-variation` | `kt:french-defence` |
 | `kt:wolfgang-von-kempelen` | `kt:the-turk` |
+| `kt:woodpecker-method` | `kt:puzzle-training` |
 | `kt:world-blitz-championship` | `kt:blitz-chess` |
 | `kt:world-chess-championship-1894` | `kt:emanuel-lasker` |
 | `kt:world-chess-championship-1908` | `kt:siegbert-tarrasch` |
