@@ -8,11 +8,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:the-turk`, `kt:herbert-simon` |
 | `kt:sveshnikov-variation` | `kt:backward-pawn`, `kt:outpost`, `kt:dragon-variation`, `kt:sicilian-defence` |
 | `kt:alekhines-gun` | `kt:open-file`, `kt:rook-on-the-seventh-rank`, `kt:alexander-alekhine` |
+| `kt:aspiration-window` | `kt:iterative-deepening`, `kt:principal-variation-search`, `kt:principal-variation-search` |
 | `kt:bronstein-delay` | `kt:chess-clock`, `kt:fischer-increment`, `kt:fischer-increment` |
 | `kt:gambit` | `kt:evans-gambit`, `kt:kings-gambit`, `kt:sacrifice` |
 | `kt:mikhail-chigorin` | `kt:hastings-1895`, `kt:evans-gambit`, `kt:wilhelm-steinitz` |
 | `kt:paul-morphy` | `kt:romantic-era`, `kt:initiative`, `kt:adolf-anderssen` |
-| `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning`, `kt:move-ordering` |
 | `kt:top-chess-engine-championship` | `kt:leela-chess-zero`, `kt:opening-book`, `kt:stockfish` |
 | `kt:vladimir-kramnik` | `kt:alphazero`, `kt:ruy-lopez`, `kt:garry-kasparov` |
 | `kt:albin-countergambit` | `kt:queens-gambit`, `kt:underpromotion` |
@@ -39,6 +39,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:philidor-defence` | `kt:adams-versus-torre-new-orleans-1920`, `kt:francois-andre-danican-philidor` |
 | `kt:rook-versus-pawn` | `kt:cutting-off-the-king`, `kt:shouldering` |
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:zugzwang`, `kt:aron-nimzowitsch` |
+| `kt:scout-algorithm` | `kt:principal-variation-search`, `kt:principal-variation-search` |
 | `kt:simplification` | `kt:material-advantage`, `kt:material-advantage` |
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
 | `kt:static-exchange-evaluation` | `kt:move-ordering`, `kt:quiescence-search` |
@@ -55,7 +56,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:artificial-intelligence` | `kt:computer-chess` |
 | `kt:as-suli` | `kt:shatranj` |
 | `kt:asian-chess-federation` | `kt:european-chess-union` |
-| `kt:aspiration-window` | `kt:iterative-deepening` |
 | `kt:baden-baden-1870` | `kt:adolf-anderssen` |
 | `kt:baku-acceleration` | `kt:swiss-system` |
 | `kt:battery` | `kt:selfmate` |
@@ -231,6 +231,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:tempo` | `kt:rule-of-the-square` |
 | `kt:the-exchange` | `kt:material-advantage` |
 | `kt:tie-break-regulations` | `kt:chess-olympiad` |
+| `kt:tony-marsland` | `kt:principal-variation-search` |
 | `kt:tord-romstad` | `kt:stockfish` |
 | `kt:transposition` | `kt:opening-repertoire` |
 | `kt:two-knights-defence` | `kt:italian-game` |

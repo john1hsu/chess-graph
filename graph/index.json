@@ -3780,6 +3780,35 @@
     ]
   },
   {
+    "id": "kt:principal-variation-search",
+    "title": "Principal variation search",
+    "aliases": [
+      "PVS",
+      "NegaScout",
+      "Nega-Scout",
+      "Minimal window search",
+      "Null window search",
+      "Zero window search",
+      "Calphabeta",
+      "Palphabeta"
+    ],
+    "type": "Algorithm",
+    "domain": "computer-chess",
+    "file": "articles/computer-chess/principal-variation-search.md",
+    "created": "2026-11-16",
+    "verified": "2026-11-16",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://webdocs.cs.ualberta.ca/~tony/OldPapers/strong.pdf",
+      "https://webdocs.cs.ualberta.ca/~tony/OldPapers/icca.Mar1986.pp3-18.pdf",
+      "https://webdocs.cs.ualberta.ca/~tony/TechnicalReports/TR93-02.pdf",
+      "https://ijcai.org/proceedings/1987/0196.pdf",
+      "https://www.gnu.org/software/chess/manual/html_node/Search-algorithm.html",
+      "https://www.chessprogramming.org/Principal_Variation_Search"
+    ]
+  },
+  {
     "id": "kt:progressive-deepening",
     "title": "Progressive deepening",
     "aliases": [

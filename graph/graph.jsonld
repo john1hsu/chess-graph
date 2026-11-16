@@ -1392,6 +1392,114 @@
       ]
     },
     {
+      "@id": "kt:principal-variation-search",
+      "@type": "kto:Algorithm",
+      "skos:prefLabel": "Principal variation search",
+      "skos:definition": "An enhancement of alpha-beta search that searches the expected best move at each node with a full window and tries to prove every other move inferior with a cheap minimal (null) window, re-searching only when a move unexpectedly proves better.",
+      "kto:domain": "computer-chess",
+      "dcterms:created": "2026-11-16",
+      "kto:verified": "2026-11-16",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Parallel Search of Strongly Ordered Game Trees (ACM Computing Surveys, 1982)",
+          "dcterms:publisher": "T. A. Marsland and M. Campbell, University of Alberta",
+          "schema:url": "https://webdocs.cs.ualberta.ca/~tony/OldPapers/strong.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "A Review of Game-Tree Pruning (ICCA Journal, Vol. 9, No. 1, 1986)",
+          "dcterms:publisher": "T. A. Marsland, University of Alberta",
+          "schema:url": "https://webdocs.cs.ualberta.ca/~tony/OldPapers/icca.Mar1986.pp3-18.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Heuristic Search in One and Two Player Games (University of Alberta TR93-02)",
+          "dcterms:publisher": "T. Anthony Marsland and Alexander Reinefeld, University of Alberta",
+          "schema:url": "https://webdocs.cs.ualberta.ca/~tony/TechnicalReports/TR93-02.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "A Quantitative Analysis of Minimal Window Search (IJCAI 1987)",
+          "dcterms:publisher": "Alexander Reinefeld and T. Anthony Marsland, IJCAI Proceedings",
+          "schema:url": "https://ijcai.org/proceedings/1987/0196.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Search algorithm (GNU Chess manual)",
+          "dcterms:publisher": "GNU Project, Free Software Foundation",
+          "schema:url": "https://www.gnu.org/software/chess/manual/html_node/Search-algorithm.html",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "Principal Variation Search",
+          "dcterms:publisher": "Chess Programming Wiki",
+          "schema:url": "https://www.chessprogramming.org/Principal_Variation_Search",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/computer-chess/principal-variation-search.md",
+      "skos:altLabel": [
+        "PVS",
+        "NegaScout",
+        "Nega-Scout",
+        "Minimal window search",
+        "Null window search",
+        "Zero window search",
+        "Calphabeta",
+        "Palphabeta"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:alpha-beta-pruning"
+        },
+        {
+          "@id": "kt:game-tree-search"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:move-ordering"
+        },
+        {
+          "@id": "kt:iterative-deepening"
+        },
+        {
+          "@id": "kt:transposition-table"
+        },
+        {
+          "@id": "kt:aspiration-window"
+        },
+        {
+          "@id": "kt:scout-algorithm"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:alpha-beta-pruning"
+        },
+        {
+          "@id": "kt:move-ordering"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:aspiration-window"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:scout-algorithm"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:tony-marsland"
+        }
+      ]
+    },
+    {
       "@id": "kt:quiescence-search",
       "@type": "kto:Algorithm",
       "skos:prefLabel": "Quiescence search",
