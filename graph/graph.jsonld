@@ -5142,6 +5142,87 @@
       ]
     },
     {
+      "@id": "kt:adams-versus-torre-new-orleans-1920",
+      "@type": "kto:Game",
+      "skos:prefLabel": "Adams versus Torre, New Orleans 1920",
+      "skos:definition": "A short Philidor Defence attributed to Edwin Z. Adams (White) against the young Carlos Torre, dated New Orleans 1920, famous for White's repeated queen offers against an overloaded back rank; first published by Torre in 1925, its authenticity as a real game has long been doubted.",
+      "kto:domain": "history",
+      "dcterms:created": "2026-11-16",
+      "kto:verified": "2026-11-16",
+      "kto:status": "contested",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Adams v Torre – A Sham?",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://www.chesshistory.com/winter/extra/adamstorre.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Carlos Torre",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://chesshistory.com/winter/extra/torre.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Edwin Ziegler Adams (player page and games)",
+          "dcterms:publisher": "chessgames.com",
+          "schema:url": "https://chessgames.com/perl/chessplayer?pid=45935",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "The ultimate underdog (Arne Kaehler, 10 March 2025)",
+          "dcterms:publisher": "ChessBase News",
+          "schema:url": "https://en.chessbase.com/post/the-ultimate-underdog-the-underdog",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/history/adams-versus-torre-new-orleans-1920.md",
+      "skos:altLabel": [
+        "Adams vs Torre",
+        "Adams v Torre",
+        "Adams–Torre 1920",
+        "Adams versus Torre",
+        "E. Z. Adams versus Carlos Torre"
+      ],
+      "kto:fen": "2r1r1k1/1Q3ppp/3p1b2/pq1P4/4R3/5N2/1P3PPP/4R1K1 b - - 0 23",
+      "skos:broader": [
+        {
+          "@id": "kt:back-rank-mate"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:overloading"
+        },
+        {
+          "@id": "kt:deflection"
+        },
+        {
+          "@id": "kt:combination"
+        },
+        {
+          "@id": "kt:philidor-defence"
+        }
+      ],
+      "kto:playedBy": [
+        {
+          "@id": "kt:edwin-z-adams"
+        },
+        {
+          "@id": "kt:carlos-torre"
+        }
+      ],
+      "kto:exemplifies": [
+        {
+          "@id": "kt:back-rank-mate"
+        },
+        {
+          "@id": "kt:overloading"
+        }
+      ]
+    },
+    {
       "@id": "kt:chaturanga",
       "@type": "kto:Variant",
       "skos:prefLabel": "Chaturanga",

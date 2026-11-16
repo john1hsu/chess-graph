@@ -1,9 +1,9 @@
 # Graph statistics
 
-- Articles (nodes written): **205**
-- Frontier nodes (referenced, unwritten): **248**
-- Edges: **1917**
-- Citations: **1216**
+- Articles (nodes written): **206**
+- Frontier nodes (referenced, unwritten): **249**
+- Edges: **1926**
+- Citations: **1220**
 
 - Weakly connected components: **1**
 - Isolated articles (no edges): **0**
@@ -14,30 +14,30 @@
 |---|---|---|
 | `kt:fide-laws-of-chess` | 0.0144 | yes |
 | `kt:fide` | 0.0126 | yes |
-| `kt:world-chess-championship` | 0.0100 | yes |
-| `kt:pawn-promotion` | 0.0099 | yes |
-| `kt:chess-tactics` | 0.0091 | yes |
+| `kt:world-chess-championship` | 0.0099 | yes |
+| `kt:pawn-promotion` | 0.0098 | yes |
+| `kt:chess-tactics` | 0.0092 | yes |
 | `kt:chess-strategy` | 0.0086 | yes |
-| `kt:combination` | 0.0082 | yes |
+| `kt:combination` | 0.0085 | yes |
 | `kt:chess` | 0.0080 | yes |
 | `kt:pawn-structure` | 0.0077 | yes |
 | `kt:stalemate` | 0.0076 | yes |
 | `kt:wilhelm-steinitz` | 0.0073 | yes |
-| `kt:material-advantage` | 0.0069 | yes |
+| `kt:material-advantage` | 0.0070 | yes |
 | `kt:game-tree-search` | 0.0069 | yes |
 | `kt:outpost` | 0.0069 | yes |
 | `kt:isolated-queens-pawn` | 0.0068 | yes |
 
 ## Communities (Louvain): 9
 
-1. `kt:albin-countergambit`, `kt:alekhine-versus-nimzowitsch-san-remo-1930`, `kt:alekhines-defence`, `kt:alexander-alekhine`, `kt:backward-pawn`, `kt:bishop-pair`, `kt:carlsbad-1923`, `kt:carlsbad-structure`, `kt:carlsen-versus-rapport-wijk-aan-zee-2019`, `kt:caro-kann-defence`, `kt:catalan-opening`, `kt:chess-openings` …
-2. `kt:abstract-strategy-game`, `kt:algebraic-notation`, `kt:allumwandlung`, `kt:as-suli`, `kt:battery`, `kt:bughouse`, `kt:castling`, `kt:chaturanga`, `kt:chess`, `kt:chess-composition`, `kt:chess-engine-communication-protocol`, `kt:chess-problems` …
-3. `kt:adams-versus-torre-new-orleans-1920`, `kt:adolf-anderssen`, `kt:back-rank-mate`, `kt:baden-baden-1870`, `kt:checkmate`, `kt:chess-tactics`, `kt:colle-versus-ohanlon-nice-1930`, `kt:combination`, `kt:curt-von-bardeleben`, `kt:david-bronstein`, `kt:decoy`, `kt:deflection` …
-4. `kt:alpha-beta-pruning`, `kt:alphazero`, `kt:artificial-intelligence`, `kt:aspiration-window`, `kt:bitboards`, `kt:board-representation`, `kt:charles-babbage`, `kt:chess-4-5`, `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue`, `kt:deep-blue-versus-kasparov` …
-5. `kt:arbiter`, `kt:arpad-elo`, `kt:asian-chess-federation`, `kt:blitz-chess`, `kt:bronstein-delay`, `kt:chess-clock`, `kt:chess-equipment`, `kt:chess-organizations`, `kt:chess-rating-systems`, `kt:chess-tournament`, `kt:correspondence-chess`, `kt:dead-position` …
-6. `kt:anatoly-karpov`, `kt:berlin-defence`, `kt:bobby-fischer`, `kt:boris-spassky`, `kt:botvinnik-versus-capablanca-avro-1938`, `kt:botvinnik-versus-tal-moscow-1960-game-6`, `kt:candidates-tournament`, `kt:carlsen-versus-anand-sochi-2014-game-6`, `kt:chess-olympiad`, `kt:ding-liren`, `kt:ding-versus-gukesh-singapore-2024-game-14`, `kt:fide-title-regulations` …
+1. `kt:albin-countergambit`, `kt:alekhine-versus-nimzowitsch-san-remo-1930`, `kt:alekhines-defence`, `kt:alekhines-gun`, `kt:alexander-alekhine`, `kt:aron-nimzowitsch`, `kt:backward-pawn`, `kt:bishop-pair`, `kt:blockade`, `kt:capablanca-versus-tartakower-new-york-1924`, `kt:carlsbad-1923`, `kt:carlsbad-1929` …
+2. `kt:adams-versus-torre-new-orleans-1920`, `kt:adolf-anderssen`, `kt:back-rank-mate`, `kt:baden-baden-1870`, `kt:carlos-torre`, `kt:checkmate`, `kt:chess-tactics`, `kt:colle-versus-ohanlon-nice-1930`, `kt:combination`, `kt:curt-von-bardeleben`, `kt:david-bronstein`, `kt:decoy` …
+3. `kt:abstract-strategy-game`, `kt:algebraic-notation`, `kt:allumwandlung`, `kt:as-suli`, `kt:battery`, `kt:bughouse`, `kt:castling`, `kt:chaturanga`, `kt:chess`, `kt:chess-composition`, `kt:chess-organizations`, `kt:chess-problems` …
+4. `kt:alpha-beta-pruning`, `kt:alphazero`, `kt:artificial-intelligence`, `kt:aspiration-window`, `kt:bitboards`, `kt:board-representation`, `kt:charles-babbage`, `kt:chess-4-5`, `kt:chess-engine-communication-protocol`, `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue` …
+5. `kt:anatoly-karpov`, `kt:berlin-defence`, `kt:bobby-fischer`, `kt:boris-spassky`, `kt:botvinnik-versus-capablanca-avro-1938`, `kt:botvinnik-versus-tal-moscow-1960-game-6`, `kt:candidates-tournament`, `kt:carlsen-versus-anand-sochi-2014-game-6`, `kt:chess-olympiad`, `kt:ding-liren`, `kt:ding-versus-gukesh-singapore-2024-game-14`, `kt:emanuel-lasker` …
+6. `kt:arbiter`, `kt:arpad-elo`, `kt:asian-chess-federation`, `kt:blitz-chess`, `kt:bronstein-delay`, `kt:chess-clock`, `kt:chess-equipment`, `kt:chess-rating-systems`, `kt:chess-tournament`, `kt:dead-position`, `kt:draw`, `kt:elo-rating-system` …
 7. `kt:abraham-luchins`, `kt:adriaan-de-groot`, `kt:alexander-kotov`, `kt:alfred-binet`, `kt:allen-newell`, `kt:anders-ericsson`, `kt:blindfold-chess`, `kt:calculation`, `kt:candidate-moves`, `kt:chess-expertise`, `kt:chrest`, `kt:chunking-theory` …
-8. `kt:alekhines-gun`, `kt:aron-nimzowitsch`, `kt:blockade`, `kt:breakthrough`, `kt:capablanca-versus-tartakower-new-york-1924`, `kt:carlsbad-1929`, `kt:chess-endgame`, `kt:corresponding-squares`, `kt:counting-in-pawn-races`, `kt:cutting-off-the-king`, `kt:fortress`, `kt:josef-vancura` …
+8. `kt:breakthrough`, `kt:chess-endgame`, `kt:corresponding-squares`, `kt:counting-in-pawn-races`, `kt:cutting-off-the-king`, `kt:fortress`, `kt:josef-vancura`, `kt:key-squares`, `kt:king-and-pawn-endgames`, `kt:lucena-position`, `kt:luis-ramirez-de-lucena`, `kt:marcel-duchamp` …
 9. `kt:johannes-zukertort`, `kt:joseph-henry-blackburne`, `kt:london-1883`, `kt:manhattan-chess-club`, `kt:world-chess-championship-1886`, `kt:zukertort-opening`, `kt:zukertort-versus-blackburne-london-1883`
 
 ## By type
@@ -50,7 +50,7 @@
 - Engine: 3
 - Equipment: 1
 - Event: 12
-- Game: 4
+- Game: 5
 - MatingPattern: 2
 - Notation: 3
 - Opening: 12
@@ -78,7 +78,7 @@
 - computer-chess: 19
 - endgames: 19
 - events-and-organizations: 18
-- history: 18
+- history: 19
 - middlegame-strategy: 19
 - openings: 19
 - players: 19
@@ -94,6 +94,6 @@
 
 ## By status
 
-- contested: 3
+- contested: 4
 - current: 165
 - historical: 37

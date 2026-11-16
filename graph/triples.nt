@@ -1,3 +1,30 @@
+<https://github.com/john1hsu/chess-graph/id/adams-versus-torre-new-orleans-1920> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/chess-graph/id/adams-versus-torre-new-orleans-1920> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Game> .
+<https://github.com/john1hsu/chess-graph/id/adams-versus-torre-new-orleans-1920> <http://www.w3.org/2000/01/rdf-schema#label> "Adams versus Torre, New Orleans 1920" .
+<https://github.com/john1hsu/chess-graph/id/adams-versus-torre-new-orleans-1920> <http://www.w3.org/2004/02/skos/core#altLabel> "Adams v Torre" .
+<https://github.com/john1hsu/chess-graph/id/adams-versus-torre-new-orleans-1920> <http://www.w3.org/2004/02/skos/core#altLabel> "Adams versus Torre" .
+<https://github.com/john1hsu/chess-graph/id/adams-versus-torre-new-orleans-1920> <http://www.w3.org/2004/02/skos/core#altLabel> "Adams vs Torre" .
+<https://github.com/john1hsu/chess-graph/id/adams-versus-torre-new-orleans-1920> <http://www.w3.org/2004/02/skos/core#altLabel> "Adams–Torre 1920" .
+<https://github.com/john1hsu/chess-graph/id/adams-versus-torre-new-orleans-1920> <http://www.w3.org/2004/02/skos/core#altLabel> "E. Z. Adams versus Carlos Torre" .
+<https://github.com/john1hsu/chess-graph/id/adams-versus-torre-new-orleans-1920> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/back-rank-mate> .
+<https://github.com/john1hsu/chess-graph/id/adams-versus-torre-new-orleans-1920> <http://www.w3.org/2004/02/skos/core#definition> "A short Philidor Defence attributed to Edwin Z. Adams (White) against the young Carlos Torre, dated New Orleans 1920, famous for White's repeated queen offers against an overloaded back rank; first published by Torre in 1925, its authenticity as a real game has long been doubted." .
+<https://github.com/john1hsu/chess-graph/id/adams-versus-torre-new-orleans-1920> <http://www.w3.org/2004/02/skos/core#prefLabel> "Adams versus Torre, New Orleans 1920" .
+<https://github.com/john1hsu/chess-graph/id/adams-versus-torre-new-orleans-1920> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/combination> .
+<https://github.com/john1hsu/chess-graph/id/adams-versus-torre-new-orleans-1920> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/deflection> .
+<https://github.com/john1hsu/chess-graph/id/adams-versus-torre-new-orleans-1920> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/overloading> .
+<https://github.com/john1hsu/chess-graph/id/adams-versus-torre-new-orleans-1920> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/philidor-defence> .
+<https://github.com/john1hsu/chess-graph/id/adams-versus-torre-new-orleans-1920> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/adams-versus-torre-new-orleans-1920/s1> .
+<https://github.com/john1hsu/chess-graph/id/adams-versus-torre-new-orleans-1920> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/adams-versus-torre-new-orleans-1920/s2> .
+<https://github.com/john1hsu/chess-graph/id/adams-versus-torre-new-orleans-1920> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/adams-versus-torre-new-orleans-1920/s3> .
+<https://github.com/john1hsu/chess-graph/id/adams-versus-torre-new-orleans-1920> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/adams-versus-torre-new-orleans-1920/s4> .
+<https://github.com/john1hsu/chess-graph/id/adams-versus-torre-new-orleans-1920> <https://github.com/john1hsu/chess-graph/ontology#domain> "history" .
+<https://github.com/john1hsu/chess-graph/id/adams-versus-torre-new-orleans-1920> <https://github.com/john1hsu/chess-graph/ontology#exemplifies> <https://github.com/john1hsu/chess-graph/id/back-rank-mate> .
+<https://github.com/john1hsu/chess-graph/id/adams-versus-torre-new-orleans-1920> <https://github.com/john1hsu/chess-graph/ontology#exemplifies> <https://github.com/john1hsu/chess-graph/id/overloading> .
+<https://github.com/john1hsu/chess-graph/id/adams-versus-torre-new-orleans-1920> <https://github.com/john1hsu/chess-graph/ontology#fen> "2r1r1k1/1Q3ppp/3p1b2/pq1P4/4R3/5N2/1P3PPP/4R1K1 b - - 0 23" .
+<https://github.com/john1hsu/chess-graph/id/adams-versus-torre-new-orleans-1920> <https://github.com/john1hsu/chess-graph/ontology#playedBy> <https://github.com/john1hsu/chess-graph/id/carlos-torre> .
+<https://github.com/john1hsu/chess-graph/id/adams-versus-torre-new-orleans-1920> <https://github.com/john1hsu/chess-graph/ontology#playedBy> <https://github.com/john1hsu/chess-graph/id/edwin-z-adams> .
+<https://github.com/john1hsu/chess-graph/id/adams-versus-torre-new-orleans-1920> <https://github.com/john1hsu/chess-graph/ontology#status> "contested" .
+<https://github.com/john1hsu/chess-graph/id/adams-versus-torre-new-orleans-1920> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-16" .
 <https://github.com/john1hsu/chess-graph/id/adolf-anderssen> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/adolf-anderssen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
 <https://github.com/john1hsu/chess-graph/id/adolf-anderssen> <http://www.w3.org/2000/01/rdf-schema#label> "Adolf Anderssen" .
@@ -4963,6 +4990,26 @@
 <https://github.com/john1hsu/chess-graph/id/smothered-mate> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/decoy> .
 <https://github.com/john1hsu/chess-graph/id/smothered-mate> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/sacrifice> .
 <https://github.com/john1hsu/chess-graph/id/smothered-mate> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-13" .
+<https://github.com/john1hsu/chess-graph/id/source/adams-versus-torre-new-orleans-1920/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/adams-versus-torre-new-orleans-1920/s1> <http://purl.org/dc/terms/title> "Adams v Torre – A Sham?" .
+<https://github.com/john1hsu/chess-graph/id/source/adams-versus-torre-new-orleans-1920/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/adams-versus-torre-new-orleans-1920/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/adams-versus-torre-new-orleans-1920/s1> <https://schema.org/url> "https://www.chesshistory.com/winter/extra/adamstorre.html" .
+<https://github.com/john1hsu/chess-graph/id/source/adams-versus-torre-new-orleans-1920/s2> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/adams-versus-torre-new-orleans-1920/s2> <http://purl.org/dc/terms/title> "Carlos Torre" .
+<https://github.com/john1hsu/chess-graph/id/source/adams-versus-torre-new-orleans-1920/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/adams-versus-torre-new-orleans-1920/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/adams-versus-torre-new-orleans-1920/s2> <https://schema.org/url> "https://chesshistory.com/winter/extra/torre.html" .
+<https://github.com/john1hsu/chess-graph/id/source/adams-versus-torre-new-orleans-1920/s3> <http://purl.org/dc/terms/publisher> "chessgames.com" .
+<https://github.com/john1hsu/chess-graph/id/source/adams-versus-torre-new-orleans-1920/s3> <http://purl.org/dc/terms/title> "Edwin Ziegler Adams (player page and games)" .
+<https://github.com/john1hsu/chess-graph/id/source/adams-versus-torre-new-orleans-1920/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/adams-versus-torre-new-orleans-1920/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/adams-versus-torre-new-orleans-1920/s3> <https://schema.org/url> "https://chessgames.com/perl/chessplayer?pid=45935" .
+<https://github.com/john1hsu/chess-graph/id/source/adams-versus-torre-new-orleans-1920/s4> <http://purl.org/dc/terms/publisher> "ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/adams-versus-torre-new-orleans-1920/s4> <http://purl.org/dc/terms/title> "The ultimate underdog (Arne Kaehler, 10 March 2025)" .
+<https://github.com/john1hsu/chess-graph/id/source/adams-versus-torre-new-orleans-1920/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/adams-versus-torre-new-orleans-1920/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/adams-versus-torre-new-orleans-1920/s4> <https://schema.org/url> "https://en.chessbase.com/post/the-ultimate-underdog-the-underdog" .
 <https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s1> <http://purl.org/dc/terms/title> "Adolf Anderssen" .
 <https://github.com/john1hsu/chess-graph/id/source/adolf-anderssen/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

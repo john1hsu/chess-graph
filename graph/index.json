@@ -1,5 +1,29 @@
 [
   {
+    "id": "kt:adams-versus-torre-new-orleans-1920",
+    "title": "Adams versus Torre, New Orleans 1920",
+    "aliases": [
+      "Adams vs Torre",
+      "Adams v Torre",
+      "Adams–Torre 1920",
+      "Adams versus Torre",
+      "E. Z. Adams versus Carlos Torre"
+    ],
+    "type": "Game",
+    "domain": "history",
+    "file": "articles/history/adams-versus-torre-new-orleans-1920.md",
+    "created": "2026-11-16",
+    "verified": "2026-11-16",
+    "volatile": false,
+    "status": "contested",
+    "source_urls": [
+      "https://www.chesshistory.com/winter/extra/adamstorre.html",
+      "https://chesshistory.com/winter/extra/torre.html",
+      "https://chessgames.com/perl/chessplayer?pid=45935",
+      "https://en.chessbase.com/post/the-ultimate-underdog-the-underdog"
+    ]
+  },
+  {
     "id": "kt:adolf-anderssen",
     "title": "Adolf Anderssen",
     "aliases": [
