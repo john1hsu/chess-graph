@@ -569,6 +569,33 @@
     ]
   },
   {
+    "id": "kt:bronstein-delay",
+    "title": "Bronstein delay",
+    "aliases": [
+      "Bronstein mode",
+      "Delay mode",
+      "Time delay",
+      "Time-delay mode",
+      "Delay clock",
+      "Simple delay",
+      "US delay"
+    ],
+    "type": "TimeControl",
+    "domain": "rules-and-notation",
+    "file": "articles/rules-and-notation/bronstein-delay.md",
+    "created": "2026-11-16",
+    "verified": "2026-11-16",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://rcc.fide.com/fide-laws-of-chess_fulltexthtml/",
+      "https://arbiters.fide.com/wp-content/uploads/Publications/Manual/Arbiters_Manual_2024.pdf",
+      "https://new.uschess.org/sites/default/files/media/documents/us-chess-rule-book-online-only-edition-chp-1-8-24-20.pdf",
+      "https://digitalgametechnology.com/faq/chess-clocks/which-extra-time-per-move-methods-are-there",
+      "https://www.swisschess.ch/tl_files/ssb/srk/manuals/clocks/DGT-3000-qg-en.pdf"
+    ]
+  },
+  {
     "id": "kt:bughouse",
     "title": "Bughouse",
     "aliases": [

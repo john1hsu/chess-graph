@@ -645,6 +645,38 @@
 <https://github.com/john1hsu/chess-graph/id/boris-spassky> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> .
 <https://github.com/john1hsu/chess-graph/id/boris-spassky> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/boris-spassky> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/bronstein-delay> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/chess-graph/id/bronstein-delay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TimeControl> .
+<https://github.com/john1hsu/chess-graph/id/bronstein-delay> <http://www.w3.org/2000/01/rdf-schema#label> "Bronstein delay" .
+<https://github.com/john1hsu/chess-graph/id/bronstein-delay> <http://www.w3.org/2004/02/skos/core#altLabel> "Bronstein mode" .
+<https://github.com/john1hsu/chess-graph/id/bronstein-delay> <http://www.w3.org/2004/02/skos/core#altLabel> "Delay clock" .
+<https://github.com/john1hsu/chess-graph/id/bronstein-delay> <http://www.w3.org/2004/02/skos/core#altLabel> "Delay mode" .
+<https://github.com/john1hsu/chess-graph/id/bronstein-delay> <http://www.w3.org/2004/02/skos/core#altLabel> "Simple delay" .
+<https://github.com/john1hsu/chess-graph/id/bronstein-delay> <http://www.w3.org/2004/02/skos/core#altLabel> "Time delay" .
+<https://github.com/john1hsu/chess-graph/id/bronstein-delay> <http://www.w3.org/2004/02/skos/core#altLabel> "Time-delay mode" .
+<https://github.com/john1hsu/chess-graph/id/bronstein-delay> <http://www.w3.org/2004/02/skos/core#altLabel> "US delay" .
+<https://github.com/john1hsu/chess-graph/id/bronstein-delay> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-clock> .
+<https://github.com/john1hsu/chess-graph/id/bronstein-delay> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/bronstein-delay> <http://www.w3.org/2004/02/skos/core#definition> "A way of running a chess clock in which each player receives a fixed extra time with every move that is used up before the main thinking time starts to fall, so quick moves cost nothing but can never add to the clock; proposed by David Bronstein and recognised in the FIDE Laws of Chess and the US Chess rules." .
+<https://github.com/john1hsu/chess-graph/id/bronstein-delay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bronstein delay" .
+<https://github.com/john1hsu/chess-graph/id/bronstein-delay> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/arbiter> .
+<https://github.com/john1hsu/chess-graph/id/bronstein-delay> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/blitz-chess> .
+<https://github.com/john1hsu/chess-graph/id/bronstein-delay> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fischer-increment> .
+<https://github.com/john1hsu/chess-graph/id/bronstein-delay> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/rapid-chess> .
+<https://github.com/john1hsu/chess-graph/id/bronstein-delay> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/time-management-in-games> .
+<https://github.com/john1hsu/chess-graph/id/bronstein-delay> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/us-chess> .
+<https://github.com/john1hsu/chess-graph/id/bronstein-delay> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bronstein-delay/s1> .
+<https://github.com/john1hsu/chess-graph/id/bronstein-delay> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bronstein-delay/s2> .
+<https://github.com/john1hsu/chess-graph/id/bronstein-delay> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bronstein-delay/s3> .
+<https://github.com/john1hsu/chess-graph/id/bronstein-delay> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bronstein-delay/s4> .
+<https://github.com/john1hsu/chess-graph/id/bronstein-delay> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bronstein-delay/s5> .
+<https://github.com/john1hsu/chess-graph/id/bronstein-delay> <https://github.com/john1hsu/chess-graph/ontology#alternativeTo> <https://github.com/john1hsu/chess-graph/id/fischer-increment> .
+<https://github.com/john1hsu/chess-graph/id/bronstein-delay> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/david-bronstein> .
+<https://github.com/john1hsu/chess-graph/id/bronstein-delay> <https://github.com/john1hsu/chess-graph/ontology#domain> "rules-and-notation" .
+<https://github.com/john1hsu/chess-graph/id/bronstein-delay> <https://github.com/john1hsu/chess-graph/ontology#governedBy> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/bronstein-delay> <https://github.com/john1hsu/chess-graph/ontology#namedAfter> <https://github.com/john1hsu/chess-graph/id/david-bronstein> .
+<https://github.com/john1hsu/chess-graph/id/bronstein-delay> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/bronstein-delay> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-16" .
 <https://github.com/john1hsu/chess-graph/id/bughouse> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/chess-graph/id/bughouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Variant> .
 <https://github.com/john1hsu/chess-graph/id/bughouse> <http://www.w3.org/2000/01/rdf-schema#label> "Bughouse" .
@@ -5826,6 +5858,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s6> <https://schema.org/url> "https://en.chessbase.com/post/spassky-plays-the-king-s-gambit" .
+<https://github.com/john1hsu/chess-graph/id/source/bronstein-delay/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/bronstein-delay/s1> <http://purl.org/dc/terms/title> "FIDE Laws of Chess (full text, applied from 1 January 2023)" .
+<https://github.com/john1hsu/chess-graph/id/source/bronstein-delay/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bronstein-delay/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/bronstein-delay/s1> <https://schema.org/url> "https://rcc.fide.com/fide-laws-of-chess_fulltexthtml/" .
+<https://github.com/john1hsu/chess-graph/id/source/bronstein-delay/s2> <http://purl.org/dc/terms/publisher> "FIDE Arbiters' Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/bronstein-delay/s2> <http://purl.org/dc/terms/title> "Arbiters' Manual 2024" .
+<https://github.com/john1hsu/chess-graph/id/source/bronstein-delay/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bronstein-delay/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/bronstein-delay/s2> <https://schema.org/url> "https://arbiters.fide.com/wp-content/uploads/Publications/Manual/Arbiters_Manual_2024.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/bronstein-delay/s3> <http://purl.org/dc/terms/publisher> "US Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/bronstein-delay/s3> <http://purl.org/dc/terms/title> "US Chess Federation's Official Rules of Chess, 7th edition (online edition, chapters 1–8, revised 24 August 2020)" .
+<https://github.com/john1hsu/chess-graph/id/source/bronstein-delay/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bronstein-delay/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/bronstein-delay/s3> <https://schema.org/url> "https://new.uschess.org/sites/default/files/media/documents/us-chess-rule-book-online-only-edition-chp-1-8-24-20.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/bronstein-delay/s4> <http://purl.org/dc/terms/publisher> "DGT (Digital Game Technology)" .
+<https://github.com/john1hsu/chess-graph/id/source/bronstein-delay/s4> <http://purl.org/dc/terms/title> "Which 'extra time per move' methods are there?" .
+<https://github.com/john1hsu/chess-graph/id/source/bronstein-delay/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bronstein-delay/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/bronstein-delay/s4> <https://schema.org/url> "https://digitalgametechnology.com/faq/chess-clocks/which-extra-time-per-move-methods-are-there" .
+<https://github.com/john1hsu/chess-graph/id/source/bronstein-delay/s5> <http://purl.org/dc/terms/publisher> "DGT, hosted by the Swiss Chess Federation" .
+<https://github.com/john1hsu/chess-graph/id/source/bronstein-delay/s5> <http://purl.org/dc/terms/title> "DGT 3000 quick guide (English)" .
+<https://github.com/john1hsu/chess-graph/id/source/bronstein-delay/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bronstein-delay/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/bronstein-delay/s5> <https://schema.org/url> "https://www.swisschess.ch/tl_files/ssb/srk/manuals/clocks/DGT-3000-qg-en.pdf" .
 <https://github.com/john1hsu/chess-graph/id/source/bughouse/s1> <http://purl.org/dc/terms/publisher> "Hellenic Chess Federation (chessfed.gr), WCCC 2007 event files" .
 <https://github.com/john1hsu/chess-graph/id/source/bughouse/s1> <http://purl.org/dc/terms/title> "Laws of Bughouse chess (OTB), Document Version 1.00" .
 <https://github.com/john1hsu/chess-graph/id/source/bughouse/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

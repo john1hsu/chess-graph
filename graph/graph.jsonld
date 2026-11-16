@@ -13612,6 +13612,107 @@
       ]
     },
     {
+      "@id": "kt:bronstein-delay",
+      "@type": "kto:TimeControl",
+      "skos:prefLabel": "Bronstein delay",
+      "skos:definition": "A way of running a chess clock in which each player receives a fixed extra time with every move that is used up before the main thinking time starts to fall, so quick moves cost nothing but can never add to the clock; proposed by David Bronstein and recognised in the FIDE Laws of Chess and the US Chess rules.",
+      "kto:domain": "rules-and-notation",
+      "dcterms:created": "2026-11-16",
+      "kto:verified": "2026-11-16",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "FIDE Laws of Chess (full text, applied from 1 January 2023)",
+          "dcterms:publisher": "FIDE Rules Commission",
+          "schema:url": "https://rcc.fide.com/fide-laws-of-chess_fulltexthtml/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Arbiters' Manual 2024",
+          "dcterms:publisher": "FIDE Arbiters' Commission",
+          "schema:url": "https://arbiters.fide.com/wp-content/uploads/Publications/Manual/Arbiters_Manual_2024.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "US Chess Federation's Official Rules of Chess, 7th edition (online edition, chapters 1–8, revised 24 August 2020)",
+          "dcterms:publisher": "US Chess",
+          "schema:url": "https://new.uschess.org/sites/default/files/media/documents/us-chess-rule-book-online-only-edition-chp-1-8-24-20.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Which 'extra time per move' methods are there?",
+          "dcterms:publisher": "DGT (Digital Game Technology)",
+          "schema:url": "https://digitalgametechnology.com/faq/chess-clocks/which-extra-time-per-move-methods-are-there",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "DGT 3000 quick guide (English)",
+          "dcterms:publisher": "DGT, hosted by the Swiss Chess Federation",
+          "schema:url": "https://www.swisschess.ch/tl_files/ssb/srk/manuals/clocks/DGT-3000-qg-en.pdf",
+          "kto:sourceType": "official-project"
+        }
+      ],
+      "kto:file": "articles/rules-and-notation/bronstein-delay.md",
+      "skos:altLabel": [
+        "Bronstein mode",
+        "Delay mode",
+        "Time delay",
+        "Time-delay mode",
+        "Delay clock",
+        "Simple delay",
+        "US delay"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess-clock"
+        },
+        {
+          "@id": "kt:fide-laws-of-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:fischer-increment"
+        },
+        {
+          "@id": "kt:time-management-in-games"
+        },
+        {
+          "@id": "kt:arbiter"
+        },
+        {
+          "@id": "kt:us-chess"
+        },
+        {
+          "@id": "kt:rapid-chess"
+        },
+        {
+          "@id": "kt:blitz-chess"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:david-bronstein"
+        }
+      ],
+      "kto:namedAfter": [
+        {
+          "@id": "kt:david-bronstein"
+        }
+      ],
+      "kto:governedBy": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:fischer-increment"
+        }
+      ]
+    },
+    {
       "@id": "kt:castling",
       "@type": "kto:Rule",
       "skos:prefLabel": "Castling",

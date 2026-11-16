@@ -10,7 +10,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:vladimir-kramnik` | `kt:alphazero`, `kt:ruy-lopez`, `kt:garry-kasparov`, `kt:viswanathan-anand` |
 | `kt:alekhine-versus-nimzowitsch-san-remo-1930` | `kt:alekhines-gun`, `kt:open-file`, `kt:alexander-alekhine` |
 | `kt:aspiration-window` | `kt:iterative-deepening`, `kt:principal-variation-search`, `kt:principal-variation-search` |
-| `kt:bronstein-delay` | `kt:chess-clock`, `kt:fischer-increment`, `kt:fischer-increment` |
+| `kt:david-bronstein` | `kt:kings-gambit`, `kt:bronstein-delay`, `kt:bronstein-delay` |
 | `kt:gambit` | `kt:evans-gambit`, `kt:kings-gambit`, `kt:sacrifice` |
 | `kt:mikhail-chigorin` | `kt:hastings-1895`, `kt:evans-gambit`, `kt:wilhelm-steinitz` |
 | `kt:philidor-defence` | `kt:adams-versus-torre-new-orleans-1920`, `kt:opera-game`, `kt:francois-andre-danican-philidor` |
@@ -80,7 +80,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:colle-versus-ohanlon-nice-1930` | `kt:greek-gift-sacrifice` |
 | `kt:counting-in-pawn-races` | `kt:rule-of-the-square` |
 | `kt:curt-von-bardeleben` | `kt:steinitz-von-bardeleben-hastings-1895` |
-| `kt:david-bronstein` | `kt:kings-gambit` |
 | `kt:david-forsyth` | `kt:forsyth-edwards-notation` |
 | `kt:deep-blue` | `kt:deep-blue-versus-kasparov` |
 | `kt:deepmind` | `kt:alphazero` |
