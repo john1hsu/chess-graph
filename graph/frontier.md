@@ -38,7 +38,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:overprotection` | `kt:prophylaxis`, `kt:prophylaxis` |
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
 | `kt:perpetual-check` | `kt:draw`, `kt:threefold-repetition` |
-| `kt:removing-the-guard` | `kt:interference`, `kt:overloading` |
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:zugzwang`, `kt:aron-nimzowitsch` |
 | `kt:shouldering` | `kt:cutting-off-the-king`, `kt:wrong-bishop` |
 | `kt:simplification` | `kt:material-advantage`, `kt:material-advantage` |

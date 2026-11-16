@@ -15181,6 +15181,94 @@
       ]
     },
     {
+      "@id": "kt:removing-the-guard",
+      "@type": "kto:TacticalMotif",
+      "skos:prefLabel": "Removing the guard",
+      "skos:definition": "A family of tactics that wins a defended piece or square by eliminating its defender first: capturing the guard, driving it away, overloading or distracting it, or cutting its line of defence.",
+      "kto:domain": "tactics",
+      "dcterms:created": "2026-11-16",
+      "kto:verified": "2026-11-16",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Removing the Guard (Chess Skills leaflet)",
+          "dcterms:publisher": "English Chess Federation",
+          "schema:url": "https://www.englishchess.org.uk/wp-content/uploads/2010/01/guard.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Predator at the Chessboard, 5.1.1: Capturing the guard (introduction and simple cases)",
+          "dcterms:publisher": "Ward Farnsworth",
+          "schema:url": "https://www.chesstactics.org/removing-the-guard/capturing-the-guard/introduction-to-the-section_simple-cases/5_1_1_1.html",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Predator at the Chessboard, 5.1.3: When the target is protected twice",
+          "dcterms:publisher": "Ward Farnsworth",
+          "schema:url": "https://www.chesstactics.org/removing-the-guard/capturing-the-guard/when-the-target-is-protected-twice/5_1_3_1.html",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Predator at the Chessboard, 5.4.5: Removing the guard, strategic implications",
+          "dcterms:publisher": "Ward Farnsworth",
+          "schema:url": "https://www.chesstactics.org/removing-the-guard/blocking-the-guard_interference/removing-the-guard_strategic-implications/5_4_5_1.html",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The Many Ways to Remove the Guard",
+          "dcterms:publisher": "ChessKid (Jessica E. Prescott)",
+          "schema:url": "https://chesskid.com/learn/articles/many-ways-to-remove-the-guard",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/tactics/removing-the-guard.md",
+      "skos:altLabel": [
+        "Removing the defender",
+        "Removal of the defender",
+        "Removal of the guard",
+        "Remove the defender",
+        "Undermining",
+        "Capturing the defender"
+      ],
+      "kto:fen": "4r1k1/pp4pp/4b3/8/6n1/6P1/PP3P1P/3QR1K1 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-tactics"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:combination"
+        },
+        {
+          "@id": "kt:decoy"
+        },
+        {
+          "@id": "kt:fork"
+        },
+        {
+          "@id": "kt:back-rank-mate"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:overloading"
+        },
+        {
+          "@id": "kt:deflection"
+        },
+        {
+          "@id": "kt:interference"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:material-advantage"
+        }
+      ]
+    },
+    {
       "@id": "kt:sacrifice",
       "@type": "kto:Technique",
       "skos:prefLabel": "Sacrifice",

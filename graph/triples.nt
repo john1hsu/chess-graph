@@ -4250,6 +4250,35 @@
 <https://github.com/john1hsu/chess-graph/id/rapid-chess> <https://github.com/john1hsu/chess-graph/ontology#governedBy> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
 <https://github.com/john1hsu/chess-graph/id/rapid-chess> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/rapid-chess> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-15" .
+<https://github.com/john1hsu/chess-graph/id/removing-the-guard> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/chess-graph/id/removing-the-guard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TacticalMotif> .
+<https://github.com/john1hsu/chess-graph/id/removing-the-guard> <http://www.w3.org/2000/01/rdf-schema#label> "Removing the guard" .
+<https://github.com/john1hsu/chess-graph/id/removing-the-guard> <http://www.w3.org/2004/02/skos/core#altLabel> "Capturing the defender" .
+<https://github.com/john1hsu/chess-graph/id/removing-the-guard> <http://www.w3.org/2004/02/skos/core#altLabel> "Removal of the defender" .
+<https://github.com/john1hsu/chess-graph/id/removing-the-guard> <http://www.w3.org/2004/02/skos/core#altLabel> "Removal of the guard" .
+<https://github.com/john1hsu/chess-graph/id/removing-the-guard> <http://www.w3.org/2004/02/skos/core#altLabel> "Remove the defender" .
+<https://github.com/john1hsu/chess-graph/id/removing-the-guard> <http://www.w3.org/2004/02/skos/core#altLabel> "Removing the defender" .
+<https://github.com/john1hsu/chess-graph/id/removing-the-guard> <http://www.w3.org/2004/02/skos/core#altLabel> "Undermining" .
+<https://github.com/john1hsu/chess-graph/id/removing-the-guard> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-tactics> .
+<https://github.com/john1hsu/chess-graph/id/removing-the-guard> <http://www.w3.org/2004/02/skos/core#definition> "A family of tactics that wins a defended piece or square by eliminating its defender first: capturing the guard, driving it away, overloading or distracting it, or cutting its line of defence." .
+<https://github.com/john1hsu/chess-graph/id/removing-the-guard> <http://www.w3.org/2004/02/skos/core#prefLabel> "Removing the guard" .
+<https://github.com/john1hsu/chess-graph/id/removing-the-guard> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/back-rank-mate> .
+<https://github.com/john1hsu/chess-graph/id/removing-the-guard> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/combination> .
+<https://github.com/john1hsu/chess-graph/id/removing-the-guard> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/decoy> .
+<https://github.com/john1hsu/chess-graph/id/removing-the-guard> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fork> .
+<https://github.com/john1hsu/chess-graph/id/removing-the-guard> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/removing-the-guard/s1> .
+<https://github.com/john1hsu/chess-graph/id/removing-the-guard> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/removing-the-guard/s2> .
+<https://github.com/john1hsu/chess-graph/id/removing-the-guard> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/removing-the-guard/s3> .
+<https://github.com/john1hsu/chess-graph/id/removing-the-guard> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/removing-the-guard/s4> .
+<https://github.com/john1hsu/chess-graph/id/removing-the-guard> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/removing-the-guard/s5> .
+<https://github.com/john1hsu/chess-graph/id/removing-the-guard> <https://github.com/john1hsu/chess-graph/ontology#domain> "tactics" .
+<https://github.com/john1hsu/chess-graph/id/removing-the-guard> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/material-advantage> .
+<https://github.com/john1hsu/chess-graph/id/removing-the-guard> <https://github.com/john1hsu/chess-graph/ontology#fen> "4r1k1/pp4pp/4b3/8/6n1/6P1/PP3P1P/3QR1K1 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/removing-the-guard> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/deflection> .
+<https://github.com/john1hsu/chess-graph/id/removing-the-guard> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/interference> .
+<https://github.com/john1hsu/chess-graph/id/removing-the-guard> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/overloading> .
+<https://github.com/john1hsu/chess-graph/id/removing-the-guard> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/removing-the-guard> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-16" .
 <https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#ProblemGenre> .
 <https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <http://www.w3.org/2000/01/rdf-schema#label> "Retrograde analysis" .
@@ -9155,6 +9184,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/chess-graph/id/source/rapid-chess/s6> <https://schema.org/url> "https://bura.brunel.ac.uk/bitstream/2438/1391/1/Chabris_Hearst_Reply.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/removing-the-guard/s1> <http://purl.org/dc/terms/publisher> "English Chess Federation" .
+<https://github.com/john1hsu/chess-graph/id/source/removing-the-guard/s1> <http://purl.org/dc/terms/title> "Removing the Guard (Chess Skills leaflet)" .
+<https://github.com/john1hsu/chess-graph/id/source/removing-the-guard/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/removing-the-guard/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/removing-the-guard/s1> <https://schema.org/url> "https://www.englishchess.org.uk/wp-content/uploads/2010/01/guard.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/removing-the-guard/s2> <http://purl.org/dc/terms/publisher> "Ward Farnsworth" .
+<https://github.com/john1hsu/chess-graph/id/source/removing-the-guard/s2> <http://purl.org/dc/terms/title> "Predator at the Chessboard, 5.1.1: Capturing the guard (introduction and simple cases)" .
+<https://github.com/john1hsu/chess-graph/id/source/removing-the-guard/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/removing-the-guard/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/removing-the-guard/s2> <https://schema.org/url> "https://www.chesstactics.org/removing-the-guard/capturing-the-guard/introduction-to-the-section_simple-cases/5_1_1_1.html" .
+<https://github.com/john1hsu/chess-graph/id/source/removing-the-guard/s3> <http://purl.org/dc/terms/publisher> "Ward Farnsworth" .
+<https://github.com/john1hsu/chess-graph/id/source/removing-the-guard/s3> <http://purl.org/dc/terms/title> "Predator at the Chessboard, 5.1.3: When the target is protected twice" .
+<https://github.com/john1hsu/chess-graph/id/source/removing-the-guard/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/removing-the-guard/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/removing-the-guard/s3> <https://schema.org/url> "https://www.chesstactics.org/removing-the-guard/capturing-the-guard/when-the-target-is-protected-twice/5_1_3_1.html" .
+<https://github.com/john1hsu/chess-graph/id/source/removing-the-guard/s4> <http://purl.org/dc/terms/publisher> "Ward Farnsworth" .
+<https://github.com/john1hsu/chess-graph/id/source/removing-the-guard/s4> <http://purl.org/dc/terms/title> "Predator at the Chessboard, 5.4.5: Removing the guard, strategic implications" .
+<https://github.com/john1hsu/chess-graph/id/source/removing-the-guard/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/removing-the-guard/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/removing-the-guard/s4> <https://schema.org/url> "https://www.chesstactics.org/removing-the-guard/blocking-the-guard_interference/removing-the-guard_strategic-implications/5_4_5_1.html" .
+<https://github.com/john1hsu/chess-graph/id/source/removing-the-guard/s5> <http://purl.org/dc/terms/publisher> "ChessKid (Jessica E. Prescott)" .
+<https://github.com/john1hsu/chess-graph/id/source/removing-the-guard/s5> <http://purl.org/dc/terms/title> "The Many Ways to Remove the Guard" .
+<https://github.com/john1hsu/chess-graph/id/source/removing-the-guard/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/removing-the-guard/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/removing-the-guard/s5> <https://schema.org/url> "https://chesskid.com/learn/articles/many-ways-to-remove-the-guard" .
 <https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s1> <http://purl.org/dc/terms/publisher> "World Federation for Chess Composition (WFCC)" .
 <https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s1> <http://purl.org/dc/terms/title> "Codex of Chess Compositions (version Vilnius 2019)" .
 <https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

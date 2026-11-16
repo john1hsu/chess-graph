@@ -3798,6 +3798,32 @@
     ]
   },
   {
+    "id": "kt:removing-the-guard",
+    "title": "Removing the guard",
+    "aliases": [
+      "Removing the defender",
+      "Removal of the defender",
+      "Removal of the guard",
+      "Remove the defender",
+      "Undermining",
+      "Capturing the defender"
+    ],
+    "type": "TacticalMotif",
+    "domain": "tactics",
+    "file": "articles/tactics/removing-the-guard.md",
+    "created": "2026-11-16",
+    "verified": "2026-11-16",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.englishchess.org.uk/wp-content/uploads/2010/01/guard.pdf",
+      "https://www.chesstactics.org/removing-the-guard/capturing-the-guard/introduction-to-the-section_simple-cases/5_1_1_1.html",
+      "https://www.chesstactics.org/removing-the-guard/capturing-the-guard/when-the-target-is-protected-twice/5_1_3_1.html",
+      "https://www.chesstactics.org/removing-the-guard/blocking-the-guard_interference/removing-the-guard_strategic-implications/5_4_5_1.html",
+      "https://chesskid.com/learn/articles/many-ways-to-remove-the-guard"
+    ]
+  },
+  {
     "id": "kt:retrograde-analysis",
     "title": "Retrograde analysis",
     "aliases": [
