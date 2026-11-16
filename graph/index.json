@@ -390,6 +390,29 @@
     ]
   },
   {
+    "id": "kt:battery",
+    "title": "Battery",
+    "aliases": [
+      "Battery play",
+      "Chess battery"
+    ],
+    "type": "TacticalMotif",
+    "domain": "tactics",
+    "file": "articles/tactics/battery.md",
+    "created": "2026-11-16",
+    "verified": "2026-11-16",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://chess-tigers.de/cdn/shop/files/Extreme_Chess_Tactics.pdf",
+      "https://www.chesshistory.com/winter/extra/seesaw.html",
+      "https://en.chessbase.com/post/grivas-underdeveloped-battery",
+      "https://en.chessbase.com/post/grivas-underdeveloped-battery-2",
+      "https://www.chess.com/terms/battery-chess",
+      "https://www.ozproblems.com/problem-world/battery-play"
+    ]
+  },
+  {
     "id": "kt:bishop-pair",
     "title": "Bishop pair",
     "aliases": [

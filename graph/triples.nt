@@ -444,6 +444,33 @@
 <https://github.com/john1hsu/chess-graph/id/backward-pawn> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/outpost> .
 <https://github.com/john1hsu/chess-graph/id/backward-pawn> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/backward-pawn> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/battery> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/chess-graph/id/battery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TacticalMotif> .
+<https://github.com/john1hsu/chess-graph/id/battery> <http://www.w3.org/2000/01/rdf-schema#label> "Battery" .
+<https://github.com/john1hsu/chess-graph/id/battery> <http://www.w3.org/2004/02/skos/core#altLabel> "Battery play" .
+<https://github.com/john1hsu/chess-graph/id/battery> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess battery" .
+<https://github.com/john1hsu/chess-graph/id/battery> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-tactics> .
+<https://github.com/john1hsu/chess-graph/id/battery> <http://www.w3.org/2004/02/skos/core#definition> "Two or more pieces of the same colour lined up on one rank, file or diagonal so that they act together along it: either a line piece backing up the piece in front of it, or a rear line piece waiting to be unmasked when the front piece moves away." .
+<https://github.com/john1hsu/chess-graph/id/battery> <http://www.w3.org/2004/02/skos/core#prefLabel> "Battery" .
+<https://github.com/john1hsu/chess-graph/id/battery> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/alekhines-gun> .
+<https://github.com/john1hsu/chess-graph/id/battery> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-problems> .
+<https://github.com/john1hsu/chess-graph/id/battery> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/discovered-attack> .
+<https://github.com/john1hsu/chess-graph/id/battery> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/double-check> .
+<https://github.com/john1hsu/chess-graph/id/battery> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/open-file> .
+<https://github.com/john1hsu/chess-graph/id/battery> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/windmill> .
+<https://github.com/john1hsu/chess-graph/id/battery> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/battery/s1> .
+<https://github.com/john1hsu/chess-graph/id/battery> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/battery/s2> .
+<https://github.com/john1hsu/chess-graph/id/battery> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/battery/s3> .
+<https://github.com/john1hsu/chess-graph/id/battery> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/battery/s4> .
+<https://github.com/john1hsu/chess-graph/id/battery> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/battery/s5> .
+<https://github.com/john1hsu/chess-graph/id/battery> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/battery/s6> .
+<https://github.com/john1hsu/chess-graph/id/battery> <https://github.com/john1hsu/chess-graph/ontology#domain> "tactics" .
+<https://github.com/john1hsu/chess-graph/id/battery> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/checkmate> .
+<https://github.com/john1hsu/chess-graph/id/battery> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/discovered-attack> .
+<https://github.com/john1hsu/chess-graph/id/battery> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/double-check> .
+<https://github.com/john1hsu/chess-graph/id/battery> <https://github.com/john1hsu/chess-graph/ontology#fen> "5rk1/ppp2ppp/8/8/8/3Q4/PP3PPP/1B4K1 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/battery> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/battery> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-16" .
 <https://github.com/john1hsu/chess-graph/id/bishop-pair> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/bishop-pair> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
 <https://github.com/john1hsu/chess-graph/id/bishop-pair> <http://www.w3.org/2000/01/rdf-schema#label> "Bishop pair" .
@@ -5653,6 +5680,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/backward-pawn/s7> <https://schema.org/url> "https://www.chessprogramming.org/Backward_Pawn" .
+<https://github.com/john1hsu/chess-graph/id/source/battery/s1> <http://purl.org/dc/terms/publisher> "Yochanan Afek, Gambit Publications 2017 (excerpt hosted by Chess Tigers)" .
+<https://github.com/john1hsu/chess-graph/id/source/battery/s1> <http://purl.org/dc/terms/title> "Extreme Chess Tactics, chapter 2: Battery Play (sample pages)" .
+<https://github.com/john1hsu/chess-graph/id/source/battery/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/battery/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/battery/s1> <https://schema.org/url> "https://chess-tigers.de/cdn/shop/files/Extreme_Chess_Tactics.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/battery/s2> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/battery/s2> <http://purl.org/dc/terms/title> "The Chess Seesaw/Windmill" .
+<https://github.com/john1hsu/chess-graph/id/source/battery/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/battery/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/battery/s2> <https://schema.org/url> "https://www.chesshistory.com/winter/extra/seesaw.html" .
+<https://github.com/john1hsu/chess-graph/id/source/battery/s3> <http://purl.org/dc/terms/publisher> "GM Efstratios Grivas, ChessBase" .
+<https://github.com/john1hsu/chess-graph/id/source/battery/s3> <http://purl.org/dc/terms/title> "Grivas: Underdeveloped Battery" .
+<https://github.com/john1hsu/chess-graph/id/source/battery/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/battery/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/battery/s3> <https://schema.org/url> "https://en.chessbase.com/post/grivas-underdeveloped-battery" .
+<https://github.com/john1hsu/chess-graph/id/source/battery/s4> <http://purl.org/dc/terms/publisher> "GM Efstratios Grivas, ChessBase" .
+<https://github.com/john1hsu/chess-graph/id/source/battery/s4> <http://purl.org/dc/terms/title> "Grivas: Underdeveloped Battery (2)" .
+<https://github.com/john1hsu/chess-graph/id/source/battery/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/battery/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/battery/s4> <https://schema.org/url> "https://en.chessbase.com/post/grivas-underdeveloped-battery-2" .
+<https://github.com/john1hsu/chess-graph/id/source/battery/s5> <http://purl.org/dc/terms/publisher> "Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/battery/s5> <http://purl.org/dc/terms/title> "Battery (Chess Terms)" .
+<https://github.com/john1hsu/chess-graph/id/source/battery/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/battery/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/battery/s5> <https://schema.org/url> "https://www.chess.com/terms/battery-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/battery/s6> <http://purl.org/dc/terms/publisher> "Peter Wong, OzProblems" .
+<https://github.com/john1hsu/chess-graph/id/source/battery/s6> <http://purl.org/dc/terms/title> "Battery Play (Problem World, No. 8)" .
+<https://github.com/john1hsu/chess-graph/id/source/battery/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/battery/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/battery/s6> <https://schema.org/url> "https://www.ozproblems.com/problem-world/battery-play" .
 <https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s1> <http://purl.org/dc/terms/publisher> "Larry Kaufman, Chess.com (updated 17 November 2008)" .
 <https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s1> <http://purl.org/dc/terms/title> "The Evaluation of Material Imbalances" .
 <https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

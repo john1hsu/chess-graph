@@ -17,7 +17,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:top-chess-engine-championship` | `kt:leela-chess-zero`, `kt:opening-book`, `kt:stockfish` |
 | `kt:albin-countergambit` | `kt:queens-gambit`, `kt:underpromotion` |
 | `kt:alexander-kotov` | `kt:calculation`, `kt:candidate-moves` |
-| `kt:battery` | `kt:alekhines-gun`, `kt:selfmate` |
 | `kt:berlin-defence` | `kt:alphazero`, `kt:ruy-lopez` |
 | `kt:botvinnik-versus-capablanca-avro-1938` | `kt:soviet-chess-school`, `kt:mikhail-botvinnik` |
 | `kt:carlsen-versus-anand-sochi-2014-game-6` | `kt:magnus-carlsen`, `kt:zwischenzug` |
@@ -241,6 +240,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:william-chase` | `kt:chunking-theory` |
 | `kt:william-davies-evans` | `kt:evans-gambit` |
 | `kt:winawer-variation` | `kt:french-defence` |
+| `kt:windmill` | `kt:battery` |
 | `kt:wolfgang-von-kempelen` | `kt:the-turk` |
 | `kt:woodpecker-method` | `kt:puzzle-training` |
 | `kt:world-blitz-championship` | `kt:blitz-chess` |

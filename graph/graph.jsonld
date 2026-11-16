@@ -15398,6 +15398,97 @@
       ]
     },
     {
+      "@id": "kt:battery",
+      "@type": "kto:TacticalMotif",
+      "skos:prefLabel": "Battery",
+      "skos:definition": "Two or more pieces of the same colour lined up on one rank, file or diagonal so that they act together along it: either a line piece backing up the piece in front of it, or a rear line piece waiting to be unmasked when the front piece moves away.",
+      "kto:domain": "tactics",
+      "dcterms:created": "2026-11-16",
+      "kto:verified": "2026-11-16",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Extreme Chess Tactics, chapter 2: Battery Play (sample pages)",
+          "dcterms:publisher": "Yochanan Afek, Gambit Publications 2017 (excerpt hosted by Chess Tigers)",
+          "schema:url": "https://chess-tigers.de/cdn/shop/files/Extreme_Chess_Tactics.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The Chess Seesaw/Windmill",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://www.chesshistory.com/winter/extra/seesaw.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Grivas: Underdeveloped Battery",
+          "dcterms:publisher": "GM Efstratios Grivas, ChessBase",
+          "schema:url": "https://en.chessbase.com/post/grivas-underdeveloped-battery",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Grivas: Underdeveloped Battery (2)",
+          "dcterms:publisher": "GM Efstratios Grivas, ChessBase",
+          "schema:url": "https://en.chessbase.com/post/grivas-underdeveloped-battery-2",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Battery (Chess Terms)",
+          "dcterms:publisher": "Chess.com",
+          "schema:url": "https://www.chess.com/terms/battery-chess",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Battery Play (Problem World, No. 8)",
+          "dcterms:publisher": "Peter Wong, OzProblems",
+          "schema:url": "https://www.ozproblems.com/problem-world/battery-play",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/tactics/battery.md",
+      "skos:altLabel": [
+        "Battery play",
+        "Chess battery"
+      ],
+      "kto:fen": "5rk1/ppp2ppp/8/8/8/3Q4/PP3PPP/1B4K1 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-tactics"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:discovered-attack"
+        },
+        {
+          "@id": "kt:double-check"
+        },
+        {
+          "@id": "kt:alekhines-gun"
+        },
+        {
+          "@id": "kt:open-file"
+        },
+        {
+          "@id": "kt:chess-problems"
+        },
+        {
+          "@id": "kt:windmill"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:discovered-attack"
+        },
+        {
+          "@id": "kt:double-check"
+        },
+        {
+          "@id": "kt:checkmate"
+        }
+      ]
+    },
+    {
       "@id": "kt:chess-tactics",
       "@type": "kto:Concept",
       "skos:prefLabel": "Chess tactics",
