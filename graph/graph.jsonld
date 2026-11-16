@@ -4671,6 +4671,107 @@
       ]
     },
     {
+      "@id": "kt:swiss-system",
+      "@type": "kto:Rule",
+      "skos:prefLabel": "Swiss system",
+      "skos:definition": "A tournament pairing method in which a fixed number of rounds is played and, each round, players on equal or similar scores are paired without repeat games and with balanced colours; FIDE regulates it in Handbook chapter C.04, whose standard algorithm is the Dutch system, with Dubov, Burstein and Lim as approved alternatives.",
+      "kto:domain": "events-and-organizations",
+      "dcterms:created": "2026-11-16",
+      "kto:verified": "2026-11-16",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "C.04.3 FIDE (Dutch) System (effective from 1 February 2026)",
+          "dcterms:publisher": "FIDE Handbook",
+          "schema:url": "https://handbook.fide.com/chapter/C0403202602",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "C.04.7 FIDE-Approved Accelerated Systems (effective from 1 February 2026)",
+          "dcterms:publisher": "FIDE Handbook",
+          "schema:url": "https://handbook.fide.com/chapter/C0407202602",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Other FIDE-Approved Pairing Systems",
+          "dcterms:publisher": "FIDE Handbook",
+          "schema:url": "https://handbook.fide.com/chapter/OtherApprovedPairingSystems202602",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "C.04.4.1 Dubov System (effective from 1 February 2026)",
+          "dcterms:publisher": "FIDE Handbook",
+          "schema:url": "https://handbook.fide.com/chapter/C040401202602",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Most Swiss-system tournaments are unfair: Evidence from chess",
+          "dcterms:publisher": "arXiv (László Csató, HUN-REN SZTAKI and Corvinus University of Budapest)",
+          "schema:url": "https://arxiv.org/html/2410.19333v2",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "125 years Swiss System",
+          "dcterms:publisher": "ChessBase News (André Schulz, 17 June 2020)",
+          "schema:url": "https://en.chessbase.com/newsroom/post/125-years-swiss-system?page=0",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/events-and-organizations/swiss-system.md",
+      "skos:altLabel": [
+        "Swiss-system tournament",
+        "Swiss tournament",
+        "Swiss pairing system",
+        "Swiss pairings",
+        "Swiss system pairings",
+        "Müller system",
+        "Mueller system"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess-tournament"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:tie-break"
+        },
+        {
+          "@id": "kt:arbiter"
+        },
+        {
+          "@id": "kt:chess-olympiad"
+        },
+        {
+          "@id": "kt:fide-world-cup"
+        }
+      ],
+      "kto:sanctionedBy": [
+        {
+          "@id": "kt:fide"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:julius-muller"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:dutch-system"
+        },
+        {
+          "@id": "kt:baku-acceleration"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:round-robin"
+        }
+      ]
+    },
+    {
       "@id": "kt:tie-break",
       "@type": "kto:Rule",
       "skos:prefLabel": "Tie-break",

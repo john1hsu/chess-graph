@@ -4608,6 +4608,34 @@
     ]
   },
   {
+    "id": "kt:swiss-system",
+    "title": "Swiss system",
+    "aliases": [
+      "Swiss-system tournament",
+      "Swiss tournament",
+      "Swiss pairing system",
+      "Swiss pairings",
+      "Swiss system pairings",
+      "Müller system",
+      "Mueller system"
+    ],
+    "type": "Rule",
+    "domain": "events-and-organizations",
+    "file": "articles/events-and-organizations/swiss-system.md",
+    "created": "2026-11-16",
+    "verified": "2026-11-16",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://handbook.fide.com/chapter/C0403202602",
+      "https://handbook.fide.com/chapter/C0407202602",
+      "https://handbook.fide.com/chapter/OtherApprovedPairingSystems202602",
+      "https://handbook.fide.com/chapter/C040401202602",
+      "https://arxiv.org/html/2410.19333v2",
+      "https://en.chessbase.com/newsroom/post/125-years-swiss-system?page=0"
+    ]
+  },
+  {
     "id": "kt:talent",
     "title": "Talent",
     "aliases": [

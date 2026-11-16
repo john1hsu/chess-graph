@@ -43,7 +43,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
 | `kt:static-exchange-evaluation` | `kt:move-ordering`, `kt:quiescence-search` |
 | `kt:steven-j-edwards` | `kt:forsyth-edwards-notation`, `kt:portable-game-notation` |
-| `kt:swiss-system` | `kt:chess-tournament`, `kt:tie-break` |
 | `kt:viswanathan-anand` | `kt:gukesh-dommaraju`, `kt:magnus-carlsen` |
 | `kt:abraham-luchins` | `kt:einstellung-effect` |
 | `kt:abstract-strategy-game` | `kt:chess` |
@@ -57,6 +56,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:asian-chess-federation` | `kt:european-chess-union` |
 | `kt:aspiration-window` | `kt:iterative-deepening` |
 | `kt:baden-baden-1870` | `kt:adolf-anderssen` |
+| `kt:baku-acceleration` | `kt:swiss-system` |
 | `kt:battery` | `kt:selfmate` |
 | `kt:board-representation` | `kt:bitboards` |
 | `kt:botvinnik-versus-tal-moscow-1960-game-6` | `kt:mikhail-tal` |
@@ -86,6 +86,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:development` | `kt:initiative` |
 | `kt:ding-liren` | `kt:gukesh-dommaraju` |
 | `kt:ding-versus-gukesh-singapore-2024-game-14` | `kt:gukesh-dommaraju` |
+| `kt:dutch-system` | `kt:swiss-system` |
 | `kt:edwin-z-adams` | `kt:adams-versus-torre-new-orleans-1920` |
 | `kt:englisch-versus-steinitz-london-1883` | `kt:bishop-pair` |
 | `kt:english-attack` | `kt:najdorf-variation` |
@@ -133,6 +134,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:john-von-neumann` | `kt:minimax` |
 | `kt:josef-vancura` | `kt:vancura-position` |
 | `kt:joseph-henry-blackburne` | `kt:johannes-zukertort` |
+| `kt:julius-muller` | `kt:swiss-system` |
 | `kt:kaissa` | `kt:bitboards` |
 | `kt:kasparov-versus-anand-riga-1995` | `kt:evans-gambit` |
 | `kt:kasparov-versus-topalov-wijk-aan-zee-1999` | `kt:garry-kasparov` |
@@ -199,6 +201,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:retractor` | `kt:retrograde-analysis` |
 | `kt:richard-reti` | `kt:hypermodernism` |
 | `kt:robert-hyatt` | `kt:bitboards` |
+| `kt:round-robin` | `kt:swiss-system` |
 | `kt:rubinstein-variation` | `kt:nimzo-indian-defence` |
 | `kt:rudolf-huber` | `kt:universal-chess-interface` |
 | `kt:rudolf-spielmann` | `kt:sacrifice` |
