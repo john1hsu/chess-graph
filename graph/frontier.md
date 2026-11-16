@@ -7,18 +7,18 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:alexander-alekhine`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:boris-spassky`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:magnus-carlsen`, `kt:mikhail-botvinnik`, `kt:mikhail-tal`, `kt:tigran-petrosian`, `kt:wilhelm-steinitz` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:the-turk`, `kt:herbert-simon` |
 | `kt:sveshnikov-variation` | `kt:backward-pawn`, `kt:outpost`, `kt:dragon-variation`, `kt:sicilian-defence` |
+| `kt:alekhines-gun` | `kt:open-file`, `kt:rook-on-the-seventh-rank`, `kt:alexander-alekhine` |
 | `kt:bronstein-delay` | `kt:chess-clock`, `kt:fischer-increment`, `kt:fischer-increment` |
 | `kt:gambit` | `kt:evans-gambit`, `kt:kings-gambit`, `kt:sacrifice` |
 | `kt:mikhail-chigorin` | `kt:hastings-1895`, `kt:evans-gambit`, `kt:wilhelm-steinitz` |
 | `kt:paul-morphy` | `kt:romantic-era`, `kt:initiative`, `kt:adolf-anderssen` |
+| `kt:perpetual-check` | `kt:rook-on-the-seventh-rank`, `kt:draw`, `kt:threefold-repetition` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning`, `kt:move-ordering` |
-| `kt:rook-on-the-seventh-rank` | `kt:steinitz-von-bardeleben-hastings-1895`, `kt:open-file`, `kt:open-file` |
 | `kt:top-chess-engine-championship` | `kt:leela-chess-zero`, `kt:opening-book`, `kt:stockfish` |
 | `kt:vladimir-kramnik` | `kt:alphazero`, `kt:ruy-lopez`, `kt:garry-kasparov` |
 | `kt:adams-versus-torre-new-orleans-1920` | `kt:back-rank-mate`, `kt:overloading` |
 | `kt:albin-countergambit` | `kt:queens-gambit`, `kt:underpromotion` |
 | `kt:alekhine-versus-nimzowitsch-san-remo-1930` | `kt:open-file`, `kt:alexander-alekhine` |
-| `kt:alekhines-gun` | `kt:open-file`, `kt:alexander-alekhine` |
 | `kt:alexander-kotov` | `kt:calculation`, `kt:candidate-moves` |
 | `kt:berlin-defence` | `kt:alphazero`, `kt:ruy-lopez` |
 | `kt:botvinnik-versus-capablanca-avro-1938` | `kt:soviet-chess-school`, `kt:mikhail-botvinnik` |
@@ -37,7 +37,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:origins-of-chess` | `kt:chaturanga`, `kt:history-of-chess` |
 | `kt:overprotection` | `kt:prophylaxis`, `kt:prophylaxis` |
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
-| `kt:perpetual-check` | `kt:draw`, `kt:threefold-repetition` |
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:zugzwang`, `kt:aron-nimzowitsch` |
 | `kt:shouldering` | `kt:cutting-off-the-king`, `kt:wrong-bishop` |
 | `kt:simplification` | `kt:material-advantage`, `kt:material-advantage` |
@@ -62,6 +61,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:board-representation` | `kt:bitboards` |
 | `kt:botvinnik-versus-tal-moscow-1960-game-6` | `kt:mikhail-tal` |
 | `kt:breakthrough` | `kt:passed-pawn` |
+| `kt:capablanca-versus-tartakower-new-york-1924` | `kt:rook-on-the-seventh-rank` |
 | `kt:carlsbad-1923` | `kt:carlsbad-structure` |
 | `kt:carlsbad-1929` | `kt:aron-nimzowitsch` |
 | `kt:carlsen-versus-rapport-wijk-aan-zee-2019` | `kt:initiative` |

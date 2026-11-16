@@ -4429,6 +4429,39 @@
 <https://github.com/john1hsu/chess-graph/id/rook-endgames> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/rook-endgames> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> .
 <https://github.com/john1hsu/chess-graph/id/rook-endgames> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
+<https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> <http://www.w3.org/2000/01/rdf-schema#label> "Rook on the seventh rank" .
+<https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> <http://www.w3.org/2004/02/skos/core#altLabel> "Absolute seventh rank" .
+<https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> <http://www.w3.org/2004/02/skos/core#altLabel> "Doubled rooks on the seventh" .
+<https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> <http://www.w3.org/2004/02/skos/core#altLabel> "Pigs on the seventh" .
+<https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> <http://www.w3.org/2004/02/skos/core#altLabel> "Rook on the 7th" .
+<https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> <http://www.w3.org/2004/02/skos/core#altLabel> "Rook on the seventh" .
+<https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> <http://www.w3.org/2004/02/skos/core#altLabel> "Rooks on the seventh" .
+<https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> <http://www.w3.org/2004/02/skos/core#altLabel> "Seventh rank" .
+<https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-strategy> .
+<https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> <http://www.w3.org/2004/02/skos/core#definition> "A rook that has penetrated to the opponent's second rank (White's seventh, Black's second), where it attacks pawns still on their starting squares and confines the enemy king to the back rank. It is one of the most common goals of play on an open file and a frequent winning factor in rook endgames." .
+<https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rook on the seventh rank" .
+<https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/alekhines-gun> .
+<https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/open-file> .
+<https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/passed-pawn> .
+<https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/rook-endgames> .
+<https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> .
+<https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s1> .
+<https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s2> .
+<https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s3> .
+<https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s4> .
+<https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s5> .
+<https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s6> .
+<https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s7> .
+<https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> .
+<https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/open-file> .
+<https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> <https://github.com/john1hsu/chess-graph/ontology#domain> "middlegame-strategy" .
+<https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/perpetual-check> .
+<https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/capablanca-versus-tartakower-new-york-1924> .
+<https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> <https://github.com/john1hsu/chess-graph/ontology#fen> "7k/p1R5/1p3KP1/3p1p2/P2Pr3/8/8/8 b - - 0 41" .
+<https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-16" .
 <https://github.com/john1hsu/chess-graph/id/rule-of-the-square> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/chess-graph/id/rule-of-the-square> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Technique> .
 <https://github.com/john1hsu/chess-graph/id/rule-of-the-square> <http://www.w3.org/2000/01/rdf-schema#label> "Rule of the square" .
@@ -9419,6 +9452,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/rook-endgames/s6> <https://schema.org/url> "https://en.chessbase.com/post/some-rook-endings-are-drawn-some-are-not" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s1> <http://purl.org/dc/terms/publisher> "GM Jan Markos, ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s1> <http://purl.org/dc/terms/title> "The Winning Academy 37: Rooks in Paradise" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s1> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/the-winning-academy-37-rooks-in-paradise?page=0" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s2> <http://purl.org/dc/terms/publisher> "GM Daniel Naroditsky, Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s2> <http://purl.org/dc/terms/title> "Rooks on the Seventh Revisited" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s2> <https://schema.org/url> "https://chess.com/article/view/rooks-on-the-seventh-revisited" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s3> <http://purl.org/dc/terms/publisher> "Aron Nimzowitsch, trans. Robert Sherwood, New In Chess (2016)" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s3> <http://purl.org/dc/terms/title> "My System & Chess Praxis (sample pages, contents)" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s3> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/9027.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s4> <http://purl.org/dc/terms/publisher> "Aron Nimzowitsch, Quality Chess (2007 edition)" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s4> <http://purl.org/dc/terms/title> "My System (excerpt with contents)" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s4> <https://schema.org/url> "https://qualitychess.co.uk/wp-content/uploads/2024/02/MySystem-excerpt.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s5> <http://purl.org/dc/terms/publisher> "José Raúl Capablanca (1921), via Project Gutenberg" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s5> <http://purl.org/dc/terms/title> "Chess Fundamentals, Project Gutenberg eBook #33870" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s5> <https://schema.org/url> "https://gutenberg.org/files/33870/33870-h/33870-h.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s6> <http://purl.org/dc/terms/publisher> "Jesus de la Villa, New In Chess (2021)" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s6> <http://purl.org/dc/terms/title> "100 Endgame Patterns You Must Know (sample pages)" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s6> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/9112.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s7> <http://purl.org/dc/terms/publisher> "Lichess study" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s7> <http://purl.org/dc/terms/title> "Capablanca vs. Tartakower, New York 1924, round 6 (game record)" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s7> <https://schema.org/url> "https://lichess.org/study/embed/M3mZMe8l/MshiKf1G" .
 <https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s1> <http://purl.org/dc/terms/publisher> "Mark Dvoretsky, revised by Karsten Müller and Alex Fishbein, Russell Enterprises (2025); excerpt hosted by De Beste Zet" .
 <https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s1> <http://purl.org/dc/terms/title> "Dvoretsky's Endgame Manual, sixth edition (excerpt with table of contents)" .
 <https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

@@ -8324,6 +8324,114 @@
       ]
     },
     {
+      "@id": "kt:rook-on-the-seventh-rank",
+      "@type": "kto:StrategicConcept",
+      "skos:prefLabel": "Rook on the seventh rank",
+      "skos:definition": "A rook that has penetrated to the opponent's second rank (White's seventh, Black's second), where it attacks pawns still on their starting squares and confines the enemy king to the back rank. It is one of the most common goals of play on an open file and a frequent winning factor in rook endgames.",
+      "kto:domain": "middlegame-strategy",
+      "dcterms:created": "2026-11-16",
+      "kto:verified": "2026-11-16",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Winning Academy 37: Rooks in Paradise",
+          "dcterms:publisher": "GM Jan Markos, ChessBase News",
+          "schema:url": "https://en.chessbase.com/newsroom/post/the-winning-academy-37-rooks-in-paradise?page=0",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Rooks on the Seventh Revisited",
+          "dcterms:publisher": "GM Daniel Naroditsky, Chess.com",
+          "schema:url": "https://chess.com/article/view/rooks-on-the-seventh-revisited",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "My System & Chess Praxis (sample pages, contents)",
+          "dcterms:publisher": "Aron Nimzowitsch, trans. Robert Sherwood, New In Chess (2016)",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/9027.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "My System (excerpt with contents)",
+          "dcterms:publisher": "Aron Nimzowitsch, Quality Chess (2007 edition)",
+          "schema:url": "https://qualitychess.co.uk/wp-content/uploads/2024/02/MySystem-excerpt.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Chess Fundamentals, Project Gutenberg eBook #33870",
+          "dcterms:publisher": "José Raúl Capablanca (1921), via Project Gutenberg",
+          "schema:url": "https://gutenberg.org/files/33870/33870-h/33870-h.htm",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "100 Endgame Patterns You Must Know (sample pages)",
+          "dcterms:publisher": "Jesus de la Villa, New In Chess (2021)",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/9112.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Capablanca vs. Tartakower, New York 1924, round 6 (game record)",
+          "dcterms:publisher": "Lichess study",
+          "schema:url": "https://lichess.org/study/embed/M3mZMe8l/MshiKf1G",
+          "kto:sourceType": "database"
+        }
+      ],
+      "kto:file": "articles/middlegame-strategy/rook-on-the-seventh-rank.md",
+      "skos:altLabel": [
+        "Rook on the seventh",
+        "Rook on the 7th",
+        "Seventh rank",
+        "Rooks on the seventh",
+        "Doubled rooks on the seventh",
+        "Absolute seventh rank",
+        "Pigs on the seventh"
+      ],
+      "kto:fen": "7k/p1R5/1p3KP1/3p1p2/P2Pr3/8/8/8 b - - 0 41",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-strategy"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:open-file"
+        },
+        {
+          "@id": "kt:rook-endgames"
+        },
+        {
+          "@id": "kt:passed-pawn"
+        },
+        {
+          "@id": "kt:alekhines-gun"
+        },
+        {
+          "@id": "kt:steinitz-von-bardeleben-hastings-1895"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:open-file"
+        }
+      ],
+      "kto:championedBy": [
+        {
+          "@id": "kt:aron-nimzowitsch"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:capablanca-versus-tartakower-new-york-1924"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:perpetual-check"
+        }
+      ]
+    },
+    {
       "@id": "kt:space-advantage",
       "@type": "kto:StrategicConcept",
       "skos:prefLabel": "Space advantage",

@@ -3955,6 +3955,35 @@
     ]
   },
   {
+    "id": "kt:rook-on-the-seventh-rank",
+    "title": "Rook on the seventh rank",
+    "aliases": [
+      "Rook on the seventh",
+      "Rook on the 7th",
+      "Seventh rank",
+      "Rooks on the seventh",
+      "Doubled rooks on the seventh",
+      "Absolute seventh rank",
+      "Pigs on the seventh"
+    ],
+    "type": "StrategicConcept",
+    "domain": "middlegame-strategy",
+    "file": "articles/middlegame-strategy/rook-on-the-seventh-rank.md",
+    "created": "2026-11-16",
+    "verified": "2026-11-16",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://en.chessbase.com/newsroom/post/the-winning-academy-37-rooks-in-paradise?page=0",
+      "https://chess.com/article/view/rooks-on-the-seventh-revisited",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/9027.pdf",
+      "https://qualitychess.co.uk/wp-content/uploads/2024/02/MySystem-excerpt.pdf",
+      "https://gutenberg.org/files/33870/33870-h/33870-h.htm",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/9112.pdf",
+      "https://lichess.org/study/embed/M3mZMe8l/MshiKf1G"
+    ]
+  },
+  {
     "id": "kt:rule-of-the-square",
     "title": "Rule of the square",
     "aliases": [
