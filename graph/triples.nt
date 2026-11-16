@@ -11170,6 +11170,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/time-management-in-games/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/time-management-in-games/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "news" .
 <https://github.com/john1hsu/chess-graph/id/source/time-management-in-games/s6> <https://schema.org/url> "https://sciencedaily.com/releases/2004/06/040602060812.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/top-chess-engine-championship/s1> <http://purl.org/dc/terms/publisher> "Top Chess Engine Championship (tcec-chess.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/top-chess-engine-championship/s1> <http://purl.org/dc/terms/title> "TCEC Openings FAQ" .
+<https://github.com/john1hsu/chess-graph/id/source/top-chess-engine-championship/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/top-chess-engine-championship/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/top-chess-engine-championship/s1> <https://schema.org/url> "https://tcec-chess.com/articles/TCEC_Openings_FAQ.html" .
+<https://github.com/john1hsu/chess-graph/id/source/top-chess-engine-championship/s2> <http://purl.org/dc/terms/publisher> "G. McC. Haworth and N. Hernandez (University of Reading repository)" .
+<https://github.com/john1hsu/chess-graph/id/source/top-chess-engine-championship/s2> <http://purl.org/dc/terms/title> "TCEC15: the 15th Top Chess Engine Championship (ICGA Journal 41(3), 2019)" .
+<https://github.com/john1hsu/chess-graph/id/source/top-chess-engine-championship/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/top-chess-engine-championship/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/top-chess-engine-championship/s2> <https://schema.org/url> "https://reading-9.eprints-hosting.org/83156/1/TCEC15.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/top-chess-engine-championship/s3> <http://purl.org/dc/terms/publisher> "G. McC. Haworth and N. Hernandez, IOS Press" .
+<https://github.com/john1hsu/chess-graph/id/source/top-chess-engine-championship/s3> <http://purl.org/dc/terms/title> "TCEC Cup 7 (ICGA Journal 42(4), 2020)" .
+<https://github.com/john1hsu/chess-graph/id/source/top-chess-engine-championship/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/top-chess-engine-championship/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/top-chess-engine-championship/s3> <https://schema.org/url> "https://content.iospress.com/articles/icga-journal/icg200174" .
+<https://github.com/john1hsu/chess-graph/id/source/top-chess-engine-championship/s4> <http://purl.org/dc/terms/publisher> "Chess Programming Wiki" .
+<https://github.com/john1hsu/chess-graph/id/source/top-chess-engine-championship/s4> <http://purl.org/dc/terms/title> "TCEC" .
+<https://github.com/john1hsu/chess-graph/id/source/top-chess-engine-championship/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/top-chess-engine-championship/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/top-chess-engine-championship/s4> <https://schema.org/url> "https://www.chessprogramming.org:443/TCEC" .
+<https://github.com/john1hsu/chess-graph/id/source/top-chess-engine-championship/s5> <http://purl.org/dc/terms/publisher> "Chessdom" .
+<https://github.com/john1hsu/chess-graph/id/source/top-chess-engine-championship/s5> <http://purl.org/dc/terms/title> "Stockfish claims its 19th TCEC title defeating Reckless in the Superfinal" .
+<https://github.com/john1hsu/chess-graph/id/source/top-chess-engine-championship/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/top-chess-engine-championship/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/top-chess-engine-championship/s5> <https://schema.org/url> "https://www.chessdom.com/stockfish-claims-its-19th-tcec-title-defeating-reckless-in-the-superfinal/" .
+<https://github.com/john1hsu/chess-graph/id/source/top-chess-engine-championship/s6> <http://purl.org/dc/terms/publisher> "TCEC BayesElo (Chessdom)" .
+<https://github.com/john1hsu/chess-graph/id/source/top-chess-engine-championship/s6> <http://purl.org/dc/terms/title> "TCEC Season 30, Swiss10, Game 624 (1 November 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/top-chess-engine-championship/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/top-chess-engine-championship/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/top-chess-engine-championship/s6> <https://schema.org/url> "https://tcecbayeselo.chessdom.org/2026/11/01/tcec-season-30-swiss10-game-624-stockfish-dev-20260930-m-49ea5ded-obsidian-dev-16-15/" .
 <https://github.com/john1hsu/chess-graph/id/source/touch-move/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
 <https://github.com/john1hsu/chess-graph/id/source/touch-move/s1> <http://purl.org/dc/terms/title> "Article 4: The Act of Moving the Pieces" .
 <https://github.com/john1hsu/chess-graph/id/source/touch-move/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -12263,6 +12293,34 @@
 <https://github.com/john1hsu/chess-graph/id/time-management-in-games> <https://github.com/john1hsu/chess-graph/ontology#governedBy> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
 <https://github.com/john1hsu/chess-graph/id/time-management-in-games> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/time-management-in-games> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-15" .
+<https://github.com/john1hsu/chess-graph/id/top-chess-engine-championship> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/chess-graph/id/top-chess-engine-championship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Event> .
+<https://github.com/john1hsu/chess-graph/id/top-chess-engine-championship> <http://www.w3.org/2000/01/rdf-schema#label> "Top Chess Engine Championship" .
+<https://github.com/john1hsu/chess-graph/id/top-chess-engine-championship> <http://www.w3.org/2004/02/skos/core#altLabel> "TCEC Superfinal" .
+<https://github.com/john1hsu/chess-graph/id/top-chess-engine-championship> <http://www.w3.org/2004/02/skos/core#altLabel> "TCEC" .
+<https://github.com/john1hsu/chess-graph/id/top-chess-engine-championship> <http://www.w3.org/2004/02/skos/core#altLabel> "Thoresen Chess Engines Competition" .
+<https://github.com/john1hsu/chess-graph/id/top-chess-engine-championship> <http://www.w3.org/2004/02/skos/core#altLabel> "nTCEC" .
+<https://github.com/john1hsu/chess-graph/id/top-chess-engine-championship> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-tournament> .
+<https://github.com/john1hsu/chess-graph/id/top-chess-engine-championship> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/computer-chess> .
+<https://github.com/john1hsu/chess-graph/id/top-chess-engine-championship> <http://www.w3.org/2004/02/skos/core#definition> "A continuously running online competition for chess engines, founded by Martin Thoresen in 2010 and hosted by Chessdom since season 8, in which engines climb a ladder of divisions on fixed hardware and from assigned openings until the top two meet in a 100-game Superfinal." .
+<https://github.com/john1hsu/chess-graph/id/top-chess-engine-championship> <http://www.w3.org/2004/02/skos/core#prefLabel> "Top Chess Engine Championship" .
+<https://github.com/john1hsu/chess-graph/id/top-chess-engine-championship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess960> .
+<https://github.com/john1hsu/chess-graph/id/top-chess-engine-championship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/endgame-tablebases> .
+<https://github.com/john1hsu/chess-graph/id/top-chess-engine-championship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/leela-chess-zero> .
+<https://github.com/john1hsu/chess-graph/id/top-chess-engine-championship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/nnue> .
+<https://github.com/john1hsu/chess-graph/id/top-chess-engine-championship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/opening-book> .
+<https://github.com/john1hsu/chess-graph/id/top-chess-engine-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/top-chess-engine-championship/s1> .
+<https://github.com/john1hsu/chess-graph/id/top-chess-engine-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/top-chess-engine-championship/s2> .
+<https://github.com/john1hsu/chess-graph/id/top-chess-engine-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/top-chess-engine-championship/s3> .
+<https://github.com/john1hsu/chess-graph/id/top-chess-engine-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/top-chess-engine-championship/s4> .
+<https://github.com/john1hsu/chess-graph/id/top-chess-engine-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/top-chess-engine-championship/s5> .
+<https://github.com/john1hsu/chess-graph/id/top-chess-engine-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/top-chess-engine-championship/s6> .
+<https://github.com/john1hsu/chess-graph/id/top-chess-engine-championship> <https://github.com/john1hsu/chess-graph/ontology#domain> "computer-chess" .
+<https://github.com/john1hsu/chess-graph/id/top-chess-engine-championship> <https://github.com/john1hsu/chess-graph/ontology#organizedBy> <https://github.com/john1hsu/chess-graph/id/chessdom> .
+<https://github.com/john1hsu/chess-graph/id/top-chess-engine-championship> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/top-chess-engine-championship> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/opening-book> .
+<https://github.com/john1hsu/chess-graph/id/top-chess-engine-championship> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-16" .
+<https://github.com/john1hsu/chess-graph/id/top-chess-engine-championship> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/stockfish> .
 <https://github.com/john1hsu/chess-graph/id/touch-move> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/touch-move> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Rule> .
 <https://github.com/john1hsu/chess-graph/id/touch-move> <http://www.w3.org/2000/01/rdf-schema#label> "Touch-move" .

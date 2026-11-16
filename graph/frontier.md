@@ -14,7 +14,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:gambit` | `kt:evans-gambit`, `kt:kings-gambit`, `kt:sacrifice` |
 | `kt:mikhail-chigorin` | `kt:hastings-1895`, `kt:evans-gambit`, `kt:wilhelm-steinitz` |
 | `kt:philidor-defence` | `kt:adams-versus-torre-new-orleans-1920`, `kt:opera-game`, `kt:francois-andre-danican-philidor` |
-| `kt:top-chess-engine-championship` | `kt:leela-chess-zero`, `kt:opening-book`, `kt:stockfish` |
 | `kt:albin-countergambit` | `kt:queens-gambit`, `kt:underpromotion` |
 | `kt:alexander-kotov` | `kt:calculation`, `kt:candidate-moves` |
 | `kt:anders-ericsson` | `kt:deliberate-practice`, `kt:long-term-working-memory` |
@@ -73,6 +72,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chess-equipment` | `kt:chess-clock` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
 | `kt:chess-set` | `kt:lewis-chessmen` |
+| `kt:chessdom` | `kt:top-chess-engine-championship` |
 | `kt:chrest` | `kt:template-theory` |
 | `kt:club-argentino-de-ajedrez` | `kt:world-chess-championship-1927` |
 | `kt:cognitive-science` | `kt:cognitive-psychology-of-chess` |

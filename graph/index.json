@@ -5135,6 +5135,31 @@
     ]
   },
   {
+    "id": "kt:top-chess-engine-championship",
+    "title": "Top Chess Engine Championship",
+    "aliases": [
+      "TCEC",
+      "Thoresen Chess Engines Competition",
+      "nTCEC",
+      "TCEC Superfinal"
+    ],
+    "type": "Event",
+    "domain": "computer-chess",
+    "file": "articles/computer-chess/top-chess-engine-championship.md",
+    "created": "2026-11-16",
+    "verified": "2026-11-16",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://tcec-chess.com/articles/TCEC_Openings_FAQ.html",
+      "https://reading-9.eprints-hosting.org/83156/1/TCEC15.pdf",
+      "https://content.iospress.com/articles/icga-journal/icg200174",
+      "https://www.chessprogramming.org:443/TCEC",
+      "https://www.chessdom.com/stockfish-claims-its-19th-tcec-title-defeating-reckless-in-the-superfinal/",
+      "https://tcecbayeselo.chessdom.org/2026/11/01/tcec-season-30-swiss10-game-624-stockfish-dev-20260930-m-49ea5ded-obsidian-dev-16-15/"
+    ]
+  },
+  {
     "id": "kt:touch-move",
     "title": "Touch-move",
     "aliases": [

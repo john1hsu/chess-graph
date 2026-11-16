@@ -1695,6 +1695,102 @@
       ]
     },
     {
+      "@id": "kt:top-chess-engine-championship",
+      "@type": "kto:Event",
+      "skos:prefLabel": "Top Chess Engine Championship",
+      "skos:definition": "A continuously running online competition for chess engines, founded by Martin Thoresen in 2010 and hosted by Chessdom since season 8, in which engines climb a ladder of divisions on fixed hardware and from assigned openings until the top two meet in a 100-game Superfinal.",
+      "kto:domain": "computer-chess",
+      "dcterms:created": "2026-11-16",
+      "kto:verified": "2026-11-16",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "TCEC Openings FAQ",
+          "dcterms:publisher": "Top Chess Engine Championship (tcec-chess.com)",
+          "schema:url": "https://tcec-chess.com/articles/TCEC_Openings_FAQ.html",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "TCEC15: the 15th Top Chess Engine Championship (ICGA Journal 41(3), 2019)",
+          "dcterms:publisher": "G. McC. Haworth and N. Hernandez (University of Reading repository)",
+          "schema:url": "https://reading-9.eprints-hosting.org/83156/1/TCEC15.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "TCEC Cup 7 (ICGA Journal 42(4), 2020)",
+          "dcterms:publisher": "G. McC. Haworth and N. Hernandez, IOS Press",
+          "schema:url": "https://content.iospress.com/articles/icga-journal/icg200174",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "TCEC",
+          "dcterms:publisher": "Chess Programming Wiki",
+          "schema:url": "https://www.chessprogramming.org:443/TCEC",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "Stockfish claims its 19th TCEC title defeating Reckless in the Superfinal",
+          "dcterms:publisher": "Chessdom",
+          "schema:url": "https://www.chessdom.com/stockfish-claims-its-19th-tcec-title-defeating-reckless-in-the-superfinal/",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "TCEC Season 30, Swiss10, Game 624 (1 November 2026)",
+          "dcterms:publisher": "TCEC BayesElo (Chessdom)",
+          "schema:url": "https://tcecbayeselo.chessdom.org/2026/11/01/tcec-season-30-swiss10-game-624-stockfish-dev-20260930-m-49ea5ded-obsidian-dev-16-15/",
+          "kto:sourceType": "primary-record"
+        }
+      ],
+      "kto:file": "articles/computer-chess/top-chess-engine-championship.md",
+      "skos:altLabel": [
+        "TCEC",
+        "Thoresen Chess Engines Competition",
+        "nTCEC",
+        "TCEC Superfinal"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:computer-chess"
+        },
+        {
+          "@id": "kt:chess-tournament"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:leela-chess-zero"
+        },
+        {
+          "@id": "kt:opening-book"
+        },
+        {
+          "@id": "kt:endgame-tablebases"
+        },
+        {
+          "@id": "kt:nnue"
+        },
+        {
+          "@id": "kt:chess960"
+        }
+      ],
+      "kto:wonBy": [
+        {
+          "@id": "kt:stockfish"
+        }
+      ],
+      "kto:organizedBy": [
+        {
+          "@id": "kt:chessdom"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:opening-book"
+        }
+      ]
+    },
+    {
       "@id": "kt:transposition-table",
       "@type": "kto:Technique",
       "skos:prefLabel": "Transposition table",
