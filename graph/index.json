@@ -2737,6 +2737,32 @@
     ]
   },
   {
+    "id": "kt:johannes-zukertort",
+    "title": "Johannes Zukertort",
+    "aliases": [
+      "Johannes Hermann Zukertort",
+      "Johann Zukertort",
+      "J. H. Zukertort",
+      "Zukertort",
+      "Jan Hermann Zukertort"
+    ],
+    "type": "Player",
+    "domain": "players",
+    "file": "articles/players/johannes-zukertort.md",
+    "created": "2026-11-16",
+    "verified": "2026-11-16",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://worldchesshof.org/?p=833",
+      "https://jewishencyclopedia.com/articles/15294-zukertort-johannes-hermann",
+      "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/zukertort-johannes",
+      "https://britishchessnews.com/?p=6202",
+      "https://chesshistory.com/winter/extra/zukertortblackburne.html",
+      "https://www.chesshistory.com/winter/extra/zukertort.html"
+    ]
+  },
+  {
     "id": "kt:jose-raul-capablanca",
     "title": "José Raúl Capablanca",
     "aliases": [

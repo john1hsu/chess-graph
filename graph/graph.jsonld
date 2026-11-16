@@ -11539,6 +11539,98 @@
       ]
     },
     {
+      "@id": "kt:johannes-zukertort",
+      "@type": "kto:Player",
+      "skos:prefLabel": "Johannes Zukertort",
+      "skos:definition": "Polish-born master (1842–1888) who worked in Germany and then England, the world's second-best player behind Steinitz for most of 1871–1886; winner of Paris 1878 and London 1883, co-editor of the Chess Monthly, a leading blindfold player, and the loser of the first official world championship match in 1886.",
+      "kto:domain": "players",
+      "dcterms:created": "2026-11-16",
+      "kto:verified": "2026-11-16",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Johannes Zukertort",
+          "dcterms:publisher": "World Chess Hall of Fame",
+          "schema:url": "https://worldchesshof.org/?p=833",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Zukertort, Johannes Hermann (Jewish Encyclopedia, 1906)",
+          "dcterms:publisher": "JewishEncyclopedia.com",
+          "schema:url": "https://jewishencyclopedia.com/articles/15294-zukertort-johannes-hermann",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Zukertort, Johannes (Encyclopaedia Judaica, 2nd ed., William D. Rubinstein)",
+          "dcterms:publisher": "Encyclopedia.com",
+          "schema:url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/zukertort-johannes",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Remembering Johannes Zukertort (07-ix-1842 20-vi-1888)",
+          "dcterms:publisher": "British Chess News",
+          "schema:url": "https://britishchessnews.com/?p=6202",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Zukertort v Blackburne (Edward Winter)",
+          "dcterms:publisher": "Chess Notes by Edward Winter",
+          "schema:url": "https://chesshistory.com/winter/extra/zukertortblackburne.html",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "J.H. Zukertort's Alleged Accomplishments (Edward Winter)",
+          "dcterms:publisher": "Chess Notes by Edward Winter",
+          "schema:url": "https://www.chesshistory.com/winter/extra/zukertort.html",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/players/johannes-zukertort.md",
+      "skos:altLabel": [
+        "Johannes Hermann Zukertort",
+        "Johann Zukertort",
+        "J. H. Zukertort",
+        "Zukertort",
+        "Jan Hermann Zukertort"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:history-of-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:wilhelm-steinitz"
+        },
+        {
+          "@id": "kt:adolf-anderssen"
+        },
+        {
+          "@id": "kt:blindfold-chess"
+        },
+        {
+          "@id": "kt:joseph-henry-blackburne"
+        },
+        {
+          "@id": "kt:zukertort-opening"
+        }
+      ],
+      "kto:playedIn": [
+        {
+          "@id": "kt:world-chess-championship-1886"
+        },
+        {
+          "@id": "kt:london-1883"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:zukertort-versus-blackburne-london-1883"
+        }
+      ]
+    },
+    {
       "@id": "kt:jose-raul-capablanca",
       "@type": "kto:Player",
       "skos:prefLabel": "José Raúl Capablanca",

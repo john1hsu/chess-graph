@@ -9,7 +9,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:sveshnikov-variation` | `kt:backward-pawn`, `kt:outpost`, `kt:dragon-variation`, `kt:sicilian-defence` |
 | `kt:bronstein-delay` | `kt:chess-clock`, `kt:fischer-increment`, `kt:fischer-increment` |
 | `kt:gambit` | `kt:evans-gambit`, `kt:kings-gambit`, `kt:sacrifice` |
-| `kt:johannes-zukertort` | `kt:world-chess-championship-1886`, `kt:adolf-anderssen`, `kt:wilhelm-steinitz` |
 | `kt:mikhail-chigorin` | `kt:hastings-1895`, `kt:evans-gambit`, `kt:wilhelm-steinitz` |
 | `kt:paul-morphy` | `kt:romantic-era`, `kt:initiative`, `kt:adolf-anderssen` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning`, `kt:move-ordering` |
@@ -31,6 +30,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ju-wenjun` | `kt:womens-world-chess-championship`, `kt:womens-world-chess-championship` |
 | `kt:karpov-versus-unzicker-nice-1974` | `kt:prophylaxis`, `kt:anatoly-karpov` |
 | `kt:lionel-kieseritzky` | `kt:immortal-game`, `kt:london-1851` |
+| `kt:london-1883` | `kt:world-chess-championship-1886`, `kt:johannes-zukertort` |
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position`, `kt:smothered-mate` |
 | `kt:max-euwe` | `kt:slav-defence`, `kt:alexander-alekhine` |
 | `kt:miguel-najdorf` | `kt:najdorf-variation`, `kt:blindfold-chess` |
@@ -130,6 +130,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:john-mccarthy` | `kt:alpha-beta-pruning` |
 | `kt:john-von-neumann` | `kt:minimax` |
 | `kt:josef-vancura` | `kt:vancura-position` |
+| `kt:joseph-henry-blackburne` | `kt:johannes-zukertort` |
 | `kt:kaissa` | `kt:bitboards` |
 | `kt:kasparov-versus-anand-riga-1995` | `kt:evans-gambit` |
 | `kt:kasparov-versus-topalov-wijk-aan-zee-1999` | `kt:garry-kasparov` |
@@ -146,7 +147,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:leipzig-1894` | `kt:siegbert-tarrasch` |
 | `kt:leonardo-torres-y-quevedo` | `kt:claude-shannon` |
 | `kt:levon-aronian` | `kt:fide-world-cup` |
-| `kt:london-1883` | `kt:world-chess-championship-1886` |
 | `kt:london-rules` | `kt:world-chess-championship-1927` |
 | `kt:london-system` | `kt:carlsbad-structure` |
 | `kt:long-term-working-memory` | `kt:template-theory` |
@@ -250,3 +250,5 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:yu-nasu` | `kt:nnue` |
 | `kt:yugoslav-attack` | `kt:dragon-variation` |
 | `kt:zobrist-hashing` | `kt:transposition-table` |
+| `kt:zukertort-opening` | `kt:johannes-zukertort` |
+| `kt:zukertort-versus-blackburne-london-1883` | `kt:johannes-zukertort` |

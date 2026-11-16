@@ -3076,6 +3076,34 @@
 <https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/fide-world-cup> .
 <https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-15" .
+<https://github.com/john1hsu/chess-graph/id/johannes-zukertort> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/chess-graph/id/johannes-zukertort> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
+<https://github.com/john1hsu/chess-graph/id/johannes-zukertort> <http://www.w3.org/2000/01/rdf-schema#label> "Johannes Zukertort" .
+<https://github.com/john1hsu/chess-graph/id/johannes-zukertort> <http://www.w3.org/2004/02/skos/core#altLabel> "J. H. Zukertort" .
+<https://github.com/john1hsu/chess-graph/id/johannes-zukertort> <http://www.w3.org/2004/02/skos/core#altLabel> "Jan Hermann Zukertort" .
+<https://github.com/john1hsu/chess-graph/id/johannes-zukertort> <http://www.w3.org/2004/02/skos/core#altLabel> "Johann Zukertort" .
+<https://github.com/john1hsu/chess-graph/id/johannes-zukertort> <http://www.w3.org/2004/02/skos/core#altLabel> "Johannes Hermann Zukertort" .
+<https://github.com/john1hsu/chess-graph/id/johannes-zukertort> <http://www.w3.org/2004/02/skos/core#altLabel> "Zukertort" .
+<https://github.com/john1hsu/chess-graph/id/johannes-zukertort> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/history-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/johannes-zukertort> <http://www.w3.org/2004/02/skos/core#definition> "Polish-born master (1842–1888) who worked in Germany and then England, the world's second-best player behind Steinitz for most of 1871–1886; winner of Paris 1878 and London 1883, co-editor of the Chess Monthly, a leading blindfold player, and the loser of the first official world championship match in 1886." .
+<https://github.com/john1hsu/chess-graph/id/johannes-zukertort> <http://www.w3.org/2004/02/skos/core#prefLabel> "Johannes Zukertort" .
+<https://github.com/john1hsu/chess-graph/id/johannes-zukertort> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/adolf-anderssen> .
+<https://github.com/john1hsu/chess-graph/id/johannes-zukertort> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/blindfold-chess> .
+<https://github.com/john1hsu/chess-graph/id/johannes-zukertort> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/joseph-henry-blackburne> .
+<https://github.com/john1hsu/chess-graph/id/johannes-zukertort> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> .
+<https://github.com/john1hsu/chess-graph/id/johannes-zukertort> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/zukertort-opening> .
+<https://github.com/john1hsu/chess-graph/id/johannes-zukertort> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/johannes-zukertort/s1> .
+<https://github.com/john1hsu/chess-graph/id/johannes-zukertort> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/johannes-zukertort/s2> .
+<https://github.com/john1hsu/chess-graph/id/johannes-zukertort> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/johannes-zukertort/s3> .
+<https://github.com/john1hsu/chess-graph/id/johannes-zukertort> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/johannes-zukertort/s4> .
+<https://github.com/john1hsu/chess-graph/id/johannes-zukertort> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/johannes-zukertort/s5> .
+<https://github.com/john1hsu/chess-graph/id/johannes-zukertort> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/johannes-zukertort/s6> .
+<https://github.com/john1hsu/chess-graph/id/johannes-zukertort> <https://github.com/john1hsu/chess-graph/ontology#domain> "players" .
+<https://github.com/john1hsu/chess-graph/id/johannes-zukertort> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/zukertort-versus-blackburne-london-1883> .
+<https://github.com/john1hsu/chess-graph/id/johannes-zukertort> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/london-1883> .
+<https://github.com/john1hsu/chess-graph/id/johannes-zukertort> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> .
+<https://github.com/john1hsu/chess-graph/id/johannes-zukertort> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/johannes-zukertort> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-16" .
 <https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
 <https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <http://www.w3.org/2000/01/rdf-schema#label> "José Raúl Capablanca" .
@@ -7939,6 +7967,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s9> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/javokhir-sindarov/s9> <https://schema.org/url> "https://en.chessbase.com/post/chess-olympiad-2026-11" .
+<https://github.com/john1hsu/chess-graph/id/source/johannes-zukertort/s1> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
+<https://github.com/john1hsu/chess-graph/id/source/johannes-zukertort/s1> <http://purl.org/dc/terms/title> "Johannes Zukertort" .
+<https://github.com/john1hsu/chess-graph/id/source/johannes-zukertort/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/johannes-zukertort/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/johannes-zukertort/s1> <https://schema.org/url> "https://worldchesshof.org/?p=833" .
+<https://github.com/john1hsu/chess-graph/id/source/johannes-zukertort/s2> <http://purl.org/dc/terms/publisher> "JewishEncyclopedia.com" .
+<https://github.com/john1hsu/chess-graph/id/source/johannes-zukertort/s2> <http://purl.org/dc/terms/title> "Zukertort, Johannes Hermann (Jewish Encyclopedia, 1906)" .
+<https://github.com/john1hsu/chess-graph/id/source/johannes-zukertort/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/johannes-zukertort/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/johannes-zukertort/s2> <https://schema.org/url> "https://jewishencyclopedia.com/articles/15294-zukertort-johannes-hermann" .
+<https://github.com/john1hsu/chess-graph/id/source/johannes-zukertort/s3> <http://purl.org/dc/terms/publisher> "Encyclopedia.com" .
+<https://github.com/john1hsu/chess-graph/id/source/johannes-zukertort/s3> <http://purl.org/dc/terms/title> "Zukertort, Johannes (Encyclopaedia Judaica, 2nd ed., William D. Rubinstein)" .
+<https://github.com/john1hsu/chess-graph/id/source/johannes-zukertort/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/johannes-zukertort/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/johannes-zukertort/s3> <https://schema.org/url> "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/zukertort-johannes" .
+<https://github.com/john1hsu/chess-graph/id/source/johannes-zukertort/s4> <http://purl.org/dc/terms/publisher> "British Chess News" .
+<https://github.com/john1hsu/chess-graph/id/source/johannes-zukertort/s4> <http://purl.org/dc/terms/title> "Remembering Johannes Zukertort (07-ix-1842 20-vi-1888)" .
+<https://github.com/john1hsu/chess-graph/id/source/johannes-zukertort/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/johannes-zukertort/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/johannes-zukertort/s4> <https://schema.org/url> "https://britishchessnews.com/?p=6202" .
+<https://github.com/john1hsu/chess-graph/id/source/johannes-zukertort/s5> <http://purl.org/dc/terms/publisher> "Chess Notes by Edward Winter" .
+<https://github.com/john1hsu/chess-graph/id/source/johannes-zukertort/s5> <http://purl.org/dc/terms/title> "Zukertort v Blackburne (Edward Winter)" .
+<https://github.com/john1hsu/chess-graph/id/source/johannes-zukertort/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/johannes-zukertort/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/johannes-zukertort/s5> <https://schema.org/url> "https://chesshistory.com/winter/extra/zukertortblackburne.html" .
+<https://github.com/john1hsu/chess-graph/id/source/johannes-zukertort/s6> <http://purl.org/dc/terms/publisher> "Chess Notes by Edward Winter" .
+<https://github.com/john1hsu/chess-graph/id/source/johannes-zukertort/s6> <http://purl.org/dc/terms/title> "J.H. Zukertort's Alleged Accomplishments (Edward Winter)" .
+<https://github.com/john1hsu/chess-graph/id/source/johannes-zukertort/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/johannes-zukertort/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/johannes-zukertort/s6> <https://schema.org/url> "https://www.chesshistory.com/winter/extra/zukertort.html" .
 <https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s1> <http://purl.org/dc/terms/title> "José Raúl Capablanca" .
 <https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
