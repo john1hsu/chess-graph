@@ -4145,6 +4145,31 @@
     ]
   },
   {
+    "id": "kt:rook-versus-pawn",
+    "title": "Rook versus pawn",
+    "aliases": [
+      "Rook against pawn",
+      "Rook vs pawn",
+      "Rook vs. pawn",
+      "Rook versus one pawn",
+      "Rook against a lone pawn",
+      "Rook vs. one pawn"
+    ],
+    "type": "EndgameType",
+    "domain": "endgames",
+    "file": "articles/endgames/rook-versus-pawn.md",
+    "created": "2026-11-16",
+    "verified": "2026-11-16",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://shop.chess-tigers.de/cdn/shop/files/100endgames.pdf",
+      "https://www.debestezet.nl/catalog/images/PDF/Dvoretskys%20Endgame%20Manual%206th%20Edition.pdf",
+      "https://en.chessbase.com/post/new-series-fundamental-endgame-knowledge-part-1-rook-vs-pawn",
+      "https://www.charlottechesscenter.org/post/rook-vs-pawn"
+    ]
+  },
+  {
     "id": "kt:rule-of-the-square",
     "title": "Rule of the square",
     "aliases": [

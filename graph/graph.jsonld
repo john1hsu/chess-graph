@@ -3063,6 +3063,91 @@
       ]
     },
     {
+      "@id": "kt:rook-versus-pawn",
+      "@type": "kto:EndgameType",
+      "skos:prefLabel": "Rook versus pawn",
+      "skos:definition": "The endgame of king and rook against king and a single pawn. The rook normally wins when its king can reach the pawn in time or the defending king can be cut off, but a far-advanced pawn supported by its king can draw, and occasionally win, so the result turns on counting tempi and a handful of special resources.",
+      "kto:domain": "endgames",
+      "dcterms:created": "2026-11-16",
+      "kto:verified": "2026-11-16",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "100 Endgames You Must Know, sixth improved edition (sample pages: chapter 5, Rook vs. Pawn)",
+          "dcterms:publisher": "Jesús de la Villa, New In Chess (2023); excerpt hosted by Chess Tigers",
+          "schema:url": "https://shop.chess-tigers.de/cdn/shop/files/100endgames.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Dvoretsky's Endgame Manual, sixth edition (excerpt: contents and chapter 9 sample)",
+          "dcterms:publisher": "Mark Dvoretsky, revised by Karsten Müller and Alex Fishbein, Russell Enterprises (2025); excerpt hosted by De Beste Zet",
+          "schema:url": "https://www.debestezet.nl/catalog/images/PDF/Dvoretskys%20Endgame%20Manual%206th%20Edition.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "New series \"Fundamental Endgame Knowledge\" – Part 1: Rook vs. pawn",
+          "dcterms:publisher": "Karsten Müller, ChessBase News (7 January 2023)",
+          "schema:url": "https://en.chessbase.com/post/new-series-fundamental-endgame-knowledge-part-1-rook-vs-pawn",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Rook vs Pawn (Endgame Column)",
+          "dcterms:publisher": "Charlotte Chess Center",
+          "schema:url": "https://www.charlottechesscenter.org/post/rook-vs-pawn",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/endgames/rook-versus-pawn.md",
+      "skos:altLabel": [
+        "Rook against pawn",
+        "Rook vs pawn",
+        "Rook vs. pawn",
+        "Rook versus one pawn",
+        "Rook against a lone pawn",
+        "Rook vs. one pawn"
+      ],
+      "kto:fen": "4R3/8/7K/8/1kp5/8/8/8 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-endgame"
+        },
+        {
+          "@id": "kt:rook-endgames"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:passed-pawn"
+        },
+        {
+          "@id": "kt:stalemate"
+        },
+        {
+          "@id": "kt:saavedra-position"
+        },
+        {
+          "@id": "kt:endgame-tablebases"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:cutting-off-the-king"
+        },
+        {
+          "@id": "kt:shouldering"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:underpromotion"
+        },
+        {
+          "@id": "kt:outflanking"
+        }
+      ]
+    },
+    {
       "@id": "kt:rule-of-the-square",
       "@type": "kto:Technique",
       "skos:prefLabel": "Rule of the square",

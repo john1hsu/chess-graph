@@ -4643,6 +4643,35 @@
 <https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> <https://github.com/john1hsu/chess-graph/ontology#fen> "7k/p1R5/1p3KP1/3p1p2/P2Pr3/8/8/8 b - - 0 41" .
 <https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-16" .
+<https://github.com/john1hsu/chess-graph/id/rook-versus-pawn> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/chess-graph/id/rook-versus-pawn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#EndgameType> .
+<https://github.com/john1hsu/chess-graph/id/rook-versus-pawn> <http://www.w3.org/2000/01/rdf-schema#label> "Rook versus pawn" .
+<https://github.com/john1hsu/chess-graph/id/rook-versus-pawn> <http://www.w3.org/2004/02/skos/core#altLabel> "Rook against a lone pawn" .
+<https://github.com/john1hsu/chess-graph/id/rook-versus-pawn> <http://www.w3.org/2004/02/skos/core#altLabel> "Rook against pawn" .
+<https://github.com/john1hsu/chess-graph/id/rook-versus-pawn> <http://www.w3.org/2004/02/skos/core#altLabel> "Rook versus one pawn" .
+<https://github.com/john1hsu/chess-graph/id/rook-versus-pawn> <http://www.w3.org/2004/02/skos/core#altLabel> "Rook vs pawn" .
+<https://github.com/john1hsu/chess-graph/id/rook-versus-pawn> <http://www.w3.org/2004/02/skos/core#altLabel> "Rook vs. one pawn" .
+<https://github.com/john1hsu/chess-graph/id/rook-versus-pawn> <http://www.w3.org/2004/02/skos/core#altLabel> "Rook vs. pawn" .
+<https://github.com/john1hsu/chess-graph/id/rook-versus-pawn> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-endgame> .
+<https://github.com/john1hsu/chess-graph/id/rook-versus-pawn> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/rook-endgames> .
+<https://github.com/john1hsu/chess-graph/id/rook-versus-pawn> <http://www.w3.org/2004/02/skos/core#definition> "The endgame of king and rook against king and a single pawn. The rook normally wins when its king can reach the pawn in time or the defending king can be cut off, but a far-advanced pawn supported by its king can draw, and occasionally win, so the result turns on counting tempi and a handful of special resources." .
+<https://github.com/john1hsu/chess-graph/id/rook-versus-pawn> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rook versus pawn" .
+<https://github.com/john1hsu/chess-graph/id/rook-versus-pawn> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/endgame-tablebases> .
+<https://github.com/john1hsu/chess-graph/id/rook-versus-pawn> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/passed-pawn> .
+<https://github.com/john1hsu/chess-graph/id/rook-versus-pawn> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/saavedra-position> .
+<https://github.com/john1hsu/chess-graph/id/rook-versus-pawn> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/stalemate> .
+<https://github.com/john1hsu/chess-graph/id/rook-versus-pawn> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/rook-versus-pawn/s1> .
+<https://github.com/john1hsu/chess-graph/id/rook-versus-pawn> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/rook-versus-pawn/s2> .
+<https://github.com/john1hsu/chess-graph/id/rook-versus-pawn> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/rook-versus-pawn/s3> .
+<https://github.com/john1hsu/chess-graph/id/rook-versus-pawn> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/rook-versus-pawn/s4> .
+<https://github.com/john1hsu/chess-graph/id/rook-versus-pawn> <https://github.com/john1hsu/chess-graph/ontology#domain> "endgames" .
+<https://github.com/john1hsu/chess-graph/id/rook-versus-pawn> <https://github.com/john1hsu/chess-graph/ontology#fen> "4R3/8/7K/8/1kp5/8/8/8 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/rook-versus-pawn> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> .
+<https://github.com/john1hsu/chess-graph/id/rook-versus-pawn> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/shouldering> .
+<https://github.com/john1hsu/chess-graph/id/rook-versus-pawn> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/rook-versus-pawn> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/outflanking> .
+<https://github.com/john1hsu/chess-graph/id/rook-versus-pawn> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/underpromotion> .
+<https://github.com/john1hsu/chess-graph/id/rook-versus-pawn> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-16" .
 <https://github.com/john1hsu/chess-graph/id/rule-of-the-square> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/chess-graph/id/rule-of-the-square> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Technique> .
 <https://github.com/john1hsu/chess-graph/id/rule-of-the-square> <http://www.w3.org/2000/01/rdf-schema#label> "Rule of the square" .
@@ -9877,6 +9906,26 @@
 <https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
 <https://github.com/john1hsu/chess-graph/id/source/rook-on-the-seventh-rank/s7> <https://schema.org/url> "https://lichess.org/study/embed/M3mZMe8l/MshiKf1G" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-versus-pawn/s1> <http://purl.org/dc/terms/publisher> "Jesús de la Villa, New In Chess (2023); excerpt hosted by Chess Tigers" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-versus-pawn/s1> <http://purl.org/dc/terms/title> "100 Endgames You Must Know, sixth improved edition (sample pages: chapter 5, Rook vs. Pawn)" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-versus-pawn/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/rook-versus-pawn/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-versus-pawn/s1> <https://schema.org/url> "https://shop.chess-tigers.de/cdn/shop/files/100endgames.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-versus-pawn/s2> <http://purl.org/dc/terms/publisher> "Mark Dvoretsky, revised by Karsten Müller and Alex Fishbein, Russell Enterprises (2025); excerpt hosted by De Beste Zet" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-versus-pawn/s2> <http://purl.org/dc/terms/title> "Dvoretsky's Endgame Manual, sixth edition (excerpt: contents and chapter 9 sample)" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-versus-pawn/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/rook-versus-pawn/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-versus-pawn/s2> <https://schema.org/url> "https://www.debestezet.nl/catalog/images/PDF/Dvoretskys%20Endgame%20Manual%206th%20Edition.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-versus-pawn/s3> <http://purl.org/dc/terms/publisher> "Karsten Müller, ChessBase News (7 January 2023)" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-versus-pawn/s3> <http://purl.org/dc/terms/title> "New series \"Fundamental Endgame Knowledge\" – Part 1: Rook vs. pawn" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-versus-pawn/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/rook-versus-pawn/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-versus-pawn/s3> <https://schema.org/url> "https://en.chessbase.com/post/new-series-fundamental-endgame-knowledge-part-1-rook-vs-pawn" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-versus-pawn/s4> <http://purl.org/dc/terms/publisher> "Charlotte Chess Center" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-versus-pawn/s4> <http://purl.org/dc/terms/title> "Rook vs Pawn (Endgame Column)" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-versus-pawn/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/rook-versus-pawn/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/rook-versus-pawn/s4> <https://schema.org/url> "https://www.charlottechesscenter.org/post/rook-vs-pawn" .
 <https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s1> <http://purl.org/dc/terms/publisher> "Mark Dvoretsky, revised by Karsten Müller and Alex Fishbein, Russell Enterprises (2025); excerpt hosted by De Beste Zet" .
 <https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s1> <http://purl.org/dc/terms/title> "Dvoretsky's Endgame Manual, sixth edition (excerpt with table of contents)" .
 <https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

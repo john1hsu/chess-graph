@@ -34,10 +34,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:miguel-najdorf` | `kt:najdorf-variation`, `kt:blindfold-chess` |
 | `kt:numeric-annotation-glyphs` | `kt:portable-game-notation`, `kt:annotating-your-games` |
 | `kt:origins-of-chess` | `kt:chaturanga`, `kt:history-of-chess` |
+| `kt:outflanking` | `kt:rook-versus-pawn`, `kt:shouldering` |
 | `kt:overprotection` | `kt:prophylaxis`, `kt:prophylaxis` |
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
 | `kt:philidor-defence` | `kt:adams-versus-torre-new-orleans-1920`, `kt:francois-andre-danican-philidor` |
-| `kt:rook-versus-pawn` | `kt:cutting-off-the-king`, `kt:shouldering` |
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:zugzwang`, `kt:aron-nimzowitsch` |
 | `kt:scout-algorithm` | `kt:principal-variation-search`, `kt:principal-variation-search` |
 | `kt:simplification` | `kt:material-advantage`, `kt:material-advantage` |
@@ -173,7 +173,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:open-ruy-lopez` | `kt:ruy-lopez` |
 | `kt:opening-surprise` | `kt:opening-repertoire` |
 | `kt:otto-selz` | `kt:adriaan-de-groot` |
-| `kt:outflanking` | `kt:shouldering` |
 | `kt:panov-botvinnik-attack` | `kt:caro-kann-defence` |
 | `kt:passive-rook-defence` | `kt:philidor-position` |
 | `kt:paul-keres` | `kt:correspondence-chess` |
