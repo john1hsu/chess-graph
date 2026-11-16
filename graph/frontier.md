@@ -37,8 +37,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:origins-of-chess` | `kt:chaturanga`, `kt:history-of-chess` |
 | `kt:overprotection` | `kt:prophylaxis`, `kt:prophylaxis` |
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
+| `kt:rook-versus-pawn` | `kt:cutting-off-the-king`, `kt:shouldering` |
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:zugzwang`, `kt:aron-nimzowitsch` |
-| `kt:shouldering` | `kt:cutting-off-the-king`, `kt:wrong-bishop` |
 | `kt:simplification` | `kt:material-advantage`, `kt:material-advantage` |
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
 | `kt:static-exchange-evaluation` | `kt:move-ordering`, `kt:quiescence-search` |
@@ -169,6 +169,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:open-ruy-lopez` | `kt:ruy-lopez` |
 | `kt:opening-surprise` | `kt:opening-repertoire` |
 | `kt:otto-selz` | `kt:adriaan-de-groot` |
+| `kt:outflanking` | `kt:shouldering` |
 | `kt:panov-botvinnik-attack` | `kt:caro-kann-defence` |
 | `kt:passive-rook-defence` | `kt:philidor-position` |
 | `kt:paul-keres` | `kt:correspondence-chess` |
@@ -197,7 +198,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:retractor` | `kt:retrograde-analysis` |
 | `kt:richard-reti` | `kt:hypermodernism` |
 | `kt:robert-hyatt` | `kt:bitboards` |
-| `kt:rook-versus-pawn` | `kt:cutting-off-the-king` |
 | `kt:rubinstein-variation` | `kt:nimzo-indian-defence` |
 | `kt:rudolf-huber` | `kt:universal-chess-interface` |
 | `kt:rudolf-spielmann` | `kt:sacrifice` |

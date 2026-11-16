@@ -4276,6 +4276,32 @@
     ]
   },
   {
+    "id": "kt:shouldering",
+    "title": "Shouldering",
+    "aliases": [
+      "Shouldering away",
+      "Shouldering off",
+      "Shoulder-charge",
+      "Body-check",
+      "Body check",
+      "Kings push"
+    ],
+    "type": "Technique",
+    "domain": "endgames",
+    "file": "articles/endgames/shouldering.md",
+    "created": "2026-11-16",
+    "verified": "2026-11-16",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.debestezet.nl/catalog/images/PDF/Dvoretskys%20Endgame%20Manual%206th%20Edition.pdf",
+      "https://shop.chess-tigers.de/cdn/shop/files/dem5_excerpt.pdf",
+      "https://shop.chess-tigers.de/cdn/shop/files/100endgames.pdf",
+      "https://www.chess.com/article/view/the-quotsimplestquot-thing-in-chess-part-five",
+      "https://chessmood.com/blog/rook-vs-pawn-endgame-concepts"
+    ]
+  },
+  {
     "id": "kt:sicilian-defence",
     "title": "Sicilian Defence",
     "aliases": [

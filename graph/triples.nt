@@ -4782,6 +4782,35 @@
 <https://github.com/john1hsu/chess-graph/id/shogi> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/federation-of-european-shogi-associations> .
 <https://github.com/john1hsu/chess-graph/id/shogi> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/shogi> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-15" .
+<https://github.com/john1hsu/chess-graph/id/shouldering> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/chess-graph/id/shouldering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Technique> .
+<https://github.com/john1hsu/chess-graph/id/shouldering> <http://www.w3.org/2000/01/rdf-schema#label> "Shouldering" .
+<https://github.com/john1hsu/chess-graph/id/shouldering> <http://www.w3.org/2004/02/skos/core#altLabel> "Body check" .
+<https://github.com/john1hsu/chess-graph/id/shouldering> <http://www.w3.org/2004/02/skos/core#altLabel> "Body-check" .
+<https://github.com/john1hsu/chess-graph/id/shouldering> <http://www.w3.org/2004/02/skos/core#altLabel> "Kings push" .
+<https://github.com/john1hsu/chess-graph/id/shouldering> <http://www.w3.org/2004/02/skos/core#altLabel> "Shoulder-charge" .
+<https://github.com/john1hsu/chess-graph/id/shouldering> <http://www.w3.org/2004/02/skos/core#altLabel> "Shouldering away" .
+<https://github.com/john1hsu/chess-graph/id/shouldering> <http://www.w3.org/2004/02/skos/core#altLabel> "Shouldering off" .
+<https://github.com/john1hsu/chess-graph/id/shouldering> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-endgame> .
+<https://github.com/john1hsu/chess-graph/id/shouldering> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/king-and-pawn-endgames> .
+<https://github.com/john1hsu/chess-graph/id/shouldering> <http://www.w3.org/2004/02/skos/core#definition> "The endgame technique of using one's own king as a barrier, placing it so that the enemy king cannot take the shortest route to the critical squares and must make a detour, which costs it the tempo it needed to stop or support a pawn." .
+<https://github.com/john1hsu/chess-graph/id/shouldering> <http://www.w3.org/2004/02/skos/core#prefLabel> "Shouldering" .
+<https://github.com/john1hsu/chess-graph/id/shouldering> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/key-squares> .
+<https://github.com/john1hsu/chess-graph/id/shouldering> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/opposition> .
+<https://github.com/john1hsu/chess-graph/id/shouldering> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/rook-endgames> .
+<https://github.com/john1hsu/chess-graph/id/shouldering> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/rule-of-the-square> .
+<https://github.com/john1hsu/chess-graph/id/shouldering> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/shouldering/s1> .
+<https://github.com/john1hsu/chess-graph/id/shouldering> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/shouldering/s2> .
+<https://github.com/john1hsu/chess-graph/id/shouldering> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/shouldering/s3> .
+<https://github.com/john1hsu/chess-graph/id/shouldering> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/shouldering/s4> .
+<https://github.com/john1hsu/chess-graph/id/shouldering> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/shouldering/s5> .
+<https://github.com/john1hsu/chess-graph/id/shouldering> <https://github.com/john1hsu/chess-graph/ontology#alternativeTo> <https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> .
+<https://github.com/john1hsu/chess-graph/id/shouldering> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/outflanking> .
+<https://github.com/john1hsu/chess-graph/id/shouldering> <https://github.com/john1hsu/chess-graph/ontology#domain> "endgames" .
+<https://github.com/john1hsu/chess-graph/id/shouldering> <https://github.com/john1hsu/chess-graph/ontology#fen> "8/8/8/8/7P/6K1/2k5/3r4 w - - 0 6" .
+<https://github.com/john1hsu/chess-graph/id/shouldering> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/rook-versus-pawn> .
+<https://github.com/john1hsu/chess-graph/id/shouldering> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/shouldering> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-16" .
 <https://github.com/john1hsu/chess-graph/id/sicilian-defence> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/sicilian-defence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Opening> .
 <https://github.com/john1hsu/chess-graph/id/sicilian-defence> <http://www.w3.org/2000/01/rdf-schema#label> "Sicilian Defence" .
@@ -9899,6 +9928,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/shogi/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/shogi/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/chess-graph/id/source/shogi/s7> <https://schema.org/url> "https://arxiv.org/pdf/2209.01506" .
+<https://github.com/john1hsu/chess-graph/id/source/shouldering/s1> <http://purl.org/dc/terms/publisher> "Mark Dvoretsky, revised by Karsten Müller and Alex Fishbein, Russell Enterprises (2025); excerpt hosted by De Beste Zet" .
+<https://github.com/john1hsu/chess-graph/id/source/shouldering/s1> <http://purl.org/dc/terms/title> "Dvoretsky's Endgame Manual, sixth edition (excerpt with table of contents)" .
+<https://github.com/john1hsu/chess-graph/id/source/shouldering/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/shouldering/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/shouldering/s1> <https://schema.org/url> "https://www.debestezet.nl/catalog/images/PDF/Dvoretskys%20Endgame%20Manual%206th%20Edition.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/shouldering/s2> <http://purl.org/dc/terms/publisher> "Mark Dvoretsky, revised by Karsten Müller, Russell Enterprises (2020); excerpt hosted by Chess Tigers" .
+<https://github.com/john1hsu/chess-graph/id/source/shouldering/s2> <http://purl.org/dc/terms/title> "Dvoretsky's Endgame Manual, fifth edition (excerpt with table of contents)" .
+<https://github.com/john1hsu/chess-graph/id/source/shouldering/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/shouldering/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/shouldering/s2> <https://schema.org/url> "https://shop.chess-tigers.de/cdn/shop/files/dem5_excerpt.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/shouldering/s3> <http://purl.org/dc/terms/publisher> "Jesús de la Villa, New In Chess (2023); excerpt hosted by Chess Tigers" .
+<https://github.com/john1hsu/chess-graph/id/source/shouldering/s3> <http://purl.org/dc/terms/title> "100 Endgames You Must Know, sixth improved edition (sample pages)" .
+<https://github.com/john1hsu/chess-graph/id/source/shouldering/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/shouldering/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/shouldering/s3> <https://schema.org/url> "https://shop.chess-tigers.de/cdn/shop/files/100endgames.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/shouldering/s4> <http://purl.org/dc/terms/publisher> "GM Gregory Serper, Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/shouldering/s4> <http://purl.org/dc/terms/title> "The \"Simplest\" Thing in Chess (Part Five)" .
+<https://github.com/john1hsu/chess-graph/id/source/shouldering/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/shouldering/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/shouldering/s4> <https://schema.org/url> "https://www.chess.com/article/view/the-quotsimplestquot-thing-in-chess-part-five" .
+<https://github.com/john1hsu/chess-graph/id/source/shouldering/s5> <http://purl.org/dc/terms/publisher> "GM Hovhannes Gabuzyan, Chessmood" .
+<https://github.com/john1hsu/chess-graph/id/source/shouldering/s5> <http://purl.org/dc/terms/title> "Rook vs Pawn Endgames: 8 Must-Know Concepts" .
+<https://github.com/john1hsu/chess-graph/id/source/shouldering/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/shouldering/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/shouldering/s5> <https://schema.org/url> "https://chessmood.com/blog/rook-vs-pawn-endgame-concepts" .
 <https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s1> <http://purl.org/dc/terms/publisher> "ChessBase Learn" .
 <https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s1> <http://purl.org/dc/terms/title> "The Sicilian Defence" .
 <https://github.com/john1hsu/chess-graph/id/source/sicilian-defence/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

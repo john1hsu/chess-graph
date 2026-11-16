@@ -3039,6 +3039,96 @@
       ]
     },
     {
+      "@id": "kt:shouldering",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Shouldering",
+      "skos:definition": "The endgame technique of using one's own king as a barrier, placing it so that the enemy king cannot take the shortest route to the critical squares and must make a detour, which costs it the tempo it needed to stop or support a pawn.",
+      "kto:domain": "endgames",
+      "dcterms:created": "2026-11-16",
+      "kto:verified": "2026-11-16",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Dvoretsky's Endgame Manual, sixth edition (excerpt with table of contents)",
+          "dcterms:publisher": "Mark Dvoretsky, revised by Karsten Müller and Alex Fishbein, Russell Enterprises (2025); excerpt hosted by De Beste Zet",
+          "schema:url": "https://www.debestezet.nl/catalog/images/PDF/Dvoretskys%20Endgame%20Manual%206th%20Edition.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Dvoretsky's Endgame Manual, fifth edition (excerpt with table of contents)",
+          "dcterms:publisher": "Mark Dvoretsky, revised by Karsten Müller, Russell Enterprises (2020); excerpt hosted by Chess Tigers",
+          "schema:url": "https://shop.chess-tigers.de/cdn/shop/files/dem5_excerpt.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "100 Endgames You Must Know, sixth improved edition (sample pages)",
+          "dcterms:publisher": "Jesús de la Villa, New In Chess (2023); excerpt hosted by Chess Tigers",
+          "schema:url": "https://shop.chess-tigers.de/cdn/shop/files/100endgames.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The \"Simplest\" Thing in Chess (Part Five)",
+          "dcterms:publisher": "GM Gregory Serper, Chess.com",
+          "schema:url": "https://www.chess.com/article/view/the-quotsimplestquot-thing-in-chess-part-five",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Rook vs Pawn Endgames: 8 Must-Know Concepts",
+          "dcterms:publisher": "GM Hovhannes Gabuzyan, Chessmood",
+          "schema:url": "https://chessmood.com/blog/rook-vs-pawn-endgame-concepts",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/endgames/shouldering.md",
+      "skos:altLabel": [
+        "Shouldering away",
+        "Shouldering off",
+        "Shoulder-charge",
+        "Body-check",
+        "Body check",
+        "Kings push"
+      ],
+      "kto:fen": "8/8/8/8/7P/6K1/2k5/3r4 w - - 0 6",
+      "skos:broader": [
+        {
+          "@id": "kt:king-and-pawn-endgames"
+        },
+        {
+          "@id": "kt:chess-endgame"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:rook-endgames"
+        },
+        {
+          "@id": "kt:opposition"
+        },
+        {
+          "@id": "kt:key-squares"
+        },
+        {
+          "@id": "kt:rule-of-the-square"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:cutting-off-the-king"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:rook-versus-pawn"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:outflanking"
+        }
+      ]
+    },
+    {
       "@id": "kt:triangulation",
       "@type": "kto:Technique",
       "skos:prefLabel": "Triangulation",
