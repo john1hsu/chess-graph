@@ -1547,6 +1547,33 @@
     ]
   },
   {
+    "id": "kt:dragon-variation",
+    "title": "Dragon Variation",
+    "aliases": [
+      "Sicilian Dragon",
+      "Dragon Sicilian",
+      "Sicilian Defence Dragon Variation",
+      "Sicilian Defense Dragon Variation",
+      "The Dragon",
+      "5...g6 Sicilian"
+    ],
+    "type": "Variation",
+    "domain": "openings",
+    "file": "articles/openings/dragon-variation.md",
+    "created": "2026-11-16",
+    "verified": "2026-11-16",
+    "volatile": false,
+    "status": "current",
+    "eco": "B70",
+    "source_urls": [
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/7538.pdf",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/7539.pdf",
+      "https://download.boekhuis.nl/9789493257351_fragm-docb.pdf",
+      "https://www.chesshistory.com/winter/extra/sicilian.html",
+      "https://chessgames.com/perl/chessopening?eco=B70"
+    ]
+  },
+  {
     "id": "kt:draw",
     "title": "Draw",
     "aliases": [

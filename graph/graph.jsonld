@@ -8930,6 +8930,97 @@
       ]
     },
     {
+      "@id": "kt:dragon-variation",
+      "@type": "kto:Variation",
+      "skos:prefLabel": "Dragon Variation",
+      "skos:definition": "The line of the Open Sicilian 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6, in which Black fianchettoes the king's bishop on g7 and castles short; against White's Yugoslav Attack it produces one of the sharpest opposite-side castling races in opening theory.",
+      "kto:domain": "openings",
+      "dcterms:created": "2026-11-16",
+      "kto:verified": "2026-11-16",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Grandmaster Repertoire 1: The Dragon, Volume One (sample pages)",
+          "dcterms:publisher": "Gawain Jones, Quality Chess (2015), publisher sample PDF hosted by New In Chess",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/7538.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Grandmaster Repertoire 2: The Dragon, Volume Two (sample pages)",
+          "dcterms:publisher": "Gawain Jones, Quality Chess, publisher sample PDF hosted by New In Chess",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/7539.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The Dragon Sicilian: A Take-No-Prisoners Repertoire Versus 1.e4 (sample pages)",
+          "dcterms:publisher": "Anish Giri, New In Chess (2022), sample PDF",
+          "schema:url": "https://download.boekhuis.nl/9789493257351_fragm-docb.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The Sicilian Defence",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://www.chesshistory.com/winter/extra/sicilian.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Sicilian, Dragon Variation (B70)",
+          "dcterms:publisher": "Chessgames.com",
+          "schema:url": "https://chessgames.com/perl/chessopening?eco=B70",
+          "kto:sourceType": "database"
+        }
+      ],
+      "kto:file": "articles/openings/dragon-variation.md",
+      "skos:altLabel": [
+        "Sicilian Dragon",
+        "Dragon Sicilian",
+        "Sicilian Defence Dragon Variation",
+        "Sicilian Defense Dragon Variation",
+        "The Dragon",
+        "5...g6 Sicilian"
+      ],
+      "kto:eco": "B70",
+      "kto:moves": "1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6",
+      "skos:broader": [
+        {
+          "@id": "kt:sicilian-defence"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:backward-pawn"
+        },
+        {
+          "@id": "kt:king-safety"
+        },
+        {
+          "@id": "kt:outpost"
+        },
+        {
+          "@id": "kt:castling"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:najdorf-variation"
+        },
+        {
+          "@id": "kt:sveshnikov-variation"
+        }
+      ],
+      "kto:leadsTo": [
+        {
+          "@id": "kt:yugoslav-attack"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:exchange-sacrifice"
+        }
+      ]
+    },
+    {
       "@id": "kt:evans-gambit",
       "@type": "kto:Variation",
       "skos:prefLabel": "Evans Gambit",
