@@ -186,6 +186,31 @@
     ]
   },
   {
+    "id": "kt:allumwandlung",
+    "title": "Allumwandlung",
+    "aliases": [
+      "AUW",
+      "Allumwandlung theme",
+      "Total promotion",
+      "Omnipromotion",
+      "Four-promotion task"
+    ],
+    "type": "ProblemTheme",
+    "domain": "variants-and-compositions",
+    "file": "articles/variants-and-compositions/allumwandlung.md",
+    "created": "2026-11-16",
+    "verified": "2026-11-16",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.theproblemist.org/dloads/cjm/Chapter_14.pdf",
+      "https://www.theproblemist.org/dloads/cjm/Chapter_15.pdf",
+      "https://en.chessbase.com/post/underpromotion-milestones",
+      "https://www.ozproblems.com/problem-world/auw",
+      "https://www.chabris.com/pub/acj/extra/Elkies/Elkies07.html"
+    ]
+  },
+  {
     "id": "kt:alpha-beta-pruning",
     "title": "Alpha-beta pruning",
     "aliases": [

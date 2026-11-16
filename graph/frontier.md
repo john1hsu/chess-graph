@@ -50,12 +50,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:abstract-strategy-game` | `kt:chess` |
 | `kt:alfred-binet` | `kt:cognitive-psychology-of-chess` |
 | `kt:allen-newell` | `kt:herbert-simon` |
-| `kt:allumwandlung` | `kt:excelsior` |
 | `kt:antonin-novotny` | `kt:novotny-theme` |
 | `kt:arpad-elo` | `kt:elo-rating-system` |
 | `kt:artificial-intelligence` | `kt:computer-chess` |
 | `kt:as-suli` | `kt:shatranj` |
 | `kt:asian-chess-federation` | `kt:european-chess-union` |
+| `kt:babson-task` | `kt:allumwandlung` |
 | `kt:baden-baden-1870` | `kt:adolf-anderssen` |
 | `kt:baku-acceleration` | `kt:swiss-system` |
 | `kt:board-representation` | `kt:bitboards` |

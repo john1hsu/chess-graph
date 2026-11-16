@@ -18996,6 +18996,93 @@
       ]
     },
     {
+      "@id": "kt:allumwandlung",
+      "@type": "kto:ProblemTheme",
+      "skos:prefLabel": "Allumwandlung",
+      "skos:definition": "A chess composition task, abbreviated AUW, in which promotions to all four possible pieces (queen, rook, bishop and knight) occur in the solution of one problem or study.",
+      "kto:domain": "variants-and-compositions",
+      "dcterms:created": "2026-11-16",
+      "kto:verified": "2026-11-16",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Chess Problems: Tasks and Records (3rd edition), Chapter 14: Pawn Promotion",
+          "dcterms:publisher": "Jeremy Morse; hosted by the British Chess Problem Society (The Problemist)",
+          "schema:url": "https://www.theproblemist.org/dloads/cjm/Chapter_14.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Chess Problems: Tasks and Records (3rd edition), Chapter 15: The Babson Task",
+          "dcterms:publisher": "Jeremy Morse; hosted by the British Chess Problem Society (The Problemist)",
+          "schema:url": "https://www.theproblemist.org/dloads/cjm/Chapter_15.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Underpromotion Milestones",
+          "dcterms:publisher": "Harold van der Heijden, ChessBase News (25 October 2024)",
+          "schema:url": "https://en.chessbase.com/post/underpromotion-milestones",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "AUW (Allumwandlung)",
+          "dcterms:publisher": "Peter Wong, OzProblems",
+          "schema:url": "https://www.ozproblems.com/problem-world/auw",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "Endgame Explorations 7: Underpromotion (Part 2)",
+          "dcterms:publisher": "Noam Elkies, originally in Chess Horizons; hosted at chabris.com (ACJ Extra)",
+          "schema:url": "https://www.chabris.com/pub/acj/extra/Elkies/Elkies07.html",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/variants-and-compositions/allumwandlung.md",
+      "skos:altLabel": [
+        "AUW",
+        "Allumwandlung theme",
+        "Total promotion",
+        "Omnipromotion",
+        "Four-promotion task"
+      ],
+      "kto:fen": "7Q/3P2K1/P1PkB3/8/8/8/8/8 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-problems"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:excelsior"
+        },
+        {
+          "@id": "kt:babson-task"
+        },
+        {
+          "@id": "kt:endgame-study"
+        },
+        {
+          "@id": "kt:selfmate"
+        },
+        {
+          "@id": "kt:helpmate"
+        },
+        {
+          "@id": "kt:stalemate"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:pawn-promotion"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:underpromotion"
+        }
+      ]
+    },
+    {
       "@id": "kt:blindfold-chess",
       "@type": "kto:Concept",
       "skos:prefLabel": "Blindfold chess",

@@ -207,6 +207,34 @@
 <https://github.com/john1hsu/chess-graph/id/algebraic-notation> <https://github.com/john1hsu/chess-graph/ontology#replaces> <https://github.com/john1hsu/chess-graph/id/descriptive-notation> .
 <https://github.com/john1hsu/chess-graph/id/algebraic-notation> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/algebraic-notation> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/allumwandlung> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/chess-graph/id/allumwandlung> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#ProblemTheme> .
+<https://github.com/john1hsu/chess-graph/id/allumwandlung> <http://www.w3.org/2000/01/rdf-schema#label> "Allumwandlung" .
+<https://github.com/john1hsu/chess-graph/id/allumwandlung> <http://www.w3.org/2004/02/skos/core#altLabel> "AUW" .
+<https://github.com/john1hsu/chess-graph/id/allumwandlung> <http://www.w3.org/2004/02/skos/core#altLabel> "Allumwandlung theme" .
+<https://github.com/john1hsu/chess-graph/id/allumwandlung> <http://www.w3.org/2004/02/skos/core#altLabel> "Four-promotion task" .
+<https://github.com/john1hsu/chess-graph/id/allumwandlung> <http://www.w3.org/2004/02/skos/core#altLabel> "Omnipromotion" .
+<https://github.com/john1hsu/chess-graph/id/allumwandlung> <http://www.w3.org/2004/02/skos/core#altLabel> "Total promotion" .
+<https://github.com/john1hsu/chess-graph/id/allumwandlung> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-problems> .
+<https://github.com/john1hsu/chess-graph/id/allumwandlung> <http://www.w3.org/2004/02/skos/core#definition> "A chess composition task, abbreviated AUW, in which promotions to all four possible pieces (queen, rook, bishop and knight) occur in the solution of one problem or study." .
+<https://github.com/john1hsu/chess-graph/id/allumwandlung> <http://www.w3.org/2004/02/skos/core#prefLabel> "Allumwandlung" .
+<https://github.com/john1hsu/chess-graph/id/allumwandlung> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/babson-task> .
+<https://github.com/john1hsu/chess-graph/id/allumwandlung> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/endgame-study> .
+<https://github.com/john1hsu/chess-graph/id/allumwandlung> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/excelsior> .
+<https://github.com/john1hsu/chess-graph/id/allumwandlung> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/helpmate> .
+<https://github.com/john1hsu/chess-graph/id/allumwandlung> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/selfmate> .
+<https://github.com/john1hsu/chess-graph/id/allumwandlung> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/stalemate> .
+<https://github.com/john1hsu/chess-graph/id/allumwandlung> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/allumwandlung/s1> .
+<https://github.com/john1hsu/chess-graph/id/allumwandlung> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/allumwandlung/s2> .
+<https://github.com/john1hsu/chess-graph/id/allumwandlung> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/allumwandlung/s3> .
+<https://github.com/john1hsu/chess-graph/id/allumwandlung> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/allumwandlung/s4> .
+<https://github.com/john1hsu/chess-graph/id/allumwandlung> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/allumwandlung/s5> .
+<https://github.com/john1hsu/chess-graph/id/allumwandlung> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/pawn-promotion> .
+<https://github.com/john1hsu/chess-graph/id/allumwandlung> <https://github.com/john1hsu/chess-graph/ontology#domain> "variants-and-compositions" .
+<https://github.com/john1hsu/chess-graph/id/allumwandlung> <https://github.com/john1hsu/chess-graph/ontology#fen> "7Q/3P2K1/P1PkB3/8/8/8/8/8 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/allumwandlung> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/allumwandlung> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/underpromotion> .
+<https://github.com/john1hsu/chess-graph/id/allumwandlung> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-16" .
 <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <http://purl.org/dc/terms/created> "2026-11-07" .
 <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Algorithm> .
 <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> <http://www.w3.org/2000/01/rdf-schema#label> "Alpha-beta pruning" .
@@ -5477,6 +5505,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
 <https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s6> <https://schema.org/url> "https://new.uschess.org/sites/default/files/media/documents/uschess-fide-rules-comparison.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/allumwandlung/s1> <http://purl.org/dc/terms/publisher> "Jeremy Morse; hosted by the British Chess Problem Society (The Problemist)" .
+<https://github.com/john1hsu/chess-graph/id/source/allumwandlung/s1> <http://purl.org/dc/terms/title> "Chess Problems: Tasks and Records (3rd edition), Chapter 14: Pawn Promotion" .
+<https://github.com/john1hsu/chess-graph/id/source/allumwandlung/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/allumwandlung/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/allumwandlung/s1> <https://schema.org/url> "https://www.theproblemist.org/dloads/cjm/Chapter_14.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/allumwandlung/s2> <http://purl.org/dc/terms/publisher> "Jeremy Morse; hosted by the British Chess Problem Society (The Problemist)" .
+<https://github.com/john1hsu/chess-graph/id/source/allumwandlung/s2> <http://purl.org/dc/terms/title> "Chess Problems: Tasks and Records (3rd edition), Chapter 15: The Babson Task" .
+<https://github.com/john1hsu/chess-graph/id/source/allumwandlung/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/allumwandlung/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/allumwandlung/s2> <https://schema.org/url> "https://www.theproblemist.org/dloads/cjm/Chapter_15.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/allumwandlung/s3> <http://purl.org/dc/terms/publisher> "Harold van der Heijden, ChessBase News (25 October 2024)" .
+<https://github.com/john1hsu/chess-graph/id/source/allumwandlung/s3> <http://purl.org/dc/terms/title> "Underpromotion Milestones" .
+<https://github.com/john1hsu/chess-graph/id/source/allumwandlung/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/allumwandlung/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/allumwandlung/s3> <https://schema.org/url> "https://en.chessbase.com/post/underpromotion-milestones" .
+<https://github.com/john1hsu/chess-graph/id/source/allumwandlung/s4> <http://purl.org/dc/terms/publisher> "Peter Wong, OzProblems" .
+<https://github.com/john1hsu/chess-graph/id/source/allumwandlung/s4> <http://purl.org/dc/terms/title> "AUW (Allumwandlung)" .
+<https://github.com/john1hsu/chess-graph/id/source/allumwandlung/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/allumwandlung/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/allumwandlung/s4> <https://schema.org/url> "https://www.ozproblems.com/problem-world/auw" .
+<https://github.com/john1hsu/chess-graph/id/source/allumwandlung/s5> <http://purl.org/dc/terms/publisher> "Noam Elkies, originally in Chess Horizons; hosted at chabris.com (ACJ Extra)" .
+<https://github.com/john1hsu/chess-graph/id/source/allumwandlung/s5> <http://purl.org/dc/terms/title> "Endgame Explorations 7: Underpromotion (Part 2)" .
+<https://github.com/john1hsu/chess-graph/id/source/allumwandlung/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/allumwandlung/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/allumwandlung/s5> <https://schema.org/url> "https://www.chabris.com/pub/acj/extra/Elkies/Elkies07.html" .
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s1> <http://purl.org/dc/terms/publisher> "Computer History Museum (Mastering the Game exhibit)" .
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s1> <http://purl.org/dc/terms/title> "The Minimax Algorithm and Alpha-Beta Pruning" .
 <https://github.com/john1hsu/chess-graph/id/source/alpha-beta-pruning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
