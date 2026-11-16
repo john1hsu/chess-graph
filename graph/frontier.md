@@ -6,13 +6,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:alexander-alekhine`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:boris-spassky`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:magnus-carlsen`, `kt:mikhail-botvinnik`, `kt:mikhail-tal`, `kt:tigran-petrosian`, `kt:viswanathan-anand`, `kt:wilhelm-steinitz` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:the-turk`, `kt:herbert-simon` |
+| `kt:paul-morphy` | `kt:opera-game`, `kt:romantic-era`, `kt:initiative`, `kt:adolf-anderssen` |
 | `kt:vladimir-kramnik` | `kt:alphazero`, `kt:ruy-lopez`, `kt:garry-kasparov`, `kt:viswanathan-anand` |
 | `kt:alekhines-gun` | `kt:open-file`, `kt:rook-on-the-seventh-rank`, `kt:alexander-alekhine` |
 | `kt:aspiration-window` | `kt:iterative-deepening`, `kt:principal-variation-search`, `kt:principal-variation-search` |
 | `kt:bronstein-delay` | `kt:chess-clock`, `kt:fischer-increment`, `kt:fischer-increment` |
 | `kt:gambit` | `kt:evans-gambit`, `kt:kings-gambit`, `kt:sacrifice` |
 | `kt:mikhail-chigorin` | `kt:hastings-1895`, `kt:evans-gambit`, `kt:wilhelm-steinitz` |
-| `kt:paul-morphy` | `kt:romantic-era`, `kt:initiative`, `kt:adolf-anderssen` |
+| `kt:philidor-defence` | `kt:adams-versus-torre-new-orleans-1920`, `kt:opera-game`, `kt:francois-andre-danican-philidor` |
 | `kt:top-chess-engine-championship` | `kt:leela-chess-zero`, `kt:opening-book`, `kt:stockfish` |
 | `kt:albin-countergambit` | `kt:queens-gambit`, `kt:underpromotion` |
 | `kt:alekhine-versus-nimzowitsch-san-remo-1930` | `kt:open-file`, `kt:alexander-alekhine` |
@@ -21,6 +22,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:botvinnik-versus-capablanca-avro-1938` | `kt:soviet-chess-school`, `kt:mikhail-botvinnik` |
 | `kt:carlsen-versus-anand-sochi-2014-game-6` | `kt:magnus-carlsen`, `kt:zwischenzug` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
+| `kt:development` | `kt:opera-game`, `kt:initiative` |
 | `kt:exchange-sacrifice` | `kt:dragon-variation`, `kt:sacrifice` |
 | `kt:extended-position-description` | `kt:forsyth-edwards-notation`, `kt:portable-game-notation` |
 | `kt:howard-staunton` | `kt:london-1851`, `kt:london-1851` |
@@ -36,7 +38,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:outflanking` | `kt:rook-versus-pawn`, `kt:shouldering` |
 | `kt:overprotection` | `kt:prophylaxis`, `kt:prophylaxis` |
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
-| `kt:philidor-defence` | `kt:adams-versus-torre-new-orleans-1920`, `kt:francois-andre-danican-philidor` |
 | `kt:round-robin` | `kt:swiss-system`, `kt:tata-steel-chess-tournament` |
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:zugzwang`, `kt:aron-nimzowitsch` |
 | `kt:scout-algorithm` | `kt:principal-variation-search`, `kt:principal-variation-search` |
@@ -84,7 +85,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:david-forsyth` | `kt:forsyth-edwards-notation` |
 | `kt:deep-blue` | `kt:deep-blue-versus-kasparov` |
 | `kt:deepmind` | `kt:alphazero` |
-| `kt:development` | `kt:initiative` |
 | `kt:ding-liren` | `kt:gukesh-dommaraju` |
 | `kt:ding-versus-gukesh-singapore-2024-game-14` | `kt:gukesh-dommaraju` |
 | `kt:dutch-system` | `kt:swiss-system` |

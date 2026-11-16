@@ -3923,6 +3923,33 @@
 <https://github.com/john1hsu/chess-graph/id/opening-repertoire> <https://github.com/john1hsu/chess-graph/ontology#domain> "training-and-improvement" .
 <https://github.com/john1hsu/chess-graph/id/opening-repertoire> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/opening-repertoire> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-15" .
+<https://github.com/john1hsu/chess-graph/id/opera-game> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/chess-graph/id/opera-game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Game> .
+<https://github.com/john1hsu/chess-graph/id/opera-game> <http://www.w3.org/2000/01/rdf-schema#label> "Opera Game" .
+<https://github.com/john1hsu/chess-graph/id/opera-game> <http://www.w3.org/2004/02/skos/core#altLabel> "Morphy versus the Duke of Brunswick and Count Isouard" .
+<https://github.com/john1hsu/chess-graph/id/opera-game> <http://www.w3.org/2004/02/skos/core#altLabel> "Morphy vs the Duke and the Count" .
+<https://github.com/john1hsu/chess-graph/id/opera-game> <http://www.w3.org/2004/02/skos/core#altLabel> "Morphy–Brunswick–Isouard Paris 1858" .
+<https://github.com/john1hsu/chess-graph/id/opera-game> <http://www.w3.org/2004/02/skos/core#altLabel> "Opera House Game" .
+<https://github.com/john1hsu/chess-graph/id/opera-game> <http://www.w3.org/2004/02/skos/core#altLabel> "The Opera Game" .
+<https://github.com/john1hsu/chess-graph/id/opera-game> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/romantic-era> .
+<https://github.com/john1hsu/chess-graph/id/opera-game> <http://www.w3.org/2004/02/skos/core#definition> "The casual game Paul Morphy won in Paris in 1858 against the consulting pair Duke Karl II of Brunswick and Count Isouard, reputedly in the Duke's box at the Italian Opera; a 17-move Philidor Defence that ends with a queen sacrifice and rook mate, and the standard textbook model of rapid development and opening lines against an uncastled king." .
+<https://github.com/john1hsu/chess-graph/id/opera-game> <http://www.w3.org/2004/02/skos/core#prefLabel> "Opera Game" .
+<https://github.com/john1hsu/chess-graph/id/opera-game> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/back-rank-mate> .
+<https://github.com/john1hsu/chess-graph/id/opera-game> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/initiative> .
+<https://github.com/john1hsu/chess-graph/id/opera-game> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/philidor-defence> .
+<https://github.com/john1hsu/chess-graph/id/opera-game> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/pin> .
+<https://github.com/john1hsu/chess-graph/id/opera-game> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/opera-game/s1> .
+<https://github.com/john1hsu/chess-graph/id/opera-game> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/opera-game/s2> .
+<https://github.com/john1hsu/chess-graph/id/opera-game> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/opera-game/s3> .
+<https://github.com/john1hsu/chess-graph/id/opera-game> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/opera-game/s4> .
+<https://github.com/john1hsu/chess-graph/id/opera-game> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/opera-game/s5> .
+<https://github.com/john1hsu/chess-graph/id/opera-game> <https://github.com/john1hsu/chess-graph/ontology#domain> "history" .
+<https://github.com/john1hsu/chess-graph/id/opera-game> <https://github.com/john1hsu/chess-graph/ontology#exemplifies> <https://github.com/john1hsu/chess-graph/id/development> .
+<https://github.com/john1hsu/chess-graph/id/opera-game> <https://github.com/john1hsu/chess-graph/ontology#exemplifies> <https://github.com/john1hsu/chess-graph/id/sacrifice> .
+<https://github.com/john1hsu/chess-graph/id/opera-game> <https://github.com/john1hsu/chess-graph/ontology#fen> "1n1Rkb1r/p4ppp/4q3/4p1B1/4P3/8/PPP2PPP/2K5 b k - 1 17" .
+<https://github.com/john1hsu/chess-graph/id/opera-game> <https://github.com/john1hsu/chess-graph/ontology#playedBy> <https://github.com/john1hsu/chess-graph/id/paul-morphy> .
+<https://github.com/john1hsu/chess-graph/id/opera-game> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/opera-game> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-16" .
 <https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#EndgameType> .
 <https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> <http://www.w3.org/2000/01/rdf-schema#label> "Opposite-coloured bishops" .
@@ -9166,6 +9193,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
 <https://github.com/john1hsu/chess-graph/id/source/opening-repertoire/s7> <https://schema.org/url> "https://365chess.com/eco/C15_French_Winawer_(Nimzovich)_variation" .
+<https://github.com/john1hsu/chess-graph/id/source/opera-game/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/opera-game/s1> <http://purl.org/dc/terms/title> "Morphy v the Duke and Count (the 'Opera game'), Paris 1858" .
+<https://github.com/john1hsu/chess-graph/id/source/opera-game/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/opera-game/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/opera-game/s1> <https://schema.org/url> "https://chesshistory.com/winter/extra/morphy.html" .
+<https://github.com/john1hsu/chess-graph/id/source/opera-game/s2> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
+<https://github.com/john1hsu/chess-graph/id/source/opera-game/s2> <http://purl.org/dc/terms/title> "Paul Charles Morphy" .
+<https://github.com/john1hsu/chess-graph/id/source/opera-game/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/opera-game/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/opera-game/s2> <https://schema.org/url> "https://worldchesshof.org/inductee/paul-morphy/" .
+<https://github.com/john1hsu/chess-graph/id/source/opera-game/s3> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/opera-game/s3> <http://purl.org/dc/terms/title> "Paul Charles Morphy" .
+<https://github.com/john1hsu/chess-graph/id/source/opera-game/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/opera-game/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/opera-game/s3> <https://schema.org/url> "https://www.britannica.com/biography/Paul%2DCharles%2DMorphy" .
+<https://github.com/john1hsu/chess-graph/id/source/opera-game/s4> <http://purl.org/dc/terms/publisher> "ChessBase News (Johannes Fischer)" .
+<https://github.com/john1hsu/chess-graph/id/source/opera-game/s4> <http://purl.org/dc/terms/title> "50 games you should know: Paul Morphy – simple, powerful, strong" .
+<https://github.com/john1hsu/chess-graph/id/source/opera-game/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/opera-game/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/opera-game/s4> <https://schema.org/url> "https://en.chessbase.com/post/50-games-paul-morphy-simple-powerful-strong" .
+<https://github.com/john1hsu/chess-graph/id/source/opera-game/s5> <http://purl.org/dc/terms/publisher> "ChessBase News (Edward Winter)" .
+<https://github.com/john1hsu/chess-graph/id/source/opera-game/s5> <http://purl.org/dc/terms/title> "Edward Winter's Chess Explorations (46)" .
+<https://github.com/john1hsu/chess-graph/id/source/opera-game/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/opera-game/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/opera-game/s5> <https://schema.org/url> "https://en.chessbase.com/post/edward-winter-s-che-explorations-46-" .
 <https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s1> <http://purl.org/dc/terms/publisher> "Jesús de la Villa, New In Chess (2023); excerpt hosted by Chess Tigers" .
 <https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s1> <http://purl.org/dc/terms/title> "100 Endgames You Must Know, sixth edition (excerpt, Chapter 9: Opposite-coloured bishops)" .
 <https://github.com/john1hsu/chess-graph/id/source/opposite-coloured-bishops/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

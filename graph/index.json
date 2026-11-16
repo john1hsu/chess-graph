@@ -3501,6 +3501,31 @@
     ]
   },
   {
+    "id": "kt:opera-game",
+    "title": "Opera Game",
+    "aliases": [
+      "The Opera Game",
+      "Opera House Game",
+      "Morphy versus the Duke of Brunswick and Count Isouard",
+      "Morphy vs the Duke and the Count",
+      "Morphy–Brunswick–Isouard Paris 1858"
+    ],
+    "type": "Game",
+    "domain": "history",
+    "file": "articles/history/opera-game.md",
+    "created": "2026-11-16",
+    "verified": "2026-11-16",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://chesshistory.com/winter/extra/morphy.html",
+      "https://worldchesshof.org/inductee/paul-morphy/",
+      "https://www.britannica.com/biography/Paul%2DCharles%2DMorphy",
+      "https://en.chessbase.com/post/50-games-paul-morphy-simple-powerful-strong",
+      "https://en.chessbase.com/post/edward-winter-s-che-explorations-46-"
+    ]
+  },
+  {
     "id": "kt:opposite-coloured-bishops",
     "title": "Opposite-coloured bishops",
     "aliases": [
