@@ -10656,6 +10656,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/talent/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/talent/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/talent/s5> <https://schema.org/url> "https://en.chessbase.com/post/survey-the-role-of-talent-and-training-in-che-1" .
+<https://github.com/john1hsu/chess-graph/id/source/tata-steel-chess-tournament/s1> <http://purl.org/dc/terms/publisher> "Tata Steel Nederland" .
+<https://github.com/john1hsu/chess-graph/id/source/tata-steel-chess-tournament/s1> <http://purl.org/dc/terms/title> "Tata Steel Chess Tournament" .
+<https://github.com/john1hsu/chess-graph/id/source/tata-steel-chess-tournament/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/tata-steel-chess-tournament/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/tata-steel-chess-tournament/s1> <https://schema.org/url> "https://www.tatasteelnederland.com/en/about-tata-steel/community-involvement/tata-steel-chess-tournament" .
+<https://github.com/john1hsu/chess-graph/id/source/tata-steel-chess-tournament/s2> <http://purl.org/dc/terms/publisher> "Tata Steel Chess Tournament (official site)" .
+<https://github.com/john1hsu/chess-graph/id/source/tata-steel-chess-tournament/s2> <http://purl.org/dc/terms/title> "History" .
+<https://github.com/john1hsu/chess-graph/id/source/tata-steel-chess-tournament/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/tata-steel-chess-tournament/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/tata-steel-chess-tournament/s2> <https://schema.org/url> "https://tatasteelchess.com/about/history" .
+<https://github.com/john1hsu/chess-graph/id/source/tata-steel-chess-tournament/s3> <http://purl.org/dc/terms/publisher> "Tata Steel Chess Tournament (official site)" .
+<https://github.com/john1hsu/chess-graph/id/source/tata-steel-chess-tournament/s3> <http://purl.org/dc/terms/title> "Former champions" .
+<https://github.com/john1hsu/chess-graph/id/source/tata-steel-chess-tournament/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/tata-steel-chess-tournament/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/tata-steel-chess-tournament/s3> <https://schema.org/url> "https://tatasteelchess.com/en/node/80" .
+<https://github.com/john1hsu/chess-graph/id/source/tata-steel-chess-tournament/s4> <http://purl.org/dc/terms/publisher> "FIDE (fide.com news, February 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/tata-steel-chess-tournament/s4> <http://purl.org/dc/terms/title> "Nodirbek Abdusattorov wins Tata Steel Chess Masters 2026" .
+<https://github.com/john1hsu/chess-graph/id/source/tata-steel-chess-tournament/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/tata-steel-chess-tournament/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/tata-steel-chess-tournament/s4> <https://schema.org/url> "https://www.fide.com/?p=43321" .
+<https://github.com/john1hsu/chess-graph/id/source/tata-steel-chess-tournament/s5> <http://purl.org/dc/terms/publisher> "Chess.com News (Colin McGourty, 3 February 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/tata-steel-chess-tournament/s5> <http://purl.org/dc/terms/title> "Abdusattorov Wins 'Dream' Tata Steel Masters, Woodward Takes Challengers" .
+<https://github.com/john1hsu/chess-graph/id/source/tata-steel-chess-tournament/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/tata-steel-chess-tournament/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/tata-steel-chess-tournament/s5> <https://schema.org/url> "https://www.chess.com/news/view/abdusattorov-wins-2026-tata-steel-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/tata-steel-chess-tournament/s6> <http://purl.org/dc/terms/publisher> "ChessBase News (Johannes Fischer, 12 January 2018)" .
+<https://github.com/john1hsu/chess-graph/id/source/tata-steel-chess-tournament/s6> <http://purl.org/dc/terms/title> "Wijk aan Zee turns 80 — and other stats" .
+<https://github.com/john1hsu/chess-graph/id/source/tata-steel-chess-tournament/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/tata-steel-chess-tournament/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/tata-steel-chess-tournament/s6> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/wijk-aan-zee-turns-80-some-numbers?page=0" .
 <https://github.com/john1hsu/chess-graph/id/source/template-theory/s1> <http://purl.org/dc/terms/publisher> "Fernand Gobet and Herbert A. Simon, Brunel University Research Archive" .
 <https://github.com/john1hsu/chess-graph/id/source/template-theory/s1> <http://purl.org/dc/terms/title> "Templates in chess memory: A mechanism for recalling several boards (Cognitive Psychology 31(1), 1-40)" .
 <https://github.com/john1hsu/chess-graph/id/source/template-theory/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -11656,6 +11686,40 @@
 <https://github.com/john1hsu/chess-graph/id/talent> <https://github.com/john1hsu/chess-graph/ontology#domain> "training-and-improvement" .
 <https://github.com/john1hsu/chess-graph/id/talent> <https://github.com/john1hsu/chess-graph/ontology#status> "contested" .
 <https://github.com/john1hsu/chess-graph/id/talent> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/tata-steel-chess-tournament> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/chess-graph/id/tata-steel-chess-tournament> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Event> .
+<https://github.com/john1hsu/chess-graph/id/tata-steel-chess-tournament> <http://www.w3.org/2000/01/rdf-schema#label> "Tata Steel Chess Tournament" .
+<https://github.com/john1hsu/chess-graph/id/tata-steel-chess-tournament> <http://www.w3.org/2004/02/skos/core#altLabel> "Corus Chess Tournament" .
+<https://github.com/john1hsu/chess-graph/id/tata-steel-chess-tournament> <http://www.w3.org/2004/02/skos/core#altLabel> "Corus Chess" .
+<https://github.com/john1hsu/chess-graph/id/tata-steel-chess-tournament> <http://www.w3.org/2004/02/skos/core#altLabel> "Hoogovens Schaaktoernooi" .
+<https://github.com/john1hsu/chess-graph/id/tata-steel-chess-tournament> <http://www.w3.org/2004/02/skos/core#altLabel> "Hoogovens tournament" .
+<https://github.com/john1hsu/chess-graph/id/tata-steel-chess-tournament> <http://www.w3.org/2004/02/skos/core#altLabel> "Tata Steel Chess" .
+<https://github.com/john1hsu/chess-graph/id/tata-steel-chess-tournament> <http://www.w3.org/2004/02/skos/core#altLabel> "Tata Steel Masters" .
+<https://github.com/john1hsu/chess-graph/id/tata-steel-chess-tournament> <http://www.w3.org/2004/02/skos/core#altLabel> "Wijk aan Zee tournament" .
+<https://github.com/john1hsu/chess-graph/id/tata-steel-chess-tournament> <http://www.w3.org/2004/02/skos/core#altLabel> "Wimbledon of Chess" .
+<https://github.com/john1hsu/chess-graph/id/tata-steel-chess-tournament> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-tournament> .
+<https://github.com/john1hsu/chess-graph/id/tata-steel-chess-tournament> <http://www.w3.org/2004/02/skos/core#definition> "An annual elite chess festival in Wijk aan Zee, the Netherlands, founded in 1938 as a works event of the steel company Hoogovens; its 14-player Masters round robin is one of the most prestigious invitational tournaments in chess, played alongside a Challengers group and hundreds of amateurs." .
+<https://github.com/john1hsu/chess-graph/id/tata-steel-chess-tournament> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tata Steel Chess Tournament" .
+<https://github.com/john1hsu/chess-graph/id/tata-steel-chess-tournament> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/garry-kasparov> .
+<https://github.com/john1hsu/chess-graph/id/tata-steel-chess-tournament> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/javokhir-sindarov> .
+<https://github.com/john1hsu/chess-graph/id/tata-steel-chess-tournament> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/magnus-carlsen> .
+<https://github.com/john1hsu/chess-graph/id/tata-steel-chess-tournament> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/round-robin> .
+<https://github.com/john1hsu/chess-graph/id/tata-steel-chess-tournament> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/viswanathan-anand> .
+<https://github.com/john1hsu/chess-graph/id/tata-steel-chess-tournament> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/tata-steel-chess-tournament/s1> .
+<https://github.com/john1hsu/chess-graph/id/tata-steel-chess-tournament> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/tata-steel-chess-tournament/s2> .
+<https://github.com/john1hsu/chess-graph/id/tata-steel-chess-tournament> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/tata-steel-chess-tournament/s3> .
+<https://github.com/john1hsu/chess-graph/id/tata-steel-chess-tournament> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/tata-steel-chess-tournament/s4> .
+<https://github.com/john1hsu/chess-graph/id/tata-steel-chess-tournament> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/tata-steel-chess-tournament/s5> .
+<https://github.com/john1hsu/chess-graph/id/tata-steel-chess-tournament> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/tata-steel-chess-tournament/s6> .
+<https://github.com/john1hsu/chess-graph/id/tata-steel-chess-tournament> <https://github.com/john1hsu/chess-graph/ontology#domain> "events-and-organizations" .
+<https://github.com/john1hsu/chess-graph/id/tata-steel-chess-tournament> <https://github.com/john1hsu/chess-graph/ontology#governedBy> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/tata-steel-chess-tournament> <https://github.com/john1hsu/chess-graph/ontology#instanceOf> <https://github.com/john1hsu/chess-graph/id/chess-tournament> .
+<https://github.com/john1hsu/chess-graph/id/tata-steel-chess-tournament> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/tata-steel-chess-tournament> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-16" .
+<https://github.com/john1hsu/chess-graph/id/tata-steel-chess-tournament> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/garry-kasparov> .
+<https://github.com/john1hsu/chess-graph/id/tata-steel-chess-tournament> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/magnus-carlsen> .
+<https://github.com/john1hsu/chess-graph/id/tata-steel-chess-tournament> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/nodirbek-abdusattorov> .
+<https://github.com/john1hsu/chess-graph/id/tata-steel-chess-tournament> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/viswanathan-anand> .
 <https://github.com/john1hsu/chess-graph/id/template-theory> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/template-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#CognitiveConcept> .
 <https://github.com/john1hsu/chess-graph/id/template-theory> <http://www.w3.org/2000/01/rdf-schema#label> "Template theory" .

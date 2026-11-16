@@ -4800,6 +4800,35 @@
     ]
   },
   {
+    "id": "kt:tata-steel-chess-tournament",
+    "title": "Tata Steel Chess Tournament",
+    "aliases": [
+      "Tata Steel Chess",
+      "Tata Steel Masters",
+      "Wijk aan Zee tournament",
+      "Hoogovens tournament",
+      "Hoogovens Schaaktoernooi",
+      "Corus Chess Tournament",
+      "Corus Chess",
+      "Wimbledon of Chess"
+    ],
+    "type": "Event",
+    "domain": "events-and-organizations",
+    "file": "articles/events-and-organizations/tata-steel-chess-tournament.md",
+    "created": "2026-11-16",
+    "verified": "2026-11-16",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://www.tatasteelnederland.com/en/about-tata-steel/community-involvement/tata-steel-chess-tournament",
+      "https://tatasteelchess.com/about/history",
+      "https://tatasteelchess.com/en/node/80",
+      "https://www.fide.com/?p=43321",
+      "https://www.chess.com/news/view/abdusattorov-wins-2026-tata-steel-chess",
+      "https://en.chessbase.com/newsroom/post/wijk-aan-zee-turns-80-some-numbers?page=0"
+    ]
+  },
+  {
     "id": "kt:template-theory",
     "title": "Template theory",
     "aliases": [

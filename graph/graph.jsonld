@@ -4965,6 +4965,112 @@
       ]
     },
     {
+      "@id": "kt:tata-steel-chess-tournament",
+      "@type": "kto:Event",
+      "skos:prefLabel": "Tata Steel Chess Tournament",
+      "skos:definition": "An annual elite chess festival in Wijk aan Zee, the Netherlands, founded in 1938 as a works event of the steel company Hoogovens; its 14-player Masters round robin is one of the most prestigious invitational tournaments in chess, played alongside a Challengers group and hundreds of amateurs.",
+      "kto:domain": "events-and-organizations",
+      "dcterms:created": "2026-11-16",
+      "kto:verified": "2026-11-16",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Tata Steel Chess Tournament",
+          "dcterms:publisher": "Tata Steel Nederland",
+          "schema:url": "https://www.tatasteelnederland.com/en/about-tata-steel/community-involvement/tata-steel-chess-tournament",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "History",
+          "dcterms:publisher": "Tata Steel Chess Tournament (official site)",
+          "schema:url": "https://tatasteelchess.com/about/history",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "Former champions",
+          "dcterms:publisher": "Tata Steel Chess Tournament (official site)",
+          "schema:url": "https://tatasteelchess.com/en/node/80",
+          "kto:sourceType": "primary-record"
+        },
+        {
+          "dcterms:title": "Nodirbek Abdusattorov wins Tata Steel Chess Masters 2026",
+          "dcterms:publisher": "FIDE (fide.com news, February 2026)",
+          "schema:url": "https://www.fide.com/?p=43321",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Abdusattorov Wins 'Dream' Tata Steel Masters, Woodward Takes Challengers",
+          "dcterms:publisher": "Chess.com News (Colin McGourty, 3 February 2026)",
+          "schema:url": "https://www.chess.com/news/view/abdusattorov-wins-2026-tata-steel-chess",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Wijk aan Zee turns 80 — and other stats",
+          "dcterms:publisher": "ChessBase News (Johannes Fischer, 12 January 2018)",
+          "schema:url": "https://en.chessbase.com/newsroom/post/wijk-aan-zee-turns-80-some-numbers?page=0",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/events-and-organizations/tata-steel-chess-tournament.md",
+      "skos:altLabel": [
+        "Tata Steel Chess",
+        "Tata Steel Masters",
+        "Wijk aan Zee tournament",
+        "Hoogovens tournament",
+        "Hoogovens Schaaktoernooi",
+        "Corus Chess Tournament",
+        "Corus Chess",
+        "Wimbledon of Chess"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess-tournament"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:magnus-carlsen"
+        },
+        {
+          "@id": "kt:garry-kasparov"
+        },
+        {
+          "@id": "kt:viswanathan-anand"
+        },
+        {
+          "@id": "kt:javokhir-sindarov"
+        },
+        {
+          "@id": "kt:round-robin"
+        }
+      ],
+      "kto:instanceOf": [
+        {
+          "@id": "kt:chess-tournament"
+        }
+      ],
+      "kto:governedBy": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        }
+      ],
+      "kto:wonBy": [
+        {
+          "@id": "kt:magnus-carlsen"
+        },
+        {
+          "@id": "kt:garry-kasparov"
+        },
+        {
+          "@id": "kt:viswanathan-anand"
+        },
+        {
+          "@id": "kt:nodirbek-abdusattorov"
+        }
+      ]
+    },
+    {
       "@id": "kt:tie-break",
       "@type": "kto:Rule",
       "skos:prefLabel": "Tie-break",

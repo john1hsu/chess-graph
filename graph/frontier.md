@@ -6,6 +6,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:alexander-alekhine`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:boris-spassky`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:magnus-carlsen`, `kt:mikhail-botvinnik`, `kt:mikhail-tal`, `kt:tigran-petrosian`, `kt:wilhelm-steinitz` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:the-turk`, `kt:herbert-simon` |
+| `kt:viswanathan-anand` | `kt:tata-steel-chess-tournament`, `kt:tata-steel-chess-tournament`, `kt:gukesh-dommaraju`, `kt:magnus-carlsen` |
 | `kt:alekhines-gun` | `kt:open-file`, `kt:rook-on-the-seventh-rank`, `kt:alexander-alekhine` |
 | `kt:aspiration-window` | `kt:iterative-deepening`, `kt:principal-variation-search`, `kt:principal-variation-search` |
 | `kt:bronstein-delay` | `kt:chess-clock`, `kt:fischer-increment`, `kt:fischer-increment` |
@@ -37,13 +38,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:overprotection` | `kt:prophylaxis`, `kt:prophylaxis` |
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
 | `kt:philidor-defence` | `kt:adams-versus-torre-new-orleans-1920`, `kt:francois-andre-danican-philidor` |
+| `kt:round-robin` | `kt:swiss-system`, `kt:tata-steel-chess-tournament` |
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:zugzwang`, `kt:aron-nimzowitsch` |
 | `kt:scout-algorithm` | `kt:principal-variation-search`, `kt:principal-variation-search` |
 | `kt:simplification` | `kt:material-advantage`, `kt:material-advantage` |
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
 | `kt:static-exchange-evaluation` | `kt:move-ordering`, `kt:quiescence-search` |
 | `kt:steven-j-edwards` | `kt:forsyth-edwards-notation`, `kt:portable-game-notation` |
-| `kt:viswanathan-anand` | `kt:gukesh-dommaraju`, `kt:magnus-carlsen` |
 | `kt:abraham-luchins` | `kt:einstellung-effect` |
 | `kt:abstract-strategy-game` | `kt:chess` |
 | `kt:alfred-binet` | `kt:cognitive-psychology-of-chess` |
@@ -170,6 +171,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:move-generation` | `kt:bitboards` |
 | `kt:mvv-lva` | `kt:move-ordering` |
 | `kt:negamax` | `kt:minimax` |
+| `kt:nodirbek-abdusattorov` | `kt:tata-steel-chess-tournament` |
 | `kt:open-ruy-lopez` | `kt:ruy-lopez` |
 | `kt:opening-surprise` | `kt:opening-repertoire` |
 | `kt:otto-selz` | `kt:adriaan-de-groot` |
@@ -201,7 +203,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:retractor` | `kt:retrograde-analysis` |
 | `kt:richard-reti` | `kt:hypermodernism` |
 | `kt:robert-hyatt` | `kt:bitboards` |
-| `kt:round-robin` | `kt:swiss-system` |
 | `kt:rubinstein-variation` | `kt:nimzo-indian-defence` |
 | `kt:rudolf-huber` | `kt:universal-chess-interface` |
 | `kt:rudolf-spielmann` | `kt:sacrifice` |
