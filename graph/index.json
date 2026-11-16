@@ -2354,6 +2354,32 @@
     ]
   },
   {
+    "id": "kt:grimshaw-theme",
+    "title": "Grimshaw theme",
+    "aliases": [
+      "Grimshaw",
+      "Grimshaw interference",
+      "Grimshaw (chess problem)",
+      "Mutual interference",
+      "Pawn Grimshaw"
+    ],
+    "type": "ProblemTheme",
+    "domain": "variants-and-compositions",
+    "file": "articles/variants-and-compositions/grimshaw-theme.md",
+    "created": "2026-11-16",
+    "verified": "2026-11-16",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.chesshistory.com/winter/extra/grimshawsteinitz.html",
+      "https://archive.spectator.co.uk/article/12th-april-1957/30/chess",
+      "https://mannchess.org.uk/Made%20in%20Yorkshire/Grimshaw%20Problem%20Theme.htm",
+      "https://www.ozproblems.com/problem-world/grimshaw",
+      "https://chessbase.in/news/Understanding-the-Grimshaw",
+      "https://en.chessbase.com/post/problem-che-forgive-me-interfering-won-t-you-"
+    ]
+  },
+  {
     "id": "kt:gukesh-dommaraju",
     "title": "Gukesh Dommaraju",
     "aliases": [

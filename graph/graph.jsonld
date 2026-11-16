@@ -18548,6 +18548,95 @@
       ]
     },
     {
+      "@id": "kt:grimshaw-theme",
+      "@type": "kto:ProblemTheme",
+      "skos:prefLabel": "Grimshaw theme",
+      "skos:definition": "A chess problem theme in which two black line pieces of different kinds, classically a rook and a bishop, each block the other's line by moving to the square where their lines cross, so that each defence lets in a different white mate; named after the English composer Walter Grimshaw.",
+      "kto:domain": "variants-and-compositions",
+      "dcterms:created": "2026-11-16",
+      "kto:verified": "2026-11-16",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Grimshaw v Steinitz",
+          "dcterms:publisher": "Edward Winter, Chess Notes (2011, updated 2025)",
+          "schema:url": "https://www.chesshistory.com/winter/extra/grimshawsteinitz.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Chess (Philidor No. 97)",
+          "dcterms:publisher": "The Spectator, 12 April 1957, page 29 (The Spectator Archive)",
+          "schema:url": "https://archive.spectator.co.uk/article/12th-april-1957/30/chess",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Grimshaw Problem Theme",
+          "dcterms:publisher": "Stephen John Mann, Yorkshire Chess History (2012)",
+          "schema:url": "https://mannchess.org.uk/Made%20in%20Yorkshire/Grimshaw%20Problem%20Theme.htm",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Grimshaw",
+          "dcterms:publisher": "Peter Wong, OzProblems, Problem World",
+          "schema:url": "https://www.ozproblems.com/problem-world/grimshaw",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "The Problemist Diary Part III: Understanding the Grimshaw",
+          "dcterms:publisher": "Satanick Mukhuty, ChessBase India (20 May 2019)",
+          "schema:url": "https://chessbase.in/news/Understanding-the-Grimshaw",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Problem chess: Forgive me interfering, won't you?",
+          "dcterms:publisher": "Steve Giddins, ChessBase News (31 July 2011)",
+          "schema:url": "https://en.chessbase.com/post/problem-che-forgive-me-interfering-won-t-you-",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/variants-and-compositions/grimshaw-theme.md",
+      "skos:altLabel": [
+        "Grimshaw",
+        "Grimshaw interference",
+        "Grimshaw (chess problem)",
+        "Mutual interference",
+        "Pawn Grimshaw"
+      ],
+      "kto:fen": "B5Q1/B3P1K1/4p3/4p3/bb6/R4P2/3R3P/2r1N1Nk w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-problems"
+        },
+        {
+          "@id": "kt:interference"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:chess-composition"
+        },
+        {
+          "@id": "kt:helpmate"
+        }
+      ],
+      "kto:namedAfter": [
+        {
+          "@id": "kt:walter-grimshaw"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:novotny-theme"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:interference"
+        }
+      ]
+    },
+    {
       "@id": "kt:helpmate",
       "@type": "kto:ProblemGenre",
       "skos:prefLabel": "Helpmate",

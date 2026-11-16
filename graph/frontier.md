@@ -34,6 +34,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position`, `kt:smothered-mate` |
 | `kt:max-euwe` | `kt:slav-defence`, `kt:alexander-alekhine` |
 | `kt:miguel-najdorf` | `kt:najdorf-variation`, `kt:blindfold-chess` |
+| `kt:novotny-theme` | `kt:interference`, `kt:grimshaw-theme` |
 | `kt:origins-of-chess` | `kt:chaturanga`, `kt:history-of-chess` |
 | `kt:overprotection` | `kt:prophylaxis`, `kt:prophylaxis` |
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
@@ -111,7 +112,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:glicko-rating-system` | `kt:elo-rating-system` |
 | `kt:good-knight-versus-bad-bishop` | `kt:outpost` |
 | `kt:grand-chess-tour` | `kt:saint-louis-chess-club` |
-| `kt:grimshaw-theme` | `kt:interference` |
 | `kt:hans-berliner` | `kt:horizon-effect` |
 | `kt:harry-nelson-pillsbury` | `kt:hastings-1895` |
 | `kt:history-heuristic` | `kt:move-ordering` |
@@ -165,7 +165,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:move-generation` | `kt:bitboards` |
 | `kt:mvv-lva` | `kt:move-ordering` |
 | `kt:negamax` | `kt:minimax` |
-| `kt:novotny-theme` | `kt:interference` |
 | `kt:numeric-annotation-glyphs` | `kt:portable-game-notation` |
 | `kt:open-ruy-lopez` | `kt:ruy-lopez` |
 | `kt:opening-surprise` | `kt:opening-repertoire` |
@@ -233,6 +232,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:us-womens-chess-championship` | `kt:us-chess-championship` |
 | `kt:vera-menchik` | `kt:womens-world-chess-championship` |
 | `kt:viktor-korchnoi` | `kt:anatoly-karpov` |
+| `kt:walter-grimshaw` | `kt:grimshaw-theme` |
 | `kt:william-chase` | `kt:chunking-theory` |
 | `kt:william-davies-evans` | `kt:evans-gambit` |
 | `kt:winawer-variation` | `kt:french-defence` |

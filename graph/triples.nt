@@ -2639,6 +2639,33 @@
 <https://github.com/john1hsu/chess-graph/id/greek-gift-sacrifice> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/greek-gift-sacrifice> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/decoy> .
 <https://github.com/john1hsu/chess-graph/id/greek-gift-sacrifice> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/grimshaw-theme> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/chess-graph/id/grimshaw-theme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#ProblemTheme> .
+<https://github.com/john1hsu/chess-graph/id/grimshaw-theme> <http://www.w3.org/2000/01/rdf-schema#label> "Grimshaw theme" .
+<https://github.com/john1hsu/chess-graph/id/grimshaw-theme> <http://www.w3.org/2004/02/skos/core#altLabel> "Grimshaw (chess problem)" .
+<https://github.com/john1hsu/chess-graph/id/grimshaw-theme> <http://www.w3.org/2004/02/skos/core#altLabel> "Grimshaw interference" .
+<https://github.com/john1hsu/chess-graph/id/grimshaw-theme> <http://www.w3.org/2004/02/skos/core#altLabel> "Grimshaw" .
+<https://github.com/john1hsu/chess-graph/id/grimshaw-theme> <http://www.w3.org/2004/02/skos/core#altLabel> "Mutual interference" .
+<https://github.com/john1hsu/chess-graph/id/grimshaw-theme> <http://www.w3.org/2004/02/skos/core#altLabel> "Pawn Grimshaw" .
+<https://github.com/john1hsu/chess-graph/id/grimshaw-theme> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-problems> .
+<https://github.com/john1hsu/chess-graph/id/grimshaw-theme> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/interference> .
+<https://github.com/john1hsu/chess-graph/id/grimshaw-theme> <http://www.w3.org/2004/02/skos/core#definition> "A chess problem theme in which two black line pieces of different kinds, classically a rook and a bishop, each block the other's line by moving to the square where their lines cross, so that each defence lets in a different white mate; named after the English composer Walter Grimshaw." .
+<https://github.com/john1hsu/chess-graph/id/grimshaw-theme> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grimshaw theme" .
+<https://github.com/john1hsu/chess-graph/id/grimshaw-theme> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-composition> .
+<https://github.com/john1hsu/chess-graph/id/grimshaw-theme> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/helpmate> .
+<https://github.com/john1hsu/chess-graph/id/grimshaw-theme> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/grimshaw-theme/s1> .
+<https://github.com/john1hsu/chess-graph/id/grimshaw-theme> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/grimshaw-theme/s2> .
+<https://github.com/john1hsu/chess-graph/id/grimshaw-theme> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/grimshaw-theme/s3> .
+<https://github.com/john1hsu/chess-graph/id/grimshaw-theme> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/grimshaw-theme/s4> .
+<https://github.com/john1hsu/chess-graph/id/grimshaw-theme> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/grimshaw-theme/s5> .
+<https://github.com/john1hsu/chess-graph/id/grimshaw-theme> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/grimshaw-theme/s6> .
+<https://github.com/john1hsu/chess-graph/id/grimshaw-theme> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/novotny-theme> .
+<https://github.com/john1hsu/chess-graph/id/grimshaw-theme> <https://github.com/john1hsu/chess-graph/ontology#domain> "variants-and-compositions" .
+<https://github.com/john1hsu/chess-graph/id/grimshaw-theme> <https://github.com/john1hsu/chess-graph/ontology#fen> "B5Q1/B3P1K1/4p3/4p3/bb6/R4P2/3R3P/2r1N1Nk w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/grimshaw-theme> <https://github.com/john1hsu/chess-graph/ontology#namedAfter> <https://github.com/john1hsu/chess-graph/id/walter-grimshaw> .
+<https://github.com/john1hsu/chess-graph/id/grimshaw-theme> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/grimshaw-theme> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/interference> .
+<https://github.com/john1hsu/chess-graph/id/grimshaw-theme> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-16" .
 <https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
 <https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> <http://www.w3.org/2000/01/rdf-schema#label> "Gukesh Dommaraju" .
@@ -7547,6 +7574,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/greek-gift-sacrifice/s7> <https://schema.org/url> "https://exeterchessclub.org.uk/node/757" .
+<https://github.com/john1hsu/chess-graph/id/source/grimshaw-theme/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (2011, updated 2025)" .
+<https://github.com/john1hsu/chess-graph/id/source/grimshaw-theme/s1> <http://purl.org/dc/terms/title> "Grimshaw v Steinitz" .
+<https://github.com/john1hsu/chess-graph/id/source/grimshaw-theme/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/grimshaw-theme/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/grimshaw-theme/s1> <https://schema.org/url> "https://www.chesshistory.com/winter/extra/grimshawsteinitz.html" .
+<https://github.com/john1hsu/chess-graph/id/source/grimshaw-theme/s2> <http://purl.org/dc/terms/publisher> "The Spectator, 12 April 1957, page 29 (The Spectator Archive)" .
+<https://github.com/john1hsu/chess-graph/id/source/grimshaw-theme/s2> <http://purl.org/dc/terms/title> "Chess (Philidor No. 97)" .
+<https://github.com/john1hsu/chess-graph/id/source/grimshaw-theme/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/grimshaw-theme/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/grimshaw-theme/s2> <https://schema.org/url> "https://archive.spectator.co.uk/article/12th-april-1957/30/chess" .
+<https://github.com/john1hsu/chess-graph/id/source/grimshaw-theme/s3> <http://purl.org/dc/terms/publisher> "Stephen John Mann, Yorkshire Chess History (2012)" .
+<https://github.com/john1hsu/chess-graph/id/source/grimshaw-theme/s3> <http://purl.org/dc/terms/title> "Grimshaw Problem Theme" .
+<https://github.com/john1hsu/chess-graph/id/source/grimshaw-theme/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/grimshaw-theme/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/grimshaw-theme/s3> <https://schema.org/url> "https://mannchess.org.uk/Made%20in%20Yorkshire/Grimshaw%20Problem%20Theme.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/grimshaw-theme/s4> <http://purl.org/dc/terms/publisher> "Peter Wong, OzProblems, Problem World" .
+<https://github.com/john1hsu/chess-graph/id/source/grimshaw-theme/s4> <http://purl.org/dc/terms/title> "Grimshaw" .
+<https://github.com/john1hsu/chess-graph/id/source/grimshaw-theme/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/grimshaw-theme/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/grimshaw-theme/s4> <https://schema.org/url> "https://www.ozproblems.com/problem-world/grimshaw" .
+<https://github.com/john1hsu/chess-graph/id/source/grimshaw-theme/s5> <http://purl.org/dc/terms/publisher> "Satanick Mukhuty, ChessBase India (20 May 2019)" .
+<https://github.com/john1hsu/chess-graph/id/source/grimshaw-theme/s5> <http://purl.org/dc/terms/title> "The Problemist Diary Part III: Understanding the Grimshaw" .
+<https://github.com/john1hsu/chess-graph/id/source/grimshaw-theme/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/grimshaw-theme/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/grimshaw-theme/s5> <https://schema.org/url> "https://chessbase.in/news/Understanding-the-Grimshaw" .
+<https://github.com/john1hsu/chess-graph/id/source/grimshaw-theme/s6> <http://purl.org/dc/terms/publisher> "Steve Giddins, ChessBase News (31 July 2011)" .
+<https://github.com/john1hsu/chess-graph/id/source/grimshaw-theme/s6> <http://purl.org/dc/terms/title> "Problem chess: Forgive me interfering, won't you?" .
+<https://github.com/john1hsu/chess-graph/id/source/grimshaw-theme/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/grimshaw-theme/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/grimshaw-theme/s6> <https://schema.org/url> "https://en.chessbase.com/post/problem-che-forgive-me-interfering-won-t-you-" .
 <https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s1> <http://purl.org/dc/terms/title> "Gukesh Dommaraju" .
 <https://github.com/john1hsu/chess-graph/id/source/gukesh-dommaraju/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
