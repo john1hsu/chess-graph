@@ -32,7 +32,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position`, `kt:smothered-mate` |
 | `kt:max-euwe` | `kt:slav-defence`, `kt:alexander-alekhine` |
 | `kt:miguel-najdorf` | `kt:najdorf-variation`, `kt:blindfold-chess` |
-| `kt:novotny-theme` | `kt:interference`, `kt:grimshaw-theme` |
 | `kt:origins-of-chess` | `kt:chaturanga`, `kt:history-of-chess` |
 | `kt:overprotection` | `kt:prophylaxis`, `kt:prophylaxis` |
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
@@ -50,6 +49,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:allen-newell` | `kt:herbert-simon` |
 | `kt:allumwandlung` | `kt:excelsior` |
 | `kt:anders-ericsson` | `kt:deliberate-practice` |
+| `kt:antonin-novotny` | `kt:novotny-theme` |
 | `kt:arpad-elo` | `kt:elo-rating-system` |
 | `kt:artificial-intelligence` | `kt:computer-chess` |
 | `kt:as-suli` | `kt:shatranj` |
@@ -183,6 +183,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:philipp-stamma` | `kt:algebraic-notation` |
 | `kt:piece-values` | `kt:material-advantage` |
 | `kt:pillsbury-versus-tarrasch-hastings-1895` | `kt:hastings-1895` |
+| `kt:plachutta-theme` | `kt:novotny-theme` |
 | `kt:play-off` | `kt:tie-break` |
 | `kt:poisoned-pawn-variation` | `kt:najdorf-variation` |
 | `kt:priority-and-anticipation` | `kt:codex-of-chess-composition` |

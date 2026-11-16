@@ -19116,6 +19116,106 @@
       ]
     },
     {
+      "@id": "kt:novotny-theme",
+      "@type": "kto:ProblemTheme",
+      "skos:prefLabel": "Novotny theme",
+      "skos:definition": "A chess problem theme in which White places or sacrifices a piece on the square where the lines of two differently moving black pieces, classically a rook and a bishop, cross, so that whichever black piece captures it blocks the other; named after the Czech composer Antonín Novotný.",
+      "kto:domain": "variants-and-compositions",
+      "dcterms:created": "2026-11-16",
+      "kto:verified": "2026-11-16",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Novotny and Plachutta Themes in Chess Play",
+          "dcterms:publisher": "Edward Winter, Chess Notes (updated 24 March 2024)",
+          "schema:url": "https://chesshistory.com/winter/extra/novotnyplachutta.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Chess (Philidor No. 97)",
+          "dcterms:publisher": "The Spectator, 12 April 1957, page 29 (The Spectator Archive)",
+          "schema:url": "https://archive.spectator.co.uk/article/12th-april-1957/30/chess",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Jon Speelman: A few patterns",
+          "dcterms:publisher": "GM Jon Speelman, ChessBase News",
+          "schema:url": "https://en.chessbase.com/post/speelman-agony-225",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Problem chess: Forgive me interfering, won't you? (part two)",
+          "dcterms:publisher": "Steve Giddins, ChessBase News (15 August 2011)",
+          "schema:url": "https://en.chessbase.com/post/problem-che-forgive-me-interfering-won-t-you-part-two-",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Patterns of interference",
+          "dcterms:publisher": "GM Jon Speelman, ChessBase News",
+          "schema:url": "https://en.chessbase.com/post/speelman-agony-183",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Novotny",
+          "dcterms:publisher": "By-Play chess problem blog (kmoen.people.ua.edu)",
+          "schema:url": "https://kmoen.people.ua.edu/by-play-blog/novotny",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "The Art of Interference",
+          "dcterms:publisher": "Mcie, Lichess blog",
+          "schema:url": "https://lichess.org/@/Mcie/blog/the-art-of-interference/VqdhinwI",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/variants-and-compositions/novotny-theme.md",
+      "skos:altLabel": [
+        "Novotny",
+        "Nowotny",
+        "Novotny interference",
+        "Novotný theme",
+        "Novotny (chess problem)"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess-problems"
+        },
+        {
+          "@id": "kt:interference"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:endgame-study"
+        },
+        {
+          "@id": "kt:sacrifice"
+        },
+        {
+          "@id": "kt:chess-composition"
+        }
+      ],
+      "kto:namedAfter": [
+        {
+          "@id": "kt:antonin-novotny"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:grimshaw-theme"
+        },
+        {
+          "@id": "kt:plachutta-theme"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:interference"
+        }
+      ]
+    },
+    {
       "@id": "kt:retrograde-analysis",
       "@type": "kto:ProblemGenre",
       "skos:prefLabel": "Retrograde analysis",

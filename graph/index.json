@@ -3338,6 +3338,33 @@
     ]
   },
   {
+    "id": "kt:novotny-theme",
+    "title": "Novotny theme",
+    "aliases": [
+      "Novotny",
+      "Nowotny",
+      "Novotny interference",
+      "Novotný theme",
+      "Novotny (chess problem)"
+    ],
+    "type": "ProblemTheme",
+    "domain": "variants-and-compositions",
+    "file": "articles/variants-and-compositions/novotny-theme.md",
+    "created": "2026-11-16",
+    "verified": "2026-11-16",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://chesshistory.com/winter/extra/novotnyplachutta.html",
+      "https://archive.spectator.co.uk/article/12th-april-1957/30/chess",
+      "https://en.chessbase.com/post/speelman-agony-225",
+      "https://en.chessbase.com/post/problem-che-forgive-me-interfering-won-t-you-part-two-",
+      "https://en.chessbase.com/post/speelman-agony-183",
+      "https://kmoen.people.ua.edu/by-play-blog/novotny",
+      "https://lichess.org/@/Mcie/blog/the-art-of-interference/VqdhinwI"
+    ]
+  },
+  {
     "id": "kt:open-file",
     "title": "Open file",
     "aliases": [

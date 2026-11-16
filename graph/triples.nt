@@ -3743,6 +3743,35 @@
 <https://github.com/john1hsu/chess-graph/id/nnue> <https://github.com/john1hsu/chess-graph/ontology#fen> "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1" .
 <https://github.com/john1hsu/chess-graph/id/nnue> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/nnue> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/novotny-theme> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/chess-graph/id/novotny-theme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#ProblemTheme> .
+<https://github.com/john1hsu/chess-graph/id/novotny-theme> <http://www.w3.org/2000/01/rdf-schema#label> "Novotny theme" .
+<https://github.com/john1hsu/chess-graph/id/novotny-theme> <http://www.w3.org/2004/02/skos/core#altLabel> "Novotny (chess problem)" .
+<https://github.com/john1hsu/chess-graph/id/novotny-theme> <http://www.w3.org/2004/02/skos/core#altLabel> "Novotny interference" .
+<https://github.com/john1hsu/chess-graph/id/novotny-theme> <http://www.w3.org/2004/02/skos/core#altLabel> "Novotny" .
+<https://github.com/john1hsu/chess-graph/id/novotny-theme> <http://www.w3.org/2004/02/skos/core#altLabel> "Novotný theme" .
+<https://github.com/john1hsu/chess-graph/id/novotny-theme> <http://www.w3.org/2004/02/skos/core#altLabel> "Nowotny" .
+<https://github.com/john1hsu/chess-graph/id/novotny-theme> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-problems> .
+<https://github.com/john1hsu/chess-graph/id/novotny-theme> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/interference> .
+<https://github.com/john1hsu/chess-graph/id/novotny-theme> <http://www.w3.org/2004/02/skos/core#definition> "A chess problem theme in which White places or sacrifices a piece on the square where the lines of two differently moving black pieces, classically a rook and a bishop, cross, so that whichever black piece captures it blocks the other; named after the Czech composer Antonín Novotný." .
+<https://github.com/john1hsu/chess-graph/id/novotny-theme> <http://www.w3.org/2004/02/skos/core#prefLabel> "Novotny theme" .
+<https://github.com/john1hsu/chess-graph/id/novotny-theme> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-composition> .
+<https://github.com/john1hsu/chess-graph/id/novotny-theme> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/endgame-study> .
+<https://github.com/john1hsu/chess-graph/id/novotny-theme> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/sacrifice> .
+<https://github.com/john1hsu/chess-graph/id/novotny-theme> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s1> .
+<https://github.com/john1hsu/chess-graph/id/novotny-theme> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s2> .
+<https://github.com/john1hsu/chess-graph/id/novotny-theme> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s3> .
+<https://github.com/john1hsu/chess-graph/id/novotny-theme> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s4> .
+<https://github.com/john1hsu/chess-graph/id/novotny-theme> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s5> .
+<https://github.com/john1hsu/chess-graph/id/novotny-theme> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s6> .
+<https://github.com/john1hsu/chess-graph/id/novotny-theme> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s7> .
+<https://github.com/john1hsu/chess-graph/id/novotny-theme> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/grimshaw-theme> .
+<https://github.com/john1hsu/chess-graph/id/novotny-theme> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/plachutta-theme> .
+<https://github.com/john1hsu/chess-graph/id/novotny-theme> <https://github.com/john1hsu/chess-graph/ontology#domain> "variants-and-compositions" .
+<https://github.com/john1hsu/chess-graph/id/novotny-theme> <https://github.com/john1hsu/chess-graph/ontology#namedAfter> <https://github.com/john1hsu/chess-graph/id/antonin-novotny> .
+<https://github.com/john1hsu/chess-graph/id/novotny-theme> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/novotny-theme> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/interference> .
+<https://github.com/john1hsu/chess-graph/id/novotny-theme> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-16" .
 <https://github.com/john1hsu/chess-graph/id/open-file> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/chess-graph/id/open-file> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
 <https://github.com/john1hsu/chess-graph/id/open-file> <http://www.w3.org/2000/01/rdf-schema#label> "Open file" .
@@ -8840,6 +8869,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/nnue/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/nnue/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/chess-graph/id/source/nnue/s5> <https://schema.org/url> "https://arxiv.org/pdf/2209.01506" .
+<https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (updated 24 March 2024)" .
+<https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s1> <http://purl.org/dc/terms/title> "The Novotny and Plachutta Themes in Chess Play" .
+<https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s1> <https://schema.org/url> "https://chesshistory.com/winter/extra/novotnyplachutta.html" .
+<https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s2> <http://purl.org/dc/terms/publisher> "The Spectator, 12 April 1957, page 29 (The Spectator Archive)" .
+<https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s2> <http://purl.org/dc/terms/title> "Chess (Philidor No. 97)" .
+<https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s2> <https://schema.org/url> "https://archive.spectator.co.uk/article/12th-april-1957/30/chess" .
+<https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s3> <http://purl.org/dc/terms/publisher> "GM Jon Speelman, ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s3> <http://purl.org/dc/terms/title> "Jon Speelman: A few patterns" .
+<https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s3> <https://schema.org/url> "https://en.chessbase.com/post/speelman-agony-225" .
+<https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s4> <http://purl.org/dc/terms/publisher> "Steve Giddins, ChessBase News (15 August 2011)" .
+<https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s4> <http://purl.org/dc/terms/title> "Problem chess: Forgive me interfering, won't you? (part two)" .
+<https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s4> <https://schema.org/url> "https://en.chessbase.com/post/problem-che-forgive-me-interfering-won-t-you-part-two-" .
+<https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s5> <http://purl.org/dc/terms/publisher> "GM Jon Speelman, ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s5> <http://purl.org/dc/terms/title> "Patterns of interference" .
+<https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s5> <https://schema.org/url> "https://en.chessbase.com/post/speelman-agony-183" .
+<https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s6> <http://purl.org/dc/terms/publisher> "By-Play chess problem blog (kmoen.people.ua.edu)" .
+<https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s6> <http://purl.org/dc/terms/title> "Novotny" .
+<https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s6> <https://schema.org/url> "https://kmoen.people.ua.edu/by-play-blog/novotny" .
+<https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s7> <http://purl.org/dc/terms/publisher> "Mcie, Lichess blog" .
+<https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s7> <http://purl.org/dc/terms/title> "The Art of Interference" .
+<https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s7> <https://schema.org/url> "https://lichess.org/@/Mcie/blog/the-art-of-interference/VqdhinwI" .
 <https://github.com/john1hsu/chess-graph/id/source/open-file/s1> <http://purl.org/dc/terms/publisher> "Chess.com (Chess Terms)" .
 <https://github.com/john1hsu/chess-graph/id/source/open-file/s1> <http://purl.org/dc/terms/title> "Chess File" .
 <https://github.com/john1hsu/chess-graph/id/source/open-file/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
