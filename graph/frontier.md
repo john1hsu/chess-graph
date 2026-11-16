@@ -8,7 +8,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:the-turk`, `kt:herbert-simon` |
 | `kt:paul-morphy` | `kt:opera-game`, `kt:romantic-era`, `kt:initiative`, `kt:adolf-anderssen` |
 | `kt:vladimir-kramnik` | `kt:alphazero`, `kt:ruy-lopez`, `kt:garry-kasparov`, `kt:viswanathan-anand` |
-| `kt:alekhines-gun` | `kt:open-file`, `kt:rook-on-the-seventh-rank`, `kt:alexander-alekhine` |
+| `kt:alekhine-versus-nimzowitsch-san-remo-1930` | `kt:alekhines-gun`, `kt:open-file`, `kt:alexander-alekhine` |
 | `kt:aspiration-window` | `kt:iterative-deepening`, `kt:principal-variation-search`, `kt:principal-variation-search` |
 | `kt:bronstein-delay` | `kt:chess-clock`, `kt:fischer-increment`, `kt:fischer-increment` |
 | `kt:gambit` | `kt:evans-gambit`, `kt:kings-gambit`, `kt:sacrifice` |
@@ -16,8 +16,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:philidor-defence` | `kt:adams-versus-torre-new-orleans-1920`, `kt:opera-game`, `kt:francois-andre-danican-philidor` |
 | `kt:top-chess-engine-championship` | `kt:leela-chess-zero`, `kt:opening-book`, `kt:stockfish` |
 | `kt:albin-countergambit` | `kt:queens-gambit`, `kt:underpromotion` |
-| `kt:alekhine-versus-nimzowitsch-san-remo-1930` | `kt:open-file`, `kt:alexander-alekhine` |
 | `kt:alexander-kotov` | `kt:calculation`, `kt:candidate-moves` |
+| `kt:battery` | `kt:alekhines-gun`, `kt:selfmate` |
 | `kt:berlin-defence` | `kt:alphazero`, `kt:ruy-lopez` |
 | `kt:botvinnik-versus-capablanca-avro-1938` | `kt:soviet-chess-school`, `kt:mikhail-botvinnik` |
 | `kt:carlsen-versus-anand-sochi-2014-game-6` | `kt:magnus-carlsen`, `kt:zwischenzug` |
@@ -59,7 +59,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:asian-chess-federation` | `kt:european-chess-union` |
 | `kt:baden-baden-1870` | `kt:adolf-anderssen` |
 | `kt:baku-acceleration` | `kt:swiss-system` |
-| `kt:battery` | `kt:selfmate` |
 | `kt:board-representation` | `kt:bitboards` |
 | `kt:botvinnik-versus-tal-moscow-1960-game-6` | `kt:mikhail-tal` |
 | `kt:breakthrough` | `kt:passed-pawn` |

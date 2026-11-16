@@ -105,6 +105,31 @@
     ]
   },
   {
+    "id": "kt:alekhines-gun",
+    "title": "Alekhine's gun",
+    "aliases": [
+      "Alekhine's Gun",
+      "Alekhine gun",
+      "Alekhine's cannon",
+      "Queen behind doubled rooks"
+    ],
+    "type": "StrategicConcept",
+    "domain": "middlegame-strategy",
+    "file": "articles/middlegame-strategy/alekhines-gun.md",
+    "created": "2026-11-16",
+    "verified": "2026-11-16",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://chesshistory.com/winter/extra/alekhinegun.html",
+      "https://www.chesshistory.com/winter/extra/silman.html",
+      "https://www.chess.com/article/view/the-power-of-positional-chess-pt-4",
+      "https://www.chess.com/article/view/alekhines-gun2",
+      "https://chess.com/terms/alekhines-gun-chess",
+      "https://lichess.org/z2fASrJZ"
+    ]
+  },
+  {
     "id": "kt:alexander-alekhine",
     "title": "Alexander Alekhine",
     "aliases": [
