@@ -10961,6 +10961,108 @@
       ]
     },
     {
+      "@id": "kt:sveshnikov-variation",
+      "@type": "kto:Variation",
+      "skos:prefLabel": "Sveshnikov Variation",
+      "skos:definition": "The line of the Open Sicilian 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5, in which Black drives the centralised knight away at the cost of a permanent hole on d5, trading structural concessions for activity and the initiative.",
+      "kto:domain": "openings",
+      "dcterms:created": "2026-11-16",
+      "kto:verified": "2026-11-16",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Playing the Sveshnikov (sample pages)",
+          "dcterms:publisher": "Milos Pavlovic, Quality Chess (2023), publisher sample PDF hosted by New In Chess",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/8861.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Sicilian Defense: The Chelyabinsk Variation – Its Past, Present and Future",
+          "dcterms:publisher": "Gennadi Timoshchenko, Russell Enterprises (2018), publisher's page",
+          "schema:url": "https://www.russell-enterprises.com/russell-enterprises/bsicilian-defensebrbthe-chelyabinsk-variationbrbits-past-present-and-future",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "World Chess Championship Game 8: Carlsen Dodges Bullet In Sveshnikov Sicilian",
+          "dcterms:publisher": "Peter Doggers, Chess.com News (2018)",
+          "schema:url": "https://www.chess.com/news/view/world-chess-championship-game-8-another-draw-as-carlsen-dodges-bullet-in-sveshnikov",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "World Championship Game 8: Carlsen in luck",
+          "dcterms:publisher": "ChessBase News (2018)",
+          "schema:url": "https://en.chessbase.com/post/world-championship-2018-game-8",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "World Championship Game 10: Double-edged",
+          "dcterms:publisher": "ChessBase News (2018)",
+          "schema:url": "https://en.chessbase.com/post/world-championship-2018-game-10",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Sicilian (B33)",
+          "dcterms:publisher": "Chessgames.com",
+          "schema:url": "https://chessgames.com/perl/chessopening?eco=B33",
+          "kto:sourceType": "database"
+        }
+      ],
+      "kto:file": "articles/openings/sveshnikov-variation.md",
+      "skos:altLabel": [
+        "Sveshnikov Sicilian",
+        "Chelyabinsk Variation",
+        "Lasker-Pelikan Variation",
+        "Pelikan Variation",
+        "Sicilian Defence Sveshnikov Variation",
+        "Sicilian Defense Sveshnikov Variation"
+      ],
+      "kto:eco": "B33",
+      "kto:moves": "1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5",
+      "skos:broader": [
+        {
+          "@id": "kt:sicilian-defence"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:outpost"
+        },
+        {
+          "@id": "kt:backward-pawn"
+        },
+        {
+          "@id": "kt:weak-squares"
+        },
+        {
+          "@id": "kt:bishop-pair"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:najdorf-variation"
+        },
+        {
+          "@id": "kt:dragon-variation"
+        }
+      ],
+      "kto:namedAfter": [
+        {
+          "@id": "kt:evgeny-sveshnikov"
+        }
+      ],
+      "kto:championedBy": [
+        {
+          "@id": "kt:magnus-carlsen"
+        }
+      ],
+      "kto:playedIn": [
+        {
+          "@id": "kt:world-chess-championship-2018"
+        }
+      ]
+    },
+    {
       "@id": "kt:adolf-anderssen",
       "@type": "kto:Player",
       "skos:prefLabel": "Adolf Anderssen",

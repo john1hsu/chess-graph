@@ -10571,6 +10571,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/stockfish/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/stockfish/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "news" .
 <https://github.com/john1hsu/chess-graph/id/source/stockfish/s6> <https://schema.org/url> "https://www.chessdom.com/stockfish-claims-its-19th-tcec-title-defeating-reckless-in-the-superfinal/" .
+<https://github.com/john1hsu/chess-graph/id/source/sveshnikov-variation/s1> <http://purl.org/dc/terms/publisher> "Milos Pavlovic, Quality Chess (2023), publisher sample PDF hosted by New In Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/sveshnikov-variation/s1> <http://purl.org/dc/terms/title> "Playing the Sveshnikov (sample pages)" .
+<https://github.com/john1hsu/chess-graph/id/source/sveshnikov-variation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/sveshnikov-variation/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/sveshnikov-variation/s1> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/8861.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/sveshnikov-variation/s2> <http://purl.org/dc/terms/publisher> "Gennadi Timoshchenko, Russell Enterprises (2018), publisher's page" .
+<https://github.com/john1hsu/chess-graph/id/source/sveshnikov-variation/s2> <http://purl.org/dc/terms/title> "Sicilian Defense: The Chelyabinsk Variation – Its Past, Present and Future" .
+<https://github.com/john1hsu/chess-graph/id/source/sveshnikov-variation/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/sveshnikov-variation/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/sveshnikov-variation/s2> <https://schema.org/url> "https://www.russell-enterprises.com/russell-enterprises/bsicilian-defensebrbthe-chelyabinsk-variationbrbits-past-present-and-future" .
+<https://github.com/john1hsu/chess-graph/id/source/sveshnikov-variation/s3> <http://purl.org/dc/terms/publisher> "Peter Doggers, Chess.com News (2018)" .
+<https://github.com/john1hsu/chess-graph/id/source/sveshnikov-variation/s3> <http://purl.org/dc/terms/title> "World Chess Championship Game 8: Carlsen Dodges Bullet In Sveshnikov Sicilian" .
+<https://github.com/john1hsu/chess-graph/id/source/sveshnikov-variation/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/sveshnikov-variation/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/sveshnikov-variation/s3> <https://schema.org/url> "https://www.chess.com/news/view/world-chess-championship-game-8-another-draw-as-carlsen-dodges-bullet-in-sveshnikov" .
+<https://github.com/john1hsu/chess-graph/id/source/sveshnikov-variation/s4> <http://purl.org/dc/terms/publisher> "ChessBase News (2018)" .
+<https://github.com/john1hsu/chess-graph/id/source/sveshnikov-variation/s4> <http://purl.org/dc/terms/title> "World Championship Game 8: Carlsen in luck" .
+<https://github.com/john1hsu/chess-graph/id/source/sveshnikov-variation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/sveshnikov-variation/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/sveshnikov-variation/s4> <https://schema.org/url> "https://en.chessbase.com/post/world-championship-2018-game-8" .
+<https://github.com/john1hsu/chess-graph/id/source/sveshnikov-variation/s5> <http://purl.org/dc/terms/publisher> "ChessBase News (2018)" .
+<https://github.com/john1hsu/chess-graph/id/source/sveshnikov-variation/s5> <http://purl.org/dc/terms/title> "World Championship Game 10: Double-edged" .
+<https://github.com/john1hsu/chess-graph/id/source/sveshnikov-variation/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/sveshnikov-variation/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/sveshnikov-variation/s5> <https://schema.org/url> "https://en.chessbase.com/post/world-championship-2018-game-10" .
+<https://github.com/john1hsu/chess-graph/id/source/sveshnikov-variation/s6> <http://purl.org/dc/terms/publisher> "Chessgames.com" .
+<https://github.com/john1hsu/chess-graph/id/source/sveshnikov-variation/s6> <http://purl.org/dc/terms/title> "Sicilian (B33)" .
+<https://github.com/john1hsu/chess-graph/id/source/sveshnikov-variation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/sveshnikov-variation/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/sveshnikov-variation/s6> <https://schema.org/url> "https://chessgames.com/perl/chessopening?eco=B33" .
 <https://github.com/john1hsu/chess-graph/id/source/swiss-system/s1> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
 <https://github.com/john1hsu/chess-graph/id/source/swiss-system/s1> <http://purl.org/dc/terms/title> "C.04.3 FIDE (Dutch) System (effective from 1 February 2026)" .
 <https://github.com/john1hsu/chess-graph/id/source/swiss-system/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -11539,6 +11569,38 @@
 <https://github.com/john1hsu/chess-graph/id/stockfish> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/nnue> .
 <https://github.com/john1hsu/chess-graph/id/stockfish> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/universal-chess-interface> .
 <https://github.com/john1hsu/chess-graph/id/stockfish> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/sveshnikov-variation> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/chess-graph/id/sveshnikov-variation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Variation> .
+<https://github.com/john1hsu/chess-graph/id/sveshnikov-variation> <http://www.w3.org/2000/01/rdf-schema#label> "Sveshnikov Variation" .
+<https://github.com/john1hsu/chess-graph/id/sveshnikov-variation> <http://www.w3.org/2004/02/skos/core#altLabel> "Chelyabinsk Variation" .
+<https://github.com/john1hsu/chess-graph/id/sveshnikov-variation> <http://www.w3.org/2004/02/skos/core#altLabel> "Lasker-Pelikan Variation" .
+<https://github.com/john1hsu/chess-graph/id/sveshnikov-variation> <http://www.w3.org/2004/02/skos/core#altLabel> "Pelikan Variation" .
+<https://github.com/john1hsu/chess-graph/id/sveshnikov-variation> <http://www.w3.org/2004/02/skos/core#altLabel> "Sicilian Defence Sveshnikov Variation" .
+<https://github.com/john1hsu/chess-graph/id/sveshnikov-variation> <http://www.w3.org/2004/02/skos/core#altLabel> "Sicilian Defense Sveshnikov Variation" .
+<https://github.com/john1hsu/chess-graph/id/sveshnikov-variation> <http://www.w3.org/2004/02/skos/core#altLabel> "Sveshnikov Sicilian" .
+<https://github.com/john1hsu/chess-graph/id/sveshnikov-variation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/sicilian-defence> .
+<https://github.com/john1hsu/chess-graph/id/sveshnikov-variation> <http://www.w3.org/2004/02/skos/core#definition> "The line of the Open Sicilian 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5, in which Black drives the centralised knight away at the cost of a permanent hole on d5, trading structural concessions for activity and the initiative." .
+<https://github.com/john1hsu/chess-graph/id/sveshnikov-variation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sveshnikov Variation" .
+<https://github.com/john1hsu/chess-graph/id/sveshnikov-variation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/backward-pawn> .
+<https://github.com/john1hsu/chess-graph/id/sveshnikov-variation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/bishop-pair> .
+<https://github.com/john1hsu/chess-graph/id/sveshnikov-variation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/outpost> .
+<https://github.com/john1hsu/chess-graph/id/sveshnikov-variation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/weak-squares> .
+<https://github.com/john1hsu/chess-graph/id/sveshnikov-variation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/sveshnikov-variation/s1> .
+<https://github.com/john1hsu/chess-graph/id/sveshnikov-variation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/sveshnikov-variation/s2> .
+<https://github.com/john1hsu/chess-graph/id/sveshnikov-variation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/sveshnikov-variation/s3> .
+<https://github.com/john1hsu/chess-graph/id/sveshnikov-variation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/sveshnikov-variation/s4> .
+<https://github.com/john1hsu/chess-graph/id/sveshnikov-variation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/sveshnikov-variation/s5> .
+<https://github.com/john1hsu/chess-graph/id/sveshnikov-variation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/sveshnikov-variation/s6> .
+<https://github.com/john1hsu/chess-graph/id/sveshnikov-variation> <https://github.com/john1hsu/chess-graph/ontology#alternativeTo> <https://github.com/john1hsu/chess-graph/id/dragon-variation> .
+<https://github.com/john1hsu/chess-graph/id/sveshnikov-variation> <https://github.com/john1hsu/chess-graph/ontology#alternativeTo> <https://github.com/john1hsu/chess-graph/id/najdorf-variation> .
+<https://github.com/john1hsu/chess-graph/id/sveshnikov-variation> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/magnus-carlsen> .
+<https://github.com/john1hsu/chess-graph/id/sveshnikov-variation> <https://github.com/john1hsu/chess-graph/ontology#domain> "openings" .
+<https://github.com/john1hsu/chess-graph/id/sveshnikov-variation> <https://github.com/john1hsu/chess-graph/ontology#eco> "B33" .
+<https://github.com/john1hsu/chess-graph/id/sveshnikov-variation> <https://github.com/john1hsu/chess-graph/ontology#moves> "1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5" .
+<https://github.com/john1hsu/chess-graph/id/sveshnikov-variation> <https://github.com/john1hsu/chess-graph/ontology#namedAfter> <https://github.com/john1hsu/chess-graph/id/evgeny-sveshnikov> .
+<https://github.com/john1hsu/chess-graph/id/sveshnikov-variation> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/world-chess-championship-2018> .
+<https://github.com/john1hsu/chess-graph/id/sveshnikov-variation> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/sveshnikov-variation> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-16" .
 <https://github.com/john1hsu/chess-graph/id/swiss-system> <http://purl.org/dc/terms/created> "2026-11-16" .
 <https://github.com/john1hsu/chess-graph/id/swiss-system> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Rule> .
 <https://github.com/john1hsu/chess-graph/id/swiss-system> <http://www.w3.org/2000/01/rdf-schema#label> "Swiss system" .

@@ -4719,6 +4719,34 @@
     ]
   },
   {
+    "id": "kt:sveshnikov-variation",
+    "title": "Sveshnikov Variation",
+    "aliases": [
+      "Sveshnikov Sicilian",
+      "Chelyabinsk Variation",
+      "Lasker-Pelikan Variation",
+      "Pelikan Variation",
+      "Sicilian Defence Sveshnikov Variation",
+      "Sicilian Defense Sveshnikov Variation"
+    ],
+    "type": "Variation",
+    "domain": "openings",
+    "file": "articles/openings/sveshnikov-variation.md",
+    "created": "2026-11-16",
+    "verified": "2026-11-16",
+    "volatile": false,
+    "status": "current",
+    "eco": "B33",
+    "source_urls": [
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/8861.pdf",
+      "https://www.russell-enterprises.com/russell-enterprises/bsicilian-defensebrbthe-chelyabinsk-variationbrbits-past-present-and-future",
+      "https://www.chess.com/news/view/world-chess-championship-game-8-another-draw-as-carlsen-dodges-bullet-in-sveshnikov",
+      "https://en.chessbase.com/post/world-championship-2018-game-8",
+      "https://en.chessbase.com/post/world-championship-2018-game-10",
+      "https://chessgames.com/perl/chessopening?eco=B33"
+    ]
+  },
+  {
     "id": "kt:swiss-system",
     "title": "Swiss system",
     "aliases": [

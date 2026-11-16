@@ -6,7 +6,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:alexander-alekhine`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:boris-spassky`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:magnus-carlsen`, `kt:mikhail-botvinnik`, `kt:mikhail-tal`, `kt:tigran-petrosian`, `kt:wilhelm-steinitz` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:the-turk`, `kt:herbert-simon` |
-| `kt:sveshnikov-variation` | `kt:backward-pawn`, `kt:outpost`, `kt:dragon-variation`, `kt:sicilian-defence` |
 | `kt:alekhines-gun` | `kt:open-file`, `kt:rook-on-the-seventh-rank`, `kt:alexander-alekhine` |
 | `kt:aspiration-window` | `kt:iterative-deepening`, `kt:principal-variation-search`, `kt:principal-variation-search` |
 | `kt:bronstein-delay` | `kt:chess-clock`, `kt:fischer-increment`, `kt:fischer-increment` |
@@ -94,6 +93,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:european-chess-club-cup` | `kt:european-chess-union` |
 | `kt:european-individual-chess-championship` | `kt:european-chess-union` |
 | `kt:european-team-chess-championship` | `kt:european-chess-union` |
+| `kt:evgeny-sveshnikov` | `kt:sveshnikov-variation` |
 | `kt:falkbeer-countergambit` | `kt:kings-gambit` |
 | `kt:federation-of-european-shogi-associations` | `kt:shogi` |
 | `kt:fernando-saavedra` | `kt:saavedra-position` |
@@ -249,6 +249,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:world-chess-championship-1921` | `kt:jose-raul-capablanca` |
 | `kt:world-chess-championship-1935` | `kt:alexander-alekhine` |
 | `kt:world-chess-championship-1937` | `kt:alexander-alekhine` |
+| `kt:world-chess-championship-2018` | `kt:sveshnikov-variation` |
 | `kt:world-chess-hall-of-fame` | `kt:saint-louis-chess-club` |
 | `kt:world-rapid-championship` | `kt:rapid-chess` |
 | `kt:world-xiangqi-federation` | `kt:xiangqi` |
