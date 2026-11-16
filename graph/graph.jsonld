@@ -16410,6 +16410,119 @@
       ]
     },
     {
+      "@id": "kt:annotating-your-games",
+      "@type": "kto:TrainingMethod",
+      "skos:prefLabel": "Annotating your games",
+      "skos:definition": "Reviewing your own finished games and writing down your thoughts, alternatives and lessons move by move, first unaided and only then checked with an engine, so that recurring errors in thinking become visible and can be trained away.",
+      "kto:domain": "training-and-improvement",
+      "dcterms:created": "2026-11-16",
+      "kto:verified": "2026-11-16",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "FIDE Laws of Chess (applied from 1 January 2023), full text",
+          "dcterms:publisher": "FIDE Rules Commission",
+          "schema:url": "https://rcc.fide.com/fide-laws-of-chess_fulltexthtml/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "The Impact of Domain-Specific Experience on Chess Skill: Reanalysis of a Key Study (American Journal of Psychology 132(1), 27-38)",
+          "dcterms:publisher": "Alexander P. Burgoyne, Christopher D. Nye, Brooke N. Macnamara, Neil Charness and David Z. Hambrick, via Georgia Tech Engle Lab",
+          "schema:url": "https://englelab.gatech.edu/articles/2019/Burgoyne_et_al_2019_AJP.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Role of Practice in Chess: A Longitudinal Study (Learning and Individual Differences, author manuscript)",
+          "dcterms:publisher": "Guillermo Campitelli and Fernand Gobet, Brunel University, via CORE",
+          "schema:url": "https://core.ac.uk/download/334073.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The Improving Annotator: From Beginner to Master",
+          "dcterms:publisher": "Dan Heisman, Mongoose Press (Readings Books listing)",
+          "schema:url": "https://www.readings.com.au/product/9781936277049/the-improving-annotator-from-beginner-to-master--dan-heisman--2011--9781936277049",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Analyse Your Chess",
+          "dcterms:publisher": "Colin Crouch, Everyman Chess (Schachversand listing)",
+          "schema:url": "https://www.schachversand.de/analyse-your-chess.html",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Analyse your games",
+          "dcterms:publisher": "Exeter Chess Club",
+          "schema:url": "https://exeterchessclub.org.uk/sites/exeterchessclub.org.uk/files/AnalyseYourGames.pdf",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "Portable Game Notation Specification and Implementation Guide (revised 1994-03-12)",
+          "dcterms:publisher": "Steven J. Edwards (coordinator), mirrored in the GNU Emacs ELPA repository",
+          "schema:url": "https://code.delx.au/gnu-emacs-elpa/blob/65de55274ce8d49fa67bb555050e2481ebcad2c5:/PGN.txt",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/training-and-improvement/annotating-your-games.md",
+      "skos:altLabel": [
+        "Analysing your own games",
+        "Analyzing your own games",
+        "Analysing your games",
+        "Analyzing your games",
+        "Game annotation",
+        "Annotating your own games",
+        "Post-mortem analysis",
+        "Self-analysis of games"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:deliberate-practice"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:calculation"
+        },
+        {
+          "@id": "kt:puzzle-training"
+        },
+        {
+          "@id": "kt:opening-repertoire"
+        },
+        {
+          "@id": "kt:time-management-in-games"
+        },
+        {
+          "@id": "kt:chess-expertise"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:algebraic-notation"
+        }
+      ],
+      "kto:governedBy": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:portable-game-notation"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:numeric-annotation-glyphs"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:puzzle-training"
+        }
+      ]
+    },
+    {
       "@id": "kt:calculation",
       "@type": "kto:Technique",
       "skos:prefLabel": "Calculation",

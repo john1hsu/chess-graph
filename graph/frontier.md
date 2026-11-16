@@ -32,6 +32,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position`, `kt:smothered-mate` |
 | `kt:max-euwe` | `kt:slav-defence`, `kt:alexander-alekhine` |
 | `kt:miguel-najdorf` | `kt:najdorf-variation`, `kt:blindfold-chess` |
+| `kt:numeric-annotation-glyphs` | `kt:portable-game-notation`, `kt:annotating-your-games` |
 | `kt:origins-of-chess` | `kt:chaturanga`, `kt:history-of-chess` |
 | `kt:overprotection` | `kt:prophylaxis`, `kt:prophylaxis` |
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
@@ -169,7 +170,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:move-generation` | `kt:bitboards` |
 | `kt:mvv-lva` | `kt:move-ordering` |
 | `kt:negamax` | `kt:minimax` |
-| `kt:numeric-annotation-glyphs` | `kt:portable-game-notation` |
 | `kt:open-ruy-lopez` | `kt:ruy-lopez` |
 | `kt:opening-surprise` | `kt:opening-repertoire` |
 | `kt:otto-selz` | `kt:adriaan-de-groot` |

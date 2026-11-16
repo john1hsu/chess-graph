@@ -263,6 +263,40 @@
 <https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/chess-olympiad> .
 <https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/annotating-your-games> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/chess-graph/id/annotating-your-games> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TrainingMethod> .
+<https://github.com/john1hsu/chess-graph/id/annotating-your-games> <http://www.w3.org/2000/01/rdf-schema#label> "Annotating your games" .
+<https://github.com/john1hsu/chess-graph/id/annotating-your-games> <http://www.w3.org/2004/02/skos/core#altLabel> "Analysing your games" .
+<https://github.com/john1hsu/chess-graph/id/annotating-your-games> <http://www.w3.org/2004/02/skos/core#altLabel> "Analysing your own games" .
+<https://github.com/john1hsu/chess-graph/id/annotating-your-games> <http://www.w3.org/2004/02/skos/core#altLabel> "Analyzing your games" .
+<https://github.com/john1hsu/chess-graph/id/annotating-your-games> <http://www.w3.org/2004/02/skos/core#altLabel> "Analyzing your own games" .
+<https://github.com/john1hsu/chess-graph/id/annotating-your-games> <http://www.w3.org/2004/02/skos/core#altLabel> "Annotating your own games" .
+<https://github.com/john1hsu/chess-graph/id/annotating-your-games> <http://www.w3.org/2004/02/skos/core#altLabel> "Game annotation" .
+<https://github.com/john1hsu/chess-graph/id/annotating-your-games> <http://www.w3.org/2004/02/skos/core#altLabel> "Post-mortem analysis" .
+<https://github.com/john1hsu/chess-graph/id/annotating-your-games> <http://www.w3.org/2004/02/skos/core#altLabel> "Self-analysis of games" .
+<https://github.com/john1hsu/chess-graph/id/annotating-your-games> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/deliberate-practice> .
+<https://github.com/john1hsu/chess-graph/id/annotating-your-games> <http://www.w3.org/2004/02/skos/core#definition> "Reviewing your own finished games and writing down your thoughts, alternatives and lessons move by move, first unaided and only then checked with an engine, so that recurring errors in thinking become visible and can be trained away." .
+<https://github.com/john1hsu/chess-graph/id/annotating-your-games> <http://www.w3.org/2004/02/skos/core#prefLabel> "Annotating your games" .
+<https://github.com/john1hsu/chess-graph/id/annotating-your-games> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/calculation> .
+<https://github.com/john1hsu/chess-graph/id/annotating-your-games> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-expertise> .
+<https://github.com/john1hsu/chess-graph/id/annotating-your-games> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/opening-repertoire> .
+<https://github.com/john1hsu/chess-graph/id/annotating-your-games> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/puzzle-training> .
+<https://github.com/john1hsu/chess-graph/id/annotating-your-games> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/time-management-in-games> .
+<https://github.com/john1hsu/chess-graph/id/annotating-your-games> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s1> .
+<https://github.com/john1hsu/chess-graph/id/annotating-your-games> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s2> .
+<https://github.com/john1hsu/chess-graph/id/annotating-your-games> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s3> .
+<https://github.com/john1hsu/chess-graph/id/annotating-your-games> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s4> .
+<https://github.com/john1hsu/chess-graph/id/annotating-your-games> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s5> .
+<https://github.com/john1hsu/chess-graph/id/annotating-your-games> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s6> .
+<https://github.com/john1hsu/chess-graph/id/annotating-your-games> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s7> .
+<https://github.com/john1hsu/chess-graph/id/annotating-your-games> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/puzzle-training> .
+<https://github.com/john1hsu/chess-graph/id/annotating-your-games> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/algebraic-notation> .
+<https://github.com/john1hsu/chess-graph/id/annotating-your-games> <https://github.com/john1hsu/chess-graph/ontology#domain> "training-and-improvement" .
+<https://github.com/john1hsu/chess-graph/id/annotating-your-games> <https://github.com/john1hsu/chess-graph/ontology#governedBy> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/annotating-your-games> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/numeric-annotation-glyphs> .
+<https://github.com/john1hsu/chess-graph/id/annotating-your-games> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/annotating-your-games> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/portable-game-notation> .
+<https://github.com/john1hsu/chess-graph/id/annotating-your-games> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-16" .
 <https://github.com/john1hsu/chess-graph/id/arbiter> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/arbiter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Concept> .
 <https://github.com/john1hsu/chess-graph/id/arbiter> <http://www.w3.org/2000/01/rdf-schema#label> "Arbiter" .
@@ -5284,6 +5318,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "news" .
 <https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s5> <https://schema.org/url> "https://www.pressreader.com/south-africa/cape-argus/20190523/281814285330502" .
+<https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s1> <http://purl.org/dc/terms/title> "FIDE Laws of Chess (applied from 1 January 2023), full text" .
+<https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s1> <https://schema.org/url> "https://rcc.fide.com/fide-laws-of-chess_fulltexthtml/" .
+<https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s2> <http://purl.org/dc/terms/publisher> "Alexander P. Burgoyne, Christopher D. Nye, Brooke N. Macnamara, Neil Charness and David Z. Hambrick, via Georgia Tech Engle Lab" .
+<https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s2> <http://purl.org/dc/terms/title> "The Impact of Domain-Specific Experience on Chess Skill: Reanalysis of a Key Study (American Journal of Psychology 132(1), 27-38)" .
+<https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s2> <https://schema.org/url> "https://englelab.gatech.edu/articles/2019/Burgoyne_et_al_2019_AJP.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s3> <http://purl.org/dc/terms/publisher> "Guillermo Campitelli and Fernand Gobet, Brunel University, via CORE" .
+<https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s3> <http://purl.org/dc/terms/title> "The Role of Practice in Chess: A Longitudinal Study (Learning and Individual Differences, author manuscript)" .
+<https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s3> <https://schema.org/url> "https://core.ac.uk/download/334073.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s4> <http://purl.org/dc/terms/publisher> "Dan Heisman, Mongoose Press (Readings Books listing)" .
+<https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s4> <http://purl.org/dc/terms/title> "The Improving Annotator: From Beginner to Master" .
+<https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s4> <https://schema.org/url> "https://www.readings.com.au/product/9781936277049/the-improving-annotator-from-beginner-to-master--dan-heisman--2011--9781936277049" .
+<https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s5> <http://purl.org/dc/terms/publisher> "Colin Crouch, Everyman Chess (Schachversand listing)" .
+<https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s5> <http://purl.org/dc/terms/title> "Analyse Your Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s5> <https://schema.org/url> "https://www.schachversand.de/analyse-your-chess.html" .
+<https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s6> <http://purl.org/dc/terms/publisher> "Exeter Chess Club" .
+<https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s6> <http://purl.org/dc/terms/title> "Analyse your games" .
+<https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s6> <https://schema.org/url> "https://exeterchessclub.org.uk/sites/exeterchessclub.org.uk/files/AnalyseYourGames.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s7> <http://purl.org/dc/terms/publisher> "Steven J. Edwards (coordinator), mirrored in the GNU Emacs ELPA repository" .
+<https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s7> <http://purl.org/dc/terms/title> "Portable Game Notation Specification and Implementation Guide (revised 1994-03-12)" .
+<https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s7> <https://schema.org/url> "https://code.delx.au/gnu-emacs-elpa/blob/65de55274ce8d49fa67bb555050e2481ebcad2c5:/PGN.txt" .
 <https://github.com/john1hsu/chess-graph/id/source/arbiter/s1> <http://purl.org/dc/terms/publisher> "FIDE Arbiters' Commission" .
 <https://github.com/john1hsu/chess-graph/id/source/arbiter/s1> <http://purl.org/dc/terms/title> "Arbiters' Manual 2024 (Laws of Chess applied from 1 January 2023, Preface and Article 12 with commentary)" .
 <https://github.com/john1hsu/chess-graph/id/source/arbiter/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

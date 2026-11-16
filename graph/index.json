@@ -231,6 +231,36 @@
     ]
   },
   {
+    "id": "kt:annotating-your-games",
+    "title": "Annotating your games",
+    "aliases": [
+      "Analysing your own games",
+      "Analyzing your own games",
+      "Analysing your games",
+      "Analyzing your games",
+      "Game annotation",
+      "Annotating your own games",
+      "Post-mortem analysis",
+      "Self-analysis of games"
+    ],
+    "type": "TrainingMethod",
+    "domain": "training-and-improvement",
+    "file": "articles/training-and-improvement/annotating-your-games.md",
+    "created": "2026-11-16",
+    "verified": "2026-11-16",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://rcc.fide.com/fide-laws-of-chess_fulltexthtml/",
+      "https://englelab.gatech.edu/articles/2019/Burgoyne_et_al_2019_AJP.pdf",
+      "https://core.ac.uk/download/334073.pdf",
+      "https://www.readings.com.au/product/9781936277049/the-improving-annotator-from-beginner-to-master--dan-heisman--2011--9781936277049",
+      "https://www.schachversand.de/analyse-your-chess.html",
+      "https://exeterchessclub.org.uk/sites/exeterchessclub.org.uk/files/AnalyseYourGames.pdf",
+      "https://code.delx.au/gnu-emacs-elpa/blob/65de55274ce8d49fa67bb555050e2481ebcad2c5:/PGN.txt"
+    ]
+  },
+  {
     "id": "kt:arbiter",
     "title": "Arbiter",
     "aliases": [
