@@ -18215,6 +18215,96 @@
       ]
     },
     {
+      "@id": "kt:long-term-working-memory",
+      "@type": "kto:CognitiveConcept",
+      "skos:prefLabel": "Long-term working memory",
+      "skos:definition": "K. Anders Ericsson and Walter Kintsch's 1995 theory that skilled performers, including strong chess players, extend working memory by encoding information rapidly into long-term memory through acquired retrieval structures and knowledge-based associations, leaving only retrieval cues in short-term memory.",
+      "kto:domain": "training-and-improvement",
+      "dcterms:created": "2026-11-16",
+      "kto:verified": "2026-11-16",
+      "kto:status": "contested",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Some shortcomings of long-term working memory (British Journal of Psychology 91, 551-570)",
+          "dcterms:publisher": "Fernand Gobet, via CORE",
+          "schema:url": "https://core.ac.uk/download/333525.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Long-term working memory: A computational implementation for chess expertise (Proceedings of the 3rd International Conference on Cognitive Modelling, 142-149)",
+          "dcterms:publisher": "Fernand Gobet, Brunel University Research Archive",
+          "schema:url": "https://bura.brunel.ac.uk/bitstream/2438/2127/1/LTWM-ICCM.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Retrieval structures and schemata: A brief reply to Ericsson and Kintsch (British Journal of Psychology 91, 591-594)",
+          "dcterms:publisher": "Fernand Gobet, via CORE",
+          "schema:url": "https://core.ac.uk/download/15038.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Contributions of K. Anders Ericsson to Experimental Cognitive Psychology (Journal of Expertise 4(2), 131-143)",
+          "dcterms:publisher": "Neil Charness, Journal of Expertise",
+          "schema:url": "https://www.journalofexpertise.org/articles/volume4_issue2/JoE_4_2_Charness.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Expert memory: A comparison of four theories (Cognition 66, 115-152)",
+          "dcterms:publisher": "Fernand Gobet, Brunel University Research Archive",
+          "schema:url": "https://bura.brunel.ac.uk/bitstream/2438/815/1/FullText.pdf",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/training-and-improvement/long-term-working-memory.md",
+      "skos:altLabel": [
+        "LT-WM",
+        "LTWM",
+        "Long-term working memory theory",
+        "Ericsson and Kintsch theory of expert memory"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess-expertise"
+        },
+        {
+          "@id": "kt:cognitive-psychology-of-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:blindfold-chess"
+        },
+        {
+          "@id": "kt:visualization"
+        },
+        {
+          "@id": "kt:chunking-theory"
+        },
+        {
+          "@id": "kt:calculation"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:anders-ericsson"
+        },
+        {
+          "@id": "kt:walter-kintsch"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:skilled-memory-theory"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:template-theory"
+        }
+      ]
+    },
+    {
       "@id": "kt:opening-repertoire",
       "@type": "kto:Technique",
       "skos:prefLabel": "Opening repertoire",

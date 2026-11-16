@@ -17,6 +17,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:top-chess-engine-championship` | `kt:leela-chess-zero`, `kt:opening-book`, `kt:stockfish` |
 | `kt:albin-countergambit` | `kt:queens-gambit`, `kt:underpromotion` |
 | `kt:alexander-kotov` | `kt:calculation`, `kt:candidate-moves` |
+| `kt:anders-ericsson` | `kt:deliberate-practice`, `kt:long-term-working-memory` |
 | `kt:berlin-defence` | `kt:alphazero`, `kt:ruy-lopez` |
 | `kt:botvinnik-versus-capablanca-avro-1938` | `kt:soviet-chess-school`, `kt:mikhail-botvinnik` |
 | `kt:carlsen-versus-anand-sochi-2014-game-6` | `kt:magnus-carlsen`, `kt:zwischenzug` |
@@ -50,7 +51,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alfred-binet` | `kt:cognitive-psychology-of-chess` |
 | `kt:allen-newell` | `kt:herbert-simon` |
 | `kt:allumwandlung` | `kt:excelsior` |
-| `kt:anders-ericsson` | `kt:deliberate-practice` |
 | `kt:antonin-novotny` | `kt:novotny-theme` |
 | `kt:arpad-elo` | `kt:elo-rating-system` |
 | `kt:artificial-intelligence` | `kt:computer-chess` |
@@ -153,7 +153,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:levon-aronian` | `kt:fide-world-cup` |
 | `kt:london-rules` | `kt:world-chess-championship-1927` |
 | `kt:london-system` | `kt:carlsbad-structure` |
-| `kt:long-term-working-memory` | `kt:template-theory` |
 | `kt:mailbox-board-representation` | `kt:bitboards` |
 | `kt:manhattan-chess-club` | `kt:world-chess-championship-1886` |
 | `kt:marcel-duchamp` | `kt:corresponding-squares` |
@@ -217,6 +216,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:simultaneous-exhibition` | `kt:blindfold-chess` |
 | `kt:sindarov-versus-caruana-candidates-2026` | `kt:javokhir-sindarov` |
 | `kt:sinquefield-cup` | `kt:saint-louis-chess-club` |
+| `kt:skilled-memory-theory` | `kt:long-term-working-memory` |
 | `kt:solving-chess` | `kt:game-tree-search` |
 | `kt:spassky-versus-bronstein-leningrad-1960` | `kt:boris-spassky` |
 | `kt:spassky-versus-fischer-reykjavik-1972-game-17` | `kt:threefold-repetition` |
@@ -237,6 +237,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:vera-menchik` | `kt:womens-world-chess-championship` |
 | `kt:viktor-korchnoi` | `kt:anatoly-karpov` |
 | `kt:walter-grimshaw` | `kt:grimshaw-theme` |
+| `kt:walter-kintsch` | `kt:long-term-working-memory` |
 | `kt:william-chase` | `kt:chunking-theory` |
 | `kt:william-davies-evans` | `kt:evans-gambit` |
 | `kt:winawer-variation` | `kt:french-defence` |

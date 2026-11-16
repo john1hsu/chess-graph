@@ -3127,6 +3127,30 @@
     ]
   },
   {
+    "id": "kt:long-term-working-memory",
+    "title": "Long-term working memory",
+    "aliases": [
+      "LT-WM",
+      "LTWM",
+      "Long-term working memory theory",
+      "Ericsson and Kintsch theory of expert memory"
+    ],
+    "type": "CognitiveConcept",
+    "domain": "training-and-improvement",
+    "file": "articles/training-and-improvement/long-term-working-memory.md",
+    "created": "2026-11-16",
+    "verified": "2026-11-16",
+    "volatile": false,
+    "status": "contested",
+    "source_urls": [
+      "https://core.ac.uk/download/333525.pdf",
+      "https://bura.brunel.ac.uk/bitstream/2438/2127/1/LTWM-ICCM.pdf",
+      "https://core.ac.uk/download/15038.pdf",
+      "https://www.journalofexpertise.org/articles/volume4_issue2/JoE_4_2_Charness.pdf",
+      "https://bura.brunel.ac.uk/bitstream/2438/815/1/FullText.pdf"
+    ]
+  },
+  {
     "id": "kt:lucena-position",
     "title": "Lucena position",
     "aliases": [

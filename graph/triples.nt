@@ -3507,6 +3507,33 @@
 <https://github.com/john1hsu/chess-graph/id/london-1851> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/london-1851> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/london-1851> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/adolf-anderssen> .
+<https://github.com/john1hsu/chess-graph/id/long-term-working-memory> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/chess-graph/id/long-term-working-memory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#CognitiveConcept> .
+<https://github.com/john1hsu/chess-graph/id/long-term-working-memory> <http://www.w3.org/2000/01/rdf-schema#label> "Long-term working memory" .
+<https://github.com/john1hsu/chess-graph/id/long-term-working-memory> <http://www.w3.org/2004/02/skos/core#altLabel> "Ericsson and Kintsch theory of expert memory" .
+<https://github.com/john1hsu/chess-graph/id/long-term-working-memory> <http://www.w3.org/2004/02/skos/core#altLabel> "LT-WM" .
+<https://github.com/john1hsu/chess-graph/id/long-term-working-memory> <http://www.w3.org/2004/02/skos/core#altLabel> "LTWM" .
+<https://github.com/john1hsu/chess-graph/id/long-term-working-memory> <http://www.w3.org/2004/02/skos/core#altLabel> "Long-term working memory theory" .
+<https://github.com/john1hsu/chess-graph/id/long-term-working-memory> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-expertise> .
+<https://github.com/john1hsu/chess-graph/id/long-term-working-memory> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/long-term-working-memory> <http://www.w3.org/2004/02/skos/core#definition> "K. Anders Ericsson and Walter Kintsch's 1995 theory that skilled performers, including strong chess players, extend working memory by encoding information rapidly into long-term memory through acquired retrieval structures and knowledge-based associations, leaving only retrieval cues in short-term memory." .
+<https://github.com/john1hsu/chess-graph/id/long-term-working-memory> <http://www.w3.org/2004/02/skos/core#prefLabel> "Long-term working memory" .
+<https://github.com/john1hsu/chess-graph/id/long-term-working-memory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/blindfold-chess> .
+<https://github.com/john1hsu/chess-graph/id/long-term-working-memory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/calculation> .
+<https://github.com/john1hsu/chess-graph/id/long-term-working-memory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chunking-theory> .
+<https://github.com/john1hsu/chess-graph/id/long-term-working-memory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/visualization> .
+<https://github.com/john1hsu/chess-graph/id/long-term-working-memory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/long-term-working-memory/s1> .
+<https://github.com/john1hsu/chess-graph/id/long-term-working-memory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/long-term-working-memory/s2> .
+<https://github.com/john1hsu/chess-graph/id/long-term-working-memory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/long-term-working-memory/s3> .
+<https://github.com/john1hsu/chess-graph/id/long-term-working-memory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/long-term-working-memory/s4> .
+<https://github.com/john1hsu/chess-graph/id/long-term-working-memory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/long-term-working-memory/s5> .
+<https://github.com/john1hsu/chess-graph/id/long-term-working-memory> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/template-theory> .
+<https://github.com/john1hsu/chess-graph/id/long-term-working-memory> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/anders-ericsson> .
+<https://github.com/john1hsu/chess-graph/id/long-term-working-memory> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/walter-kintsch> .
+<https://github.com/john1hsu/chess-graph/id/long-term-working-memory> <https://github.com/john1hsu/chess-graph/ontology#domain> "training-and-improvement" .
+<https://github.com/john1hsu/chess-graph/id/long-term-working-memory> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/skilled-memory-theory> .
+<https://github.com/john1hsu/chess-graph/id/long-term-working-memory> <https://github.com/john1hsu/chess-graph/ontology#status> "contested" .
+<https://github.com/john1hsu/chess-graph/id/long-term-working-memory> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-16" .
 <https://github.com/john1hsu/chess-graph/id/lucena-position> <http://purl.org/dc/terms/created> "2026-11-07" .
 <https://github.com/john1hsu/chess-graph/id/lucena-position> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#EndgameType> .
 <https://github.com/john1hsu/chess-graph/id/lucena-position> <http://www.w3.org/2000/01/rdf-schema#label> "Lucena position" .
@@ -8840,6 +8867,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/london-1851/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/london-1851/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/london-1851/s6> <https://schema.org/url> "https://britishchessnews.com/?p=6057" .
+<https://github.com/john1hsu/chess-graph/id/source/long-term-working-memory/s1> <http://purl.org/dc/terms/publisher> "Fernand Gobet, via CORE" .
+<https://github.com/john1hsu/chess-graph/id/source/long-term-working-memory/s1> <http://purl.org/dc/terms/title> "Some shortcomings of long-term working memory (British Journal of Psychology 91, 551-570)" .
+<https://github.com/john1hsu/chess-graph/id/source/long-term-working-memory/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/long-term-working-memory/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/long-term-working-memory/s1> <https://schema.org/url> "https://core.ac.uk/download/333525.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/long-term-working-memory/s2> <http://purl.org/dc/terms/publisher> "Fernand Gobet, Brunel University Research Archive" .
+<https://github.com/john1hsu/chess-graph/id/source/long-term-working-memory/s2> <http://purl.org/dc/terms/title> "Long-term working memory: A computational implementation for chess expertise (Proceedings of the 3rd International Conference on Cognitive Modelling, 142-149)" .
+<https://github.com/john1hsu/chess-graph/id/source/long-term-working-memory/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/long-term-working-memory/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/long-term-working-memory/s2> <https://schema.org/url> "https://bura.brunel.ac.uk/bitstream/2438/2127/1/LTWM-ICCM.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/long-term-working-memory/s3> <http://purl.org/dc/terms/publisher> "Fernand Gobet, via CORE" .
+<https://github.com/john1hsu/chess-graph/id/source/long-term-working-memory/s3> <http://purl.org/dc/terms/title> "Retrieval structures and schemata: A brief reply to Ericsson and Kintsch (British Journal of Psychology 91, 591-594)" .
+<https://github.com/john1hsu/chess-graph/id/source/long-term-working-memory/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/long-term-working-memory/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/long-term-working-memory/s3> <https://schema.org/url> "https://core.ac.uk/download/15038.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/long-term-working-memory/s4> <http://purl.org/dc/terms/publisher> "Neil Charness, Journal of Expertise" .
+<https://github.com/john1hsu/chess-graph/id/source/long-term-working-memory/s4> <http://purl.org/dc/terms/title> "Contributions of K. Anders Ericsson to Experimental Cognitive Psychology (Journal of Expertise 4(2), 131-143)" .
+<https://github.com/john1hsu/chess-graph/id/source/long-term-working-memory/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/long-term-working-memory/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/long-term-working-memory/s4> <https://schema.org/url> "https://www.journalofexpertise.org/articles/volume4_issue2/JoE_4_2_Charness.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/long-term-working-memory/s5> <http://purl.org/dc/terms/publisher> "Fernand Gobet, Brunel University Research Archive" .
+<https://github.com/john1hsu/chess-graph/id/source/long-term-working-memory/s5> <http://purl.org/dc/terms/title> "Expert memory: A comparison of four theories (Cognition 66, 115-152)" .
+<https://github.com/john1hsu/chess-graph/id/source/long-term-working-memory/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/long-term-working-memory/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/long-term-working-memory/s5> <https://schema.org/url> "https://bura.brunel.ac.uk/bitstream/2438/815/1/FullText.pdf" .
 <https://github.com/john1hsu/chess-graph/id/source/lucena-position/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
 <https://github.com/john1hsu/chess-graph/id/source/lucena-position/s1> <http://purl.org/dc/terms/title> "The Lucena Position" .
 <https://github.com/john1hsu/chess-graph/id/source/lucena-position/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
