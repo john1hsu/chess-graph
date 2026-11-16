@@ -5216,6 +5216,33 @@
     ]
   },
   {
+    "id": "kt:viswanathan-anand",
+    "title": "Viswanathan Anand",
+    "aliases": [
+      "Vishy Anand",
+      "Anand Viswanathan",
+      "Vishwanathan Anand",
+      "Anand"
+    ],
+    "type": "Player",
+    "domain": "players",
+    "file": "articles/players/viswanathan-anand.md",
+    "created": "2026-11-16",
+    "verified": "2026-11-16",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://britannica.com/biography/Viswanathan-Anand",
+      "https://museum.fide.com/champions/viswanathan-anand",
+      "https://fide.com/?p=5892",
+      "https://old.fide.com/component/content/article/1-fide-news/10591-king-salman-world-rapid-championship-day-3.html",
+      "https://en.chessbase.com/post/fide-april-rankings-vishy-anand-is-numero-uno/2",
+      "https://en.chessbase.com/post/wcc-r03-anand-wins-with-black",
+      "https://en.chessbase.com/post/tata-steel-india-2026-3",
+      "https://lichess.org/fide/5000017/Anand_Viswanathan"
+    ]
+  },
+  {
     "id": "kt:weak-squares",
     "title": "Weak squares",
     "aliases": [

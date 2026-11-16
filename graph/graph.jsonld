@@ -13019,6 +13019,119 @@
       ]
     },
     {
+      "@id": "kt:viswanathan-anand",
+      "@type": "kto:Player",
+      "skos:prefLabel": "Viswanathan Anand",
+      "skos:definition": "Indian grandmaster (born 1969), India's first grandmaster and the fifteenth world chess champion, who won the FIDE title in 2000 and the undisputed title in 2007, defended it in 2008, 2010 and 2012, and lost it to Magnus Carlsen in 2013; elected FIDE Deputy President in 2022.",
+      "kto:domain": "players",
+      "dcterms:created": "2026-11-16",
+      "kto:verified": "2026-11-16",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Viswanathan Anand",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://britannica.com/biography/Viswanathan-Anand",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Viswanathan Anand (World Champions gallery)",
+          "dcterms:publisher": "FIDE Open Chess Museum",
+          "schema:url": "https://museum.fide.com/champions/viswanathan-anand",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Arkady Dvorkovich, reelected as FIDE President",
+          "dcterms:publisher": "FIDE",
+          "schema:url": "https://fide.com/?p=5892",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Anand and Ju Wenjun are World Rapid Champions!",
+          "dcterms:publisher": "FIDE",
+          "schema:url": "https://old.fide.com/component/content/article/1-fide-news/10591-king-salman-world-rapid-championship-day-3.html",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "FIDE April rankings: Vishy Anand is numero uno",
+          "dcterms:publisher": "ChessBase",
+          "schema:url": "https://en.chessbase.com/post/fide-april-rankings-vishy-anand-is-numero-uno/2",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "WCC R03: Anand wins with black",
+          "dcterms:publisher": "ChessBase",
+          "schema:url": "https://en.chessbase.com/post/wcc-r03-anand-wins-with-black",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Nihal and Lagno claim Tata Steel India rapid titles outright",
+          "dcterms:publisher": "ChessBase",
+          "schema:url": "https://en.chessbase.com/post/tata-steel-india-2026-3",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Anand, Viswanathan (FIDE ID 5000017) — FIDE rating data",
+          "dcterms:publisher": "Lichess",
+          "schema:url": "https://lichess.org/fide/5000017/Anand_Viswanathan",
+          "kto:sourceType": "database"
+        }
+      ],
+      "kto:file": "articles/players/viswanathan-anand.md",
+      "skos:altLabel": [
+        "Vishy Anand",
+        "Anand Viswanathan",
+        "Vishwanathan Anand",
+        "Anand"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:world-chess-championship"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:magnus-carlsen"
+        },
+        {
+          "@id": "kt:vladimir-kramnik"
+        },
+        {
+          "@id": "kt:garry-kasparov"
+        },
+        {
+          "@id": "kt:world-rapid-championship"
+        },
+        {
+          "@id": "kt:slav-defence"
+        }
+      ],
+      "kto:holdsTitle": [
+        {
+          "@id": "kt:world-chess-champion"
+        },
+        {
+          "@id": "kt:grandmaster-title"
+        }
+      ],
+      "kto:playedIn": [
+        {
+          "@id": "kt:candidates-tournament"
+        }
+      ],
+      "kto:memberOf": [
+        {
+          "@id": "kt:fide"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:kramnik-versus-anand-bonn-2008-game-3"
+        }
+      ]
+    },
+    {
       "@id": "kt:wilhelm-steinitz",
       "@type": "kto:Player",
       "skos:prefLabel": "Wilhelm Steinitz",

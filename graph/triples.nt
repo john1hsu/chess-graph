@@ -11096,6 +11096,46 @@
 <https://github.com/john1hsu/chess-graph/id/source/visualization/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/visualization/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
 <https://github.com/john1hsu/chess-graph/id/source/visualization/s5> <https://schema.org/url> "https://mcfarlandbooks.com/?p=22687" .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s1> <http://purl.org/dc/terms/title> "Viswanathan Anand" .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s1> <https://schema.org/url> "https://britannica.com/biography/Viswanathan-Anand" .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s2> <http://purl.org/dc/terms/publisher> "FIDE Open Chess Museum" .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s2> <http://purl.org/dc/terms/title> "Viswanathan Anand (World Champions gallery)" .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s2> <https://schema.org/url> "https://museum.fide.com/champions/viswanathan-anand" .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s3> <http://purl.org/dc/terms/publisher> "FIDE" .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s3> <http://purl.org/dc/terms/title> "Arkady Dvorkovich, reelected as FIDE President" .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s3> <https://schema.org/url> "https://fide.com/?p=5892" .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s4> <http://purl.org/dc/terms/publisher> "FIDE" .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s4> <http://purl.org/dc/terms/title> "Anand and Ju Wenjun are World Rapid Champions!" .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s4> <https://schema.org/url> "https://old.fide.com/component/content/article/1-fide-news/10591-king-salman-world-rapid-championship-day-3.html" .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s5> <http://purl.org/dc/terms/publisher> "ChessBase" .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s5> <http://purl.org/dc/terms/title> "FIDE April rankings: Vishy Anand is numero uno" .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s5> <https://schema.org/url> "https://en.chessbase.com/post/fide-april-rankings-vishy-anand-is-numero-uno/2" .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s6> <http://purl.org/dc/terms/publisher> "ChessBase" .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s6> <http://purl.org/dc/terms/title> "WCC R03: Anand wins with black" .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s6> <https://schema.org/url> "https://en.chessbase.com/post/wcc-r03-anand-wins-with-black" .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s7> <http://purl.org/dc/terms/publisher> "ChessBase" .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s7> <http://purl.org/dc/terms/title> "Nihal and Lagno claim Tata Steel India rapid titles outright" .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s7> <https://schema.org/url> "https://en.chessbase.com/post/tata-steel-india-2026-3" .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s8> <http://purl.org/dc/terms/publisher> "Lichess" .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s8> <http://purl.org/dc/terms/title> "Anand, Viswanathan (FIDE ID 5000017) — FIDE rating data" .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s8> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s8> <https://schema.org/url> "https://lichess.org/fide/5000017/Anand_Viswanathan" .
 <https://github.com/john1hsu/chess-graph/id/source/weak-squares/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/weak-squares/s1> <http://purl.org/dc/terms/title> "Chess: Development of theory" .
 <https://github.com/john1hsu/chess-graph/id/source/weak-squares/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -12142,6 +12182,37 @@
 <https://github.com/john1hsu/chess-graph/id/visualization> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/fernand-gobet> .
 <https://github.com/john1hsu/chess-graph/id/visualization> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/visualization> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/viswanathan-anand> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/chess-graph/id/viswanathan-anand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
+<https://github.com/john1hsu/chess-graph/id/viswanathan-anand> <http://www.w3.org/2000/01/rdf-schema#label> "Viswanathan Anand" .
+<https://github.com/john1hsu/chess-graph/id/viswanathan-anand> <http://www.w3.org/2004/02/skos/core#altLabel> "Anand Viswanathan" .
+<https://github.com/john1hsu/chess-graph/id/viswanathan-anand> <http://www.w3.org/2004/02/skos/core#altLabel> "Anand" .
+<https://github.com/john1hsu/chess-graph/id/viswanathan-anand> <http://www.w3.org/2004/02/skos/core#altLabel> "Vishwanathan Anand" .
+<https://github.com/john1hsu/chess-graph/id/viswanathan-anand> <http://www.w3.org/2004/02/skos/core#altLabel> "Vishy Anand" .
+<https://github.com/john1hsu/chess-graph/id/viswanathan-anand> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/viswanathan-anand> <http://www.w3.org/2004/02/skos/core#definition> "Indian grandmaster (born 1969), India's first grandmaster and the fifteenth world chess champion, who won the FIDE title in 2000 and the undisputed title in 2007, defended it in 2008, 2010 and 2012, and lost it to Magnus Carlsen in 2013; elected FIDE Deputy President in 2022." .
+<https://github.com/john1hsu/chess-graph/id/viswanathan-anand> <http://www.w3.org/2004/02/skos/core#prefLabel> "Viswanathan Anand" .
+<https://github.com/john1hsu/chess-graph/id/viswanathan-anand> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/garry-kasparov> .
+<https://github.com/john1hsu/chess-graph/id/viswanathan-anand> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/magnus-carlsen> .
+<https://github.com/john1hsu/chess-graph/id/viswanathan-anand> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/slav-defence> .
+<https://github.com/john1hsu/chess-graph/id/viswanathan-anand> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/vladimir-kramnik> .
+<https://github.com/john1hsu/chess-graph/id/viswanathan-anand> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/world-rapid-championship> .
+<https://github.com/john1hsu/chess-graph/id/viswanathan-anand> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s1> .
+<https://github.com/john1hsu/chess-graph/id/viswanathan-anand> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s2> .
+<https://github.com/john1hsu/chess-graph/id/viswanathan-anand> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s3> .
+<https://github.com/john1hsu/chess-graph/id/viswanathan-anand> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s4> .
+<https://github.com/john1hsu/chess-graph/id/viswanathan-anand> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s5> .
+<https://github.com/john1hsu/chess-graph/id/viswanathan-anand> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s6> .
+<https://github.com/john1hsu/chess-graph/id/viswanathan-anand> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s7> .
+<https://github.com/john1hsu/chess-graph/id/viswanathan-anand> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s8> .
+<https://github.com/john1hsu/chess-graph/id/viswanathan-anand> <https://github.com/john1hsu/chess-graph/ontology#domain> "players" .
+<https://github.com/john1hsu/chess-graph/id/viswanathan-anand> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/kramnik-versus-anand-bonn-2008-game-3> .
+<https://github.com/john1hsu/chess-graph/id/viswanathan-anand> <https://github.com/john1hsu/chess-graph/ontology#holdsTitle> <https://github.com/john1hsu/chess-graph/id/grandmaster-title> .
+<https://github.com/john1hsu/chess-graph/id/viswanathan-anand> <https://github.com/john1hsu/chess-graph/ontology#holdsTitle> <https://github.com/john1hsu/chess-graph/id/world-chess-champion> .
+<https://github.com/john1hsu/chess-graph/id/viswanathan-anand> <https://github.com/john1hsu/chess-graph/ontology#memberOf> <https://github.com/john1hsu/chess-graph/id/fide> .
+<https://github.com/john1hsu/chess-graph/id/viswanathan-anand> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/candidates-tournament> .
+<https://github.com/john1hsu/chess-graph/id/viswanathan-anand> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/viswanathan-anand> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-16" .
 <https://github.com/john1hsu/chess-graph/id/weak-squares> <http://purl.org/dc/terms/created> "2026-11-14" .
 <https://github.com/john1hsu/chess-graph/id/weak-squares> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
 <https://github.com/john1hsu/chess-graph/id/weak-squares> <http://www.w3.org/2000/01/rdf-schema#label> "Weak squares" .
