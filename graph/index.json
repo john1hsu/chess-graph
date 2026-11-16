@@ -3599,6 +3599,31 @@
     ]
   },
   {
+    "id": "kt:perpetual-check",
+    "title": "Perpetual check",
+    "aliases": [
+      "Perpetual",
+      "Eternal check",
+      "Échec perpétuel",
+      "Ewiges Schach"
+    ],
+    "type": "TacticalMotif",
+    "domain": "tactics",
+    "file": "articles/tactics/perpetual-check.md",
+    "created": "2026-11-16",
+    "verified": "2026-11-16",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://rcc.fide.com/article9/",
+      "https://rcc.fide.com/wp-content/uploads/2022/12/Laws_of_Chess-1997_ENG.pdf",
+      "https://www.chesshistory.com/winter/extra/repetition.html",
+      "https://www.britannica.com/topic/perpetual-check",
+      "https://www.chess.com/terms/perpetual-check-chess",
+      "https://discmaster.textfiles.com/view/29139/Chess.iso/Chess/PROGRAMS/BOBBY/BOOKS/FISCHER.PGN"
+    ]
+  },
+  {
     "id": "kt:philidor-position",
     "title": "Philidor position",
     "aliases": [

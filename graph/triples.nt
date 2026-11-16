@@ -4028,6 +4028,36 @@
 <https://github.com/john1hsu/chess-graph/id/pawn-structure> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/carlsbad-structure> .
 <https://github.com/john1hsu/chess-graph/id/pawn-structure> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/pawn-structure> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/perpetual-check> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/chess-graph/id/perpetual-check> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TacticalMotif> .
+<https://github.com/john1hsu/chess-graph/id/perpetual-check> <http://www.w3.org/2000/01/rdf-schema#label> "Perpetual check" .
+<https://github.com/john1hsu/chess-graph/id/perpetual-check> <http://www.w3.org/2004/02/skos/core#altLabel> "Eternal check" .
+<https://github.com/john1hsu/chess-graph/id/perpetual-check> <http://www.w3.org/2004/02/skos/core#altLabel> "Ewiges Schach" .
+<https://github.com/john1hsu/chess-graph/id/perpetual-check> <http://www.w3.org/2004/02/skos/core#altLabel> "Perpetual" .
+<https://github.com/john1hsu/chess-graph/id/perpetual-check> <http://www.w3.org/2004/02/skos/core#altLabel> "Échec perpétuel" .
+<https://github.com/john1hsu/chess-graph/id/perpetual-check> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-tactics> .
+<https://github.com/john1hsu/chess-graph/id/perpetual-check> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/draw> .
+<https://github.com/john1hsu/chess-graph/id/perpetual-check> <http://www.w3.org/2004/02/skos/core#definition> "A sequence of checks that the defending king cannot escape, so that the checking side can keep giving check indefinitely; in practice it ends the game as a draw, by agreement or under the repetition rules." .
+<https://github.com/john1hsu/chess-graph/id/perpetual-check> <http://www.w3.org/2004/02/skos/core#prefLabel> "Perpetual check" .
+<https://github.com/john1hsu/chess-graph/id/perpetual-check> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/bobby-fischer> .
+<https://github.com/john1hsu/chess-graph/id/perpetual-check> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fortress> .
+<https://github.com/john1hsu/chess-graph/id/perpetual-check> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/king-safety> .
+<https://github.com/john1hsu/chess-graph/id/perpetual-check> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/mikhail-tal> .
+<https://github.com/john1hsu/chess-graph/id/perpetual-check> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/sacrifice> .
+<https://github.com/john1hsu/chess-graph/id/perpetual-check> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/stalemate> .
+<https://github.com/john1hsu/chess-graph/id/perpetual-check> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s1> .
+<https://github.com/john1hsu/chess-graph/id/perpetual-check> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s2> .
+<https://github.com/john1hsu/chess-graph/id/perpetual-check> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s3> .
+<https://github.com/john1hsu/chess-graph/id/perpetual-check> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s4> .
+<https://github.com/john1hsu/chess-graph/id/perpetual-check> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s5> .
+<https://github.com/john1hsu/chess-graph/id/perpetual-check> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s6> .
+<https://github.com/john1hsu/chess-graph/id/perpetual-check> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/checkmate> .
+<https://github.com/john1hsu/chess-graph/id/perpetual-check> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/threefold-repetition> .
+<https://github.com/john1hsu/chess-graph/id/perpetual-check> <https://github.com/john1hsu/chess-graph/ontology#domain> "tactics" .
+<https://github.com/john1hsu/chess-graph/id/perpetual-check> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/fischer-versus-tal-leipzig-1960> .
+<https://github.com/john1hsu/chess-graph/id/perpetual-check> <https://github.com/john1hsu/chess-graph/ontology#fen> "2k5/pp2n2Q/8/P2p4/6q1/P1p5/2P2PKP/5R2 w - - 1 22" .
+<https://github.com/john1hsu/chess-graph/id/perpetual-check> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/perpetual-check> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-16" .
 <https://github.com/john1hsu/chess-graph/id/philidor-position> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/philidor-position> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#EndgameType> .
 <https://github.com/john1hsu/chess-graph/id/philidor-position> <http://www.w3.org/2000/01/rdf-schema#label> "Philidor position" .
@@ -9064,6 +9094,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/pawn-structure/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/pawn-structure/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/pawn-structure/s7> <https://schema.org/url> "https://en.chessbase.com/post/understanding-before-moving-96-queen-s-gambit-declined-3" .
+<https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s1> <http://purl.org/dc/terms/title> "Article 9: The Drawn Game" .
+<https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s1> <https://schema.org/url> "https://rcc.fide.com/article9/" .
+<https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s2> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s2> <http://purl.org/dc/terms/title> "Laws of Chess (1997 edition)" .
+<https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s2> <https://schema.org/url> "https://rcc.fide.com/wp-content/uploads/2022/12/Laws_of_Chess-1997_ENG.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s3> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s3> <http://purl.org/dc/terms/title> "Repetition of Position or Moves in Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s3> <https://schema.org/url> "https://www.chesshistory.com/winter/extra/repetition.html" .
+<https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s4> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s4> <http://purl.org/dc/terms/title> "perpetual check" .
+<https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s4> <https://schema.org/url> "https://www.britannica.com/topic/perpetual-check" .
+<https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s5> <http://purl.org/dc/terms/publisher> "Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s5> <http://purl.org/dc/terms/title> "Perpetual Check" .
+<https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s5> <https://schema.org/url> "https://www.chess.com/terms/perpetual-check-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s6> <http://purl.org/dc/terms/publisher> "Chess.iso CD-ROM collection (via Discmaster)" .
+<https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s6> <http://purl.org/dc/terms/title> "FISCHER.PGN (Fischer game collection; Fischer v Tal, Leipzig Olympiad Finals 1960, round 5)" .
+<https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s6> <https://schema.org/url> "https://discmaster.textfiles.com/view/29139/Chess.iso/Chess/PROGRAMS/BOBBY/BOOKS/FISCHER.PGN" .
 <https://github.com/john1hsu/chess-graph/id/source/philidor-position/s1> <http://purl.org/dc/terms/publisher> "Chess.com (Chess Terms)" .
 <https://github.com/john1hsu/chess-graph/id/source/philidor-position/s1> <http://purl.org/dc/terms/title> "Philidor Position" .
 <https://github.com/john1hsu/chess-graph/id/source/philidor-position/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

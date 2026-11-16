@@ -12,7 +12,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:gambit` | `kt:evans-gambit`, `kt:kings-gambit`, `kt:sacrifice` |
 | `kt:mikhail-chigorin` | `kt:hastings-1895`, `kt:evans-gambit`, `kt:wilhelm-steinitz` |
 | `kt:paul-morphy` | `kt:romantic-era`, `kt:initiative`, `kt:adolf-anderssen` |
-| `kt:perpetual-check` | `kt:rook-on-the-seventh-rank`, `kt:draw`, `kt:threefold-repetition` |
 | `kt:principal-variation-search` | `kt:alpha-beta-pruning`, `kt:alpha-beta-pruning`, `kt:move-ordering` |
 | `kt:top-chess-engine-championship` | `kt:leela-chess-zero`, `kt:opening-book`, `kt:stockfish` |
 | `kt:vladimir-kramnik` | `kt:alphazero`, `kt:ruy-lopez`, `kt:garry-kasparov` |
@@ -100,6 +99,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fide-world-fischer-random-chess-championship` | `kt:chess960` |
 | `kt:fischer-spassky-1972-game-6` | `kt:hanging-pawns` |
 | `kt:fischer-spassky-1992` | `kt:fischer-increment` |
+| `kt:fischer-versus-tal-leipzig-1960` | `kt:perpetual-check` |
 | `kt:flank-openings` | `kt:chess-openings` |
 | `kt:four-handed-chaturanga` | `kt:chaturanga` |
 | `kt:four-pawns-attack` | `kt:alekhines-defence` |
