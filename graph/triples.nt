@@ -472,6 +472,33 @@
 <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/carlsbad-1929> .
 <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/babson-task> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/chess-graph/id/babson-task> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#ProblemTheme> .
+<https://github.com/john1hsu/chess-graph/id/babson-task> <http://www.w3.org/2000/01/rdf-schema#label> "Babson task" .
+<https://github.com/john1hsu/chess-graph/id/babson-task> <http://www.w3.org/2004/02/skos/core#altLabel> "Babson problem" .
+<https://github.com/john1hsu/chess-graph/id/babson-task> <http://www.w3.org/2004/02/skos/core#altLabel> "Babson theme" .
+<https://github.com/john1hsu/chess-graph/id/babson-task> <http://www.w3.org/2004/02/skos/core#altLabel> "Echo-Babson" .
+<https://github.com/john1hsu/chess-graph/id/babson-task> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/allumwandlung> .
+<https://github.com/john1hsu/chess-graph/id/babson-task> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-problems> .
+<https://github.com/john1hsu/chess-graph/id/babson-task> <http://www.w3.org/2004/02/skos/core#definition> "A chess composition task in which Black promotes a pawn to queen, rook, bishop or knight in four separate variations and White must answer each with a promotion to the same piece; first realised as a direct mate by Leonid Yarosh in 1983." .
+<https://github.com/john1hsu/chess-graph/id/babson-task> <http://www.w3.org/2004/02/skos/core#prefLabel> "Babson task" .
+<https://github.com/john1hsu/chess-graph/id/babson-task> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/endgame-study> .
+<https://github.com/john1hsu/chess-graph/id/babson-task> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/selfmate> .
+<https://github.com/john1hsu/chess-graph/id/babson-task> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/stalemate> .
+<https://github.com/john1hsu/chess-graph/id/babson-task> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/underpromotion> .
+<https://github.com/john1hsu/chess-graph/id/babson-task> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/babson-task/s1> .
+<https://github.com/john1hsu/chess-graph/id/babson-task> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/babson-task/s2> .
+<https://github.com/john1hsu/chess-graph/id/babson-task> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/babson-task/s3> .
+<https://github.com/john1hsu/chess-graph/id/babson-task> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/babson-task/s4> .
+<https://github.com/john1hsu/chess-graph/id/babson-task> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/babson-task/s5> .
+<https://github.com/john1hsu/chess-graph/id/babson-task> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/babson-task/s6> .
+<https://github.com/john1hsu/chess-graph/id/babson-task> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/pawn-promotion> .
+<https://github.com/john1hsu/chess-graph/id/babson-task> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/leonid-yarosh> .
+<https://github.com/john1hsu/chess-graph/id/babson-task> <https://github.com/john1hsu/chess-graph/ontology#domain> "variants-and-compositions" .
+<https://github.com/john1hsu/chess-graph/id/babson-task> <https://github.com/john1hsu/chess-graph/ontology#namedAfter> <https://github.com/john1hsu/chess-graph/id/joseph-ney-babson> .
+<https://github.com/john1hsu/chess-graph/id/babson-task> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/babson-task> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/underpromotion> .
+<https://github.com/john1hsu/chess-graph/id/babson-task> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-17" .
 <https://github.com/john1hsu/chess-graph/id/back-rank-mate> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/back-rank-mate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#MatingPattern> .
 <https://github.com/john1hsu/chess-graph/id/back-rank-mate> <http://www.w3.org/2000/01/rdf-schema#label> "Back-rank mate" .
@@ -6018,6 +6045,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
 <https://github.com/john1hsu/chess-graph/id/source/aron-nimzowitsch/s6> <https://schema.org/url> "https://www.chessgames.com/perl/chessgame?gid=1102400" .
+<https://github.com/john1hsu/chess-graph/id/source/babson-task/s1> <http://purl.org/dc/terms/publisher> "John Nunn (1995), foreword to Jeremy Morse's book; hosted by the British Chess Problem Society (The Problemist)" .
+<https://github.com/john1hsu/chess-graph/id/source/babson-task/s1> <http://purl.org/dc/terms/title> "Foreword to Chess Problems: Tasks and Records" .
+<https://github.com/john1hsu/chess-graph/id/source/babson-task/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/babson-task/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/babson-task/s1> <https://schema.org/url> "https://www.theproblemist.org/dloads/cjm/Forewood.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/babson-task/s2> <http://purl.org/dc/terms/publisher> "Frederic Friedel, ChessBase Books" .
+<https://github.com/john1hsu/chess-graph/id/source/babson-task/s2> <http://purl.org/dc/terms/title> "Frederic's chess tales (Material), Chapter 23: The Babson tragedy" .
+<https://github.com/john1hsu/chess-graph/id/source/babson-task/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/babson-task/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/babson-task/s2> <https://schema.org/url> "https://books.chessbase.com/perma/c/6364ee9c1b0da340b417c01c" .
+<https://github.com/john1hsu/chess-graph/id/source/babson-task/s3> <http://purl.org/dc/terms/publisher> "Tim Krabbé, Open Chess Diary (author of Chess Curiosities)" .
+<https://github.com/john1hsu/chess-graph/id/source/babson-task/s3> <http://purl.org/dc/terms/title> "Sons of Babson" .
+<https://github.com/john1hsu/chess-graph/id/source/babson-task/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/babson-task/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/babson-task/s3> <https://schema.org/url> "https://timkr.home.xs4all.nl/babson/babsonsons.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/babson-task/s4> <http://purl.org/dc/terms/publisher> "Frederic Friedel, ChessBase News (23 May 2023)" .
+<https://github.com/john1hsu/chess-graph/id/source/babson-task/s4> <http://purl.org/dc/terms/title> "The Everest of chess problems" .
+<https://github.com/john1hsu/chess-graph/id/source/babson-task/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/babson-task/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/babson-task/s4> <https://schema.org/url> "https://en.chessbase.com/post/the-everest-of-chess-problems" .
+<https://github.com/john1hsu/chess-graph/id/source/babson-task/s5> <http://purl.org/dc/terms/publisher> "Luke McShane, The Spectator (14 November 2024)" .
+<https://github.com/john1hsu/chess-graph/id/source/babson-task/s5> <http://purl.org/dc/terms/title> "The Babson task" .
+<https://github.com/john1hsu/chess-graph/id/source/babson-task/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/babson-task/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/babson-task/s5> <https://schema.org/url> "https://spectator.com/article/the-babson-task/" .
+<https://github.com/john1hsu/chess-graph/id/source/babson-task/s6> <http://purl.org/dc/terms/publisher> "Peter Hoffmann (2020, revised 23 September 2025)" .
+<https://github.com/john1hsu/chess-graph/id/source/babson-task/s6> <http://purl.org/dc/terms/title> "Der Babson-Task in der Studie" .
+<https://github.com/john1hsu/chess-graph/id/source/babson-task/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/babson-task/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/babson-task/s6> <https://schema.org/url> "https://berlinthema.de/BabsonStudy.pdf" .
 <https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s1> <http://purl.org/dc/terms/publisher> "FIDE" .
 <https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s1> <http://purl.org/dc/terms/title> "Glossary of chess terms (FIDE education archive)" .
 <https://github.com/john1hsu/chess-graph/id/source/back-rank-mate/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

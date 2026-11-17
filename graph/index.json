@@ -416,6 +416,30 @@
     ]
   },
   {
+    "id": "kt:babson-task",
+    "title": "Babson task",
+    "aliases": [
+      "Babson theme",
+      "Babson problem",
+      "Echo-Babson"
+    ],
+    "type": "ProblemTheme",
+    "domain": "variants-and-compositions",
+    "file": "articles/variants-and-compositions/babson-task.md",
+    "created": "2026-11-17",
+    "verified": "2026-11-17",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.theproblemist.org/dloads/cjm/Forewood.pdf",
+      "https://books.chessbase.com/perma/c/6364ee9c1b0da340b417c01c",
+      "https://timkr.home.xs4all.nl/babson/babsonsons.htm",
+      "https://en.chessbase.com/post/the-everest-of-chess-problems",
+      "https://spectator.com/article/the-babson-task/",
+      "https://berlinthema.de/BabsonStudy.pdf"
+    ]
+  },
+  {
     "id": "kt:back-rank-mate",
     "title": "Back-rank mate",
     "aliases": [

@@ -50,7 +50,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:artificial-intelligence` | `kt:computer-chess` |
 | `kt:as-suli` | `kt:shatranj` |
 | `kt:asian-chess-federation` | `kt:european-chess-union` |
-| `kt:babson-task` | `kt:allumwandlung` |
 | `kt:baden-baden-1870` | `kt:adolf-anderssen` |
 | `kt:baku-acceleration` | `kt:swiss-system` |
 | `kt:berger-tables` | `kt:round-robin` |
@@ -133,6 +132,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:john-von-neumann` | `kt:minimax` |
 | `kt:josef-vancura` | `kt:vancura-position` |
 | `kt:joseph-henry-blackburne` | `kt:johannes-zukertort` |
+| `kt:joseph-ney-babson` | `kt:babson-task` |
 | `kt:julius-muller` | `kt:swiss-system` |
 | `kt:kaissa` | `kt:bitboards` |
 | `kt:kasparov-versus-anand-riga-1995` | `kt:evans-gambit` |
@@ -150,6 +150,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:leela-zero` | `kt:leela-chess-zero` |
 | `kt:leipzig-1894` | `kt:siegbert-tarrasch` |
 | `kt:leonardo-torres-y-quevedo` | `kt:claude-shannon` |
+| `kt:leonid-yarosh` | `kt:babson-task` |
 | `kt:levon-aronian` | `kt:fide-world-cup` |
 | `kt:london-rules` | `kt:world-chess-championship-1927` |
 | `kt:london-system` | `kt:carlsbad-structure` |

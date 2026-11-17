@@ -20036,6 +20036,103 @@
       ]
     },
     {
+      "@id": "kt:babson-task",
+      "@type": "kto:ProblemTheme",
+      "skos:prefLabel": "Babson task",
+      "skos:definition": "A chess composition task in which Black promotes a pawn to queen, rook, bishop or knight in four separate variations and White must answer each with a promotion to the same piece; first realised as a direct mate by Leonid Yarosh in 1983.",
+      "kto:domain": "variants-and-compositions",
+      "dcterms:created": "2026-11-17",
+      "kto:verified": "2026-11-17",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Foreword to Chess Problems: Tasks and Records",
+          "dcterms:publisher": "John Nunn (1995), foreword to Jeremy Morse's book; hosted by the British Chess Problem Society (The Problemist)",
+          "schema:url": "https://www.theproblemist.org/dloads/cjm/Forewood.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Frederic's chess tales (Material), Chapter 23: The Babson tragedy",
+          "dcterms:publisher": "Frederic Friedel, ChessBase Books",
+          "schema:url": "https://books.chessbase.com/perma/c/6364ee9c1b0da340b417c01c",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Sons of Babson",
+          "dcterms:publisher": "Tim Krabbé, Open Chess Diary (author of Chess Curiosities)",
+          "schema:url": "https://timkr.home.xs4all.nl/babson/babsonsons.htm",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The Everest of chess problems",
+          "dcterms:publisher": "Frederic Friedel, ChessBase News (23 May 2023)",
+          "schema:url": "https://en.chessbase.com/post/the-everest-of-chess-problems",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The Babson task",
+          "dcterms:publisher": "Luke McShane, The Spectator (14 November 2024)",
+          "schema:url": "https://spectator.com/article/the-babson-task/",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Der Babson-Task in der Studie",
+          "dcterms:publisher": "Peter Hoffmann (2020, revised 23 September 2025)",
+          "schema:url": "https://berlinthema.de/BabsonStudy.pdf",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/variants-and-compositions/babson-task.md",
+      "skos:altLabel": [
+        "Babson theme",
+        "Babson problem",
+        "Echo-Babson"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:allumwandlung"
+        },
+        {
+          "@id": "kt:chess-problems"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:underpromotion"
+        },
+        {
+          "@id": "kt:selfmate"
+        },
+        {
+          "@id": "kt:endgame-study"
+        },
+        {
+          "@id": "kt:stalemate"
+        }
+      ],
+      "kto:namedAfter": [
+        {
+          "@id": "kt:joseph-ney-babson"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:leonid-yarosh"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:underpromotion"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:pawn-promotion"
+        }
+      ]
+    },
+    {
       "@id": "kt:blindfold-chess",
       "@type": "kto:Concept",
       "skos:prefLabel": "Blindfold chess",
