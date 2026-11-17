@@ -18891,6 +18891,78 @@
       ]
     },
     {
+      "@id": "kt:abraham-luchins",
+      "@type": "kto:Person",
+      "skos:prefLabel": "Abraham Luchins",
+      "skos:definition": "American Gestalt psychologist (1914–2005), a student of Max Wertheimer, whose 1942 water-jar experiments on \"mechanization in problem solving\" defined the Einstellung (set) effect that later chess research used to explain why strong players miss better moves.",
+      "kto:domain": "training-and-improvement",
+      "dcterms:created": "2026-11-17",
+      "kto:verified": "2026-11-17",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Abraham S. Luchins (1914–2005)",
+          "dcterms:publisher": "Society for Gestalt Theory and its Applications (GTA), Gestalt People",
+          "schema:url": "https://en.gestalttheory.net/people/GPASLuchins.html",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "On Being Wertheimer's Student (Gestalt Theory 15(3/4), 1993)",
+          "dcterms:publisher": "Abraham S. Luchins, Society for Gestalt Theory and its Applications",
+          "schema:url": "https://en.gestalttheory.net/uploads/pdf/archive/ab1990/LuchinsStudent.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Max Wertheimer in America: 1933-1943, Part I (Gestalt Theory 9(2), 1987)",
+          "dcterms:publisher": "Abraham S. Luchins and Edith H. Luchins, Society for Gestalt Theory and its Applications",
+          "schema:url": "https://en.gestalttheory.net/uploads/pdf/GTH-Archive/1987Luchins_WertheimerInAmerica.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "On Some Factors Influencing Mechanization in Problem Solving (M.Sc. thesis, 1951)",
+          "dcterms:publisher": "Robert Shulman, McGill University eScholarship",
+          "schema:url": "https://escholarship.mcgill.ca/downloads/t435gh114",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The mechanism of the Einstellung (set) effect: A pervasive source of cognitive bias",
+          "dcterms:publisher": "Merim Bilalić, Peter McLeod and Fernand Gobet, Brunel University Research Archive",
+          "schema:url": "https://bura.brunel.ac.uk/bitstream/2438/5777/1/Fulltext.pdf",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/training-and-improvement/abraham-luchins.md",
+      "skos:altLabel": [
+        "Abraham S. Luchins",
+        "A. S. Luchins"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:cognitive-psychology-of-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:einstellung-effect"
+        },
+        {
+          "@id": "kt:merim-bilalic"
+        },
+        {
+          "@id": "kt:chess-expertise"
+        },
+        {
+          "@id": "kt:calculation"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:max-wertheimer"
+        }
+      ]
+    },
+    {
       "@id": "kt:adriaan-de-groot",
       "@type": "kto:Person",
       "skos:prefLabel": "Adriaan de Groot",

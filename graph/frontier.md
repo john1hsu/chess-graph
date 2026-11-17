@@ -24,6 +24,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position`, `kt:smothered-mate` |
 | `kt:marmaduke-wyvill` | `kt:london-1851`, `kt:london-1883` |
 | `kt:max-euwe` | `kt:slav-defence`, `kt:alexander-alekhine` |
+| `kt:merim-bilalic` | `kt:abraham-luchins`, `kt:einstellung-effect` |
 | `kt:miguel-najdorf` | `kt:najdorf-variation`, `kt:blindfold-chess` |
 | `kt:numeric-annotation-glyphs` | `kt:portable-game-notation`, `kt:annotating-your-games` |
 | `kt:origins-of-chess` | `kt:chaturanga`, `kt:history-of-chess` |
@@ -38,7 +39,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:steven-j-edwards` | `kt:forsyth-edwards-notation`, `kt:portable-game-notation` |
 | `kt:world-blitz-championship` | `kt:world-rapid-championship`, `kt:blitz-chess` |
 | `kt:zukertort-versus-blackburne-london-1883` | `kt:london-1883`, `kt:johannes-zukertort` |
-| `kt:abraham-luchins` | `kt:einstellung-effect` |
 | `kt:abstract-strategy-game` | `kt:chess` |
 | `kt:alfred-binet` | `kt:cognitive-psychology-of-chess` |
 | `kt:allen-newell` | `kt:herbert-simon` |
@@ -163,7 +163,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:maroczy-bind` | `kt:space-advantage` |
 | `kt:marshall-attack` | `kt:ruy-lopez` |
 | `kt:max-lange` | `kt:helpmate` |
-| `kt:merim-bilalic` | `kt:einstellung-effect` |
+| `kt:max-wertheimer` | `kt:abraham-luchins` |
 | `kt:mitrofanov-study-1967` | `kt:deflection` |
 | `kt:modena-school` | `kt:romantic-era` |
 | `kt:move-generation` | `kt:bitboards` |

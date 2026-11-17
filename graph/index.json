@@ -1,5 +1,27 @@
 [
   {
+    "id": "kt:abraham-luchins",
+    "title": "Abraham Luchins",
+    "aliases": [
+      "Abraham S. Luchins",
+      "A. S. Luchins"
+    ],
+    "type": "Person",
+    "domain": "training-and-improvement",
+    "file": "articles/training-and-improvement/abraham-luchins.md",
+    "created": "2026-11-17",
+    "verified": "2026-11-17",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://en.gestalttheory.net/people/GPASLuchins.html",
+      "https://en.gestalttheory.net/uploads/pdf/archive/ab1990/LuchinsStudent.pdf",
+      "https://en.gestalttheory.net/uploads/pdf/GTH-Archive/1987Luchins_WertheimerInAmerica.pdf",
+      "https://escholarship.mcgill.ca/downloads/t435gh114",
+      "https://bura.brunel.ac.uk/bitstream/2438/5777/1/Fulltext.pdf"
+    ]
+  },
+  {
     "id": "kt:adams-versus-torre-new-orleans-1920",
     "title": "Adams versus Torre, New Orleans 1920",
     "aliases": [

@@ -1,3 +1,24 @@
+<https://github.com/john1hsu/chess-graph/id/abraham-luchins> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/chess-graph/id/abraham-luchins> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Person> .
+<https://github.com/john1hsu/chess-graph/id/abraham-luchins> <http://www.w3.org/2000/01/rdf-schema#label> "Abraham Luchins" .
+<https://github.com/john1hsu/chess-graph/id/abraham-luchins> <http://www.w3.org/2004/02/skos/core#altLabel> "A. S. Luchins" .
+<https://github.com/john1hsu/chess-graph/id/abraham-luchins> <http://www.w3.org/2004/02/skos/core#altLabel> "Abraham S. Luchins" .
+<https://github.com/john1hsu/chess-graph/id/abraham-luchins> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/abraham-luchins> <http://www.w3.org/2004/02/skos/core#definition> "American Gestalt psychologist (1914–2005), a student of Max Wertheimer, whose 1942 water-jar experiments on \"mechanization in problem solving\" defined the Einstellung (set) effect that later chess research used to explain why strong players miss better moves." .
+<https://github.com/john1hsu/chess-graph/id/abraham-luchins> <http://www.w3.org/2004/02/skos/core#prefLabel> "Abraham Luchins" .
+<https://github.com/john1hsu/chess-graph/id/abraham-luchins> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/calculation> .
+<https://github.com/john1hsu/chess-graph/id/abraham-luchins> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-expertise> .
+<https://github.com/john1hsu/chess-graph/id/abraham-luchins> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/einstellung-effect> .
+<https://github.com/john1hsu/chess-graph/id/abraham-luchins> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/merim-bilalic> .
+<https://github.com/john1hsu/chess-graph/id/abraham-luchins> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/abraham-luchins/s1> .
+<https://github.com/john1hsu/chess-graph/id/abraham-luchins> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/abraham-luchins/s2> .
+<https://github.com/john1hsu/chess-graph/id/abraham-luchins> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/abraham-luchins/s3> .
+<https://github.com/john1hsu/chess-graph/id/abraham-luchins> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/abraham-luchins/s4> .
+<https://github.com/john1hsu/chess-graph/id/abraham-luchins> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/abraham-luchins/s5> .
+<https://github.com/john1hsu/chess-graph/id/abraham-luchins> <https://github.com/john1hsu/chess-graph/ontology#domain> "training-and-improvement" .
+<https://github.com/john1hsu/chess-graph/id/abraham-luchins> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/max-wertheimer> .
+<https://github.com/john1hsu/chess-graph/id/abraham-luchins> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/abraham-luchins> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-17" .
 <https://github.com/john1hsu/chess-graph/id/adams-versus-torre-new-orleans-1920> <http://purl.org/dc/terms/created> "2026-11-16" .
 <https://github.com/john1hsu/chess-graph/id/adams-versus-torre-new-orleans-1920> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Game> .
 <https://github.com/john1hsu/chess-graph/id/adams-versus-torre-new-orleans-1920> <http://www.w3.org/2000/01/rdf-schema#label> "Adams versus Torre, New Orleans 1920" .
@@ -5723,6 +5744,31 @@
 <https://github.com/john1hsu/chess-graph/id/smothered-mate> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/decoy> .
 <https://github.com/john1hsu/chess-graph/id/smothered-mate> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/sacrifice> .
 <https://github.com/john1hsu/chess-graph/id/smothered-mate> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-13" .
+<https://github.com/john1hsu/chess-graph/id/source/abraham-luchins/s1> <http://purl.org/dc/terms/publisher> "Society for Gestalt Theory and its Applications (GTA), Gestalt People" .
+<https://github.com/john1hsu/chess-graph/id/source/abraham-luchins/s1> <http://purl.org/dc/terms/title> "Abraham S. Luchins (1914–2005)" .
+<https://github.com/john1hsu/chess-graph/id/source/abraham-luchins/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/abraham-luchins/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/abraham-luchins/s1> <https://schema.org/url> "https://en.gestalttheory.net/people/GPASLuchins.html" .
+<https://github.com/john1hsu/chess-graph/id/source/abraham-luchins/s2> <http://purl.org/dc/terms/publisher> "Abraham S. Luchins, Society for Gestalt Theory and its Applications" .
+<https://github.com/john1hsu/chess-graph/id/source/abraham-luchins/s2> <http://purl.org/dc/terms/title> "On Being Wertheimer's Student (Gestalt Theory 15(3/4), 1993)" .
+<https://github.com/john1hsu/chess-graph/id/source/abraham-luchins/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/abraham-luchins/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/abraham-luchins/s2> <https://schema.org/url> "https://en.gestalttheory.net/uploads/pdf/archive/ab1990/LuchinsStudent.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/abraham-luchins/s3> <http://purl.org/dc/terms/publisher> "Abraham S. Luchins and Edith H. Luchins, Society for Gestalt Theory and its Applications" .
+<https://github.com/john1hsu/chess-graph/id/source/abraham-luchins/s3> <http://purl.org/dc/terms/title> "Max Wertheimer in America: 1933-1943, Part I (Gestalt Theory 9(2), 1987)" .
+<https://github.com/john1hsu/chess-graph/id/source/abraham-luchins/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/abraham-luchins/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/abraham-luchins/s3> <https://schema.org/url> "https://en.gestalttheory.net/uploads/pdf/GTH-Archive/1987Luchins_WertheimerInAmerica.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/abraham-luchins/s4> <http://purl.org/dc/terms/publisher> "Robert Shulman, McGill University eScholarship" .
+<https://github.com/john1hsu/chess-graph/id/source/abraham-luchins/s4> <http://purl.org/dc/terms/title> "On Some Factors Influencing Mechanization in Problem Solving (M.Sc. thesis, 1951)" .
+<https://github.com/john1hsu/chess-graph/id/source/abraham-luchins/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/abraham-luchins/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/abraham-luchins/s4> <https://schema.org/url> "https://escholarship.mcgill.ca/downloads/t435gh114" .
+<https://github.com/john1hsu/chess-graph/id/source/abraham-luchins/s5> <http://purl.org/dc/terms/publisher> "Merim Bilalić, Peter McLeod and Fernand Gobet, Brunel University Research Archive" .
+<https://github.com/john1hsu/chess-graph/id/source/abraham-luchins/s5> <http://purl.org/dc/terms/title> "The mechanism of the Einstellung (set) effect: A pervasive source of cognitive bias" .
+<https://github.com/john1hsu/chess-graph/id/source/abraham-luchins/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/abraham-luchins/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/abraham-luchins/s5> <https://schema.org/url> "https://bura.brunel.ac.uk/bitstream/2438/5777/1/Fulltext.pdf" .
 <https://github.com/john1hsu/chess-graph/id/source/adams-versus-torre-new-orleans-1920/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
 <https://github.com/john1hsu/chess-graph/id/source/adams-versus-torre-new-orleans-1920/s1> <http://purl.org/dc/terms/title> "Adams v Torre – A Sham?" .
 <https://github.com/john1hsu/chess-graph/id/source/adams-versus-torre-new-orleans-1920/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
