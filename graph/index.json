@@ -76,6 +76,34 @@
     ]
   },
   {
+    "id": "kt:alekhine-versus-nimzowitsch-san-remo-1930",
+    "title": "Alekhine versus Nimzowitsch, San Remo 1930",
+    "aliases": [
+      "Alekhine vs Nimzowitsch",
+      "Alekhine v Nimzowitsch",
+      "Alekhine–Nimzowitsch 1930",
+      "Alekhine versus Nimzowitsch San Remo",
+      "Alekhine versus Nimzovich",
+      "San Remo 1930 round 3"
+    ],
+    "type": "Game",
+    "domain": "history",
+    "file": "articles/history/alekhine-versus-nimzowitsch-san-remo-1930.md",
+    "created": "2026-11-17",
+    "verified": "2026-11-17",
+    "volatile": false,
+    "status": "historical",
+    "eco": "C17",
+    "source_urls": [
+      "https://www.scacco.it/data/attachments/1212/anteprima_sanremo_1930.pdf",
+      "https://chesshistory.com/winter/extra/zugzwang.html",
+      "https://en.chessbase.com/post/at-the-height-of-his-career-alekhine-wins-san-remo-1930-with-14-out-of-15",
+      "https://www.chessgames.com/perl/chess.pl?tid=79296",
+      "https://lichess.org/z2fASrJZ",
+      "https://www.agi.it/sport/news/2024-02-06/sanremo-scacchi-torneo-1930-campioni-25161963/"
+    ]
+  },
+  {
     "id": "kt:alekhines-defence",
     "title": "Alekhine's Defence",
     "aliases": [

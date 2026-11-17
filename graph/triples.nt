@@ -82,6 +82,40 @@
 <https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/chess-olympiad> .
 <https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/alekhine-versus-nimzowitsch-san-remo-1930> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/chess-graph/id/alekhine-versus-nimzowitsch-san-remo-1930> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Game> .
+<https://github.com/john1hsu/chess-graph/id/alekhine-versus-nimzowitsch-san-remo-1930> <http://www.w3.org/2000/01/rdf-schema#label> "Alekhine versus Nimzowitsch, San Remo 1930" .
+<https://github.com/john1hsu/chess-graph/id/alekhine-versus-nimzowitsch-san-remo-1930> <http://www.w3.org/2004/02/skos/core#altLabel> "Alekhine v Nimzowitsch" .
+<https://github.com/john1hsu/chess-graph/id/alekhine-versus-nimzowitsch-san-remo-1930> <http://www.w3.org/2004/02/skos/core#altLabel> "Alekhine versus Nimzovich" .
+<https://github.com/john1hsu/chess-graph/id/alekhine-versus-nimzowitsch-san-remo-1930> <http://www.w3.org/2004/02/skos/core#altLabel> "Alekhine versus Nimzowitsch San Remo" .
+<https://github.com/john1hsu/chess-graph/id/alekhine-versus-nimzowitsch-san-remo-1930> <http://www.w3.org/2004/02/skos/core#altLabel> "Alekhine vs Nimzowitsch" .
+<https://github.com/john1hsu/chess-graph/id/alekhine-versus-nimzowitsch-san-remo-1930> <http://www.w3.org/2004/02/skos/core#altLabel> "Alekhine–Nimzowitsch 1930" .
+<https://github.com/john1hsu/chess-graph/id/alekhine-versus-nimzowitsch-san-remo-1930> <http://www.w3.org/2004/02/skos/core#altLabel> "San Remo 1930 round 3" .
+<https://github.com/john1hsu/chess-graph/id/alekhine-versus-nimzowitsch-san-remo-1930> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/blockade> .
+<https://github.com/john1hsu/chess-graph/id/alekhine-versus-nimzowitsch-san-remo-1930> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/french-defence> .
+<https://github.com/john1hsu/chess-graph/id/alekhine-versus-nimzowitsch-san-remo-1930> <http://www.w3.org/2004/02/skos/core#definition> "Alexander Alekhine's 30-move win over Aron Nimzowitsch in round 3 of San Remo 1930, a French Winawer in which White seized the queenside, tripled his heavy pieces on the c-file and left Black without useful moves; it is the namesake example of Alekhine's gun and a much-debated \"zugzwang\" game." .
+<https://github.com/john1hsu/chess-graph/id/alekhine-versus-nimzowitsch-san-remo-1930> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alekhine versus Nimzowitsch, San Remo 1930" .
+<https://github.com/john1hsu/chess-graph/id/alekhine-versus-nimzowitsch-san-remo-1930> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/alekhines-gun> .
+<https://github.com/john1hsu/chess-graph/id/alekhine-versus-nimzowitsch-san-remo-1930> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/open-file> .
+<https://github.com/john1hsu/chess-graph/id/alekhine-versus-nimzowitsch-san-remo-1930> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/space-advantage> .
+<https://github.com/john1hsu/chess-graph/id/alekhine-versus-nimzowitsch-san-remo-1930> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/weak-squares> .
+<https://github.com/john1hsu/chess-graph/id/alekhine-versus-nimzowitsch-san-remo-1930> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/zugzwang> .
+<https://github.com/john1hsu/chess-graph/id/alekhine-versus-nimzowitsch-san-remo-1930> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/alekhine-versus-nimzowitsch-san-remo-1930/s1> .
+<https://github.com/john1hsu/chess-graph/id/alekhine-versus-nimzowitsch-san-remo-1930> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/alekhine-versus-nimzowitsch-san-remo-1930/s2> .
+<https://github.com/john1hsu/chess-graph/id/alekhine-versus-nimzowitsch-san-remo-1930> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/alekhine-versus-nimzowitsch-san-remo-1930/s3> .
+<https://github.com/john1hsu/chess-graph/id/alekhine-versus-nimzowitsch-san-remo-1930> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/alekhine-versus-nimzowitsch-san-remo-1930/s4> .
+<https://github.com/john1hsu/chess-graph/id/alekhine-versus-nimzowitsch-san-remo-1930> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/alekhine-versus-nimzowitsch-san-remo-1930/s5> .
+<https://github.com/john1hsu/chess-graph/id/alekhine-versus-nimzowitsch-san-remo-1930> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/alekhine-versus-nimzowitsch-san-remo-1930/s6> .
+<https://github.com/john1hsu/chess-graph/id/alekhine-versus-nimzowitsch-san-remo-1930> <https://github.com/john1hsu/chess-graph/ontology#domain> "history" .
+<https://github.com/john1hsu/chess-graph/id/alekhine-versus-nimzowitsch-san-remo-1930> <https://github.com/john1hsu/chess-graph/ontology#eco> "C17" .
+<https://github.com/john1hsu/chess-graph/id/alekhine-versus-nimzowitsch-san-remo-1930> <https://github.com/john1hsu/chess-graph/ontology#exemplifies> <https://github.com/john1hsu/chess-graph/id/alekhines-gun> .
+<https://github.com/john1hsu/chess-graph/id/alekhine-versus-nimzowitsch-san-remo-1930> <https://github.com/john1hsu/chess-graph/ontology#exemplifies> <https://github.com/john1hsu/chess-graph/id/blockade> .
+<https://github.com/john1hsu/chess-graph/id/alekhine-versus-nimzowitsch-san-remo-1930> <https://github.com/john1hsu/chess-graph/ontology#fen> "2rk4/p1rqn1p1/P1n1p2p/3pPp2/BP1P1P1P/2R2N2/2R3P1/2Q3K1 b - - 0 30" .
+<https://github.com/john1hsu/chess-graph/id/alekhine-versus-nimzowitsch-san-remo-1930> <https://github.com/john1hsu/chess-graph/ontology#playedBy> <https://github.com/john1hsu/chess-graph/id/alexander-alekhine> .
+<https://github.com/john1hsu/chess-graph/id/alekhine-versus-nimzowitsch-san-remo-1930> <https://github.com/john1hsu/chess-graph/ontology#playedBy> <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> .
+<https://github.com/john1hsu/chess-graph/id/alekhine-versus-nimzowitsch-san-remo-1930> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/san-remo-1930> .
+<https://github.com/john1hsu/chess-graph/id/alekhine-versus-nimzowitsch-san-remo-1930> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/alekhine-versus-nimzowitsch-san-remo-1930> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-17" .
 <https://github.com/john1hsu/chess-graph/id/alekhines-defence> <http://purl.org/dc/terms/created> "2026-11-14" .
 <https://github.com/john1hsu/chess-graph/id/alekhines-defence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Opening> .
 <https://github.com/john1hsu/chess-graph/id/alekhines-defence> <http://www.w3.org/2000/01/rdf-schema#label> "Alekhine's Defence" .
@@ -5435,6 +5469,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/adriaan-de-groot/s6> <https://schema.org/url> "https://kwabc.org/en/newsitem/adrianus-dingeman-de-groot-1914-2006-chess-player-and-chess-psychologist.html" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhine-versus-nimzowitsch-san-remo-1930/s1> <http://purl.org/dc/terms/publisher> "Enrico Cecchelli; preview PDF on scacco.it" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhine-versus-nimzowitsch-san-remo-1930/s1> <http://purl.org/dc/terms/title> "Sanremo 1930 – Il torneo dei giganti (publisher's preview: games and notes)" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhine-versus-nimzowitsch-san-remo-1930/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/alekhine-versus-nimzowitsch-san-remo-1930/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhine-versus-nimzowitsch-san-remo-1930/s1> <https://schema.org/url> "https://www.scacco.it/data/attachments/1212/anteprima_sanremo_1930.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhine-versus-nimzowitsch-san-remo-1930/s2> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhine-versus-nimzowitsch-san-remo-1930/s2> <http://purl.org/dc/terms/title> "Zugzwang" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhine-versus-nimzowitsch-san-remo-1930/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/alekhine-versus-nimzowitsch-san-remo-1930/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhine-versus-nimzowitsch-san-remo-1930/s2> <https://schema.org/url> "https://chesshistory.com/winter/extra/zugzwang.html" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhine-versus-nimzowitsch-san-remo-1930/s3> <http://purl.org/dc/terms/publisher> "ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhine-versus-nimzowitsch-san-remo-1930/s3> <http://purl.org/dc/terms/title> "At the height of his career: Alekhine wins San Remo 1930 with 14 out of 15 (Johannes Fischer, 15 January 2024)" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhine-versus-nimzowitsch-san-remo-1930/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/alekhine-versus-nimzowitsch-san-remo-1930/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhine-versus-nimzowitsch-san-remo-1930/s3> <https://schema.org/url> "https://en.chessbase.com/post/at-the-height-of-his-career-alekhine-wins-san-remo-1930-with-14-out-of-15" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhine-versus-nimzowitsch-san-remo-1930/s4> <http://purl.org/dc/terms/publisher> "chessgames.com" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhine-versus-nimzowitsch-san-remo-1930/s4> <http://purl.org/dc/terms/title> "San Remo (1930), tournament page and crosstable" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhine-versus-nimzowitsch-san-remo-1930/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/alekhine-versus-nimzowitsch-san-remo-1930/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhine-versus-nimzowitsch-san-remo-1930/s4> <https://schema.org/url> "https://www.chessgames.com/perl/chess.pl?tid=79296" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhine-versus-nimzowitsch-san-remo-1930/s5> <http://purl.org/dc/terms/publisher> "Lichess" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhine-versus-nimzowitsch-san-remo-1930/s5> <http://purl.org/dc/terms/title> "Alekhine vs. Nimzowitsch, San Remo 1930, round 3 (game record)" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhine-versus-nimzowitsch-san-remo-1930/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/alekhine-versus-nimzowitsch-san-remo-1930/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhine-versus-nimzowitsch-san-remo-1930/s5> <https://schema.org/url> "https://lichess.org/z2fASrJZ" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhine-versus-nimzowitsch-san-remo-1930/s6> <http://purl.org/dc/terms/publisher> "AGI Agenzia Italia" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhine-versus-nimzowitsch-san-remo-1930/s6> <http://purl.org/dc/terms/title> "Sanremo 1930: the chess tournament of champions (article, 6 February 2024)" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhine-versus-nimzowitsch-san-remo-1930/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/alekhine-versus-nimzowitsch-san-remo-1930/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/chess-graph/id/source/alekhine-versus-nimzowitsch-san-remo-1930/s6> <https://schema.org/url> "https://www.agi.it/sport/news/2024-02-06/sanremo-scacchi-torneo-1930-campioni-25161963/" .
 <https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
 <https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s1> <http://purl.org/dc/terms/title> "Alekhine's Defence" .
 <https://github.com/john1hsu/chess-graph/id/source/alekhines-defence/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

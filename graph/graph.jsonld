@@ -5812,6 +5812,112 @@
       ]
     },
     {
+      "@id": "kt:alekhine-versus-nimzowitsch-san-remo-1930",
+      "@type": "kto:Game",
+      "skos:prefLabel": "Alekhine versus Nimzowitsch, San Remo 1930",
+      "skos:definition": "Alexander Alekhine's 30-move win over Aron Nimzowitsch in round 3 of San Remo 1930, a French Winawer in which White seized the queenside, tripled his heavy pieces on the c-file and left Black without useful moves; it is the namesake example of Alekhine's gun and a much-debated \"zugzwang\" game.",
+      "kto:domain": "history",
+      "dcterms:created": "2026-11-17",
+      "kto:verified": "2026-11-17",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Sanremo 1930 – Il torneo dei giganti (publisher's preview: games and notes)",
+          "dcterms:publisher": "Enrico Cecchelli; preview PDF on scacco.it",
+          "schema:url": "https://www.scacco.it/data/attachments/1212/anteprima_sanremo_1930.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Zugzwang",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://chesshistory.com/winter/extra/zugzwang.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "At the height of his career: Alekhine wins San Remo 1930 with 14 out of 15 (Johannes Fischer, 15 January 2024)",
+          "dcterms:publisher": "ChessBase News",
+          "schema:url": "https://en.chessbase.com/post/at-the-height-of-his-career-alekhine-wins-san-remo-1930-with-14-out-of-15",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "San Remo (1930), tournament page and crosstable",
+          "dcterms:publisher": "chessgames.com",
+          "schema:url": "https://www.chessgames.com/perl/chess.pl?tid=79296",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "Alekhine vs. Nimzowitsch, San Remo 1930, round 3 (game record)",
+          "dcterms:publisher": "Lichess",
+          "schema:url": "https://lichess.org/z2fASrJZ",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "Sanremo 1930: the chess tournament of champions (article, 6 February 2024)",
+          "dcterms:publisher": "AGI Agenzia Italia",
+          "schema:url": "https://www.agi.it/sport/news/2024-02-06/sanremo-scacchi-torneo-1930-campioni-25161963/",
+          "kto:sourceType": "news"
+        }
+      ],
+      "kto:file": "articles/history/alekhine-versus-nimzowitsch-san-remo-1930.md",
+      "skos:altLabel": [
+        "Alekhine vs Nimzowitsch",
+        "Alekhine v Nimzowitsch",
+        "Alekhine–Nimzowitsch 1930",
+        "Alekhine versus Nimzowitsch San Remo",
+        "Alekhine versus Nimzovich",
+        "San Remo 1930 round 3"
+      ],
+      "kto:eco": "C17",
+      "kto:fen": "2rk4/p1rqn1p1/P1n1p2p/3pPp2/BP1P1P1P/2R2N2/2R3P1/2Q3K1 b - - 0 30",
+      "skos:broader": [
+        {
+          "@id": "kt:french-defence"
+        },
+        {
+          "@id": "kt:blockade"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:alekhines-gun"
+        },
+        {
+          "@id": "kt:zugzwang"
+        },
+        {
+          "@id": "kt:open-file"
+        },
+        {
+          "@id": "kt:weak-squares"
+        },
+        {
+          "@id": "kt:space-advantage"
+        }
+      ],
+      "kto:playedBy": [
+        {
+          "@id": "kt:alexander-alekhine"
+        },
+        {
+          "@id": "kt:aron-nimzowitsch"
+        }
+      ],
+      "kto:playedIn": [
+        {
+          "@id": "kt:san-remo-1930"
+        }
+      ],
+      "kto:exemplifies": [
+        {
+          "@id": "kt:alekhines-gun"
+        },
+        {
+          "@id": "kt:blockade"
+        }
+      ]
+    },
+    {
       "@id": "kt:chaturanga",
       "@type": "kto:Variant",
       "skos:prefLabel": "Chaturanga",
