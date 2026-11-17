@@ -1932,6 +1932,37 @@
 <https://github.com/john1hsu/chess-graph/id/deliberate-practice> <https://github.com/john1hsu/chess-graph/ontology#domain> "training-and-improvement" .
 <https://github.com/john1hsu/chess-graph/id/deliberate-practice> <https://github.com/john1hsu/chess-graph/ontology#status> "contested" .
 <https://github.com/john1hsu/chess-graph/id/deliberate-practice> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/development> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/chess-graph/id/development> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
+<https://github.com/john1hsu/chess-graph/id/development> <http://www.w3.org/2000/01/rdf-schema#label> "Development" .
+<https://github.com/john1hsu/chess-graph/id/development> <http://www.w3.org/2004/02/skos/core#altLabel> "Developing the pieces" .
+<https://github.com/john1hsu/chess-graph/id/development> <http://www.w3.org/2004/02/skos/core#altLabel> "Development advantage" .
+<https://github.com/john1hsu/chess-graph/id/development> <http://www.w3.org/2004/02/skos/core#altLabel> "Lead in development" .
+<https://github.com/john1hsu/chess-graph/id/development> <http://www.w3.org/2004/02/skos/core#altLabel> "Mobilisation" .
+<https://github.com/john1hsu/chess-graph/id/development> <http://www.w3.org/2004/02/skos/core#altLabel> "Mobilization" .
+<https://github.com/john1hsu/chess-graph/id/development> <http://www.w3.org/2004/02/skos/core#altLabel> "Piece development" .
+<https://github.com/john1hsu/chess-graph/id/development> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-openings> .
+<https://github.com/john1hsu/chess-graph/id/development> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-strategy> .
+<https://github.com/john1hsu/chess-graph/id/development> <http://www.w3.org/2004/02/skos/core#definition> "The opening task of moving the pieces off their starting squares to active posts, usually minor pieces first and castling soon after; the side that mobilises faster can often seize the initiative." .
+<https://github.com/john1hsu/chess-graph/id/development> <http://www.w3.org/2004/02/skos/core#prefLabel> "Development" .
+<https://github.com/john1hsu/chess-graph/id/development> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/castling> .
+<https://github.com/john1hsu/chess-graph/id/development> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/gambit> .
+<https://github.com/john1hsu/chess-graph/id/development> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/hypermodernism> .
+<https://github.com/john1hsu/chess-graph/id/development> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/king-safety> .
+<https://github.com/john1hsu/chess-graph/id/development> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> .
+<https://github.com/john1hsu/chess-graph/id/development> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/tempo> .
+<https://github.com/john1hsu/chess-graph/id/development> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/development/s1> .
+<https://github.com/john1hsu/chess-graph/id/development> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/development/s2> .
+<https://github.com/john1hsu/chess-graph/id/development> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/development/s3> .
+<https://github.com/john1hsu/chess-graph/id/development> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/development/s4> .
+<https://github.com/john1hsu/chess-graph/id/development> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/development/s5> .
+<https://github.com/john1hsu/chess-graph/id/development> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/paul-morphy> .
+<https://github.com/john1hsu/chess-graph/id/development> <https://github.com/john1hsu/chess-graph/ontology#domain> "openings" .
+<https://github.com/john1hsu/chess-graph/id/development> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/initiative> .
+<https://github.com/john1hsu/chess-graph/id/development> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/opera-game> .
+<https://github.com/john1hsu/chess-graph/id/development> <https://github.com/john1hsu/chess-graph/ontology#fen> "rn2kb1r/p3qppp/2p2n2/1p2p1B1/2B1P3/1QN5/PPP2PPP/R3K2R w KQkq - 0 10" .
+<https://github.com/john1hsu/chess-graph/id/development> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/development> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-17" .
 <https://github.com/john1hsu/chess-graph/id/discovered-attack> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/discovered-attack> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TacticalMotif> .
 <https://github.com/john1hsu/chess-graph/id/discovered-attack> <http://www.w3.org/2000/01/rdf-schema#label> "Discovered attack" .
@@ -7334,6 +7365,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/deliberate-practice/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/deliberate-practice/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/chess-graph/id/source/deliberate-practice/s4> <https://schema.org/url> "https://pmc.ncbi.nlm.nih.gov/articles/PMC6731745" .
+<https://github.com/john1hsu/chess-graph/id/source/development/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/development/s1> <http://purl.org/dc/terms/title> "Chess: Development of theory" .
+<https://github.com/john1hsu/chess-graph/id/source/development/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/development/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/development/s1> <https://schema.org/url> "https://www.britannica.com/topic/chess/Development-of-theory" .
+<https://github.com/john1hsu/chess-graph/id/source/development/s2> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/development/s2> <http://purl.org/dc/terms/title> "Development (chess)" .
+<https://github.com/john1hsu/chess-graph/id/source/development/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/development/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/development/s2> <https://schema.org/url> "https://www.britannica.com/topic/development-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/development/s3> <http://purl.org/dc/terms/publisher> "Edward Lasker, G. Bell & Sons; Project Gutenberg edition" .
+<https://github.com/john1hsu/chess-graph/id/source/development/s3> <http://purl.org/dc/terms/title> "Chess Strategy (trans. J. du Mont), Project Gutenberg eBook #5614" .
+<https://github.com/john1hsu/chess-graph/id/source/development/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/development/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/development/s3> <https://schema.org/url> "https://www.gutenberg.org/ebooks/5614.epub.images" .
+<https://github.com/john1hsu/chess-graph/id/source/development/s4> <http://purl.org/dc/terms/publisher> "IM Danny Rensch, Chess.com (updated 30 May 2018)" .
+<https://github.com/john1hsu/chess-graph/id/source/development/s4> <http://purl.org/dc/terms/title> "The Principles of the Opening" .
+<https://github.com/john1hsu/chess-graph/id/source/development/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/development/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/development/s4> <https://schema.org/url> "https://www.chess.com/article/the-principles-of-the-opening" .
+<https://github.com/john1hsu/chess-graph/id/source/development/s5> <http://purl.org/dc/terms/publisher> "Chess Programming Wiki" .
+<https://github.com/john1hsu/chess-graph/id/source/development/s5> <http://purl.org/dc/terms/title> "Development" .
+<https://github.com/john1hsu/chess-graph/id/source/development/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/development/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/development/s5> <https://schema.org/url> "https://www.chessprogramming.org/Development" .
 <https://github.com/john1hsu/chess-graph/id/source/discovered-attack/s1> <http://purl.org/dc/terms/publisher> "English Chess Federation" .
 <https://github.com/john1hsu/chess-graph/id/source/discovered-attack/s1> <http://purl.org/dc/terms/title> "Discovered Attacks (Chess Skills leaflet)" .
 <https://github.com/john1hsu/chess-graph/id/source/discovered-attack/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

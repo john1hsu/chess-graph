@@ -1716,6 +1716,32 @@
     ]
   },
   {
+    "id": "kt:development",
+    "title": "Development",
+    "aliases": [
+      "Piece development",
+      "Developing the pieces",
+      "Lead in development",
+      "Development advantage",
+      "Mobilisation",
+      "Mobilization"
+    ],
+    "type": "StrategicConcept",
+    "domain": "openings",
+    "file": "articles/openings/development.md",
+    "created": "2026-11-17",
+    "verified": "2026-11-17",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.britannica.com/topic/chess/Development-of-theory",
+      "https://www.britannica.com/topic/development-chess",
+      "https://www.gutenberg.org/ebooks/5614.epub.images",
+      "https://www.chess.com/article/the-principles-of-the-opening",
+      "https://www.chessprogramming.org/Development"
+    ]
+  },
+  {
     "id": "kt:discovered-attack",
     "title": "Discovered attack",
     "aliases": [
