@@ -4935,6 +4935,36 @@
 <https://github.com/john1hsu/chess-graph/id/rook-versus-pawn> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/outflanking> .
 <https://github.com/john1hsu/chess-graph/id/rook-versus-pawn> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/underpromotion> .
 <https://github.com/john1hsu/chess-graph/id/rook-versus-pawn> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-16" .
+<https://github.com/john1hsu/chess-graph/id/round-robin> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/chess-graph/id/round-robin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Rule> .
+<https://github.com/john1hsu/chess-graph/id/round-robin> <http://www.w3.org/2000/01/rdf-schema#label> "Round robin" .
+<https://github.com/john1hsu/chess-graph/id/round-robin> <http://www.w3.org/2004/02/skos/core#altLabel> "All-play-all tournament" .
+<https://github.com/john1hsu/chess-graph/id/round-robin> <http://www.w3.org/2004/02/skos/core#altLabel> "All-play-all" .
+<https://github.com/john1hsu/chess-graph/id/round-robin> <http://www.w3.org/2004/02/skos/core#altLabel> "Double round robin" .
+<https://github.com/john1hsu/chess-graph/id/round-robin> <http://www.w3.org/2004/02/skos/core#altLabel> "Round robin tournament" .
+<https://github.com/john1hsu/chess-graph/id/round-robin> <http://www.w3.org/2004/02/skos/core#altLabel> "Round-robin tournament" .
+<https://github.com/john1hsu/chess-graph/id/round-robin> <http://www.w3.org/2004/02/skos/core#altLabel> "Single round robin" .
+<https://github.com/john1hsu/chess-graph/id/round-robin> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-tournament> .
+<https://github.com/john1hsu/chess-graph/id/round-robin> <http://www.w3.org/2004/02/skos/core#definition> "A tournament format in which every participant plays every other participant, once in a single round robin or twice with colours reversed in a double round robin; FIDE schedules it with the Berger tables of Handbook C.05 Annex 1 and ranks tied players with round-robin tie-breaks such as Sonneborn-Berger and the Koya system." .
+<https://github.com/john1hsu/chess-graph/id/round-robin> <http://www.w3.org/2004/02/skos/core#prefLabel> "Round robin" .
+<https://github.com/john1hsu/chess-graph/id/round-robin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/arbiter> .
+<https://github.com/john1hsu/chess-graph/id/round-robin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/candidates-tournament> .
+<https://github.com/john1hsu/chess-graph/id/round-robin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/tata-steel-chess-tournament> .
+<https://github.com/john1hsu/chess-graph/id/round-robin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/tie-break> .
+<https://github.com/john1hsu/chess-graph/id/round-robin> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/round-robin/s1> .
+<https://github.com/john1hsu/chess-graph/id/round-robin> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/round-robin/s2> .
+<https://github.com/john1hsu/chess-graph/id/round-robin> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/round-robin/s3> .
+<https://github.com/john1hsu/chess-graph/id/round-robin> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/round-robin/s4> .
+<https://github.com/john1hsu/chess-graph/id/round-robin> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/round-robin/s5> .
+<https://github.com/john1hsu/chess-graph/id/round-robin> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/round-robin/s6> .
+<https://github.com/john1hsu/chess-graph/id/round-robin> <https://github.com/john1hsu/chess-graph/ontology#alternativeTo> <https://github.com/john1hsu/chess-graph/id/knockout-tournament> .
+<https://github.com/john1hsu/chess-graph/id/round-robin> <https://github.com/john1hsu/chess-graph/ontology#alternativeTo> <https://github.com/john1hsu/chess-graph/id/swiss-system> .
+<https://github.com/john1hsu/chess-graph/id/round-robin> <https://github.com/john1hsu/chess-graph/ontology#domain> "events-and-organizations" .
+<https://github.com/john1hsu/chess-graph/id/round-robin> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/candidates-tournament> .
+<https://github.com/john1hsu/chess-graph/id/round-robin> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/berger-tables> .
+<https://github.com/john1hsu/chess-graph/id/round-robin> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/fide> .
+<https://github.com/john1hsu/chess-graph/id/round-robin> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/round-robin> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-17" .
 <https://github.com/john1hsu/chess-graph/id/rule-of-the-square> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/chess-graph/id/rule-of-the-square> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Technique> .
 <https://github.com/john1hsu/chess-graph/id/rule-of-the-square> <http://www.w3.org/2000/01/rdf-schema#label> "Rule of the square" .
@@ -10439,6 +10469,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/rook-versus-pawn/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/rook-versus-pawn/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/rook-versus-pawn/s4> <https://schema.org/url> "https://www.charlottechesscenter.org/post/rook-vs-pawn" .
+<https://github.com/john1hsu/chess-graph/id/source/round-robin/s1> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
+<https://github.com/john1hsu/chess-graph/id/source/round-robin/s1> <http://purl.org/dc/terms/title> "C.05 Annex 1: Details of Berger Tables" .
+<https://github.com/john1hsu/chess-graph/id/source/round-robin/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/round-robin/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/round-robin/s1> <https://schema.org/url> "https://handbook.fide.com/chapter/C05Annex1" .
+<https://github.com/john1hsu/chess-graph/id/source/round-robin/s2> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
+<https://github.com/john1hsu/chess-graph/id/source/round-robin/s2> <http://purl.org/dc/terms/title> "C.07 Play-Off and Tie-Break Regulations (applied from 1 March 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/round-robin/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/round-robin/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/round-robin/s2> <https://schema.org/url> "https://handbook.fide.com/chapter/TieBreakRegulations032026" .
+<https://github.com/john1hsu/chess-graph/id/source/round-robin/s3> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
+<https://github.com/john1hsu/chess-graph/id/source/round-robin/s3> <http://purl.org/dc/terms/title> "C.05 Annex 2: Details of Varma Tables" .
+<https://github.com/john1hsu/chess-graph/id/source/round-robin/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/round-robin/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/round-robin/s3> <https://schema.org/url> "https://handbook.fide.com/chapter/C05Annex2" .
+<https://github.com/john1hsu/chess-graph/id/source/round-robin/s4> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
+<https://github.com/john1hsu/chess-graph/id/source/round-robin/s4> <http://purl.org/dc/terms/title> "Regulations for the FIDE Candidates Tournament 2026" .
+<https://github.com/john1hsu/chess-graph/id/source/round-robin/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/round-robin/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/round-robin/s4> <https://schema.org/url> "https://handbook.fide.com/files/handbook/Regulations_for_the_FIDE_Candidates_Tournament_2026.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/round-robin/s5> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/round-robin/s5> <http://purl.org/dc/terms/title> "double round-robin" .
+<https://github.com/john1hsu/chess-graph/id/source/round-robin/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/round-robin/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/round-robin/s5> <https://schema.org/url> "https://www.britannica.com/topic/double-round-robin" .
+<https://github.com/john1hsu/chess-graph/id/source/round-robin/s6> <http://purl.org/dc/terms/publisher> "US Chess Forum (thread citing The Oxford Companion to Chess)" .
+<https://github.com/john1hsu/chess-graph/id/source/round-robin/s6> <http://purl.org/dc/terms/title> "How old are the Berger round-robin tables?" .
+<https://github.com/john1hsu/chess-graph/id/source/round-robin/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/round-robin/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/round-robin/s6> <https://schema.org/url> "https://forum.uschess.org/t/how-old-are-the-berger-round-robin-tables/6841" .
 <https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s1> <http://purl.org/dc/terms/publisher> "Mark Dvoretsky, revised by Karsten Müller and Alex Fishbein, Russell Enterprises (2025); excerpt hosted by De Beste Zet" .
 <https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s1> <http://purl.org/dc/terms/title> "Dvoretsky's Endgame Manual, sixth edition (excerpt with table of contents)" .
 <https://github.com/john1hsu/chess-graph/id/source/rule-of-the-square/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

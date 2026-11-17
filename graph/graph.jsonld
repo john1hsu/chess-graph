@@ -4959,6 +4959,106 @@
       ]
     },
     {
+      "@id": "kt:round-robin",
+      "@type": "kto:Rule",
+      "skos:prefLabel": "Round robin",
+      "skos:definition": "A tournament format in which every participant plays every other participant, once in a single round robin or twice with colours reversed in a double round robin; FIDE schedules it with the Berger tables of Handbook C.05 Annex 1 and ranks tied players with round-robin tie-breaks such as Sonneborn-Berger and the Koya system.",
+      "kto:domain": "events-and-organizations",
+      "dcterms:created": "2026-11-17",
+      "kto:verified": "2026-11-17",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "C.05 Annex 1: Details of Berger Tables",
+          "dcterms:publisher": "FIDE Handbook",
+          "schema:url": "https://handbook.fide.com/chapter/C05Annex1",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "C.07 Play-Off and Tie-Break Regulations (applied from 1 March 2026)",
+          "dcterms:publisher": "FIDE Handbook",
+          "schema:url": "https://handbook.fide.com/chapter/TieBreakRegulations032026",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "C.05 Annex 2: Details of Varma Tables",
+          "dcterms:publisher": "FIDE Handbook",
+          "schema:url": "https://handbook.fide.com/chapter/C05Annex2",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Regulations for the FIDE Candidates Tournament 2026",
+          "dcterms:publisher": "FIDE Handbook",
+          "schema:url": "https://handbook.fide.com/files/handbook/Regulations_for_the_FIDE_Candidates_Tournament_2026.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "double round-robin",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/double-round-robin",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "How old are the Berger round-robin tables?",
+          "dcterms:publisher": "US Chess Forum (thread citing The Oxford Companion to Chess)",
+          "schema:url": "https://forum.uschess.org/t/how-old-are-the-berger-round-robin-tables/6841",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/events-and-organizations/round-robin.md",
+      "skos:altLabel": [
+        "Round-robin tournament",
+        "Round robin tournament",
+        "All-play-all",
+        "All-play-all tournament",
+        "Double round robin",
+        "Single round robin"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess-tournament"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:tie-break"
+        },
+        {
+          "@id": "kt:arbiter"
+        },
+        {
+          "@id": "kt:candidates-tournament"
+        },
+        {
+          "@id": "kt:tata-steel-chess-tournament"
+        }
+      ],
+      "kto:sanctionedBy": [
+        {
+          "@id": "kt:fide"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:berger-tables"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:swiss-system"
+        },
+        {
+          "@id": "kt:knockout-tournament"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:candidates-tournament"
+        }
+      ]
+    },
+    {
       "@id": "kt:saint-louis-chess-club",
       "@type": "kto:Organization",
       "skos:prefLabel": "Saint Louis Chess Club",

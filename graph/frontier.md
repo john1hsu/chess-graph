@@ -36,7 +36,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:outflanking` | `kt:rook-versus-pawn`, `kt:shouldering` |
 | `kt:overprotection` | `kt:prophylaxis`, `kt:prophylaxis` |
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
-| `kt:round-robin` | `kt:swiss-system`, `kt:tata-steel-chess-tournament` |
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:zugzwang`, `kt:aron-nimzowitsch` |
 | `kt:san-remo-1930` | `kt:alekhine-versus-nimzowitsch-san-remo-1930`, `kt:alexander-alekhine` |
 | `kt:scout-algorithm` | `kt:principal-variation-search`, `kt:principal-variation-search` |
@@ -57,6 +56,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:babson-task` | `kt:allumwandlung` |
 | `kt:baden-baden-1870` | `kt:adolf-anderssen` |
 | `kt:baku-acceleration` | `kt:swiss-system` |
+| `kt:berger-tables` | `kt:round-robin` |
 | `kt:board-representation` | `kt:bitboards` |
 | `kt:botvinnik-versus-tal-moscow-1960-game-6` | `kt:mikhail-tal` |
 | `kt:breakthrough` | `kt:passed-pawn` |
@@ -142,6 +142,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:killer-heuristic` | `kt:move-ordering` |
 | `kt:king-activity` | `kt:king-safety` |
 | `kt:kings-indian-defence` | `kt:soviet-chess-school` |
+| `kt:knockout-tournament` | `kt:round-robin` |
 | `kt:kramnik-versus-anand-bonn-2008-game-3` | `kt:viswanathan-anand` |
 | `kt:lasker-capablanca-havana-1921-game-10` | `kt:jose-raul-capablanca` |
 | `kt:lasker-capablanca-st-petersburg-1914` | `kt:emanuel-lasker` |

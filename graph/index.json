@@ -4402,6 +4402,33 @@
     ]
   },
   {
+    "id": "kt:round-robin",
+    "title": "Round robin",
+    "aliases": [
+      "Round-robin tournament",
+      "Round robin tournament",
+      "All-play-all",
+      "All-play-all tournament",
+      "Double round robin",
+      "Single round robin"
+    ],
+    "type": "Rule",
+    "domain": "events-and-organizations",
+    "file": "articles/events-and-organizations/round-robin.md",
+    "created": "2026-11-17",
+    "verified": "2026-11-17",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://handbook.fide.com/chapter/C05Annex1",
+      "https://handbook.fide.com/chapter/TieBreakRegulations032026",
+      "https://handbook.fide.com/chapter/C05Annex2",
+      "https://handbook.fide.com/files/handbook/Regulations_for_the_FIDE_Candidates_Tournament_2026.pdf",
+      "https://www.britannica.com/topic/double-round-robin",
+      "https://forum.uschess.org/t/how-old-are-the-berger-round-robin-tables/6841"
+    ]
+  },
+  {
     "id": "kt:rule-of-the-square",
     "title": "Rule of the square",
     "aliases": [
