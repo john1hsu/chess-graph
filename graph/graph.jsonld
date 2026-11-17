@@ -7250,6 +7250,107 @@
       ]
     },
     {
+      "@id": "kt:london-1883",
+      "@type": "kto:Event",
+      "skos:prefLabel": "London 1883",
+      "skos:definition": "The fourteen-player double round-robin held in London from April to June 1883, won by Johannes Zukertort with 22/26 ahead of Wilhelm Steinitz; it was the first tournament to use a double-faced chess clock and set up the 1886 Steinitz–Zukertort world championship match.",
+      "kto:domain": "history",
+      "dcterms:created": "2026-11-17",
+      "kto:verified": "2026-11-17",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "London 1883: Prelude to the First World Championship Match (April 26, 1883 - June 23, 1883)",
+          "dcterms:publisher": "ChessBase News (Eugene Manlapao, 27 April 2022)",
+          "schema:url": "https://en.chessbase.com/newsroom/post/london-1883-prelude-to-the-first-world-championship-match-april-26-1883-june-23-1883",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Games Played in the International Chess Tournament, 1883 (ed. J.I. Minchin; London: Jas Wade, 1883)",
+          "dcterms:publisher": "Antiquarian Booksellers' Association of America (catalogue record)",
+          "schema:url": "https://www.abaa.org/book/54685373",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Zukertort v Blackburne, London, 1883",
+          "dcterms:publisher": "Edward Winter, Chess Notes",
+          "schema:url": "https://chesshistory.com/winter/extra/zukertortblackburne.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Zukertort, Johannes Hermann",
+          "dcterms:publisher": "Jewish Encyclopedia (1906; Isidore Singer and A. Porter)",
+          "schema:url": "https://www.jewishencyclopedia.com/articles/15294",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Willy Hendriks' \"The Ink War\" - The Mystery of Zukertort's Breakdown",
+          "dcterms:publisher": "ChessBase News (13 December 2022, adapted from The Ink War, New In Chess)",
+          "schema:url": "https://en.chessbase.com/newsroom/post/the-mystery-of-zukertort-s-breakdown",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/history/london-1883.md",
+      "skos:altLabel": [
+        "London 1883 chess tournament",
+        "London International Chess Tournament 1883",
+        "International Chess Tournament London 1883",
+        "London 1883 international tournament"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess-tournament"
+        },
+        {
+          "@id": "kt:romantic-era"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:world-chess-championship-1886"
+        },
+        {
+          "@id": "kt:london-1851"
+        },
+        {
+          "@id": "kt:chess-clock"
+        },
+        {
+          "@id": "kt:round-robin"
+        },
+        {
+          "@id": "kt:hastings-1895"
+        }
+      ],
+      "kto:wonBy": [
+        {
+          "@id": "kt:johannes-zukertort"
+        }
+      ],
+      "kto:playedBy": [
+        {
+          "@id": "kt:wilhelm-steinitz"
+        },
+        {
+          "@id": "kt:joseph-henry-blackburne"
+        },
+        {
+          "@id": "kt:mikhail-chigorin"
+        }
+      ],
+      "kto:organizedBy": [
+        {
+          "@id": "kt:marmaduke-wyvill"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:zukertort-versus-blackburne-london-1883"
+        }
+      ]
+    },
+    {
       "@id": "kt:opera-game",
       "@type": "kto:Game",
       "skos:prefLabel": "Opera Game",

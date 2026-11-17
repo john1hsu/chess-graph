@@ -3381,6 +3381,30 @@
     ]
   },
   {
+    "id": "kt:london-1883",
+    "title": "London 1883",
+    "aliases": [
+      "London 1883 chess tournament",
+      "London International Chess Tournament 1883",
+      "International Chess Tournament London 1883",
+      "London 1883 international tournament"
+    ],
+    "type": "Event",
+    "domain": "history",
+    "file": "articles/history/london-1883.md",
+    "created": "2026-11-17",
+    "verified": "2026-11-17",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://en.chessbase.com/newsroom/post/london-1883-prelude-to-the-first-world-championship-match-april-26-1883-june-23-1883",
+      "https://www.abaa.org/book/54685373",
+      "https://chesshistory.com/winter/extra/zukertortblackburne.html",
+      "https://www.jewishencyclopedia.com/articles/15294",
+      "https://en.chessbase.com/newsroom/post/the-mystery-of-zukertort-s-breakdown"
+    ]
+  },
+  {
     "id": "kt:long-term-working-memory",
     "title": "Long-term working memory",
     "aliases": [

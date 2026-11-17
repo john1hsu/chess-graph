@@ -6,10 +6,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:alexander-alekhine`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:boris-spassky`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:magnus-carlsen`, `kt:mikhail-botvinnik`, `kt:mikhail-tal`, `kt:tigran-petrosian`, `kt:viswanathan-anand`, `kt:vladimir-kramnik`, `kt:wilhelm-steinitz` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:the-turk`, `kt:herbert-simon` |
+| `kt:mikhail-chigorin` | `kt:hastings-1895`, `kt:london-1883`, `kt:evans-gambit`, `kt:wilhelm-steinitz` |
 | `kt:berlin-defence` | `kt:alphazero`, `kt:ruy-lopez`, `kt:vladimir-kramnik` |
 | `kt:david-bronstein` | `kt:kings-gambit`, `kt:bronstein-delay`, `kt:bronstein-delay` |
 | `kt:howard-staunton` | `kt:london-1851`, `kt:london-1851`, `kt:paul-morphy` |
-| `kt:mikhail-chigorin` | `kt:hastings-1895`, `kt:evans-gambit`, `kt:wilhelm-steinitz` |
 | `kt:philidor-defence` | `kt:adams-versus-torre-new-orleans-1920`, `kt:opera-game`, `kt:francois-andre-danican-philidor` |
 | `kt:tempo` | `kt:rule-of-the-square`, `kt:development`, `kt:gambit` |
 | `kt:albin-countergambit` | `kt:queens-gambit`, `kt:underpromotion` |
@@ -17,12 +17,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:botvinnik-versus-capablanca-avro-1938` | `kt:soviet-chess-school`, `kt:mikhail-botvinnik` |
 | `kt:carlsen-versus-anand-sochi-2014-game-6` | `kt:magnus-carlsen`, `kt:zwischenzug` |
 | `kt:extended-position-description` | `kt:forsyth-edwards-notation`, `kt:portable-game-notation` |
+| `kt:joseph-henry-blackburne` | `kt:london-1883`, `kt:johannes-zukertort` |
 | `kt:ju-wenjun` | `kt:womens-world-chess-championship`, `kt:womens-world-chess-championship` |
 | `kt:karpov-versus-unzicker-nice-1974` | `kt:prophylaxis`, `kt:anatoly-karpov` |
 | `kt:knight-versus-bishop` | `kt:bishop-and-knight-checkmate`, `kt:good-and-bad-bishops` |
 | `kt:lionel-kieseritzky` | `kt:immortal-game`, `kt:london-1851` |
-| `kt:london-1883` | `kt:world-chess-championship-1886`, `kt:johannes-zukertort` |
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position`, `kt:smothered-mate` |
+| `kt:marmaduke-wyvill` | `kt:london-1851`, `kt:london-1883` |
 | `kt:max-euwe` | `kt:slav-defence`, `kt:alexander-alekhine` |
 | `kt:miguel-najdorf` | `kt:najdorf-variation`, `kt:blindfold-chess` |
 | `kt:numeric-annotation-glyphs` | `kt:portable-game-notation`, `kt:annotating-your-games` |
@@ -37,6 +38,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:static-exchange-evaluation` | `kt:move-ordering`, `kt:quiescence-search` |
 | `kt:steven-j-edwards` | `kt:forsyth-edwards-notation`, `kt:portable-game-notation` |
 | `kt:world-blitz-championship` | `kt:world-rapid-championship`, `kt:blitz-chess` |
+| `kt:zukertort-versus-blackburne-london-1883` | `kt:london-1883`, `kt:johannes-zukertort` |
 | `kt:abraham-luchins` | `kt:einstellung-effect` |
 | `kt:abstract-strategy-game` | `kt:chess` |
 | `kt:alfred-binet` | `kt:cognitive-psychology-of-chess` |
@@ -130,7 +132,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:john-mccarthy` | `kt:alpha-beta-pruning` |
 | `kt:john-von-neumann` | `kt:minimax` |
 | `kt:josef-vancura` | `kt:vancura-position` |
-| `kt:joseph-henry-blackburne` | `kt:johannes-zukertort` |
 | `kt:joseph-ney-babson` | `kt:babson-task` |
 | `kt:julius-muller` | `kt:swiss-system` |
 | `kt:kaissa` | `kt:bitboards` |
@@ -160,7 +161,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:marcel-duchamp` | `kt:corresponding-squares` |
 | `kt:marco-costalba` | `kt:stockfish` |
 | `kt:marcus-kann` | `kt:caro-kann-defence` |
-| `kt:marmaduke-wyvill` | `kt:london-1851` |
 | `kt:maroczy-bind` | `kt:space-advantage` |
 | `kt:marshall-attack` | `kt:ruy-lopez` |
 | `kt:max-lange` | `kt:helpmate` |
@@ -257,4 +257,3 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:yugoslav-attack` | `kt:dragon-variation` |
 | `kt:zobrist-hashing` | `kt:transposition-table` |
 | `kt:zukertort-opening` | `kt:johannes-zukertort` |
-| `kt:zukertort-versus-blackburne-london-1883` | `kt:johannes-zukertort` |

@@ -3799,6 +3799,36 @@
 <https://github.com/john1hsu/chess-graph/id/london-1851> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/london-1851> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/london-1851> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/adolf-anderssen> .
+<https://github.com/john1hsu/chess-graph/id/london-1883> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/chess-graph/id/london-1883> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Event> .
+<https://github.com/john1hsu/chess-graph/id/london-1883> <http://www.w3.org/2000/01/rdf-schema#label> "London 1883" .
+<https://github.com/john1hsu/chess-graph/id/london-1883> <http://www.w3.org/2004/02/skos/core#altLabel> "International Chess Tournament London 1883" .
+<https://github.com/john1hsu/chess-graph/id/london-1883> <http://www.w3.org/2004/02/skos/core#altLabel> "London 1883 chess tournament" .
+<https://github.com/john1hsu/chess-graph/id/london-1883> <http://www.w3.org/2004/02/skos/core#altLabel> "London 1883 international tournament" .
+<https://github.com/john1hsu/chess-graph/id/london-1883> <http://www.w3.org/2004/02/skos/core#altLabel> "London International Chess Tournament 1883" .
+<https://github.com/john1hsu/chess-graph/id/london-1883> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-tournament> .
+<https://github.com/john1hsu/chess-graph/id/london-1883> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/romantic-era> .
+<https://github.com/john1hsu/chess-graph/id/london-1883> <http://www.w3.org/2004/02/skos/core#definition> "The fourteen-player double round-robin held in London from April to June 1883, won by Johannes Zukertort with 22/26 ahead of Wilhelm Steinitz; it was the first tournament to use a double-faced chess clock and set up the 1886 Steinitz–Zukertort world championship match." .
+<https://github.com/john1hsu/chess-graph/id/london-1883> <http://www.w3.org/2004/02/skos/core#prefLabel> "London 1883" .
+<https://github.com/john1hsu/chess-graph/id/london-1883> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-clock> .
+<https://github.com/john1hsu/chess-graph/id/london-1883> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/hastings-1895> .
+<https://github.com/john1hsu/chess-graph/id/london-1883> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/london-1851> .
+<https://github.com/john1hsu/chess-graph/id/london-1883> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/round-robin> .
+<https://github.com/john1hsu/chess-graph/id/london-1883> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> .
+<https://github.com/john1hsu/chess-graph/id/london-1883> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/london-1883/s1> .
+<https://github.com/john1hsu/chess-graph/id/london-1883> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/london-1883/s2> .
+<https://github.com/john1hsu/chess-graph/id/london-1883> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/london-1883/s3> .
+<https://github.com/john1hsu/chess-graph/id/london-1883> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/london-1883/s4> .
+<https://github.com/john1hsu/chess-graph/id/london-1883> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/london-1883/s5> .
+<https://github.com/john1hsu/chess-graph/id/london-1883> <https://github.com/john1hsu/chess-graph/ontology#domain> "history" .
+<https://github.com/john1hsu/chess-graph/id/london-1883> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/zukertort-versus-blackburne-london-1883> .
+<https://github.com/john1hsu/chess-graph/id/london-1883> <https://github.com/john1hsu/chess-graph/ontology#organizedBy> <https://github.com/john1hsu/chess-graph/id/marmaduke-wyvill> .
+<https://github.com/john1hsu/chess-graph/id/london-1883> <https://github.com/john1hsu/chess-graph/ontology#playedBy> <https://github.com/john1hsu/chess-graph/id/joseph-henry-blackburne> .
+<https://github.com/john1hsu/chess-graph/id/london-1883> <https://github.com/john1hsu/chess-graph/ontology#playedBy> <https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> .
+<https://github.com/john1hsu/chess-graph/id/london-1883> <https://github.com/john1hsu/chess-graph/ontology#playedBy> <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> .
+<https://github.com/john1hsu/chess-graph/id/london-1883> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/london-1883> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-17" .
+<https://github.com/john1hsu/chess-graph/id/london-1883> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/johannes-zukertort> .
 <https://github.com/john1hsu/chess-graph/id/long-term-working-memory> <http://purl.org/dc/terms/created> "2026-11-16" .
 <https://github.com/john1hsu/chess-graph/id/long-term-working-memory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#CognitiveConcept> .
 <https://github.com/john1hsu/chess-graph/id/long-term-working-memory> <http://www.w3.org/2000/01/rdf-schema#label> "Long-term working memory" .
@@ -9539,6 +9569,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/london-1851/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/london-1851/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/london-1851/s6> <https://schema.org/url> "https://britishchessnews.com/?p=6057" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1883/s1> <http://purl.org/dc/terms/publisher> "ChessBase News (Eugene Manlapao, 27 April 2022)" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1883/s1> <http://purl.org/dc/terms/title> "London 1883: Prelude to the First World Championship Match (April 26, 1883 - June 23, 1883)" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1883/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/london-1883/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1883/s1> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/london-1883-prelude-to-the-first-world-championship-match-april-26-1883-june-23-1883" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1883/s2> <http://purl.org/dc/terms/publisher> "Antiquarian Booksellers' Association of America (catalogue record)" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1883/s2> <http://purl.org/dc/terms/title> "Games Played in the International Chess Tournament, 1883 (ed. J.I. Minchin; London: Jas Wade, 1883)" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1883/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/london-1883/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1883/s2> <https://schema.org/url> "https://www.abaa.org/book/54685373" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1883/s3> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1883/s3> <http://purl.org/dc/terms/title> "Zukertort v Blackburne, London, 1883" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1883/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/london-1883/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1883/s3> <https://schema.org/url> "https://chesshistory.com/winter/extra/zukertortblackburne.html" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1883/s4> <http://purl.org/dc/terms/publisher> "Jewish Encyclopedia (1906; Isidore Singer and A. Porter)" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1883/s4> <http://purl.org/dc/terms/title> "Zukertort, Johannes Hermann" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1883/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/london-1883/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1883/s4> <https://schema.org/url> "https://www.jewishencyclopedia.com/articles/15294" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1883/s5> <http://purl.org/dc/terms/publisher> "ChessBase News (13 December 2022, adapted from The Ink War, New In Chess)" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1883/s5> <http://purl.org/dc/terms/title> "Willy Hendriks' \"The Ink War\" - The Mystery of Zukertort's Breakdown" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1883/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/london-1883/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/london-1883/s5> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/the-mystery-of-zukertort-s-breakdown" .
 <https://github.com/john1hsu/chess-graph/id/source/long-term-working-memory/s1> <http://purl.org/dc/terms/publisher> "Fernand Gobet, via CORE" .
 <https://github.com/john1hsu/chess-graph/id/source/long-term-working-memory/s1> <http://purl.org/dc/terms/title> "Some shortcomings of long-term working memory (British Journal of Psychology 91, 551-570)" .
 <https://github.com/john1hsu/chess-graph/id/source/long-term-working-memory/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
