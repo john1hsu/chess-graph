@@ -5749,6 +5749,33 @@
     ]
   },
   {
+    "id": "kt:vladimir-kramnik",
+    "title": "Vladimir Kramnik",
+    "aliases": [
+      "Kramnik",
+      "V. Kramnik"
+    ],
+    "type": "Player",
+    "domain": "players",
+    "file": "articles/players/vladimir-kramnik.md",
+    "created": "2026-11-17",
+    "verified": "2026-11-17",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://www.britannica.com/summary/Vladimir-Kramnik",
+      "https://museum.fide.com/champions/vladimir-kramnik",
+      "https://worldchesshof.org/?p=990",
+      "https://en.chessbase.com/post/25-years-ago-kramnik-beats-kasparov",
+      "https://en.chessbase.com/post/elista-tiebreak-vladimir-kramnik-wins-unified-title-",
+      "https://thechessdrum.net/newsbriefs/2004/NB_KramnikLeko.html",
+      "https://en.chessbase.com/post/vladimir-kramnik-to-retire",
+      "https://en.chessbase.com/post/fide-ratings-2019-2",
+      "https://www.365chess.com/tournaments/BGN_World_Chess_Championship_2000/6564",
+      "https://lichess.org/study/embed/wNq0M15o/6GDaLMdE"
+    ]
+  },
+  {
     "id": "kt:weak-squares",
     "title": "Weak squares",
     "aliases": [

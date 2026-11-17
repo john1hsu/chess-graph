@@ -14388,6 +14388,132 @@
       ]
     },
     {
+      "@id": "kt:vladimir-kramnik",
+      "@type": "kto:Player",
+      "skos:prefLabel": "Vladimir Kramnik",
+      "skos:definition": "Russian grandmaster (born 1975), the fourteenth world chess champion, who took the classical title from Garry Kasparov in London in 2000 with the help of the Berlin Defence, defended it against Peter Leko in 2004, unified it against Veselin Topalov in 2006 and lost it to Viswanathan Anand in 2007; he retired from classical play in January 2019.",
+      "kto:domain": "players",
+      "dcterms:created": "2026-11-17",
+      "kto:verified": "2026-11-17",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Vladimir Kramnik (summary)",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/summary/Vladimir-Kramnik",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Vladimir Kramnik (World Champions gallery)",
+          "dcterms:publisher": "FIDE Open Chess Museum",
+          "schema:url": "https://museum.fide.com/champions/vladimir-kramnik",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Vladimir Kramnik",
+          "dcterms:publisher": "World Chess Hall of Fame",
+          "schema:url": "https://worldchesshof.org/?p=990",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "25 Years Ago: Kramnik beats Kasparov",
+          "dcterms:publisher": "ChessBase",
+          "schema:url": "https://en.chessbase.com/post/25-years-ago-kramnik-beats-kasparov",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Elista tiebreak: Vladimir Kramnik wins unified title",
+          "dcterms:publisher": "ChessBase",
+          "schema:url": "https://en.chessbase.com/post/elista-tiebreak-vladimir-kramnik-wins-unified-title-",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Kramnik-Leko World Championship 2004 (news brief)",
+          "dcterms:publisher": "The Chess Drum",
+          "schema:url": "https://thechessdrum.net/newsbriefs/2004/NB_KramnikLeko.html",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Vladimir Kramnik to retire",
+          "dcterms:publisher": "ChessBase",
+          "schema:url": "https://en.chessbase.com/post/vladimir-kramnik-to-retire",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Kramnik retires at 2753 (FIDE ratings February 2019)",
+          "dcterms:publisher": "ChessBase",
+          "schema:url": "https://en.chessbase.com/post/fide-ratings-2019-2",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "BGN World Chess Championship 2000 (crosstable and games)",
+          "dcterms:publisher": "365Chess",
+          "schema:url": "https://www.365chess.com/tournaments/BGN_World_Chess_Championship_2000/6564",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "World-ch Kramnik-Kasparov, London 2000, round 2 (game score)",
+          "dcterms:publisher": "Lichess study",
+          "schema:url": "https://lichess.org/study/embed/wNq0M15o/6GDaLMdE",
+          "kto:sourceType": "database"
+        }
+      ],
+      "kto:file": "articles/players/vladimir-kramnik.md",
+      "skos:altLabel": [
+        "Kramnik",
+        "V. Kramnik"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:world-chess-championship"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:garry-kasparov"
+        },
+        {
+          "@id": "kt:viswanathan-anand"
+        },
+        {
+          "@id": "kt:berlin-defence"
+        },
+        {
+          "@id": "kt:ruy-lopez"
+        },
+        {
+          "@id": "kt:tata-steel-chess-tournament"
+        }
+      ],
+      "kto:holdsTitle": [
+        {
+          "@id": "kt:world-chess-champion"
+        },
+        {
+          "@id": "kt:grandmaster-title"
+        }
+      ],
+      "kto:playedIn": [
+        {
+          "@id": "kt:chess-olympiad"
+        },
+        {
+          "@id": "kt:candidates-tournament"
+        }
+      ],
+      "kto:memberOf": [
+        {
+          "@id": "kt:soviet-chess-school"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:kramnik-versus-kasparov-london-2000-game-2"
+        }
+      ]
+    },
+    {
       "@id": "kt:wilhelm-steinitz",
       "@type": "kto:Player",
       "skos:prefLabel": "Wilhelm Steinitz",

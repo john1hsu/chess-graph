@@ -12239,6 +12239,56 @@
 <https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s8> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
 <https://github.com/john1hsu/chess-graph/id/source/viswanathan-anand/s8> <https://schema.org/url> "https://lichess.org/fide/5000017/Anand_Viswanathan" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s10> <http://purl.org/dc/terms/publisher> "Lichess study" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s10> <http://purl.org/dc/terms/title> "World-ch Kramnik-Kasparov, London 2000, round 2 (game score)" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s10> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s10> <https://schema.org/url> "https://lichess.org/study/embed/wNq0M15o/6GDaLMdE" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s1> <http://purl.org/dc/terms/title> "Vladimir Kramnik (summary)" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s1> <https://schema.org/url> "https://www.britannica.com/summary/Vladimir-Kramnik" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s2> <http://purl.org/dc/terms/publisher> "FIDE Open Chess Museum" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s2> <http://purl.org/dc/terms/title> "Vladimir Kramnik (World Champions gallery)" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s2> <https://schema.org/url> "https://museum.fide.com/champions/vladimir-kramnik" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s3> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s3> <http://purl.org/dc/terms/title> "Vladimir Kramnik" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s3> <https://schema.org/url> "https://worldchesshof.org/?p=990" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s4> <http://purl.org/dc/terms/publisher> "ChessBase" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s4> <http://purl.org/dc/terms/title> "25 Years Ago: Kramnik beats Kasparov" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s4> <https://schema.org/url> "https://en.chessbase.com/post/25-years-ago-kramnik-beats-kasparov" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s5> <http://purl.org/dc/terms/publisher> "ChessBase" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s5> <http://purl.org/dc/terms/title> "Elista tiebreak: Vladimir Kramnik wins unified title" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s5> <https://schema.org/url> "https://en.chessbase.com/post/elista-tiebreak-vladimir-kramnik-wins-unified-title-" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s6> <http://purl.org/dc/terms/publisher> "The Chess Drum" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s6> <http://purl.org/dc/terms/title> "Kramnik-Leko World Championship 2004 (news brief)" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s6> <https://schema.org/url> "https://thechessdrum.net/newsbriefs/2004/NB_KramnikLeko.html" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s7> <http://purl.org/dc/terms/publisher> "ChessBase" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s7> <http://purl.org/dc/terms/title> "Vladimir Kramnik to retire" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s7> <https://schema.org/url> "https://en.chessbase.com/post/vladimir-kramnik-to-retire" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s8> <http://purl.org/dc/terms/publisher> "ChessBase" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s8> <http://purl.org/dc/terms/title> "Kramnik retires at 2753 (FIDE ratings February 2019)" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s8> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s8> <https://schema.org/url> "https://en.chessbase.com/post/fide-ratings-2019-2" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s9> <http://purl.org/dc/terms/publisher> "365Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s9> <http://purl.org/dc/terms/title> "BGN World Chess Championship 2000 (crosstable and games)" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s9> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s9> <https://schema.org/url> "https://www.365chess.com/tournaments/BGN_World_Chess_Championship_2000/6564" .
 <https://github.com/john1hsu/chess-graph/id/source/weak-squares/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/weak-squares/s1> <http://purl.org/dc/terms/title> "Chess: Development of theory" .
 <https://github.com/john1hsu/chess-graph/id/source/weak-squares/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -13374,6 +13424,38 @@
 <https://github.com/john1hsu/chess-graph/id/viswanathan-anand> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/candidates-tournament> .
 <https://github.com/john1hsu/chess-graph/id/viswanathan-anand> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/viswanathan-anand> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-16" .
+<https://github.com/john1hsu/chess-graph/id/vladimir-kramnik> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/chess-graph/id/vladimir-kramnik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
+<https://github.com/john1hsu/chess-graph/id/vladimir-kramnik> <http://www.w3.org/2000/01/rdf-schema#label> "Vladimir Kramnik" .
+<https://github.com/john1hsu/chess-graph/id/vladimir-kramnik> <http://www.w3.org/2004/02/skos/core#altLabel> "Kramnik" .
+<https://github.com/john1hsu/chess-graph/id/vladimir-kramnik> <http://www.w3.org/2004/02/skos/core#altLabel> "V. Kramnik" .
+<https://github.com/john1hsu/chess-graph/id/vladimir-kramnik> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/vladimir-kramnik> <http://www.w3.org/2004/02/skos/core#definition> "Russian grandmaster (born 1975), the fourteenth world chess champion, who took the classical title from Garry Kasparov in London in 2000 with the help of the Berlin Defence, defended it against Peter Leko in 2004, unified it against Veselin Topalov in 2006 and lost it to Viswanathan Anand in 2007; he retired from classical play in January 2019." .
+<https://github.com/john1hsu/chess-graph/id/vladimir-kramnik> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vladimir Kramnik" .
+<https://github.com/john1hsu/chess-graph/id/vladimir-kramnik> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/berlin-defence> .
+<https://github.com/john1hsu/chess-graph/id/vladimir-kramnik> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/garry-kasparov> .
+<https://github.com/john1hsu/chess-graph/id/vladimir-kramnik> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/ruy-lopez> .
+<https://github.com/john1hsu/chess-graph/id/vladimir-kramnik> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/tata-steel-chess-tournament> .
+<https://github.com/john1hsu/chess-graph/id/vladimir-kramnik> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/viswanathan-anand> .
+<https://github.com/john1hsu/chess-graph/id/vladimir-kramnik> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s10> .
+<https://github.com/john1hsu/chess-graph/id/vladimir-kramnik> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s1> .
+<https://github.com/john1hsu/chess-graph/id/vladimir-kramnik> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s2> .
+<https://github.com/john1hsu/chess-graph/id/vladimir-kramnik> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s3> .
+<https://github.com/john1hsu/chess-graph/id/vladimir-kramnik> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s4> .
+<https://github.com/john1hsu/chess-graph/id/vladimir-kramnik> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s5> .
+<https://github.com/john1hsu/chess-graph/id/vladimir-kramnik> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s6> .
+<https://github.com/john1hsu/chess-graph/id/vladimir-kramnik> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s7> .
+<https://github.com/john1hsu/chess-graph/id/vladimir-kramnik> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s8> .
+<https://github.com/john1hsu/chess-graph/id/vladimir-kramnik> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/vladimir-kramnik/s9> .
+<https://github.com/john1hsu/chess-graph/id/vladimir-kramnik> <https://github.com/john1hsu/chess-graph/ontology#domain> "players" .
+<https://github.com/john1hsu/chess-graph/id/vladimir-kramnik> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/kramnik-versus-kasparov-london-2000-game-2> .
+<https://github.com/john1hsu/chess-graph/id/vladimir-kramnik> <https://github.com/john1hsu/chess-graph/ontology#holdsTitle> <https://github.com/john1hsu/chess-graph/id/grandmaster-title> .
+<https://github.com/john1hsu/chess-graph/id/vladimir-kramnik> <https://github.com/john1hsu/chess-graph/ontology#holdsTitle> <https://github.com/john1hsu/chess-graph/id/world-chess-champion> .
+<https://github.com/john1hsu/chess-graph/id/vladimir-kramnik> <https://github.com/john1hsu/chess-graph/ontology#memberOf> <https://github.com/john1hsu/chess-graph/id/soviet-chess-school> .
+<https://github.com/john1hsu/chess-graph/id/vladimir-kramnik> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/candidates-tournament> .
+<https://github.com/john1hsu/chess-graph/id/vladimir-kramnik> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/chess-olympiad> .
+<https://github.com/john1hsu/chess-graph/id/vladimir-kramnik> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/vladimir-kramnik> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-17" .
 <https://github.com/john1hsu/chess-graph/id/weak-squares> <http://purl.org/dc/terms/created> "2026-11-14" .
 <https://github.com/john1hsu/chess-graph/id/weak-squares> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
 <https://github.com/john1hsu/chess-graph/id/weak-squares> <http://www.w3.org/2000/01/rdf-schema#label> "Weak squares" .
