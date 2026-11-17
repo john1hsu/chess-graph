@@ -3073,6 +3073,102 @@
       ]
     },
     {
+      "@id": "kt:outflanking",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Outflanking",
+      "skos:definition": "The endgame technique in which a king walks around the side of the enemy king, usually after the opposition has forced that king to give way, so as to reach squares in front of or behind it that a direct approach cannot reach.",
+      "kto:domain": "endgames",
+      "dcterms:created": "2026-11-17",
+      "kto:verified": "2026-11-17",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "100 Basic Endgames You Must Know: A Starter's Guide to Chess Endings (excerpt)",
+          "dcterms:publisher": "Jesús de la Villa, New In Chess (2026)",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/9242.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "100 Endgames You Must Know, fourth improved edition (excerpt)",
+          "dcterms:publisher": "Jesús de la Villa, New In Chess (2015); excerpt hosted by Boekhuis",
+          "schema:url": "https://download.boekhuis.nl/9789056916176_fragm-docb.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Dvoretsky's Endgame Manual, sixth edition (excerpt with table of contents)",
+          "dcterms:publisher": "Mark Dvoretsky, revised by Karsten Müller and Alex Fishbein, Russell Enterprises (2025); excerpt hosted by De Beste Zet",
+          "schema:url": "https://www.debestezet.nl/catalog/images/PDF/Dvoretskys%20Endgame%20Manual%206th%20Edition.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Rook vs Pawn Endgames: 8 Must-Know Concepts",
+          "dcterms:publisher": "GM Hovhannes Gabuzyan, Chessmood",
+          "schema:url": "https://chessmood.com/blog/rook-vs-pawn-endgame-concepts",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Pandolfini's Puzzler #56: Outflanking and Outranking",
+          "dcterms:publisher": "NM Bruce Pandolfini, Chess.com (2014)",
+          "schema:url": "https://www.chess.com/article/pandolfinis-puzzler-56-outflanking-and-outranking",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Ask Coach Jessica: Outflanking and Other Endgame Techniques",
+          "dcterms:publisher": "Jessica E. Prescott, ChessKid",
+          "schema:url": "https://chesskid.com/article/view/ask-coach-jessica-what-is-outflanking",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/endgames/outflanking.md",
+      "skos:altLabel": [
+        "Outflanking manoeuvre",
+        "Outflanking maneuver",
+        "Outflank",
+        "Going around the king"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:king-and-pawn-endgames"
+        },
+        {
+          "@id": "kt:chess-endgame"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:opposition"
+        },
+        {
+          "@id": "kt:key-squares"
+        },
+        {
+          "@id": "kt:triangulation"
+        },
+        {
+          "@id": "kt:zugzwang"
+        },
+        {
+          "@id": "kt:opposite-coloured-bishops"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:shouldering"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:rook-versus-pawn"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:opposition"
+        }
+      ]
+    },
+    {
       "@id": "kt:passed-pawn",
       "@type": "kto:StrategicConcept",
       "skos:prefLabel": "Passed pawn",

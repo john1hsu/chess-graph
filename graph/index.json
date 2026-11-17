@@ -3906,6 +3906,31 @@
     ]
   },
   {
+    "id": "kt:outflanking",
+    "title": "Outflanking",
+    "aliases": [
+      "Outflanking manoeuvre",
+      "Outflanking maneuver",
+      "Outflank",
+      "Going around the king"
+    ],
+    "type": "Technique",
+    "domain": "endgames",
+    "file": "articles/endgames/outflanking.md",
+    "created": "2026-11-17",
+    "verified": "2026-11-17",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/9242.pdf",
+      "https://download.boekhuis.nl/9789056916176_fragm-docb.pdf",
+      "https://www.debestezet.nl/catalog/images/PDF/Dvoretskys%20Endgame%20Manual%206th%20Edition.pdf",
+      "https://chessmood.com/blog/rook-vs-pawn-endgame-concepts",
+      "https://www.chess.com/article/pandolfinis-puzzler-56-outflanking-and-outranking",
+      "https://chesskid.com/article/view/ask-coach-jessica-what-is-outflanking"
+    ]
+  },
+  {
     "id": "kt:outpost",
     "title": "Outpost",
     "aliases": [

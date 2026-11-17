@@ -4381,6 +4381,34 @@
 <https://github.com/john1hsu/chess-graph/id/opposition> <https://github.com/john1hsu/chess-graph/ontology#fen> "8/4k3/8/4K3/4P3/8/8/8 b - - 0 1" .
 <https://github.com/john1hsu/chess-graph/id/opposition> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/opposition> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/outflanking> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/chess-graph/id/outflanking> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Technique> .
+<https://github.com/john1hsu/chess-graph/id/outflanking> <http://www.w3.org/2000/01/rdf-schema#label> "Outflanking" .
+<https://github.com/john1hsu/chess-graph/id/outflanking> <http://www.w3.org/2004/02/skos/core#altLabel> "Going around the king" .
+<https://github.com/john1hsu/chess-graph/id/outflanking> <http://www.w3.org/2004/02/skos/core#altLabel> "Outflank" .
+<https://github.com/john1hsu/chess-graph/id/outflanking> <http://www.w3.org/2004/02/skos/core#altLabel> "Outflanking maneuver" .
+<https://github.com/john1hsu/chess-graph/id/outflanking> <http://www.w3.org/2004/02/skos/core#altLabel> "Outflanking manoeuvre" .
+<https://github.com/john1hsu/chess-graph/id/outflanking> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-endgame> .
+<https://github.com/john1hsu/chess-graph/id/outflanking> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/king-and-pawn-endgames> .
+<https://github.com/john1hsu/chess-graph/id/outflanking> <http://www.w3.org/2004/02/skos/core#definition> "The endgame technique in which a king walks around the side of the enemy king, usually after the opposition has forced that king to give way, so as to reach squares in front of or behind it that a direct approach cannot reach." .
+<https://github.com/john1hsu/chess-graph/id/outflanking> <http://www.w3.org/2004/02/skos/core#prefLabel> "Outflanking" .
+<https://github.com/john1hsu/chess-graph/id/outflanking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/key-squares> .
+<https://github.com/john1hsu/chess-graph/id/outflanking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> .
+<https://github.com/john1hsu/chess-graph/id/outflanking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/opposition> .
+<https://github.com/john1hsu/chess-graph/id/outflanking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/triangulation> .
+<https://github.com/john1hsu/chess-graph/id/outflanking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/zugzwang> .
+<https://github.com/john1hsu/chess-graph/id/outflanking> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/outflanking/s1> .
+<https://github.com/john1hsu/chess-graph/id/outflanking> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/outflanking/s2> .
+<https://github.com/john1hsu/chess-graph/id/outflanking> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/outflanking/s3> .
+<https://github.com/john1hsu/chess-graph/id/outflanking> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/outflanking/s4> .
+<https://github.com/john1hsu/chess-graph/id/outflanking> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/outflanking/s5> .
+<https://github.com/john1hsu/chess-graph/id/outflanking> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/outflanking/s6> .
+<https://github.com/john1hsu/chess-graph/id/outflanking> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/shouldering> .
+<https://github.com/john1hsu/chess-graph/id/outflanking> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/opposition> .
+<https://github.com/john1hsu/chess-graph/id/outflanking> <https://github.com/john1hsu/chess-graph/ontology#domain> "endgames" .
+<https://github.com/john1hsu/chess-graph/id/outflanking> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/rook-versus-pawn> .
+<https://github.com/john1hsu/chess-graph/id/outflanking> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/outflanking> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-17" .
 <https://github.com/john1hsu/chess-graph/id/outpost> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/outpost> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
 <https://github.com/john1hsu/chess-graph/id/outpost> <http://www.w3.org/2000/01/rdf-schema#label> "Outpost" .
@@ -10089,6 +10117,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/opposition/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/opposition/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
 <https://github.com/john1hsu/chess-graph/id/source/opposition/s5> <https://schema.org/url> "https://shop.chess-tigers.de/cdn/shop/files/dem5_excerpt.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/outflanking/s1> <http://purl.org/dc/terms/publisher> "Jesús de la Villa, New In Chess (2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/outflanking/s1> <http://purl.org/dc/terms/title> "100 Basic Endgames You Must Know: A Starter's Guide to Chess Endings (excerpt)" .
+<https://github.com/john1hsu/chess-graph/id/source/outflanking/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/outflanking/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/outflanking/s1> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/9242.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/outflanking/s2> <http://purl.org/dc/terms/publisher> "Jesús de la Villa, New In Chess (2015); excerpt hosted by Boekhuis" .
+<https://github.com/john1hsu/chess-graph/id/source/outflanking/s2> <http://purl.org/dc/terms/title> "100 Endgames You Must Know, fourth improved edition (excerpt)" .
+<https://github.com/john1hsu/chess-graph/id/source/outflanking/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/outflanking/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/outflanking/s2> <https://schema.org/url> "https://download.boekhuis.nl/9789056916176_fragm-docb.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/outflanking/s3> <http://purl.org/dc/terms/publisher> "Mark Dvoretsky, revised by Karsten Müller and Alex Fishbein, Russell Enterprises (2025); excerpt hosted by De Beste Zet" .
+<https://github.com/john1hsu/chess-graph/id/source/outflanking/s3> <http://purl.org/dc/terms/title> "Dvoretsky's Endgame Manual, sixth edition (excerpt with table of contents)" .
+<https://github.com/john1hsu/chess-graph/id/source/outflanking/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/outflanking/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/outflanking/s3> <https://schema.org/url> "https://www.debestezet.nl/catalog/images/PDF/Dvoretskys%20Endgame%20Manual%206th%20Edition.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/outflanking/s4> <http://purl.org/dc/terms/publisher> "GM Hovhannes Gabuzyan, Chessmood" .
+<https://github.com/john1hsu/chess-graph/id/source/outflanking/s4> <http://purl.org/dc/terms/title> "Rook vs Pawn Endgames: 8 Must-Know Concepts" .
+<https://github.com/john1hsu/chess-graph/id/source/outflanking/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/outflanking/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/outflanking/s4> <https://schema.org/url> "https://chessmood.com/blog/rook-vs-pawn-endgame-concepts" .
+<https://github.com/john1hsu/chess-graph/id/source/outflanking/s5> <http://purl.org/dc/terms/publisher> "NM Bruce Pandolfini, Chess.com (2014)" .
+<https://github.com/john1hsu/chess-graph/id/source/outflanking/s5> <http://purl.org/dc/terms/title> "Pandolfini's Puzzler #56: Outflanking and Outranking" .
+<https://github.com/john1hsu/chess-graph/id/source/outflanking/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/outflanking/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/outflanking/s5> <https://schema.org/url> "https://www.chess.com/article/pandolfinis-puzzler-56-outflanking-and-outranking" .
+<https://github.com/john1hsu/chess-graph/id/source/outflanking/s6> <http://purl.org/dc/terms/publisher> "Jessica E. Prescott, ChessKid" .
+<https://github.com/john1hsu/chess-graph/id/source/outflanking/s6> <http://purl.org/dc/terms/title> "Ask Coach Jessica: Outflanking and Other Endgame Techniques" .
+<https://github.com/john1hsu/chess-graph/id/source/outflanking/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/outflanking/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/outflanking/s6> <https://schema.org/url> "https://chesskid.com/article/view/ask-coach-jessica-what-is-outflanking" .
 <https://github.com/john1hsu/chess-graph/id/source/outpost/s1> <http://purl.org/dc/terms/publisher> "Chess.com (Chess Terms)" .
 <https://github.com/john1hsu/chess-graph/id/source/outpost/s1> <http://purl.org/dc/terms/title> "Outpost" .
 <https://github.com/john1hsu/chess-graph/id/source/outpost/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
