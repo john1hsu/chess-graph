@@ -3788,6 +3788,37 @@
 <https://github.com/john1hsu/chess-graph/id/kings-gambit> <https://github.com/john1hsu/chess-graph/ontology#moves> "1.e4 e5 2.f4" .
 <https://github.com/john1hsu/chess-graph/id/kings-gambit> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/kings-gambit> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-15" .
+<https://github.com/john1hsu/chess-graph/id/knight-versus-bishop> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/chess-graph/id/knight-versus-bishop> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#EndgameType> .
+<https://github.com/john1hsu/chess-graph/id/knight-versus-bishop> <http://www.w3.org/2000/01/rdf-schema#label> "Knight versus bishop" .
+<https://github.com/john1hsu/chess-graph/id/knight-versus-bishop> <http://www.w3.org/2004/02/skos/core#altLabel> "Bishop against knight" .
+<https://github.com/john1hsu/chess-graph/id/knight-versus-bishop> <http://www.w3.org/2004/02/skos/core#altLabel> "Bishop versus knight endgame" .
+<https://github.com/john1hsu/chess-graph/id/knight-versus-bishop> <http://www.w3.org/2004/02/skos/core#altLabel> "Bishop versus knight" .
+<https://github.com/john1hsu/chess-graph/id/knight-versus-bishop> <http://www.w3.org/2004/02/skos/core#altLabel> "Bishop vs knight" .
+<https://github.com/john1hsu/chess-graph/id/knight-versus-bishop> <http://www.w3.org/2004/02/skos/core#altLabel> "Knight against bishop" .
+<https://github.com/john1hsu/chess-graph/id/knight-versus-bishop> <http://www.w3.org/2004/02/skos/core#altLabel> "Knight versus bishop endgame" .
+<https://github.com/john1hsu/chess-graph/id/knight-versus-bishop> <http://www.w3.org/2004/02/skos/core#altLabel> "Knight vs bishop" .
+<https://github.com/john1hsu/chess-graph/id/knight-versus-bishop> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-endgame> .
+<https://github.com/john1hsu/chess-graph/id/knight-versus-bishop> <http://www.w3.org/2004/02/skos/core#definition> "Endings in which one side has a bishop and the other a knight, usually with pawns; the bishop is generally favoured in open positions with pawns on both wings, while the knight does best in closed or one-wing positions, against a bad bishop, or where it can dominate and fork." .
+<https://github.com/john1hsu/chess-graph/id/knight-versus-bishop> <http://www.w3.org/2004/02/skos/core#prefLabel> "Knight versus bishop" .
+<https://github.com/john1hsu/chess-graph/id/knight-versus-bishop> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/bishop-pair> .
+<https://github.com/john1hsu/chess-graph/id/knight-versus-bishop> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fork> .
+<https://github.com/john1hsu/chess-graph/id/knight-versus-bishop> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> .
+<https://github.com/john1hsu/chess-graph/id/knight-versus-bishop> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/passed-pawn> .
+<https://github.com/john1hsu/chess-graph/id/knight-versus-bishop> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/zugzwang> .
+<https://github.com/john1hsu/chess-graph/id/knight-versus-bishop> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/knight-versus-bishop/s1> .
+<https://github.com/john1hsu/chess-graph/id/knight-versus-bishop> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/knight-versus-bishop/s2> .
+<https://github.com/john1hsu/chess-graph/id/knight-versus-bishop> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/knight-versus-bishop/s3> .
+<https://github.com/john1hsu/chess-graph/id/knight-versus-bishop> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/knight-versus-bishop/s4> .
+<https://github.com/john1hsu/chess-graph/id/knight-versus-bishop> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/knight-versus-bishop/s5> .
+<https://github.com/john1hsu/chess-graph/id/knight-versus-bishop> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/bobby-fischer> .
+<https://github.com/john1hsu/chess-graph/id/knight-versus-bishop> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> .
+<https://github.com/john1hsu/chess-graph/id/knight-versus-bishop> <https://github.com/john1hsu/chess-graph/ontology#domain> "endgames" .
+<https://github.com/john1hsu/chess-graph/id/knight-versus-bishop> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/fischer-versus-taimanov-vancouver-1971-game-4> .
+<https://github.com/john1hsu/chess-graph/id/knight-versus-bishop> <https://github.com/john1hsu/chess-graph/ontology#fen> "8/8/1pnk2p1/pBp2p1p/P4P1P/2P3P1/1P2K3/8 w - - 0 45" .
+<https://github.com/john1hsu/chess-graph/id/knight-versus-bishop> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/knight-versus-bishop> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/domination> .
+<https://github.com/john1hsu/chess-graph/id/knight-versus-bishop> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-17" .
 <https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Engine> .
 <https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <http://www.w3.org/2000/01/rdf-schema#label> "Leela Chess Zero" .
@@ -9613,6 +9644,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/kings-gambit/s6> <https://schema.org/url> "https://learn.chessbase.com/en/page/das-konigsgambit" .
+<https://github.com/john1hsu/chess-graph/id/source/knight-versus-bishop/s1> <http://purl.org/dc/terms/publisher> "José Raúl Capablanca; Project Gutenberg eBook" .
+<https://github.com/john1hsu/chess-graph/id/source/knight-versus-bishop/s1> <http://purl.org/dc/terms/title> "Chess Fundamentals (1921), Chapter II, 'The Relative Value of Knight and Bishop'" .
+<https://github.com/john1hsu/chess-graph/id/source/knight-versus-bishop/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/knight-versus-bishop/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/knight-versus-bishop/s1> <https://schema.org/url> "https://gutenberg.org/cache/epub/33870/pg33870-images.html" .
+<https://github.com/john1hsu/chess-graph/id/source/knight-versus-bishop/s2> <http://purl.org/dc/terms/publisher> "Mark Dvoretsky, Russell Enterprises, 2014; excerpt hosted by New In Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/knight-versus-bishop/s2> <http://purl.org/dc/terms/title> "Dvoretsky's Endgame Manual, fourth edition (excerpt with table of contents)" .
+<https://github.com/john1hsu/chess-graph/id/source/knight-versus-bishop/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/knight-versus-bishop/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/knight-versus-bishop/s2> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/2703.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/knight-versus-bishop/s3> <http://purl.org/dc/terms/publisher> "Karsten Müller, ChessBase News (13 May 2020)" .
+<https://github.com/john1hsu/chess-graph/id/source/knight-versus-bishop/s3> <http://purl.org/dc/terms/title> "The old riddle of Fischer vs Taimanov" .
+<https://github.com/john1hsu/chess-graph/id/source/knight-versus-bishop/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/knight-versus-bishop/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/knight-versus-bishop/s3> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/the-old-riddle-of-fischer-vs-taimanov" .
+<https://github.com/john1hsu/chess-graph/id/source/knight-versus-bishop/s4> <http://purl.org/dc/terms/publisher> "Alex Fishbein, American Chess Magazine no. 30 (2022)" .
+<https://github.com/john1hsu/chess-graph/id/source/knight-versus-bishop/s4> <http://purl.org/dc/terms/title> "The Eternal Struggle (Endings column)" .
+<https://github.com/john1hsu/chess-graph/id/source/knight-versus-bishop/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/knight-versus-bishop/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/knight-versus-bishop/s4> <https://schema.org/url> "https://chessjournalism.org/wp-content/uploads/2023/06/acm-030-the-eternal-struggle-alex-fishbein.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/knight-versus-bishop/s5> <http://purl.org/dc/terms/publisher> "ChessBase News (12 May 2010)" .
+<https://github.com/john1hsu/chess-graph/id/source/knight-versus-bishop/s5> <http://purl.org/dc/terms/title> "The Fischer ending" .
+<https://github.com/john1hsu/chess-graph/id/source/knight-versus-bishop/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/knight-versus-bishop/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/knight-versus-bishop/s5> <https://schema.org/url> "https://en.chessbase.com/post/the-fischer-ending" .
 <https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s1> <http://purl.org/dc/terms/publisher> "Leela Chess Zero project (lczero.org)" .
 <https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s1> <http://purl.org/dc/terms/title> "What is Lc0?" .
 <https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

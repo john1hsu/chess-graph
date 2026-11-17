@@ -3372,6 +3372,33 @@
     ]
   },
   {
+    "id": "kt:knight-versus-bishop",
+    "title": "Knight versus bishop",
+    "aliases": [
+      "Bishop versus knight",
+      "Bishop vs knight",
+      "Knight vs bishop",
+      "Bishop against knight",
+      "Knight against bishop",
+      "Bishop versus knight endgame",
+      "Knight versus bishop endgame"
+    ],
+    "type": "EndgameType",
+    "domain": "endgames",
+    "file": "articles/endgames/knight-versus-bishop.md",
+    "created": "2026-11-17",
+    "verified": "2026-11-17",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://gutenberg.org/cache/epub/33870/pg33870-images.html",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/2703.pdf",
+      "https://en.chessbase.com/newsroom/post/the-old-riddle-of-fischer-vs-taimanov",
+      "https://chessjournalism.org/wp-content/uploads/2023/06/acm-030-the-eternal-struggle-alex-fishbein.pdf",
+      "https://en.chessbase.com/post/the-fischer-ending"
+    ]
+  },
+  {
     "id": "kt:leela-chess-zero",
     "title": "Leela Chess Zero",
     "aliases": [

@@ -20,7 +20,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:joseph-henry-blackburne` | `kt:london-1883`, `kt:johannes-zukertort` |
 | `kt:ju-wenjun` | `kt:womens-world-chess-championship`, `kt:womens-world-chess-championship` |
 | `kt:karpov-versus-unzicker-nice-1974` | `kt:prophylaxis`, `kt:anatoly-karpov` |
-| `kt:knight-versus-bishop` | `kt:bishop-and-knight-checkmate`, `kt:good-and-bad-bishops` |
 | `kt:lionel-kieseritzky` | `kt:immortal-game`, `kt:london-1851` |
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position`, `kt:smothered-mate` |
 | `kt:marmaduke-wyvill` | `kt:london-1851`, `kt:london-1883` |
@@ -82,6 +81,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:deepmind` | `kt:alphazero` |
 | `kt:ding-liren` | `kt:gukesh-dommaraju` |
 | `kt:ding-versus-gukesh-singapore-2024-game-14` | `kt:gukesh-dommaraju` |
+| `kt:domination` | `kt:knight-versus-bishop` |
 | `kt:dutch-system` | `kt:swiss-system` |
 | `kt:edward-lasker` | `kt:descriptive-notation` |
 | `kt:edwin-z-adams` | `kt:adams-versus-torre-new-orleans-1920` |
@@ -102,6 +102,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:first-american-chess-congress` | `kt:paul-morphy` |
 | `kt:fischer-spassky-1972-game-6` | `kt:hanging-pawns` |
 | `kt:fischer-spassky-1992` | `kt:fischer-increment` |
+| `kt:fischer-versus-taimanov-vancouver-1971-game-4` | `kt:knight-versus-bishop` |
 | `kt:fischer-versus-tal-leipzig-1960` | `kt:perpetual-check` |
 | `kt:flank-openings` | `kt:chess-openings` |
 | `kt:four-handed-chaturanga` | `kt:chaturanga` |

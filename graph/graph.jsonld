@@ -2897,6 +2897,102 @@
       ]
     },
     {
+      "@id": "kt:knight-versus-bishop",
+      "@type": "kto:EndgameType",
+      "skos:prefLabel": "Knight versus bishop",
+      "skos:definition": "Endings in which one side has a bishop and the other a knight, usually with pawns; the bishop is generally favoured in open positions with pawns on both wings, while the knight does best in closed or one-wing positions, against a bad bishop, or where it can dominate and fork.",
+      "kto:domain": "endgames",
+      "dcterms:created": "2026-11-17",
+      "kto:verified": "2026-11-17",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Chess Fundamentals (1921), Chapter II, 'The Relative Value of Knight and Bishop'",
+          "dcterms:publisher": "José Raúl Capablanca; Project Gutenberg eBook",
+          "schema:url": "https://gutenberg.org/cache/epub/33870/pg33870-images.html",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Dvoretsky's Endgame Manual, fourth edition (excerpt with table of contents)",
+          "dcterms:publisher": "Mark Dvoretsky, Russell Enterprises, 2014; excerpt hosted by New In Chess",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/2703.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The old riddle of Fischer vs Taimanov",
+          "dcterms:publisher": "Karsten Müller, ChessBase News (13 May 2020)",
+          "schema:url": "https://en.chessbase.com/newsroom/post/the-old-riddle-of-fischer-vs-taimanov",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The Eternal Struggle (Endings column)",
+          "dcterms:publisher": "Alex Fishbein, American Chess Magazine no. 30 (2022)",
+          "schema:url": "https://chessjournalism.org/wp-content/uploads/2023/06/acm-030-the-eternal-struggle-alex-fishbein.pdf",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The Fischer ending",
+          "dcterms:publisher": "ChessBase News (12 May 2010)",
+          "schema:url": "https://en.chessbase.com/post/the-fischer-ending",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/endgames/knight-versus-bishop.md",
+      "skos:altLabel": [
+        "Bishop versus knight",
+        "Bishop vs knight",
+        "Knight vs bishop",
+        "Bishop against knight",
+        "Knight against bishop",
+        "Bishop versus knight endgame",
+        "Knight versus bishop endgame"
+      ],
+      "kto:fen": "8/8/1pnk2p1/pBp2p1p/P4P1P/2P3P1/1P2K3/8 w - - 0 45",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-endgame"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:good-and-bad-bishops"
+        },
+        {
+          "@id": "kt:bishop-pair"
+        },
+        {
+          "@id": "kt:passed-pawn"
+        },
+        {
+          "@id": "kt:zugzwang"
+        },
+        {
+          "@id": "kt:fork"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:good-and-bad-bishops"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:fischer-versus-taimanov-vancouver-1971-game-4"
+        }
+      ],
+      "kto:championedBy": [
+        {
+          "@id": "kt:bobby-fischer"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:domination"
+        }
+      ]
+    },
+    {
       "@id": "kt:lucena-position",
       "@type": "kto:EndgameType",
       "skos:prefLabel": "Lucena position",
