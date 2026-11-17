@@ -11834,6 +11834,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/template-theory/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/template-theory/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/chess-graph/id/source/template-theory/s4> <https://schema.org/url> "https://core.ac.uk/download/333533.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/tempo/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (updated 24 March 2025)" .
+<https://github.com/john1hsu/chess-graph/id/source/tempo/s1> <http://purl.org/dc/terms/title> "Chess Tempo/Tempi" .
+<https://github.com/john1hsu/chess-graph/id/source/tempo/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/tempo/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/tempo/s1> <https://schema.org/url> "https://chesshistory.com/winter/extra/tempotempi.html" .
+<https://github.com/john1hsu/chess-graph/id/source/tempo/s2> <http://purl.org/dc/terms/publisher> "Project Gutenberg" .
+<https://github.com/john1hsu/chess-graph/id/source/tempo/s2> <http://purl.org/dc/terms/title> "Chess Fundamentals, by José Raúl Capablanca (Project Gutenberg eBook 33870)" .
+<https://github.com/john1hsu/chess-graph/id/source/tempo/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/tempo/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/tempo/s2> <https://schema.org/url> "https://gutenberg.org/cache/epub/33870/pg33870-images.html" .
+<https://github.com/john1hsu/chess-graph/id/source/tempo/s3> <http://purl.org/dc/terms/publisher> "John Nunn, Gambit Publications, sample hosted by New In Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/tempo/s3> <http://purl.org/dc/terms/title> "Nunn's Chess Endings, Volume 1 (sample pages)" .
+<https://github.com/john1hsu/chess-graph/id/source/tempo/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/tempo/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/tempo/s3> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/5025.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/tempo/s4> <http://purl.org/dc/terms/publisher> "New In Chess, publisher's book page (Gambit Publications, 2010)" .
+<https://github.com/john1hsu/chess-graph/id/source/tempo/s4> <http://purl.org/dc/terms/title> "Nunn's Chess Endings, Volume 1" .
+<https://github.com/john1hsu/chess-graph/id/source/tempo/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/tempo/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/tempo/s4> <https://schema.org/url> "https://newinchess.com/nunn-s-chess-endings-volume-1" .
+<https://github.com/john1hsu/chess-graph/id/source/tempo/s5> <http://purl.org/dc/terms/publisher> "Csaba Balogh and Adrian Mikhalchishin, Chess Evolution (2016), sample hosted by New In Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/tempo/s5> <http://purl.org/dc/terms/title> "Mastering Queen and Pawn Endgames (The Modern Endgame Manual 1), sample pages" .
+<https://github.com/john1hsu/chess-graph/id/source/tempo/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/tempo/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/tempo/s5> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/7627.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/tempo/s6> <http://purl.org/dc/terms/publisher> "Chess.com, chess terms" .
+<https://github.com/john1hsu/chess-graph/id/source/tempo/s6> <http://purl.org/dc/terms/title> "Tempo" .
+<https://github.com/john1hsu/chess-graph/id/source/tempo/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/tempo/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/tempo/s6> <https://schema.org/url> "https://www.chess.com/terms/tempo-chess" .
 <https://github.com/john1hsu/chess-graph/id/source/the-turk/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/the-turk/s1> <http://purl.org/dc/terms/title> "The Mechanical Turk: AI Marvel or Parlor Trick?" .
 <https://github.com/john1hsu/chess-graph/id/source/the-turk/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -13026,6 +13056,40 @@
 <https://github.com/john1hsu/chess-graph/id/template-theory> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/chunking-theory> .
 <https://github.com/john1hsu/chess-graph/id/template-theory> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/template-theory> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/tempo> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/chess-graph/id/tempo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
+<https://github.com/john1hsu/chess-graph/id/tempo> <http://www.w3.org/2000/01/rdf-schema#label> "Tempo" .
+<https://github.com/john1hsu/chess-graph/id/tempo> <http://www.w3.org/2004/02/skos/core#altLabel> "Gain of tempo" .
+<https://github.com/john1hsu/chess-graph/id/tempo> <http://www.w3.org/2004/02/skos/core#altLabel> "Gaining a tempo" .
+<https://github.com/john1hsu/chess-graph/id/tempo> <http://www.w3.org/2004/02/skos/core#altLabel> "Losing a tempo" .
+<https://github.com/john1hsu/chess-graph/id/tempo> <http://www.w3.org/2004/02/skos/core#altLabel> "Loss of time" .
+<https://github.com/john1hsu/chess-graph/id/tempo> <http://www.w3.org/2004/02/skos/core#altLabel> "Reserve tempo" .
+<https://github.com/john1hsu/chess-graph/id/tempo> <http://www.w3.org/2004/02/skos/core#altLabel> "Spare tempo" .
+<https://github.com/john1hsu/chess-graph/id/tempo> <http://www.w3.org/2004/02/skos/core#altLabel> "Tempi" .
+<https://github.com/john1hsu/chess-graph/id/tempo> <http://www.w3.org/2004/02/skos/core#altLabel> "Tempo move" .
+<https://github.com/john1hsu/chess-graph/id/tempo> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-strategy> .
+<https://github.com/john1hsu/chess-graph/id/tempo> <http://www.w3.org/2004/02/skos/core#definition> "A single move, or turn to play, treated as a unit of time: a player gains a tempo by achieving something useful while forcing the opponent to respond, and loses one by spending moves that achieve nothing or must be repeated." .
+<https://github.com/john1hsu/chess-graph/id/tempo> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tempo" .
+<https://github.com/john1hsu/chess-graph/id/tempo> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/development> .
+<https://github.com/john1hsu/chess-graph/id/tempo> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/gambit> .
+<https://github.com/john1hsu/chess-graph/id/tempo> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/initiative> .
+<https://github.com/john1hsu/chess-graph/id/tempo> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/king-and-pawn-endgames> .
+<https://github.com/john1hsu/chess-graph/id/tempo> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> .
+<https://github.com/john1hsu/chess-graph/id/tempo> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/tempo/s1> .
+<https://github.com/john1hsu/chess-graph/id/tempo> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/tempo/s2> .
+<https://github.com/john1hsu/chess-graph/id/tempo> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/tempo/s3> .
+<https://github.com/john1hsu/chess-graph/id/tempo> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/tempo/s4> .
+<https://github.com/john1hsu/chess-graph/id/tempo> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/tempo/s5> .
+<https://github.com/john1hsu/chess-graph/id/tempo> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/tempo/s6> .
+<https://github.com/john1hsu/chess-graph/id/tempo> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> .
+<https://github.com/john1hsu/chess-graph/id/tempo> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/material-advantage> .
+<https://github.com/john1hsu/chess-graph/id/tempo> <https://github.com/john1hsu/chess-graph/ontology#domain> "middlegame-strategy" .
+<https://github.com/john1hsu/chess-graph/id/tempo> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/initiative> .
+<https://github.com/john1hsu/chess-graph/id/tempo> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/capablanca-versus-blanco-havana-1913> .
+<https://github.com/john1hsu/chess-graph/id/tempo> <https://github.com/john1hsu/chess-graph/ontology#fen> "r1bqnrk1/pp2bppp/2p1p3/4N1B1/3P4/2PB3Q/PP3PPP/R3K2R b KQ - 6 12" .
+<https://github.com/john1hsu/chess-graph/id/tempo> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/tempo> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/triangulation> .
+<https://github.com/john1hsu/chess-graph/id/tempo> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-17" .
 <https://github.com/john1hsu/chess-graph/id/the-turk> <http://purl.org/dc/terms/created> "2026-11-15" .
 <https://github.com/john1hsu/chess-graph/id/the-turk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Artifact> .
 <https://github.com/john1hsu/chess-graph/id/the-turk> <http://www.w3.org/2000/01/rdf-schema#label> "The Turk" .

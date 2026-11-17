@@ -10172,6 +10172,114 @@
       ]
     },
     {
+      "@id": "kt:tempo",
+      "@type": "kto:StrategicConcept",
+      "skos:prefLabel": "Tempo",
+      "skos:definition": "A single move, or turn to play, treated as a unit of time: a player gains a tempo by achieving something useful while forcing the opponent to respond, and loses one by spending moves that achieve nothing or must be repeated.",
+      "kto:domain": "middlegame-strategy",
+      "dcterms:created": "2026-11-17",
+      "kto:verified": "2026-11-17",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Chess Tempo/Tempi",
+          "dcterms:publisher": "Edward Winter, Chess Notes (updated 24 March 2025)",
+          "schema:url": "https://chesshistory.com/winter/extra/tempotempi.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Chess Fundamentals, by José Raúl Capablanca (Project Gutenberg eBook 33870)",
+          "dcterms:publisher": "Project Gutenberg",
+          "schema:url": "https://gutenberg.org/cache/epub/33870/pg33870-images.html",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Nunn's Chess Endings, Volume 1 (sample pages)",
+          "dcterms:publisher": "John Nunn, Gambit Publications, sample hosted by New In Chess",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/5025.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Nunn's Chess Endings, Volume 1",
+          "dcterms:publisher": "New In Chess, publisher's book page (Gambit Publications, 2010)",
+          "schema:url": "https://newinchess.com/nunn-s-chess-endings-volume-1",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Mastering Queen and Pawn Endgames (The Modern Endgame Manual 1), sample pages",
+          "dcterms:publisher": "Csaba Balogh and Adrian Mikhalchishin, Chess Evolution (2016), sample hosted by New In Chess",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/7627.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Tempo",
+          "dcterms:publisher": "Chess.com, chess terms",
+          "schema:url": "https://www.chess.com/terms/tempo-chess",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/middlegame-strategy/tempo.md",
+      "skos:altLabel": [
+        "Tempi",
+        "Gaining a tempo",
+        "Losing a tempo",
+        "Gain of tempo",
+        "Loss of time",
+        "Spare tempo",
+        "Reserve tempo",
+        "Tempo move"
+      ],
+      "kto:fen": "r1bqnrk1/pp2bppp/2p1p3/4N1B1/3P4/2PB3Q/PP3PPP/R3K2R b KQ - 6 12",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-strategy"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:development"
+        },
+        {
+          "@id": "kt:initiative"
+        },
+        {
+          "@id": "kt:gambit"
+        },
+        {
+          "@id": "kt:king-and-pawn-endgames"
+        },
+        {
+          "@id": "kt:siegbert-tarrasch"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:initiative"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:material-advantage"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:triangulation"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:capablanca-versus-blanco-havana-1913"
+        }
+      ],
+      "kto:championedBy": [
+        {
+          "@id": "kt:jose-raul-capablanca"
+        }
+      ]
+    },
+    {
       "@id": "kt:weak-squares",
       "@type": "kto:StrategicConcept",
       "skos:prefLabel": "Weak squares",

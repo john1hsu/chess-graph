@@ -11,7 +11,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:david-bronstein` | `kt:kings-gambit`, `kt:bronstein-delay`, `kt:bronstein-delay` |
 | `kt:howard-staunton` | `kt:london-1851`, `kt:london-1851`, `kt:paul-morphy` |
 | `kt:philidor-defence` | `kt:adams-versus-torre-new-orleans-1920`, `kt:opera-game`, `kt:francois-andre-danican-philidor` |
-| `kt:tempo` | `kt:rule-of-the-square`, `kt:development`, `kt:gambit` |
 | `kt:albin-countergambit` | `kt:queens-gambit`, `kt:underpromotion` |
 | `kt:alexander-kotov` | `kt:calculation`, `kt:candidate-moves` |
 | `kt:botvinnik-versus-capablanca-avro-1938` | `kt:soviet-chess-school`, `kt:mikhail-botvinnik` |
@@ -54,6 +53,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:board-representation` | `kt:bitboards` |
 | `kt:botvinnik-versus-tal-moscow-1960-game-6` | `kt:mikhail-tal` |
 | `kt:breakthrough` | `kt:passed-pawn` |
+| `kt:capablanca-versus-blanco-havana-1913` | `kt:tempo` |
 | `kt:capablanca-versus-tartakower-new-york-1924` | `kt:rook-on-the-seventh-rank` |
 | `kt:carlos-torre` | `kt:adams-versus-torre-new-orleans-1920` |
 | `kt:carlsbad-1923` | `kt:carlsbad-structure` |

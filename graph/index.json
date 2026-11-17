@@ -5357,6 +5357,35 @@
     ]
   },
   {
+    "id": "kt:tempo",
+    "title": "Tempo",
+    "aliases": [
+      "Tempi",
+      "Gaining a tempo",
+      "Losing a tempo",
+      "Gain of tempo",
+      "Loss of time",
+      "Spare tempo",
+      "Reserve tempo",
+      "Tempo move"
+    ],
+    "type": "StrategicConcept",
+    "domain": "middlegame-strategy",
+    "file": "articles/middlegame-strategy/tempo.md",
+    "created": "2026-11-17",
+    "verified": "2026-11-17",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://chesshistory.com/winter/extra/tempotempi.html",
+      "https://gutenberg.org/cache/epub/33870/pg33870-images.html",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/5025.pdf",
+      "https://newinchess.com/nunn-s-chess-endings-volume-1",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/7627.pdf",
+      "https://www.chess.com/terms/tempo-chess"
+    ]
+  },
+  {
     "id": "kt:the-turk",
     "title": "The Turk",
     "aliases": [
