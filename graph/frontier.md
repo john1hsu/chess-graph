@@ -121,7 +121,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:horatio-caro` | `kt:caro-kann-defence` |
 | `kt:hou-yifan` | `kt:womens-world-chess-championship` |
 | `kt:iccf` | `kt:correspondence-chess` |
-| `kt:illegal-move` | `kt:touch-move` |
 | `kt:indian-defences` | `kt:nimzo-indian-defence` |
 | `kt:international-correspondence-chess-federation` | `kt:chess-organizations` |
 | `kt:international-master` | `kt:fernand-gobet` |

@@ -3337,6 +3337,35 @@
 <https://github.com/john1hsu/chess-graph/id/hypermodernism> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/reti-opening> .
 <https://github.com/john1hsu/chess-graph/id/hypermodernism> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/hypermodernism> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/illegal-move> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/chess-graph/id/illegal-move> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Rule> .
+<https://github.com/john1hsu/chess-graph/id/illegal-move> <http://www.w3.org/2000/01/rdf-schema#label> "Illegal move" .
+<https://github.com/john1hsu/chess-graph/id/illegal-move> <http://www.w3.org/2004/02/skos/core#altLabel> "Article 7.5" .
+<https://github.com/john1hsu/chess-graph/id/illegal-move> <http://www.w3.org/2004/02/skos/core#altLabel> "Illegal move penalty" .
+<https://github.com/john1hsu/chess-graph/id/illegal-move> <http://www.w3.org/2004/02/skos/core#altLabel> "Illegal move rule" .
+<https://github.com/john1hsu/chess-graph/id/illegal-move> <http://www.w3.org/2004/02/skos/core#altLabel> "Illegal moves" .
+<https://github.com/john1hsu/chess-graph/id/illegal-move> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/illegal-move> <http://www.w3.org/2004/02/skos/core#definition> "A move that breaks the piece-movement rules of the Laws of Chess; under FIDE rules it is complete once the clock is pressed, the prior position is restored, the opponent gains two minutes for a first offence and a second offence loses the game." .
+<https://github.com/john1hsu/chess-graph/id/illegal-move> <http://www.w3.org/2004/02/skos/core#prefLabel> "Illegal move" .
+<https://github.com/john1hsu/chess-graph/id/illegal-move> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/arbiter> .
+<https://github.com/john1hsu/chess-graph/id/illegal-move> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/blitz-chess> .
+<https://github.com/john1hsu/chess-graph/id/illegal-move> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/pawn-promotion> .
+<https://github.com/john1hsu/chess-graph/id/illegal-move> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/rapid-chess> .
+<https://github.com/john1hsu/chess-graph/id/illegal-move> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/touch-move> .
+<https://github.com/john1hsu/chess-graph/id/illegal-move> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/us-chess> .
+<https://github.com/john1hsu/chess-graph/id/illegal-move> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/illegal-move/s1> .
+<https://github.com/john1hsu/chess-graph/id/illegal-move> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/illegal-move/s2> .
+<https://github.com/john1hsu/chess-graph/id/illegal-move> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/illegal-move/s3> .
+<https://github.com/john1hsu/chess-graph/id/illegal-move> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/illegal-move/s4> .
+<https://github.com/john1hsu/chess-graph/id/illegal-move> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/illegal-move/s5> .
+<https://github.com/john1hsu/chess-graph/id/illegal-move> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/illegal-move/s6> .
+<https://github.com/john1hsu/chess-graph/id/illegal-move> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/touch-move> .
+<https://github.com/john1hsu/chess-graph/id/illegal-move> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/fide> .
+<https://github.com/john1hsu/chess-graph/id/illegal-move> <https://github.com/john1hsu/chess-graph/ontology#domain> "rules-and-notation" .
+<https://github.com/john1hsu/chess-graph/id/illegal-move> <https://github.com/john1hsu/chess-graph/ontology#fen> "4k3/8/8/8/2b5/8/8/4K2R w K - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/illegal-move> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/illegal-move> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/illegal-move> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-17" .
 <https://github.com/john1hsu/chess-graph/id/immortal-game> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/immortal-game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Game> .
 <https://github.com/john1hsu/chess-graph/id/immortal-game> <http://www.w3.org/2000/01/rdf-schema#label> "Immortal Game" .
@@ -9059,6 +9088,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s6> <https://schema.org/url> "https://spectator.com/article/hypermodern/" .
+<https://github.com/john1hsu/chess-graph/id/source/illegal-move/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/illegal-move/s1> <http://purl.org/dc/terms/title> "Article 7: Irregularities" .
+<https://github.com/john1hsu/chess-graph/id/source/illegal-move/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/illegal-move/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/illegal-move/s1> <https://schema.org/url> "https://rcc.fide.com/article7/" .
+<https://github.com/john1hsu/chess-graph/id/source/illegal-move/s2> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/illegal-move/s2> <http://purl.org/dc/terms/title> "FIDE Laws of Chess (full text, applied from 1 January 2023)" .
+<https://github.com/john1hsu/chess-graph/id/source/illegal-move/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/illegal-move/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/illegal-move/s2> <https://schema.org/url> "https://rcc.fide.com/fide-laws-of-chess_fulltexthtml/" .
+<https://github.com/john1hsu/chess-graph/id/source/illegal-move/s3> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/illegal-move/s3> <http://purl.org/dc/terms/title> "Appendix A. Rapid Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/illegal-move/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/illegal-move/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/illegal-move/s3> <https://schema.org/url> "https://rcc.fide.com/?p=876" .
+<https://github.com/john1hsu/chess-graph/id/source/illegal-move/s4> <http://purl.org/dc/terms/publisher> "FIDE Arbiters' Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/illegal-move/s4> <http://purl.org/dc/terms/title> "Arbiters' Manual 2024 (Article 7.5 with commentary)" .
+<https://github.com/john1hsu/chess-graph/id/source/illegal-move/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/illegal-move/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/illegal-move/s4> <https://schema.org/url> "https://arbiters.fide.com/wp-content/uploads/Publications/Manual/Arbiters_Manual_2024.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/illegal-move/s5> <http://purl.org/dc/terms/publisher> "US Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/illegal-move/s5> <http://purl.org/dc/terms/title> "Summary of differences between the FIDE Laws of Chess and the US Chess Official Rules of Chess, 7th edition (updated 1 January 2022)" .
+<https://github.com/john1hsu/chess-graph/id/source/illegal-move/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/illegal-move/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/illegal-move/s5> <https://schema.org/url> "https://new.uschess.org/sites/default/files/media/documents/uschess-fide-rules-comparison.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/illegal-move/s6> <http://purl.org/dc/terms/publisher> "ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/illegal-move/s6> <http://purl.org/dc/terms/title> "Illegal moves and irregularities (by IA Tamas Gyomber, from ECU Magazine, January 2024)" .
+<https://github.com/john1hsu/chess-graph/id/source/illegal-move/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/illegal-move/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/illegal-move/s6> <https://schema.org/url> "https://en.chessbase.com/post/illegal-moves-and-irregularities" .
 <https://github.com/john1hsu/chess-graph/id/source/immortal-game/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/immortal-game/s1> <http://purl.org/dc/terms/title> "Adolf Anderssen" .
 <https://github.com/john1hsu/chess-graph/id/source/immortal-game/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

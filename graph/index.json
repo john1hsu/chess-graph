@@ -2964,6 +2964,31 @@
     ]
   },
   {
+    "id": "kt:illegal-move",
+    "title": "Illegal move",
+    "aliases": [
+      "Illegal moves",
+      "Illegal move rule",
+      "Illegal move penalty",
+      "Article 7.5"
+    ],
+    "type": "Rule",
+    "domain": "rules-and-notation",
+    "file": "articles/rules-and-notation/illegal-move.md",
+    "created": "2026-11-17",
+    "verified": "2026-11-17",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://rcc.fide.com/article7/",
+      "https://rcc.fide.com/fide-laws-of-chess_fulltexthtml/",
+      "https://rcc.fide.com/?p=876",
+      "https://arbiters.fide.com/wp-content/uploads/Publications/Manual/Arbiters_Manual_2024.pdf",
+      "https://new.uschess.org/sites/default/files/media/documents/uschess-fide-rules-comparison.pdf",
+      "https://en.chessbase.com/post/illegal-moves-and-irregularities"
+    ]
+  },
+  {
     "id": "kt:immortal-game",
     "title": "Immortal Game",
     "aliases": [

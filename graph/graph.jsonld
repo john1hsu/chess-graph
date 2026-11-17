@@ -16247,6 +16247,103 @@
       ]
     },
     {
+      "@id": "kt:illegal-move",
+      "@type": "kto:Rule",
+      "skos:prefLabel": "Illegal move",
+      "skos:definition": "A move that breaks the piece-movement rules of the Laws of Chess; under FIDE rules it is complete once the clock is pressed, the prior position is restored, the opponent gains two minutes for a first offence and a second offence loses the game.",
+      "kto:domain": "rules-and-notation",
+      "dcterms:created": "2026-11-17",
+      "kto:verified": "2026-11-17",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Article 7: Irregularities",
+          "dcterms:publisher": "FIDE Rules Commission",
+          "schema:url": "https://rcc.fide.com/article7/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "FIDE Laws of Chess (full text, applied from 1 January 2023)",
+          "dcterms:publisher": "FIDE Rules Commission",
+          "schema:url": "https://rcc.fide.com/fide-laws-of-chess_fulltexthtml/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Appendix A. Rapid Chess",
+          "dcterms:publisher": "FIDE Rules Commission",
+          "schema:url": "https://rcc.fide.com/?p=876",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Arbiters' Manual 2024 (Article 7.5 with commentary)",
+          "dcterms:publisher": "FIDE Arbiters' Commission",
+          "schema:url": "https://arbiters.fide.com/wp-content/uploads/Publications/Manual/Arbiters_Manual_2024.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Summary of differences between the FIDE Laws of Chess and the US Chess Official Rules of Chess, 7th edition (updated 1 January 2022)",
+          "dcterms:publisher": "US Chess",
+          "schema:url": "https://new.uschess.org/sites/default/files/media/documents/uschess-fide-rules-comparison.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Illegal moves and irregularities (by IA Tamas Gyomber, from ECU Magazine, January 2024)",
+          "dcterms:publisher": "ChessBase News",
+          "schema:url": "https://en.chessbase.com/post/illegal-moves-and-irregularities",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/rules-and-notation/illegal-move.md",
+      "skos:altLabel": [
+        "Illegal moves",
+        "Illegal move rule",
+        "Illegal move penalty",
+        "Article 7.5"
+      ],
+      "kto:fen": "4k3/8/8/8/2b5/8/8/4K2R w K - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:touch-move"
+        },
+        {
+          "@id": "kt:arbiter"
+        },
+        {
+          "@id": "kt:rapid-chess"
+        },
+        {
+          "@id": "kt:blitz-chess"
+        },
+        {
+          "@id": "kt:us-chess"
+        },
+        {
+          "@id": "kt:pawn-promotion"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:fide"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:touch-move"
+        }
+      ]
+    },
+    {
       "@id": "kt:pawn-promotion",
       "@type": "kto:Rule",
       "skos:prefLabel": "Pawn promotion",
