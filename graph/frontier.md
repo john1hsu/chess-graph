@@ -26,6 +26,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:extended-position-description` | `kt:forsyth-edwards-notation`, `kt:portable-game-notation` |
 | `kt:ju-wenjun` | `kt:womens-world-chess-championship`, `kt:womens-world-chess-championship` |
 | `kt:karpov-versus-unzicker-nice-1974` | `kt:prophylaxis`, `kt:anatoly-karpov` |
+| `kt:knight-versus-bishop` | `kt:bishop-and-knight-checkmate`, `kt:good-and-bad-bishops` |
 | `kt:lionel-kieseritzky` | `kt:immortal-game`, `kt:london-1851` |
 | `kt:london-1883` | `kt:world-chess-championship-1886`, `kt:johannes-zukertort` |
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position`, `kt:smothered-mate` |
@@ -141,7 +142,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:killer-heuristic` | `kt:move-ordering` |
 | `kt:king-activity` | `kt:king-safety` |
 | `kt:kings-indian-defence` | `kt:soviet-chess-school` |
-| `kt:knight-versus-bishop` | `kt:good-and-bad-bishops` |
 | `kt:kramnik-versus-anand-bonn-2008-game-3` | `kt:viswanathan-anand` |
 | `kt:lasker-capablanca-havana-1921-game-10` | `kt:jose-raul-capablanca` |
 | `kt:lasker-capablanca-st-petersburg-1914` | `kt:emanuel-lasker` |

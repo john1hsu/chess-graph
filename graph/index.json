@@ -438,6 +438,35 @@
     ]
   },
   {
+    "id": "kt:bishop-and-knight-checkmate",
+    "title": "Bishop and knight checkmate",
+    "aliases": [
+      "Bishop and knight mate",
+      "Knight and bishop mate",
+      "Knight and bishop checkmate",
+      "KBN versus K",
+      "KBNK",
+      "King",
+      "bishop and knight versus king",
+      "W-manoeuvre",
+      "W-maneuver"
+    ],
+    "type": "EndgameType",
+    "domain": "endgames",
+    "file": "articles/endgames/bishop-and-knight-checkmate.md",
+    "created": "2026-11-17",
+    "verified": "2026-11-17",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://gutenberg.org/cache/epub/33870/pg33870-images.html",
+      "https://library.slmath.org/books/Book71/files/GONC6-15.pdf",
+      "https://tutorials3.chessbase.com/en/the-endgame-academy-vol1-checkmate-pawn-endga-2/mating-with-bishop-and-knight-w-manoeuvre",
+      "https://en.chessbase.com/post/the-w-manoeuvre",
+      "https://exeterchessclub.org.uk/content/how-mate-bishop-and-knight"
+    ]
+  },
+  {
     "id": "kt:bishop-pair",
     "title": "Bishop pair",
     "aliases": [

@@ -1951,6 +1951,99 @@
       ]
     },
     {
+      "@id": "kt:bishop-and-knight-checkmate",
+      "@type": "kto:EndgameType",
+      "skos:prefLabel": "Bishop and knight checkmate",
+      "skos:definition": "The basic ending of king, bishop and knight against a lone king, a forced win in which the defending king must be driven to a corner of the bishop's colour; the method is demanding enough that it has to be learned to beat the fifty-move rule.",
+      "kto:domain": "endgames",
+      "dcterms:created": "2026-11-17",
+      "kto:verified": "2026-11-17",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Chess Fundamentals (1921), Project Gutenberg eBook #33870",
+          "dcterms:publisher": "José Raúl Capablanca; Project Gutenberg",
+          "schema:url": "https://gutenberg.org/cache/epub/33870/pg33870-images.html",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The bishop and knight checkmate on a large chessboard",
+          "dcterms:publisher": "Johan Wästlund, Games of No Chance 6, MSRI Publications vol. 71 (2025)",
+          "schema:url": "https://library.slmath.org/books/Book71/files/GONC6-15.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Mating with bishop and knight: W-manoeuvre (The Endgame Academy Vol.1, chapter 1.4)",
+          "dcterms:publisher": "Karsten Müller, ChessBase Books",
+          "schema:url": "https://tutorials3.chessbase.com/en/the-endgame-academy-vol1-checkmate-pawn-endga-2/mating-with-bishop-and-knight-w-manoeuvre",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The W-manoeuvre",
+          "dcterms:publisher": "ChessBase News (13 January 2011), introducing Karsten Müller's ChessBase Magazine column",
+          "schema:url": "https://en.chessbase.com/post/the-w-manoeuvre",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "How to mate with Bishop and Knight",
+          "dcterms:publisher": "Exeter Chess Club (notes by Norbert Friedrich, 2010)",
+          "schema:url": "https://exeterchessclub.org.uk/content/how-mate-bishop-and-knight",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/endgames/bishop-and-knight-checkmate.md",
+      "skos:altLabel": [
+        "Bishop and knight mate",
+        "Knight and bishop mate",
+        "Knight and bishop checkmate",
+        "KBN versus K",
+        "KBNK",
+        "King",
+        "bishop and knight versus king",
+        "W-manoeuvre",
+        "W-maneuver"
+      ],
+      "kto:fen": "7k/8/5BKN/8/8/8/8/8 b - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:checkmate"
+        },
+        {
+          "@id": "kt:chess-endgame"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:wrong-bishop"
+        },
+        {
+          "@id": "kt:endgame-tablebases"
+        },
+        {
+          "@id": "kt:knight-versus-bishop"
+        },
+        {
+          "@id": "kt:jose-raul-capablanca"
+        }
+      ],
+      "kto:governedBy": [
+        {
+          "@id": "kt:fifty-move-rule"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:cutting-off-the-king"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:wrong-bishop"
+        }
+      ]
+    },
+    {
       "@id": "kt:chess-endgame",
       "@type": "kto:Concept",
       "skos:prefLabel": "Chess endgame",

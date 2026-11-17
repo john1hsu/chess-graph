@@ -499,6 +499,38 @@
 <https://github.com/john1hsu/chess-graph/id/battery> <https://github.com/john1hsu/chess-graph/ontology#fen> "5rk1/ppp2ppp/8/8/8/3Q4/PP3PPP/1B4K1 w - - 0 1" .
 <https://github.com/john1hsu/chess-graph/id/battery> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/battery> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-16" .
+<https://github.com/john1hsu/chess-graph/id/bishop-and-knight-checkmate> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/chess-graph/id/bishop-and-knight-checkmate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#EndgameType> .
+<https://github.com/john1hsu/chess-graph/id/bishop-and-knight-checkmate> <http://www.w3.org/2000/01/rdf-schema#label> "Bishop and knight checkmate" .
+<https://github.com/john1hsu/chess-graph/id/bishop-and-knight-checkmate> <http://www.w3.org/2004/02/skos/core#altLabel> "Bishop and knight mate" .
+<https://github.com/john1hsu/chess-graph/id/bishop-and-knight-checkmate> <http://www.w3.org/2004/02/skos/core#altLabel> "KBN versus K" .
+<https://github.com/john1hsu/chess-graph/id/bishop-and-knight-checkmate> <http://www.w3.org/2004/02/skos/core#altLabel> "KBNK" .
+<https://github.com/john1hsu/chess-graph/id/bishop-and-knight-checkmate> <http://www.w3.org/2004/02/skos/core#altLabel> "King" .
+<https://github.com/john1hsu/chess-graph/id/bishop-and-knight-checkmate> <http://www.w3.org/2004/02/skos/core#altLabel> "Knight and bishop checkmate" .
+<https://github.com/john1hsu/chess-graph/id/bishop-and-knight-checkmate> <http://www.w3.org/2004/02/skos/core#altLabel> "Knight and bishop mate" .
+<https://github.com/john1hsu/chess-graph/id/bishop-and-knight-checkmate> <http://www.w3.org/2004/02/skos/core#altLabel> "W-maneuver" .
+<https://github.com/john1hsu/chess-graph/id/bishop-and-knight-checkmate> <http://www.w3.org/2004/02/skos/core#altLabel> "W-manoeuvre" .
+<https://github.com/john1hsu/chess-graph/id/bishop-and-knight-checkmate> <http://www.w3.org/2004/02/skos/core#altLabel> "bishop and knight versus king" .
+<https://github.com/john1hsu/chess-graph/id/bishop-and-knight-checkmate> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/checkmate> .
+<https://github.com/john1hsu/chess-graph/id/bishop-and-knight-checkmate> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-endgame> .
+<https://github.com/john1hsu/chess-graph/id/bishop-and-knight-checkmate> <http://www.w3.org/2004/02/skos/core#definition> "The basic ending of king, bishop and knight against a lone king, a forced win in which the defending king must be driven to a corner of the bishop's colour; the method is demanding enough that it has to be learned to beat the fifty-move rule." .
+<https://github.com/john1hsu/chess-graph/id/bishop-and-knight-checkmate> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bishop and knight checkmate" .
+<https://github.com/john1hsu/chess-graph/id/bishop-and-knight-checkmate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/endgame-tablebases> .
+<https://github.com/john1hsu/chess-graph/id/bishop-and-knight-checkmate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> .
+<https://github.com/john1hsu/chess-graph/id/bishop-and-knight-checkmate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/knight-versus-bishop> .
+<https://github.com/john1hsu/chess-graph/id/bishop-and-knight-checkmate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/wrong-bishop> .
+<https://github.com/john1hsu/chess-graph/id/bishop-and-knight-checkmate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bishop-and-knight-checkmate/s1> .
+<https://github.com/john1hsu/chess-graph/id/bishop-and-knight-checkmate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bishop-and-knight-checkmate/s2> .
+<https://github.com/john1hsu/chess-graph/id/bishop-and-knight-checkmate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bishop-and-knight-checkmate/s3> .
+<https://github.com/john1hsu/chess-graph/id/bishop-and-knight-checkmate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bishop-and-knight-checkmate/s4> .
+<https://github.com/john1hsu/chess-graph/id/bishop-and-knight-checkmate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bishop-and-knight-checkmate/s5> .
+<https://github.com/john1hsu/chess-graph/id/bishop-and-knight-checkmate> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/wrong-bishop> .
+<https://github.com/john1hsu/chess-graph/id/bishop-and-knight-checkmate> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> .
+<https://github.com/john1hsu/chess-graph/id/bishop-and-knight-checkmate> <https://github.com/john1hsu/chess-graph/ontology#domain> "endgames" .
+<https://github.com/john1hsu/chess-graph/id/bishop-and-knight-checkmate> <https://github.com/john1hsu/chess-graph/ontology#fen> "7k/8/5BKN/8/8/8/8/8 b - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/bishop-and-knight-checkmate> <https://github.com/john1hsu/chess-graph/ontology#governedBy> <https://github.com/john1hsu/chess-graph/id/fifty-move-rule> .
+<https://github.com/john1hsu/chess-graph/id/bishop-and-knight-checkmate> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/bishop-and-knight-checkmate> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-17" .
 <https://github.com/john1hsu/chess-graph/id/bishop-pair> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/bishop-pair> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
 <https://github.com/john1hsu/chess-graph/id/bishop-pair> <http://www.w3.org/2000/01/rdf-schema#label> "Bishop pair" .
@@ -5818,6 +5850,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/battery/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/battery/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/battery/s6> <https://schema.org/url> "https://www.ozproblems.com/problem-world/battery-play" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-and-knight-checkmate/s1> <http://purl.org/dc/terms/publisher> "José Raúl Capablanca; Project Gutenberg" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-and-knight-checkmate/s1> <http://purl.org/dc/terms/title> "Chess Fundamentals (1921), Project Gutenberg eBook #33870" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-and-knight-checkmate/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-and-knight-checkmate/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-and-knight-checkmate/s1> <https://schema.org/url> "https://gutenberg.org/cache/epub/33870/pg33870-images.html" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-and-knight-checkmate/s2> <http://purl.org/dc/terms/publisher> "Johan Wästlund, Games of No Chance 6, MSRI Publications vol. 71 (2025)" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-and-knight-checkmate/s2> <http://purl.org/dc/terms/title> "The bishop and knight checkmate on a large chessboard" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-and-knight-checkmate/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-and-knight-checkmate/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-and-knight-checkmate/s2> <https://schema.org/url> "https://library.slmath.org/books/Book71/files/GONC6-15.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-and-knight-checkmate/s3> <http://purl.org/dc/terms/publisher> "Karsten Müller, ChessBase Books" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-and-knight-checkmate/s3> <http://purl.org/dc/terms/title> "Mating with bishop and knight: W-manoeuvre (The Endgame Academy Vol.1, chapter 1.4)" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-and-knight-checkmate/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-and-knight-checkmate/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-and-knight-checkmate/s3> <https://schema.org/url> "https://tutorials3.chessbase.com/en/the-endgame-academy-vol1-checkmate-pawn-endga-2/mating-with-bishop-and-knight-w-manoeuvre" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-and-knight-checkmate/s4> <http://purl.org/dc/terms/publisher> "ChessBase News (13 January 2011), introducing Karsten Müller's ChessBase Magazine column" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-and-knight-checkmate/s4> <http://purl.org/dc/terms/title> "The W-manoeuvre" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-and-knight-checkmate/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-and-knight-checkmate/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-and-knight-checkmate/s4> <https://schema.org/url> "https://en.chessbase.com/post/the-w-manoeuvre" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-and-knight-checkmate/s5> <http://purl.org/dc/terms/publisher> "Exeter Chess Club (notes by Norbert Friedrich, 2010)" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-and-knight-checkmate/s5> <http://purl.org/dc/terms/title> "How to mate with Bishop and Knight" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-and-knight-checkmate/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-and-knight-checkmate/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/bishop-and-knight-checkmate/s5> <https://schema.org/url> "https://exeterchessclub.org.uk/content/how-mate-bishop-and-knight" .
 <https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s1> <http://purl.org/dc/terms/publisher> "Larry Kaufman, Chess.com (updated 17 November 2008)" .
 <https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s1> <http://purl.org/dc/terms/title> "The Evaluation of Material Imbalances" .
 <https://github.com/john1hsu/chess-graph/id/source/bishop-pair/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
