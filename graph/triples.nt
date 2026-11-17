@@ -1959,6 +1959,30 @@
 <https://github.com/john1hsu/chess-graph/id/deliberate-practice> <https://github.com/john1hsu/chess-graph/ontology#domain> "training-and-improvement" .
 <https://github.com/john1hsu/chess-graph/id/deliberate-practice> <https://github.com/john1hsu/chess-graph/ontology#status> "contested" .
 <https://github.com/john1hsu/chess-graph/id/deliberate-practice> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/descriptive-notation> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/chess-graph/id/descriptive-notation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Notation> .
+<https://github.com/john1hsu/chess-graph/id/descriptive-notation> <http://www.w3.org/2000/01/rdf-schema#label> "Descriptive notation" .
+<https://github.com/john1hsu/chess-graph/id/descriptive-notation> <http://www.w3.org/2004/02/skos/core#altLabel> "Descriptive chess notation" .
+<https://github.com/john1hsu/chess-graph/id/descriptive-notation> <http://www.w3.org/2004/02/skos/core#altLabel> "English descriptive notation" .
+<https://github.com/john1hsu/chess-graph/id/descriptive-notation> <http://www.w3.org/2004/02/skos/core#altLabel> "English notation" .
+<https://github.com/john1hsu/chess-graph/id/descriptive-notation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-notation> .
+<https://github.com/john1hsu/chess-graph/id/descriptive-notation> <http://www.w3.org/2004/02/skos/core#definition> "The older English-language system for recording chess moves, in which each file is named after the piece that starts on it (king's bishop file, queen's knight file) and ranks are counted from the moving player's own side, so 1.P-K4 means a king's-pawn advance for either colour." .
+<https://github.com/john1hsu/chess-graph/id/descriptive-notation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Descriptive notation" .
+<https://github.com/john1hsu/chess-graph/id/descriptive-notation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/algebraic-notation> .
+<https://github.com/john1hsu/chess-graph/id/descriptive-notation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/edward-lasker> .
+<https://github.com/john1hsu/chess-graph/id/descriptive-notation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/descriptive-notation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/portable-game-notation> .
+<https://github.com/john1hsu/chess-graph/id/descriptive-notation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/ruy-lopez> .
+<https://github.com/john1hsu/chess-graph/id/descriptive-notation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/descriptive-notation/s1> .
+<https://github.com/john1hsu/chess-graph/id/descriptive-notation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/descriptive-notation/s2> .
+<https://github.com/john1hsu/chess-graph/id/descriptive-notation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/descriptive-notation/s3> .
+<https://github.com/john1hsu/chess-graph/id/descriptive-notation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/descriptive-notation/s4> .
+<https://github.com/john1hsu/chess-graph/id/descriptive-notation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/descriptive-notation/s5> .
+<https://github.com/john1hsu/chess-graph/id/descriptive-notation> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/algebraic-notation> .
+<https://github.com/john1hsu/chess-graph/id/descriptive-notation> <https://github.com/john1hsu/chess-graph/ontology#domain> "rules-and-notation" .
+<https://github.com/john1hsu/chess-graph/id/descriptive-notation> <https://github.com/john1hsu/chess-graph/ontology#replacedBy> <https://github.com/john1hsu/chess-graph/id/algebraic-notation> .
+<https://github.com/john1hsu/chess-graph/id/descriptive-notation> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/descriptive-notation> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-17" .
 <https://github.com/john1hsu/chess-graph/id/development> <http://purl.org/dc/terms/created> "2026-11-17" .
 <https://github.com/john1hsu/chess-graph/id/development> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
 <https://github.com/john1hsu/chess-graph/id/development> <http://www.w3.org/2000/01/rdf-schema#label> "Development" .
@@ -7451,6 +7475,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/deliberate-practice/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/deliberate-practice/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/chess-graph/id/source/deliberate-practice/s4> <https://schema.org/url> "https://pmc.ncbi.nlm.nih.gov/articles/PMC6731745" .
+<https://github.com/john1hsu/chess-graph/id/source/descriptive-notation/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/descriptive-notation/s1> <http://purl.org/dc/terms/title> "Chess Notation" .
+<https://github.com/john1hsu/chess-graph/id/source/descriptive-notation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/descriptive-notation/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/descriptive-notation/s1> <https://schema.org/url> "https://chesshistory.com/winter/extra/notation.html" .
+<https://github.com/john1hsu/chess-graph/id/source/descriptive-notation/s2> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/descriptive-notation/s2> <http://purl.org/dc/terms/title> "chess (Britannica School / Britannica Kids, students' encyclopedia)" .
+<https://github.com/john1hsu/chess-graph/id/source/descriptive-notation/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/descriptive-notation/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/descriptive-notation/s2> <https://schema.org/url> "https://kids.britannica.com/students/article/chess/273625" .
+<https://github.com/john1hsu/chess-graph/id/source/descriptive-notation/s3> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/descriptive-notation/s3> <http://purl.org/dc/terms/title> "Appendix C. Algebraic Notation (FIDE Laws of Chess)" .
+<https://github.com/john1hsu/chess-graph/id/source/descriptive-notation/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/descriptive-notation/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/descriptive-notation/s3> <https://schema.org/url> "https://rcc.fide.com/?p=880" .
+<https://github.com/john1hsu/chess-graph/id/source/descriptive-notation/s4> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
+<https://github.com/john1hsu/chess-graph/id/source/descriptive-notation/s4> <http://purl.org/dc/terms/title> "Article 8: The recording of the moves (FIDE Laws of Chess)" .
+<https://github.com/john1hsu/chess-graph/id/source/descriptive-notation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/descriptive-notation/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/descriptive-notation/s4> <https://schema.org/url> "https://rcc.fide.com/?p=866" .
+<https://github.com/john1hsu/chess-graph/id/source/descriptive-notation/s5> <http://purl.org/dc/terms/publisher> "Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/descriptive-notation/s5> <http://purl.org/dc/terms/title> "How to Read Descriptive Notation (Tom Shupe, updated 3 September 2024)" .
+<https://github.com/john1hsu/chess-graph/id/source/descriptive-notation/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/descriptive-notation/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/descriptive-notation/s5> <https://schema.org/url> "https://www.chess.com/blog/chess_dot_tom/how-to-read-descriptive-notation" .
 <https://github.com/john1hsu/chess-graph/id/source/development/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/development/s1> <http://purl.org/dc/terms/title> "Chess: Development of theory" .
 <https://github.com/john1hsu/chess-graph/id/source/development/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

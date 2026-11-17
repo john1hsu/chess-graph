@@ -18,7 +18,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:berlin-defence` | `kt:alphazero`, `kt:ruy-lopez` |
 | `kt:botvinnik-versus-capablanca-avro-1938` | `kt:soviet-chess-school`, `kt:mikhail-botvinnik` |
 | `kt:carlsen-versus-anand-sochi-2014-game-6` | `kt:magnus-carlsen`, `kt:zwischenzug` |
-| `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
 | `kt:exchange-sacrifice` | `kt:dragon-variation`, `kt:sacrifice` |
 | `kt:extended-position-description` | `kt:forsyth-edwards-notation`, `kt:portable-game-notation` |
 | `kt:ju-wenjun` | `kt:womens-world-chess-championship`, `kt:womens-world-chess-championship` |
@@ -68,6 +67,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chess-4-5` | `kt:iterative-deepening` |
 | `kt:chess-engine-communication-protocol` | `kt:universal-chess-interface` |
 | `kt:chess-equipment` | `kt:chess-clock` |
+| `kt:chess-notation` | `kt:descriptive-notation` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
 | `kt:chess-set` | `kt:lewis-chessmen` |
 | `kt:chessdom` | `kt:top-chess-engine-championship` |
@@ -83,6 +83,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ding-liren` | `kt:gukesh-dommaraju` |
 | `kt:ding-versus-gukesh-singapore-2024-game-14` | `kt:gukesh-dommaraju` |
 | `kt:dutch-system` | `kt:swiss-system` |
+| `kt:edward-lasker` | `kt:descriptive-notation` |
 | `kt:edwin-z-adams` | `kt:adams-versus-torre-new-orleans-1920` |
 | `kt:englisch-versus-steinitz-london-1883` | `kt:bishop-pair` |
 | `kt:english-attack` | `kt:najdorf-variation` |

@@ -14855,6 +14855,87 @@
       ]
     },
     {
+      "@id": "kt:descriptive-notation",
+      "@type": "kto:Notation",
+      "skos:prefLabel": "Descriptive notation",
+      "skos:definition": "The older English-language system for recording chess moves, in which each file is named after the piece that starts on it (king's bishop file, queen's knight file) and ranks are counted from the moving player's own side, so 1.P-K4 means a king's-pawn advance for either colour.",
+      "kto:domain": "rules-and-notation",
+      "dcterms:created": "2026-11-17",
+      "kto:verified": "2026-11-17",
+      "kto:status": "historical",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Chess Notation",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://chesshistory.com/winter/extra/notation.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "chess (Britannica School / Britannica Kids, students' encyclopedia)",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://kids.britannica.com/students/article/chess/273625",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Appendix C. Algebraic Notation (FIDE Laws of Chess)",
+          "dcterms:publisher": "FIDE Rules Commission",
+          "schema:url": "https://rcc.fide.com/?p=880",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Article 8: The recording of the moves (FIDE Laws of Chess)",
+          "dcterms:publisher": "FIDE Rules Commission",
+          "schema:url": "https://rcc.fide.com/?p=866",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "How to Read Descriptive Notation (Tom Shupe, updated 3 September 2024)",
+          "dcterms:publisher": "Chess.com",
+          "schema:url": "https://www.chess.com/blog/chess_dot_tom/how-to-read-descriptive-notation",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/rules-and-notation/descriptive-notation.md",
+      "skos:altLabel": [
+        "English notation",
+        "English descriptive notation",
+        "Descriptive chess notation"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess-notation"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:algebraic-notation"
+        },
+        {
+          "@id": "kt:portable-game-notation"
+        },
+        {
+          "@id": "kt:fide-laws-of-chess"
+        },
+        {
+          "@id": "kt:ruy-lopez"
+        },
+        {
+          "@id": "kt:edward-lasker"
+        }
+      ],
+      "kto:replacedBy": [
+        {
+          "@id": "kt:algebraic-notation"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:algebraic-notation"
+        }
+      ]
+    },
+    {
       "@id": "kt:draw",
       "@type": "kto:Rule",
       "skos:prefLabel": "Draw",

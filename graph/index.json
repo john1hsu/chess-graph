@@ -1740,6 +1740,29 @@
     ]
   },
   {
+    "id": "kt:descriptive-notation",
+    "title": "Descriptive notation",
+    "aliases": [
+      "English notation",
+      "English descriptive notation",
+      "Descriptive chess notation"
+    ],
+    "type": "Notation",
+    "domain": "rules-and-notation",
+    "file": "articles/rules-and-notation/descriptive-notation.md",
+    "created": "2026-11-17",
+    "verified": "2026-11-17",
+    "volatile": true,
+    "status": "historical",
+    "source_urls": [
+      "https://chesshistory.com/winter/extra/notation.html",
+      "https://kids.britannica.com/students/article/chess/273625",
+      "https://rcc.fide.com/?p=880",
+      "https://rcc.fide.com/?p=866",
+      "https://www.chess.com/blog/chess_dot_tom/how-to-read-descriptive-notation"
+    ]
+  },
+  {
     "id": "kt:development",
     "title": "Development",
     "aliases": [
