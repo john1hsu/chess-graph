@@ -6025,6 +6025,111 @@
       ]
     },
     {
+      "@id": "kt:world-rapid-championship",
+      "@type": "kto:Event",
+      "skos:prefLabel": "World Rapid Championship",
+      "skos:definition": "FIDE's annual world championship at the rapid time control, now a 13-round Swiss open (with an 11-round women's event) held each December alongside the World Blitz Championship, with a play-off if first place is tied.",
+      "kto:domain": "events-and-organizations",
+      "dcterms:created": "2026-11-17",
+      "kto:verified": "2026-11-17",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Regulations for the FIDE World Rapid & Blitz Chess Championships 2025 (Open)",
+          "dcterms:publisher": "FIDE Handbook",
+          "schema:url": "https://handbook.fide.com/files/handbook/wrbc_regulations_2025_open.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "From Mazatlan to Luzhniki",
+          "dcterms:publisher": "FIDE World Rapid & Blitz Championships 2019 (official event site)",
+          "schema:url": "https://worldrapidandblitz2019.fide.com/history/2",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "Carlsen and Goryachkina take World Rapid titles in Doha",
+          "dcterms:publisher": "FIDE (fide.com news, 28 December 2025)",
+          "schema:url": "https://www.fide.com/carlsen-and-goryachkina-take-world-rapid-titles-in-doha/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Changes to the World Rapid & Blitz format and a 1M euro prize fund",
+          "dcterms:publisher": "FIDE (fide.com news, 13 May 2025)",
+          "schema:url": "https://www.fide.com/changes-to-the-world-rapid-blitz-format-and-a-1m-euro-prize-fund/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Karjakin wins the Astana World Rapid Championship",
+          "dcterms:publisher": "ChessBase News (July 2012)",
+          "schema:url": "https://en.chessbase.com/post/karjakin-wins-the-astana-world-rapid-che-championship",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Keeping it solid to beat the superstars (World Rapid & Blitz 2024, day 3)",
+          "dcterms:publisher": "ChessBase News (29 December 2024)",
+          "schema:url": "https://en.chessbase.com/post/world-rapid-blitz-2024-d3",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/events-and-organizations/world-rapid-championship.md",
+      "skos:altLabel": [
+        "World Rapid Chess Championship",
+        "FIDE World Rapid Championship",
+        "World Rapid Chess Championships",
+        "World Rapid"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:rapid-chess"
+        },
+        {
+          "@id": "kt:chess-tournament"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:world-blitz-championship"
+        },
+        {
+          "@id": "kt:swiss-system"
+        },
+        {
+          "@id": "kt:tie-break"
+        },
+        {
+          "@id": "kt:fair-play-regulations"
+        },
+        {
+          "@id": "kt:world-chess-championship"
+        }
+      ],
+      "kto:sanctionedBy": [
+        {
+          "@id": "kt:fide"
+        }
+      ],
+      "kto:governedBy": [
+        {
+          "@id": "kt:rapid-chess"
+        }
+      ],
+      "kto:wonBy": [
+        {
+          "@id": "kt:magnus-carlsen"
+        },
+        {
+          "@id": "kt:viswanathan-anand"
+        },
+        {
+          "@id": "kt:anatoly-karpov"
+        },
+        {
+          "@id": "kt:sergey-karjakin"
+        }
+      ]
+    },
+    {
       "@id": "kt:adams-versus-torre-new-orleans-1920",
       "@type": "kto:Game",
       "skos:prefLabel": "Adams versus Torre, New Orleans 1920",

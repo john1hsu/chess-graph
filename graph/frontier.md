@@ -37,7 +37,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
 | `kt:static-exchange-evaluation` | `kt:move-ordering`, `kt:quiescence-search` |
 | `kt:steven-j-edwards` | `kt:forsyth-edwards-notation`, `kt:portable-game-notation` |
-| `kt:world-rapid-championship` | `kt:viswanathan-anand`, `kt:rapid-chess` |
+| `kt:world-blitz-championship` | `kt:world-rapid-championship`, `kt:blitz-chess` |
 | `kt:abraham-luchins` | `kt:einstellung-effect` |
 | `kt:abstract-strategy-game` | `kt:chess` |
 | `kt:alfred-binet` | `kt:cognitive-psychology-of-chess` |
@@ -212,6 +212,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:samuel-reshevsky` | `kt:us-chess-championship` |
 | `kt:semi-closed-games` | `kt:chess-openings` |
 | `kt:semi-slav-defence` | `kt:slav-defence` |
+| `kt:sergey-karjakin` | `kt:world-rapid-championship` |
 | `kt:shuffle-chess` | `kt:chess960` |
 | `kt:side-checks` | `kt:vancura-position` |
 | `kt:simultaneous-exhibition` | `kt:blindfold-chess` |
@@ -244,7 +245,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:windmill` | `kt:battery` |
 | `kt:wolfgang-von-kempelen` | `kt:the-turk` |
 | `kt:woodpecker-method` | `kt:puzzle-training` |
-| `kt:world-blitz-championship` | `kt:blitz-chess` |
 | `kt:world-chess-championship-1894` | `kt:emanuel-lasker` |
 | `kt:world-chess-championship-1908` | `kt:siegbert-tarrasch` |
 | `kt:world-chess-championship-1921` | `kt:jose-raul-capablanca` |

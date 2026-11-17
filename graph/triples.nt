@@ -12464,6 +12464,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/world-federation-for-chess-composition/s6> <https://schema.org/url> "https://en.chessbase.com/post/study-of-the-month-2019-8" .
+<https://github.com/john1hsu/chess-graph/id/source/world-rapid-championship/s1> <http://purl.org/dc/terms/publisher> "FIDE Handbook" .
+<https://github.com/john1hsu/chess-graph/id/source/world-rapid-championship/s1> <http://purl.org/dc/terms/title> "Regulations for the FIDE World Rapid & Blitz Chess Championships 2025 (Open)" .
+<https://github.com/john1hsu/chess-graph/id/source/world-rapid-championship/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/world-rapid-championship/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/world-rapid-championship/s1> <https://schema.org/url> "https://handbook.fide.com/files/handbook/wrbc_regulations_2025_open.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/world-rapid-championship/s2> <http://purl.org/dc/terms/publisher> "FIDE World Rapid & Blitz Championships 2019 (official event site)" .
+<https://github.com/john1hsu/chess-graph/id/source/world-rapid-championship/s2> <http://purl.org/dc/terms/title> "From Mazatlan to Luzhniki" .
+<https://github.com/john1hsu/chess-graph/id/source/world-rapid-championship/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/world-rapid-championship/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/world-rapid-championship/s2> <https://schema.org/url> "https://worldrapidandblitz2019.fide.com/history/2" .
+<https://github.com/john1hsu/chess-graph/id/source/world-rapid-championship/s3> <http://purl.org/dc/terms/publisher> "FIDE (fide.com news, 28 December 2025)" .
+<https://github.com/john1hsu/chess-graph/id/source/world-rapid-championship/s3> <http://purl.org/dc/terms/title> "Carlsen and Goryachkina take World Rapid titles in Doha" .
+<https://github.com/john1hsu/chess-graph/id/source/world-rapid-championship/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/world-rapid-championship/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/world-rapid-championship/s3> <https://schema.org/url> "https://www.fide.com/carlsen-and-goryachkina-take-world-rapid-titles-in-doha/" .
+<https://github.com/john1hsu/chess-graph/id/source/world-rapid-championship/s4> <http://purl.org/dc/terms/publisher> "FIDE (fide.com news, 13 May 2025)" .
+<https://github.com/john1hsu/chess-graph/id/source/world-rapid-championship/s4> <http://purl.org/dc/terms/title> "Changes to the World Rapid & Blitz format and a 1M euro prize fund" .
+<https://github.com/john1hsu/chess-graph/id/source/world-rapid-championship/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/world-rapid-championship/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/world-rapid-championship/s4> <https://schema.org/url> "https://www.fide.com/changes-to-the-world-rapid-blitz-format-and-a-1m-euro-prize-fund/" .
+<https://github.com/john1hsu/chess-graph/id/source/world-rapid-championship/s5> <http://purl.org/dc/terms/publisher> "ChessBase News (July 2012)" .
+<https://github.com/john1hsu/chess-graph/id/source/world-rapid-championship/s5> <http://purl.org/dc/terms/title> "Karjakin wins the Astana World Rapid Championship" .
+<https://github.com/john1hsu/chess-graph/id/source/world-rapid-championship/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/world-rapid-championship/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/world-rapid-championship/s5> <https://schema.org/url> "https://en.chessbase.com/post/karjakin-wins-the-astana-world-rapid-che-championship" .
+<https://github.com/john1hsu/chess-graph/id/source/world-rapid-championship/s6> <http://purl.org/dc/terms/publisher> "ChessBase News (29 December 2024)" .
+<https://github.com/john1hsu/chess-graph/id/source/world-rapid-championship/s6> <http://purl.org/dc/terms/title> "Keeping it solid to beat the superstars (World Rapid & Blitz 2024, day 3)" .
+<https://github.com/john1hsu/chess-graph/id/source/world-rapid-championship/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/world-rapid-championship/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/world-rapid-championship/s6> <https://schema.org/url> "https://en.chessbase.com/post/world-rapid-blitz-2024-d3" .
 <https://github.com/john1hsu/chess-graph/id/source/wrong-bishop/s1> <http://purl.org/dc/terms/publisher> "José Raúl Capablanca; Project Gutenberg" .
 <https://github.com/john1hsu/chess-graph/id/source/wrong-bishop/s1> <http://purl.org/dc/terms/title> "Chess Fundamentals (1921), Project Gutenberg eBook #33870" .
 <https://github.com/john1hsu/chess-graph/id/source/wrong-bishop/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -13546,6 +13576,37 @@
 <https://github.com/john1hsu/chess-graph/id/world-federation-for-chess-composition> <https://github.com/john1hsu/chess-graph/ontology#domain> "events-and-organizations" .
 <https://github.com/john1hsu/chess-graph/id/world-federation-for-chess-composition> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/world-federation-for-chess-composition> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-13" .
+<https://github.com/john1hsu/chess-graph/id/world-rapid-championship> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/chess-graph/id/world-rapid-championship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Event> .
+<https://github.com/john1hsu/chess-graph/id/world-rapid-championship> <http://www.w3.org/2000/01/rdf-schema#label> "World Rapid Championship" .
+<https://github.com/john1hsu/chess-graph/id/world-rapid-championship> <http://www.w3.org/2004/02/skos/core#altLabel> "FIDE World Rapid Championship" .
+<https://github.com/john1hsu/chess-graph/id/world-rapid-championship> <http://www.w3.org/2004/02/skos/core#altLabel> "World Rapid Chess Championship" .
+<https://github.com/john1hsu/chess-graph/id/world-rapid-championship> <http://www.w3.org/2004/02/skos/core#altLabel> "World Rapid Chess Championships" .
+<https://github.com/john1hsu/chess-graph/id/world-rapid-championship> <http://www.w3.org/2004/02/skos/core#altLabel> "World Rapid" .
+<https://github.com/john1hsu/chess-graph/id/world-rapid-championship> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-tournament> .
+<https://github.com/john1hsu/chess-graph/id/world-rapid-championship> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/rapid-chess> .
+<https://github.com/john1hsu/chess-graph/id/world-rapid-championship> <http://www.w3.org/2004/02/skos/core#definition> "FIDE's annual world championship at the rapid time control, now a 13-round Swiss open (with an 11-round women's event) held each December alongside the World Blitz Championship, with a play-off if first place is tied." .
+<https://github.com/john1hsu/chess-graph/id/world-rapid-championship> <http://www.w3.org/2004/02/skos/core#prefLabel> "World Rapid Championship" .
+<https://github.com/john1hsu/chess-graph/id/world-rapid-championship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fair-play-regulations> .
+<https://github.com/john1hsu/chess-graph/id/world-rapid-championship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/swiss-system> .
+<https://github.com/john1hsu/chess-graph/id/world-rapid-championship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/tie-break> .
+<https://github.com/john1hsu/chess-graph/id/world-rapid-championship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/world-blitz-championship> .
+<https://github.com/john1hsu/chess-graph/id/world-rapid-championship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/world-rapid-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/world-rapid-championship/s1> .
+<https://github.com/john1hsu/chess-graph/id/world-rapid-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/world-rapid-championship/s2> .
+<https://github.com/john1hsu/chess-graph/id/world-rapid-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/world-rapid-championship/s3> .
+<https://github.com/john1hsu/chess-graph/id/world-rapid-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/world-rapid-championship/s4> .
+<https://github.com/john1hsu/chess-graph/id/world-rapid-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/world-rapid-championship/s5> .
+<https://github.com/john1hsu/chess-graph/id/world-rapid-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/world-rapid-championship/s6> .
+<https://github.com/john1hsu/chess-graph/id/world-rapid-championship> <https://github.com/john1hsu/chess-graph/ontology#domain> "events-and-organizations" .
+<https://github.com/john1hsu/chess-graph/id/world-rapid-championship> <https://github.com/john1hsu/chess-graph/ontology#governedBy> <https://github.com/john1hsu/chess-graph/id/rapid-chess> .
+<https://github.com/john1hsu/chess-graph/id/world-rapid-championship> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/fide> .
+<https://github.com/john1hsu/chess-graph/id/world-rapid-championship> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/world-rapid-championship> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-17" .
+<https://github.com/john1hsu/chess-graph/id/world-rapid-championship> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/anatoly-karpov> .
+<https://github.com/john1hsu/chess-graph/id/world-rapid-championship> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/magnus-carlsen> .
+<https://github.com/john1hsu/chess-graph/id/world-rapid-championship> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/sergey-karjakin> .
+<https://github.com/john1hsu/chess-graph/id/world-rapid-championship> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/viswanathan-anand> .
 <https://github.com/john1hsu/chess-graph/id/wrong-bishop> <http://purl.org/dc/terms/created> "2026-11-15" .
 <https://github.com/john1hsu/chess-graph/id/wrong-bishop> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#EndgameType> .
 <https://github.com/john1hsu/chess-graph/id/wrong-bishop> <http://www.w3.org/2000/01/rdf-schema#label> "Wrong bishop" .

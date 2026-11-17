@@ -5933,6 +5933,31 @@
     ]
   },
   {
+    "id": "kt:world-rapid-championship",
+    "title": "World Rapid Championship",
+    "aliases": [
+      "World Rapid Chess Championship",
+      "FIDE World Rapid Championship",
+      "World Rapid Chess Championships",
+      "World Rapid"
+    ],
+    "type": "Event",
+    "domain": "events-and-organizations",
+    "file": "articles/events-and-organizations/world-rapid-championship.md",
+    "created": "2026-11-17",
+    "verified": "2026-11-17",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://handbook.fide.com/files/handbook/wrbc_regulations_2025_open.pdf",
+      "https://worldrapidandblitz2019.fide.com/history/2",
+      "https://www.fide.com/carlsen-and-goryachkina-take-world-rapid-titles-in-doha/",
+      "https://www.fide.com/changes-to-the-world-rapid-blitz-format-and-a-1m-euro-prize-fund/",
+      "https://en.chessbase.com/post/karjakin-wins-the-astana-world-rapid-che-championship",
+      "https://en.chessbase.com/post/world-rapid-blitz-2024-d3"
+    ]
+  },
+  {
     "id": "kt:wrong-bishop",
     "title": "Wrong bishop",
     "aliases": [
