@@ -3837,6 +3837,31 @@
     ]
   },
   {
+    "id": "kt:overprotection",
+    "title": "Overprotection",
+    "aliases": [
+      "Over-protection",
+      "Overprotecting strong points",
+      "Ueberdeckung",
+      "Überdeckung"
+    ],
+    "type": "StrategicConcept",
+    "domain": "middlegame-strategy",
+    "file": "articles/middlegame-strategy/overprotection.md",
+    "created": "2026-11-17",
+    "verified": "2026-11-17",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://qualitychess.co.uk/wp-content/uploads/2024/02/MySystem-excerpt.pdf",
+      "https://qualitychess.co.uk/wp-content/uploads/2024/02/ChessPraxis-excerpt.pdf",
+      "https://www.chesshistory.com/winter/extra/mysystem.html",
+      "https://www.chess.com/article/view/protecting-overprotection",
+      "https://www.chess.com/article/view/overprotection-decoded",
+      "https://en.chessbase.com/newsroom/post/the-nimzowitsch-precepts-of-positional-che?page=0"
+    ]
+  },
+  {
     "id": "kt:passed-pawn",
     "title": "Passed pawn",
     "aliases": [

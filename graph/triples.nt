@@ -4302,6 +4302,35 @@
 <https://github.com/john1hsu/chess-graph/id/overloading> <https://github.com/john1hsu/chess-graph/ontology#fen> "4r1k1/5p1p/3q1np1/8/8/b1B5/5PPP/R2Q2K1 w - - 0 1" .
 <https://github.com/john1hsu/chess-graph/id/overloading> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/overloading> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/overprotection> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/chess-graph/id/overprotection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
+<https://github.com/john1hsu/chess-graph/id/overprotection> <http://www.w3.org/2000/01/rdf-schema#label> "Overprotection" .
+<https://github.com/john1hsu/chess-graph/id/overprotection> <http://www.w3.org/2004/02/skos/core#altLabel> "Over-protection" .
+<https://github.com/john1hsu/chess-graph/id/overprotection> <http://www.w3.org/2004/02/skos/core#altLabel> "Overprotecting strong points" .
+<https://github.com/john1hsu/chess-graph/id/overprotection> <http://www.w3.org/2004/02/skos/core#altLabel> "Ueberdeckung" .
+<https://github.com/john1hsu/chess-graph/id/overprotection> <http://www.w3.org/2004/02/skos/core#altLabel> "Überdeckung" .
+<https://github.com/john1hsu/chess-graph/id/overprotection> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-strategy> .
+<https://github.com/john1hsu/chess-graph/id/overprotection> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/prophylaxis> .
+<https://github.com/john1hsu/chess-graph/id/overprotection> <http://www.w3.org/2004/02/skos/core#definition> "Aron Nimzowitsch's principle of giving a strategically important point, usually a central pawn or square, more protection than it currently needs, so that the defending pieces gain in effectiveness and the opponent is discouraged from attacking that point at all." .
+<https://github.com/john1hsu/chess-graph/id/overprotection> <http://www.w3.org/2004/02/skos/core#prefLabel> "Overprotection" .
+<https://github.com/john1hsu/chess-graph/id/overprotection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/blockade> .
+<https://github.com/john1hsu/chess-graph/id/overprotection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/french-defence> .
+<https://github.com/john1hsu/chess-graph/id/overprotection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/hypermodernism> .
+<https://github.com/john1hsu/chess-graph/id/overprotection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/outpost> .
+<https://github.com/john1hsu/chess-graph/id/overprotection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> .
+<https://github.com/john1hsu/chess-graph/id/overprotection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/overprotection/s1> .
+<https://github.com/john1hsu/chess-graph/id/overprotection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/overprotection/s2> .
+<https://github.com/john1hsu/chess-graph/id/overprotection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/overprotection/s3> .
+<https://github.com/john1hsu/chess-graph/id/overprotection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/overprotection/s4> .
+<https://github.com/john1hsu/chess-graph/id/overprotection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/overprotection/s5> .
+<https://github.com/john1hsu/chess-graph/id/overprotection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/overprotection/s6> .
+<https://github.com/john1hsu/chess-graph/id/overprotection> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> .
+<https://github.com/john1hsu/chess-graph/id/overprotection> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> .
+<https://github.com/john1hsu/chess-graph/id/overprotection> <https://github.com/john1hsu/chess-graph/ontology#domain> "middlegame-strategy" .
+<https://github.com/john1hsu/chess-graph/id/overprotection> <https://github.com/john1hsu/chess-graph/ontology#fen> "rnbqkbnr/pp3ppp/4p3/3pP3/3p2Q1/5N2/PPP2PPP/RNB1KB1R b KQkq - 1 5" .
+<https://github.com/john1hsu/chess-graph/id/overprotection> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/prophylaxis> .
+<https://github.com/john1hsu/chess-graph/id/overprotection> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/overprotection> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-17" .
 <https://github.com/john1hsu/chess-graph/id/passed-pawn> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/passed-pawn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
 <https://github.com/john1hsu/chess-graph/id/passed-pawn> <http://www.w3.org/2000/01/rdf-schema#label> "Passed pawn" .
@@ -9845,6 +9874,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/overloading/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/overloading/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/overloading/s6> <https://schema.org/url> "https://www.chesshistory.com/winter/extra/adamstorre.html" .
+<https://github.com/john1hsu/chess-graph/id/source/overprotection/s1> <http://purl.org/dc/terms/publisher> "Aron Nimzowitsch, Quality Chess (2007 edition)" .
+<https://github.com/john1hsu/chess-graph/id/source/overprotection/s1> <http://purl.org/dc/terms/title> "My System (excerpt and contents)" .
+<https://github.com/john1hsu/chess-graph/id/source/overprotection/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/overprotection/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/overprotection/s1> <https://schema.org/url> "https://qualitychess.co.uk/wp-content/uploads/2024/02/MySystem-excerpt.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/overprotection/s2> <http://purl.org/dc/terms/publisher> "Aron Nimzowitsch, Quality Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/overprotection/s2> <http://purl.org/dc/terms/title> "Chess Praxis: The Praxis of My System (excerpt and contents)" .
+<https://github.com/john1hsu/chess-graph/id/source/overprotection/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/overprotection/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/overprotection/s2> <https://schema.org/url> "https://qualitychess.co.uk/wp-content/uploads/2024/02/ChessPraxis-excerpt.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/overprotection/s3> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/overprotection/s3> <http://purl.org/dc/terms/title> "Nimzowitsch's My System" .
+<https://github.com/john1hsu/chess-graph/id/source/overprotection/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/overprotection/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/overprotection/s3> <https://schema.org/url> "https://www.chesshistory.com/winter/extra/mysystem.html" .
+<https://github.com/john1hsu/chess-graph/id/source/overprotection/s4> <http://purl.org/dc/terms/publisher> "IM Jeremy Silman, Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/overprotection/s4> <http://purl.org/dc/terms/title> "Protecting Overprotection" .
+<https://github.com/john1hsu/chess-graph/id/source/overprotection/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/overprotection/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/overprotection/s4> <https://schema.org/url> "https://www.chess.com/article/view/protecting-overprotection" .
+<https://github.com/john1hsu/chess-graph/id/source/overprotection/s5> <http://purl.org/dc/terms/publisher> "GM Daniel Naroditsky, Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/overprotection/s5> <http://purl.org/dc/terms/title> "Overprotection, Decoded" .
+<https://github.com/john1hsu/chess-graph/id/source/overprotection/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/overprotection/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/overprotection/s5> <https://schema.org/url> "https://www.chess.com/article/view/overprotection-decoded" .
+<https://github.com/john1hsu/chess-graph/id/source/overprotection/s6> <http://purl.org/dc/terms/publisher> "Dennis Monokroussos, ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/overprotection/s6> <http://purl.org/dc/terms/title> "The Nimzowitsch precepts of positional chess" .
+<https://github.com/john1hsu/chess-graph/id/source/overprotection/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/overprotection/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/overprotection/s6> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/the-nimzowitsch-precepts-of-positional-che?page=0" .
 <https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s1> <http://purl.org/dc/terms/publisher> "Chess.com (Chess Terms)" .
 <https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s1> <http://purl.org/dc/terms/title> "Passed Pawn" .
 <https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

@@ -9266,6 +9266,103 @@
       ]
     },
     {
+      "@id": "kt:overprotection",
+      "@type": "kto:StrategicConcept",
+      "skos:prefLabel": "Overprotection",
+      "skos:definition": "Aron Nimzowitsch's principle of giving a strategically important point, usually a central pawn or square, more protection than it currently needs, so that the defending pieces gain in effectiveness and the opponent is discouraged from attacking that point at all.",
+      "kto:domain": "middlegame-strategy",
+      "dcterms:created": "2026-11-17",
+      "kto:verified": "2026-11-17",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "My System (excerpt and contents)",
+          "dcterms:publisher": "Aron Nimzowitsch, Quality Chess (2007 edition)",
+          "schema:url": "https://qualitychess.co.uk/wp-content/uploads/2024/02/MySystem-excerpt.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Chess Praxis: The Praxis of My System (excerpt and contents)",
+          "dcterms:publisher": "Aron Nimzowitsch, Quality Chess",
+          "schema:url": "https://qualitychess.co.uk/wp-content/uploads/2024/02/ChessPraxis-excerpt.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Nimzowitsch's My System",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://www.chesshistory.com/winter/extra/mysystem.html",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Protecting Overprotection",
+          "dcterms:publisher": "IM Jeremy Silman, Chess.com",
+          "schema:url": "https://www.chess.com/article/view/protecting-overprotection",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Overprotection, Decoded",
+          "dcterms:publisher": "GM Daniel Naroditsky, Chess.com",
+          "schema:url": "https://www.chess.com/article/view/overprotection-decoded",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The Nimzowitsch precepts of positional chess",
+          "dcterms:publisher": "Dennis Monokroussos, ChessBase News",
+          "schema:url": "https://en.chessbase.com/newsroom/post/the-nimzowitsch-precepts-of-positional-che?page=0",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/middlegame-strategy/overprotection.md",
+      "skos:altLabel": [
+        "Over-protection",
+        "Overprotecting strong points",
+        "Ueberdeckung",
+        "Überdeckung"
+      ],
+      "kto:fen": "rnbqkbnr/pp3ppp/4p3/3pP3/3p2Q1/5N2/PPP2PPP/RNB1KB1R b KQkq - 1 5",
+      "skos:broader": [
+        {
+          "@id": "kt:prophylaxis"
+        },
+        {
+          "@id": "kt:chess-strategy"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:outpost"
+        },
+        {
+          "@id": "kt:blockade"
+        },
+        {
+          "@id": "kt:hypermodernism"
+        },
+        {
+          "@id": "kt:french-defence"
+        },
+        {
+          "@id": "kt:wilhelm-steinitz"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:prophylaxis"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:aron-nimzowitsch"
+        }
+      ],
+      "kto:championedBy": [
+        {
+          "@id": "kt:aron-nimzowitsch"
+        }
+      ]
+    },
+    {
       "@id": "kt:pawn-structure",
       "@type": "kto:StrategicConcept",
       "skos:prefLabel": "Pawn structure",
