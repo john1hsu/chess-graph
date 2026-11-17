@@ -13093,6 +13093,103 @@
       ]
     },
     {
+      "@id": "kt:paul-morphy",
+      "@type": "kto:Player",
+      "skos:prefLabel": "Paul Morphy",
+      "skos:definition": "American master from New Orleans (1837–1884) who won the First American Chess Congress in 1857 and in 1858 beat the leading European players, including Anderssen, to become the unofficial world champion, before abandoning public chess within two years; remembered as the first great exponent of rapid development before attack.",
+      "kto:domain": "players",
+      "dcterms:created": "2026-11-17",
+      "kto:verified": "2026-11-17",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Paul Charles Morphy",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/biography/Paul%2DCharles%2DMorphy",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Paul Charles Morphy (inductee page)",
+          "dcterms:publisher": "World Chess Hall of Fame",
+          "schema:url": "https://worldchesshof.org/inductee/paul-morphy/",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Paul Morphy, Chess Prodigy (Charles L. Cutler)",
+          "dcterms:publisher": "American Heritage",
+          "schema:url": "https://www.americanheritage.com/paul-morphy-chess-prodigy",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Paulsen v Morphy, New York, 1857 (Edward Winter)",
+          "dcterms:publisher": "Chess Notes by Edward Winter",
+          "schema:url": "https://chesshistory.com/winter/extra/paulsenmorphy.html",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Paul Morphy: The First of the Conquering American Chess Heroes (Eugene Manlapao)",
+          "dcterms:publisher": "ChessBase News",
+          "schema:url": "https://en.chessbase.com/post/paul-morphy-the-first-of-the-conquering-american-chess-heroes-june-22-1837-july-10-1884",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "A forgotten Paul Morphy game? (Nick Pope, introduction by John S. Hilbert)",
+          "dcterms:publisher": "Chess Archaeology",
+          "schema:url": "https://chessarch.com/archive/0032_Morphy/index.shtml",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Louis Paulsen – Paul Morphy, 1st American Chess Congress (game score)",
+          "dcterms:publisher": "Lichess study",
+          "schema:url": "https://lichess.org/study/embed/XNplF9gb/bH2PAcl3",
+          "kto:sourceType": "database"
+        }
+      ],
+      "kto:file": "articles/players/paul-morphy.md",
+      "skos:altLabel": [
+        "Paul Charles Morphy",
+        "Morphy",
+        "Paul C. Morphy",
+        "The Pride and Sorrow of Chess"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:romantic-era"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:adolf-anderssen"
+        },
+        {
+          "@id": "kt:howard-staunton"
+        },
+        {
+          "@id": "kt:louis-paulsen"
+        },
+        {
+          "@id": "kt:blindfold-chess"
+        },
+        {
+          "@id": "kt:development"
+        },
+        {
+          "@id": "kt:us-chess-championship"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:opera-game"
+        }
+      ],
+      "kto:playedIn": [
+        {
+          "@id": "kt:first-american-chess-congress"
+        }
+      ]
+    },
+    {
       "@id": "kt:siegbert-tarrasch",
       "@type": "kto:Player",
       "skos:prefLabel": "Siegbert Tarrasch",

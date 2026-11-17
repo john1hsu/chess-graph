@@ -4236,6 +4236,34 @@
 <https://github.com/john1hsu/chess-graph/id/passed-pawn> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/pawn-promotion> .
 <https://github.com/john1hsu/chess-graph/id/passed-pawn> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/passed-pawn> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/paul-morphy> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/chess-graph/id/paul-morphy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
+<https://github.com/john1hsu/chess-graph/id/paul-morphy> <http://www.w3.org/2000/01/rdf-schema#label> "Paul Morphy" .
+<https://github.com/john1hsu/chess-graph/id/paul-morphy> <http://www.w3.org/2004/02/skos/core#altLabel> "Morphy" .
+<https://github.com/john1hsu/chess-graph/id/paul-morphy> <http://www.w3.org/2004/02/skos/core#altLabel> "Paul C. Morphy" .
+<https://github.com/john1hsu/chess-graph/id/paul-morphy> <http://www.w3.org/2004/02/skos/core#altLabel> "Paul Charles Morphy" .
+<https://github.com/john1hsu/chess-graph/id/paul-morphy> <http://www.w3.org/2004/02/skos/core#altLabel> "The Pride and Sorrow of Chess" .
+<https://github.com/john1hsu/chess-graph/id/paul-morphy> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/romantic-era> .
+<https://github.com/john1hsu/chess-graph/id/paul-morphy> <http://www.w3.org/2004/02/skos/core#definition> "American master from New Orleans (1837–1884) who won the First American Chess Congress in 1857 and in 1858 beat the leading European players, including Anderssen, to become the unofficial world champion, before abandoning public chess within two years; remembered as the first great exponent of rapid development before attack." .
+<https://github.com/john1hsu/chess-graph/id/paul-morphy> <http://www.w3.org/2004/02/skos/core#prefLabel> "Paul Morphy" .
+<https://github.com/john1hsu/chess-graph/id/paul-morphy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/adolf-anderssen> .
+<https://github.com/john1hsu/chess-graph/id/paul-morphy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/blindfold-chess> .
+<https://github.com/john1hsu/chess-graph/id/paul-morphy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/development> .
+<https://github.com/john1hsu/chess-graph/id/paul-morphy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/howard-staunton> .
+<https://github.com/john1hsu/chess-graph/id/paul-morphy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/louis-paulsen> .
+<https://github.com/john1hsu/chess-graph/id/paul-morphy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/us-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/paul-morphy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s1> .
+<https://github.com/john1hsu/chess-graph/id/paul-morphy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s2> .
+<https://github.com/john1hsu/chess-graph/id/paul-morphy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s3> .
+<https://github.com/john1hsu/chess-graph/id/paul-morphy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s4> .
+<https://github.com/john1hsu/chess-graph/id/paul-morphy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s5> .
+<https://github.com/john1hsu/chess-graph/id/paul-morphy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s6> .
+<https://github.com/john1hsu/chess-graph/id/paul-morphy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s7> .
+<https://github.com/john1hsu/chess-graph/id/paul-morphy> <https://github.com/john1hsu/chess-graph/ontology#domain> "players" .
+<https://github.com/john1hsu/chess-graph/id/paul-morphy> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/opera-game> .
+<https://github.com/john1hsu/chess-graph/id/paul-morphy> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/first-american-chess-congress> .
+<https://github.com/john1hsu/chess-graph/id/paul-morphy> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/paul-morphy> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-17" .
 <https://github.com/john1hsu/chess-graph/id/pawn-promotion> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/pawn-promotion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Rule> .
 <https://github.com/john1hsu/chess-graph/id/pawn-promotion> <http://www.w3.org/2000/01/rdf-schema#label> "Pawn promotion" .
@@ -9640,6 +9668,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
 <https://github.com/john1hsu/chess-graph/id/source/passed-pawn/s6> <https://schema.org/url> "https://chess-tigers.de/products/the-passed-pawn" .
+<https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s1> <http://purl.org/dc/terms/title> "Paul Charles Morphy" .
+<https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s1> <https://schema.org/url> "https://www.britannica.com/biography/Paul%2DCharles%2DMorphy" .
+<https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s2> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
+<https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s2> <http://purl.org/dc/terms/title> "Paul Charles Morphy (inductee page)" .
+<https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s2> <https://schema.org/url> "https://worldchesshof.org/inductee/paul-morphy/" .
+<https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s3> <http://purl.org/dc/terms/publisher> "American Heritage" .
+<https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s3> <http://purl.org/dc/terms/title> "Paul Morphy, Chess Prodigy (Charles L. Cutler)" .
+<https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s3> <https://schema.org/url> "https://www.americanheritage.com/paul-morphy-chess-prodigy" .
+<https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s4> <http://purl.org/dc/terms/publisher> "Chess Notes by Edward Winter" .
+<https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s4> <http://purl.org/dc/terms/title> "Paulsen v Morphy, New York, 1857 (Edward Winter)" .
+<https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s4> <https://schema.org/url> "https://chesshistory.com/winter/extra/paulsenmorphy.html" .
+<https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s5> <http://purl.org/dc/terms/publisher> "ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s5> <http://purl.org/dc/terms/title> "Paul Morphy: The First of the Conquering American Chess Heroes (Eugene Manlapao)" .
+<https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s5> <https://schema.org/url> "https://en.chessbase.com/post/paul-morphy-the-first-of-the-conquering-american-chess-heroes-june-22-1837-july-10-1884" .
+<https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s6> <http://purl.org/dc/terms/publisher> "Chess Archaeology" .
+<https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s6> <http://purl.org/dc/terms/title> "A forgotten Paul Morphy game? (Nick Pope, introduction by John S. Hilbert)" .
+<https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s6> <https://schema.org/url> "https://chessarch.com/archive/0032_Morphy/index.shtml" .
+<https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s7> <http://purl.org/dc/terms/publisher> "Lichess study" .
+<https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s7> <http://purl.org/dc/terms/title> "Louis Paulsen – Paul Morphy, 1st American Chess Congress (game score)" .
+<https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s7> <https://schema.org/url> "https://lichess.org/study/embed/XNplF9gb/bH2PAcl3" .
 <https://github.com/john1hsu/chess-graph/id/source/pawn-promotion/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
 <https://github.com/john1hsu/chess-graph/id/source/pawn-promotion/s1> <http://purl.org/dc/terms/title> "FIDE Laws of Chess (applied from 1 January 2023), full text: Articles 3.7, 4.4, 4.6, 7.5 and Appendix A" .
 <https://github.com/john1hsu/chess-graph/id/source/pawn-promotion/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

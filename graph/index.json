@@ -3782,6 +3782,32 @@
     ]
   },
   {
+    "id": "kt:paul-morphy",
+    "title": "Paul Morphy",
+    "aliases": [
+      "Paul Charles Morphy",
+      "Morphy",
+      "Paul C. Morphy",
+      "The Pride and Sorrow of Chess"
+    ],
+    "type": "Player",
+    "domain": "players",
+    "file": "articles/players/paul-morphy.md",
+    "created": "2026-11-17",
+    "verified": "2026-11-17",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://www.britannica.com/biography/Paul%2DCharles%2DMorphy",
+      "https://worldchesshof.org/inductee/paul-morphy/",
+      "https://www.americanheritage.com/paul-morphy-chess-prodigy",
+      "https://chesshistory.com/winter/extra/paulsenmorphy.html",
+      "https://en.chessbase.com/post/paul-morphy-the-first-of-the-conquering-american-chess-heroes-june-22-1837-july-10-1884",
+      "https://chessarch.com/archive/0032_Morphy/index.shtml",
+      "https://lichess.org/study/embed/XNplF9gb/bH2PAcl3"
+    ]
+  },
+  {
     "id": "kt:pawn-promotion",
     "title": "Pawn promotion",
     "aliases": [

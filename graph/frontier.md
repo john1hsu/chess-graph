@@ -6,12 +6,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:alexander-alekhine`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:boris-spassky`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:magnus-carlsen`, `kt:mikhail-botvinnik`, `kt:mikhail-tal`, `kt:tigran-petrosian`, `kt:viswanathan-anand`, `kt:wilhelm-steinitz` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:the-turk`, `kt:herbert-simon` |
-| `kt:paul-morphy` | `kt:opera-game`, `kt:romantic-era`, `kt:initiative`, `kt:adolf-anderssen` |
 | `kt:vladimir-kramnik` | `kt:alphazero`, `kt:ruy-lopez`, `kt:garry-kasparov`, `kt:viswanathan-anand` |
 | `kt:alekhine-versus-nimzowitsch-san-remo-1930` | `kt:alekhines-gun`, `kt:open-file`, `kt:alexander-alekhine` |
 | `kt:aspiration-window` | `kt:iterative-deepening`, `kt:principal-variation-search`, `kt:principal-variation-search` |
 | `kt:david-bronstein` | `kt:kings-gambit`, `kt:bronstein-delay`, `kt:bronstein-delay` |
+| `kt:development` | `kt:opera-game`, `kt:initiative`, `kt:paul-morphy` |
 | `kt:gambit` | `kt:evans-gambit`, `kt:kings-gambit`, `kt:sacrifice` |
+| `kt:howard-staunton` | `kt:london-1851`, `kt:london-1851`, `kt:paul-morphy` |
 | `kt:mikhail-chigorin` | `kt:hastings-1895`, `kt:evans-gambit`, `kt:wilhelm-steinitz` |
 | `kt:philidor-defence` | `kt:adams-versus-torre-new-orleans-1920`, `kt:opera-game`, `kt:francois-andre-danican-philidor` |
 | `kt:albin-countergambit` | `kt:queens-gambit`, `kt:underpromotion` |
@@ -21,10 +22,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:botvinnik-versus-capablanca-avro-1938` | `kt:soviet-chess-school`, `kt:mikhail-botvinnik` |
 | `kt:carlsen-versus-anand-sochi-2014-game-6` | `kt:magnus-carlsen`, `kt:zwischenzug` |
 | `kt:descriptive-notation` | `kt:algebraic-notation`, `kt:algebraic-notation` |
-| `kt:development` | `kt:opera-game`, `kt:initiative` |
 | `kt:exchange-sacrifice` | `kt:dragon-variation`, `kt:sacrifice` |
 | `kt:extended-position-description` | `kt:forsyth-edwards-notation`, `kt:portable-game-notation` |
-| `kt:howard-staunton` | `kt:london-1851`, `kt:london-1851` |
 | `kt:ju-wenjun` | `kt:womens-world-chess-championship`, `kt:womens-world-chess-championship` |
 | `kt:karpov-versus-unzicker-nice-1974` | `kt:prophylaxis`, `kt:anatoly-karpov` |
 | `kt:lionel-kieseritzky` | `kt:immortal-game`, `kt:london-1851` |
@@ -99,6 +98,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fide-handbook` | `kt:fair-play-regulations` |
 | `kt:fide-title-regulations` | `kt:grandmaster-title` |
 | `kt:fide-world-fischer-random-chess-championship` | `kt:chess960` |
+| `kt:first-american-chess-congress` | `kt:paul-morphy` |
 | `kt:fischer-spassky-1972-game-6` | `kt:hanging-pawns` |
 | `kt:fischer-spassky-1992` | `kt:fischer-increment` |
 | `kt:fischer-versus-tal-leipzig-1960` | `kt:perpetual-check` |
@@ -153,6 +153,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:levon-aronian` | `kt:fide-world-cup` |
 | `kt:london-rules` | `kt:world-chess-championship-1927` |
 | `kt:london-system` | `kt:carlsbad-structure` |
+| `kt:louis-paulsen` | `kt:paul-morphy` |
 | `kt:mailbox-board-representation` | `kt:bitboards` |
 | `kt:manhattan-chess-club` | `kt:world-chess-championship-1886` |
 | `kt:marcel-duchamp` | `kt:corresponding-squares` |
