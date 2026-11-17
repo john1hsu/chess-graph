@@ -3164,6 +3164,30 @@
     ]
   },
   {
+    "id": "kt:janggi",
+    "title": "Janggi",
+    "aliases": [
+      "Korean chess",
+      "Changgi",
+      "Jang-gi",
+      "Tjyang Keui"
+    ],
+    "type": "Variant",
+    "domain": "variants-and-compositions",
+    "file": "articles/variants-and-compositions/janggi.md",
+    "created": "2026-11-17",
+    "verified": "2026-11-17",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://pdf.arxiv.org/pdf/1507.06401",
+      "https://koreascience.kr/article/JAKO201712965731619.pdf",
+      "https://collections.penn.museum/collections/object/17292",
+      "https://www.pychess.org/variants/janggi",
+      "https://github.com/ianfab/Fairy-Stockfish"
+    ]
+  },
+  {
     "id": "kt:javokhir-sindarov",
     "title": "Javokhir Sindarov",
     "aliases": [

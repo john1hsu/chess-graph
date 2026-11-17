@@ -22339,6 +22339,85 @@
       ]
     },
     {
+      "@id": "kt:janggi",
+      "@type": "kto:Variant",
+      "skos:prefLabel": "Janggi",
+      "skos:definition": "The Korean member of the chess family, a close relative of xiangqi played on the points of a 9×10 grid, in which players choose their horse and elephant placement, may pass instead of moving, and settle some drawn situations by counting material.",
+      "kto:domain": "variants-and-compositions",
+      "dcterms:created": "2026-11-17",
+      "kto:verified": "2026-11-17",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Space-state complexity of Korean chess and Chinese chess (arXiv:1507.06401)",
+          "dcterms:publisher": "Donghwi Park, Korea University",
+          "schema:url": "https://pdf.arxiv.org/pdf/1507.06401",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Development of Artificial Intelligence Janggi Game based on Machine Learning Algorithm",
+          "dcterms:publisher": "M. Jang, Y. Kim, D. Min, K. Park, S. Lee, C. Woo, Journal of Information Technology Services 16(4), 2017",
+          "schema:url": "https://koreascience.kr/article/JAKO201712965731619.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "쟝기두고 (men playing jang-gi), watercolour by Gisan, 1886, object 21574S",
+          "dcterms:publisher": "Penn Museum, University of Pennsylvania",
+          "schema:url": "https://collections.penn.museum/collections/object/17292",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Janggi (variant guide)",
+          "dcterms:publisher": "PyChess",
+          "schema:url": "https://www.pychess.org/variants/janggi",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "Fairy-Stockfish (README)",
+          "dcterms:publisher": "Fairy-Stockfish project, GitHub",
+          "schema:url": "https://github.com/ianfab/Fairy-Stockfish",
+          "kto:sourceType": "official-project"
+        }
+      ],
+      "kto:file": "articles/variants-and-compositions/janggi.md",
+      "skos:altLabel": [
+        "Korean chess",
+        "Changgi",
+        "Jang-gi",
+        "Tjyang Keui"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess-variants"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:xiangqi"
+        },
+        {
+          "@id": "kt:shogi"
+        },
+        {
+          "@id": "kt:stalemate"
+        },
+        {
+          "@id": "kt:perpetual-check"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:xiangqi"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:chess"
+        }
+      ]
+    },
+    {
       "@id": "kt:novotny-theme",
       "@type": "kto:ProblemTheme",
       "skos:prefLabel": "Novotny theme",

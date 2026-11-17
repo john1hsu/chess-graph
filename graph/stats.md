@@ -1,9 +1,9 @@
 # Graph statistics
 
-- Articles (nodes written): **241**
-- Frontier nodes (referenced, unwritten): **252**
-- Edges: **2287**
-- Citations: **1425**
+- Articles (nodes written): **242**
+- Frontier nodes (referenced, unwritten): **251**
+- Edges: **2294**
+- Citations: **1430**
 
 - Weakly connected components: **1**
 - Isolated articles (no edges): **0**
@@ -12,18 +12,18 @@
 
 | Node | PageRank | Written |
 |---|---|---|
-| `kt:fide-laws-of-chess` | 0.0150 | yes |
+| `kt:fide-laws-of-chess` | 0.0151 | yes |
 | `kt:fide` | 0.0132 | yes |
 | `kt:world-chess-championship` | 0.0101 | yes |
 | `kt:pawn-promotion` | 0.0099 | yes |
 | `kt:chess-tactics` | 0.0091 | yes |
-| `kt:chess-strategy` | 0.0090 | yes |
+| `kt:chess-strategy` | 0.0091 | yes |
 | `kt:combination` | 0.0082 | yes |
-| `kt:chess` | 0.0078 | yes |
-| `kt:stalemate` | 0.0077 | yes |
-| `kt:pawn-structure` | 0.0076 | yes |
+| `kt:chess` | 0.0080 | yes |
+| `kt:stalemate` | 0.0079 | yes |
+| `kt:pawn-structure` | 0.0075 | yes |
 | `kt:wilhelm-steinitz` | 0.0074 | yes |
-| `kt:outpost` | 0.0073 | yes |
+| `kt:outpost` | 0.0072 | yes |
 | `kt:material-advantage` | 0.0072 | yes |
 | `kt:game-tree-search` | 0.0069 | yes |
 | `kt:isolated-queens-pawn` | 0.0067 | yes |
@@ -69,7 +69,7 @@
 - TimeControl: 4
 - Title: 2
 - TrainingMethod: 2
-- Variant: 7
+- Variant: 8
 - Variation: 4
 
 ## By domain
@@ -84,7 +84,7 @@
 - rules-and-notation: 22
 - tactics: 22
 - training-and-improvement: 22
-- variants-and-compositions: 21
+- variants-and-compositions: 22
 
 ## Freshness
 
@@ -94,5 +94,5 @@
 ## By status
 
 - contested: 5
-- current: 192
+- current: 193
 - historical: 44

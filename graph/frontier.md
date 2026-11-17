@@ -126,7 +126,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:international-master` | `kt:fernand-gobet` |
 | `kt:international-master-title` | `kt:grandmaster-title` |
 | `kt:intrinsic-performance-rating` | `kt:fair-play-regulations` |
-| `kt:janggi` | `kt:xiangqi` |
 | `kt:jean-dufresne` | `kt:evergreen-game` |
 | `kt:john-mccarthy` | `kt:alpha-beta-pruning` |
 | `kt:john-von-neumann` | `kt:minimax` |
