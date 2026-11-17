@@ -6134,6 +6134,114 @@
       ]
     },
     {
+      "@id": "kt:world-blitz-championship",
+      "@type": "kto:Event",
+      "skos:prefLabel": "World Blitz Championship",
+      "skos:definition": "FIDE's world championship at the blitz time control, held each December alongside the World Rapid Championship; since 2025 a 19-round Swiss (15 rounds for women) whose top four play knockout matches for the title.",
+      "kto:domain": "events-and-organizations",
+      "dcterms:created": "2026-11-17",
+      "kto:verified": "2026-11-17",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Selfcheck and Other Adventures of Magnus",
+          "dcterms:publisher": "FIDE World Rapid & Blitz Championships 2019 (official event site)",
+          "schema:url": "https://worldrapidandblitz2019.fide.com/history/1",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "Changes to the World Rapid & Blitz format and a 1M euro prize fund",
+          "dcterms:publisher": "FIDE (fide.com news, 13 May 2025)",
+          "schema:url": "https://www.fide.com/changes-to-the-world-rapid-blitz-format-and-a-1m-euro-prize-fund/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Magnus Carlsen and Bibisara Assaubayeva win World Blitz crowns",
+          "dcterms:publisher": "FIDE (fide.com news, December 2025)",
+          "schema:url": "https://www.fide.com/magnus-carlsen-and-bibisara-assaubayeva-win-world-blitz-crowns/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Carlsen, Nepomniachtchi share gold; Ju Wenjun triumphs in Women's Blitz",
+          "dcterms:publisher": "FIDE World Rapid & Blitz Championships 2024 (official event site)",
+          "schema:url": "https://worldrapidandblitz2024.fide.com/?p=1555",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "Frenchman Maxime Vachier-Lagrave is the new World Blitz Champion, as Carlsen is unseated",
+          "dcterms:publisher": "FIDE World Rapid & Blitz Championships 2021 (official event site)",
+          "schema:url": "https://worldrapidandblitz2021.fide.com/frenchman-maxime-vachier-lagrave-is-the-new-world-blitz-champion-as-carlsen-is-unseated/",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "2023 World Blitz Chess Champions: Magnus Carlsen and Valentina Gunina",
+          "dcterms:publisher": "FIDE (fide.com news, December 2023)",
+          "schema:url": "https://www.fide.com/2023-world-blitz-chess-champions-magnus-carlsen-and-valentina-gunina/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Carlsen claims ninth World Blitz title as Assaubayeva secures third crown",
+          "dcterms:publisher": "ChessBase News (Carlos Alberto Colodro, December 2025)",
+          "schema:url": "https://en.chessbase.com/post/world-rapid-blitz-2025-5",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/events-and-organizations/world-blitz-championship.md",
+      "skos:altLabel": [
+        "World Blitz Chess Championship",
+        "FIDE World Blitz Championship",
+        "World Blitz Chess Championships",
+        "World Blitz"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:blitz-chess"
+        },
+        {
+          "@id": "kt:chess-tournament"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:world-rapid-championship"
+        },
+        {
+          "@id": "kt:swiss-system"
+        },
+        {
+          "@id": "kt:tie-break"
+        },
+        {
+          "@id": "kt:world-chess-championship"
+        }
+      ],
+      "kto:sanctionedBy": [
+        {
+          "@id": "kt:fide"
+        }
+      ],
+      "kto:governedBy": [
+        {
+          "@id": "kt:blitz-chess"
+        }
+      ],
+      "kto:wonBy": [
+        {
+          "@id": "kt:mikhail-tal"
+        },
+        {
+          "@id": "kt:magnus-carlsen"
+        },
+        {
+          "@id": "kt:ian-nepomniachtchi"
+        },
+        {
+          "@id": "kt:ju-wenjun"
+        }
+      ]
+    },
+    {
       "@id": "kt:world-federation-for-chess-composition",
       "@type": "kto:Organization",
       "skos:prefLabel": "World Federation for Chess Composition",

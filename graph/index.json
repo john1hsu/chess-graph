@@ -6031,6 +6031,32 @@
     ]
   },
   {
+    "id": "kt:world-blitz-championship",
+    "title": "World Blitz Championship",
+    "aliases": [
+      "World Blitz Chess Championship",
+      "FIDE World Blitz Championship",
+      "World Blitz Chess Championships",
+      "World Blitz"
+    ],
+    "type": "Event",
+    "domain": "events-and-organizations",
+    "file": "articles/events-and-organizations/world-blitz-championship.md",
+    "created": "2026-11-17",
+    "verified": "2026-11-17",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://worldrapidandblitz2019.fide.com/history/1",
+      "https://www.fide.com/changes-to-the-world-rapid-blitz-format-and-a-1m-euro-prize-fund/",
+      "https://www.fide.com/magnus-carlsen-and-bibisara-assaubayeva-win-world-blitz-crowns/",
+      "https://worldrapidandblitz2024.fide.com/?p=1555",
+      "https://worldrapidandblitz2021.fide.com/frenchman-maxime-vachier-lagrave-is-the-new-world-blitz-champion-as-carlsen-is-unseated/",
+      "https://www.fide.com/2023-world-blitz-chess-champions-magnus-carlsen-and-valentina-gunina/",
+      "https://en.chessbase.com/post/world-rapid-blitz-2025-5"
+    ]
+  },
+  {
     "id": "kt:world-chess-championship",
     "title": "World Chess Championship",
     "aliases": [

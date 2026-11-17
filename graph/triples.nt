@@ -12714,6 +12714,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
 <https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s7> <https://schema.org/url> "https://www.fide.com/fide-womens-candidates-2026-a-clash-of-generations/" .
+<https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s1> <http://purl.org/dc/terms/publisher> "FIDE World Rapid & Blitz Championships 2019 (official event site)" .
+<https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s1> <http://purl.org/dc/terms/title> "Selfcheck and Other Adventures of Magnus" .
+<https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s1> <https://schema.org/url> "https://worldrapidandblitz2019.fide.com/history/1" .
+<https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s2> <http://purl.org/dc/terms/publisher> "FIDE (fide.com news, 13 May 2025)" .
+<https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s2> <http://purl.org/dc/terms/title> "Changes to the World Rapid & Blitz format and a 1M euro prize fund" .
+<https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s2> <https://schema.org/url> "https://www.fide.com/changes-to-the-world-rapid-blitz-format-and-a-1m-euro-prize-fund/" .
+<https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s3> <http://purl.org/dc/terms/publisher> "FIDE (fide.com news, December 2025)" .
+<https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s3> <http://purl.org/dc/terms/title> "Magnus Carlsen and Bibisara Assaubayeva win World Blitz crowns" .
+<https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s3> <https://schema.org/url> "https://www.fide.com/magnus-carlsen-and-bibisara-assaubayeva-win-world-blitz-crowns/" .
+<https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s4> <http://purl.org/dc/terms/publisher> "FIDE World Rapid & Blitz Championships 2024 (official event site)" .
+<https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s4> <http://purl.org/dc/terms/title> "Carlsen, Nepomniachtchi share gold; Ju Wenjun triumphs in Women's Blitz" .
+<https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s4> <https://schema.org/url> "https://worldrapidandblitz2024.fide.com/?p=1555" .
+<https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s5> <http://purl.org/dc/terms/publisher> "FIDE World Rapid & Blitz Championships 2021 (official event site)" .
+<https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s5> <http://purl.org/dc/terms/title> "Frenchman Maxime Vachier-Lagrave is the new World Blitz Champion, as Carlsen is unseated" .
+<https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s5> <https://schema.org/url> "https://worldrapidandblitz2021.fide.com/frenchman-maxime-vachier-lagrave-is-the-new-world-blitz-champion-as-carlsen-is-unseated/" .
+<https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s6> <http://purl.org/dc/terms/publisher> "FIDE (fide.com news, December 2023)" .
+<https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s6> <http://purl.org/dc/terms/title> "2023 World Blitz Chess Champions: Magnus Carlsen and Valentina Gunina" .
+<https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s6> <https://schema.org/url> "https://www.fide.com/2023-world-blitz-chess-champions-magnus-carlsen-and-valentina-gunina/" .
+<https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s7> <http://purl.org/dc/terms/publisher> "ChessBase News (Carlos Alberto Colodro, December 2025)" .
+<https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s7> <http://purl.org/dc/terms/title> "Carlsen claims ninth World Blitz title as Assaubayeva secures third crown" .
+<https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s7> <https://schema.org/url> "https://en.chessbase.com/post/world-rapid-blitz-2025-5" .
 <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s1> <http://purl.org/dc/terms/publisher> "OlimpBase (Wojciech Bartelski)" .
 <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s1> <http://purl.org/dc/terms/title> "World Chess Championship :: New York City, Saint Louis, New Orleans 1886" .
 <https://github.com/john1hsu/chess-graph/id/source/world-chess-championship-1886/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -13964,6 +13999,37 @@
 <https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/ju-wenjun> .
+<https://github.com/john1hsu/chess-graph/id/world-blitz-championship> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/chess-graph/id/world-blitz-championship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Event> .
+<https://github.com/john1hsu/chess-graph/id/world-blitz-championship> <http://www.w3.org/2000/01/rdf-schema#label> "World Blitz Championship" .
+<https://github.com/john1hsu/chess-graph/id/world-blitz-championship> <http://www.w3.org/2004/02/skos/core#altLabel> "FIDE World Blitz Championship" .
+<https://github.com/john1hsu/chess-graph/id/world-blitz-championship> <http://www.w3.org/2004/02/skos/core#altLabel> "World Blitz Chess Championship" .
+<https://github.com/john1hsu/chess-graph/id/world-blitz-championship> <http://www.w3.org/2004/02/skos/core#altLabel> "World Blitz Chess Championships" .
+<https://github.com/john1hsu/chess-graph/id/world-blitz-championship> <http://www.w3.org/2004/02/skos/core#altLabel> "World Blitz" .
+<https://github.com/john1hsu/chess-graph/id/world-blitz-championship> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/blitz-chess> .
+<https://github.com/john1hsu/chess-graph/id/world-blitz-championship> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-tournament> .
+<https://github.com/john1hsu/chess-graph/id/world-blitz-championship> <http://www.w3.org/2004/02/skos/core#definition> "FIDE's world championship at the blitz time control, held each December alongside the World Rapid Championship; since 2025 a 19-round Swiss (15 rounds for women) whose top four play knockout matches for the title." .
+<https://github.com/john1hsu/chess-graph/id/world-blitz-championship> <http://www.w3.org/2004/02/skos/core#prefLabel> "World Blitz Championship" .
+<https://github.com/john1hsu/chess-graph/id/world-blitz-championship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/swiss-system> .
+<https://github.com/john1hsu/chess-graph/id/world-blitz-championship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/tie-break> .
+<https://github.com/john1hsu/chess-graph/id/world-blitz-championship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/world-blitz-championship> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/world-rapid-championship> .
+<https://github.com/john1hsu/chess-graph/id/world-blitz-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s1> .
+<https://github.com/john1hsu/chess-graph/id/world-blitz-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s2> .
+<https://github.com/john1hsu/chess-graph/id/world-blitz-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s3> .
+<https://github.com/john1hsu/chess-graph/id/world-blitz-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s4> .
+<https://github.com/john1hsu/chess-graph/id/world-blitz-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s5> .
+<https://github.com/john1hsu/chess-graph/id/world-blitz-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s6> .
+<https://github.com/john1hsu/chess-graph/id/world-blitz-championship> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/world-blitz-championship/s7> .
+<https://github.com/john1hsu/chess-graph/id/world-blitz-championship> <https://github.com/john1hsu/chess-graph/ontology#domain> "events-and-organizations" .
+<https://github.com/john1hsu/chess-graph/id/world-blitz-championship> <https://github.com/john1hsu/chess-graph/ontology#governedBy> <https://github.com/john1hsu/chess-graph/id/blitz-chess> .
+<https://github.com/john1hsu/chess-graph/id/world-blitz-championship> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/fide> .
+<https://github.com/john1hsu/chess-graph/id/world-blitz-championship> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/world-blitz-championship> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-17" .
+<https://github.com/john1hsu/chess-graph/id/world-blitz-championship> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/ian-nepomniachtchi> .
+<https://github.com/john1hsu/chess-graph/id/world-blitz-championship> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/ju-wenjun> .
+<https://github.com/john1hsu/chess-graph/id/world-blitz-championship> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/magnus-carlsen> .
+<https://github.com/john1hsu/chess-graph/id/world-blitz-championship> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/mikhail-tal> .
 <https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Event> .
 <https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> <http://www.w3.org/2000/01/rdf-schema#label> "World Chess Championship 1886" .
