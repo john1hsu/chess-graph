@@ -18,7 +18,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:berlin-defence` | `kt:alphazero`, `kt:ruy-lopez` |
 | `kt:botvinnik-versus-capablanca-avro-1938` | `kt:soviet-chess-school`, `kt:mikhail-botvinnik` |
 | `kt:carlsen-versus-anand-sochi-2014-game-6` | `kt:magnus-carlsen`, `kt:zwischenzug` |
-| `kt:exchange-sacrifice` | `kt:dragon-variation`, `kt:sacrifice` |
 | `kt:extended-position-description` | `kt:forsyth-edwards-notation`, `kt:portable-game-notation` |
 | `kt:ju-wenjun` | `kt:womens-world-chess-championship`, `kt:womens-world-chess-championship` |
 | `kt:karpov-versus-unzicker-nice-1974` | `kt:prophylaxis`, `kt:anatoly-karpov` |
@@ -32,6 +31,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:origins-of-chess` | `kt:chaturanga`, `kt:history-of-chess` |
 | `kt:outflanking` | `kt:rook-versus-pawn`, `kt:shouldering` |
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
+| `kt:reshevsky-versus-petrosian-zurich-1953` | `kt:exchange-sacrifice`, `kt:sacrifice` |
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:zugzwang`, `kt:aron-nimzowitsch` |
 | `kt:san-remo-1930` | `kt:alekhine-versus-nimzowitsch-san-remo-1930`, `kt:alexander-alekhine` |
 | `kt:scout-algorithm` | `kt:principal-variation-search`, `kt:principal-variation-search` |
@@ -192,7 +192,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:reflexmate` | `kt:selfmate` |
 | `kt:reinforcement-learning` | `kt:alphazero` |
 | `kt:remi-coulom` | `kt:monte-carlo-tree-search` |
-| `kt:reshevsky-versus-petrosian-zurich-1953` | `kt:sacrifice` |
 | `kt:restraint` | `kt:prophylaxis` |
 | `kt:reti-endgame-study` | `kt:rule-of-the-square` |
 | `kt:reti-opening` | `kt:hypermodernism` |

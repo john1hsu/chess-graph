@@ -2167,6 +2167,31 @@
     ]
   },
   {
+    "id": "kt:exchange-sacrifice",
+    "title": "Exchange sacrifice",
+    "aliases": [
+      "Exchange sac",
+      "Positional exchange sacrifice",
+      "Sacrificing the exchange",
+      "Quality sacrifice"
+    ],
+    "type": "Technique",
+    "domain": "tactics",
+    "file": "articles/tactics/exchange-sacrifice.md",
+    "created": "2026-11-17",
+    "verified": "2026-11-17",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.russell-enterprises.com/russell-enterprises/the-exchange-sacrifice-a-practical-guide",
+      "https://chess-tigers.de/cdn/shop/files/exsacexcerpt.pdf",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/9094.pdf",
+      "https://en.chessbase.com/post/speelman-agony-132",
+      "https://englishchessfederation.substack.com/p/exchange-sacrifices-and-the-psychology",
+      "https://www.chess.com/article/view/sicilian-exchange-sac"
+    ]
+  },
+  {
     "id": "kt:fair-play-regulations",
     "title": "Fair play regulations",
     "aliases": [
