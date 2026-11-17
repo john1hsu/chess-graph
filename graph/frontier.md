@@ -231,6 +231,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:tie-break-regulations` | `kt:chess-olympiad` |
 | `kt:tony-marsland` | `kt:principal-variation-search` |
 | `kt:tord-romstad` | `kt:stockfish` |
+| `kt:torre-versus-lasker-moscow-1925` | `kt:windmill` |
 | `kt:transposition` | `kt:opening-repertoire` |
 | `kt:two-knights-defence` | `kt:italian-game` |
 | `kt:us-womens-chess-championship` | `kt:us-chess-championship` |
@@ -241,7 +242,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:william-chase` | `kt:chunking-theory` |
 | `kt:william-davies-evans` | `kt:evans-gambit` |
 | `kt:winawer-variation` | `kt:french-defence` |
-| `kt:windmill` | `kt:battery` |
 | `kt:wolfgang-von-kempelen` | `kt:the-turk` |
 | `kt:woodpecker-method` | `kt:puzzle-training` |
 | `kt:world-chess-championship-1894` | `kt:emanuel-lasker` |

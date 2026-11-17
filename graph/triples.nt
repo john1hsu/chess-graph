@@ -12544,6 +12544,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
 <https://github.com/john1hsu/chess-graph/id/source/wilhelm-steinitz/s7> <https://schema.org/url> "https://www.irlchess.com/hastings/hastings1895_allfiles_v1.1/games_hastings1895/g106.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/windmill/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/windmill/s1> <http://purl.org/dc/terms/title> "The Chess Seesaw/Windmill" .
+<https://github.com/john1hsu/chess-graph/id/source/windmill/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/windmill/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/windmill/s1> <https://schema.org/url> "https://www.chesshistory.com/winter/extra/seesaw.html" .
+<https://github.com/john1hsu/chess-graph/id/source/windmill/s2> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/windmill/s2> <http://purl.org/dc/terms/title> "Carlos Torre" .
+<https://github.com/john1hsu/chess-graph/id/source/windmill/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/windmill/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/windmill/s2> <https://schema.org/url> "https://chesshistory.com/winter/extra/torre.html" .
+<https://github.com/john1hsu/chess-graph/id/source/windmill/s3> <http://purl.org/dc/terms/publisher> "Ward Farnsworth, chesstactics.org" .
+<https://github.com/john1hsu/chess-graph/id/source/windmill/s3> <http://purl.org/dc/terms/title> "The windmill (Predator at the Chessboard: Rook discoveries)" .
+<https://github.com/john1hsu/chess-graph/id/source/windmill/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/windmill/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/windmill/s3> <https://schema.org/url> "https://www.chesstactics.org/the-discovered-attack/rook-discoveries/the-windmill/3_2_6_4.html" .
+<https://github.com/john1hsu/chess-graph/id/source/windmill/s4> <http://purl.org/dc/terms/publisher> "ChessKid.com" .
+<https://github.com/john1hsu/chess-graph/id/source/windmill/s4> <http://purl.org/dc/terms/title> "Torre's Windmill Attack" .
+<https://github.com/john1hsu/chess-graph/id/source/windmill/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/windmill/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/windmill/s4> <https://schema.org/url> "https://www.chesskid.com/learn/articles/torres-windmill-attack" .
+<https://github.com/john1hsu/chess-graph/id/source/windmill/s5> <http://purl.org/dc/terms/publisher> "Michael Goeller, The Kenilworthian" .
+<https://github.com/john1hsu/chess-graph/id/source/windmill/s5> <http://purl.org/dc/terms/title> "Torre Plays the Torre at Moscow 1925" .
+<https://github.com/john1hsu/chess-graph/id/source/windmill/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/windmill/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/windmill/s5> <https://schema.org/url> "https://kenilworthian.blogspot.com/2005/09/torre-plays-torre-at-moscow-1925.html" .
+<https://github.com/john1hsu/chess-graph/id/source/windmill/s6> <http://purl.org/dc/terms/publisher> "chessgames.com" .
+<https://github.com/john1hsu/chess-graph/id/source/windmill/s6> <http://purl.org/dc/terms/title> "Carlos Torre Repetto (player page)" .
+<https://github.com/john1hsu/chess-graph/id/source/windmill/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/windmill/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/windmill/s6> <https://schema.org/url> "https://chessgames.com/player/carlos_torre-repetto.html?kpage=2" .
 <https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s1> <http://purl.org/dc/terms/publisher> "FIDE (Women's World Championship official site)" .
 <https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s1> <http://purl.org/dc/terms/title> "Women's World Champions" .
 <https://github.com/john1hsu/chess-graph/id/source/womens-world-chess-championship/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -13741,6 +13771,36 @@
 <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/world-chess-championship-1886> .
 <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/windmill> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/chess-graph/id/windmill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TacticalMotif> .
+<https://github.com/john1hsu/chess-graph/id/windmill> <http://www.w3.org/2000/01/rdf-schema#label> "Windmill" .
+<https://github.com/john1hsu/chess-graph/id/windmill> <http://www.w3.org/2004/02/skos/core#altLabel> "See-saw" .
+<https://github.com/john1hsu/chess-graph/id/windmill> <http://www.w3.org/2004/02/skos/core#altLabel> "Seesaw" .
+<https://github.com/john1hsu/chess-graph/id/windmill> <http://www.w3.org/2004/02/skos/core#altLabel> "Windmill attack" .
+<https://github.com/john1hsu/chess-graph/id/windmill> <http://www.w3.org/2004/02/skos/core#altLabel> "Zwickmühle" .
+<https://github.com/john1hsu/chess-graph/id/windmill> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-tactics> .
+<https://github.com/john1hsu/chess-graph/id/windmill> <http://www.w3.org/2004/02/skos/core#definition> "A repeating combination in which a rook (or other piece) shuttles between two squares next to the enemy king, alternately giving check and uncovering a discovered check from a supporting piece, so that it can capture material on every cycle while the king is unable to escape." .
+<https://github.com/john1hsu/chess-graph/id/windmill> <http://www.w3.org/2004/02/skos/core#prefLabel> "Windmill" .
+<https://github.com/john1hsu/chess-graph/id/windmill> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/battery> .
+<https://github.com/john1hsu/chess-graph/id/windmill> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/combination> .
+<https://github.com/john1hsu/chess-graph/id/windmill> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/discovered-attack> .
+<https://github.com/john1hsu/chess-graph/id/windmill> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/double-check> .
+<https://github.com/john1hsu/chess-graph/id/windmill> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/rook-on-the-seventh-rank> .
+<https://github.com/john1hsu/chess-graph/id/windmill> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/sacrifice> .
+<https://github.com/john1hsu/chess-graph/id/windmill> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/windmill/s1> .
+<https://github.com/john1hsu/chess-graph/id/windmill> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/windmill/s2> .
+<https://github.com/john1hsu/chess-graph/id/windmill> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/windmill/s3> .
+<https://github.com/john1hsu/chess-graph/id/windmill> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/windmill/s4> .
+<https://github.com/john1hsu/chess-graph/id/windmill> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/windmill/s5> .
+<https://github.com/john1hsu/chess-graph/id/windmill> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/windmill/s6> .
+<https://github.com/john1hsu/chess-graph/id/windmill> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/battery> .
+<https://github.com/john1hsu/chess-graph/id/windmill> <https://github.com/john1hsu/chess-graph/ontology#domain> "tactics" .
+<https://github.com/john1hsu/chess-graph/id/windmill> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/material-advantage> .
+<https://github.com/john1hsu/chess-graph/id/windmill> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/torre-versus-lasker-moscow-1925> .
+<https://github.com/john1hsu/chess-graph/id/windmill> <https://github.com/john1hsu/chess-graph/ontology#fen> "r3rnk1/pb3pp1/3pp2p/1q4BQ/1P1P4/4N1R1/P4PPP/4R1K1 w - - 4 25" .
+<https://github.com/john1hsu/chess-graph/id/windmill> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/windmill> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/discovered-attack> .
+<https://github.com/john1hsu/chess-graph/id/windmill> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-17" .
 <https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Event> .
 <https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> <http://www.w3.org/2000/01/rdf-schema#label> "Women's World Chess Championship" .

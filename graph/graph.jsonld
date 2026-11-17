@@ -18804,6 +18804,108 @@
       ]
     },
     {
+      "@id": "kt:windmill",
+      "@type": "kto:TacticalMotif",
+      "skos:prefLabel": "Windmill",
+      "skos:definition": "A repeating combination in which a rook (or other piece) shuttles between two squares next to the enemy king, alternately giving check and uncovering a discovered check from a supporting piece, so that it can capture material on every cycle while the king is unable to escape.",
+      "kto:domain": "tactics",
+      "dcterms:created": "2026-11-17",
+      "kto:verified": "2026-11-17",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Chess Seesaw/Windmill",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://www.chesshistory.com/winter/extra/seesaw.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Carlos Torre",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://chesshistory.com/winter/extra/torre.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "The windmill (Predator at the Chessboard: Rook discoveries)",
+          "dcterms:publisher": "Ward Farnsworth, chesstactics.org",
+          "schema:url": "https://www.chesstactics.org/the-discovered-attack/rook-discoveries/the-windmill/3_2_6_4.html",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Torre's Windmill Attack",
+          "dcterms:publisher": "ChessKid.com",
+          "schema:url": "https://www.chesskid.com/learn/articles/torres-windmill-attack",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Torre Plays the Torre at Moscow 1925",
+          "dcterms:publisher": "Michael Goeller, The Kenilworthian",
+          "schema:url": "https://kenilworthian.blogspot.com/2005/09/torre-plays-torre-at-moscow-1925.html",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "Carlos Torre Repetto (player page)",
+          "dcterms:publisher": "chessgames.com",
+          "schema:url": "https://chessgames.com/player/carlos_torre-repetto.html?kpage=2",
+          "kto:sourceType": "database"
+        }
+      ],
+      "kto:file": "articles/tactics/windmill.md",
+      "skos:altLabel": [
+        "Seesaw",
+        "See-saw",
+        "Zwickmühle",
+        "Windmill attack"
+      ],
+      "kto:fen": "r3rnk1/pb3pp1/3pp2p/1q4BQ/1P1P4/4N1R1/P4PPP/4R1K1 w - - 4 25",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-tactics"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:discovered-attack"
+        },
+        {
+          "@id": "kt:battery"
+        },
+        {
+          "@id": "kt:double-check"
+        },
+        {
+          "@id": "kt:combination"
+        },
+        {
+          "@id": "kt:sacrifice"
+        },
+        {
+          "@id": "kt:rook-on-the-seventh-rank"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:discovered-attack"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:battery"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:torre-versus-lasker-moscow-1925"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:material-advantage"
+        }
+      ]
+    },
+    {
       "@id": "kt:zwischenzug",
       "@type": "kto:TacticalMotif",
       "skos:prefLabel": "Zwischenzug",

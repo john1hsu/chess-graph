@@ -5929,6 +5929,31 @@
     ]
   },
   {
+    "id": "kt:windmill",
+    "title": "Windmill",
+    "aliases": [
+      "Seesaw",
+      "See-saw",
+      "Zwickmühle",
+      "Windmill attack"
+    ],
+    "type": "TacticalMotif",
+    "domain": "tactics",
+    "file": "articles/tactics/windmill.md",
+    "created": "2026-11-17",
+    "verified": "2026-11-17",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.chesshistory.com/winter/extra/seesaw.html",
+      "https://chesshistory.com/winter/extra/torre.html",
+      "https://www.chesstactics.org/the-discovered-attack/rook-discoveries/the-windmill/3_2_6_4.html",
+      "https://www.chesskid.com/learn/articles/torres-windmill-attack",
+      "https://kenilworthian.blogspot.com/2005/09/torre-plays-torre-at-moscow-1925.html",
+      "https://chessgames.com/player/carlos_torre-repetto.html?kpage=2"
+    ]
+  },
+  {
     "id": "kt:womens-world-chess-championship",
     "title": "Women's World Chess Championship",
     "aliases": [
