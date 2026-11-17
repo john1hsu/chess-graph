@@ -17979,6 +17979,99 @@
       ]
     },
     {
+      "@id": "kt:anders-ericsson",
+      "@type": "kto:Person",
+      "skos:prefLabel": "Anders Ericsson",
+      "skos:definition": "Swedish psychologist (1947–2020) at Florida State University whose expert-performance approach, deliberate-practice framework and, with Walter Kintsch, long-term working memory theory drew heavily on chess and shaped how players and researchers think about training.",
+      "kto:domain": "training-and-improvement",
+      "dcterms:created": "2026-11-17",
+      "kto:verified": "2026-11-17",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "K. Anders Ericsson (obituary), Journal of Expertise 3(2), 170",
+          "dcterms:publisher": "David Z. Hambrick and Guillermo Campitelli, Journal of Expertise",
+          "schema:url": "https://www.journalofexpertise.org/articles/volume3_issue2/JoE_3_2_Hambrick_Campitelli.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Psychology Professor Anders Ericsson — the world's top expert on expertise — dies",
+          "dcterms:publisher": "Florida State University News",
+          "schema:url": "https://xray.unicomm.fsu.edu/?p=59894",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "How to Study Thinking in Everyday Life: Contrasting Think-Aloud Protocols With Descriptions and Explanations of Thinking (Mind, Culture, and Activity 5(3), 178-186)",
+          "dcterms:publisher": "K. Anders Ericsson and Herbert A. Simon, via Clemson University",
+          "schema:url": "https://cecas.clemson.edu/cedar/wp-content/uploads/2016/07/Ericsson.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Protocol Analysis, revised edition: Verbal Reports as Data",
+          "dcterms:publisher": "MIT Press Bookstore (Bradford Books)",
+          "schema:url": "https://mitpressbookstore.mit.edu/book/9780262550239",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Some shortcomings of long-term working memory (British Journal of Psychology 91, 551-570)",
+          "dcterms:publisher": "Fernand Gobet, via CORE",
+          "schema:url": "https://core.ac.uk/download/333525.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Making of an Expert (Harvard Business Review, July–August 2007)",
+          "dcterms:publisher": "K. Anders Ericsson, Michael J. Prietula and Edward T. Cokely, via Linköping University",
+          "schema:url": "https://www.ida.liu.se/~nilda08/Anders_Ericsson/Ericsson_HBR.pdf",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/training-and-improvement/anders-ericsson.md",
+      "skos:altLabel": [
+        "K. Anders Ericsson",
+        "Karl Anders Ericsson",
+        "K. A. Ericsson"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:cognitive-psychology-of-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:deliberate-practice"
+        },
+        {
+          "@id": "kt:long-term-working-memory"
+        },
+        {
+          "@id": "kt:chess-expertise"
+        },
+        {
+          "@id": "kt:chunking-theory"
+        },
+        {
+          "@id": "kt:fernand-gobet"
+        },
+        {
+          "@id": "kt:talent"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:herbert-simon"
+        },
+        {
+          "@id": "kt:adriaan-de-groot"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:template-theory"
+        }
+      ]
+    },
+    {
       "@id": "kt:annotating-your-games",
       "@type": "kto:TrainingMethod",
       "skos:prefLabel": "Annotating your games",

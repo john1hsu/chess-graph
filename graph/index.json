@@ -309,6 +309,30 @@
     ]
   },
   {
+    "id": "kt:anders-ericsson",
+    "title": "Anders Ericsson",
+    "aliases": [
+      "K. Anders Ericsson",
+      "Karl Anders Ericsson",
+      "K. A. Ericsson"
+    ],
+    "type": "Person",
+    "domain": "training-and-improvement",
+    "file": "articles/training-and-improvement/anders-ericsson.md",
+    "created": "2026-11-17",
+    "verified": "2026-11-17",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://www.journalofexpertise.org/articles/volume3_issue2/JoE_3_2_Hambrick_Campitelli.pdf",
+      "https://xray.unicomm.fsu.edu/?p=59894",
+      "https://cecas.clemson.edu/cedar/wp-content/uploads/2016/07/Ericsson.pdf",
+      "https://mitpressbookstore.mit.edu/book/9780262550239",
+      "https://core.ac.uk/download/333525.pdf",
+      "https://www.ida.liu.se/~nilda08/Anders_Ericsson/Ericsson_HBR.pdf"
+    ]
+  },
+  {
     "id": "kt:annotating-your-games",
     "title": "Annotating your games",
     "aliases": [

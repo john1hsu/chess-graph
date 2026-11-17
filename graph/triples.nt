@@ -353,6 +353,33 @@
 <https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/chess-olympiad> .
 <https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/anatoly-karpov> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/anders-ericsson> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/chess-graph/id/anders-ericsson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Person> .
+<https://github.com/john1hsu/chess-graph/id/anders-ericsson> <http://www.w3.org/2000/01/rdf-schema#label> "Anders Ericsson" .
+<https://github.com/john1hsu/chess-graph/id/anders-ericsson> <http://www.w3.org/2004/02/skos/core#altLabel> "K. A. Ericsson" .
+<https://github.com/john1hsu/chess-graph/id/anders-ericsson> <http://www.w3.org/2004/02/skos/core#altLabel> "K. Anders Ericsson" .
+<https://github.com/john1hsu/chess-graph/id/anders-ericsson> <http://www.w3.org/2004/02/skos/core#altLabel> "Karl Anders Ericsson" .
+<https://github.com/john1hsu/chess-graph/id/anders-ericsson> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/anders-ericsson> <http://www.w3.org/2004/02/skos/core#definition> "Swedish psychologist (1947–2020) at Florida State University whose expert-performance approach, deliberate-practice framework and, with Walter Kintsch, long-term working memory theory drew heavily on chess and shaped how players and researchers think about training." .
+<https://github.com/john1hsu/chess-graph/id/anders-ericsson> <http://www.w3.org/2004/02/skos/core#prefLabel> "Anders Ericsson" .
+<https://github.com/john1hsu/chess-graph/id/anders-ericsson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-expertise> .
+<https://github.com/john1hsu/chess-graph/id/anders-ericsson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chunking-theory> .
+<https://github.com/john1hsu/chess-graph/id/anders-ericsson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/deliberate-practice> .
+<https://github.com/john1hsu/chess-graph/id/anders-ericsson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fernand-gobet> .
+<https://github.com/john1hsu/chess-graph/id/anders-ericsson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/long-term-working-memory> .
+<https://github.com/john1hsu/chess-graph/id/anders-ericsson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/talent> .
+<https://github.com/john1hsu/chess-graph/id/anders-ericsson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/anders-ericsson/s1> .
+<https://github.com/john1hsu/chess-graph/id/anders-ericsson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/anders-ericsson/s2> .
+<https://github.com/john1hsu/chess-graph/id/anders-ericsson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/anders-ericsson/s3> .
+<https://github.com/john1hsu/chess-graph/id/anders-ericsson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/anders-ericsson/s4> .
+<https://github.com/john1hsu/chess-graph/id/anders-ericsson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/anders-ericsson/s5> .
+<https://github.com/john1hsu/chess-graph/id/anders-ericsson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/anders-ericsson/s6> .
+<https://github.com/john1hsu/chess-graph/id/anders-ericsson> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/template-theory> .
+<https://github.com/john1hsu/chess-graph/id/anders-ericsson> <https://github.com/john1hsu/chess-graph/ontology#domain> "training-and-improvement" .
+<https://github.com/john1hsu/chess-graph/id/anders-ericsson> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> .
+<https://github.com/john1hsu/chess-graph/id/anders-ericsson> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/herbert-simon> .
+<https://github.com/john1hsu/chess-graph/id/anders-ericsson> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/anders-ericsson> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-17" .
 <https://github.com/john1hsu/chess-graph/id/annotating-your-games> <http://purl.org/dc/terms/created> "2026-11-16" .
 <https://github.com/john1hsu/chess-graph/id/annotating-your-games> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TrainingMethod> .
 <https://github.com/john1hsu/chess-graph/id/annotating-your-games> <http://www.w3.org/2000/01/rdf-schema#label> "Annotating your games" .
@@ -5819,6 +5846,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "news" .
 <https://github.com/john1hsu/chess-graph/id/source/anatoly-karpov/s5> <https://schema.org/url> "https://www.pressreader.com/south-africa/cape-argus/20190523/281814285330502" .
+<https://github.com/john1hsu/chess-graph/id/source/anders-ericsson/s1> <http://purl.org/dc/terms/publisher> "David Z. Hambrick and Guillermo Campitelli, Journal of Expertise" .
+<https://github.com/john1hsu/chess-graph/id/source/anders-ericsson/s1> <http://purl.org/dc/terms/title> "K. Anders Ericsson (obituary), Journal of Expertise 3(2), 170" .
+<https://github.com/john1hsu/chess-graph/id/source/anders-ericsson/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/anders-ericsson/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/anders-ericsson/s1> <https://schema.org/url> "https://www.journalofexpertise.org/articles/volume3_issue2/JoE_3_2_Hambrick_Campitelli.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/anders-ericsson/s2> <http://purl.org/dc/terms/publisher> "Florida State University News" .
+<https://github.com/john1hsu/chess-graph/id/source/anders-ericsson/s2> <http://purl.org/dc/terms/title> "Psychology Professor Anders Ericsson — the world's top expert on expertise — dies" .
+<https://github.com/john1hsu/chess-graph/id/source/anders-ericsson/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/anders-ericsson/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/anders-ericsson/s2> <https://schema.org/url> "https://xray.unicomm.fsu.edu/?p=59894" .
+<https://github.com/john1hsu/chess-graph/id/source/anders-ericsson/s3> <http://purl.org/dc/terms/publisher> "K. Anders Ericsson and Herbert A. Simon, via Clemson University" .
+<https://github.com/john1hsu/chess-graph/id/source/anders-ericsson/s3> <http://purl.org/dc/terms/title> "How to Study Thinking in Everyday Life: Contrasting Think-Aloud Protocols With Descriptions and Explanations of Thinking (Mind, Culture, and Activity 5(3), 178-186)" .
+<https://github.com/john1hsu/chess-graph/id/source/anders-ericsson/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/anders-ericsson/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/anders-ericsson/s3> <https://schema.org/url> "https://cecas.clemson.edu/cedar/wp-content/uploads/2016/07/Ericsson.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/anders-ericsson/s4> <http://purl.org/dc/terms/publisher> "MIT Press Bookstore (Bradford Books)" .
+<https://github.com/john1hsu/chess-graph/id/source/anders-ericsson/s4> <http://purl.org/dc/terms/title> "Protocol Analysis, revised edition: Verbal Reports as Data" .
+<https://github.com/john1hsu/chess-graph/id/source/anders-ericsson/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/anders-ericsson/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/anders-ericsson/s4> <https://schema.org/url> "https://mitpressbookstore.mit.edu/book/9780262550239" .
+<https://github.com/john1hsu/chess-graph/id/source/anders-ericsson/s5> <http://purl.org/dc/terms/publisher> "Fernand Gobet, via CORE" .
+<https://github.com/john1hsu/chess-graph/id/source/anders-ericsson/s5> <http://purl.org/dc/terms/title> "Some shortcomings of long-term working memory (British Journal of Psychology 91, 551-570)" .
+<https://github.com/john1hsu/chess-graph/id/source/anders-ericsson/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/anders-ericsson/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/anders-ericsson/s5> <https://schema.org/url> "https://core.ac.uk/download/333525.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/anders-ericsson/s6> <http://purl.org/dc/terms/publisher> "K. Anders Ericsson, Michael J. Prietula and Edward T. Cokely, via Linköping University" .
+<https://github.com/john1hsu/chess-graph/id/source/anders-ericsson/s6> <http://purl.org/dc/terms/title> "The Making of an Expert (Harvard Business Review, July–August 2007)" .
+<https://github.com/john1hsu/chess-graph/id/source/anders-ericsson/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/anders-ericsson/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/anders-ericsson/s6> <https://schema.org/url> "https://www.ida.liu.se/~nilda08/Anders_Ericsson/Ericsson_HBR.pdf" .
 <https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
 <https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s1> <http://purl.org/dc/terms/title> "FIDE Laws of Chess (applied from 1 January 2023), full text" .
 <https://github.com/john1hsu/chess-graph/id/source/annotating-your-games/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
