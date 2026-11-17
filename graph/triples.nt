@@ -2899,6 +2899,38 @@
 <https://github.com/john1hsu/chess-graph/id/french-defence> <https://github.com/john1hsu/chess-graph/ontology#moves> "1.e4 e6 2.d4 d5" .
 <https://github.com/john1hsu/chess-graph/id/french-defence> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/french-defence> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/gambit> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/chess-graph/id/gambit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
+<https://github.com/john1hsu/chess-graph/id/gambit> <http://www.w3.org/2000/01/rdf-schema#label> "Gambit" .
+<https://github.com/john1hsu/chess-graph/id/gambit> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess gambit" .
+<https://github.com/john1hsu/chess-graph/id/gambit> <http://www.w3.org/2004/02/skos/core#altLabel> "Counter-gambit" .
+<https://github.com/john1hsu/chess-graph/id/gambit> <http://www.w3.org/2004/02/skos/core#altLabel> "Countergambit" .
+<https://github.com/john1hsu/chess-graph/id/gambit> <http://www.w3.org/2004/02/skos/core#altLabel> "Gambit play" .
+<https://github.com/john1hsu/chess-graph/id/gambit> <http://www.w3.org/2004/02/skos/core#altLabel> "Gambiteer" .
+<https://github.com/john1hsu/chess-graph/id/gambit> <http://www.w3.org/2004/02/skos/core#altLabel> "Gambits" .
+<https://github.com/john1hsu/chess-graph/id/gambit> <http://www.w3.org/2004/02/skos/core#altLabel> "Opening gambit" .
+<https://github.com/john1hsu/chess-graph/id/gambit> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-openings> .
+<https://github.com/john1hsu/chess-graph/id/gambit> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/sacrifice> .
+<https://github.com/john1hsu/chess-graph/id/gambit> <http://www.w3.org/2004/02/skos/core#definition> "An opening in which a player offers material, usually a pawn, in return for time, development, central control or open lines; the opponent may accept the offer or decline it." .
+<https://github.com/john1hsu/chess-graph/id/gambit> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gambit" .
+<https://github.com/john1hsu/chess-graph/id/gambit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/development> .
+<https://github.com/john1hsu/chess-graph/id/gambit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/initiative> .
+<https://github.com/john1hsu/chess-graph/id/gambit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/material-advantage> .
+<https://github.com/john1hsu/chess-graph/id/gambit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/romantic-era> .
+<https://github.com/john1hsu/chess-graph/id/gambit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/tempo> .
+<https://github.com/john1hsu/chess-graph/id/gambit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/gambit/s1> .
+<https://github.com/john1hsu/chess-graph/id/gambit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/gambit/s2> .
+<https://github.com/john1hsu/chess-graph/id/gambit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/gambit/s3> .
+<https://github.com/john1hsu/chess-graph/id/gambit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/gambit/s4> .
+<https://github.com/john1hsu/chess-graph/id/gambit> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/paul-morphy> .
+<https://github.com/john1hsu/chess-graph/id/gambit> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/queens-gambit> .
+<https://github.com/john1hsu/chess-graph/id/gambit> <https://github.com/john1hsu/chess-graph/ontology#domain> "openings" .
+<https://github.com/john1hsu/chess-graph/id/gambit> <https://github.com/john1hsu/chess-graph/ontology#fen> "rnbqkbnr/pppp1ppp/8/8/2B1P3/8/PB3PPP/RN1QK1NR b KQkq - 0 5" .
+<https://github.com/john1hsu/chess-graph/id/gambit> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/danish-gambit> .
+<https://github.com/john1hsu/chess-graph/id/gambit> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/evans-gambit> .
+<https://github.com/john1hsu/chess-graph/id/gambit> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/kings-gambit> .
+<https://github.com/john1hsu/chess-graph/id/gambit> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/gambit> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-17" .
 <https://github.com/john1hsu/chess-graph/id/game-tree-search> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/game-tree-search> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Algorithm> .
 <https://github.com/john1hsu/chess-graph/id/game-tree-search> <http://www.w3.org/2000/01/rdf-schema#label> "Game-tree search" .
@@ -8532,6 +8564,26 @@
 <https://github.com/john1hsu/chess-graph/id/source/french-defence/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/french-defence/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
 <https://github.com/john1hsu/chess-graph/id/source/french-defence/s6> <https://schema.org/url> "https://chessgames.com/perl/chessopening?eco=C00" .
+<https://github.com/john1hsu/chess-graph/id/source/gambit/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/gambit/s1> <http://purl.org/dc/terms/title> "Chess: Development of theory" .
+<https://github.com/john1hsu/chess-graph/id/source/gambit/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/gambit/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/gambit/s1> <https://schema.org/url> "https://britannica.com/topic/chess/Development-of-theory" .
+<https://github.com/john1hsu/chess-graph/id/source/gambit/s2> <http://purl.org/dc/terms/publisher> "Edward Lasker, G. Bell & Sons; Project Gutenberg edition" .
+<https://github.com/john1hsu/chess-graph/id/source/gambit/s2> <http://purl.org/dc/terms/title> "Chess Strategy (trans. J. du Mont), Project Gutenberg eBook #5614" .
+<https://github.com/john1hsu/chess-graph/id/source/gambit/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/gambit/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/gambit/s2> <https://schema.org/url> "https://gutenberg.org/files/5614/5614-h/5614-h.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/gambit/s3> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (updated 5 July 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/gambit/s3> <http://purl.org/dc/terms/title> "Chess Gambits" .
+<https://github.com/john1hsu/chess-graph/id/source/gambit/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/gambit/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/gambit/s3> <https://schema.org/url> "https://chesshistory.com/winter/extra/gambits.html" .
+<https://github.com/john1hsu/chess-graph/id/source/gambit/s4> <http://purl.org/dc/terms/publisher> "Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/gambit/s4> <http://purl.org/dc/terms/title> "Gambit - Chess Terms" .
+<https://github.com/john1hsu/chess-graph/id/source/gambit/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/gambit/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/gambit/s4> <https://schema.org/url> "https://chess.com/terms/chess-gambit" .
 <https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s1> <http://purl.org/dc/terms/publisher> "University of California, Irvine (David Eppstein)" .
 <https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s1> <http://purl.org/dc/terms/title> "ICS 180A: Strategy and board game programming, lecture of 17 April 1997" .
 <https://github.com/john1hsu/chess-graph/id/source/game-tree-search/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

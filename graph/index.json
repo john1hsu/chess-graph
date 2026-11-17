@@ -2579,6 +2579,32 @@
     ]
   },
   {
+    "id": "kt:gambit",
+    "title": "Gambit",
+    "aliases": [
+      "Chess gambit",
+      "Gambits",
+      "Opening gambit",
+      "Gambit play",
+      "Countergambit",
+      "Counter-gambit",
+      "Gambiteer"
+    ],
+    "type": "StrategicConcept",
+    "domain": "openings",
+    "file": "articles/openings/gambit.md",
+    "created": "2026-11-17",
+    "verified": "2026-11-17",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://britannica.com/topic/chess/Development-of-theory",
+      "https://gutenberg.org/files/5614/5614-h/5614-h.htm",
+      "https://chesshistory.com/winter/extra/gambits.html",
+      "https://chess.com/terms/chess-gambit"
+    ]
+  },
+  {
     "id": "kt:game-tree-search",
     "title": "Game-tree search",
     "aliases": [

@@ -10857,6 +10857,100 @@
       ]
     },
     {
+      "@id": "kt:gambit",
+      "@type": "kto:StrategicConcept",
+      "skos:prefLabel": "Gambit",
+      "skos:definition": "An opening in which a player offers material, usually a pawn, in return for time, development, central control or open lines; the opponent may accept the offer or decline it.",
+      "kto:domain": "openings",
+      "dcterms:created": "2026-11-17",
+      "kto:verified": "2026-11-17",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Chess: Development of theory",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://britannica.com/topic/chess/Development-of-theory",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Chess Strategy (trans. J. du Mont), Project Gutenberg eBook #5614",
+          "dcterms:publisher": "Edward Lasker, G. Bell & Sons; Project Gutenberg edition",
+          "schema:url": "https://gutenberg.org/files/5614/5614-h/5614-h.htm",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Chess Gambits",
+          "dcterms:publisher": "Edward Winter, Chess Notes (updated 5 July 2026)",
+          "schema:url": "https://chesshistory.com/winter/extra/gambits.html",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Gambit - Chess Terms",
+          "dcterms:publisher": "Chess.com",
+          "schema:url": "https://chess.com/terms/chess-gambit",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/openings/gambit.md",
+      "skos:altLabel": [
+        "Chess gambit",
+        "Gambits",
+        "Opening gambit",
+        "Gambit play",
+        "Countergambit",
+        "Counter-gambit",
+        "Gambiteer"
+      ],
+      "kto:fen": "rnbqkbnr/pppp1ppp/8/8/2B1P3/8/PB3PPP/RN1QK1NR b KQkq - 0 5",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-openings"
+        },
+        {
+          "@id": "kt:sacrifice"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:development"
+        },
+        {
+          "@id": "kt:tempo"
+        },
+        {
+          "@id": "kt:initiative"
+        },
+        {
+          "@id": "kt:material-advantage"
+        },
+        {
+          "@id": "kt:romantic-era"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:kings-gambit"
+        },
+        {
+          "@id": "kt:evans-gambit"
+        },
+        {
+          "@id": "kt:danish-gambit"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:queens-gambit"
+        }
+      ],
+      "kto:championedBy": [
+        {
+          "@id": "kt:paul-morphy"
+        }
+      ]
+    },
+    {
       "@id": "kt:italian-game",
       "@type": "kto:Opening",
       "skos:prefLabel": "Italian Game",
