@@ -8,7 +8,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:the-turk`, `kt:herbert-simon` |
 | `kt:gambit` | `kt:development`, `kt:evans-gambit`, `kt:kings-gambit`, `kt:sacrifice` |
 | `kt:vladimir-kramnik` | `kt:alphazero`, `kt:ruy-lopez`, `kt:garry-kasparov`, `kt:viswanathan-anand` |
-| `kt:aspiration-window` | `kt:iterative-deepening`, `kt:principal-variation-search`, `kt:principal-variation-search` |
 | `kt:david-bronstein` | `kt:kings-gambit`, `kt:bronstein-delay`, `kt:bronstein-delay` |
 | `kt:howard-staunton` | `kt:london-1851`, `kt:london-1851`, `kt:paul-morphy` |
 | `kt:mikhail-chigorin` | `kt:hastings-1895`, `kt:evans-gambit`, `kt:wilhelm-steinitz` |
@@ -77,6 +76,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:counting-in-pawn-races` | `kt:rule-of-the-square` |
 | `kt:curt-von-bardeleben` | `kt:steinitz-von-bardeleben-hastings-1895` |
 | `kt:david-forsyth` | `kt:forsyth-edwards-notation` |
+| `kt:david-slate` | `kt:aspiration-window` |
 | `kt:deep-blue` | `kt:deep-blue-versus-kasparov` |
 | `kt:deepmind` | `kt:alphazero` |
 | `kt:ding-liren` | `kt:gukesh-dommaraju` |
@@ -90,6 +90,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:european-individual-chess-championship` | `kt:european-chess-union` |
 | `kt:european-team-chess-championship` | `kt:european-chess-union` |
 | `kt:evgeny-sveshnikov` | `kt:sveshnikov-variation` |
+| `kt:fail-soft-alpha-beta` | `kt:aspiration-window` |
 | `kt:falkbeer-countergambit` | `kt:kings-gambit` |
 | `kt:federation-of-european-shogi-associations` | `kt:shogi` |
 | `kt:fernando-saavedra` | `kt:saavedra-position` |
@@ -168,6 +169,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mitrofanov-study-1967` | `kt:deflection` |
 | `kt:modena-school` | `kt:romantic-era` |
 | `kt:move-generation` | `kt:bitboards` |
+| `kt:mtd-f` | `kt:aspiration-window` |
 | `kt:mvv-lva` | `kt:move-ordering` |
 | `kt:negamax` | `kt:minimax` |
 | `kt:nodirbek-abdusattorov` | `kt:tata-steel-chess-tournament` |

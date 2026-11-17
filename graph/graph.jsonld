@@ -192,6 +192,104 @@
       ]
     },
     {
+      "@id": "kt:aspiration-window",
+      "@type": "kto:Algorithm",
+      "skos:prefLabel": "Aspiration window",
+      "skos:definition": "An alpha-beta search technique that starts the root search with a narrow window of bounds centred on an expected score, usually the previous iteration's result, to gain extra cutoffs, and re-searches with a wider window only when the true score falls outside it.",
+      "kto:domain": "computer-chess",
+      "dcterms:created": "2026-11-17",
+      "kto:verified": "2026-11-17",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "A Review of Game-Tree Pruning (ICCA Journal, Vol. 9, No. 1, 1986)",
+          "dcterms:publisher": "T. A. Marsland, University of Alberta",
+          "schema:url": "https://webdocs.cs.ualberta.ca/~tony/OldPapers/icca.Mar1986.pp3-18.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Heuristic Search in One and Two Player Games (University of Alberta TR93-02)",
+          "dcterms:publisher": "T. Anthony Marsland and Alexander Reinefeld, University of Alberta",
+          "schema:url": "https://webdocs.cs.ualberta.ca/~tony/TechnicalReports/TR93-02.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Using Aspiration Windows for Minimax Algorithms (IJCAI 1991, pp. 192-196)",
+          "dcterms:publisher": "Reza Shams, Hermann Kaindl and Helmut Horacek, IJCAI Proceedings",
+          "schema:url": "https://ijcai.org/proceedings/1991/0029.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "New Advances in Alpha-Beta Searching",
+          "dcterms:publisher": "Jonathan Schaeffer and Aske Plaat, author copy hosted by Leiden University",
+          "schema:url": "https://liacs.leidenuniv.nl/~plaata1/papers/acm-final.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Aspiration Windows",
+          "dcterms:publisher": "Chess Programming Wiki",
+          "schema:url": "https://www.chessprogramming.org/Aspiration_Windows",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/computer-chess/aspiration-window.md",
+      "skos:altLabel": [
+        "Aspiration windows",
+        "Aspiration search",
+        "Iterated aspiration search",
+        "Aspiration alpha-beta"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:alpha-beta-pruning"
+        },
+        {
+          "@id": "kt:game-tree-search"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:iterative-deepening"
+        },
+        {
+          "@id": "kt:principal-variation-search"
+        },
+        {
+          "@id": "kt:transposition-table"
+        },
+        {
+          "@id": "kt:mtd-f"
+        },
+        {
+          "@id": "kt:stockfish"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:alpha-beta-pruning"
+        },
+        {
+          "@id": "kt:iterative-deepening"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:principal-variation-search"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:fail-soft-alpha-beta"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:david-slate"
+        }
+      ]
+    },
+    {
       "@id": "kt:bitboards",
       "@type": "kto:Algorithm",
       "skos:prefLabel": "Bitboards",
