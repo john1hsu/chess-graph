@@ -11,6 +11,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:david-bronstein` | `kt:kings-gambit`, `kt:bronstein-delay`, `kt:bronstein-delay` |
 | `kt:howard-staunton` | `kt:london-1851`, `kt:london-1851`, `kt:paul-morphy` |
 | `kt:philidor-defence` | `kt:adams-versus-torre-new-orleans-1920`, `kt:opera-game`, `kt:francois-andre-danican-philidor` |
+| `kt:albert-zobrist` | `kt:zobrist-hashing`, `kt:zobrist-hashing` |
 | `kt:albin-countergambit` | `kt:queens-gambit`, `kt:underpromotion` |
 | `kt:alexander-kotov` | `kt:calculation`, `kt:candidate-moves` |
 | `kt:botvinnik-versus-capablanca-avro-1938` | `kt:soviet-chess-school`, `kt:mikhail-botvinnik` |
@@ -253,5 +254,4 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:world-xiangqi-federation` | `kt:xiangqi` |
 | `kt:yu-nasu` | `kt:nnue` |
 | `kt:yugoslav-attack` | `kt:dragon-variation` |
-| `kt:zobrist-hashing` | `kt:transposition-table` |
 | `kt:zukertort-opening` | `kt:johannes-zukertort` |

@@ -6186,6 +6186,31 @@
     ]
   },
   {
+    "id": "kt:zobrist-hashing",
+    "title": "Zobrist hashing",
+    "aliases": [
+      "Zobrist keys",
+      "Zobrist key",
+      "Zobrist hash",
+      "Zobrist signature"
+    ],
+    "type": "Algorithm",
+    "domain": "computer-chess",
+    "file": "articles/computer-chess/zobrist-hashing.md",
+    "created": "2026-11-17",
+    "verified": "2026-11-17",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://minds.wisc.edu/items/992e8337-5597-4a51-89d3-3fbe3559201a/full",
+      "https://content.iospress.com/articles/icga-journal/icg13-2-03",
+      "https://www.cs.du.edu/~sturtevant/w13-games/Lecture7.pdf",
+      "https://grok.dragonflybsd.org/raw/dports/games/stockfish/Stockfish-sf_14/src/position.cpp",
+      "https://mediocrechess.sourceforge.net/guides/zobristkeys.html",
+      "https://metacpan.org/pod/Chess::Opening::Book::Polyglot::Random64"
+    ]
+  },
+  {
     "id": "kt:zugzwang",
     "title": "Zugzwang",
     "aliases": [

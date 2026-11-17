@@ -12873,6 +12873,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/xiangqi/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/xiangqi/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/chess-graph/id/source/xiangqi/s7> <https://schema.org/url> "https://arxiv.org/pdf/1507.06401" .
+<https://github.com/john1hsu/chess-graph/id/source/zobrist-hashing/s1> <http://purl.org/dc/terms/publisher> "Albert L. Zobrist, University of Wisconsin–Madison (MINDS@UW repository)" .
+<https://github.com/john1hsu/chess-graph/id/source/zobrist-hashing/s1> <http://purl.org/dc/terms/title> "A New Hashing Method With Application for Game Playing (Technical Report TR88, 1970)" .
+<https://github.com/john1hsu/chess-graph/id/source/zobrist-hashing/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/zobrist-hashing/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/zobrist-hashing/s1> <https://schema.org/url> "https://minds.wisc.edu/items/992e8337-5597-4a51-89d3-3fbe3559201a/full" .
+<https://github.com/john1hsu/chess-graph/id/source/zobrist-hashing/s2> <http://purl.org/dc/terms/publisher> "ICGA Journal, vol. 13, no. 2 (1990), pp. 69–73, IOS Press" .
+<https://github.com/john1hsu/chess-graph/id/source/zobrist-hashing/s2> <http://purl.org/dc/terms/title> "A New Hashing Method with Application for Game Playing (reprint)" .
+<https://github.com/john1hsu/chess-graph/id/source/zobrist-hashing/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/zobrist-hashing/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/zobrist-hashing/s2> <https://schema.org/url> "https://content.iospress.com/articles/icga-journal/icg13-2-03" .
+<https://github.com/john1hsu/chess-graph/id/source/zobrist-hashing/s3> <http://purl.org/dc/terms/publisher> "Nathan Sturtevant, University of Denver" .
+<https://github.com/john1hsu/chess-graph/id/source/zobrist-hashing/s3> <http://purl.org/dc/terms/title> "Lecture 7: Hashing, GHI, Expecti-minimax (AI for Traditional Games)" .
+<https://github.com/john1hsu/chess-graph/id/source/zobrist-hashing/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/zobrist-hashing/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/zobrist-hashing/s3> <https://schema.org/url> "https://www.cs.du.edu/~sturtevant/w13-games/Lecture7.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/zobrist-hashing/s4> <http://purl.org/dc/terms/publisher> "The Stockfish developers" .
+<https://github.com/john1hsu/chess-graph/id/source/zobrist-hashing/s4> <http://purl.org/dc/terms/title> "Stockfish 14 source code, src/position.cpp (sf_14 release, DragonFly BSD ports copy)" .
+<https://github.com/john1hsu/chess-graph/id/source/zobrist-hashing/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/zobrist-hashing/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/zobrist-hashing/s4> <https://schema.org/url> "https://grok.dragonflybsd.org/raw/dports/games/stockfish/Stockfish-sf_14/src/position.cpp" .
+<https://github.com/john1hsu/chess-graph/id/source/zobrist-hashing/s5> <http://purl.org/dc/terms/publisher> "Jonatan Pettersson, Mediocre Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/zobrist-hashing/s5> <http://purl.org/dc/terms/title> "Guide: Zobrist keys" .
+<https://github.com/john1hsu/chess-graph/id/source/zobrist-hashing/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/zobrist-hashing/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/zobrist-hashing/s5> <https://schema.org/url> "https://mediocrechess.sourceforge.net/guides/zobristkeys.html" .
+<https://github.com/john1hsu/chess-graph/id/source/zobrist-hashing/s6> <http://purl.org/dc/terms/publisher> "Guido Flohr, MetaCPAN" .
+<https://github.com/john1hsu/chess-graph/id/source/zobrist-hashing/s6> <http://purl.org/dc/terms/title> "Chess::Opening::Book::Polyglot::Random64" .
+<https://github.com/john1hsu/chess-graph/id/source/zobrist-hashing/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/zobrist-hashing/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/zobrist-hashing/s6> <https://schema.org/url> "https://metacpan.org/pod/Chess::Opening::Book::Polyglot::Random64" .
 <https://github.com/john1hsu/chess-graph/id/source/zugzwang/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
 <https://github.com/john1hsu/chess-graph/id/source/zugzwang/s1> <http://purl.org/dc/terms/title> "Zugzwang (Chess Notes feature article)" .
 <https://github.com/john1hsu/chess-graph/id/source/zugzwang/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -14078,6 +14108,34 @@
 <https://github.com/john1hsu/chess-graph/id/xiangqi> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/world-xiangqi-federation> .
 <https://github.com/john1hsu/chess-graph/id/xiangqi> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/xiangqi> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-15" .
+<https://github.com/john1hsu/chess-graph/id/zobrist-hashing> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/chess-graph/id/zobrist-hashing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Algorithm> .
+<https://github.com/john1hsu/chess-graph/id/zobrist-hashing> <http://www.w3.org/2000/01/rdf-schema#label> "Zobrist hashing" .
+<https://github.com/john1hsu/chess-graph/id/zobrist-hashing> <http://www.w3.org/2004/02/skos/core#altLabel> "Zobrist hash" .
+<https://github.com/john1hsu/chess-graph/id/zobrist-hashing> <http://www.w3.org/2004/02/skos/core#altLabel> "Zobrist key" .
+<https://github.com/john1hsu/chess-graph/id/zobrist-hashing> <http://www.w3.org/2004/02/skos/core#altLabel> "Zobrist keys" .
+<https://github.com/john1hsu/chess-graph/id/zobrist-hashing> <http://www.w3.org/2004/02/skos/core#altLabel> "Zobrist signature" .
+<https://github.com/john1hsu/chess-graph/id/zobrist-hashing> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/computer-chess> .
+<https://github.com/john1hsu/chess-graph/id/zobrist-hashing> <http://www.w3.org/2004/02/skos/core#definition> "A method, published by Albert Zobrist in 1970, of turning a board position into a single large number by combining (with exclusive-or) pre-generated random numbers for each piece on each square and for side to move, castling and en passant rights, so that the key can be updated cheaply move by move." .
+<https://github.com/john1hsu/chess-graph/id/zobrist-hashing> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zobrist hashing" .
+<https://github.com/john1hsu/chess-graph/id/zobrist-hashing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/bitboards> .
+<https://github.com/john1hsu/chess-graph/id/zobrist-hashing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/opening-book> .
+<https://github.com/john1hsu/chess-graph/id/zobrist-hashing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/stockfish> .
+<https://github.com/john1hsu/chess-graph/id/zobrist-hashing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/threefold-repetition> .
+<https://github.com/john1hsu/chess-graph/id/zobrist-hashing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/transposition-table> .
+<https://github.com/john1hsu/chess-graph/id/zobrist-hashing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/zobrist-hashing/s1> .
+<https://github.com/john1hsu/chess-graph/id/zobrist-hashing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/zobrist-hashing/s2> .
+<https://github.com/john1hsu/chess-graph/id/zobrist-hashing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/zobrist-hashing/s3> .
+<https://github.com/john1hsu/chess-graph/id/zobrist-hashing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/zobrist-hashing/s4> .
+<https://github.com/john1hsu/chess-graph/id/zobrist-hashing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/zobrist-hashing/s5> .
+<https://github.com/john1hsu/chess-graph/id/zobrist-hashing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/zobrist-hashing/s6> .
+<https://github.com/john1hsu/chess-graph/id/zobrist-hashing> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/albert-zobrist> .
+<https://github.com/john1hsu/chess-graph/id/zobrist-hashing> <https://github.com/john1hsu/chess-graph/ontology#domain> "computer-chess" .
+<https://github.com/john1hsu/chess-graph/id/zobrist-hashing> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/transposition-table> .
+<https://github.com/john1hsu/chess-graph/id/zobrist-hashing> <https://github.com/john1hsu/chess-graph/ontology#fen> "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 4 3" .
+<https://github.com/john1hsu/chess-graph/id/zobrist-hashing> <https://github.com/john1hsu/chess-graph/ontology#namedAfter> <https://github.com/john1hsu/chess-graph/id/albert-zobrist> .
+<https://github.com/john1hsu/chess-graph/id/zobrist-hashing> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/zobrist-hashing> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-17" .
 <https://github.com/john1hsu/chess-graph/id/zugzwang> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/zugzwang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
 <https://github.com/john1hsu/chess-graph/id/zugzwang> <http://www.w3.org/2000/01/rdf-schema#label> "Zugzwang" .

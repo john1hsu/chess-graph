@@ -2049,6 +2049,100 @@
       ]
     },
     {
+      "@id": "kt:zobrist-hashing",
+      "@type": "kto:Algorithm",
+      "skos:prefLabel": "Zobrist hashing",
+      "skos:definition": "A method, published by Albert Zobrist in 1970, of turning a board position into a single large number by combining (with exclusive-or) pre-generated random numbers for each piece on each square and for side to move, castling and en passant rights, so that the key can be updated cheaply move by move.",
+      "kto:domain": "computer-chess",
+      "dcterms:created": "2026-11-17",
+      "kto:verified": "2026-11-17",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "A New Hashing Method With Application for Game Playing (Technical Report TR88, 1970)",
+          "dcterms:publisher": "Albert L. Zobrist, University of Wisconsin–Madison (MINDS@UW repository)",
+          "schema:url": "https://minds.wisc.edu/items/992e8337-5597-4a51-89d3-3fbe3559201a/full",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "A New Hashing Method with Application for Game Playing (reprint)",
+          "dcterms:publisher": "ICGA Journal, vol. 13, no. 2 (1990), pp. 69–73, IOS Press",
+          "schema:url": "https://content.iospress.com/articles/icga-journal/icg13-2-03",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Lecture 7: Hashing, GHI, Expecti-minimax (AI for Traditional Games)",
+          "dcterms:publisher": "Nathan Sturtevant, University of Denver",
+          "schema:url": "https://www.cs.du.edu/~sturtevant/w13-games/Lecture7.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Stockfish 14 source code, src/position.cpp (sf_14 release, DragonFly BSD ports copy)",
+          "dcterms:publisher": "The Stockfish developers",
+          "schema:url": "https://grok.dragonflybsd.org/raw/dports/games/stockfish/Stockfish-sf_14/src/position.cpp",
+          "kto:sourceType": "primary-record"
+        },
+        {
+          "dcterms:title": "Guide: Zobrist keys",
+          "dcterms:publisher": "Jonatan Pettersson, Mediocre Chess",
+          "schema:url": "https://mediocrechess.sourceforge.net/guides/zobristkeys.html",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "Chess::Opening::Book::Polyglot::Random64",
+          "dcterms:publisher": "Guido Flohr, MetaCPAN",
+          "schema:url": "https://metacpan.org/pod/Chess::Opening::Book::Polyglot::Random64",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/computer-chess/zobrist-hashing.md",
+      "skos:altLabel": [
+        "Zobrist keys",
+        "Zobrist key",
+        "Zobrist hash",
+        "Zobrist signature"
+      ],
+      "kto:fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 4 3",
+      "skos:broader": [
+        {
+          "@id": "kt:computer-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:transposition-table"
+        },
+        {
+          "@id": "kt:threefold-repetition"
+        },
+        {
+          "@id": "kt:bitboards"
+        },
+        {
+          "@id": "kt:stockfish"
+        },
+        {
+          "@id": "kt:opening-book"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:transposition-table"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:albert-zobrist"
+        }
+      ],
+      "kto:namedAfter": [
+        {
+          "@id": "kt:albert-zobrist"
+        }
+      ]
+    },
+    {
       "@id": "kt:bishop-and-knight-checkmate",
       "@type": "kto:EndgameType",
       "skos:prefLabel": "Bishop and knight checkmate",
