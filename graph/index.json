@@ -4538,6 +4538,35 @@
     ]
   },
   {
+    "id": "kt:philidor-defence",
+    "title": "Philidor Defence",
+    "aliases": [
+      "Philidor Defense",
+      "Philidor's Defence",
+      "Philidor's Defense",
+      "Philidor Opening",
+      "Modern Philidor"
+    ],
+    "type": "Opening",
+    "domain": "openings",
+    "file": "articles/openings/philidor-defence.md",
+    "created": "2026-11-18",
+    "verified": "2026-11-18",
+    "volatile": false,
+    "status": "current",
+    "eco": "C41",
+    "source_urls": [
+      "https://thinkerspublishing.com/?p=3996",
+      "https://api.boekenbank.be/sample_content/9789/464/201/9789464201208.pdf",
+      "https://chess.co.uk/collections/everyman-chess/products/the-philidor-files-christian-bauer",
+      "https://www.jeremysilman.com/book-review/philidor-files-the",
+      "https://en.chessbase.com/post/alekhine-rocks-the-philidor-defence",
+      "https://en.chessbase.com/post/review-christian-bauer-evergreen-philidor",
+      "https://365chess.com/eco/C41_Philidor's_defence",
+      "https://www.chessgames.com/1233404"
+    ]
+  },
+  {
     "id": "kt:philidor-position",
     "title": "Philidor position",
     "aliases": [

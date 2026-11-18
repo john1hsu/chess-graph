@@ -8,7 +8,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:the-turk`, `kt:herbert-simon` |
 | `kt:ju-wenjun` | `kt:norway-chess`, `kt:womens-world-chess-championship`, `kt:womens-world-chess-championship`, `kt:world-blitz-championship` |
 | `kt:howard-staunton` | `kt:london-1851`, `kt:london-1851`, `kt:paul-morphy` |
-| `kt:philidor-defence` | `kt:adams-versus-torre-new-orleans-1920`, `kt:opera-game`, `kt:francois-andre-danican-philidor` |
 | `kt:steven-j-edwards` | `kt:extended-position-description`, `kt:forsyth-edwards-notation`, `kt:portable-game-notation` |
 | `kt:albert-zobrist` | `kt:zobrist-hashing`, `kt:zobrist-hashing` |
 | `kt:albin-countergambit` | `kt:queens-gambit`, `kt:underpromotion` |
@@ -115,6 +114,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:glicko-rating-system` | `kt:elo-rating-system` |
 | `kt:good-knight-versus-bad-bishop` | `kt:outpost` |
 | `kt:grand-chess-tour` | `kt:saint-louis-chess-club` |
+| `kt:hanham-variation` | `kt:philidor-defence` |
 | `kt:hans-berliner` | `kt:horizon-effect` |
 | `kt:harry-nelson-pillsbury` | `kt:hastings-1895` |
 | `kt:hikaru-nakamura` | `kt:norway-chess` |
@@ -187,6 +187,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:philipp-stamma` | `kt:algebraic-notation` |
 | `kt:piece-values` | `kt:material-advantage` |
 | `kt:pillsbury-versus-tarrasch-hastings-1895` | `kt:hastings-1895` |
+| `kt:pirc-defence` | `kt:philidor-defence` |
 | `kt:plachutta-theme` | `kt:novotny-theme` |
 | `kt:play-off` | `kt:tie-break` |
 | `kt:poisoned-pawn-variation` | `kt:najdorf-variation` |

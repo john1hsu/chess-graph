@@ -5092,6 +5092,37 @@
 <https://github.com/john1hsu/chess-graph/id/perpetual-check> <https://github.com/john1hsu/chess-graph/ontology#fen> "2k5/pp2n2Q/8/P2p4/6q1/P1p5/2P2PKP/5R2 w - - 1 22" .
 <https://github.com/john1hsu/chess-graph/id/perpetual-check> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/perpetual-check> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-16" .
+<https://github.com/john1hsu/chess-graph/id/philidor-defence> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/chess-graph/id/philidor-defence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Opening> .
+<https://github.com/john1hsu/chess-graph/id/philidor-defence> <http://www.w3.org/2000/01/rdf-schema#label> "Philidor Defence" .
+<https://github.com/john1hsu/chess-graph/id/philidor-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "Modern Philidor" .
+<https://github.com/john1hsu/chess-graph/id/philidor-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "Philidor Defense" .
+<https://github.com/john1hsu/chess-graph/id/philidor-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "Philidor Opening" .
+<https://github.com/john1hsu/chess-graph/id/philidor-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "Philidor's Defence" .
+<https://github.com/john1hsu/chess-graph/id/philidor-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "Philidor's Defense" .
+<https://github.com/john1hsu/chess-graph/id/philidor-defence> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/open-games> .
+<https://github.com/john1hsu/chess-graph/id/philidor-defence> <http://www.w3.org/2004/02/skos/core#definition> "An open game reached by 1.e4 e5 2.Nf3 d6, in which Black supports the e5-pawn with the d-pawn rather than a knight; its modern form is usually entered via 1.e4 d6 2.d4 Nf6 3.Nc3 e5 and aims for a solid, compact pawn structure with later queenside or central counterplay." .
+<https://github.com/john1hsu/chess-graph/id/philidor-defence> <http://www.w3.org/2004/02/skos/core#prefLabel> "Philidor Defence" .
+<https://github.com/john1hsu/chess-graph/id/philidor-defence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> .
+<https://github.com/john1hsu/chess-graph/id/philidor-defence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/pawn-structure> .
+<https://github.com/john1hsu/chess-graph/id/philidor-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s1> .
+<https://github.com/john1hsu/chess-graph/id/philidor-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s2> .
+<https://github.com/john1hsu/chess-graph/id/philidor-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s3> .
+<https://github.com/john1hsu/chess-graph/id/philidor-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s4> .
+<https://github.com/john1hsu/chess-graph/id/philidor-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s5> .
+<https://github.com/john1hsu/chess-graph/id/philidor-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s6> .
+<https://github.com/john1hsu/chess-graph/id/philidor-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s7> .
+<https://github.com/john1hsu/chess-graph/id/philidor-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s8> .
+<https://github.com/john1hsu/chess-graph/id/philidor-defence> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/alexander-alekhine> .
+<https://github.com/john1hsu/chess-graph/id/philidor-defence> <https://github.com/john1hsu/chess-graph/ontology#domain> "openings" .
+<https://github.com/john1hsu/chess-graph/id/philidor-defence> <https://github.com/john1hsu/chess-graph/ontology#eco> "C41" .
+<https://github.com/john1hsu/chess-graph/id/philidor-defence> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/opera-game> .
+<https://github.com/john1hsu/chess-graph/id/philidor-defence> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/hanham-variation> .
+<https://github.com/john1hsu/chess-graph/id/philidor-defence> <https://github.com/john1hsu/chess-graph/ontology#moves> "1.e4 e5 2.Nf3 d6" .
+<https://github.com/john1hsu/chess-graph/id/philidor-defence> <https://github.com/john1hsu/chess-graph/ontology#namedAfter> <https://github.com/john1hsu/chess-graph/id/francois-andre-danican-philidor> .
+<https://github.com/john1hsu/chess-graph/id/philidor-defence> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/philidor-defence> <https://github.com/john1hsu/chess-graph/ontology#transposesTo> <https://github.com/john1hsu/chess-graph/id/pirc-defence> .
+<https://github.com/john1hsu/chess-graph/id/philidor-defence> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-18" .
 <https://github.com/john1hsu/chess-graph/id/philidor-position> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/philidor-position> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#EndgameType> .
 <https://github.com/john1hsu/chess-graph/id/philidor-position> <http://www.w3.org/2000/01/rdf-schema#label> "Philidor position" .
@@ -11353,6 +11384,46 @@
 <https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
 <https://github.com/john1hsu/chess-graph/id/source/perpetual-check/s6> <https://schema.org/url> "https://discmaster.textfiles.com/view/29139/Chess.iso/Chess/PROGRAMS/BOBBY/BOOKS/FISCHER.PGN" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s1> <http://purl.org/dc/terms/publisher> "Sergio Trigo Urquijo, Thinkers Publishing (publisher's product page)" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s1> <http://purl.org/dc/terms/title> "The Modernized Philidor Defense" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s1> <https://schema.org/url> "https://thinkerspublishing.com/?p=3996" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s2> <http://purl.org/dc/terms/publisher> "Sergio Trigo Urquijo, Thinkers Publishing (sample PDF via Boekenbank)" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s2> <http://purl.org/dc/terms/title> "The Modernized Philidor Defense, sample pages" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s2> <https://schema.org/url> "https://api.boekenbank.be/sample_content/9789/464/201/9789464201208.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s3> <http://purl.org/dc/terms/publisher> "Christian Bauer, Everyman Chess (Chess & Bridge product page)" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s3> <http://purl.org/dc/terms/title> "The Philidor Files" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s3> <https://schema.org/url> "https://chess.co.uk/collections/everyman-chess/products/the-philidor-files-christian-bauer" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s4> <http://purl.org/dc/terms/publisher> "Jeremy Silman, JeremySilman.com" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s4> <http://purl.org/dc/terms/title> "Philidor Files, The (book review)" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s4> <https://schema.org/url> "https://www.jeremysilman.com/book-review/philidor-files-the" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s5> <http://purl.org/dc/terms/publisher> "Stephan Oliver Platz, ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s5> <http://purl.org/dc/terms/title> "Alekhine rocks the Philidor Defence" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s5> <https://schema.org/url> "https://en.chessbase.com/post/alekhine-rocks-the-philidor-defence" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s6> <http://purl.org/dc/terms/publisher> "Christian Hoethe, ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s6> <http://purl.org/dc/terms/title> "Review – Christian Bauer's \"The evergreen Philidor\"" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s6> <https://schema.org/url> "https://en.chessbase.com/post/review-christian-bauer-evergreen-philidor" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s7> <http://purl.org/dc/terms/publisher> "365Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s7> <http://purl.org/dc/terms/title> "Philidor's defence (C41)" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s7> <https://schema.org/url> "https://365chess.com/eco/C41_Philidor's_defence" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s8> <http://purl.org/dc/terms/publisher> "Chessgames.com" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s8> <http://purl.org/dc/terms/title> "Paul Morphy vs Duke Karl / Count Isouard, Paris 1858" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s8> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/philidor-defence/s8> <https://schema.org/url> "https://www.chessgames.com/1233404" .
 <https://github.com/john1hsu/chess-graph/id/source/philidor-position/s1> <http://purl.org/dc/terms/publisher> "Chess.com (Chess Terms)" .
 <https://github.com/john1hsu/chess-graph/id/source/philidor-position/s1> <http://purl.org/dc/terms/title> "Philidor Position" .
 <https://github.com/john1hsu/chess-graph/id/source/philidor-position/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

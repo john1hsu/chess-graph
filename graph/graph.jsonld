@@ -12652,6 +12652,115 @@
       ]
     },
     {
+      "@id": "kt:philidor-defence",
+      "@type": "kto:Opening",
+      "skos:prefLabel": "Philidor Defence",
+      "skos:definition": "An open game reached by 1.e4 e5 2.Nf3 d6, in which Black supports the e5-pawn with the d-pawn rather than a knight; its modern form is usually entered via 1.e4 d6 2.d4 Nf6 3.Nc3 e5 and aims for a solid, compact pawn structure with later queenside or central counterplay.",
+      "kto:domain": "openings",
+      "dcterms:created": "2026-11-18",
+      "kto:verified": "2026-11-18",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Modernized Philidor Defense",
+          "dcterms:publisher": "Sergio Trigo Urquijo, Thinkers Publishing (publisher's product page)",
+          "schema:url": "https://thinkerspublishing.com/?p=3996",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The Modernized Philidor Defense, sample pages",
+          "dcterms:publisher": "Sergio Trigo Urquijo, Thinkers Publishing (sample PDF via Boekenbank)",
+          "schema:url": "https://api.boekenbank.be/sample_content/9789/464/201/9789464201208.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The Philidor Files",
+          "dcterms:publisher": "Christian Bauer, Everyman Chess (Chess & Bridge product page)",
+          "schema:url": "https://chess.co.uk/collections/everyman-chess/products/the-philidor-files-christian-bauer",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Philidor Files, The (book review)",
+          "dcterms:publisher": "Jeremy Silman, JeremySilman.com",
+          "schema:url": "https://www.jeremysilman.com/book-review/philidor-files-the",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Alekhine rocks the Philidor Defence",
+          "dcterms:publisher": "Stephan Oliver Platz, ChessBase News",
+          "schema:url": "https://en.chessbase.com/post/alekhine-rocks-the-philidor-defence",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Review – Christian Bauer's \"The evergreen Philidor\"",
+          "dcterms:publisher": "Christian Hoethe, ChessBase News",
+          "schema:url": "https://en.chessbase.com/post/review-christian-bauer-evergreen-philidor",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Philidor's defence (C41)",
+          "dcterms:publisher": "365Chess",
+          "schema:url": "https://365chess.com/eco/C41_Philidor's_defence",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "Paul Morphy vs Duke Karl / Count Isouard, Paris 1858",
+          "dcterms:publisher": "Chessgames.com",
+          "schema:url": "https://www.chessgames.com/1233404",
+          "kto:sourceType": "database"
+        }
+      ],
+      "kto:file": "articles/openings/philidor-defence.md",
+      "skos:altLabel": [
+        "Philidor Defense",
+        "Philidor's Defence",
+        "Philidor's Defense",
+        "Philidor Opening",
+        "Modern Philidor"
+      ],
+      "kto:eco": "C41",
+      "kto:moves": "1.e4 e5 2.Nf3 d6",
+      "skos:broader": [
+        {
+          "@id": "kt:open-games"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:pawn-structure"
+        },
+        {
+          "@id": "kt:aron-nimzowitsch"
+        }
+      ],
+      "kto:namedAfter": [
+        {
+          "@id": "kt:francois-andre-danican-philidor"
+        }
+      ],
+      "kto:leadsTo": [
+        {
+          "@id": "kt:hanham-variation"
+        }
+      ],
+      "kto:transposesTo": [
+        {
+          "@id": "kt:pirc-defence"
+        }
+      ],
+      "kto:championedBy": [
+        {
+          "@id": "kt:alexander-alekhine"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:opera-game"
+        }
+      ]
+    },
+    {
       "@id": "kt:queens-gambit-accepted",
       "@type": "kto:Opening",
       "skos:prefLabel": "Queen's Gambit Accepted",
