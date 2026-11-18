@@ -3213,6 +3213,29 @@
     ]
   },
   {
+    "id": "kt:iccf",
+    "title": "ICCF",
+    "aliases": [
+      "International Correspondence Chess Federation",
+      "Fédération Internationale des Échecs par Correspondance"
+    ],
+    "type": "Organization",
+    "domain": "events-and-organizations",
+    "file": "articles/events-and-organizations/iccf.md",
+    "created": "2026-11-18",
+    "verified": "2026-11-18",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://kszgk.com/wp-content/uploads/2024/08/English-Statutes-01.01.2024.pdf",
+      "https://skscr.cz/wp-content/uploads/2025/01/2025-ICCF-Rules-.pdf",
+      "https://webfiles.iccf.com/other/voting_regulations/ICCF%20Voting%20Regulations%20and%20Electoral%20Procedures%2001%2001%202026.pdf",
+      "https://kszgk.com/iccf/?p=525",
+      "https://ajec-echecs.org/2024/02/08/lhistoire-de-liccf-traduit-par-jean-francois-epinoux/?print=pdf",
+      "https://www.skscr.cz/wp-content/uploads/2025/11/Hlavni-zavery-Kongresu-ICCF-2025.pdf"
+    ]
+  },
+  {
     "id": "kt:illegal-move",
     "title": "Illegal move",
     "aliases": [

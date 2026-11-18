@@ -5697,6 +5697,95 @@
       ]
     },
     {
+      "@id": "kt:iccf",
+      "@type": "kto:Organization",
+      "skos:prefLabel": "ICCF",
+      "skos:definition": "The International Correspondence Chess Federation, the world governing body for correspondence chess: founded in 1951 as the successor of the ICCA (1945) and the IFSB (1928), it writes the playing rules, runs world championships and olympiads, publishes ratings and awards correspondence titles; it is an affiliated member of FIDE.",
+      "kto:domain": "events-and-organizations",
+      "dcterms:created": "2026-11-18",
+      "kto:verified": "2026-11-18",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "ICCF Statutes (English version, valid from 1 January 2024)",
+          "dcterms:publisher": "International Correspondence Chess Federation (copy hosted by the Polish correspondence chess association, kszgk.com)",
+          "schema:url": "https://kszgk.com/wp-content/uploads/2024/08/English-Statutes-01.01.2024.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "ICCF Rules (valid from 1 January 2025)",
+          "dcterms:publisher": "International Correspondence Chess Federation (copy hosted by the Czech correspondence chess association SKSČR)",
+          "schema:url": "https://skscr.cz/wp-content/uploads/2025/01/2025-ICCF-Rules-.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "ICCF Voting Regulations and Electoral Procedures (valid from 1 January 2026)",
+          "dcterms:publisher": "International Correspondence Chess Federation (webfiles.iccf.com)",
+          "schema:url": "https://webfiles.iccf.com/other/voting_regulations/ICCF%20Voting%20Regulations%20and%20Electoral%20Procedures%2001%2001%202026.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "About ICCF",
+          "dcterms:publisher": "Nol van't Riet, updated by Mariusz Wojnar, \"Celebrating 60 years of the ICCF\" (kszgk.com)",
+          "schema:url": "https://kszgk.com/iccf/?p=525",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "L'histoire de l'ICCF (traduit par Jean-François Epinoux)",
+          "dcterms:publisher": "AJEC, the French correspondence chess association (February 2024)",
+          "schema:url": "https://ajec-echecs.org/2024/02/08/lhistoire-de-liccf-traduit-par-jean-francois-epinoux/?print=pdf",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Hlavní závěry Kongresu ICCF 2025 (main conclusions of the 2025 ICCF Congress)",
+          "dcterms:publisher": "SKSČR, Czech correspondence chess association (November 2025)",
+          "schema:url": "https://www.skscr.cz/wp-content/uploads/2025/11/Hlavni-zavery-Kongresu-ICCF-2025.pdf",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/events-and-organizations/iccf.md",
+      "skos:altLabel": [
+        "International Correspondence Chess Federation",
+        "Fédération Internationale des Échecs par Correspondance"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess-organizations"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:correspondence-chess"
+        },
+        {
+          "@id": "kt:chess-titles"
+        },
+        {
+          "@id": "kt:endgame-tablebases"
+        },
+        {
+          "@id": "kt:computer-chess"
+        },
+        {
+          "@id": "kt:world-correspondence-chess-championship"
+        },
+        {
+          "@id": "kt:chess-olympiad"
+        }
+      ],
+      "kto:memberOf": [
+        {
+          "@id": "kt:fide"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        }
+      ]
+    },
+    {
       "@id": "kt:norway-chess",
       "@type": "kto:Event",
       "skos:prefLabel": "Norway Chess",

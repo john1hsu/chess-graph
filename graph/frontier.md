@@ -122,7 +122,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hnefatafl` | `kt:lewis-chessmen` |
 | `kt:horatio-caro` | `kt:caro-kann-defence` |
 | `kt:ian-nepomniachtchi` | `kt:world-blitz-championship` |
-| `kt:iccf` | `kt:correspondence-chess` |
 | `kt:indian-defences` | `kt:nimzo-indian-defence` |
 | `kt:international-correspondence-chess-federation` | `kt:chess-organizations` |
 | `kt:international-master` | `kt:fernand-gobet` |
@@ -267,6 +266,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:world-chess-championship-1951` | `kt:david-bronstein` |
 | `kt:world-chess-championship-2000` | `kt:berlin-defence` |
 | `kt:world-chess-championship-2018` | `kt:sveshnikov-variation` |
+| `kt:world-correspondence-chess-championship` | `kt:iccf` |
 | `kt:world-xiangqi-federation` | `kt:xiangqi` |
 | `kt:yu-nasu` | `kt:nnue` |
 | `kt:yugoslav-attack` | `kt:dragon-variation` |

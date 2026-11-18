@@ -3612,6 +3612,31 @@
 <https://github.com/john1hsu/chess-graph/id/hypermodernism> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/reti-opening> .
 <https://github.com/john1hsu/chess-graph/id/hypermodernism> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/hypermodernism> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/iccf> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/chess-graph/id/iccf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Organization> .
+<https://github.com/john1hsu/chess-graph/id/iccf> <http://www.w3.org/2000/01/rdf-schema#label> "ICCF" .
+<https://github.com/john1hsu/chess-graph/id/iccf> <http://www.w3.org/2004/02/skos/core#altLabel> "Fédération Internationale des Échecs par Correspondance" .
+<https://github.com/john1hsu/chess-graph/id/iccf> <http://www.w3.org/2004/02/skos/core#altLabel> "International Correspondence Chess Federation" .
+<https://github.com/john1hsu/chess-graph/id/iccf> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-organizations> .
+<https://github.com/john1hsu/chess-graph/id/iccf> <http://www.w3.org/2004/02/skos/core#definition> "The International Correspondence Chess Federation, the world governing body for correspondence chess: founded in 1951 as the successor of the ICCA (1945) and the IFSB (1928), it writes the playing rules, runs world championships and olympiads, publishes ratings and awards correspondence titles; it is an affiliated member of FIDE." .
+<https://github.com/john1hsu/chess-graph/id/iccf> <http://www.w3.org/2004/02/skos/core#prefLabel> "ICCF" .
+<https://github.com/john1hsu/chess-graph/id/iccf> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-olympiad> .
+<https://github.com/john1hsu/chess-graph/id/iccf> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-titles> .
+<https://github.com/john1hsu/chess-graph/id/iccf> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/computer-chess> .
+<https://github.com/john1hsu/chess-graph/id/iccf> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/correspondence-chess> .
+<https://github.com/john1hsu/chess-graph/id/iccf> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/endgame-tablebases> .
+<https://github.com/john1hsu/chess-graph/id/iccf> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/world-correspondence-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/iccf> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/iccf/s1> .
+<https://github.com/john1hsu/chess-graph/id/iccf> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/iccf/s2> .
+<https://github.com/john1hsu/chess-graph/id/iccf> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/iccf/s3> .
+<https://github.com/john1hsu/chess-graph/id/iccf> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/iccf/s4> .
+<https://github.com/john1hsu/chess-graph/id/iccf> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/iccf/s5> .
+<https://github.com/john1hsu/chess-graph/id/iccf> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/iccf/s6> .
+<https://github.com/john1hsu/chess-graph/id/iccf> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/fide-laws-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/iccf> <https://github.com/john1hsu/chess-graph/ontology#domain> "events-and-organizations" .
+<https://github.com/john1hsu/chess-graph/id/iccf> <https://github.com/john1hsu/chess-graph/ontology#memberOf> <https://github.com/john1hsu/chess-graph/id/fide> .
+<https://github.com/john1hsu/chess-graph/id/iccf> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/iccf> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-18" .
 <https://github.com/john1hsu/chess-graph/id/illegal-move> <http://purl.org/dc/terms/created> "2026-11-17" .
 <https://github.com/john1hsu/chess-graph/id/illegal-move> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Rule> .
 <https://github.com/john1hsu/chess-graph/id/illegal-move> <http://www.w3.org/2000/01/rdf-schema#label> "Illegal move" .
@@ -10014,6 +10039,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s6> <https://schema.org/url> "https://spectator.com/article/hypermodern/" .
+<https://github.com/john1hsu/chess-graph/id/source/iccf/s1> <http://purl.org/dc/terms/publisher> "International Correspondence Chess Federation (copy hosted by the Polish correspondence chess association, kszgk.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/iccf/s1> <http://purl.org/dc/terms/title> "ICCF Statutes (English version, valid from 1 January 2024)" .
+<https://github.com/john1hsu/chess-graph/id/source/iccf/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/iccf/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/iccf/s1> <https://schema.org/url> "https://kszgk.com/wp-content/uploads/2024/08/English-Statutes-01.01.2024.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/iccf/s2> <http://purl.org/dc/terms/publisher> "International Correspondence Chess Federation (copy hosted by the Czech correspondence chess association SKSČR)" .
+<https://github.com/john1hsu/chess-graph/id/source/iccf/s2> <http://purl.org/dc/terms/title> "ICCF Rules (valid from 1 January 2025)" .
+<https://github.com/john1hsu/chess-graph/id/source/iccf/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/iccf/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/iccf/s2> <https://schema.org/url> "https://skscr.cz/wp-content/uploads/2025/01/2025-ICCF-Rules-.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/iccf/s3> <http://purl.org/dc/terms/publisher> "International Correspondence Chess Federation (webfiles.iccf.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/iccf/s3> <http://purl.org/dc/terms/title> "ICCF Voting Regulations and Electoral Procedures (valid from 1 January 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/iccf/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/iccf/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/iccf/s3> <https://schema.org/url> "https://webfiles.iccf.com/other/voting_regulations/ICCF%20Voting%20Regulations%20and%20Electoral%20Procedures%2001%2001%202026.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/iccf/s4> <http://purl.org/dc/terms/publisher> "Nol van't Riet, updated by Mariusz Wojnar, \"Celebrating 60 years of the ICCF\" (kszgk.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/iccf/s4> <http://purl.org/dc/terms/title> "About ICCF" .
+<https://github.com/john1hsu/chess-graph/id/source/iccf/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/iccf/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/iccf/s4> <https://schema.org/url> "https://kszgk.com/iccf/?p=525" .
+<https://github.com/john1hsu/chess-graph/id/source/iccf/s5> <http://purl.org/dc/terms/publisher> "AJEC, the French correspondence chess association (February 2024)" .
+<https://github.com/john1hsu/chess-graph/id/source/iccf/s5> <http://purl.org/dc/terms/title> "L'histoire de l'ICCF (traduit par Jean-François Epinoux)" .
+<https://github.com/john1hsu/chess-graph/id/source/iccf/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/iccf/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/iccf/s5> <https://schema.org/url> "https://ajec-echecs.org/2024/02/08/lhistoire-de-liccf-traduit-par-jean-francois-epinoux/?print=pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/iccf/s6> <http://purl.org/dc/terms/publisher> "SKSČR, Czech correspondence chess association (November 2025)" .
+<https://github.com/john1hsu/chess-graph/id/source/iccf/s6> <http://purl.org/dc/terms/title> "Hlavní závěry Kongresu ICCF 2025 (main conclusions of the 2025 ICCF Congress)" .
+<https://github.com/john1hsu/chess-graph/id/source/iccf/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/iccf/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/iccf/s6> <https://schema.org/url> "https://www.skscr.cz/wp-content/uploads/2025/11/Hlavni-zavery-Kongresu-ICCF-2025.pdf" .
 <https://github.com/john1hsu/chess-graph/id/source/illegal-move/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
 <https://github.com/john1hsu/chess-graph/id/source/illegal-move/s1> <http://purl.org/dc/terms/title> "Article 7: Irregularities" .
 <https://github.com/john1hsu/chess-graph/id/source/illegal-move/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
