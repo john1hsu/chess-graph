@@ -10880,6 +10880,112 @@
       ]
     },
     {
+      "@id": "kt:berlin-defence",
+      "@type": "kto:Variation",
+      "skos:prefLabel": "Berlin Defence",
+      "skos:definition": "The reply 3...Nf6 to the Ruy Lopez (1.e4 e5 2.Nf3 Nc6 3.Bb5), in which Black counterattacks e4 instead of first chasing the bishop; its main line leads to an early queen exchange, the \"Berlin Wall\" endgame, which Vladimir Kramnik used to beat Garry Kasparov in 2000.",
+      "kto:domain": "openings",
+      "dcterms:created": "2026-11-18",
+      "kto:verified": "2026-11-18",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Grandmaster Repertoire – The Berlin Defence",
+          "dcterms:publisher": "Michael Roiz, Quality Chess (2021), New In Chess product page",
+          "schema:url": "https://www.newinchess.com/grandmaster-repertoire-the-berlin-defence",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Grandmaster Repertoire – The Berlin Defence (sample pages)",
+          "dcterms:publisher": "Michael Roiz, Quality Chess (2021), publisher sample PDF hosted by New In Chess",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/8465.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The Berlin Wall (excerpt)",
+          "dcterms:publisher": "John Cox, Quality Chess (2008), publisher excerpt PDF",
+          "schema:url": "https://qualitychess.co.uk/wp-content/uploads/2024/02/TheBerlinWallInternetexcerpt.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The Berlin Defence",
+          "dcterms:publisher": "Edward Winter, Chess Notes",
+          "schema:url": "https://chesshistory.com/winter/extra/berlin.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "The Berlin Wall (book review)",
+          "dcterms:publisher": "John Donaldson, Jeremy Silman's website",
+          "schema:url": "https://www.jeremysilman.com/book-review/berlin-wall-the/",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "C67: Ruy Lopez, Berlin defence, open variation",
+          "dcterms:publisher": "365Chess.com",
+          "schema:url": "https://www.365chess.com/eco/C67_Ruy_Lopez_Berlin_defence_open_variation",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "Ruy Lopez, Berlin Defense (C65)",
+          "dcterms:publisher": "Chessgames.com",
+          "schema:url": "https://www.chessgames.com/perl/chessopening?eco=C65",
+          "kto:sourceType": "database"
+        }
+      ],
+      "kto:file": "articles/openings/berlin-defence.md",
+      "skos:altLabel": [
+        "Berlin Defense",
+        "Berlin Wall",
+        "Berlin Endgame",
+        "Berlin Variation",
+        "Ruy Lopez Berlin Defence",
+        "Ruy Lopez Berlin Defense",
+        "Spanish Berlin"
+      ],
+      "kto:eco": "C65-C67",
+      "kto:moves": "1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6",
+      "skos:broader": [
+        {
+          "@id": "kt:ruy-lopez"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:bishop-pair"
+        },
+        {
+          "@id": "kt:pawn-structure"
+        },
+        {
+          "@id": "kt:chess-endgame"
+        },
+        {
+          "@id": "kt:open-ruy-lopez"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:marshall-attack"
+        }
+      ],
+      "kto:championedBy": [
+        {
+          "@id": "kt:vladimir-kramnik"
+        }
+      ],
+      "kto:playedIn": [
+        {
+          "@id": "kt:world-chess-championship-2000"
+        }
+      ],
+      "kto:transposesTo": [
+        {
+          "@id": "kt:four-knights-game"
+        }
+      ]
+    },
+    {
       "@id": "kt:caro-kann-defence",
       "@type": "kto:Opening",
       "skos:prefLabel": "Caro-Kann Defence",

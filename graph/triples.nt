@@ -637,6 +637,39 @@
 <https://github.com/john1hsu/chess-graph/id/battery> <https://github.com/john1hsu/chess-graph/ontology#fen> "5rk1/ppp2ppp/8/8/8/3Q4/PP3PPP/1B4K1 w - - 0 1" .
 <https://github.com/john1hsu/chess-graph/id/battery> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/battery> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-16" .
+<https://github.com/john1hsu/chess-graph/id/berlin-defence> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/chess-graph/id/berlin-defence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Variation> .
+<https://github.com/john1hsu/chess-graph/id/berlin-defence> <http://www.w3.org/2000/01/rdf-schema#label> "Berlin Defence" .
+<https://github.com/john1hsu/chess-graph/id/berlin-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "Berlin Defense" .
+<https://github.com/john1hsu/chess-graph/id/berlin-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "Berlin Endgame" .
+<https://github.com/john1hsu/chess-graph/id/berlin-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "Berlin Variation" .
+<https://github.com/john1hsu/chess-graph/id/berlin-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "Berlin Wall" .
+<https://github.com/john1hsu/chess-graph/id/berlin-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "Ruy Lopez Berlin Defence" .
+<https://github.com/john1hsu/chess-graph/id/berlin-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "Ruy Lopez Berlin Defense" .
+<https://github.com/john1hsu/chess-graph/id/berlin-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "Spanish Berlin" .
+<https://github.com/john1hsu/chess-graph/id/berlin-defence> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/ruy-lopez> .
+<https://github.com/john1hsu/chess-graph/id/berlin-defence> <http://www.w3.org/2004/02/skos/core#definition> "The reply 3...Nf6 to the Ruy Lopez (1.e4 e5 2.Nf3 Nc6 3.Bb5), in which Black counterattacks e4 instead of first chasing the bishop; its main line leads to an early queen exchange, the \"Berlin Wall\" endgame, which Vladimir Kramnik used to beat Garry Kasparov in 2000." .
+<https://github.com/john1hsu/chess-graph/id/berlin-defence> <http://www.w3.org/2004/02/skos/core#prefLabel> "Berlin Defence" .
+<https://github.com/john1hsu/chess-graph/id/berlin-defence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/bishop-pair> .
+<https://github.com/john1hsu/chess-graph/id/berlin-defence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-endgame> .
+<https://github.com/john1hsu/chess-graph/id/berlin-defence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/open-ruy-lopez> .
+<https://github.com/john1hsu/chess-graph/id/berlin-defence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/pawn-structure> .
+<https://github.com/john1hsu/chess-graph/id/berlin-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s1> .
+<https://github.com/john1hsu/chess-graph/id/berlin-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s2> .
+<https://github.com/john1hsu/chess-graph/id/berlin-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s3> .
+<https://github.com/john1hsu/chess-graph/id/berlin-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s4> .
+<https://github.com/john1hsu/chess-graph/id/berlin-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s5> .
+<https://github.com/john1hsu/chess-graph/id/berlin-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s6> .
+<https://github.com/john1hsu/chess-graph/id/berlin-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s7> .
+<https://github.com/john1hsu/chess-graph/id/berlin-defence> <https://github.com/john1hsu/chess-graph/ontology#alternativeTo> <https://github.com/john1hsu/chess-graph/id/marshall-attack> .
+<https://github.com/john1hsu/chess-graph/id/berlin-defence> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/vladimir-kramnik> .
+<https://github.com/john1hsu/chess-graph/id/berlin-defence> <https://github.com/john1hsu/chess-graph/ontology#domain> "openings" .
+<https://github.com/john1hsu/chess-graph/id/berlin-defence> <https://github.com/john1hsu/chess-graph/ontology#eco> "C65-C67" .
+<https://github.com/john1hsu/chess-graph/id/berlin-defence> <https://github.com/john1hsu/chess-graph/ontology#moves> "1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6" .
+<https://github.com/john1hsu/chess-graph/id/berlin-defence> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/world-chess-championship-2000> .
+<https://github.com/john1hsu/chess-graph/id/berlin-defence> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/berlin-defence> <https://github.com/john1hsu/chess-graph/ontology#transposesTo> <https://github.com/john1hsu/chess-graph/id/four-knights-game> .
+<https://github.com/john1hsu/chess-graph/id/berlin-defence> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-18" .
 <https://github.com/john1hsu/chess-graph/id/bishop-and-knight-checkmate> <http://purl.org/dc/terms/created> "2026-11-17" .
 <https://github.com/john1hsu/chess-graph/id/bishop-and-knight-checkmate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#EndgameType> .
 <https://github.com/john1hsu/chess-graph/id/bishop-and-knight-checkmate> <http://www.w3.org/2000/01/rdf-schema#label> "Bishop and knight checkmate" .
@@ -6512,6 +6545,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/battery/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/battery/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/battery/s6> <https://schema.org/url> "https://www.ozproblems.com/problem-world/battery-play" .
+<https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s1> <http://purl.org/dc/terms/publisher> "Michael Roiz, Quality Chess (2021), New In Chess product page" .
+<https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s1> <http://purl.org/dc/terms/title> "Grandmaster Repertoire – The Berlin Defence" .
+<https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s1> <https://schema.org/url> "https://www.newinchess.com/grandmaster-repertoire-the-berlin-defence" .
+<https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s2> <http://purl.org/dc/terms/publisher> "Michael Roiz, Quality Chess (2021), publisher sample PDF hosted by New In Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s2> <http://purl.org/dc/terms/title> "Grandmaster Repertoire – The Berlin Defence (sample pages)" .
+<https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s2> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/8465.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s3> <http://purl.org/dc/terms/publisher> "John Cox, Quality Chess (2008), publisher excerpt PDF" .
+<https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s3> <http://purl.org/dc/terms/title> "The Berlin Wall (excerpt)" .
+<https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s3> <https://schema.org/url> "https://qualitychess.co.uk/wp-content/uploads/2024/02/TheBerlinWallInternetexcerpt.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s4> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes" .
+<https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s4> <http://purl.org/dc/terms/title> "The Berlin Defence" .
+<https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s4> <https://schema.org/url> "https://chesshistory.com/winter/extra/berlin.html" .
+<https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s5> <http://purl.org/dc/terms/publisher> "John Donaldson, Jeremy Silman's website" .
+<https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s5> <http://purl.org/dc/terms/title> "The Berlin Wall (book review)" .
+<https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s5> <https://schema.org/url> "https://www.jeremysilman.com/book-review/berlin-wall-the/" .
+<https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s6> <http://purl.org/dc/terms/publisher> "365Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s6> <http://purl.org/dc/terms/title> "C67: Ruy Lopez, Berlin defence, open variation" .
+<https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s6> <https://schema.org/url> "https://www.365chess.com/eco/C67_Ruy_Lopez_Berlin_defence_open_variation" .
+<https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s7> <http://purl.org/dc/terms/publisher> "Chessgames.com" .
+<https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s7> <http://purl.org/dc/terms/title> "Ruy Lopez, Berlin Defense (C65)" .
+<https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/berlin-defence/s7> <https://schema.org/url> "https://www.chessgames.com/perl/chessopening?eco=C65" .
 <https://github.com/john1hsu/chess-graph/id/source/bishop-and-knight-checkmate/s1> <http://purl.org/dc/terms/publisher> "José Raúl Capablanca; Project Gutenberg" .
 <https://github.com/john1hsu/chess-graph/id/source/bishop-and-knight-checkmate/s1> <http://purl.org/dc/terms/title> "Chess Fundamentals (1921), Project Gutenberg eBook #33870" .
 <https://github.com/john1hsu/chess-graph/id/source/bishop-and-knight-checkmate/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

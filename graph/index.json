@@ -560,6 +560,36 @@
     ]
   },
   {
+    "id": "kt:berlin-defence",
+    "title": "Berlin Defence",
+    "aliases": [
+      "Berlin Defense",
+      "Berlin Wall",
+      "Berlin Endgame",
+      "Berlin Variation",
+      "Ruy Lopez Berlin Defence",
+      "Ruy Lopez Berlin Defense",
+      "Spanish Berlin"
+    ],
+    "type": "Variation",
+    "domain": "openings",
+    "file": "articles/openings/berlin-defence.md",
+    "created": "2026-11-18",
+    "verified": "2026-11-18",
+    "volatile": false,
+    "status": "current",
+    "eco": "C65-C67",
+    "source_urls": [
+      "https://www.newinchess.com/grandmaster-repertoire-the-berlin-defence",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/8465.pdf",
+      "https://qualitychess.co.uk/wp-content/uploads/2024/02/TheBerlinWallInternetexcerpt.pdf",
+      "https://chesshistory.com/winter/extra/berlin.html",
+      "https://www.jeremysilman.com/book-review/berlin-wall-the/",
+      "https://www.365chess.com/eco/C67_Ruy_Lopez_Berlin_defence_open_variation",
+      "https://www.chessgames.com/perl/chessopening?eco=C65"
+    ]
+  },
+  {
     "id": "kt:bishop-and-knight-checkmate",
     "title": "Bishop and knight checkmate",
     "aliases": [

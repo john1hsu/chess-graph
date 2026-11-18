@@ -6,7 +6,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:alexander-alekhine`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:boris-spassky`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:magnus-carlsen`, `kt:mikhail-botvinnik`, `kt:mikhail-tal`, `kt:tigran-petrosian`, `kt:viswanathan-anand`, `kt:vladimir-kramnik`, `kt:wilhelm-steinitz` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:the-turk`, `kt:herbert-simon` |
-| `kt:berlin-defence` | `kt:alphazero`, `kt:ruy-lopez`, `kt:vladimir-kramnik` |
 | `kt:david-bronstein` | `kt:kings-gambit`, `kt:bronstein-delay`, `kt:bronstein-delay` |
 | `kt:howard-staunton` | `kt:london-1851`, `kt:london-1851`, `kt:paul-morphy` |
 | `kt:ju-wenjun` | `kt:womens-world-chess-championship`, `kt:womens-world-chess-championship`, `kt:world-blitz-championship` |
@@ -21,10 +20,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:lionel-kieseritzky` | `kt:immortal-game`, `kt:london-1851` |
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position`, `kt:smothered-mate` |
 | `kt:marmaduke-wyvill` | `kt:london-1851`, `kt:london-1883` |
+| `kt:marshall-attack` | `kt:berlin-defence`, `kt:ruy-lopez` |
 | `kt:max-euwe` | `kt:slav-defence`, `kt:alexander-alekhine` |
 | `kt:merim-bilalic` | `kt:abraham-luchins`, `kt:einstellung-effect` |
 | `kt:miguel-najdorf` | `kt:najdorf-variation`, `kt:blindfold-chess` |
 | `kt:numeric-annotation-glyphs` | `kt:portable-game-notation`, `kt:annotating-your-games` |
+| `kt:open-ruy-lopez` | `kt:berlin-defence`, `kt:ruy-lopez` |
 | `kt:origins-of-chess` | `kt:chaturanga`, `kt:history-of-chess` |
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
 | `kt:reshevsky-versus-petrosian-zurich-1953` | `kt:exchange-sacrifice`, `kt:sacrifice` |
@@ -105,6 +106,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fischer-versus-tal-leipzig-1960` | `kt:perpetual-check` |
 | `kt:flank-openings` | `kt:chess-openings` |
 | `kt:four-handed-chaturanga` | `kt:chaturanga` |
+| `kt:four-knights-game` | `kt:berlin-defence` |
 | `kt:four-pawns-attack` | `kt:alekhines-defence` |
 | `kt:francois-antoine-de-legal` | `kt:francois-andre-danican-philidor` |
 | `kt:frank-marshall` | `kt:us-chess-championship` |
@@ -162,7 +164,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:marco-costalba` | `kt:stockfish` |
 | `kt:marcus-kann` | `kt:caro-kann-defence` |
 | `kt:maroczy-bind` | `kt:space-advantage` |
-| `kt:marshall-attack` | `kt:ruy-lopez` |
 | `kt:max-lange` | `kt:helpmate` |
 | `kt:max-wertheimer` | `kt:abraham-luchins` |
 | `kt:mitrofanov-study-1967` | `kt:deflection` |
@@ -172,7 +173,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mvv-lva` | `kt:move-ordering` |
 | `kt:negamax` | `kt:minimax` |
 | `kt:nodirbek-abdusattorov` | `kt:tata-steel-chess-tournament` |
-| `kt:open-ruy-lopez` | `kt:ruy-lopez` |
 | `kt:opening-surprise` | `kt:opening-repertoire` |
 | `kt:otto-selz` | `kt:adriaan-de-groot` |
 | `kt:panov-botvinnik-attack` | `kt:caro-kann-defence` |
@@ -251,6 +251,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:world-chess-championship-1921` | `kt:jose-raul-capablanca` |
 | `kt:world-chess-championship-1935` | `kt:alexander-alekhine` |
 | `kt:world-chess-championship-1937` | `kt:alexander-alekhine` |
+| `kt:world-chess-championship-2000` | `kt:berlin-defence` |
 | `kt:world-chess-championship-2018` | `kt:sveshnikov-variation` |
 | `kt:world-chess-hall-of-fame` | `kt:saint-louis-chess-club` |
 | `kt:world-xiangqi-federation` | `kt:xiangqi` |
