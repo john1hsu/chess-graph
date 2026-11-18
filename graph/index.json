@@ -98,6 +98,35 @@
     ]
   },
   {
+    "id": "kt:albin-countergambit",
+    "title": "Albin Countergambit",
+    "aliases": [
+      "Albin Counter-Gambit",
+      "Albin Counter Gambit",
+      "Albin Gambit",
+      "Queen's Gambit Declined Albin Countergambit"
+    ],
+    "type": "Variation",
+    "domain": "openings",
+    "file": "articles/openings/albin-countergambit.md",
+    "created": "2026-11-18",
+    "verified": "2026-11-18",
+    "volatile": false,
+    "status": "current",
+    "eco": "D08-D09",
+    "source_urls": [
+      "https://newinchess.com/the-complete-albin-counter-gambit",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/7285.pdf",
+      "https://chessarch.com/archive/0015_albin/albin.shtml",
+      "https://www.chabris.com/pub/acj/extra/Elkies/Elkies06.html",
+      "https://theweekinchess.com/john-watson-reviews/opening-books-en-masse-part2",
+      "https://en.chessbase.com/post/adolf-albin-nothing-wrong-with-a-gambit",
+      "https://www.chess.com/article/view/a-tactical-gambit-for-all-tastes",
+      "https://chessgames.com/perl/chessopening?eco=D08",
+      "https://www.chessgames.com/perl/chessopening?eco=D09"
+    ]
+  },
+  {
     "id": "kt:alekhine-versus-nimzowitsch-san-remo-1930",
     "title": "Alekhine versus Nimzowitsch, San Remo 1930",
     "aliases": [

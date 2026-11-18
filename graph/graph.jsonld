@@ -11506,6 +11506,116 @@
       ]
     },
     {
+      "@id": "kt:albin-countergambit",
+      "@type": "kto:Variation",
+      "skos:prefLabel": "Albin Countergambit",
+      "skos:definition": "A sharp reply to the Queen's Gambit, 1.d4 d5 2.c4 e5, in which Black offers the e-pawn so that after 3.dxe5 d4 a cramping pawn on d4 and quick piece play give compensation; named after Adolf Albin, who used it against Emanuel Lasker in New York in 1893.",
+      "kto:domain": "openings",
+      "dcterms:created": "2026-11-18",
+      "kto:verified": "2026-11-18",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Complete Albin Counter-Gambit: A Dangerous Weapon against the Queen's Gambit",
+          "dcterms:publisher": "Luc Henris, Maison des échecs (2013), New In Chess product page",
+          "schema:url": "https://newinchess.com/the-complete-albin-counter-gambit",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The Complete Albin Counter-Gambit (sample pages: contents and games)",
+          "dcterms:publisher": "Luc Henris, New In Chess product sample PDF",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/7285.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Adolf Albin: The Teacher of Nimzovich?",
+          "dcterms:publisher": "Tomasz Lissowski, Chess Archaeology (Jacques N. Pope)",
+          "schema:url": "https://chessarch.com/archive/0015_albin/albin.shtml",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Endgame Explorations 6: Underpromotion (Part 1)",
+          "dcterms:publisher": "Noam Elkies, Chess Horizons, reprinted at chabris.com",
+          "schema:url": "https://www.chabris.com/pub/acj/extra/Elkies/Elkies06.html",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Opening Books en Masse Part 2",
+          "dcterms:publisher": "IM John Watson, The Week in Chess (12 February 2009)",
+          "schema:url": "https://theweekinchess.com/john-watson-reviews/opening-books-en-masse-part2",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Adolf Albin: Nothing wrong with a gambit",
+          "dcterms:publisher": "Johannes Fischer, ChessBase News (14 September 2018)",
+          "schema:url": "https://en.chessbase.com/post/adolf-albin-nothing-wrong-with-a-gambit",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "A tactical gambit for all tastes",
+          "dcterms:publisher": "Dario Mione, Chess.com",
+          "schema:url": "https://www.chess.com/article/view/a-tactical-gambit-for-all-tastes",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Queen's Gambit Declined, Albin Counter Gambit (D08)",
+          "dcterms:publisher": "Chessgames.com",
+          "schema:url": "https://chessgames.com/perl/chessopening?eco=D08",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "Queen's Gambit Declined, Albin Counter Gambit, 5.g3 (D09)",
+          "dcterms:publisher": "Chessgames.com",
+          "schema:url": "https://www.chessgames.com/perl/chessopening?eco=D09",
+          "kto:sourceType": "database"
+        }
+      ],
+      "kto:file": "articles/openings/albin-countergambit.md",
+      "skos:altLabel": [
+        "Albin Counter-Gambit",
+        "Albin Counter Gambit",
+        "Albin Gambit",
+        "Queen's Gambit Declined Albin Countergambit"
+      ],
+      "kto:eco": "D08-D09",
+      "kto:moves": "1.d4 d5 2.c4 e5",
+      "skos:broader": [
+        {
+          "@id": "kt:queens-gambit"
+        },
+        {
+          "@id": "kt:gambit"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:emanuel-lasker"
+        },
+        {
+          "@id": "kt:underpromotion"
+        }
+      ],
+      "kto:namedAfter": [
+        {
+          "@id": "kt:adolf-albin"
+        }
+      ],
+      "kto:championedBy": [
+        {
+          "@id": "kt:alexander-morozevich"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:queens-gambit-declined"
+        },
+        {
+          "@id": "kt:chigorin-defence"
+        }
+      ]
+    },
+    {
       "@id": "kt:alekhines-defence",
       "@type": "kto:Opening",
       "skos:prefLabel": "Alekhine's Defence",

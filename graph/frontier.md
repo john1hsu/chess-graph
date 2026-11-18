@@ -9,10 +9,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:howard-staunton` | `kt:london-1851`, `kt:london-1851`, `kt:paul-morphy` |
 | `kt:joseph-henry-blackburne` | `kt:london-1883`, `kt:zukertort-versus-blackburne-london-1883`, `kt:johannes-zukertort` |
 | `kt:albert-zobrist` | `kt:zobrist-hashing`, `kt:zobrist-hashing` |
-| `kt:albin-countergambit` | `kt:queens-gambit`, `kt:underpromotion` |
 | `kt:alexander-kotov` | `kt:calculation`, `kt:candidate-moves` |
 | `kt:bratko-kopec-test` | `kt:extended-position-description`, `kt:steven-j-edwards` |
 | `kt:carlsen-versus-anand-sochi-2014-game-6` | `kt:magnus-carlsen`, `kt:zwischenzug` |
+| `kt:chigorin-defence` | `kt:albin-countergambit`, `kt:mikhail-chigorin` |
 | `kt:counting-in-pawn-races` | `kt:queen-versus-pawn`, `kt:rule-of-the-square` |
 | `kt:david-forsyth` | `kt:forsyth-edwards-notation`, `kt:steven-j-edwards` |
 | `kt:deep-blue` | `kt:singular-extensions`, `kt:deep-blue-versus-kasparov` |
@@ -37,6 +37,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:scout-algorithm` | `kt:principal-variation-search`, `kt:principal-variation-search` |
 | `kt:world-chess-hall-of-fame` | `kt:saint-louis-chess-club`, `kt:sam-loyd` |
 | `kt:abstract-strategy-game` | `kt:chess` |
+| `kt:adolf-albin` | `kt:albin-countergambit` |
+| `kt:alexander-morozevich` | `kt:albin-countergambit` |
 | `kt:allen-newell` | `kt:herbert-simon` |
 | `kt:antonin-novotny` | `kt:novotny-theme` |
 | `kt:armageddon` | `kt:norway-chess` |
@@ -65,7 +67,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
 | `kt:chess-set` | `kt:lewis-chessmen` |
 | `kt:chessdom` | `kt:top-chess-engine-championship` |
-| `kt:chigorin-defence` | `kt:mikhail-chigorin` |
 | `kt:chrest` | `kt:template-theory` |
 | `kt:club-argentino-de-ajedrez` | `kt:world-chess-championship-1927` |
 | `kt:cognitive-science` | `kt:cognitive-psychology-of-chess` |
