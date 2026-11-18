@@ -5473,6 +5473,28 @@
     ]
   },
   {
+    "id": "kt:singular-extensions",
+    "title": "Singular extensions",
+    "aliases": [
+      "Singular extension",
+      "SE",
+      "Singular extension search"
+    ],
+    "type": "Algorithm",
+    "domain": "computer-chess",
+    "file": "articles/computer-chess/singular-extensions.md",
+    "created": "2026-11-18",
+    "verified": "2026-11-18",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.cefns.nau.edu/~edo/Classes/CS470-570_WWW/Readings/Campbell2002.pdf",
+      "https://webdocs.cs.ualberta.ca/~tony/RecentPapers/01-Marsland-8b.pdf",
+      "https://webdocs.cs.ualberta.ca/~tony/RecentPapers/encyc.mac-1991.pdf",
+      "https://www.chessprogramming.org:443/Singular_Extensions"
+    ]
+  },
+  {
     "id": "kt:skewer",
     "title": "Skewer",
     "aliases": [

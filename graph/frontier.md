@@ -15,6 +15,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:bratko-kopec-test` | `kt:extended-position-description`, `kt:steven-j-edwards` |
 | `kt:carlsen-versus-anand-sochi-2014-game-6` | `kt:magnus-carlsen`, `kt:zwischenzug` |
 | `kt:david-forsyth` | `kt:forsyth-edwards-notation`, `kt:steven-j-edwards` |
+| `kt:deep-blue` | `kt:singular-extensions`, `kt:deep-blue-versus-kasparov` |
 | `kt:domination` | `kt:knight-versus-bishop`, `kt:trapped-piece` |
 | `kt:karpov-versus-unzicker-nice-1974` | `kt:prophylaxis`, `kt:anatoly-karpov` |
 | `kt:kings-indian-defence` | `kt:soviet-chess-school`, `kt:david-bronstein` |
@@ -33,7 +34,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:zugzwang`, `kt:aron-nimzowitsch` |
 | `kt:san-remo-1930` | `kt:alekhine-versus-nimzowitsch-san-remo-1930`, `kt:alexander-alekhine` |
 | `kt:scout-algorithm` | `kt:principal-variation-search`, `kt:principal-variation-search` |
-| `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
 | `kt:world-chess-hall-of-fame` | `kt:saint-louis-chess-club`, `kt:sam-loyd` |
 | `kt:abstract-strategy-game` | `kt:chess` |
 | `kt:allen-newell` | `kt:herbert-simon` |
@@ -73,7 +73,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:curt-von-bardeleben` | `kt:steinitz-von-bardeleben-hastings-1895` |
 | `kt:danish-gambit` | `kt:gambit` |
 | `kt:david-slate` | `kt:aspiration-window` |
-| `kt:deep-blue` | `kt:deep-blue-versus-kasparov` |
 | `kt:deepmind` | `kt:alphazero` |
 | `kt:ding-liren` | `kt:gukesh-dommaraju` |
 | `kt:ding-versus-gukesh-singapore-2024-game-14` | `kt:gukesh-dommaraju` |
@@ -90,6 +89,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fail-soft-alpha-beta` | `kt:aspiration-window` |
 | `kt:falkbeer-countergambit` | `kt:kings-gambit` |
 | `kt:federation-of-european-shogi-associations` | `kt:shogi` |
+| `kt:feng-hsiung-hsu` | `kt:singular-extensions` |
 | `kt:fernando-saavedra` | `kt:saavedra-position` |
 | `kt:fide-ethics-and-disciplinary-code` | `kt:fair-play-regulations` |
 | `kt:fide-handbook` | `kt:fair-play-regulations` |
@@ -171,6 +171,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:modena-school` | `kt:romantic-era` |
 | `kt:move-generation` | `kt:bitboards` |
 | `kt:mtd-f` | `kt:aspiration-window` |
+| `kt:multi-cut-pruning` | `kt:singular-extensions` |
 | `kt:mvv-lva` | `kt:move-ordering` |
 | `kt:nalimov-tablebases` | `kt:steven-j-edwards` |
 | `kt:negamax` | `kt:minimax` |

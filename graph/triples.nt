@@ -6135,6 +6135,33 @@
 <https://github.com/john1hsu/chess-graph/id/simplification> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/king-and-pawn-endgames> .
 <https://github.com/john1hsu/chess-graph/id/simplification> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/simplification> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-18" .
+<https://github.com/john1hsu/chess-graph/id/singular-extensions> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/chess-graph/id/singular-extensions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Algorithm> .
+<https://github.com/john1hsu/chess-graph/id/singular-extensions> <http://www.w3.org/2000/01/rdf-schema#label> "Singular extensions" .
+<https://github.com/john1hsu/chess-graph/id/singular-extensions> <http://www.w3.org/2004/02/skos/core#altLabel> "SE" .
+<https://github.com/john1hsu/chess-graph/id/singular-extensions> <http://www.w3.org/2004/02/skos/core#altLabel> "Singular extension search" .
+<https://github.com/john1hsu/chess-graph/id/singular-extensions> <http://www.w3.org/2004/02/skos/core#altLabel> "Singular extension" .
+<https://github.com/john1hsu/chess-graph/id/singular-extensions> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/game-tree-search> .
+<https://github.com/john1hsu/chess-graph/id/singular-extensions> <http://www.w3.org/2004/02/skos/core#definition> "A search-extension heuristic, introduced by Anantharaman, Campbell and Hsu for the Carnegie Mellon machines ChipTest and Deep Thought, that searches a move one ply deeper when it is clearly better than every alternative, so that forced lines are followed further than a uniform-depth search would." .
+<https://github.com/john1hsu/chess-graph/id/singular-extensions> <http://www.w3.org/2004/02/skos/core#prefLabel> "Singular extensions" .
+<https://github.com/john1hsu/chess-graph/id/singular-extensions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/deep-blue> .
+<https://github.com/john1hsu/chess-graph/id/singular-extensions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/horizon-effect> .
+<https://github.com/john1hsu/chess-graph/id/singular-extensions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/principal-variation-search> .
+<https://github.com/john1hsu/chess-graph/id/singular-extensions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/quiescence-search> .
+<https://github.com/john1hsu/chess-graph/id/singular-extensions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/stockfish> .
+<https://github.com/john1hsu/chess-graph/id/singular-extensions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/transposition-table> .
+<https://github.com/john1hsu/chess-graph/id/singular-extensions> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/singular-extensions/s1> .
+<https://github.com/john1hsu/chess-graph/id/singular-extensions> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/singular-extensions/s2> .
+<https://github.com/john1hsu/chess-graph/id/singular-extensions> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/singular-extensions/s3> .
+<https://github.com/john1hsu/chess-graph/id/singular-extensions> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/singular-extensions/s4> .
+<https://github.com/john1hsu/chess-graph/id/singular-extensions> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/multi-cut-pruning> .
+<https://github.com/john1hsu/chess-graph/id/singular-extensions> <https://github.com/john1hsu/chess-graph/ontology#counters> <https://github.com/john1hsu/chess-graph/id/horizon-effect> .
+<https://github.com/john1hsu/chess-graph/id/singular-extensions> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> .
+<https://github.com/john1hsu/chess-graph/id/singular-extensions> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/feng-hsiung-hsu> .
+<https://github.com/john1hsu/chess-graph/id/singular-extensions> <https://github.com/john1hsu/chess-graph/ontology#domain> "computer-chess" .
+<https://github.com/john1hsu/chess-graph/id/singular-extensions> <https://github.com/john1hsu/chess-graph/ontology#fen> "rnbqkbnr/ppppp1pp/8/5p1Q/4P3/8/PPPP1PPP/RNB1KBNR b KQkq - 1 2" .
+<https://github.com/john1hsu/chess-graph/id/singular-extensions> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/singular-extensions> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-18" .
 <https://github.com/john1hsu/chess-graph/id/skewer> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/skewer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TacticalMotif> .
 <https://github.com/john1hsu/chess-graph/id/skewer> <http://www.w3.org/2000/01/rdf-schema#label> "Skewer" .
@@ -12549,6 +12576,26 @@
 <https://github.com/john1hsu/chess-graph/id/source/simplification/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/simplification/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/simplification/s4> <https://schema.org/url> "https://www.chess.com/article/view/how-to-play-when-you-re-winning-easily" .
+<https://github.com/john1hsu/chess-graph/id/source/singular-extensions/s1> <http://purl.org/dc/terms/publisher> "Murray Campbell, A. Joseph Hoane Jr. and Feng-hsiung Hsu, copy hosted by Northern Arizona University" .
+<https://github.com/john1hsu/chess-graph/id/source/singular-extensions/s1> <http://purl.org/dc/terms/title> "Deep Blue (Artificial Intelligence 134, 2002; authors' version dated 1 August 2001)" .
+<https://github.com/john1hsu/chess-graph/id/source/singular-extensions/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/singular-extensions/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/singular-extensions/s1> <https://schema.org/url> "https://www.cefns.nau.edu/~edo/Classes/CS470-570_WWW/Readings/Campbell2002.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/singular-extensions/s2> <http://purl.org/dc/terms/publisher> "T. A. Marsland and Y. Björnsson, University of Alberta" .
+<https://github.com/john1hsu/chess-graph/id/source/singular-extensions/s2> <http://purl.org/dc/terms/title> "Variable Depth Search (book chapter)" .
+<https://github.com/john1hsu/chess-graph/id/source/singular-extensions/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/singular-extensions/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/singular-extensions/s2> <https://schema.org/url> "https://webdocs.cs.ualberta.ca/~tony/RecentPapers/01-Marsland-8b.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/singular-extensions/s3> <http://purl.org/dc/terms/publisher> "T. A. Marsland, University of Alberta" .
+<https://github.com/john1hsu/chess-graph/id/source/singular-extensions/s3> <http://purl.org/dc/terms/title> "Computer Chess and Search (Encyclopedia of Artificial Intelligence, 2nd ed., report version 1991)" .
+<https://github.com/john1hsu/chess-graph/id/source/singular-extensions/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/singular-extensions/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/singular-extensions/s3> <https://schema.org/url> "https://webdocs.cs.ualberta.ca/~tony/RecentPapers/encyc.mac-1991.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/singular-extensions/s4> <http://purl.org/dc/terms/publisher> "Chess Programming Wiki" .
+<https://github.com/john1hsu/chess-graph/id/source/singular-extensions/s4> <http://purl.org/dc/terms/title> "Singular Extensions" .
+<https://github.com/john1hsu/chess-graph/id/source/singular-extensions/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/singular-extensions/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/singular-extensions/s4> <https://schema.org/url> "https://www.chessprogramming.org:443/Singular_Extensions" .
 <https://github.com/john1hsu/chess-graph/id/source/skewer/s1> <http://purl.org/dc/terms/publisher> "English Chess Federation" .
 <https://github.com/john1hsu/chess-graph/id/source/skewer/s1> <http://purl.org/dc/terms/title> "Skewers (Chess Skills leaflet)" .
 <https://github.com/john1hsu/chess-graph/id/source/skewer/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
