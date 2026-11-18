@@ -34,7 +34,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:scout-algorithm` | `kt:principal-variation-search`, `kt:principal-variation-search` |
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
 | `kt:abstract-strategy-game` | `kt:chess` |
-| `kt:alfred-binet` | `kt:cognitive-psychology-of-chess` |
 | `kt:allen-newell` | `kt:herbert-simon` |
 | `kt:antonin-novotny` | `kt:novotny-theme` |
 | `kt:armageddon` | `kt:norway-chess` |

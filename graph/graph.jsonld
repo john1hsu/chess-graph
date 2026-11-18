@@ -20798,6 +20798,84 @@
       ]
     },
     {
+      "@id": "kt:alfred-binet",
+      "@type": "kto:Person",
+      "skos:prefLabel": "Alfred Binet",
+      "skos:definition": "French experimental psychologist (1857–1911), best known for the Binet–Simon intelligence scale, whose questionnaire study of blindfold players in 1893–94 was among the first systematic investigations of how chess masters represent and remember positions.",
+      "kto:domain": "training-and-improvement",
+      "dcterms:created": "2026-11-18",
+      "kto:verified": "2026-11-18",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Alfred Binet",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.Britannica.Com/biography/Alfred-Binet",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Binet, Alfred",
+          "dcterms:publisher": "Gale, via Encyclopedia.com",
+          "schema:url": "https://www.encyclopedia.com/people/medicine/psychology-and-psychiatry-biographies/alfred-binet",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "The Psychology of Chess and of Learning to Play It (American Journal of Psychology 18:3, 1907)",
+          "dcterms:publisher": "Alfred A. Cleveland, JSTOR Early Journal Content via Internet Archive",
+          "schema:url": "https://ia903207.us.archive.org/7/items/jstor-1412592/1412592.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The mind's eye in blindfold chess",
+          "dcterms:publisher": "Guillermo Campitelli and Fernand Gobet, University of Nottingham (via CORE)",
+          "schema:url": "https://core.ac.uk/download/333506.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Expertise in Chess (Cambridge Handbook of Expertise and Expert Performance, 2006)",
+          "dcterms:publisher": "Fernand Gobet and Neil Charness, Cambridge University Press",
+          "schema:url": "https://www.cambridge.org/core/books/cambridge-handbook-of-expertise-and-expert-performance/expertise-in-chess/80ECEE9EB4E29866F90C8A45B9F8034E",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Koltanowski's Answers to Binet's Questions: An Unpublished 1995 Interview About Blindfold Chess",
+          "dcterms:publisher": "Eliot Hearst, Blindfold Chess (blindfoldchess.net)",
+          "schema:url": "https://blindfoldchess.net/blog/2009/04/koltanowski-and-binet",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/training-and-improvement/alfred-binet.md",
+      "skos:altLabel": [
+        "A. Binet"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:cognitive-psychology-of-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:blindfold-chess"
+        },
+        {
+          "@id": "kt:visualization"
+        },
+        {
+          "@id": "kt:chess-expertise"
+        },
+        {
+          "@id": "kt:template-theory"
+        },
+        {
+          "@id": "kt:adriaan-de-groot"
+        },
+        {
+          "@id": "kt:siegbert-tarrasch"
+        }
+      ]
+    },
+    {
       "@id": "kt:anders-ericsson",
       "@type": "kto:Person",
       "skos:prefLabel": "Anders Ericsson",

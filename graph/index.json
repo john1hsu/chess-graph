@@ -208,6 +208,28 @@
     ]
   },
   {
+    "id": "kt:alfred-binet",
+    "title": "Alfred Binet",
+    "aliases": [
+      "A. Binet"
+    ],
+    "type": "Person",
+    "domain": "training-and-improvement",
+    "file": "articles/training-and-improvement/alfred-binet.md",
+    "created": "2026-11-18",
+    "verified": "2026-11-18",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://www.Britannica.Com/biography/Alfred-Binet",
+      "https://www.encyclopedia.com/people/medicine/psychology-and-psychiatry-biographies/alfred-binet",
+      "https://ia903207.us.archive.org/7/items/jstor-1412592/1412592.pdf",
+      "https://core.ac.uk/download/333506.pdf",
+      "https://www.cambridge.org/core/books/cambridge-handbook-of-expertise-and-expert-performance/expertise-in-chess/80ECEE9EB4E29866F90C8A45B9F8034E",
+      "https://blindfoldchess.net/blog/2009/04/koltanowski-and-binet"
+    ]
+  },
+  {
     "id": "kt:algebraic-notation",
     "title": "Algebraic notation",
     "aliases": [
