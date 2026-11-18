@@ -16555,6 +16555,101 @@
       ]
     },
     {
+      "@id": "kt:extended-position-description",
+      "@type": "kto:Notation",
+      "skos:prefLabel": "Extended Position Description",
+      "skos:definition": "A one-line ASCII format for a chess position that keeps the first four fields of FEN and adds any number of semicolon-terminated \"operations\" (such as bm for best move or id for a label); developed by John Stanback and Steven J. Edwards and defined in the 1994 PGN standard, it is the usual format for engine test suites and position data exchanged between programs.",
+      "kto:domain": "rules-and-notation",
+      "dcterms:created": "2026-11-18",
+      "kto:verified": "2026-11-18",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Standard: Portable Game Notation Specification and Implementation Guide (revised 1994-03-12), section 16.2",
+          "dcterms:publisher": "Steven J. Edwards (coordinator); copy in the GNU Emacs ELPA repository",
+          "schema:url": "https://code.delx.au/gnu-emacs-elpa/blob/65de55274ce8d49fa67bb555050e2481ebcad2c5:/PGN.txt",
+          "kto:sourceType": "primary-record"
+        },
+        {
+          "dcterms:title": "python-chess: a chess library for Python (stable documentation)",
+          "dcterms:publisher": "Niklas Fiekas, python-chess project",
+          "schema:url": "https://python-chess.readthedocs.io/en/stable/",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "The Bratko-Kopec Test Revisited",
+          "dcterms:publisher": "T. Anthony Marsland, University of Alberta (revised from a 1989 New Directions in Game-Tree Search workshop paper)",
+          "schema:url": "https://webdocs.cs.ualberta.ca/~tony/OldPapers/Workshop-BK-1989.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The Bratko-Kopec Test Recalibrated",
+          "dcterms:publisher": "Shawn Benn and Danny Kopec, Brooklyn College (CUNY) publications page",
+          "schema:url": "https://www.sci.brooklyn.cuny.edu/~kopec/Publications/THE%20BRATKO-KOPEC%20TEST%20RECALIBRATED.htm",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "epd.c: Extended Position Description routines (Crafty 25.2 source)",
+          "dcterms:publisher": "Steven J. Edwards (1996), distributed with the Crafty chess engine; DragonFly BSD source browser",
+          "schema:url": "https://grok.dragonflybsd.org/xref/dports/games/crafty/crafty-25.2_1/epd.c",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "EPD (ChessDB 2.5 help, June 2001)",
+          "dcterms:publisher": "ChessDB project, SourceForge",
+          "schema:url": "https://chessdb.sourceforge.net/tutorial/help/EPD.html",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/rules-and-notation/extended-position-description.md",
+      "skos:altLabel": [
+        "EPD",
+        "EPD record",
+        "EPD notation",
+        "Extended Position Description notation"
+      ],
+      "kto:fen": "1k1r4/pp1b1R2/3q2pp/4p3/2B5/4Q3/PPP2B2/2K5 b - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:forsyth-edwards-notation"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:portable-game-notation"
+        },
+        {
+          "@id": "kt:computer-chess"
+        },
+        {
+          "@id": "kt:opening-book"
+        },
+        {
+          "@id": "kt:threefold-repetition"
+        },
+        {
+          "@id": "kt:fifty-move-rule"
+        },
+        {
+          "@id": "kt:bratko-kopec-test"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:steven-j-edwards"
+        },
+        {
+          "@id": "kt:john-stanback"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:portable-game-notation"
+        }
+      ]
+    },
+    {
       "@id": "kt:fide-laws-of-chess",
       "@type": "kto:Rule",
       "skos:prefLabel": "FIDE Laws of Chess",

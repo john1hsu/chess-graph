@@ -2319,6 +2319,31 @@
     ]
   },
   {
+    "id": "kt:extended-position-description",
+    "title": "Extended Position Description",
+    "aliases": [
+      "EPD",
+      "EPD record",
+      "EPD notation",
+      "Extended Position Description notation"
+    ],
+    "type": "Notation",
+    "domain": "rules-and-notation",
+    "file": "articles/rules-and-notation/extended-position-description.md",
+    "created": "2026-11-18",
+    "verified": "2026-11-18",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://code.delx.au/gnu-emacs-elpa/blob/65de55274ce8d49fa67bb555050e2481ebcad2c5:/PGN.txt",
+      "https://python-chess.readthedocs.io/en/stable/",
+      "https://webdocs.cs.ualberta.ca/~tony/OldPapers/Workshop-BK-1989.pdf",
+      "https://www.sci.brooklyn.cuny.edu/~kopec/Publications/THE%20BRATKO-KOPEC%20TEST%20RECALIBRATED.htm",
+      "https://grok.dragonflybsd.org/xref/dports/games/crafty/crafty-25.2_1/epd.c",
+      "https://chessdb.sourceforge.net/tutorial/help/EPD.html"
+    ]
+  },
+  {
     "id": "kt:fair-play-regulations",
     "title": "Fair play regulations",
     "aliases": [

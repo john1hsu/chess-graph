@@ -10,11 +10,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:howard-staunton` | `kt:london-1851`, `kt:london-1851`, `kt:paul-morphy` |
 | `kt:ju-wenjun` | `kt:womens-world-chess-championship`, `kt:womens-world-chess-championship`, `kt:world-blitz-championship` |
 | `kt:philidor-defence` | `kt:adams-versus-torre-new-orleans-1920`, `kt:opera-game`, `kt:francois-andre-danican-philidor` |
+| `kt:steven-j-edwards` | `kt:extended-position-description`, `kt:forsyth-edwards-notation`, `kt:portable-game-notation` |
 | `kt:albert-zobrist` | `kt:zobrist-hashing`, `kt:zobrist-hashing` |
 | `kt:albin-countergambit` | `kt:queens-gambit`, `kt:underpromotion` |
 | `kt:alexander-kotov` | `kt:calculation`, `kt:candidate-moves` |
 | `kt:carlsen-versus-anand-sochi-2014-game-6` | `kt:magnus-carlsen`, `kt:zwischenzug` |
-| `kt:extended-position-description` | `kt:forsyth-edwards-notation`, `kt:portable-game-notation` |
 | `kt:joseph-henry-blackburne` | `kt:london-1883`, `kt:johannes-zukertort` |
 | `kt:karpov-versus-unzicker-nice-1974` | `kt:prophylaxis`, `kt:anatoly-karpov` |
 | `kt:lionel-kieseritzky` | `kt:immortal-game`, `kt:london-1851` |
@@ -34,7 +34,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:scout-algorithm` | `kt:principal-variation-search`, `kt:principal-variation-search` |
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
 | `kt:static-exchange-evaluation` | `kt:move-ordering`, `kt:quiescence-search` |
-| `kt:steven-j-edwards` | `kt:forsyth-edwards-notation`, `kt:portable-game-notation` |
 | `kt:zukertort-versus-blackburne-london-1883` | `kt:london-1883`, `kt:johannes-zukertort` |
 | `kt:abstract-strategy-game` | `kt:chess` |
 | `kt:alfred-binet` | `kt:cognitive-psychology-of-chess` |
@@ -50,6 +49,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:berger-tables` | `kt:round-robin` |
 | `kt:board-representation` | `kt:bitboards` |
 | `kt:botvinnik-versus-tal-moscow-1960-game-6` | `kt:mikhail-tal` |
+| `kt:bratko-kopec-test` | `kt:extended-position-description` |
 | `kt:breakthrough` | `kt:passed-pawn` |
 | `kt:capablanca-versus-blanco-havana-1913` | `kt:tempo` |
 | `kt:capablanca-versus-tartakower-new-york-1924` | `kt:rook-on-the-seventh-rank` |
@@ -131,6 +131,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:intrinsic-performance-rating` | `kt:fair-play-regulations` |
 | `kt:jean-dufresne` | `kt:evergreen-game` |
 | `kt:john-mccarthy` | `kt:alpha-beta-pruning` |
+| `kt:john-stanback` | `kt:extended-position-description` |
 | `kt:john-von-neumann` | `kt:minimax` |
 | `kt:josef-vancura` | `kt:vancura-position` |
 | `kt:joseph-ney-babson` | `kt:babson-task` |
