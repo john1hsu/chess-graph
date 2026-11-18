@@ -235,6 +235,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:tord-romstad` | `kt:stockfish` |
 | `kt:torre-versus-lasker-moscow-1925` | `kt:windmill` |
 | `kt:transposition` | `kt:opening-repertoire` |
+| `kt:trapped-piece` | `kt:desperado` |
 | `kt:two-knights-defence` | `kt:italian-game` |
 | `kt:us-womens-chess-championship` | `kt:us-chess-championship` |
 | `kt:vera-menchik` | `kt:womens-world-chess-championship` |

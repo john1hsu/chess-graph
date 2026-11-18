@@ -1890,6 +1890,29 @@
     ]
   },
   {
+    "id": "kt:desperado",
+    "title": "Desperado",
+    "aliases": [
+      "Desperado piece",
+      "Desperado combination"
+    ],
+    "type": "TacticalMotif",
+    "domain": "tactics",
+    "file": "articles/tactics/desperado.md",
+    "created": "2026-11-18",
+    "verified": "2026-11-18",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://chesshistory.com/winter/winter53.html",
+      "https://chesshistory.com/winter/extra/earliest.html",
+      "https://www.russell-enterprises.com/russell-enterprises/laskers-manual-of-chess",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/8416.pdf",
+      "https://www.chess.com/terms/desperado-chess",
+      "https://www.chessworld.net/chess-desperado.asp"
+    ]
+  },
+  {
     "id": "kt:development",
     "title": "Development",
     "aliases": [

@@ -2126,6 +2126,31 @@
 <https://github.com/john1hsu/chess-graph/id/descriptive-notation> <https://github.com/john1hsu/chess-graph/ontology#replacedBy> <https://github.com/john1hsu/chess-graph/id/algebraic-notation> .
 <https://github.com/john1hsu/chess-graph/id/descriptive-notation> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/descriptive-notation> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-17" .
+<https://github.com/john1hsu/chess-graph/id/desperado> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/chess-graph/id/desperado> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TacticalMotif> .
+<https://github.com/john1hsu/chess-graph/id/desperado> <http://www.w3.org/2000/01/rdf-schema#label> "Desperado" .
+<https://github.com/john1hsu/chess-graph/id/desperado> <http://www.w3.org/2004/02/skos/core#altLabel> "Desperado combination" .
+<https://github.com/john1hsu/chess-graph/id/desperado> <http://www.w3.org/2004/02/skos/core#altLabel> "Desperado piece" .
+<https://github.com/john1hsu/chess-graph/id/desperado> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-tactics> .
+<https://github.com/john1hsu/chess-graph/id/desperado> <http://www.w3.org/2004/02/skos/core#definition> "A tactic in which a piece that is already lost (attacked, trapped or about to be exchanged off unfavourably) makes one last capture, check or threat before it is taken, so that it is sold for as much as possible instead of for nothing." .
+<https://github.com/john1hsu/chess-graph/id/desperado> <http://www.w3.org/2004/02/skos/core#prefLabel> "Desperado" .
+<https://github.com/john1hsu/chess-graph/id/desperado> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/calculation> .
+<https://github.com/john1hsu/chess-graph/id/desperado> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/combination> .
+<https://github.com/john1hsu/chess-graph/id/desperado> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/sacrifice> .
+<https://github.com/john1hsu/chess-graph/id/desperado> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/trapped-piece> .
+<https://github.com/john1hsu/chess-graph/id/desperado> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/zwischenzug> .
+<https://github.com/john1hsu/chess-graph/id/desperado> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/desperado/s1> .
+<https://github.com/john1hsu/chess-graph/id/desperado> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/desperado/s2> .
+<https://github.com/john1hsu/chess-graph/id/desperado> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/desperado/s3> .
+<https://github.com/john1hsu/chess-graph/id/desperado> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/desperado/s4> .
+<https://github.com/john1hsu/chess-graph/id/desperado> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/desperado/s5> .
+<https://github.com/john1hsu/chess-graph/id/desperado> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/desperado/s6> .
+<https://github.com/john1hsu/chess-graph/id/desperado> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/emanuel-lasker> .
+<https://github.com/john1hsu/chess-graph/id/desperado> <https://github.com/john1hsu/chess-graph/ontology#domain> "tactics" .
+<https://github.com/john1hsu/chess-graph/id/desperado> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/material-advantage> .
+<https://github.com/john1hsu/chess-graph/id/desperado> <https://github.com/john1hsu/chess-graph/ontology#fen> "r5k1/B1p2ppp/1p6/8/8/8/5PPP/3R2K1 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/desperado> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/desperado> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-18" .
 <https://github.com/john1hsu/chess-graph/id/development> <http://purl.org/dc/terms/created> "2026-11-17" .
 <https://github.com/john1hsu/chess-graph/id/development> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
 <https://github.com/john1hsu/chess-graph/id/development> <http://www.w3.org/2000/01/rdf-schema#label> "Development" .
@@ -8077,6 +8102,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/descriptive-notation/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/descriptive-notation/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/descriptive-notation/s5> <https://schema.org/url> "https://www.chess.com/blog/chess_dot_tom/how-to-read-descriptive-notation" .
+<https://github.com/john1hsu/chess-graph/id/source/desperado/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes" .
+<https://github.com/john1hsu/chess-graph/id/source/desperado/s1> <http://purl.org/dc/terms/title> "Chess Notes, C.N. 5924 (Desperado)" .
+<https://github.com/john1hsu/chess-graph/id/source/desperado/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/desperado/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/desperado/s1> <https://schema.org/url> "https://chesshistory.com/winter/winter53.html" .
+<https://github.com/john1hsu/chess-graph/id/source/desperado/s2> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes" .
+<https://github.com/john1hsu/chess-graph/id/source/desperado/s2> <http://purl.org/dc/terms/title> "Chess Terms: Earliest Occurrences" .
+<https://github.com/john1hsu/chess-graph/id/source/desperado/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/desperado/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/desperado/s2> <https://schema.org/url> "https://chesshistory.com/winter/extra/earliest.html" .
+<https://github.com/john1hsu/chess-graph/id/source/desperado/s3> <http://purl.org/dc/terms/publisher> "Russell Enterprises" .
+<https://github.com/john1hsu/chess-graph/id/source/desperado/s3> <http://purl.org/dc/terms/title> "Lasker's Manual of Chess (foreword by Mark Dvoretsky)" .
+<https://github.com/john1hsu/chess-graph/id/source/desperado/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/desperado/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/desperado/s3> <https://schema.org/url> "https://www.russell-enterprises.com/russell-enterprises/laskers-manual-of-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/desperado/s4> <http://purl.org/dc/terms/publisher> "Cyrus Lakdawala (sample hosted by New In Chess)" .
+<https://github.com/john1hsu/chess-graph/id/source/desperado/s4> <http://purl.org/dc/terms/title> "Tactical Training (sample pages: contents and introduction)" .
+<https://github.com/john1hsu/chess-graph/id/source/desperado/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/desperado/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/desperado/s4> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/8416.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/desperado/s5> <http://purl.org/dc/terms/publisher> "Chess.com, Chess Terms" .
+<https://github.com/john1hsu/chess-graph/id/source/desperado/s5> <http://purl.org/dc/terms/title> "Desperado" .
+<https://github.com/john1hsu/chess-graph/id/source/desperado/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/desperado/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/desperado/s5> <https://schema.org/url> "https://www.chess.com/terms/desperado-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/desperado/s6> <http://purl.org/dc/terms/publisher> "FM Tryfon Gavriel, ChessWorld" .
+<https://github.com/john1hsu/chess-graph/id/source/desperado/s6> <http://purl.org/dc/terms/title> "Chess Desperado" .
+<https://github.com/john1hsu/chess-graph/id/source/desperado/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/desperado/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/desperado/s6> <https://schema.org/url> "https://www.chessworld.net/chess-desperado.asp" .
 <https://github.com/john1hsu/chess-graph/id/source/development/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/development/s1> <http://purl.org/dc/terms/title> "Chess: Development of theory" .
 <https://github.com/john1hsu/chess-graph/id/source/development/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
