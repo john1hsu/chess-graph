@@ -3823,6 +3823,87 @@
       ]
     },
     {
+      "@id": "kt:queen-versus-pawn",
+      "@type": "kto:EndgameType",
+      "skos:prefLabel": "Queen versus pawn",
+      "skos:definition": "The endgame of king and queen against king and a single pawn. The queen wins easily unless the pawn has reached the seventh rank with its king's support; then a centre or knight's pawn still loses to a standard checking manoeuvre, while a rook's or bishop's pawn usually draws by a stalemate defence unless the attacking king is already close.",
+      "kto:domain": "endgames",
+      "dcterms:created": "2026-11-18",
+      "kto:verified": "2026-11-18",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "100 Basic Endgames You Must Know: A Starter's Guide to Chess Endings (sample pages, chapter 9 \"Queen vs pawn\")",
+          "dcterms:publisher": "Jesús de la Villa, New In Chess (2026)",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/9242.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The 100 Endgames You Must Know Workbook (sample pages, chapter 3 \"Queen vs. pawn\")",
+          "dcterms:publisher": "Jesús de la Villa, New In Chess (2019)",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/9076.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Queen versus Pawn",
+          "dcterms:publisher": "Chessprogramming wiki",
+          "schema:url": "https://www.chessprogramming.org/Queen_versus_Pawn",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "Queen vs. Pawn on 7th",
+          "dcterms:publisher": "TonightOnly, Chess.com (2008)",
+          "schema:url": "https://www.chess.com/article/view/queen-vs-pawn-on-7th",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/endgames/queen-versus-pawn.md",
+      "skos:altLabel": [
+        "Queen against pawn",
+        "Queen vs pawn",
+        "Queen vs. pawn",
+        "Queen versus pawn endgame",
+        "Queen vs. pawn on the seventh",
+        "KQKP"
+      ],
+      "kto:fen": "4Q1K1/8/8/8/8/8/5kp1/8 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-endgame"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:rook-versus-pawn"
+        },
+        {
+          "@id": "kt:king-and-pawn-endgames"
+        },
+        {
+          "@id": "kt:passed-pawn"
+        },
+        {
+          "@id": "kt:endgame-tablebases"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:stalemate"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:counting-in-pawn-races"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:knight-versus-pawn"
+        }
+      ]
+    },
+    {
       "@id": "kt:rook-endgames",
       "@type": "kto:EndgameType",
       "skos:prefLabel": "Rook endgames",

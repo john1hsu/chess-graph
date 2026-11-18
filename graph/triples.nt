@@ -5407,6 +5407,33 @@
 <https://github.com/john1hsu/chess-graph/id/puzzle-training> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/puzzle-training> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/calculation> .
 <https://github.com/john1hsu/chess-graph/id/puzzle-training> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-16" .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-pawn> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-pawn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#EndgameType> .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-pawn> <http://www.w3.org/2000/01/rdf-schema#label> "Queen versus pawn" .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-pawn> <http://www.w3.org/2004/02/skos/core#altLabel> "KQKP" .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-pawn> <http://www.w3.org/2004/02/skos/core#altLabel> "Queen against pawn" .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-pawn> <http://www.w3.org/2004/02/skos/core#altLabel> "Queen versus pawn endgame" .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-pawn> <http://www.w3.org/2004/02/skos/core#altLabel> "Queen vs pawn" .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-pawn> <http://www.w3.org/2004/02/skos/core#altLabel> "Queen vs. pawn on the seventh" .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-pawn> <http://www.w3.org/2004/02/skos/core#altLabel> "Queen vs. pawn" .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-pawn> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-endgame> .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-pawn> <http://www.w3.org/2004/02/skos/core#definition> "The endgame of king and queen against king and a single pawn. The queen wins easily unless the pawn has reached the seventh rank with its king's support; then a centre or knight's pawn still loses to a standard checking manoeuvre, while a rook's or bishop's pawn usually draws by a stalemate defence unless the attacking king is already close." .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-pawn> <http://www.w3.org/2004/02/skos/core#prefLabel> "Queen versus pawn" .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-pawn> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/endgame-tablebases> .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-pawn> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/king-and-pawn-endgames> .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-pawn> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/passed-pawn> .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-pawn> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/rook-versus-pawn> .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-pawn> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/queen-versus-pawn/s1> .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-pawn> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/queen-versus-pawn/s2> .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-pawn> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/queen-versus-pawn/s3> .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-pawn> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/queen-versus-pawn/s4> .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-pawn> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/knight-versus-pawn> .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-pawn> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/counting-in-pawn-races> .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-pawn> <https://github.com/john1hsu/chess-graph/ontology#domain> "endgames" .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-pawn> <https://github.com/john1hsu/chess-graph/ontology#fen> "4Q1K1/8/8/8/8/8/5kp1/8 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-pawn> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-pawn> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/stalemate> .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-pawn> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-18" .
 <https://github.com/john1hsu/chess-graph/id/queens-gambit-accepted> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/queens-gambit-accepted> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Opening> .
 <https://github.com/john1hsu/chess-graph/id/queens-gambit-accepted> <http://www.w3.org/2000/01/rdf-schema#label> "Queen's Gambit Accepted" .
@@ -11861,6 +11888,26 @@
 <https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
 <https://github.com/john1hsu/chess-graph/id/source/puzzle-training/s6> <https://schema.org/url> "https://newinchess.com/the-woodpecker-method" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-pawn/s1> <http://purl.org/dc/terms/publisher> "Jesús de la Villa, New In Chess (2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-pawn/s1> <http://purl.org/dc/terms/title> "100 Basic Endgames You Must Know: A Starter's Guide to Chess Endings (sample pages, chapter 9 \"Queen vs pawn\")" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-pawn/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-pawn/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-pawn/s1> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/9242.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-pawn/s2> <http://purl.org/dc/terms/publisher> "Jesús de la Villa, New In Chess (2019)" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-pawn/s2> <http://purl.org/dc/terms/title> "The 100 Endgames You Must Know Workbook (sample pages, chapter 3 \"Queen vs. pawn\")" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-pawn/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-pawn/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-pawn/s2> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/9076.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-pawn/s3> <http://purl.org/dc/terms/publisher> "Chessprogramming wiki" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-pawn/s3> <http://purl.org/dc/terms/title> "Queen versus Pawn" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-pawn/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-pawn/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-pawn/s3> <https://schema.org/url> "https://www.chessprogramming.org/Queen_versus_Pawn" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-pawn/s4> <http://purl.org/dc/terms/publisher> "TonightOnly, Chess.com (2008)" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-pawn/s4> <http://purl.org/dc/terms/title> "Queen vs. Pawn on 7th" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-pawn/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-pawn/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-pawn/s4> <https://schema.org/url> "https://www.chess.com/article/view/queen-vs-pawn-on-7th" .
 <https://github.com/john1hsu/chess-graph/id/source/queens-gambit-accepted/s1> <http://purl.org/dc/terms/publisher> "Max Dlugy, Russell Enterprises (2023), excerpt PDF hosted by Chess Tigers" .
 <https://github.com/john1hsu/chess-graph/id/source/queens-gambit-accepted/s1> <http://purl.org/dc/terms/title> "The Queen's Gambit Accepted: A Modern Counterattack in an Ancient Opening (excerpt)" .
 <https://github.com/john1hsu/chess-graph/id/source/queens-gambit-accepted/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

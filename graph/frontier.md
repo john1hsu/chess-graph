@@ -13,6 +13,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alexander-kotov` | `kt:calculation`, `kt:candidate-moves` |
 | `kt:bratko-kopec-test` | `kt:extended-position-description`, `kt:steven-j-edwards` |
 | `kt:carlsen-versus-anand-sochi-2014-game-6` | `kt:magnus-carlsen`, `kt:zwischenzug` |
+| `kt:counting-in-pawn-races` | `kt:queen-versus-pawn`, `kt:rule-of-the-square` |
 | `kt:david-forsyth` | `kt:forsyth-edwards-notation`, `kt:steven-j-edwards` |
 | `kt:deep-blue` | `kt:singular-extensions`, `kt:deep-blue-versus-kasparov` |
 | `kt:domination` | `kt:knight-versus-bishop`, `kt:trapped-piece` |
@@ -69,7 +70,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:club-argentino-de-ajedrez` | `kt:world-chess-championship-1927` |
 | `kt:cognitive-science` | `kt:cognitive-psychology-of-chess` |
 | `kt:colle-versus-ohanlon-nice-1930` | `kt:greek-gift-sacrifice` |
-| `kt:counting-in-pawn-races` | `kt:rule-of-the-square` |
 | `kt:curt-von-bardeleben` | `kt:steinitz-von-bardeleben-hastings-1895` |
 | `kt:danish-gambit` | `kt:gambit` |
 | `kt:david-slate` | `kt:aspiration-window` |
@@ -141,6 +141,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ken-thompson` | `kt:endgame-tablebases` |
 | `kt:killer-heuristic` | `kt:move-ordering` |
 | `kt:king-activity` | `kt:king-safety` |
+| `kt:knight-versus-pawn` | `kt:queen-versus-pawn` |
 | `kt:knockout-tournament` | `kt:round-robin` |
 | `kt:kramnik-versus-anand-bonn-2008-game-3` | `kt:viswanathan-anand` |
 | `kt:kramnik-versus-kasparov-london-2000-game-2` | `kt:vladimir-kramnik` |

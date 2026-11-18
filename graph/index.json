@@ -4818,6 +4818,31 @@
     ]
   },
   {
+    "id": "kt:queen-versus-pawn",
+    "title": "Queen versus pawn",
+    "aliases": [
+      "Queen against pawn",
+      "Queen vs pawn",
+      "Queen vs. pawn",
+      "Queen versus pawn endgame",
+      "Queen vs. pawn on the seventh",
+      "KQKP"
+    ],
+    "type": "EndgameType",
+    "domain": "endgames",
+    "file": "articles/endgames/queen-versus-pawn.md",
+    "created": "2026-11-18",
+    "verified": "2026-11-18",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/9242.pdf",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/9076.pdf",
+      "https://www.chessprogramming.org/Queen_versus_Pawn",
+      "https://www.chess.com/article/view/queen-vs-pawn-on-7th"
+    ]
+  },
+  {
     "id": "kt:queens-gambit",
     "title": "Queen's Gambit",
     "aliases": [
