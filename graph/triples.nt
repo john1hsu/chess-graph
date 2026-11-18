@@ -936,6 +936,32 @@
 <https://github.com/john1hsu/chess-graph/id/botvinnik-versus-capablanca-avro-1938> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/avro-1938> .
 <https://github.com/john1hsu/chess-graph/id/botvinnik-versus-capablanca-avro-1938> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/botvinnik-versus-capablanca-avro-1938> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-18" .
+<https://github.com/john1hsu/chess-graph/id/breakthrough> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/chess-graph/id/breakthrough> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Technique> .
+<https://github.com/john1hsu/chess-graph/id/breakthrough> <http://www.w3.org/2000/01/rdf-schema#label> "Breakthrough" .
+<https://github.com/john1hsu/chess-graph/id/breakthrough> <http://www.w3.org/2004/02/skos/core#altLabel> "Breakthrough sacrifice" .
+<https://github.com/john1hsu/chess-graph/id/breakthrough> <http://www.w3.org/2004/02/skos/core#altLabel> "Pawn breakthrough sacrifice" .
+<https://github.com/john1hsu/chess-graph/id/breakthrough> <http://www.w3.org/2004/02/skos/core#altLabel> "Pawn breakthrough" .
+<https://github.com/john1hsu/chess-graph/id/breakthrough> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/king-and-pawn-endgames> .
+<https://github.com/john1hsu/chess-graph/id/breakthrough> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/passed-pawn> .
+<https://github.com/john1hsu/chess-graph/id/breakthrough> <http://www.w3.org/2004/02/skos/core#definition> "An endgame technique in which one side gives up one or more pawns to dissolve an apparently balanced pawn front and create a passed pawn that the opponent can no longer stop." .
+<https://github.com/john1hsu/chess-graph/id/breakthrough> <http://www.w3.org/2004/02/skos/core#prefLabel> "Breakthrough" .
+<https://github.com/john1hsu/chess-graph/id/breakthrough> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/opposite-coloured-bishops> .
+<https://github.com/john1hsu/chess-graph/id/breakthrough> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/pawn-majority> .
+<https://github.com/john1hsu/chess-graph/id/breakthrough> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/rule-of-the-square> .
+<https://github.com/john1hsu/chess-graph/id/breakthrough> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/sacrifice> .
+<https://github.com/john1hsu/chess-graph/id/breakthrough> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/breakthrough/s1> .
+<https://github.com/john1hsu/chess-graph/id/breakthrough> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/breakthrough/s2> .
+<https://github.com/john1hsu/chess-graph/id/breakthrough> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/breakthrough/s3> .
+<https://github.com/john1hsu/chess-graph/id/breakthrough> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/breakthrough/s4> .
+<https://github.com/john1hsu/chess-graph/id/breakthrough> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/breakthrough/s5> .
+<https://github.com/john1hsu/chess-graph/id/breakthrough> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/breakthrough/s6> .
+<https://github.com/john1hsu/chess-graph/id/breakthrough> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/tempo> .
+<https://github.com/john1hsu/chess-graph/id/breakthrough> <https://github.com/john1hsu/chess-graph/ontology#domain> "endgames" .
+<https://github.com/john1hsu/chess-graph/id/breakthrough> <https://github.com/john1hsu/chess-graph/ontology#fen> "6k1/ppp5/8/PPP5/8/8/8/6K1 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/breakthrough> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/pawn-promotion> .
+<https://github.com/john1hsu/chess-graph/id/breakthrough> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/breakthrough> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-18" .
 <https://github.com/john1hsu/chess-graph/id/bronstein-delay> <http://purl.org/dc/terms/created> "2026-11-16" .
 <https://github.com/john1hsu/chess-graph/id/bronstein-delay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TimeControl> .
 <https://github.com/john1hsu/chess-graph/id/bronstein-delay> <http://www.w3.org/2000/01/rdf-schema#label> "Bronstein delay" .
@@ -6969,6 +6995,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/botvinnik-versus-capablanca-avro-1938/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/botvinnik-versus-capablanca-avro-1938/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/botvinnik-versus-capablanca-avro-1938/s5> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/avro-1938-round-11-botvinnik-masterpiece" .
+<https://github.com/john1hsu/chess-graph/id/source/breakthrough/s1> <http://purl.org/dc/terms/publisher> "José Raúl Capablanca; Project Gutenberg" .
+<https://github.com/john1hsu/chess-graph/id/source/breakthrough/s1> <http://purl.org/dc/terms/title> "Chess Fundamentals (1921), Project Gutenberg eBook #33870" .
+<https://github.com/john1hsu/chess-graph/id/source/breakthrough/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/breakthrough/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/breakthrough/s1> <https://schema.org/url> "https://gutenberg.org/cache/epub/33870/pg33870-images.html" .
+<https://github.com/john1hsu/chess-graph/id/source/breakthrough/s2> <http://purl.org/dc/terms/publisher> "Mark Dvoretsky, revised by Karsten Müller and Alex Fishbein, Russell Enterprises (2025); excerpt hosted by De Beste Zet" .
+<https://github.com/john1hsu/chess-graph/id/source/breakthrough/s2> <http://purl.org/dc/terms/title> "Dvoretsky's Endgame Manual, sixth edition (excerpt with table of contents)" .
+<https://github.com/john1hsu/chess-graph/id/source/breakthrough/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/breakthrough/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/breakthrough/s2> <https://schema.org/url> "https://www.debestezet.nl/catalog/images/PDF/Dvoretskys%20Endgame%20Manual%206th%20Edition.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/breakthrough/s3> <http://purl.org/dc/terms/publisher> "John Nunn; excerpt hosted by New In Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/breakthrough/s3> <http://purl.org/dc/terms/title> "Nunn's Chess Endings (sample pages with table of contents)" .
+<https://github.com/john1hsu/chess-graph/id/source/breakthrough/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/breakthrough/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/breakthrough/s3> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/5025.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/breakthrough/s4> <http://purl.org/dc/terms/publisher> "GM Daniel Naroditsky, Chess.com (2015)" .
+<https://github.com/john1hsu/chess-graph/id/source/breakthrough/s4> <http://purl.org/dc/terms/title> "Pawn Endgames: A Practical Guide" .
+<https://github.com/john1hsu/chess-graph/id/source/breakthrough/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/breakthrough/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/breakthrough/s4> <https://schema.org/url> "https://www.chess.com/article/view/pawn-endgames-a-practical-guide" .
+<https://github.com/john1hsu/chess-graph/id/source/breakthrough/s5> <http://purl.org/dc/terms/publisher> "GM Davorin Kuljasevic, Modern Chess (2016-03-08)" .
+<https://github.com/john1hsu/chess-graph/id/source/breakthrough/s5> <http://purl.org/dc/terms/title> "Endgame Series 2" .
+<https://github.com/john1hsu/chess-graph/id/source/breakthrough/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/breakthrough/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/breakthrough/s5> <https://schema.org/url> "https://www.modern-chess.com/article/endgame-series-2/113/" .
+<https://github.com/john1hsu/chess-graph/id/source/breakthrough/s6> <http://purl.org/dc/terms/publisher> "Karsten Müller, ChessBase News (2023-07-18)" .
+<https://github.com/john1hsu/chess-graph/id/source/breakthrough/s6> <http://purl.org/dc/terms/title> "Beautiful breakthroughs" .
+<https://github.com/john1hsu/chess-graph/id/source/breakthrough/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/breakthrough/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/breakthrough/s6> <https://schema.org/url> "https://en.chessbase.com/post/beautiful-breakthroughs" .
 <https://github.com/john1hsu/chess-graph/id/source/bronstein-delay/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
 <https://github.com/john1hsu/chess-graph/id/source/bronstein-delay/s1> <http://purl.org/dc/terms/title> "FIDE Laws of Chess (full text, applied from 1 January 2023)" .
 <https://github.com/john1hsu/chess-graph/id/source/bronstein-delay/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

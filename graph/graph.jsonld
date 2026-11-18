@@ -2332,6 +2332,94 @@
       ]
     },
     {
+      "@id": "kt:breakthrough",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Breakthrough",
+      "skos:definition": "An endgame technique in which one side gives up one or more pawns to dissolve an apparently balanced pawn front and create a passed pawn that the opponent can no longer stop.",
+      "kto:domain": "endgames",
+      "dcterms:created": "2026-11-18",
+      "kto:verified": "2026-11-18",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Chess Fundamentals (1921), Project Gutenberg eBook #33870",
+          "dcterms:publisher": "José Raúl Capablanca; Project Gutenberg",
+          "schema:url": "https://gutenberg.org/cache/epub/33870/pg33870-images.html",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Dvoretsky's Endgame Manual, sixth edition (excerpt with table of contents)",
+          "dcterms:publisher": "Mark Dvoretsky, revised by Karsten Müller and Alex Fishbein, Russell Enterprises (2025); excerpt hosted by De Beste Zet",
+          "schema:url": "https://www.debestezet.nl/catalog/images/PDF/Dvoretskys%20Endgame%20Manual%206th%20Edition.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Nunn's Chess Endings (sample pages with table of contents)",
+          "dcterms:publisher": "John Nunn; excerpt hosted by New In Chess",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/5025.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Pawn Endgames: A Practical Guide",
+          "dcterms:publisher": "GM Daniel Naroditsky, Chess.com (2015)",
+          "schema:url": "https://www.chess.com/article/view/pawn-endgames-a-practical-guide",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Endgame Series 2",
+          "dcterms:publisher": "GM Davorin Kuljasevic, Modern Chess (2016-03-08)",
+          "schema:url": "https://www.modern-chess.com/article/endgame-series-2/113/",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Beautiful breakthroughs",
+          "dcterms:publisher": "Karsten Müller, ChessBase News (2023-07-18)",
+          "schema:url": "https://en.chessbase.com/post/beautiful-breakthroughs",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/endgames/breakthrough.md",
+      "skos:altLabel": [
+        "Pawn breakthrough",
+        "Breakthrough sacrifice",
+        "Pawn breakthrough sacrifice"
+      ],
+      "kto:fen": "6k1/ppp5/8/PPP5/8/8/8/6K1 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:king-and-pawn-endgames"
+        },
+        {
+          "@id": "kt:passed-pawn"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:pawn-majority"
+        },
+        {
+          "@id": "kt:opposite-coloured-bishops"
+        },
+        {
+          "@id": "kt:rule-of-the-square"
+        },
+        {
+          "@id": "kt:sacrifice"
+        }
+      ],
+      "kto:leadsTo": [
+        {
+          "@id": "kt:pawn-promotion"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:tempo"
+        }
+      ]
+    },
+    {
       "@id": "kt:chess-endgame",
       "@type": "kto:Concept",
       "skos:prefLabel": "Chess endgame",

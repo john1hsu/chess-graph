@@ -48,7 +48,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:board-representation` | `kt:bitboards` |
 | `kt:botvinnik-versus-tal-moscow-1960-game-6` | `kt:mikhail-tal` |
 | `kt:bratko-kopec-test` | `kt:extended-position-description` |
-| `kt:breakthrough` | `kt:passed-pawn` |
 | `kt:capablanca-versus-blanco-havana-1913` | `kt:tempo` |
 | `kt:capablanca-versus-tartakower-new-york-1924` | `kt:rook-on-the-seventh-rank` |
 | `kt:carlos-torre` | `kt:adams-versus-torre-new-orleans-1920` |
@@ -179,6 +178,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:panov-botvinnik-attack` | `kt:caro-kann-defence` |
 | `kt:passive-rook-defence` | `kt:philidor-position` |
 | `kt:paul-keres` | `kt:correspondence-chess` |
+| `kt:pawn-majority` | `kt:breakthrough` |
 | `kt:pawn-storm` | `kt:king-safety` |
 | `kt:petroffs-defence` | `kt:open-games` |
 | `kt:petrosian-versus-spassky-moscow-1966-game-10` | `kt:tigran-petrosian` |

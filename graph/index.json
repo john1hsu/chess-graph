@@ -825,6 +825,30 @@
     ]
   },
   {
+    "id": "kt:breakthrough",
+    "title": "Breakthrough",
+    "aliases": [
+      "Pawn breakthrough",
+      "Breakthrough sacrifice",
+      "Pawn breakthrough sacrifice"
+    ],
+    "type": "Technique",
+    "domain": "endgames",
+    "file": "articles/endgames/breakthrough.md",
+    "created": "2026-11-18",
+    "verified": "2026-11-18",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://gutenberg.org/cache/epub/33870/pg33870-images.html",
+      "https://www.debestezet.nl/catalog/images/PDF/Dvoretskys%20Endgame%20Manual%206th%20Edition.pdf",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/5025.pdf",
+      "https://www.chess.com/article/view/pawn-endgames-a-practical-guide",
+      "https://www.modern-chess.com/article/endgame-series-2/113/",
+      "https://en.chessbase.com/post/beautiful-breakthroughs"
+    ]
+  },
+  {
     "id": "kt:bronstein-delay",
     "title": "Bronstein delay",
     "aliases": [
