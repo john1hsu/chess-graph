@@ -6615,6 +6615,106 @@
       ]
     },
     {
+      "@id": "kt:botvinnik-versus-capablanca-avro-1938",
+      "@type": "kto:Game",
+      "skos:prefLabel": "Botvinnik versus Capablanca, AVRO 1938",
+      "skos:definition": "Mikhail Botvinnik's 41-move win with White over José Raúl Capablanca in round 11 of the AVRO tournament (Rotterdam, 22 November 1938), a Nimzo-Indian in which a central pawn advance was crowned by the bishop offer 30.Ba3 and the knight sacrifice 31.Nh5+, after which the white king escaped the checks while an e-pawn threatened to queen.",
+      "kto:domain": "history",
+      "dcterms:created": "2026-11-18",
+      "kto:verified": "2026-11-18",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "AVRO, 1938",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://chesshistory.com/winter/extra/avro.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Mikhail Botvinnik",
+          "dcterms:publisher": "World Chess Hall of Fame",
+          "schema:url": "https://worldchesshof.org/?p=925",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "AVRO 1938 (crosstable)",
+          "dcterms:publisher": "OlimpBase",
+          "schema:url": "https://www.olimpbase.org/ind-varia/it-avro1938.html",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "79 years ago: Capablanca beats Botvinnik (29 November 2015; game score annotated by Andy Soltis)",
+          "dcterms:publisher": "ChessBase News",
+          "schema:url": "https://en.chessbase.com/post/79-years-ago-capablanca-beats-botvinnik",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "AVRO 1938, Round 11: Botvinnik's masterpiece (Klaus Besenthal, 13 June 2020)",
+          "dcterms:publisher": "ChessBase News",
+          "schema:url": "https://en.chessbase.com/newsroom/post/avro-1938-round-11-botvinnik-masterpiece",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/history/botvinnik-versus-capablanca-avro-1938.md",
+      "skos:altLabel": [
+        "Botvinnik vs Capablanca",
+        "Botvinnik v Capablanca",
+        "Botvinnik–Capablanca 1938",
+        "Botvinnik versus Capablanca AVRO",
+        "Botvinnik versus Capablanca Rotterdam 1938",
+        "AVRO 1938 round 11"
+      ],
+      "kto:eco": "E49",
+      "kto:fen": "8/p3q1kp/1p2Pnp1/3pQ3/2pP4/1nP3N1/1B4PP/6K1 w - - 5 30",
+      "skos:broader": [
+        {
+          "@id": "kt:sacrifice"
+        },
+        {
+          "@id": "kt:nimzo-indian-defence"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:deflection"
+        },
+        {
+          "@id": "kt:passed-pawn"
+        },
+        {
+          "@id": "kt:pawn-promotion"
+        },
+        {
+          "@id": "kt:perpetual-check"
+        },
+        {
+          "@id": "kt:soviet-chess-school"
+        }
+      ],
+      "kto:playedBy": [
+        {
+          "@id": "kt:mikhail-botvinnik"
+        },
+        {
+          "@id": "kt:jose-raul-capablanca"
+        }
+      ],
+      "kto:playedIn": [
+        {
+          "@id": "kt:avro-1938"
+        }
+      ],
+      "kto:exemplifies": [
+        {
+          "@id": "kt:deflection"
+        },
+        {
+          "@id": "kt:sacrifice"
+        }
+      ]
+    },
+    {
       "@id": "kt:chaturanga",
       "@type": "kto:Variant",
       "skos:prefLabel": "Chaturanga",

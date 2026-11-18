@@ -14,7 +14,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:albert-zobrist` | `kt:zobrist-hashing`, `kt:zobrist-hashing` |
 | `kt:albin-countergambit` | `kt:queens-gambit`, `kt:underpromotion` |
 | `kt:alexander-kotov` | `kt:calculation`, `kt:candidate-moves` |
-| `kt:botvinnik-versus-capablanca-avro-1938` | `kt:soviet-chess-school`, `kt:mikhail-botvinnik` |
 | `kt:carlsen-versus-anand-sochi-2014-game-6` | `kt:magnus-carlsen`, `kt:zwischenzug` |
 | `kt:extended-position-description` | `kt:forsyth-edwards-notation`, `kt:portable-game-notation` |
 | `kt:joseph-henry-blackburne` | `kt:london-1883`, `kt:johannes-zukertort` |
@@ -45,6 +44,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:artificial-intelligence` | `kt:computer-chess` |
 | `kt:as-suli` | `kt:shatranj` |
 | `kt:asian-chess-federation` | `kt:european-chess-union` |
+| `kt:avro-1938` | `kt:botvinnik-versus-capablanca-avro-1938` |
 | `kt:baden-baden-1870` | `kt:adolf-anderssen` |
 | `kt:baku-acceleration` | `kt:swiss-system` |
 | `kt:berger-tables` | `kt:round-robin` |

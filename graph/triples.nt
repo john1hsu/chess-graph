@@ -870,6 +870,39 @@
 <https://github.com/john1hsu/chess-graph/id/boris-spassky> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> .
 <https://github.com/john1hsu/chess-graph/id/boris-spassky> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/boris-spassky> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/botvinnik-versus-capablanca-avro-1938> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/chess-graph/id/botvinnik-versus-capablanca-avro-1938> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Game> .
+<https://github.com/john1hsu/chess-graph/id/botvinnik-versus-capablanca-avro-1938> <http://www.w3.org/2000/01/rdf-schema#label> "Botvinnik versus Capablanca, AVRO 1938" .
+<https://github.com/john1hsu/chess-graph/id/botvinnik-versus-capablanca-avro-1938> <http://www.w3.org/2004/02/skos/core#altLabel> "AVRO 1938 round 11" .
+<https://github.com/john1hsu/chess-graph/id/botvinnik-versus-capablanca-avro-1938> <http://www.w3.org/2004/02/skos/core#altLabel> "Botvinnik v Capablanca" .
+<https://github.com/john1hsu/chess-graph/id/botvinnik-versus-capablanca-avro-1938> <http://www.w3.org/2004/02/skos/core#altLabel> "Botvinnik versus Capablanca AVRO" .
+<https://github.com/john1hsu/chess-graph/id/botvinnik-versus-capablanca-avro-1938> <http://www.w3.org/2004/02/skos/core#altLabel> "Botvinnik versus Capablanca Rotterdam 1938" .
+<https://github.com/john1hsu/chess-graph/id/botvinnik-versus-capablanca-avro-1938> <http://www.w3.org/2004/02/skos/core#altLabel> "Botvinnik vs Capablanca" .
+<https://github.com/john1hsu/chess-graph/id/botvinnik-versus-capablanca-avro-1938> <http://www.w3.org/2004/02/skos/core#altLabel> "Botvinnik–Capablanca 1938" .
+<https://github.com/john1hsu/chess-graph/id/botvinnik-versus-capablanca-avro-1938> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/nimzo-indian-defence> .
+<https://github.com/john1hsu/chess-graph/id/botvinnik-versus-capablanca-avro-1938> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/sacrifice> .
+<https://github.com/john1hsu/chess-graph/id/botvinnik-versus-capablanca-avro-1938> <http://www.w3.org/2004/02/skos/core#definition> "Mikhail Botvinnik's 41-move win with White over José Raúl Capablanca in round 11 of the AVRO tournament (Rotterdam, 22 November 1938), a Nimzo-Indian in which a central pawn advance was crowned by the bishop offer 30.Ba3 and the knight sacrifice 31.Nh5+, after which the white king escaped the checks while an e-pawn threatened to queen." .
+<https://github.com/john1hsu/chess-graph/id/botvinnik-versus-capablanca-avro-1938> <http://www.w3.org/2004/02/skos/core#prefLabel> "Botvinnik versus Capablanca, AVRO 1938" .
+<https://github.com/john1hsu/chess-graph/id/botvinnik-versus-capablanca-avro-1938> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/deflection> .
+<https://github.com/john1hsu/chess-graph/id/botvinnik-versus-capablanca-avro-1938> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/passed-pawn> .
+<https://github.com/john1hsu/chess-graph/id/botvinnik-versus-capablanca-avro-1938> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/pawn-promotion> .
+<https://github.com/john1hsu/chess-graph/id/botvinnik-versus-capablanca-avro-1938> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/perpetual-check> .
+<https://github.com/john1hsu/chess-graph/id/botvinnik-versus-capablanca-avro-1938> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/soviet-chess-school> .
+<https://github.com/john1hsu/chess-graph/id/botvinnik-versus-capablanca-avro-1938> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/botvinnik-versus-capablanca-avro-1938/s1> .
+<https://github.com/john1hsu/chess-graph/id/botvinnik-versus-capablanca-avro-1938> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/botvinnik-versus-capablanca-avro-1938/s2> .
+<https://github.com/john1hsu/chess-graph/id/botvinnik-versus-capablanca-avro-1938> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/botvinnik-versus-capablanca-avro-1938/s3> .
+<https://github.com/john1hsu/chess-graph/id/botvinnik-versus-capablanca-avro-1938> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/botvinnik-versus-capablanca-avro-1938/s4> .
+<https://github.com/john1hsu/chess-graph/id/botvinnik-versus-capablanca-avro-1938> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/botvinnik-versus-capablanca-avro-1938/s5> .
+<https://github.com/john1hsu/chess-graph/id/botvinnik-versus-capablanca-avro-1938> <https://github.com/john1hsu/chess-graph/ontology#domain> "history" .
+<https://github.com/john1hsu/chess-graph/id/botvinnik-versus-capablanca-avro-1938> <https://github.com/john1hsu/chess-graph/ontology#eco> "E49" .
+<https://github.com/john1hsu/chess-graph/id/botvinnik-versus-capablanca-avro-1938> <https://github.com/john1hsu/chess-graph/ontology#exemplifies> <https://github.com/john1hsu/chess-graph/id/deflection> .
+<https://github.com/john1hsu/chess-graph/id/botvinnik-versus-capablanca-avro-1938> <https://github.com/john1hsu/chess-graph/ontology#exemplifies> <https://github.com/john1hsu/chess-graph/id/sacrifice> .
+<https://github.com/john1hsu/chess-graph/id/botvinnik-versus-capablanca-avro-1938> <https://github.com/john1hsu/chess-graph/ontology#fen> "8/p3q1kp/1p2Pnp1/3pQ3/2pP4/1nP3N1/1B4PP/6K1 w - - 5 30" .
+<https://github.com/john1hsu/chess-graph/id/botvinnik-versus-capablanca-avro-1938> <https://github.com/john1hsu/chess-graph/ontology#playedBy> <https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> .
+<https://github.com/john1hsu/chess-graph/id/botvinnik-versus-capablanca-avro-1938> <https://github.com/john1hsu/chess-graph/ontology#playedBy> <https://github.com/john1hsu/chess-graph/id/mikhail-botvinnik> .
+<https://github.com/john1hsu/chess-graph/id/botvinnik-versus-capablanca-avro-1938> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/avro-1938> .
+<https://github.com/john1hsu/chess-graph/id/botvinnik-versus-capablanca-avro-1938> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/botvinnik-versus-capablanca-avro-1938> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-18" .
 <https://github.com/john1hsu/chess-graph/id/bronstein-delay> <http://purl.org/dc/terms/created> "2026-11-16" .
 <https://github.com/john1hsu/chess-graph/id/bronstein-delay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TimeControl> .
 <https://github.com/john1hsu/chess-graph/id/bronstein-delay> <http://www.w3.org/2000/01/rdf-schema#label> "Bronstein delay" .
@@ -6709,6 +6742,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s6> <https://schema.org/url> "https://en.chessbase.com/post/spassky-plays-the-king-s-gambit" .
+<https://github.com/john1hsu/chess-graph/id/source/botvinnik-versus-capablanca-avro-1938/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/botvinnik-versus-capablanca-avro-1938/s1> <http://purl.org/dc/terms/title> "AVRO, 1938" .
+<https://github.com/john1hsu/chess-graph/id/source/botvinnik-versus-capablanca-avro-1938/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/botvinnik-versus-capablanca-avro-1938/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/botvinnik-versus-capablanca-avro-1938/s1> <https://schema.org/url> "https://chesshistory.com/winter/extra/avro.html" .
+<https://github.com/john1hsu/chess-graph/id/source/botvinnik-versus-capablanca-avro-1938/s2> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
+<https://github.com/john1hsu/chess-graph/id/source/botvinnik-versus-capablanca-avro-1938/s2> <http://purl.org/dc/terms/title> "Mikhail Botvinnik" .
+<https://github.com/john1hsu/chess-graph/id/source/botvinnik-versus-capablanca-avro-1938/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/botvinnik-versus-capablanca-avro-1938/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/botvinnik-versus-capablanca-avro-1938/s2> <https://schema.org/url> "https://worldchesshof.org/?p=925" .
+<https://github.com/john1hsu/chess-graph/id/source/botvinnik-versus-capablanca-avro-1938/s3> <http://purl.org/dc/terms/publisher> "OlimpBase" .
+<https://github.com/john1hsu/chess-graph/id/source/botvinnik-versus-capablanca-avro-1938/s3> <http://purl.org/dc/terms/title> "AVRO 1938 (crosstable)" .
+<https://github.com/john1hsu/chess-graph/id/source/botvinnik-versus-capablanca-avro-1938/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/botvinnik-versus-capablanca-avro-1938/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/botvinnik-versus-capablanca-avro-1938/s3> <https://schema.org/url> "https://www.olimpbase.org/ind-varia/it-avro1938.html" .
+<https://github.com/john1hsu/chess-graph/id/source/botvinnik-versus-capablanca-avro-1938/s4> <http://purl.org/dc/terms/publisher> "ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/botvinnik-versus-capablanca-avro-1938/s4> <http://purl.org/dc/terms/title> "79 years ago: Capablanca beats Botvinnik (29 November 2015; game score annotated by Andy Soltis)" .
+<https://github.com/john1hsu/chess-graph/id/source/botvinnik-versus-capablanca-avro-1938/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/botvinnik-versus-capablanca-avro-1938/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/botvinnik-versus-capablanca-avro-1938/s4> <https://schema.org/url> "https://en.chessbase.com/post/79-years-ago-capablanca-beats-botvinnik" .
+<https://github.com/john1hsu/chess-graph/id/source/botvinnik-versus-capablanca-avro-1938/s5> <http://purl.org/dc/terms/publisher> "ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/botvinnik-versus-capablanca-avro-1938/s5> <http://purl.org/dc/terms/title> "AVRO 1938, Round 11: Botvinnik's masterpiece (Klaus Besenthal, 13 June 2020)" .
+<https://github.com/john1hsu/chess-graph/id/source/botvinnik-versus-capablanca-avro-1938/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/botvinnik-versus-capablanca-avro-1938/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/botvinnik-versus-capablanca-avro-1938/s5> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/avro-1938-round-11-botvinnik-masterpiece" .
 <https://github.com/john1hsu/chess-graph/id/source/bronstein-delay/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
 <https://github.com/john1hsu/chess-graph/id/source/bronstein-delay/s1> <http://purl.org/dc/terms/title> "FIDE Laws of Chess (full text, applied from 1 January 2023)" .
 <https://github.com/john1hsu/chess-graph/id/source/bronstein-delay/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

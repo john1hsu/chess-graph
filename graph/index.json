@@ -768,6 +768,33 @@
     ]
   },
   {
+    "id": "kt:botvinnik-versus-capablanca-avro-1938",
+    "title": "Botvinnik versus Capablanca, AVRO 1938",
+    "aliases": [
+      "Botvinnik vs Capablanca",
+      "Botvinnik v Capablanca",
+      "Botvinnik–Capablanca 1938",
+      "Botvinnik versus Capablanca AVRO",
+      "Botvinnik versus Capablanca Rotterdam 1938",
+      "AVRO 1938 round 11"
+    ],
+    "type": "Game",
+    "domain": "history",
+    "file": "articles/history/botvinnik-versus-capablanca-avro-1938.md",
+    "created": "2026-11-18",
+    "verified": "2026-11-18",
+    "volatile": false,
+    "status": "historical",
+    "eco": "E49",
+    "source_urls": [
+      "https://chesshistory.com/winter/extra/avro.html",
+      "https://worldchesshof.org/?p=925",
+      "https://www.olimpbase.org/ind-varia/it-avro1938.html",
+      "https://en.chessbase.com/post/79-years-ago-capablanca-beats-botvinnik",
+      "https://en.chessbase.com/newsroom/post/avro-1938-round-11-botvinnik-masterpiece"
+    ]
+  },
+  {
     "id": "kt:bronstein-delay",
     "title": "Bronstein delay",
     "aliases": [
