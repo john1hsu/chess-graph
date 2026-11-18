@@ -8935,6 +8935,89 @@
       ]
     },
     {
+      "@id": "kt:zukertort-versus-blackburne-london-1883",
+      "@type": "kto:Game",
+      "skos:prefLabel": "Zukertort versus Blackburne, London 1883",
+      "skos:definition": "Johannes Zukertort's win with White over Joseph Henry Blackburne at the London international tournament of 1883, a quiet queen's-flank opening that ended in a kingside storm, a queen offer on b4 and a rook sacrifice on f8; it is often called Zukertort's \"immortal game\".",
+      "kto:domain": "history",
+      "dcterms:created": "2026-11-18",
+      "kto:verified": "2026-11-18",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Zukertort v Blackburne, London, 1883",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://chesshistory.com/winter/extra/zukertortblackburne.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "London 1883: Prelude to the First World Championship Match (April 26, 1883 - June 23, 1883)",
+          "dcterms:publisher": "ChessBase News (Eugene Manlapao)",
+          "schema:url": "https://en.chessbase.com/newsroom/post/london-1883-prelude-to-the-first-world-championship-match-april-26-1883-june-23-1883",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Johannes Zukertort",
+          "dcterms:publisher": "World Chess Hall of Fame",
+          "schema:url": "https://worldchesshof.org/?p=833",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Joseph Henry \"The Black Death\" Blackburne: The Grand Old Man of British Chess",
+          "dcterms:publisher": "ChessBase News",
+          "schema:url": "https://en.chessbase.com/post/joseph-henry-the-black-death-blackburne-the-grand-old-man-of-british-chess",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/history/zukertort-versus-blackburne-london-1883.md",
+      "skos:altLabel": [
+        "Zukertort's Immortal",
+        "Zukertort's Immortal Game",
+        "Zukertort vs Blackburne 1883",
+        "Zukertort–Blackburne London 1883",
+        "Zukertort v Blackburne"
+      ],
+      "kto:fen": "2r4k/pb2q2P/1p6/3Pp3/4p3/1P2R3/PBrQ2PP/5RK1 w - - 0 28",
+      "skos:broader": [
+        {
+          "@id": "kt:romantic-era"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:deflection"
+        },
+        {
+          "@id": "kt:combination"
+        },
+        {
+          "@id": "kt:sacrifice"
+        },
+        {
+          "@id": "kt:immortal-game"
+        }
+      ],
+      "kto:playedBy": [
+        {
+          "@id": "kt:johannes-zukertort"
+        },
+        {
+          "@id": "kt:joseph-henry-blackburne"
+        }
+      ],
+      "kto:playedIn": [
+        {
+          "@id": "kt:london-1883"
+        }
+      ],
+      "kto:exemplifies": [
+        {
+          "@id": "kt:deflection"
+        }
+      ]
+    },
+    {
       "@id": "kt:alekhines-gun",
       "@type": "kto:StrategicConcept",
       "skos:prefLabel": "Alekhine's gun",

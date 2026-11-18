@@ -13779,6 +13779,26 @@
 <https://github.com/john1hsu/chess-graph/id/source/zugzwang/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/zugzwang/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/zugzwang/s4> <https://schema.org/url> "https://www.chessbase.in/news/Mutual-zugzwang-in-a-pawn-ending" .
+<https://github.com/john1hsu/chess-graph/id/source/zukertort-versus-blackburne-london-1883/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/zukertort-versus-blackburne-london-1883/s1> <http://purl.org/dc/terms/title> "Zukertort v Blackburne, London, 1883" .
+<https://github.com/john1hsu/chess-graph/id/source/zukertort-versus-blackburne-london-1883/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/zukertort-versus-blackburne-london-1883/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/zukertort-versus-blackburne-london-1883/s1> <https://schema.org/url> "https://chesshistory.com/winter/extra/zukertortblackburne.html" .
+<https://github.com/john1hsu/chess-graph/id/source/zukertort-versus-blackburne-london-1883/s2> <http://purl.org/dc/terms/publisher> "ChessBase News (Eugene Manlapao)" .
+<https://github.com/john1hsu/chess-graph/id/source/zukertort-versus-blackburne-london-1883/s2> <http://purl.org/dc/terms/title> "London 1883: Prelude to the First World Championship Match (April 26, 1883 - June 23, 1883)" .
+<https://github.com/john1hsu/chess-graph/id/source/zukertort-versus-blackburne-london-1883/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/zukertort-versus-blackburne-london-1883/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/zukertort-versus-blackburne-london-1883/s2> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/london-1883-prelude-to-the-first-world-championship-match-april-26-1883-june-23-1883" .
+<https://github.com/john1hsu/chess-graph/id/source/zukertort-versus-blackburne-london-1883/s3> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
+<https://github.com/john1hsu/chess-graph/id/source/zukertort-versus-blackburne-london-1883/s3> <http://purl.org/dc/terms/title> "Johannes Zukertort" .
+<https://github.com/john1hsu/chess-graph/id/source/zukertort-versus-blackburne-london-1883/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/zukertort-versus-blackburne-london-1883/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/zukertort-versus-blackburne-london-1883/s3> <https://schema.org/url> "https://worldchesshof.org/?p=833" .
+<https://github.com/john1hsu/chess-graph/id/source/zukertort-versus-blackburne-london-1883/s4> <http://purl.org/dc/terms/publisher> "ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/zukertort-versus-blackburne-london-1883/s4> <http://purl.org/dc/terms/title> "Joseph Henry \"The Black Death\" Blackburne: The Grand Old Man of British Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/zukertort-versus-blackburne-london-1883/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/zukertort-versus-blackburne-london-1883/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/zukertort-versus-blackburne-london-1883/s4> <https://schema.org/url> "https://en.chessbase.com/post/joseph-henry-the-black-death-blackburne-the-grand-old-man-of-british-chess" .
 <https://github.com/john1hsu/chess-graph/id/source/zwischenzug/s1> <http://purl.org/dc/terms/publisher> "Natasha Regan and Matt Ball (via Boekhuis)" .
 <https://github.com/john1hsu/chess-graph/id/source/zwischenzug/s1> <http://purl.org/dc/terms/title> "Zwischenzug! A Comprehensive Guide to Intermediate Moves (sample: contents, introduction and first chapters)" .
 <https://github.com/john1hsu/chess-graph/id/source/zwischenzug/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -15083,6 +15103,33 @@
 <https://github.com/john1hsu/chess-graph/id/zugzwang> <https://github.com/john1hsu/chess-graph/ontology#fen> "8/8/8/8/8/p7/k2N4/2K5 b - - 0 1" .
 <https://github.com/john1hsu/chess-graph/id/zugzwang> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/zugzwang> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/zukertort-versus-blackburne-london-1883> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/chess-graph/id/zukertort-versus-blackburne-london-1883> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Game> .
+<https://github.com/john1hsu/chess-graph/id/zukertort-versus-blackburne-london-1883> <http://www.w3.org/2000/01/rdf-schema#label> "Zukertort versus Blackburne, London 1883" .
+<https://github.com/john1hsu/chess-graph/id/zukertort-versus-blackburne-london-1883> <http://www.w3.org/2004/02/skos/core#altLabel> "Zukertort v Blackburne" .
+<https://github.com/john1hsu/chess-graph/id/zukertort-versus-blackburne-london-1883> <http://www.w3.org/2004/02/skos/core#altLabel> "Zukertort vs Blackburne 1883" .
+<https://github.com/john1hsu/chess-graph/id/zukertort-versus-blackburne-london-1883> <http://www.w3.org/2004/02/skos/core#altLabel> "Zukertort's Immortal Game" .
+<https://github.com/john1hsu/chess-graph/id/zukertort-versus-blackburne-london-1883> <http://www.w3.org/2004/02/skos/core#altLabel> "Zukertort's Immortal" .
+<https://github.com/john1hsu/chess-graph/id/zukertort-versus-blackburne-london-1883> <http://www.w3.org/2004/02/skos/core#altLabel> "Zukertort–Blackburne London 1883" .
+<https://github.com/john1hsu/chess-graph/id/zukertort-versus-blackburne-london-1883> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/romantic-era> .
+<https://github.com/john1hsu/chess-graph/id/zukertort-versus-blackburne-london-1883> <http://www.w3.org/2004/02/skos/core#definition> "Johannes Zukertort's win with White over Joseph Henry Blackburne at the London international tournament of 1883, a quiet queen's-flank opening that ended in a kingside storm, a queen offer on b4 and a rook sacrifice on f8; it is often called Zukertort's \"immortal game\"." .
+<https://github.com/john1hsu/chess-graph/id/zukertort-versus-blackburne-london-1883> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zukertort versus Blackburne, London 1883" .
+<https://github.com/john1hsu/chess-graph/id/zukertort-versus-blackburne-london-1883> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/combination> .
+<https://github.com/john1hsu/chess-graph/id/zukertort-versus-blackburne-london-1883> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/deflection> .
+<https://github.com/john1hsu/chess-graph/id/zukertort-versus-blackburne-london-1883> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/immortal-game> .
+<https://github.com/john1hsu/chess-graph/id/zukertort-versus-blackburne-london-1883> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/sacrifice> .
+<https://github.com/john1hsu/chess-graph/id/zukertort-versus-blackburne-london-1883> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/zukertort-versus-blackburne-london-1883/s1> .
+<https://github.com/john1hsu/chess-graph/id/zukertort-versus-blackburne-london-1883> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/zukertort-versus-blackburne-london-1883/s2> .
+<https://github.com/john1hsu/chess-graph/id/zukertort-versus-blackburne-london-1883> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/zukertort-versus-blackburne-london-1883/s3> .
+<https://github.com/john1hsu/chess-graph/id/zukertort-versus-blackburne-london-1883> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/zukertort-versus-blackburne-london-1883/s4> .
+<https://github.com/john1hsu/chess-graph/id/zukertort-versus-blackburne-london-1883> <https://github.com/john1hsu/chess-graph/ontology#domain> "history" .
+<https://github.com/john1hsu/chess-graph/id/zukertort-versus-blackburne-london-1883> <https://github.com/john1hsu/chess-graph/ontology#exemplifies> <https://github.com/john1hsu/chess-graph/id/deflection> .
+<https://github.com/john1hsu/chess-graph/id/zukertort-versus-blackburne-london-1883> <https://github.com/john1hsu/chess-graph/ontology#fen> "2r4k/pb2q2P/1p6/3Pp3/4p3/1P2R3/PBrQ2PP/5RK1 w - - 0 28" .
+<https://github.com/john1hsu/chess-graph/id/zukertort-versus-blackburne-london-1883> <https://github.com/john1hsu/chess-graph/ontology#playedBy> <https://github.com/john1hsu/chess-graph/id/johannes-zukertort> .
+<https://github.com/john1hsu/chess-graph/id/zukertort-versus-blackburne-london-1883> <https://github.com/john1hsu/chess-graph/ontology#playedBy> <https://github.com/john1hsu/chess-graph/id/joseph-henry-blackburne> .
+<https://github.com/john1hsu/chess-graph/id/zukertort-versus-blackburne-london-1883> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/london-1883> .
+<https://github.com/john1hsu/chess-graph/id/zukertort-versus-blackburne-london-1883> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/zukertort-versus-blackburne-london-1883> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-18" .
 <https://github.com/john1hsu/chess-graph/id/zwischenzug> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/zwischenzug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TacticalMotif> .
 <https://github.com/john1hsu/chess-graph/id/zwischenzug> <http://www.w3.org/2000/01/rdf-schema#label> "Zwischenzug" .

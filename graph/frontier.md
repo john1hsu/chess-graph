@@ -8,12 +8,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:the-turk`, `kt:herbert-simon` |
 | `kt:ju-wenjun` | `kt:norway-chess`, `kt:womens-world-chess-championship`, `kt:womens-world-chess-championship`, `kt:world-blitz-championship` |
 | `kt:howard-staunton` | `kt:london-1851`, `kt:london-1851`, `kt:paul-morphy` |
+| `kt:joseph-henry-blackburne` | `kt:london-1883`, `kt:zukertort-versus-blackburne-london-1883`, `kt:johannes-zukertort` |
 | `kt:steven-j-edwards` | `kt:extended-position-description`, `kt:forsyth-edwards-notation`, `kt:portable-game-notation` |
 | `kt:albert-zobrist` | `kt:zobrist-hashing`, `kt:zobrist-hashing` |
 | `kt:albin-countergambit` | `kt:queens-gambit`, `kt:underpromotion` |
 | `kt:alexander-kotov` | `kt:calculation`, `kt:candidate-moves` |
 | `kt:carlsen-versus-anand-sochi-2014-game-6` | `kt:magnus-carlsen`, `kt:zwischenzug` |
-| `kt:joseph-henry-blackburne` | `kt:london-1883`, `kt:johannes-zukertort` |
 | `kt:karpov-versus-unzicker-nice-1974` | `kt:prophylaxis`, `kt:anatoly-karpov` |
 | `kt:kings-indian-defence` | `kt:soviet-chess-school`, `kt:david-bronstein` |
 | `kt:lionel-kieseritzky` | `kt:immortal-game`, `kt:london-1851` |
@@ -31,7 +31,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:san-remo-1930` | `kt:alekhine-versus-nimzowitsch-san-remo-1930`, `kt:alexander-alekhine` |
 | `kt:scout-algorithm` | `kt:principal-variation-search`, `kt:principal-variation-search` |
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
-| `kt:zukertort-versus-blackburne-london-1883` | `kt:london-1883`, `kt:johannes-zukertort` |
 | `kt:abstract-strategy-game` | `kt:chess` |
 | `kt:alfred-binet` | `kt:cognitive-psychology-of-chess` |
 | `kt:allen-newell` | `kt:herbert-simon` |

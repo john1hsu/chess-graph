@@ -6626,6 +6626,30 @@
     ]
   },
   {
+    "id": "kt:zukertort-versus-blackburne-london-1883",
+    "title": "Zukertort versus Blackburne, London 1883",
+    "aliases": [
+      "Zukertort's Immortal",
+      "Zukertort's Immortal Game",
+      "Zukertort vs Blackburne 1883",
+      "Zukertort–Blackburne London 1883",
+      "Zukertort v Blackburne"
+    ],
+    "type": "Game",
+    "domain": "history",
+    "file": "articles/history/zukertort-versus-blackburne-london-1883.md",
+    "created": "2026-11-18",
+    "verified": "2026-11-18",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://chesshistory.com/winter/extra/zukertortblackburne.html",
+      "https://en.chessbase.com/newsroom/post/london-1883-prelude-to-the-first-world-championship-match-april-26-1883-june-23-1883",
+      "https://worldchesshof.org/?p=833",
+      "https://en.chessbase.com/post/joseph-henry-the-black-death-blackburne-the-grand-old-man-of-british-chess"
+    ]
+  },
+  {
     "id": "kt:zwischenzug",
     "title": "Zwischenzug",
     "aliases": [
