@@ -10471,6 +10471,92 @@
       ]
     },
     {
+      "@id": "kt:simplification",
+      "@type": "kto:Technique",
+      "skos:prefLabel": "Simplification",
+      "skos:definition": "The deliberate exchange of pieces to reduce the forces on the board, most often to turn a material or positional advantage into an easily won ending, and sometimes, for the defender, to blunt an attack.",
+      "kto:domain": "middlegame-strategy",
+      "dcterms:created": "2026-11-18",
+      "kto:verified": "2026-11-18",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Chess Fundamentals",
+          "dcterms:publisher": "José Raúl Capablanca, Project Gutenberg edition (eBook 33870)",
+          "schema:url": "https://gutenberg.org/cache/epub/33870/pg33870-images.html",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Liquidation on the Chess Board: Mastering the Transition into the Pawn Endgame (3rd edition, excerpt)",
+          "dcterms:publisher": "Joel Benjamin, New In Chess (2019)",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/9080.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Chess Strategy",
+          "dcterms:publisher": "Edward Lasker, Project Gutenberg edition (eBook 5614)",
+          "schema:url": "https://gutenberg.org/files/5614/5614-h/5614-h.htm",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "How To Play When You're Winning Easily",
+          "dcterms:publisher": "Dan Heisman, Chess.com",
+          "schema:url": "https://www.chess.com/article/view/how-to-play-when-you-re-winning-easily",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/middlegame-strategy/simplification.md",
+      "skos:altLabel": [
+        "Simplifying",
+        "Trading down",
+        "Liquidation",
+        "Liquidating",
+        "Simplifying exchanges",
+        "Trading pieces when ahead"
+      ],
+      "kto:fen": "3r4/4kp1p/6p1/8/P7/4K1P1/5P1P/3R4 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-strategy"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:material-advantage"
+        },
+        {
+          "@id": "kt:passed-pawn"
+        },
+        {
+          "@id": "kt:king-safety"
+        },
+        {
+          "@id": "kt:ruy-lopez"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:material-advantage"
+        }
+      ],
+      "kto:leadsTo": [
+        {
+          "@id": "kt:king-and-pawn-endgames"
+        }
+      ],
+      "kto:championedBy": [
+        {
+          "@id": "kt:jose-raul-capablanca"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:lasker-versus-capablanca-st-petersburg-1914"
+        }
+      ]
+    },
+    {
       "@id": "kt:space-advantage",
       "@type": "kto:StrategicConcept",
       "skos:prefLabel": "Space advantage",

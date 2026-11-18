@@ -5181,6 +5181,31 @@
     ]
   },
   {
+    "id": "kt:simplification",
+    "title": "Simplification",
+    "aliases": [
+      "Simplifying",
+      "Trading down",
+      "Liquidation",
+      "Liquidating",
+      "Simplifying exchanges",
+      "Trading pieces when ahead"
+    ],
+    "type": "Technique",
+    "domain": "middlegame-strategy",
+    "file": "articles/middlegame-strategy/simplification.md",
+    "created": "2026-11-18",
+    "verified": "2026-11-18",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://gutenberg.org/cache/epub/33870/pg33870-images.html",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/9080.pdf",
+      "https://gutenberg.org/files/5614/5614-h/5614-h.htm",
+      "https://www.chess.com/article/view/how-to-play-when-you-re-winning-easily"
+    ]
+  },
+  {
     "id": "kt:skewer",
     "title": "Skewer",
     "aliases": [

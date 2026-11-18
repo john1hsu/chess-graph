@@ -5811,6 +5811,34 @@
 <https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/world-chess-championship-1908> .
 <https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/simplification> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/chess-graph/id/simplification> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Technique> .
+<https://github.com/john1hsu/chess-graph/id/simplification> <http://www.w3.org/2000/01/rdf-schema#label> "Simplification" .
+<https://github.com/john1hsu/chess-graph/id/simplification> <http://www.w3.org/2004/02/skos/core#altLabel> "Liquidating" .
+<https://github.com/john1hsu/chess-graph/id/simplification> <http://www.w3.org/2004/02/skos/core#altLabel> "Liquidation" .
+<https://github.com/john1hsu/chess-graph/id/simplification> <http://www.w3.org/2004/02/skos/core#altLabel> "Simplifying exchanges" .
+<https://github.com/john1hsu/chess-graph/id/simplification> <http://www.w3.org/2004/02/skos/core#altLabel> "Simplifying" .
+<https://github.com/john1hsu/chess-graph/id/simplification> <http://www.w3.org/2004/02/skos/core#altLabel> "Trading down" .
+<https://github.com/john1hsu/chess-graph/id/simplification> <http://www.w3.org/2004/02/skos/core#altLabel> "Trading pieces when ahead" .
+<https://github.com/john1hsu/chess-graph/id/simplification> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-strategy> .
+<https://github.com/john1hsu/chess-graph/id/simplification> <http://www.w3.org/2004/02/skos/core#definition> "The deliberate exchange of pieces to reduce the forces on the board, most often to turn a material or positional advantage into an easily won ending, and sometimes, for the defender, to blunt an attack." .
+<https://github.com/john1hsu/chess-graph/id/simplification> <http://www.w3.org/2004/02/skos/core#prefLabel> "Simplification" .
+<https://github.com/john1hsu/chess-graph/id/simplification> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/king-safety> .
+<https://github.com/john1hsu/chess-graph/id/simplification> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/material-advantage> .
+<https://github.com/john1hsu/chess-graph/id/simplification> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/passed-pawn> .
+<https://github.com/john1hsu/chess-graph/id/simplification> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/ruy-lopez> .
+<https://github.com/john1hsu/chess-graph/id/simplification> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/simplification/s1> .
+<https://github.com/john1hsu/chess-graph/id/simplification> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/simplification/s2> .
+<https://github.com/john1hsu/chess-graph/id/simplification> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/simplification/s3> .
+<https://github.com/john1hsu/chess-graph/id/simplification> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/simplification/s4> .
+<https://github.com/john1hsu/chess-graph/id/simplification> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> .
+<https://github.com/john1hsu/chess-graph/id/simplification> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/material-advantage> .
+<https://github.com/john1hsu/chess-graph/id/simplification> <https://github.com/john1hsu/chess-graph/ontology#domain> "middlegame-strategy" .
+<https://github.com/john1hsu/chess-graph/id/simplification> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/lasker-versus-capablanca-st-petersburg-1914> .
+<https://github.com/john1hsu/chess-graph/id/simplification> <https://github.com/john1hsu/chess-graph/ontology#fen> "3r4/4kp1p/6p1/8/P7/4K1P1/5P1P/3R4 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/simplification> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/king-and-pawn-endgames> .
+<https://github.com/john1hsu/chess-graph/id/simplification> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/simplification> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-18" .
 <https://github.com/john1hsu/chess-graph/id/skewer> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/skewer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TacticalMotif> .
 <https://github.com/john1hsu/chess-graph/id/skewer> <http://www.w3.org/2000/01/rdf-schema#label> "Skewer" .
@@ -11855,6 +11883,26 @@
 <https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
 <https://github.com/john1hsu/chess-graph/id/source/siegbert-tarrasch/s7> <https://schema.org/url> "https://www.chessgames.com/perl/chessopening?eco=D32" .
+<https://github.com/john1hsu/chess-graph/id/source/simplification/s1> <http://purl.org/dc/terms/publisher> "José Raúl Capablanca, Project Gutenberg edition (eBook 33870)" .
+<https://github.com/john1hsu/chess-graph/id/source/simplification/s1> <http://purl.org/dc/terms/title> "Chess Fundamentals" .
+<https://github.com/john1hsu/chess-graph/id/source/simplification/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/simplification/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/simplification/s1> <https://schema.org/url> "https://gutenberg.org/cache/epub/33870/pg33870-images.html" .
+<https://github.com/john1hsu/chess-graph/id/source/simplification/s2> <http://purl.org/dc/terms/publisher> "Joel Benjamin, New In Chess (2019)" .
+<https://github.com/john1hsu/chess-graph/id/source/simplification/s2> <http://purl.org/dc/terms/title> "Liquidation on the Chess Board: Mastering the Transition into the Pawn Endgame (3rd edition, excerpt)" .
+<https://github.com/john1hsu/chess-graph/id/source/simplification/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/simplification/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/simplification/s2> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/9080.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/simplification/s3> <http://purl.org/dc/terms/publisher> "Edward Lasker, Project Gutenberg edition (eBook 5614)" .
+<https://github.com/john1hsu/chess-graph/id/source/simplification/s3> <http://purl.org/dc/terms/title> "Chess Strategy" .
+<https://github.com/john1hsu/chess-graph/id/source/simplification/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/simplification/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/simplification/s3> <https://schema.org/url> "https://gutenberg.org/files/5614/5614-h/5614-h.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/simplification/s4> <http://purl.org/dc/terms/publisher> "Dan Heisman, Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/simplification/s4> <http://purl.org/dc/terms/title> "How To Play When You're Winning Easily" .
+<https://github.com/john1hsu/chess-graph/id/source/simplification/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/simplification/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/simplification/s4> <https://schema.org/url> "https://www.chess.com/article/view/how-to-play-when-you-re-winning-easily" .
 <https://github.com/john1hsu/chess-graph/id/source/skewer/s1> <http://purl.org/dc/terms/publisher> "English Chess Federation" .
 <https://github.com/john1hsu/chess-graph/id/source/skewer/s1> <http://purl.org/dc/terms/title> "Skewers (Chess Skills leaflet)" .
 <https://github.com/john1hsu/chess-graph/id/source/skewer/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

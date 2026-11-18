@@ -32,7 +32,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:zugzwang`, `kt:aron-nimzowitsch` |
 | `kt:san-remo-1930` | `kt:alekhine-versus-nimzowitsch-san-remo-1930`, `kt:alexander-alekhine` |
 | `kt:scout-algorithm` | `kt:principal-variation-search`, `kt:principal-variation-search` |
-| `kt:simplification` | `kt:material-advantage`, `kt:material-advantage` |
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
 | `kt:static-exchange-evaluation` | `kt:move-ordering`, `kt:quiescence-search` |
 | `kt:steven-j-edwards` | `kt:forsyth-edwards-notation`, `kt:portable-game-notation` |
@@ -150,6 +149,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:lasker-capablanca-st-petersburg-1914` | `kt:emanuel-lasker` |
 | `kt:lasker-thomas-1912` | `kt:decoy` |
 | `kt:lasker-versus-bauer-amsterdam-1889` | `kt:combination` |
+| `kt:lasker-versus-capablanca-st-petersburg-1914` | `kt:simplification` |
 | `kt:leela-zero` | `kt:leela-chess-zero` |
 | `kt:leipzig-1894` | `kt:siegbert-tarrasch` |
 | `kt:leonardo-torres-y-quevedo` | `kt:claude-shannon` |
