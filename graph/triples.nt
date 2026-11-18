@@ -5872,6 +5872,32 @@
 <https://github.com/john1hsu/chess-graph/id/saint-louis-chess-club> <https://github.com/john1hsu/chess-graph/ontology#domain> "events-and-organizations" .
 <https://github.com/john1hsu/chess-graph/id/saint-louis-chess-club> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/saint-louis-chess-club> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/sam-loyd> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/chess-graph/id/sam-loyd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Person> .
+<https://github.com/john1hsu/chess-graph/id/sam-loyd> <http://www.w3.org/2000/01/rdf-schema#label> "Sam Loyd" .
+<https://github.com/john1hsu/chess-graph/id/sam-loyd> <http://www.w3.org/2004/02/skos/core#altLabel> "S. Loyd" .
+<https://github.com/john1hsu/chess-graph/id/sam-loyd> <http://www.w3.org/2004/02/skos/core#altLabel> "Samuel Loyd" .
+<https://github.com/john1hsu/chess-graph/id/sam-loyd> <http://www.w3.org/2004/02/skos/core#altLabel> "The Puzzle King" .
+<https://github.com/john1hsu/chess-graph/id/sam-loyd> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-composition> .
+<https://github.com/john1hsu/chess-graph/id/sam-loyd> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-problems> .
+<https://github.com/john1hsu/chess-graph/id/sam-loyd> <http://www.w3.org/2004/02/skos/core#definition> "American chess problem composer and puzzlemaker (1841–1911), the leading American problemist of the mid-nineteenth century, known for the Excelsior and the \"Steinitz Gambit\" problems, for early retrograde problems and for his book Chess Strategy (1878)." .
+<https://github.com/john1hsu/chess-graph/id/sam-loyd> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sam Loyd" .
+<https://github.com/john1hsu/chess-graph/id/sam-loyd> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/excelsior> .
+<https://github.com/john1hsu/chess-graph/id/sam-loyd> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/paul-morphy> .
+<https://github.com/john1hsu/chess-graph/id/sam-loyd> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/retrograde-analysis> .
+<https://github.com/john1hsu/chess-graph/id/sam-loyd> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/stalemate> .
+<https://github.com/john1hsu/chess-graph/id/sam-loyd> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> .
+<https://github.com/john1hsu/chess-graph/id/sam-loyd> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/world-chess-hall-of-fame> .
+<https://github.com/john1hsu/chess-graph/id/sam-loyd> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/sam-loyd/s1> .
+<https://github.com/john1hsu/chess-graph/id/sam-loyd> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/sam-loyd/s2> .
+<https://github.com/john1hsu/chess-graph/id/sam-loyd> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/sam-loyd/s3> .
+<https://github.com/john1hsu/chess-graph/id/sam-loyd> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/sam-loyd/s4> .
+<https://github.com/john1hsu/chess-graph/id/sam-loyd> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/sam-loyd/s5> .
+<https://github.com/john1hsu/chess-graph/id/sam-loyd> <https://github.com/john1hsu/chess-graph/ontology#domain> "variants-and-compositions" .
+<https://github.com/john1hsu/chess-graph/id/sam-loyd> <https://github.com/john1hsu/chess-graph/ontology#fen> "4r1b1/1p4B1/pN2pR2/RB2k3/1P2N2p/2p3b1/n2P1p1r/5K1n w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/sam-loyd> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/paris-1867> .
+<https://github.com/john1hsu/chess-graph/id/sam-loyd> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/sam-loyd> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-18" .
 <https://github.com/john1hsu/chess-graph/id/selfmate> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/chess-graph/id/selfmate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#ProblemGenre> .
 <https://github.com/john1hsu/chess-graph/id/selfmate> <http://www.w3.org/2000/01/rdf-schema#label> "Selfmate" .
@@ -12248,6 +12274,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s8> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
 <https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s8> <https://schema.org/url> "https://worldchesshof.org/plan-your-visit/saint-louis-the-chess-capital-of-america/" .
+<https://github.com/john1hsu/chess-graph/id/source/sam-loyd/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/sam-loyd/s1> <http://purl.org/dc/terms/title> "Sam Loyd" .
+<https://github.com/john1hsu/chess-graph/id/source/sam-loyd/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/sam-loyd/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/sam-loyd/s1> <https://schema.org/url> "https://www.britannica.com:443/biography/Sam-Loyd" .
+<https://github.com/john1hsu/chess-graph/id/source/sam-loyd/s2> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
+<https://github.com/john1hsu/chess-graph/id/source/sam-loyd/s2> <http://purl.org/dc/terms/title> "Sam Loyd (1841–1911)" .
+<https://github.com/john1hsu/chess-graph/id/source/sam-loyd/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/sam-loyd/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/sam-loyd/s2> <https://schema.org/url> "https://worldchesshof.org/?p=775" .
+<https://github.com/john1hsu/chess-graph/id/source/sam-loyd/s3> <http://purl.org/dc/terms/publisher> "MacTutor History of Mathematics, University of St Andrews" .
+<https://github.com/john1hsu/chess-graph/id/source/sam-loyd/s3> <http://purl.org/dc/terms/title> "Samuel Loyd" .
+<https://github.com/john1hsu/chess-graph/id/source/sam-loyd/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/sam-loyd/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/sam-loyd/s3> <https://schema.org/url> "https://mathshistory.st-andrews.ac.uk/Biographies/Loyd/" .
+<https://github.com/john1hsu/chess-graph/id/source/sam-loyd/s4> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (updated 7 September 2025)" .
+<https://github.com/john1hsu/chess-graph/id/source/sam-loyd/s4> <http://purl.org/dc/terms/title> "Samuel Loyd" .
+<https://github.com/john1hsu/chess-graph/id/source/sam-loyd/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/sam-loyd/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/sam-loyd/s4> <https://schema.org/url> "https://chesshistory.com/winter/extra/loyd.html" .
+<https://github.com/john1hsu/chess-graph/id/source/sam-loyd/s5> <http://purl.org/dc/terms/publisher> "Frederic Friedel, ChessBase News (11 November 2013)" .
+<https://github.com/john1hsu/chess-graph/id/source/sam-loyd/s5> <http://purl.org/dc/terms/title> "ChessBase Puzzles: Loyd's Steinitz Gambit" .
+<https://github.com/john1hsu/chess-graph/id/source/sam-loyd/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/sam-loyd/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/sam-loyd/s5> <https://schema.org/url> "https://en.chessbase.com/post/chessbase-puzzles-loyd-s-steinitz-gambit" .
 <https://github.com/john1hsu/chess-graph/id/source/selfmate/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/selfmate/s1> <http://purl.org/dc/terms/title> "Chess: Chess composition" .
 <https://github.com/john1hsu/chess-graph/id/source/selfmate/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

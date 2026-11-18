@@ -34,6 +34,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:san-remo-1930` | `kt:alekhine-versus-nimzowitsch-san-remo-1930`, `kt:alexander-alekhine` |
 | `kt:scout-algorithm` | `kt:principal-variation-search`, `kt:principal-variation-search` |
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
+| `kt:world-chess-hall-of-fame` | `kt:saint-louis-chess-club`, `kt:sam-loyd` |
 | `kt:abstract-strategy-game` | `kt:chess` |
 | `kt:allen-newell` | `kt:herbert-simon` |
 | `kt:antonin-novotny` | `kt:novotny-theme` |
@@ -177,6 +178,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:opening-surprise` | `kt:opening-repertoire` |
 | `kt:otto-selz` | `kt:adriaan-de-groot` |
 | `kt:panov-botvinnik-attack` | `kt:caro-kann-defence` |
+| `kt:paris-1867` | `kt:sam-loyd` |
 | `kt:passive-rook-defence` | `kt:philidor-position` |
 | `kt:paul-keres` | `kt:correspondence-chess` |
 | `kt:pawn-storm` | `kt:king-safety` |
@@ -211,7 +213,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:rudolf-spielmann` | `kt:sacrifice` |
 | `kt:ruy-lopez-de-segura` | `kt:ruy-lopez` |
 | `kt:saemisch-variation` | `kt:doubled-pawns` |
-| `kt:sam-loyd` | `kt:excelsior` |
 | `kt:same-coloured-bishops` | `kt:opposite-coloured-bishops` |
 | `kt:samisch-variation` | `kt:nimzo-indian-defence` |
 | `kt:samuel-reshevsky` | `kt:us-chess-championship` |
@@ -261,7 +262,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:world-chess-championship-1951` | `kt:david-bronstein` |
 | `kt:world-chess-championship-2000` | `kt:berlin-defence` |
 | `kt:world-chess-championship-2018` | `kt:sveshnikov-variation` |
-| `kt:world-chess-hall-of-fame` | `kt:saint-louis-chess-club` |
 | `kt:world-xiangqi-federation` | `kt:xiangqi` |
 | `kt:yu-nasu` | `kt:nnue` |
 | `kt:yugoslav-attack` | `kt:dragon-variation` |

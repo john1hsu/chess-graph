@@ -24694,6 +24694,89 @@
       ]
     },
     {
+      "@id": "kt:sam-loyd",
+      "@type": "kto:Person",
+      "skos:prefLabel": "Sam Loyd",
+      "skos:definition": "American chess problem composer and puzzlemaker (1841–1911), the leading American problemist of the mid-nineteenth century, known for the Excelsior and the \"Steinitz Gambit\" problems, for early retrograde problems and for his book Chess Strategy (1878).",
+      "kto:domain": "variants-and-compositions",
+      "dcterms:created": "2026-11-18",
+      "kto:verified": "2026-11-18",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Sam Loyd",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com:443/biography/Sam-Loyd",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Sam Loyd (1841–1911)",
+          "dcterms:publisher": "World Chess Hall of Fame",
+          "schema:url": "https://worldchesshof.org/?p=775",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Samuel Loyd",
+          "dcterms:publisher": "MacTutor History of Mathematics, University of St Andrews",
+          "schema:url": "https://mathshistory.st-andrews.ac.uk/Biographies/Loyd/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Samuel Loyd",
+          "dcterms:publisher": "Edward Winter, Chess Notes (updated 7 September 2025)",
+          "schema:url": "https://chesshistory.com/winter/extra/loyd.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "ChessBase Puzzles: Loyd's Steinitz Gambit",
+          "dcterms:publisher": "Frederic Friedel, ChessBase News (11 November 2013)",
+          "schema:url": "https://en.chessbase.com/post/chessbase-puzzles-loyd-s-steinitz-gambit",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/variants-and-compositions/sam-loyd.md",
+      "skos:altLabel": [
+        "Samuel Loyd",
+        "S. Loyd",
+        "The Puzzle King"
+      ],
+      "kto:fen": "4r1b1/1p4B1/pN2pR2/RB2k3/1P2N2p/2p3b1/n2P1p1r/5K1n w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-problems"
+        },
+        {
+          "@id": "kt:chess-composition"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:excelsior"
+        },
+        {
+          "@id": "kt:retrograde-analysis"
+        },
+        {
+          "@id": "kt:paul-morphy"
+        },
+        {
+          "@id": "kt:wilhelm-steinitz"
+        },
+        {
+          "@id": "kt:stalemate"
+        },
+        {
+          "@id": "kt:world-chess-hall-of-fame"
+        }
+      ],
+      "kto:playedIn": [
+        {
+          "@id": "kt:paris-1867"
+        }
+      ]
+    },
+    {
       "@id": "kt:selfmate",
       "@type": "kto:ProblemGenre",
       "skos:prefLabel": "Selfmate",

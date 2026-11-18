@@ -5237,6 +5237,29 @@
     ]
   },
   {
+    "id": "kt:sam-loyd",
+    "title": "Sam Loyd",
+    "aliases": [
+      "Samuel Loyd",
+      "S. Loyd",
+      "The Puzzle King"
+    ],
+    "type": "Person",
+    "domain": "variants-and-compositions",
+    "file": "articles/variants-and-compositions/sam-loyd.md",
+    "created": "2026-11-18",
+    "verified": "2026-11-18",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://www.britannica.com:443/biography/Sam-Loyd",
+      "https://worldchesshof.org/?p=775",
+      "https://mathshistory.st-andrews.ac.uk/Biographies/Loyd/",
+      "https://chesshistory.com/winter/extra/loyd.html",
+      "https://en.chessbase.com/post/chessbase-puzzles-loyd-s-steinitz-gambit"
+    ]
+  },
+  {
     "id": "kt:selfmate",
     "title": "Selfmate",
     "aliases": [
