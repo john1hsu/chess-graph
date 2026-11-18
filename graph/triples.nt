@@ -4172,6 +4172,32 @@
 <https://github.com/john1hsu/chess-graph/id/material-advantage> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/simplification> .
 <https://github.com/john1hsu/chess-graph/id/material-advantage> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/material-advantage> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/merim-bilalic> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/chess-graph/id/merim-bilalic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Person> .
+<https://github.com/john1hsu/chess-graph/id/merim-bilalic> <http://www.w3.org/2000/01/rdf-schema#label> "Merim Bilalić" .
+<https://github.com/john1hsu/chess-graph/id/merim-bilalic> <http://www.w3.org/2004/02/skos/core#altLabel> "M. Bilalic" .
+<https://github.com/john1hsu/chess-graph/id/merim-bilalic> <http://www.w3.org/2004/02/skos/core#altLabel> "M. Bilalić" .
+<https://github.com/john1hsu/chess-graph/id/merim-bilalic> <http://www.w3.org/2004/02/skos/core#altLabel> "Merim Bilalic" .
+<https://github.com/john1hsu/chess-graph/id/merim-bilalic> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/merim-bilalic> <http://www.w3.org/2004/02/skos/core#definition> "Cognitive psychologist at Northumbria University whose chess experiments, with Peter McLeod and Fernand Gobet, showed how a familiar idea steers an expert's eyes away from a better move (the Einstellung effect), and who has studied the gender gap in chess and the neuroscience of expertise." .
+<https://github.com/john1hsu/chess-graph/id/merim-bilalic> <http://www.w3.org/2004/02/skos/core#prefLabel> "Merim Bilalić" .
+<https://github.com/john1hsu/chess-graph/id/merim-bilalic> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-expertise> .
+<https://github.com/john1hsu/chess-graph/id/merim-bilalic> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/einstellung-effect> .
+<https://github.com/john1hsu/chess-graph/id/merim-bilalic> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/smothered-mate> .
+<https://github.com/john1hsu/chess-graph/id/merim-bilalic> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/talent> .
+<https://github.com/john1hsu/chess-graph/id/merim-bilalic> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/women-in-chess> .
+<https://github.com/john1hsu/chess-graph/id/merim-bilalic> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s1> .
+<https://github.com/john1hsu/chess-graph/id/merim-bilalic> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s2> .
+<https://github.com/john1hsu/chess-graph/id/merim-bilalic> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s3> .
+<https://github.com/john1hsu/chess-graph/id/merim-bilalic> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s4> .
+<https://github.com/john1hsu/chess-graph/id/merim-bilalic> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s5> .
+<https://github.com/john1hsu/chess-graph/id/merim-bilalic> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s6> .
+<https://github.com/john1hsu/chess-graph/id/merim-bilalic> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s7> .
+<https://github.com/john1hsu/chess-graph/id/merim-bilalic> <https://github.com/john1hsu/chess-graph/ontology#domain> "training-and-improvement" .
+<https://github.com/john1hsu/chess-graph/id/merim-bilalic> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/abraham-luchins> .
+<https://github.com/john1hsu/chess-graph/id/merim-bilalic> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/fernand-gobet> .
+<https://github.com/john1hsu/chess-graph/id/merim-bilalic> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/merim-bilalic> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-18" .
 <https://github.com/john1hsu/chess-graph/id/mikhail-botvinnik> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/mikhail-botvinnik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
 <https://github.com/john1hsu/chess-graph/id/mikhail-botvinnik> <http://www.w3.org/2000/01/rdf-schema#label> "Mikhail Botvinnik" .
@@ -10232,6 +10258,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/material-advantage/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/material-advantage/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/material-advantage/s6> <https://schema.org/url> "https://exeterchessclub.org.uk/node/808" .
+<https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s1> <http://purl.org/dc/terms/publisher> "The Conversation" .
+<https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s1> <http://purl.org/dc/terms/title> "Merim Bilalić — Professor of Cognitive Psychology, Northumbria University" .
+<https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s1> <https://schema.org/url> "https://theconversation.com/profiles/merim-bilalic-340398" .
+<https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s2> <http://purl.org/dc/terms/publisher> "Northumbria University Research Portal" .
+<https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s2> <http://purl.org/dc/terms/title> "Merim Bilalić — Personal profile" .
+<https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s2> <https://schema.org/url> "https://researchportal.northumbria.ac.uk/en/persons/merim-bilalic/" .
+<https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s3> <http://purl.org/dc/terms/publisher> "Merim Bilalić, Peter McLeod and Fernand Gobet, Brunel University Research Archive" .
+<https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s3> <http://purl.org/dc/terms/title> "Why good thoughts block better ones: The mechanism of the pernicious Einstellung (set) effect (Cognition, 2008)" .
+<https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s3> <https://schema.org/url> "https://bura.brunel.ac.uk/handle/2438/2276?mode=full" .
+<https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s4> <http://purl.org/dc/terms/publisher> "Merim Bilalić, Peter McLeod and Fernand Gobet, University of Klagenfurt" .
+<https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s4> <http://purl.org/dc/terms/title> "The mechanism of the Einstellung (set) effect: A pervasive source of cognitive bias (Current Directions in Psychological Science 19, 2010)" .
+<https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s4> <https://schema.org/url> "https://cognition.aau.at/download/Publikationen/Bilalic/Bilalic_etal_2010b.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s5> <http://purl.org/dc/terms/publisher> "Bilalić, Smallbone, McLeod and Gobet, University of Manchester ePrints" .
+<https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s5> <http://purl.org/dc/terms/title> "Why are (the best) women so good at chess? Participation rates and gender differences in intellectual domains (Proceedings of the Royal Society B 276, 2009)" .
+<https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s5> <https://schema.org/url> "https://eprints.maths.manchester.ac.uk/1225/" .
+<https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s6> <http://purl.org/dc/terms/publisher> "Merim Bilalić, Northumbria University Research Portal" .
+<https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s6> <http://purl.org/dc/terms/title> "The Double Take of Expertise: Neural Expansion Is Associated With Outstanding Performance (Current Directions in Psychological Science 27, 2018)" .
+<https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s6> <https://schema.org/url> "https://researchportal.northumbria.ac.uk/en/publications/the-double-take-of-expertise-neural-expansion-is-associated-with-/" .
+<https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s7> <http://purl.org/dc/terms/publisher> "Northumbria Research Link" .
+<https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s7> <http://purl.org/dc/terms/title> "The Neuroscience of Expertise (Cambridge University Press, 2017)" .
+<https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/merim-bilalic/s7> <https://schema.org/url> "https://nrl.northumbria.ac.uk/id/eprint/36809" .
 <https://github.com/john1hsu/chess-graph/id/source/mikhail-botvinnik/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/mikhail-botvinnik/s1> <http://purl.org/dc/terms/title> "Mikhail Moiseyevich Botvinnik" .
 <https://github.com/john1hsu/chess-graph/id/source/mikhail-botvinnik/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

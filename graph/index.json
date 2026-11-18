@@ -3713,6 +3713,31 @@
     ]
   },
   {
+    "id": "kt:merim-bilalic",
+    "title": "Merim Bilalić",
+    "aliases": [
+      "Merim Bilalic",
+      "M. Bilalić",
+      "M. Bilalic"
+    ],
+    "type": "Person",
+    "domain": "training-and-improvement",
+    "file": "articles/training-and-improvement/merim-bilalic.md",
+    "created": "2026-11-18",
+    "verified": "2026-11-18",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://theconversation.com/profiles/merim-bilalic-340398",
+      "https://researchportal.northumbria.ac.uk/en/persons/merim-bilalic/",
+      "https://bura.brunel.ac.uk/handle/2438/2276?mode=full",
+      "https://cognition.aau.at/download/Publikationen/Bilalic/Bilalic_etal_2010b.pdf",
+      "https://eprints.maths.manchester.ac.uk/1225/",
+      "https://researchportal.northumbria.ac.uk/en/publications/the-double-take-of-expertise-neural-expansion-is-associated-with-/",
+      "https://nrl.northumbria.ac.uk/id/eprint/36809"
+    ]
+  },
+  {
     "id": "kt:mikhail-botvinnik",
     "title": "Mikhail Botvinnik",
     "aliases": [

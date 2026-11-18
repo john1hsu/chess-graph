@@ -21147,6 +21147,97 @@
       ]
     },
     {
+      "@id": "kt:merim-bilalic",
+      "@type": "kto:Person",
+      "skos:prefLabel": "Merim Bilalić",
+      "skos:definition": "Cognitive psychologist at Northumbria University whose chess experiments, with Peter McLeod and Fernand Gobet, showed how a familiar idea steers an expert's eyes away from a better move (the Einstellung effect), and who has studied the gender gap in chess and the neuroscience of expertise.",
+      "kto:domain": "training-and-improvement",
+      "dcterms:created": "2026-11-18",
+      "kto:verified": "2026-11-18",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Merim Bilalić — Professor of Cognitive Psychology, Northumbria University",
+          "dcterms:publisher": "The Conversation",
+          "schema:url": "https://theconversation.com/profiles/merim-bilalic-340398",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Merim Bilalić — Personal profile",
+          "dcterms:publisher": "Northumbria University Research Portal",
+          "schema:url": "https://researchportal.northumbria.ac.uk/en/persons/merim-bilalic/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Why good thoughts block better ones: The mechanism of the pernicious Einstellung (set) effect (Cognition, 2008)",
+          "dcterms:publisher": "Merim Bilalić, Peter McLeod and Fernand Gobet, Brunel University Research Archive",
+          "schema:url": "https://bura.brunel.ac.uk/handle/2438/2276?mode=full",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The mechanism of the Einstellung (set) effect: A pervasive source of cognitive bias (Current Directions in Psychological Science 19, 2010)",
+          "dcterms:publisher": "Merim Bilalić, Peter McLeod and Fernand Gobet, University of Klagenfurt",
+          "schema:url": "https://cognition.aau.at/download/Publikationen/Bilalic/Bilalic_etal_2010b.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Why are (the best) women so good at chess? Participation rates and gender differences in intellectual domains (Proceedings of the Royal Society B 276, 2009)",
+          "dcterms:publisher": "Bilalić, Smallbone, McLeod and Gobet, University of Manchester ePrints",
+          "schema:url": "https://eprints.maths.manchester.ac.uk/1225/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Double Take of Expertise: Neural Expansion Is Associated With Outstanding Performance (Current Directions in Psychological Science 27, 2018)",
+          "dcterms:publisher": "Merim Bilalić, Northumbria University Research Portal",
+          "schema:url": "https://researchportal.northumbria.ac.uk/en/publications/the-double-take-of-expertise-neural-expansion-is-associated-with-/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Neuroscience of Expertise (Cambridge University Press, 2017)",
+          "dcterms:publisher": "Northumbria Research Link",
+          "schema:url": "https://nrl.northumbria.ac.uk/id/eprint/36809",
+          "kto:sourceType": "book"
+        }
+      ],
+      "kto:file": "articles/training-and-improvement/merim-bilalic.md",
+      "skos:altLabel": [
+        "Merim Bilalic",
+        "M. Bilalić",
+        "M. Bilalic"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:cognitive-psychology-of-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:einstellung-effect"
+        },
+        {
+          "@id": "kt:chess-expertise"
+        },
+        {
+          "@id": "kt:smothered-mate"
+        },
+        {
+          "@id": "kt:talent"
+        },
+        {
+          "@id": "kt:women-in-chess"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:abraham-luchins"
+        },
+        {
+          "@id": "kt:fernand-gobet"
+        }
+      ]
+    },
+    {
       "@id": "kt:opening-repertoire",
       "@type": "kto:Technique",
       "skos:prefLabel": "Opening repertoire",

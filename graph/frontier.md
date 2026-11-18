@@ -22,7 +22,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:marmaduke-wyvill` | `kt:london-1851`, `kt:london-1883` |
 | `kt:marshall-attack` | `kt:berlin-defence`, `kt:ruy-lopez` |
 | `kt:max-euwe` | `kt:slav-defence`, `kt:alexander-alekhine` |
-| `kt:merim-bilalic` | `kt:abraham-luchins`, `kt:einstellung-effect` |
 | `kt:miguel-najdorf` | `kt:najdorf-variation`, `kt:blindfold-chess` |
 | `kt:numeric-annotation-glyphs` | `kt:portable-game-notation`, `kt:annotating-your-games` |
 | `kt:open-ruy-lopez` | `kt:berlin-defence`, `kt:ruy-lopez` |
@@ -246,6 +245,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:william-davies-evans` | `kt:evans-gambit` |
 | `kt:winawer-variation` | `kt:french-defence` |
 | `kt:wolfgang-von-kempelen` | `kt:the-turk` |
+| `kt:women-in-chess` | `kt:merim-bilalic` |
 | `kt:woodpecker-method` | `kt:puzzle-training` |
 | `kt:world-chess-championship-1889` | `kt:mikhail-chigorin` |
 | `kt:world-chess-championship-1894` | `kt:emanuel-lasker` |
