@@ -13927,6 +13927,104 @@
       ]
     },
     {
+      "@id": "kt:david-bronstein",
+      "@type": "kto:Player",
+      "skos:prefLabel": "David Bronstein",
+      "skos:definition": "Soviet grandmaster (1924–2006) who won the 1950 Candidates Tournament and drew the 1951 world championship match with Mikhail Botvinnik 12–12, the champion keeping the title; an inventive, intuitive player who helped turn the King's Indian Defence into a respected opening and wrote the classic tournament book on Zurich 1953.",
+      "kto:domain": "players",
+      "dcterms:created": "2026-11-18",
+      "kto:verified": "2026-11-18",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "David Bronstein (inductee page)",
+          "dcterms:publisher": "World Chess Hall of Fame",
+          "schema:url": "https://worldchesshof.org/inductee/david-bronstein/",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Zurich International Chess Tournament, 1953 (David Bronstein; Dover Publications, ISBN 9780486238005)",
+          "dcterms:publisher": "Blackwell's",
+          "schema:url": "https://blackwells.co.uk/bookshop/product/Zurich-International-Chess-Tournament-1953-by-David-Bronstein/9780486238005",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "David Bronstein: Fifty Great Short Games (Nikolay Minev; The Chess Library), preview of games 1–20",
+          "dcterms:publisher": "Northwest Chess",
+          "schema:url": "https://www.nwchess.com/minev/books/BronsteinPreview1-20.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "David Bronstein (player page and biography)",
+          "dcterms:publisher": "chessgames.com",
+          "schema:url": "https://www.chessgames.com/player/david_bronstein.html",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "Botvinnik - Bronstein World Championship Match (1951)",
+          "dcterms:publisher": "chessgames.com",
+          "schema:url": "https://www.chessgames.com:443/perl/chess.pl?tid=54195",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "David Bronstein dies at 82 (tribute by Frederic Friedel)",
+          "dcterms:publisher": "ChessBase News",
+          "schema:url": "https://en.chessbase.com/post/david-bronstein-dies-at-82",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/players/david-bronstein.md",
+      "skos:altLabel": [
+        "David Ionovich Bronstein",
+        "Dawid Bronstein",
+        "Bronstein"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:world-chess-championship"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:mikhail-botvinnik"
+        },
+        {
+          "@id": "kt:kings-indian-defence"
+        },
+        {
+          "@id": "kt:bronstein-delay"
+        },
+        {
+          "@id": "kt:soviet-chess-school"
+        },
+        {
+          "@id": "kt:nimzo-indian-defence"
+        }
+      ],
+      "kto:playedIn": [
+        {
+          "@id": "kt:world-chess-championship-1951"
+        },
+        {
+          "@id": "kt:candidates-tournament"
+        },
+        {
+          "@id": "kt:chess-olympiad"
+        }
+      ],
+      "kto:memberOf": [
+        {
+          "@id": "kt:soviet-chess-school"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:mikhail-botvinnik"
+        }
+      ]
+    },
+    {
       "@id": "kt:emanuel-lasker",
       "@type": "kto:Player",
       "skos:prefLabel": "Emanuel Lasker",

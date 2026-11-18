@@ -6,7 +6,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:alexander-alekhine`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:boris-spassky`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:magnus-carlsen`, `kt:mikhail-botvinnik`, `kt:mikhail-tal`, `kt:tigran-petrosian`, `kt:viswanathan-anand`, `kt:vladimir-kramnik`, `kt:wilhelm-steinitz` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:the-turk`, `kt:herbert-simon` |
-| `kt:david-bronstein` | `kt:kings-gambit`, `kt:bronstein-delay`, `kt:bronstein-delay` |
 | `kt:howard-staunton` | `kt:london-1851`, `kt:london-1851`, `kt:paul-morphy` |
 | `kt:ju-wenjun` | `kt:womens-world-chess-championship`, `kt:womens-world-chess-championship`, `kt:world-blitz-championship` |
 | `kt:philidor-defence` | `kt:adams-versus-torre-new-orleans-1920`, `kt:opera-game`, `kt:francois-andre-danican-philidor` |
@@ -17,6 +16,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:carlsen-versus-anand-sochi-2014-game-6` | `kt:magnus-carlsen`, `kt:zwischenzug` |
 | `kt:joseph-henry-blackburne` | `kt:london-1883`, `kt:johannes-zukertort` |
 | `kt:karpov-versus-unzicker-nice-1974` | `kt:prophylaxis`, `kt:anatoly-karpov` |
+| `kt:kings-indian-defence` | `kt:soviet-chess-school`, `kt:david-bronstein` |
 | `kt:lionel-kieseritzky` | `kt:immortal-game`, `kt:london-1851` |
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position`, `kt:smothered-mate` |
 | `kt:marmaduke-wyvill` | `kt:london-1851`, `kt:london-1883` |
@@ -140,7 +140,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ken-thompson` | `kt:endgame-tablebases` |
 | `kt:killer-heuristic` | `kt:move-ordering` |
 | `kt:king-activity` | `kt:king-safety` |
-| `kt:kings-indian-defence` | `kt:soviet-chess-school` |
 | `kt:knockout-tournament` | `kt:round-robin` |
 | `kt:kramnik-versus-anand-bonn-2008-game-3` | `kt:viswanathan-anand` |
 | `kt:kramnik-versus-kasparov-london-2000-game-2` | `kt:vladimir-kramnik` |
@@ -255,6 +254,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:world-chess-championship-1921` | `kt:jose-raul-capablanca` |
 | `kt:world-chess-championship-1935` | `kt:alexander-alekhine` |
 | `kt:world-chess-championship-1937` | `kt:alexander-alekhine` |
+| `kt:world-chess-championship-1951` | `kt:david-bronstein` |
 | `kt:world-chess-championship-2000` | `kt:berlin-defence` |
 | `kt:world-chess-championship-2018` | `kt:sveshnikov-variation` |
 | `kt:world-chess-hall-of-fame` | `kt:saint-louis-chess-club` |

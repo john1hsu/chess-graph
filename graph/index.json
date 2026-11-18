@@ -1766,6 +1766,30 @@
     ]
   },
   {
+    "id": "kt:david-bronstein",
+    "title": "David Bronstein",
+    "aliases": [
+      "David Ionovich Bronstein",
+      "Dawid Bronstein",
+      "Bronstein"
+    ],
+    "type": "Player",
+    "domain": "players",
+    "file": "articles/players/david-bronstein.md",
+    "created": "2026-11-18",
+    "verified": "2026-11-18",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://worldchesshof.org/inductee/david-bronstein/",
+      "https://blackwells.co.uk/bookshop/product/Zurich-International-Chess-Tournament-1953-by-David-Bronstein/9780486238005",
+      "https://www.nwchess.com/minev/books/BronsteinPreview1-20.pdf",
+      "https://www.chessgames.com/player/david_bronstein.html",
+      "https://www.chessgames.com:443/perl/chess.pl?tid=54195",
+      "https://en.chessbase.com/post/david-bronstein-dies-at-82"
+    ]
+  },
+  {
     "id": "kt:dead-position",
     "title": "Dead position",
     "aliases": [

@@ -1982,6 +1982,34 @@
 <https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/rook-versus-pawn> .
 <https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/cutting-off-the-king> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/david-bronstein> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/chess-graph/id/david-bronstein> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
+<https://github.com/john1hsu/chess-graph/id/david-bronstein> <http://www.w3.org/2000/01/rdf-schema#label> "David Bronstein" .
+<https://github.com/john1hsu/chess-graph/id/david-bronstein> <http://www.w3.org/2004/02/skos/core#altLabel> "Bronstein" .
+<https://github.com/john1hsu/chess-graph/id/david-bronstein> <http://www.w3.org/2004/02/skos/core#altLabel> "David Ionovich Bronstein" .
+<https://github.com/john1hsu/chess-graph/id/david-bronstein> <http://www.w3.org/2004/02/skos/core#altLabel> "Dawid Bronstein" .
+<https://github.com/john1hsu/chess-graph/id/david-bronstein> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/david-bronstein> <http://www.w3.org/2004/02/skos/core#definition> "Soviet grandmaster (1924–2006) who won the 1950 Candidates Tournament and drew the 1951 world championship match with Mikhail Botvinnik 12–12, the champion keeping the title; an inventive, intuitive player who helped turn the King's Indian Defence into a respected opening and wrote the classic tournament book on Zurich 1953." .
+<https://github.com/john1hsu/chess-graph/id/david-bronstein> <http://www.w3.org/2004/02/skos/core#prefLabel> "David Bronstein" .
+<https://github.com/john1hsu/chess-graph/id/david-bronstein> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/bronstein-delay> .
+<https://github.com/john1hsu/chess-graph/id/david-bronstein> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/kings-indian-defence> .
+<https://github.com/john1hsu/chess-graph/id/david-bronstein> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/mikhail-botvinnik> .
+<https://github.com/john1hsu/chess-graph/id/david-bronstein> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/nimzo-indian-defence> .
+<https://github.com/john1hsu/chess-graph/id/david-bronstein> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/soviet-chess-school> .
+<https://github.com/john1hsu/chess-graph/id/david-bronstein> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s1> .
+<https://github.com/john1hsu/chess-graph/id/david-bronstein> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s2> .
+<https://github.com/john1hsu/chess-graph/id/david-bronstein> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s3> .
+<https://github.com/john1hsu/chess-graph/id/david-bronstein> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s4> .
+<https://github.com/john1hsu/chess-graph/id/david-bronstein> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s5> .
+<https://github.com/john1hsu/chess-graph/id/david-bronstein> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s6> .
+<https://github.com/john1hsu/chess-graph/id/david-bronstein> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/mikhail-botvinnik> .
+<https://github.com/john1hsu/chess-graph/id/david-bronstein> <https://github.com/john1hsu/chess-graph/ontology#domain> "players" .
+<https://github.com/john1hsu/chess-graph/id/david-bronstein> <https://github.com/john1hsu/chess-graph/ontology#memberOf> <https://github.com/john1hsu/chess-graph/id/soviet-chess-school> .
+<https://github.com/john1hsu/chess-graph/id/david-bronstein> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/candidates-tournament> .
+<https://github.com/john1hsu/chess-graph/id/david-bronstein> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/chess-olympiad> .
+<https://github.com/john1hsu/chess-graph/id/david-bronstein> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/world-chess-championship-1951> .
+<https://github.com/john1hsu/chess-graph/id/david-bronstein> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/david-bronstein> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-18" .
 <https://github.com/john1hsu/chess-graph/id/dead-position> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/dead-position> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Rule> .
 <https://github.com/john1hsu/chess-graph/id/dead-position> <http://www.w3.org/2000/01/rdf-schema#label> "Dead position" .
@@ -8045,6 +8073,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/cutting-off-the-king/s7> <https://schema.org/url> "https://www.charlottechesscenter.org/post/simple-rook-and-pawn-vs-rook-part-1-cases-where-the-pawn-wins" .
+<https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s1> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
+<https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s1> <http://purl.org/dc/terms/title> "David Bronstein (inductee page)" .
+<https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s1> <https://schema.org/url> "https://worldchesshof.org/inductee/david-bronstein/" .
+<https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s2> <http://purl.org/dc/terms/publisher> "Blackwell's" .
+<https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s2> <http://purl.org/dc/terms/title> "Zurich International Chess Tournament, 1953 (David Bronstein; Dover Publications, ISBN 9780486238005)" .
+<https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s2> <https://schema.org/url> "https://blackwells.co.uk/bookshop/product/Zurich-International-Chess-Tournament-1953-by-David-Bronstein/9780486238005" .
+<https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s3> <http://purl.org/dc/terms/publisher> "Northwest Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s3> <http://purl.org/dc/terms/title> "David Bronstein: Fifty Great Short Games (Nikolay Minev; The Chess Library), preview of games 1–20" .
+<https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s3> <https://schema.org/url> "https://www.nwchess.com/minev/books/BronsteinPreview1-20.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s4> <http://purl.org/dc/terms/publisher> "chessgames.com" .
+<https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s4> <http://purl.org/dc/terms/title> "David Bronstein (player page and biography)" .
+<https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s4> <https://schema.org/url> "https://www.chessgames.com/player/david_bronstein.html" .
+<https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s5> <http://purl.org/dc/terms/publisher> "chessgames.com" .
+<https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s5> <http://purl.org/dc/terms/title> "Botvinnik - Bronstein World Championship Match (1951)" .
+<https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s5> <https://schema.org/url> "https://www.chessgames.com:443/perl/chess.pl?tid=54195" .
+<https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s6> <http://purl.org/dc/terms/publisher> "ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s6> <http://purl.org/dc/terms/title> "David Bronstein dies at 82 (tribute by Frederic Friedel)" .
+<https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s6> <https://schema.org/url> "https://en.chessbase.com/post/david-bronstein-dies-at-82" .
 <https://github.com/john1hsu/chess-graph/id/source/dead-position/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
 <https://github.com/john1hsu/chess-graph/id/source/dead-position/s1> <http://purl.org/dc/terms/title> "Laws of Chess, Article 5: The Completion of the Game" .
 <https://github.com/john1hsu/chess-graph/id/source/dead-position/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
