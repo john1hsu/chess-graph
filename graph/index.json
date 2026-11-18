@@ -6097,6 +6097,30 @@
     ]
   },
   {
+    "id": "kt:trapped-piece",
+    "title": "Trapped piece",
+    "aliases": [
+      "Trapping a piece",
+      "Trapped pieces",
+      "Piece trap"
+    ],
+    "type": "TacticalMotif",
+    "domain": "tactics",
+    "file": "articles/tactics/trapped-piece.md",
+    "created": "2026-11-18",
+    "verified": "2026-11-18",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://chesshistory.com/winter/extra/spasskyfischer.html",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/7548.pdf",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/3713.pdf",
+      "https://en.chessbase.com/post/grivas-on-trapping-a-piece",
+      "https://www.chess.com/terms/trapped-piece-chess",
+      "https://www.chess.com/article/view/50-year-anniversary-fischer-spassky-game-1"
+    ]
+  },
+  {
     "id": "kt:triangulation",
     "title": "Triangulation",
     "aliases": [

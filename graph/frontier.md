@@ -15,6 +15,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:bratko-kopec-test` | `kt:extended-position-description`, `kt:steven-j-edwards` |
 | `kt:carlsen-versus-anand-sochi-2014-game-6` | `kt:magnus-carlsen`, `kt:zwischenzug` |
 | `kt:david-forsyth` | `kt:forsyth-edwards-notation`, `kt:steven-j-edwards` |
+| `kt:domination` | `kt:knight-versus-bishop`, `kt:trapped-piece` |
 | `kt:karpov-versus-unzicker-nice-1974` | `kt:prophylaxis`, `kt:anatoly-karpov` |
 | `kt:kings-indian-defence` | `kt:soviet-chess-school`, `kt:david-bronstein` |
 | `kt:lionel-kieseritzky` | `kt:immortal-game`, `kt:london-1851` |
@@ -75,7 +76,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:deepmind` | `kt:alphazero` |
 | `kt:ding-liren` | `kt:gukesh-dommaraju` |
 | `kt:ding-versus-gukesh-singapore-2024-game-14` | `kt:gukesh-dommaraju` |
-| `kt:domination` | `kt:knight-versus-bishop` |
 | `kt:dutch-system` | `kt:swiss-system` |
 | `kt:edward-lasker` | `kt:descriptive-notation` |
 | `kt:edwin-z-adams` | `kt:adams-versus-torre-new-orleans-1920` |
@@ -188,6 +188,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pirc-defence` | `kt:philidor-defence` |
 | `kt:plachutta-theme` | `kt:novotny-theme` |
 | `kt:play-off` | `kt:tie-break` |
+| `kt:poisoned-pawn` | `kt:trapped-piece` |
 | `kt:poisoned-pawn-variation` | `kt:najdorf-variation` |
 | `kt:praggnanandhaa-rameshbabu` | `kt:norway-chess` |
 | `kt:priority-and-anticipation` | `kt:codex-of-chess-composition` |
@@ -239,7 +240,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:tord-romstad` | `kt:stockfish` |
 | `kt:torre-versus-lasker-moscow-1925` | `kt:windmill` |
 | `kt:transposition` | `kt:opening-repertoire` |
-| `kt:trapped-piece` | `kt:desperado` |
 | `kt:two-knights-defence` | `kt:italian-game` |
 | `kt:us-womens-chess-championship` | `kt:us-chess-championship` |
 | `kt:vera-menchik` | `kt:womens-world-chess-championship` |

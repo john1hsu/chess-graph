@@ -13183,6 +13183,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/transposition-table/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/transposition-table/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/transposition-table/s5> <https://schema.org/url> "https://www.chessprogramming.org:443/Mac_Hack" .
+<https://github.com/john1hsu/chess-graph/id/source/trapped-piece/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes" .
+<https://github.com/john1hsu/chess-graph/id/source/trapped-piece/s1> <http://purl.org/dc/terms/title> "Spassky v Fischer, Reykjavik, 1972" .
+<https://github.com/john1hsu/chess-graph/id/source/trapped-piece/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/trapped-piece/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/trapped-piece/s1> <https://schema.org/url> "https://chesshistory.com/winter/extra/spasskyfischer.html" .
+<https://github.com/john1hsu/chess-graph/id/source/trapped-piece/s2> <http://purl.org/dc/terms/publisher> "Cyrus Lakdawala, Everyman Chess (sample hosted by New In Chess)" .
+<https://github.com/john1hsu/chess-graph/id/source/trapped-piece/s2> <http://purl.org/dc/terms/title> "Fischer: Move by Move (sample pages: introduction)" .
+<https://github.com/john1hsu/chess-graph/id/source/trapped-piece/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/trapped-piece/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/trapped-piece/s2> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/7548.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/trapped-piece/s3> <http://purl.org/dc/terms/publisher> "Susan Polgar, Russell Enterprises (sample hosted by New In Chess)" .
+<https://github.com/john1hsu/chess-graph/id/source/trapped-piece/s3> <http://purl.org/dc/terms/title> "Learn Chess the Right Way, Book 2: Winning Material (sample pages)" .
+<https://github.com/john1hsu/chess-graph/id/source/trapped-piece/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/trapped-piece/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/trapped-piece/s3> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/3713.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/trapped-piece/s4> <http://purl.org/dc/terms/publisher> "GM Efstratios Grivas, ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/trapped-piece/s4> <http://purl.org/dc/terms/title> "Grivas on Trapping a Piece" .
+<https://github.com/john1hsu/chess-graph/id/source/trapped-piece/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/trapped-piece/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/trapped-piece/s4> <https://schema.org/url> "https://en.chessbase.com/post/grivas-on-trapping-a-piece" .
+<https://github.com/john1hsu/chess-graph/id/source/trapped-piece/s5> <http://purl.org/dc/terms/publisher> "Chess.com, Chess Terms" .
+<https://github.com/john1hsu/chess-graph/id/source/trapped-piece/s5> <http://purl.org/dc/terms/title> "Trapped Piece" .
+<https://github.com/john1hsu/chess-graph/id/source/trapped-piece/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/trapped-piece/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/trapped-piece/s5> <https://schema.org/url> "https://www.chess.com/terms/trapped-piece-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/trapped-piece/s6> <http://purl.org/dc/terms/publisher> "Peter Doggers, Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/trapped-piece/s6> <http://purl.org/dc/terms/title> "Bobby Fischer Opens Match With Incredible Blunder" .
+<https://github.com/john1hsu/chess-graph/id/source/trapped-piece/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/trapped-piece/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/trapped-piece/s6> <https://schema.org/url> "https://www.chess.com/article/view/50-year-anniversary-fischer-spassky-game-1" .
 <https://github.com/john1hsu/chess-graph/id/source/triangulation/s1> <http://purl.org/dc/terms/publisher> "Karsten Müller, Gambit Publications (2015); excerpt hosted by Chess Tigers" .
 <https://github.com/john1hsu/chess-graph/id/source/triangulation/s1> <http://purl.org/dc/terms/title> "Chess Endgames for Kids (sample pages, Lesson 14: Triangulation and More Opposition)" .
 <https://github.com/john1hsu/chess-graph/id/source/triangulation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -14592,6 +14622,31 @@
 <https://github.com/john1hsu/chess-graph/id/transposition-table> <https://github.com/john1hsu/chess-graph/ontology#fen> "rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3" .
 <https://github.com/john1hsu/chess-graph/id/transposition-table> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/transposition-table> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-15" .
+<https://github.com/john1hsu/chess-graph/id/trapped-piece> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/chess-graph/id/trapped-piece> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TacticalMotif> .
+<https://github.com/john1hsu/chess-graph/id/trapped-piece> <http://www.w3.org/2000/01/rdf-schema#label> "Trapped piece" .
+<https://github.com/john1hsu/chess-graph/id/trapped-piece> <http://www.w3.org/2004/02/skos/core#altLabel> "Piece trap" .
+<https://github.com/john1hsu/chess-graph/id/trapped-piece> <http://www.w3.org/2004/02/skos/core#altLabel> "Trapped pieces" .
+<https://github.com/john1hsu/chess-graph/id/trapped-piece> <http://www.w3.org/2004/02/skos/core#altLabel> "Trapping a piece" .
+<https://github.com/john1hsu/chess-graph/id/trapped-piece> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-tactics> .
+<https://github.com/john1hsu/chess-graph/id/trapped-piece> <http://www.w3.org/2004/02/skos/core#definition> "A piece that has no safe square to go to: every move it can make loses it, so the opponent can win it by attacking it, or leave it imprisoned as a long-term liability." .
+<https://github.com/john1hsu/chess-graph/id/trapped-piece> <http://www.w3.org/2004/02/skos/core#prefLabel> "Trapped piece" .
+<https://github.com/john1hsu/chess-graph/id/trapped-piece> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/desperado> .
+<https://github.com/john1hsu/chess-graph/id/trapped-piece> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/domination> .
+<https://github.com/john1hsu/chess-graph/id/trapped-piece> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> .
+<https://github.com/john1hsu/chess-graph/id/trapped-piece> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/poisoned-pawn> .
+<https://github.com/john1hsu/chess-graph/id/trapped-piece> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/trapped-piece/s1> .
+<https://github.com/john1hsu/chess-graph/id/trapped-piece> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/trapped-piece/s2> .
+<https://github.com/john1hsu/chess-graph/id/trapped-piece> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/trapped-piece/s3> .
+<https://github.com/john1hsu/chess-graph/id/trapped-piece> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/trapped-piece/s4> .
+<https://github.com/john1hsu/chess-graph/id/trapped-piece> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/trapped-piece/s5> .
+<https://github.com/john1hsu/chess-graph/id/trapped-piece> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/trapped-piece/s6> .
+<https://github.com/john1hsu/chess-graph/id/trapped-piece> <https://github.com/john1hsu/chess-graph/ontology#domain> "tactics" .
+<https://github.com/john1hsu/chess-graph/id/trapped-piece> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/material-advantage> .
+<https://github.com/john1hsu/chess-graph/id/trapped-piece> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> .
+<https://github.com/john1hsu/chess-graph/id/trapped-piece> <https://github.com/john1hsu/chess-graph/ontology#fen> "8/B1k2ppp/1p6/8/8/8/5PPP/6K1 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/trapped-piece> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/trapped-piece> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-18" .
 <https://github.com/john1hsu/chess-graph/id/triangulation> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/triangulation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Technique> .
 <https://github.com/john1hsu/chess-graph/id/triangulation> <http://www.w3.org/2000/01/rdf-schema#label> "Triangulation" .

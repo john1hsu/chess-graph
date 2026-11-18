@@ -20358,6 +20358,91 @@
       ]
     },
     {
+      "@id": "kt:trapped-piece",
+      "@type": "kto:TacticalMotif",
+      "skos:prefLabel": "Trapped piece",
+      "skos:definition": "A piece that has no safe square to go to: every move it can make loses it, so the opponent can win it by attacking it, or leave it imprisoned as a long-term liability.",
+      "kto:domain": "tactics",
+      "dcterms:created": "2026-11-18",
+      "kto:verified": "2026-11-18",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Spassky v Fischer, Reykjavik, 1972",
+          "dcterms:publisher": "Edward Winter, Chess Notes",
+          "schema:url": "https://chesshistory.com/winter/extra/spasskyfischer.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Fischer: Move by Move (sample pages: introduction)",
+          "dcterms:publisher": "Cyrus Lakdawala, Everyman Chess (sample hosted by New In Chess)",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/7548.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Learn Chess the Right Way, Book 2: Winning Material (sample pages)",
+          "dcterms:publisher": "Susan Polgar, Russell Enterprises (sample hosted by New In Chess)",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/3713.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Grivas on Trapping a Piece",
+          "dcterms:publisher": "GM Efstratios Grivas, ChessBase News",
+          "schema:url": "https://en.chessbase.com/post/grivas-on-trapping-a-piece",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Trapped Piece",
+          "dcterms:publisher": "Chess.com, Chess Terms",
+          "schema:url": "https://www.chess.com/terms/trapped-piece-chess",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Bobby Fischer Opens Match With Incredible Blunder",
+          "dcterms:publisher": "Peter Doggers, Chess.com",
+          "schema:url": "https://www.chess.com/article/view/50-year-anniversary-fischer-spassky-game-1",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/tactics/trapped-piece.md",
+      "skos:altLabel": [
+        "Trapping a piece",
+        "Trapped pieces",
+        "Piece trap"
+      ],
+      "kto:fen": "8/B1k2ppp/1p6/8/8/8/5PPP/6K1 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-tactics"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:desperado"
+        },
+        {
+          "@id": "kt:domination"
+        },
+        {
+          "@id": "kt:good-and-bad-bishops"
+        },
+        {
+          "@id": "kt:poisoned-pawn"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:material-advantage"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:fischer-spassky-1972"
+        }
+      ]
+    },
+    {
       "@id": "kt:underpromotion",
       "@type": "kto:TacticalMotif",
       "skos:prefLabel": "Underpromotion",
