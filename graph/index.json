@@ -5635,6 +5635,28 @@
     ]
   },
   {
+    "id": "kt:steven-j-edwards",
+    "title": "Steven J. Edwards",
+    "aliases": [
+      "Steven Edwards",
+      "Steven James Edwards",
+      "S. J. Edwards"
+    ],
+    "type": "Person",
+    "domain": "rules-and-notation",
+    "file": "articles/rules-and-notation/steven-j-edwards.md",
+    "created": "2026-11-18",
+    "verified": "2026-11-18",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://code.delx.au/gnu-emacs-elpa/blob/65de55274ce8d49fa67bb555050e2481ebcad2c5:/PGN.txt",
+      "https://code.delx.au/gnu-emacs-elpa/blob/65de55274ce8d49fa67bb555050e2481ebcad2c5:/EPD.txt",
+      "https://en.chessbase.com/newsroom/post/endgame-tablebases-a-short-history",
+      "https://chessprogramming.org/Edwards%27_Tablebases"
+    ]
+  },
+  {
     "id": "kt:stockfish",
     "title": "Stockfish",
     "aliases": [

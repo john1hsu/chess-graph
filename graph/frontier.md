@@ -9,11 +9,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ju-wenjun` | `kt:norway-chess`, `kt:womens-world-chess-championship`, `kt:womens-world-chess-championship`, `kt:world-blitz-championship` |
 | `kt:howard-staunton` | `kt:london-1851`, `kt:london-1851`, `kt:paul-morphy` |
 | `kt:joseph-henry-blackburne` | `kt:london-1883`, `kt:zukertort-versus-blackburne-london-1883`, `kt:johannes-zukertort` |
-| `kt:steven-j-edwards` | `kt:extended-position-description`, `kt:forsyth-edwards-notation`, `kt:portable-game-notation` |
 | `kt:albert-zobrist` | `kt:zobrist-hashing`, `kt:zobrist-hashing` |
 | `kt:albin-countergambit` | `kt:queens-gambit`, `kt:underpromotion` |
 | `kt:alexander-kotov` | `kt:calculation`, `kt:candidate-moves` |
+| `kt:bratko-kopec-test` | `kt:extended-position-description`, `kt:steven-j-edwards` |
 | `kt:carlsen-versus-anand-sochi-2014-game-6` | `kt:magnus-carlsen`, `kt:zwischenzug` |
+| `kt:david-forsyth` | `kt:forsyth-edwards-notation`, `kt:steven-j-edwards` |
 | `kt:karpov-versus-unzicker-nice-1974` | `kt:prophylaxis`, `kt:anatoly-karpov` |
 | `kt:kings-indian-defence` | `kt:soviet-chess-school`, `kt:david-bronstein` |
 | `kt:lionel-kieseritzky` | `kt:immortal-game`, `kt:london-1851` |
@@ -46,7 +47,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:berger-tables` | `kt:round-robin` |
 | `kt:board-representation` | `kt:bitboards` |
 | `kt:botvinnik-versus-tal-moscow-1960-game-6` | `kt:mikhail-tal` |
-| `kt:bratko-kopec-test` | `kt:extended-position-description` |
 | `kt:capablanca-versus-blanco-havana-1913` | `kt:tempo` |
 | `kt:capablanca-versus-tartakower-new-york-1924` | `kt:rook-on-the-seventh-rank` |
 | `kt:carlos-torre` | `kt:adams-versus-torre-new-orleans-1920` |
@@ -70,7 +70,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:counting-in-pawn-races` | `kt:rule-of-the-square` |
 | `kt:curt-von-bardeleben` | `kt:steinitz-von-bardeleben-hastings-1895` |
 | `kt:danish-gambit` | `kt:gambit` |
-| `kt:david-forsyth` | `kt:forsyth-edwards-notation` |
 | `kt:david-slate` | `kt:aspiration-window` |
 | `kt:deep-blue` | `kt:deep-blue-versus-kasparov` |
 | `kt:deepmind` | `kt:alphazero` |
@@ -172,6 +171,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:move-generation` | `kt:bitboards` |
 | `kt:mtd-f` | `kt:aspiration-window` |
 | `kt:mvv-lva` | `kt:move-ordering` |
+| `kt:nalimov-tablebases` | `kt:steven-j-edwards` |
 | `kt:negamax` | `kt:minimax` |
 | `kt:nodirbek-abdusattorov` | `kt:tata-steel-chess-tournament` |
 | `kt:opening-surprise` | `kt:opening-repertoire` |

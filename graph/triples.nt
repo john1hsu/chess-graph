@@ -12644,6 +12644,26 @@
 <https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s6> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/50-games-the-magic-rook-wilhelm-steinitz-vs-curt-von-bardeleben" .
+<https://github.com/john1hsu/chess-graph/id/source/steven-j-edwards/s1> <http://purl.org/dc/terms/publisher> "Steven J. Edwards (coordinator), rec.games.chess; copy in the GNU Emacs ELPA repository" .
+<https://github.com/john1hsu/chess-graph/id/source/steven-j-edwards/s1> <http://purl.org/dc/terms/title> "Standard: Portable Game Notation Specification and Implementation Guide (revised 1994-03-12)" .
+<https://github.com/john1hsu/chess-graph/id/source/steven-j-edwards/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/steven-j-edwards/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/steven-j-edwards/s1> <https://schema.org/url> "https://code.delx.au/gnu-emacs-elpa/blob/65de55274ce8d49fa67bb555050e2481ebcad2c5:/PGN.txt" .
+<https://github.com/john1hsu/chess-graph/id/source/steven-j-edwards/s2> <http://purl.org/dc/terms/publisher> "Steven J. Edwards (technical contact); copy in the GNU Emacs ELPA repository" .
+<https://github.com/john1hsu/chess-graph/id/source/steven-j-edwards/s2> <http://purl.org/dc/terms/title> "EPD_Spec: Extended Position Description Specification" .
+<https://github.com/john1hsu/chess-graph/id/source/steven-j-edwards/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/steven-j-edwards/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/steven-j-edwards/s2> <https://schema.org/url> "https://code.delx.au/gnu-emacs-elpa/blob/65de55274ce8d49fa67bb555050e2481ebcad2c5:/EPD.txt" .
+<https://github.com/john1hsu/chess-graph/id/source/steven-j-edwards/s3> <http://purl.org/dc/terms/publisher> "Albert Silver, ChessBase News (16 March 2018)" .
+<https://github.com/john1hsu/chess-graph/id/source/steven-j-edwards/s3> <http://purl.org/dc/terms/title> "Endgame tablebases: A short history" .
+<https://github.com/john1hsu/chess-graph/id/source/steven-j-edwards/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/steven-j-edwards/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/steven-j-edwards/s3> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/endgame-tablebases-a-short-history" .
+<https://github.com/john1hsu/chess-graph/id/source/steven-j-edwards/s4> <http://purl.org/dc/terms/publisher> "Chess Programming Wiki" .
+<https://github.com/john1hsu/chess-graph/id/source/steven-j-edwards/s4> <http://purl.org/dc/terms/title> "Edwards' Tablebases" .
+<https://github.com/john1hsu/chess-graph/id/source/steven-j-edwards/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/steven-j-edwards/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/steven-j-edwards/s4> <https://schema.org/url> "https://chessprogramming.org/Edwards%27_Tablebases" .
 <https://github.com/john1hsu/chess-graph/id/source/stockfish/s1> <http://purl.org/dc/terms/publisher> "The Stockfish developers (stockfishchess.org)" .
 <https://github.com/john1hsu/chess-graph/id/source/stockfish/s1> <http://purl.org/dc/terms/title> "About Stockfish" .
 <https://github.com/john1hsu/chess-graph/id/source/stockfish/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -13999,6 +14019,30 @@
 <https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/hastings-1895> .
 <https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/steven-j-edwards> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/chess-graph/id/steven-j-edwards> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Person> .
+<https://github.com/john1hsu/chess-graph/id/steven-j-edwards> <http://www.w3.org/2000/01/rdf-schema#label> "Steven J. Edwards" .
+<https://github.com/john1hsu/chess-graph/id/steven-j-edwards> <http://www.w3.org/2004/02/skos/core#altLabel> "S. J. Edwards" .
+<https://github.com/john1hsu/chess-graph/id/steven-j-edwards> <http://www.w3.org/2004/02/skos/core#altLabel> "Steven Edwards" .
+<https://github.com/john1hsu/chess-graph/id/steven-j-edwards> <http://www.w3.org/2004/02/skos/core#altLabel> "Steven James Edwards" .
+<https://github.com/john1hsu/chess-graph/id/steven-j-edwards> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/computer-chess> .
+<https://github.com/john1hsu/chess-graph/id/steven-j-edwards> <http://www.w3.org/2004/02/skos/core#definition> "Computer scientist and chess programmer who coordinated the 1994 Portable Game Notation standard, extended Forsyth notation into FEN, co-developed Extended Position Description with John Stanback, and built the Edwards endgame tablebases for his research program Spector." .
+<https://github.com/john1hsu/chess-graph/id/steven-j-edwards> <http://www.w3.org/2004/02/skos/core#prefLabel> "Steven J. Edwards" .
+<https://github.com/john1hsu/chess-graph/id/steven-j-edwards> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/bratko-kopec-test> .
+<https://github.com/john1hsu/chess-graph/id/steven-j-edwards> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/endgame-tablebases> .
+<https://github.com/john1hsu/chess-graph/id/steven-j-edwards> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/extended-position-description> .
+<https://github.com/john1hsu/chess-graph/id/steven-j-edwards> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> .
+<https://github.com/john1hsu/chess-graph/id/steven-j-edwards> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/portable-game-notation> .
+<https://github.com/john1hsu/chess-graph/id/steven-j-edwards> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/steven-j-edwards/s1> .
+<https://github.com/john1hsu/chess-graph/id/steven-j-edwards> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/steven-j-edwards/s2> .
+<https://github.com/john1hsu/chess-graph/id/steven-j-edwards> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/steven-j-edwards/s3> .
+<https://github.com/john1hsu/chess-graph/id/steven-j-edwards> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/steven-j-edwards/s4> .
+<https://github.com/john1hsu/chess-graph/id/steven-j-edwards> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/nalimov-tablebases> .
+<https://github.com/john1hsu/chess-graph/id/steven-j-edwards> <https://github.com/john1hsu/chess-graph/ontology#domain> "rules-and-notation" .
+<https://github.com/john1hsu/chess-graph/id/steven-j-edwards> <https://github.com/john1hsu/chess-graph/ontology#fen> "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1" .
+<https://github.com/john1hsu/chess-graph/id/steven-j-edwards> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/david-forsyth> .
+<https://github.com/john1hsu/chess-graph/id/steven-j-edwards> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/steven-j-edwards> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-18" .
 <https://github.com/john1hsu/chess-graph/id/stockfish> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/stockfish> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Engine> .
 <https://github.com/john1hsu/chess-graph/id/stockfish> <http://www.w3.org/2000/01/rdf-schema#label> "Stockfish" .
