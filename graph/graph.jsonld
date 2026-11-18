@@ -15232,6 +15232,119 @@
       ]
     },
     {
+      "@id": "kt:ju-wenjun",
+      "@type": "kto:Player",
+      "skos:prefLabel": "Ju Wenjun",
+      "skos:definition": "Chinese grandmaster (born 1991 in Shanghai) and the seventeenth Women's World Chess Champion, who took the title from Tan Zhongyi in May 2018 and has held it through four further wins up to 2025; as of November 2026 she is due to defend it against R. Vaishali.",
+      "kto:domain": "players",
+      "dcterms:created": "2026-11-18",
+      "kto:verified": "2026-11-18",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Ju Wenjun (player profile)",
+          "dcterms:publisher": "FIDE Women's Grand Prix",
+          "schema:url": "https://womengrandprix.fide.com/profile/ju-wenjun",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Ju Wenjun",
+          "dcterms:publisher": "FIDE Commission for Women's Chess",
+          "schema:url": "https://wom.fide.com/?p=1399",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "The Queen of the chess world: Ju Wenjun defends Women's World Championship title",
+          "dcterms:publisher": "FIDE (fide.com news, 22 July 2023)",
+          "schema:url": "https://fide.com/?p=22411",
+          "kto:sourceType": "primary-record"
+        },
+        {
+          "dcterms:title": "FIDE Women's World Championship (2022–2023 cycle)",
+          "dcterms:publisher": "FIDE World Championship Cycle site",
+          "schema:url": "https://worldchampionshipcycle.fide.com/women",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Crowning a Champion: Ju Wenjun clinches her fifth title",
+          "dcterms:publisher": "FIDE (fide.com news, 16 April 2025)",
+          "schema:url": "https://www.fide.com/crowning-a-champion-ju-wenjun-clinches-her-fifth-title/",
+          "kto:sourceType": "primary-record"
+        },
+        {
+          "dcterms:title": "Women's World Championship 2025, game 9 report",
+          "dcterms:publisher": "ChessBase News",
+          "schema:url": "https://en.chessbase.com/post/women-wc-2025-9",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "World Blitz Championship: Carlsen, Nepomniachtchi share gold; Ju Wenjun triumphs in Women's Blitz",
+          "dcterms:publisher": "FIDE (fide.com news)",
+          "schema:url": "https://www.fide.com/world-blitz-championship-carlsen-nepomniachtchi-share-gold-ju-wenjun-triumphs-in-womens-blitz/",
+          "kto:sourceType": "primary-record"
+        },
+        {
+          "dcterms:title": "FIDE Women's World Championship Cycle 2025–2026",
+          "dcterms:publisher": "FIDE",
+          "schema:url": "https://www.fide.com/fide-womens-world-championship-cycle-2025-2026",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Magnus Carlsen and Ju Wenjun win Norway Chess 2024",
+          "dcterms:publisher": "FIDE (fide.com news)",
+          "schema:url": "https://www.fide.com/magnus-carlsen-and-ju-wenjun-win-norway-chess-2024/",
+          "kto:sourceType": "primary-record"
+        }
+      ],
+      "kto:file": "articles/players/ju-wenjun.md",
+      "skos:altLabel": [
+        "Wenjun Ju",
+        "Ju Wen-jun"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:womens-world-chess-championship"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:tan-zhongyi"
+        },
+        {
+          "@id": "kt:lei-tingjie"
+        },
+        {
+          "@id": "kt:vaishali-rameshbabu"
+        },
+        {
+          "@id": "kt:hou-yifan"
+        },
+        {
+          "@id": "kt:world-blitz-championship"
+        },
+        {
+          "@id": "kt:world-rapid-championship"
+        }
+      ],
+      "kto:holdsTitle": [
+        {
+          "@id": "kt:grandmaster-title"
+        }
+      ],
+      "kto:playedIn": [
+        {
+          "@id": "kt:womens-world-chess-championship"
+        },
+        {
+          "@id": "kt:chess-olympiad"
+        },
+        {
+          "@id": "kt:norway-chess"
+        }
+      ]
+    },
+    {
       "@id": "kt:magnus-carlsen",
       "@type": "kto:Player",
       "skos:prefLabel": "Magnus Carlsen",

@@ -3466,6 +3466,32 @@
     ]
   },
   {
+    "id": "kt:ju-wenjun",
+    "title": "Ju Wenjun",
+    "aliases": [
+      "Wenjun Ju",
+      "Ju Wen-jun"
+    ],
+    "type": "Player",
+    "domain": "players",
+    "file": "articles/players/ju-wenjun.md",
+    "created": "2026-11-18",
+    "verified": "2026-11-18",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://womengrandprix.fide.com/profile/ju-wenjun",
+      "https://wom.fide.com/?p=1399",
+      "https://fide.com/?p=22411",
+      "https://worldchampionshipcycle.fide.com/women",
+      "https://www.fide.com/crowning-a-champion-ju-wenjun-clinches-her-fifth-title/",
+      "https://en.chessbase.com/post/women-wc-2025-9",
+      "https://www.fide.com/world-blitz-championship-carlsen-nepomniachtchi-share-gold-ju-wenjun-triumphs-in-womens-blitz/",
+      "https://www.fide.com/fide-womens-world-championship-cycle-2025-2026",
+      "https://www.fide.com/magnus-carlsen-and-ju-wenjun-win-norway-chess-2024/"
+    ]
+  },
+  {
     "id": "kt:key-squares",
     "title": "Key squares",
     "aliases": [

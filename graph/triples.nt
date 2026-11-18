@@ -3896,6 +3896,36 @@
 <https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/world-chess-championship-1927> .
 <https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/ju-wenjun> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/chess-graph/id/ju-wenjun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
+<https://github.com/john1hsu/chess-graph/id/ju-wenjun> <http://www.w3.org/2000/01/rdf-schema#label> "Ju Wenjun" .
+<https://github.com/john1hsu/chess-graph/id/ju-wenjun> <http://www.w3.org/2004/02/skos/core#altLabel> "Ju Wen-jun" .
+<https://github.com/john1hsu/chess-graph/id/ju-wenjun> <http://www.w3.org/2004/02/skos/core#altLabel> "Wenjun Ju" .
+<https://github.com/john1hsu/chess-graph/id/ju-wenjun> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/ju-wenjun> <http://www.w3.org/2004/02/skos/core#definition> "Chinese grandmaster (born 1991 in Shanghai) and the seventeenth Women's World Chess Champion, who took the title from Tan Zhongyi in May 2018 and has held it through four further wins up to 2025; as of November 2026 she is due to defend it against R. Vaishali." .
+<https://github.com/john1hsu/chess-graph/id/ju-wenjun> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ju Wenjun" .
+<https://github.com/john1hsu/chess-graph/id/ju-wenjun> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/hou-yifan> .
+<https://github.com/john1hsu/chess-graph/id/ju-wenjun> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/lei-tingjie> .
+<https://github.com/john1hsu/chess-graph/id/ju-wenjun> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/tan-zhongyi> .
+<https://github.com/john1hsu/chess-graph/id/ju-wenjun> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/vaishali-rameshbabu> .
+<https://github.com/john1hsu/chess-graph/id/ju-wenjun> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/world-blitz-championship> .
+<https://github.com/john1hsu/chess-graph/id/ju-wenjun> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/world-rapid-championship> .
+<https://github.com/john1hsu/chess-graph/id/ju-wenjun> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s1> .
+<https://github.com/john1hsu/chess-graph/id/ju-wenjun> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s2> .
+<https://github.com/john1hsu/chess-graph/id/ju-wenjun> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s3> .
+<https://github.com/john1hsu/chess-graph/id/ju-wenjun> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s4> .
+<https://github.com/john1hsu/chess-graph/id/ju-wenjun> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s5> .
+<https://github.com/john1hsu/chess-graph/id/ju-wenjun> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s6> .
+<https://github.com/john1hsu/chess-graph/id/ju-wenjun> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s7> .
+<https://github.com/john1hsu/chess-graph/id/ju-wenjun> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s8> .
+<https://github.com/john1hsu/chess-graph/id/ju-wenjun> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s9> .
+<https://github.com/john1hsu/chess-graph/id/ju-wenjun> <https://github.com/john1hsu/chess-graph/ontology#domain> "players" .
+<https://github.com/john1hsu/chess-graph/id/ju-wenjun> <https://github.com/john1hsu/chess-graph/ontology#holdsTitle> <https://github.com/john1hsu/chess-graph/id/grandmaster-title> .
+<https://github.com/john1hsu/chess-graph/id/ju-wenjun> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/chess-olympiad> .
+<https://github.com/john1hsu/chess-graph/id/ju-wenjun> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/norway-chess> .
+<https://github.com/john1hsu/chess-graph/id/ju-wenjun> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/ju-wenjun> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/ju-wenjun> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-18" .
 <https://github.com/john1hsu/chess-graph/id/key-squares> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/chess-graph/id/key-squares> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Concept> .
 <https://github.com/john1hsu/chess-graph/id/key-squares> <http://www.w3.org/2000/01/rdf-schema#label> "Key squares" .
@@ -10221,6 +10251,51 @@
 <https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s6> <https://schema.org/url> "https://www.jeremysilman.com/?p=2476" .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s1> <http://purl.org/dc/terms/publisher> "FIDE Women's Grand Prix" .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s1> <http://purl.org/dc/terms/title> "Ju Wenjun (player profile)" .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s1> <https://schema.org/url> "https://womengrandprix.fide.com/profile/ju-wenjun" .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s2> <http://purl.org/dc/terms/publisher> "FIDE Commission for Women's Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s2> <http://purl.org/dc/terms/title> "Ju Wenjun" .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s2> <https://schema.org/url> "https://wom.fide.com/?p=1399" .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s3> <http://purl.org/dc/terms/publisher> "FIDE (fide.com news, 22 July 2023)" .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s3> <http://purl.org/dc/terms/title> "The Queen of the chess world: Ju Wenjun defends Women's World Championship title" .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s3> <https://schema.org/url> "https://fide.com/?p=22411" .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s4> <http://purl.org/dc/terms/publisher> "FIDE World Championship Cycle site" .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s4> <http://purl.org/dc/terms/title> "FIDE Women's World Championship (2022–2023 cycle)" .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s4> <https://schema.org/url> "https://worldchampionshipcycle.fide.com/women" .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s5> <http://purl.org/dc/terms/publisher> "FIDE (fide.com news, 16 April 2025)" .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s5> <http://purl.org/dc/terms/title> "Crowning a Champion: Ju Wenjun clinches her fifth title" .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s5> <https://schema.org/url> "https://www.fide.com/crowning-a-champion-ju-wenjun-clinches-her-fifth-title/" .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s6> <http://purl.org/dc/terms/publisher> "ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s6> <http://purl.org/dc/terms/title> "Women's World Championship 2025, game 9 report" .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s6> <https://schema.org/url> "https://en.chessbase.com/post/women-wc-2025-9" .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s7> <http://purl.org/dc/terms/publisher> "FIDE (fide.com news)" .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s7> <http://purl.org/dc/terms/title> "World Blitz Championship: Carlsen, Nepomniachtchi share gold; Ju Wenjun triumphs in Women's Blitz" .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s7> <https://schema.org/url> "https://www.fide.com/world-blitz-championship-carlsen-nepomniachtchi-share-gold-ju-wenjun-triumphs-in-womens-blitz/" .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s8> <http://purl.org/dc/terms/publisher> "FIDE" .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s8> <http://purl.org/dc/terms/title> "FIDE Women's World Championship Cycle 2025–2026" .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s8> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s8> <https://schema.org/url> "https://www.fide.com/fide-womens-world-championship-cycle-2025-2026" .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s9> <http://purl.org/dc/terms/publisher> "FIDE (fide.com news)" .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s9> <http://purl.org/dc/terms/title> "Magnus Carlsen and Ju Wenjun win Norway Chess 2024" .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s9> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s9> <https://schema.org/url> "https://www.fide.com/magnus-carlsen-and-ju-wenjun-win-norway-chess-2024/" .
 <https://github.com/john1hsu/chess-graph/id/source/key-squares/s1> <http://purl.org/dc/terms/publisher> "José Raúl Capablanca, Harcourt, Brace and Howe; Project Gutenberg" .
 <https://github.com/john1hsu/chess-graph/id/source/key-squares/s1> <http://purl.org/dc/terms/title> "Chess Fundamentals (1921), Project Gutenberg eBook #33870" .
 <https://github.com/john1hsu/chess-graph/id/source/key-squares/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

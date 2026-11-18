@@ -6,7 +6,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:alexander-alekhine`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:boris-spassky`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:magnus-carlsen`, `kt:mikhail-botvinnik`, `kt:mikhail-tal`, `kt:tigran-petrosian`, `kt:viswanathan-anand`, `kt:vladimir-kramnik`, `kt:wilhelm-steinitz` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:the-turk`, `kt:herbert-simon` |
-| `kt:ju-wenjun` | `kt:norway-chess`, `kt:womens-world-chess-championship`, `kt:womens-world-chess-championship`, `kt:world-blitz-championship` |
 | `kt:howard-staunton` | `kt:london-1851`, `kt:london-1851`, `kt:paul-morphy` |
 | `kt:joseph-henry-blackburne` | `kt:london-1883`, `kt:zukertort-versus-blackburne-london-1883`, `kt:johannes-zukertort` |
 | `kt:albert-zobrist` | `kt:zobrist-hashing`, `kt:zobrist-hashing` |
@@ -17,6 +16,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:david-forsyth` | `kt:forsyth-edwards-notation`, `kt:steven-j-edwards` |
 | `kt:deep-blue` | `kt:singular-extensions`, `kt:deep-blue-versus-kasparov` |
 | `kt:domination` | `kt:knight-versus-bishop`, `kt:trapped-piece` |
+| `kt:hou-yifan` | `kt:womens-world-chess-championship`, `kt:ju-wenjun` |
 | `kt:karpov-versus-unzicker-nice-1974` | `kt:prophylaxis`, `kt:anatoly-karpov` |
 | `kt:kings-indian-defence` | `kt:soviet-chess-school`, `kt:david-bronstein` |
 | `kt:lionel-kieseritzky` | `kt:immortal-game`, `kt:london-1851` |
@@ -120,7 +120,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:history-heuristic` | `kt:move-ordering` |
 | `kt:hnefatafl` | `kt:lewis-chessmen` |
 | `kt:horatio-caro` | `kt:caro-kann-defence` |
-| `kt:hou-yifan` | `kt:womens-world-chess-championship` |
 | `kt:ian-nepomniachtchi` | `kt:world-blitz-championship` |
 | `kt:iccf` | `kt:correspondence-chess` |
 | `kt:indian-defences` | `kt:nimzo-indian-defence` |
@@ -151,6 +150,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:lasker-versus-bauer-amsterdam-1889` | `kt:combination` |
 | `kt:lasker-versus-capablanca-st-petersburg-1914` | `kt:simplification` |
 | `kt:leela-zero` | `kt:leela-chess-zero` |
+| `kt:lei-tingjie` | `kt:ju-wenjun` |
 | `kt:leipzig-1894` | `kt:siegbert-tarrasch` |
 | `kt:leonardo-torres-y-quevedo` | `kt:claude-shannon` |
 | `kt:leonid-yarosh` | `kt:babson-task` |
@@ -234,6 +234,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:staunton-chess-set` | `kt:lewis-chessmen` |
 | `kt:stefan-meyer-kahlen` | `kt:universal-chess-interface` |
 | `kt:swiss-system-tournament` | `kt:chess-olympiad` |
+| `kt:tan-zhongyi` | `kt:ju-wenjun` |
 | `kt:tarrasch-defence` | `kt:isolated-queens-pawn` |
 | `kt:team-chess` | `kt:chess-olympiad` |
 | `kt:the-exchange` | `kt:material-advantage` |
@@ -244,6 +245,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:transposition` | `kt:opening-repertoire` |
 | `kt:two-knights-defence` | `kt:italian-game` |
 | `kt:us-womens-chess-championship` | `kt:us-chess-championship` |
+| `kt:vaishali-rameshbabu` | `kt:ju-wenjun` |
 | `kt:vera-menchik` | `kt:womens-world-chess-championship` |
 | `kt:viktor-korchnoi` | `kt:anatoly-karpov` |
 | `kt:walter-grimshaw` | `kt:grimshaw-theme` |
