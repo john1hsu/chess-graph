@@ -3939,6 +3939,32 @@
 <https://github.com/john1hsu/chess-graph/id/knight-versus-bishop> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/knight-versus-bishop> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/domination> .
 <https://github.com/john1hsu/chess-graph/id/knight-versus-bishop> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-17" .
+<https://github.com/john1hsu/chess-graph/id/kriegspiel> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/chess-graph/id/kriegspiel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Variant> .
+<https://github.com/john1hsu/chess-graph/id/kriegspiel> <http://www.w3.org/2000/01/rdf-schema#label> "Kriegspiel" .
+<https://github.com/john1hsu/chess-graph/id/kriegspiel> <http://www.w3.org/2004/02/skos/core#altLabel> "Invisible chess" .
+<https://github.com/john1hsu/chess-graph/id/kriegspiel> <http://www.w3.org/2004/02/skos/core#altLabel> "Kriegspiel chess" .
+<https://github.com/john1hsu/chess-graph/id/kriegspiel> <http://www.w3.org/2004/02/skos/core#altLabel> "War game chess" .
+<https://github.com/john1hsu/chess-graph/id/kriegspiel> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-variants> .
+<https://github.com/john1hsu/chess-graph/id/kriegspiel> <http://www.w3.org/2004/02/skos/core#definition> "A chess variant of hidden information in which each player sees only their own pieces, while a referee keeps the true position on a third board, rejects illegal tries and announces only limited facts such as captures, checks and available pawn captures." .
+<https://github.com/john1hsu/chess-graph/id/kriegspiel> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kriegspiel" .
+<https://github.com/john1hsu/chess-graph/id/kriegspiel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/arbiter> .
+<https://github.com/john1hsu/chess-graph/id/kriegspiel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/blindfold-chess> .
+<https://github.com/john1hsu/chess-graph/id/kriegspiel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/checkmate> .
+<https://github.com/john1hsu/chess-graph/id/kriegspiel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/computer-chess> .
+<https://github.com/john1hsu/chess-graph/id/kriegspiel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/touch-move> .
+<https://github.com/john1hsu/chess-graph/id/kriegspiel> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/kriegspiel/s1> .
+<https://github.com/john1hsu/chess-graph/id/kriegspiel> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/kriegspiel/s2> .
+<https://github.com/john1hsu/chess-graph/id/kriegspiel> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/kriegspiel/s3> .
+<https://github.com/john1hsu/chess-graph/id/kriegspiel> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/kriegspiel/s4> .
+<https://github.com/john1hsu/chess-graph/id/kriegspiel> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/kriegspiel/s5> .
+<https://github.com/john1hsu/chess-graph/id/kriegspiel> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/kriegspiel/s6> .
+<https://github.com/john1hsu/chess-graph/id/kriegspiel> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/michael-henry-temple> .
+<https://github.com/john1hsu/chess-graph/id/kriegspiel> <https://github.com/john1hsu/chess-graph/ontology#domain> "variants-and-compositions" .
+<https://github.com/john1hsu/chess-graph/id/kriegspiel> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/kriegspiel> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/minimax> .
+<https://github.com/john1hsu/chess-graph/id/kriegspiel> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/monte-carlo-tree-search> .
+<https://github.com/john1hsu/chess-graph/id/kriegspiel> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-18" .
 <https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Engine> .
 <https://github.com/john1hsu/chess-graph/id/leela-chess-zero> <http://www.w3.org/2000/01/rdf-schema#label> "Leela Chess Zero" .
@@ -9998,6 +10024,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/knight-versus-bishop/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/knight-versus-bishop/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/knight-versus-bishop/s5> <https://schema.org/url> "https://en.chessbase.com/post/the-fischer-ending" .
+<https://github.com/john1hsu/chess-graph/id/source/kriegspiel/s1> <http://purl.org/dc/terms/publisher> "Franco Pratesi (article, naibi.net)" .
+<https://github.com/john1hsu/chess-graph/id/source/kriegspiel/s1> <http://purl.org/dc/terms/title> "Kriegspiel" .
+<https://github.com/john1hsu/chess-graph/id/source/kriegspiel/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/kriegspiel/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/kriegspiel/s1> <https://schema.org/url> "https://naibi.net/b/047.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/kriegspiel/s2> <http://purl.org/dc/terms/publisher> "The Chess Variant Pages" .
+<https://github.com/john1hsu/chess-graph/id/source/kriegspiel/s2> <http://purl.org/dc/terms/title> "Kriegspiel (rules article by David Moeser, J'ADOUBE! The Cincinnati Chess Magazine, 30 March 1977)" .
+<https://github.com/john1hsu/chess-graph/id/source/kriegspiel/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/kriegspiel/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/kriegspiel/s2> <https://schema.org/url> "https://www.chessvariants.org/incinf.dir/kriegspiel2.html" .
+<https://github.com/john1hsu/chess-graph/id/source/kriegspiel/s3> <http://purl.org/dc/terms/publisher> "Internet Chess Club" .
+<https://github.com/john1hsu/chess-graph/id/source/kriegspiel/s3> <http://purl.org/dc/terms/title> "Kriegspiel (wild 16) help file" .
+<https://github.com/john1hsu/chess-graph/id/source/kriegspiel/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/kriegspiel/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/kriegspiel/s3> <https://schema.org/url> "https://www.chessclub.com/help/Kriegspiel" .
+<https://github.com/john1hsu/chess-graph/id/source/kriegspiel/s4> <http://purl.org/dc/terms/publisher> "Gian Piero Favini, Alma Mater Studiorum – Università di Bologna" .
+<https://github.com/john1hsu/chess-graph/id/source/kriegspiel/s4> <http://purl.org/dc/terms/title> "The dark side of the board: advances in chess Kriegspiel (PhD thesis, Università di Bologna, 2010)" .
+<https://github.com/john1hsu/chess-graph/id/source/kriegspiel/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/kriegspiel/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/kriegspiel/s4> <https://schema.org/url> "https://amsdottorato.unibo.it/id/eprint/2403/1/favini_gianpiero_tesi.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/kriegspiel/s5> <http://purl.org/dc/terms/publisher> "Paolo Ciancarini & Gian Piero Favini, Proceedings of IJCAI 2009, pp. 474–478" .
+<https://github.com/john1hsu/chess-graph/id/source/kriegspiel/s5> <http://purl.org/dc/terms/title> "Monte Carlo Tree Search Techniques in the Game of Kriegspiel" .
+<https://github.com/john1hsu/chess-graph/id/source/kriegspiel/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/kriegspiel/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/kriegspiel/s5> <https://schema.org/url> "https://www.ijcai.org/Abstract/09/086" .
+<https://github.com/john1hsu/chess-graph/id/source/kriegspiel/s6> <http://purl.org/dc/terms/publisher> "Paolo Ciancarini & Gian Piero Favini, ICGA Journal 30(1):3–24 (2007)" .
+<https://github.com/john1hsu/chess-graph/id/source/kriegspiel/s6> <http://purl.org/dc/terms/title> "ICGA Journal paper on representing Kriegspiel states with metapositions" .
+<https://github.com/john1hsu/chess-graph/id/source/kriegspiel/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/kriegspiel/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/kriegspiel/s6> <https://schema.org/url> "https://content.iospress.com/articles/icga-journal/icg30102" .
 <https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s1> <http://purl.org/dc/terms/publisher> "Leela Chess Zero project (lczero.org)" .
 <https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s1> <http://purl.org/dc/terms/title> "What is Lc0?" .
 <https://github.com/john1hsu/chess-graph/id/source/leela-chess-zero/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

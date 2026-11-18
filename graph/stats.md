@@ -1,9 +1,9 @@
 # Graph statistics
 
-- Articles (nodes written): **252**
-- Frontier nodes (referenced, unwritten): **256**
-- Edges: **2392**
-- Citations: **1492**
+- Articles (nodes written): **253**
+- Frontier nodes (referenced, unwritten): **257**
+- Edges: **2401**
+- Citations: **1498**
 
 - Weakly connected components: **1**
 - Isolated articles (no edges): **0**
@@ -21,24 +21,24 @@
 | `kt:combination` | 0.0082 | yes |
 | `kt:chess` | 0.0079 | yes |
 | `kt:stalemate` | 0.0077 | yes |
-| `kt:pawn-structure` | 0.0077 | yes |
+| `kt:pawn-structure` | 0.0076 | yes |
 | `kt:wilhelm-steinitz` | 0.0076 | yes |
 | `kt:material-advantage` | 0.0074 | yes |
 | `kt:outpost` | 0.0072 | yes |
-| `kt:game-tree-search` | 0.0068 | yes |
+| `kt:game-tree-search` | 0.0069 | yes |
 | `kt:calculation` | 0.0067 | yes |
 
 ## Communities (Louvain): 9
 
 1. `kt:albert-zobrist`, `kt:algebraic-notation`, `kt:alpha-beta-pruning`, `kt:alphazero`, `kt:artificial-intelligence`, `kt:aspiration-window`, `kt:bitboards`, `kt:board-representation`, `kt:bratko-kopec-test`, `kt:charles-babbage`, `kt:chess-4-5`, `kt:chess-engine-communication-protocol` …
-2. `kt:alexander-alekhine`, `kt:anatoly-karpov`, `kt:avro-1938`, `kt:berlin-defence`, `kt:bobby-fischer`, `kt:boris-spassky`, `kt:botvinnik-versus-capablanca-avro-1938`, `kt:botvinnik-versus-tal-moscow-1960-game-6`, `kt:candidates-tournament`, `kt:chess-olympiad`, `kt:chigorin-defence`, `kt:club-argentino-de-ajedrez` …
-3. `kt:albin-countergambit`, `kt:alekhine-versus-nimzowitsch-san-remo-1930`, `kt:alekhines-defence`, `kt:alekhines-gun`, `kt:aron-nimzowitsch`, `kt:backward-pawn`, `kt:bishop-pair`, `kt:blockade`, `kt:capablanca-versus-tartakower-new-york-1924`, `kt:carlsbad-1923`, `kt:carlsbad-1929`, `kt:carlsbad-structure` …
+2. `kt:albin-countergambit`, `kt:alekhine-versus-nimzowitsch-san-remo-1930`, `kt:alekhines-defence`, `kt:alekhines-gun`, `kt:alexander-alekhine`, `kt:aron-nimzowitsch`, `kt:backward-pawn`, `kt:bishop-pair`, `kt:blockade`, `kt:capablanca-versus-tartakower-new-york-1924`, `kt:carlsbad-1923`, `kt:carlsbad-1929` …
+3. `kt:adolf-anderssen`, `kt:baden-baden-1870`, `kt:capablanca-versus-blanco-havana-1913`, `kt:carlsen-versus-rapport-wijk-aan-zee-2019`, `kt:chess-openings`, `kt:chigorin-defence`, `kt:curt-von-bardeleben`, `kt:danish-gambit`, `kt:david-bronstein`, `kt:development`, `kt:emanuel-lasker`, `kt:evans-gambit` …
 4. `kt:arbiter`, `kt:arpad-elo`, `kt:asian-chess-federation`, `kt:baku-acceleration`, `kt:berger-tables`, `kt:blitz-chess`, `kt:bronstein-delay`, `kt:chess-clock`, `kt:chess-equipment`, `kt:chess-organizations`, `kt:chess-rating-systems`, `kt:chess-titles` …
 5. `kt:abstract-strategy-game`, `kt:allumwandlung`, `kt:antonin-novotny`, `kt:as-suli`, `kt:babson-task`, `kt:bughouse`, `kt:castling`, `kt:chaturanga`, `kt:chess`, `kt:chess-composition`, `kt:chess-problems`, `kt:chess-set` …
-6. `kt:adolf-anderssen`, `kt:baden-baden-1870`, `kt:carlsen-versus-rapport-wijk-aan-zee-2019`, `kt:chess-openings`, `kt:curt-von-bardeleben`, `kt:danish-gambit`, `kt:david-bronstein`, `kt:development`, `kt:evans-gambit`, `kt:evergreen-game`, `kt:exchange-sacrifice`, `kt:falkbeer-countergambit` …
-7. `kt:abraham-luchins`, `kt:adriaan-de-groot`, `kt:alexander-kotov`, `kt:alfred-binet`, `kt:allen-newell`, `kt:anders-ericsson`, `kt:annotating-your-games`, `kt:blindfold-chess`, `kt:calculation`, `kt:candidate-moves`, `kt:chess-expertise`, `kt:chrest` …
-8. `kt:bishop-and-knight-checkmate`, `kt:breakthrough`, `kt:capablanca-versus-blanco-havana-1913`, `kt:chess-endgame`, `kt:corresponding-squares`, `kt:counting-in-pawn-races`, `kt:cutting-off-the-king`, `kt:domination`, `kt:endgame-tablebases`, `kt:fischer-versus-taimanov-vancouver-1971-game-4`, `kt:fortress`, `kt:josef-vancura` …
-9. `kt:adams-versus-torre-new-orleans-1920`, `kt:back-rank-mate`, `kt:battery`, `kt:carlos-torre`, `kt:carlsen-versus-anand-sochi-2014-game-6`, `kt:checkmate`, `kt:chess-tactics`, `kt:colle-versus-ohanlon-nice-1930`, `kt:combination`, `kt:decoy`, `kt:deflection`, `kt:desperado` …
+6. `kt:anatoly-karpov`, `kt:berlin-defence`, `kt:bobby-fischer`, `kt:boris-spassky`, `kt:botvinnik-versus-tal-moscow-1960-game-6`, `kt:candidates-tournament`, `kt:carlsen-versus-anand-sochi-2014-game-6`, `kt:chess-olympiad`, `kt:ding-liren`, `kt:ding-versus-gukesh-singapore-2024-game-14`, `kt:fide-title-regulations`, `kt:fide-world-cup` …
+7. `kt:adams-versus-torre-new-orleans-1920`, `kt:avro-1938`, `kt:back-rank-mate`, `kt:battery`, `kt:botvinnik-versus-capablanca-avro-1938`, `kt:carlos-torre`, `kt:checkmate`, `kt:chess-tactics`, `kt:colle-versus-ohanlon-nice-1930`, `kt:combination`, `kt:decoy`, `kt:deflection` …
+8. `kt:abraham-luchins`, `kt:adriaan-de-groot`, `kt:alexander-kotov`, `kt:alfred-binet`, `kt:allen-newell`, `kt:anders-ericsson`, `kt:annotating-your-games`, `kt:blindfold-chess`, `kt:calculation`, `kt:candidate-moves`, `kt:chess-expertise`, `kt:chrest` …
+9. `kt:bishop-and-knight-checkmate`, `kt:breakthrough`, `kt:chess-endgame`, `kt:corresponding-squares`, `kt:counting-in-pawn-races`, `kt:cutting-off-the-king`, `kt:domination`, `kt:endgame-tablebases`, `kt:fischer-versus-taimanov-vancouver-1971-game-4`, `kt:fortress`, `kt:josef-vancura`, `kt:ken-thompson` …
 
 ## By type
 
@@ -70,7 +70,7 @@
 - TimeControl: 4
 - Title: 2
 - TrainingMethod: 2
-- Variant: 8
+- Variant: 9
 - Variation: 5
 
 ## By domain
@@ -85,7 +85,7 @@
 - rules-and-notation: 23
 - tactics: 23
 - training-and-improvement: 23
-- variants-and-compositions: 22
+- variants-and-compositions: 23
 
 ## Freshness
 
@@ -95,5 +95,5 @@
 ## By status
 
 - contested: 5
-- current: 201
+- current: 202
 - historical: 46

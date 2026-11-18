@@ -23399,6 +23399,96 @@
       ]
     },
     {
+      "@id": "kt:kriegspiel",
+      "@type": "kto:Variant",
+      "skos:prefLabel": "Kriegspiel",
+      "skos:definition": "A chess variant of hidden information in which each player sees only their own pieces, while a referee keeps the true position on a third board, rejects illegal tries and announces only limited facts such as captures, checks and available pawn captures.",
+      "kto:domain": "variants-and-compositions",
+      "dcterms:created": "2026-11-18",
+      "kto:verified": "2026-11-18",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Kriegspiel",
+          "dcterms:publisher": "Franco Pratesi (article, naibi.net)",
+          "schema:url": "https://naibi.net/b/047.pdf",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Kriegspiel (rules article by David Moeser, J'ADOUBE! The Cincinnati Chess Magazine, 30 March 1977)",
+          "dcterms:publisher": "The Chess Variant Pages",
+          "schema:url": "https://www.chessvariants.org/incinf.dir/kriegspiel2.html",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "Kriegspiel (wild 16) help file",
+          "dcterms:publisher": "Internet Chess Club",
+          "schema:url": "https://www.chessclub.com/help/Kriegspiel",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "The dark side of the board: advances in chess Kriegspiel (PhD thesis, Università di Bologna, 2010)",
+          "dcterms:publisher": "Gian Piero Favini, Alma Mater Studiorum – Università di Bologna",
+          "schema:url": "https://amsdottorato.unibo.it/id/eprint/2403/1/favini_gianpiero_tesi.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Monte Carlo Tree Search Techniques in the Game of Kriegspiel",
+          "dcterms:publisher": "Paolo Ciancarini & Gian Piero Favini, Proceedings of IJCAI 2009, pp. 474–478",
+          "schema:url": "https://www.ijcai.org/Abstract/09/086",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "ICGA Journal paper on representing Kriegspiel states with metapositions",
+          "dcterms:publisher": "Paolo Ciancarini & Gian Piero Favini, ICGA Journal 30(1):3–24 (2007)",
+          "schema:url": "https://content.iospress.com/articles/icga-journal/icg30102",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/variants-and-compositions/kriegspiel.md",
+      "skos:altLabel": [
+        "Kriegspiel chess",
+        "Invisible chess",
+        "War game chess"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess-variants"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:blindfold-chess"
+        },
+        {
+          "@id": "kt:arbiter"
+        },
+        {
+          "@id": "kt:touch-move"
+        },
+        {
+          "@id": "kt:computer-chess"
+        },
+        {
+          "@id": "kt:checkmate"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:michael-henry-temple"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:monte-carlo-tree-search"
+        },
+        {
+          "@id": "kt:minimax"
+        }
+      ]
+    },
+    {
       "@id": "kt:novotny-theme",
       "@type": "kto:ProblemTheme",
       "skos:prefLabel": "Novotny theme",

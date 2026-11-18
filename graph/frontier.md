@@ -166,6 +166,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:maroczy-bind` | `kt:space-advantage` |
 | `kt:max-lange` | `kt:helpmate` |
 | `kt:max-wertheimer` | `kt:abraham-luchins` |
+| `kt:michael-henry-temple` | `kt:kriegspiel` |
 | `kt:mitrofanov-study-1967` | `kt:deflection` |
 | `kt:modena-school` | `kt:romantic-era` |
 | `kt:move-generation` | `kt:bitboards` |

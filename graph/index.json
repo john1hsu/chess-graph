@@ -3504,6 +3504,30 @@
     ]
   },
   {
+    "id": "kt:kriegspiel",
+    "title": "Kriegspiel",
+    "aliases": [
+      "Kriegspiel chess",
+      "Invisible chess",
+      "War game chess"
+    ],
+    "type": "Variant",
+    "domain": "variants-and-compositions",
+    "file": "articles/variants-and-compositions/kriegspiel.md",
+    "created": "2026-11-18",
+    "verified": "2026-11-18",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://naibi.net/b/047.pdf",
+      "https://www.chessvariants.org/incinf.dir/kriegspiel2.html",
+      "https://www.chessclub.com/help/Kriegspiel",
+      "https://amsdottorato.unibo.it/id/eprint/2403/1/favini_gianpiero_tesi.pdf",
+      "https://www.ijcai.org/Abstract/09/086",
+      "https://content.iospress.com/articles/icga-journal/icg30102"
+    ]
+  },
+  {
     "id": "kt:leela-chess-zero",
     "title": "Leela Chess Zero",
     "aliases": [
