@@ -5481,6 +5481,32 @@
     ]
   },
   {
+    "id": "kt:static-exchange-evaluation",
+    "title": "Static exchange evaluation",
+    "aliases": [
+      "SEE",
+      "Static exchange evaluator",
+      "Swap-off value",
+      "Swap-off analysis",
+      "Exchange evaluator",
+      "Swap algorithm"
+    ],
+    "type": "Algorithm",
+    "domain": "computer-chess",
+    "file": "articles/computer-chess/static-exchange-evaluation.md",
+    "created": "2026-11-18",
+    "verified": "2026-11-18",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.chessprogramming.org:443/Static_Exchange_Evaluation",
+      "https://vintageapple.org/byte/pdf/197811_Byte_Magazine_Vol_03-11_OSCAR_amateur_radio_satellites.pdf",
+      "https://content.iospress.com/articles/icga-journal/icg33102",
+      "https://grok.dragonflybsd.org/raw/dports/games/stockfish/Stockfish-sf_14/src/position.cpp",
+      "https://research.tilburguniversity.edu/en/publications/new-architectures-in-computer-chess/"
+    ]
+  },
+  {
     "id": "kt:steinitz-von-bardeleben-hastings-1895",
     "title": "Steinitz versus von Bardeleben, Hastings 1895",
     "aliases": [

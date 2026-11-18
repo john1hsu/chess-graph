@@ -1692,6 +1692,102 @@
       ]
     },
     {
+      "@id": "kt:static-exchange-evaluation",
+      "@type": "kto:Algorithm",
+      "skos:prefLabel": "Static exchange evaluation",
+      "skos:definition": "A routine in chess engines that estimates, without searching, the material outcome of the sequence of captures on a single square, letting the engine sort captures into winning, equal and losing ones and prune those that lose material.",
+      "kto:domain": "computer-chess",
+      "dcterms:created": "2026-11-18",
+      "kto:verified": "2026-11-18",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Static Exchange Evaluation",
+          "dcterms:publisher": "Chess Programming Wiki",
+          "schema:url": "https://www.chessprogramming.org:443/Static_Exchange_Evaluation",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "An Exchange Evaluator for Computer Chess (BYTE, Vol. 3 No. 11, November 1978)",
+          "dcterms:publisher": "Dan and Kathe Spracklen, BYTE Magazine, scan at vintageapple.org",
+          "schema:url": "https://vintageapple.org/byte/pdf/197811_Byte_Magazine_Vol_03-11_OSCAR_amateur_radio_satellites.pdf",
+          "kto:sourceType": "primary-record"
+        },
+        {
+          "dcterms:title": "Static Exchange Evaluation with αβ-Approach (ICGA Journal 33(1), 2010, pp. 3–17)",
+          "dcterms:publisher": "Fritz Reul, ICGA Journal, IOS Press",
+          "schema:url": "https://content.iospress.com/articles/icga-journal/icg33102",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Stockfish 14 source code, src/position.cpp (Position::see_ge)",
+          "dcterms:publisher": "The Stockfish developers (GPL v3), mirrored in DragonFly BSD ports",
+          "schema:url": "https://grok.dragonflybsd.org/raw/dports/games/stockfish/Stockfish-sf_14/src/position.cpp",
+          "kto:sourceType": "primary-record"
+        },
+        {
+          "dcterms:title": "New architectures in computer chess (PhD thesis, Tilburg University, 2009), research portal record",
+          "dcterms:publisher": "Tilburg University",
+          "schema:url": "https://research.tilburguniversity.edu/en/publications/new-architectures-in-computer-chess/",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/computer-chess/static-exchange-evaluation.md",
+      "skos:altLabel": [
+        "SEE",
+        "Static exchange evaluator",
+        "Swap-off value",
+        "Swap-off analysis",
+        "Exchange evaluator",
+        "Swap algorithm"
+      ],
+      "kto:fen": "6k1/8/2n5/4p3/8/5N2/8/4R1K1 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:computer-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:move-ordering"
+        },
+        {
+          "@id": "kt:quiescence-search"
+        },
+        {
+          "@id": "kt:evaluation-function"
+        },
+        {
+          "@id": "kt:material-advantage"
+        },
+        {
+          "@id": "kt:pin"
+        },
+        {
+          "@id": "kt:sargon"
+        }
+      ],
+      "kto:enables": [
+        {
+          "@id": "kt:move-ordering"
+        },
+        {
+          "@id": "kt:quiescence-search"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:john-maynard-smith"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:alpha-beta-pruning"
+        }
+      ]
+    },
+    {
       "@id": "kt:stockfish",
       "@type": "kto:Engine",
       "skos:prefLabel": "Stockfish",

@@ -32,7 +32,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:san-remo-1930` | `kt:alekhine-versus-nimzowitsch-san-remo-1930`, `kt:alexander-alekhine` |
 | `kt:scout-algorithm` | `kt:principal-variation-search`, `kt:principal-variation-search` |
 | `kt:singular-extensions` | `kt:horizon-effect`, `kt:horizon-effect` |
-| `kt:static-exchange-evaluation` | `kt:move-ordering`, `kt:quiescence-search` |
 | `kt:zukertort-versus-blackburne-london-1883` | `kt:london-1883`, `kt:johannes-zukertort` |
 | `kt:abstract-strategy-game` | `kt:chess` |
 | `kt:alfred-binet` | `kt:cognitive-psychology-of-chess` |
@@ -129,6 +128,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:international-master-title` | `kt:grandmaster-title` |
 | `kt:intrinsic-performance-rating` | `kt:fair-play-regulations` |
 | `kt:jean-dufresne` | `kt:evergreen-game` |
+| `kt:john-maynard-smith` | `kt:static-exchange-evaluation` |
 | `kt:john-mccarthy` | `kt:alpha-beta-pruning` |
 | `kt:john-stanback` | `kt:extended-position-description` |
 | `kt:john-von-neumann` | `kt:minimax` |
@@ -211,6 +211,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:same-coloured-bishops` | `kt:opposite-coloured-bishops` |
 | `kt:samisch-variation` | `kt:nimzo-indian-defence` |
 | `kt:samuel-reshevsky` | `kt:us-chess-championship` |
+| `kt:sargon` | `kt:static-exchange-evaluation` |
 | `kt:semi-closed-games` | `kt:chess-openings` |
 | `kt:semi-slav-defence` | `kt:slav-defence` |
 | `kt:sergey-karjakin` | `kt:world-rapid-championship` |

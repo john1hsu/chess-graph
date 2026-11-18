@@ -12334,6 +12334,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/starting-age/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/starting-age/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/chess-graph/id/source/starting-age/s4> <https://schema.org/url> "https://vivo.weill.cornell.edu/display/pubid17563184" .
+<https://github.com/john1hsu/chess-graph/id/source/static-exchange-evaluation/s1> <http://purl.org/dc/terms/publisher> "Chess Programming Wiki" .
+<https://github.com/john1hsu/chess-graph/id/source/static-exchange-evaluation/s1> <http://purl.org/dc/terms/title> "Static Exchange Evaluation" .
+<https://github.com/john1hsu/chess-graph/id/source/static-exchange-evaluation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/static-exchange-evaluation/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/static-exchange-evaluation/s1> <https://schema.org/url> "https://www.chessprogramming.org:443/Static_Exchange_Evaluation" .
+<https://github.com/john1hsu/chess-graph/id/source/static-exchange-evaluation/s2> <http://purl.org/dc/terms/publisher> "Dan and Kathe Spracklen, BYTE Magazine, scan at vintageapple.org" .
+<https://github.com/john1hsu/chess-graph/id/source/static-exchange-evaluation/s2> <http://purl.org/dc/terms/title> "An Exchange Evaluator for Computer Chess (BYTE, Vol. 3 No. 11, November 1978)" .
+<https://github.com/john1hsu/chess-graph/id/source/static-exchange-evaluation/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/static-exchange-evaluation/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/static-exchange-evaluation/s2> <https://schema.org/url> "https://vintageapple.org/byte/pdf/197811_Byte_Magazine_Vol_03-11_OSCAR_amateur_radio_satellites.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/static-exchange-evaluation/s3> <http://purl.org/dc/terms/publisher> "Fritz Reul, ICGA Journal, IOS Press" .
+<https://github.com/john1hsu/chess-graph/id/source/static-exchange-evaluation/s3> <http://purl.org/dc/terms/title> "Static Exchange Evaluation with αβ-Approach (ICGA Journal 33(1), 2010, pp. 3–17)" .
+<https://github.com/john1hsu/chess-graph/id/source/static-exchange-evaluation/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/static-exchange-evaluation/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/static-exchange-evaluation/s3> <https://schema.org/url> "https://content.iospress.com/articles/icga-journal/icg33102" .
+<https://github.com/john1hsu/chess-graph/id/source/static-exchange-evaluation/s4> <http://purl.org/dc/terms/publisher> "The Stockfish developers (GPL v3), mirrored in DragonFly BSD ports" .
+<https://github.com/john1hsu/chess-graph/id/source/static-exchange-evaluation/s4> <http://purl.org/dc/terms/title> "Stockfish 14 source code, src/position.cpp (Position::see_ge)" .
+<https://github.com/john1hsu/chess-graph/id/source/static-exchange-evaluation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/static-exchange-evaluation/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/static-exchange-evaluation/s4> <https://schema.org/url> "https://grok.dragonflybsd.org/raw/dports/games/stockfish/Stockfish-sf_14/src/position.cpp" .
+<https://github.com/john1hsu/chess-graph/id/source/static-exchange-evaluation/s5> <http://purl.org/dc/terms/publisher> "Tilburg University" .
+<https://github.com/john1hsu/chess-graph/id/source/static-exchange-evaluation/s5> <http://purl.org/dc/terms/title> "New architectures in computer chess (PhD thesis, Tilburg University, 2009), research portal record" .
+<https://github.com/john1hsu/chess-graph/id/source/static-exchange-evaluation/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/static-exchange-evaluation/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/static-exchange-evaluation/s5> <https://schema.org/url> "https://research.tilburguniversity.edu/en/publications/new-architectures-in-computer-chess/" .
 <https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
 <https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s1> <http://purl.org/dc/terms/title> "Steinitz v von Bardeleben, Hastings, 1895" .
 <https://github.com/john1hsu/chess-graph/id/source/steinitz-von-bardeleben-hastings-1895/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -13638,6 +13663,37 @@
 <https://github.com/john1hsu/chess-graph/id/starting-age> <https://github.com/john1hsu/chess-graph/ontology#domain> "training-and-improvement" .
 <https://github.com/john1hsu/chess-graph/id/starting-age> <https://github.com/john1hsu/chess-graph/ontology#status> "contested" .
 <https://github.com/john1hsu/chess-graph/id/starting-age> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/static-exchange-evaluation> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/chess-graph/id/static-exchange-evaluation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Algorithm> .
+<https://github.com/john1hsu/chess-graph/id/static-exchange-evaluation> <http://www.w3.org/2000/01/rdf-schema#label> "Static exchange evaluation" .
+<https://github.com/john1hsu/chess-graph/id/static-exchange-evaluation> <http://www.w3.org/2004/02/skos/core#altLabel> "Exchange evaluator" .
+<https://github.com/john1hsu/chess-graph/id/static-exchange-evaluation> <http://www.w3.org/2004/02/skos/core#altLabel> "SEE" .
+<https://github.com/john1hsu/chess-graph/id/static-exchange-evaluation> <http://www.w3.org/2004/02/skos/core#altLabel> "Static exchange evaluator" .
+<https://github.com/john1hsu/chess-graph/id/static-exchange-evaluation> <http://www.w3.org/2004/02/skos/core#altLabel> "Swap algorithm" .
+<https://github.com/john1hsu/chess-graph/id/static-exchange-evaluation> <http://www.w3.org/2004/02/skos/core#altLabel> "Swap-off analysis" .
+<https://github.com/john1hsu/chess-graph/id/static-exchange-evaluation> <http://www.w3.org/2004/02/skos/core#altLabel> "Swap-off value" .
+<https://github.com/john1hsu/chess-graph/id/static-exchange-evaluation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/computer-chess> .
+<https://github.com/john1hsu/chess-graph/id/static-exchange-evaluation> <http://www.w3.org/2004/02/skos/core#definition> "A routine in chess engines that estimates, without searching, the material outcome of the sequence of captures on a single square, letting the engine sort captures into winning, equal and losing ones and prune those that lose material." .
+<https://github.com/john1hsu/chess-graph/id/static-exchange-evaluation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Static exchange evaluation" .
+<https://github.com/john1hsu/chess-graph/id/static-exchange-evaluation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/evaluation-function> .
+<https://github.com/john1hsu/chess-graph/id/static-exchange-evaluation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/material-advantage> .
+<https://github.com/john1hsu/chess-graph/id/static-exchange-evaluation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/move-ordering> .
+<https://github.com/john1hsu/chess-graph/id/static-exchange-evaluation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/pin> .
+<https://github.com/john1hsu/chess-graph/id/static-exchange-evaluation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/quiescence-search> .
+<https://github.com/john1hsu/chess-graph/id/static-exchange-evaluation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/sargon> .
+<https://github.com/john1hsu/chess-graph/id/static-exchange-evaluation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/static-exchange-evaluation/s1> .
+<https://github.com/john1hsu/chess-graph/id/static-exchange-evaluation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/static-exchange-evaluation/s2> .
+<https://github.com/john1hsu/chess-graph/id/static-exchange-evaluation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/static-exchange-evaluation/s3> .
+<https://github.com/john1hsu/chess-graph/id/static-exchange-evaluation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/static-exchange-evaluation/s4> .
+<https://github.com/john1hsu/chess-graph/id/static-exchange-evaluation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/static-exchange-evaluation/s5> .
+<https://github.com/john1hsu/chess-graph/id/static-exchange-evaluation> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/john-maynard-smith> .
+<https://github.com/john1hsu/chess-graph/id/static-exchange-evaluation> <https://github.com/john1hsu/chess-graph/ontology#domain> "computer-chess" .
+<https://github.com/john1hsu/chess-graph/id/static-exchange-evaluation> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/move-ordering> .
+<https://github.com/john1hsu/chess-graph/id/static-exchange-evaluation> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/quiescence-search> .
+<https://github.com/john1hsu/chess-graph/id/static-exchange-evaluation> <https://github.com/john1hsu/chess-graph/ontology#fen> "6k1/8/2n5/4p3/8/5N2/8/4R1K1 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/static-exchange-evaluation> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> .
+<https://github.com/john1hsu/chess-graph/id/static-exchange-evaluation> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/static-exchange-evaluation> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-18" .
 <https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> <http://purl.org/dc/terms/created> "2026-11-14" .
 <https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Game> .
 <https://github.com/john1hsu/chess-graph/id/steinitz-von-bardeleben-hastings-1895> <http://www.w3.org/2000/01/rdf-schema#label> "Steinitz versus von Bardeleben, Hastings 1895" .
