@@ -2029,6 +2029,29 @@
     ]
   },
   {
+    "id": "kt:doubled-pawns",
+    "title": "Doubled pawns",
+    "aliases": [
+      "Doubled pawn",
+      "Doubled c-pawns"
+    ],
+    "type": "PawnStructure",
+    "domain": "middlegame-strategy",
+    "file": "articles/middlegame-strategy/doubled-pawns.md",
+    "created": "2026-11-18",
+    "verified": "2026-11-18",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.britannica.com/topic/doubled-pawns",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/9283.pdf",
+      "https://www.russell-enterprises.com/russell-enterprises/doubled-pawns",
+      "https://www.chess.com/article/view/the-truth-about-doubled-pawns-part-two",
+      "https://en.chessbase.com/support-kb/content/details/1149/Knowing_your_pawn_structures",
+      "https://exeterchessclub.org.uk/node/837"
+    ]
+  },
+  {
     "id": "kt:dragon-variation",
     "title": "Dragon Variation",
     "aliases": [

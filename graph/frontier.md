@@ -27,6 +27,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:open-ruy-lopez` | `kt:berlin-defence`, `kt:ruy-lopez` |
 | `kt:origins-of-chess` | `kt:chaturanga`, `kt:history-of-chess` |
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
+| `kt:pawn-majority` | `kt:breakthrough`, `kt:doubled-pawns` |
 | `kt:reshevsky-versus-petrosian-zurich-1953` | `kt:exchange-sacrifice`, `kt:sacrifice` |
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:zugzwang`, `kt:aron-nimzowitsch` |
 | `kt:san-remo-1930` | `kt:alekhine-versus-nimzowitsch-san-remo-1930`, `kt:alexander-alekhine` |
@@ -179,7 +180,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:panov-botvinnik-attack` | `kt:caro-kann-defence` |
 | `kt:passive-rook-defence` | `kt:philidor-position` |
 | `kt:paul-keres` | `kt:correspondence-chess` |
-| `kt:pawn-majority` | `kt:breakthrough` |
 | `kt:pawn-storm` | `kt:king-safety` |
 | `kt:petroffs-defence` | `kt:open-games` |
 | `kt:petrosian-versus-spassky-moscow-1966-game-10` | `kt:tigran-petrosian` |
@@ -210,6 +210,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:rudolf-huber` | `kt:universal-chess-interface` |
 | `kt:rudolf-spielmann` | `kt:sacrifice` |
 | `kt:ruy-lopez-de-segura` | `kt:ruy-lopez` |
+| `kt:saemisch-variation` | `kt:doubled-pawns` |
 | `kt:sam-loyd` | `kt:excelsior` |
 | `kt:same-coloured-bishops` | `kt:opposite-coloured-bishops` |
 | `kt:samisch-variation` | `kt:nimzo-indian-defence` |

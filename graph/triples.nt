@@ -2286,6 +2286,33 @@
 <https://github.com/john1hsu/chess-graph/id/double-check> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/checkmate> .
 <https://github.com/john1hsu/chess-graph/id/double-check> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/double-check> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/doubled-pawns> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/chess-graph/id/doubled-pawns> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#PawnStructure> .
+<https://github.com/john1hsu/chess-graph/id/doubled-pawns> <http://www.w3.org/2000/01/rdf-schema#label> "Doubled pawns" .
+<https://github.com/john1hsu/chess-graph/id/doubled-pawns> <http://www.w3.org/2004/02/skos/core#altLabel> "Doubled c-pawns" .
+<https://github.com/john1hsu/chess-graph/id/doubled-pawns> <http://www.w3.org/2004/02/skos/core#altLabel> "Doubled pawn" .
+<https://github.com/john1hsu/chess-graph/id/doubled-pawns> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/pawn-structure> .
+<https://github.com/john1hsu/chess-graph/id/doubled-pawns> <http://www.w3.org/2004/02/skos/core#definition> "Two pawns of the same colour standing on the same file, almost always the result of a capture; they lose mobility and can become targets, but the capture that creates them often brings compensation such as a half-open file, central control or the bishop pair." .
+<https://github.com/john1hsu/chess-graph/id/doubled-pawns> <http://www.w3.org/2004/02/skos/core#prefLabel> "Doubled pawns" .
+<https://github.com/john1hsu/chess-graph/id/doubled-pawns> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/bishop-pair> .
+<https://github.com/john1hsu/chess-graph/id/doubled-pawns> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/blockade> .
+<https://github.com/john1hsu/chess-graph/id/doubled-pawns> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fischer-spassky-1972> .
+<https://github.com/john1hsu/chess-graph/id/doubled-pawns> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/french-defence> .
+<https://github.com/john1hsu/chess-graph/id/doubled-pawns> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/nimzo-indian-defence> .
+<https://github.com/john1hsu/chess-graph/id/doubled-pawns> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/ruy-lopez> .
+<https://github.com/john1hsu/chess-graph/id/doubled-pawns> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/doubled-pawns/s1> .
+<https://github.com/john1hsu/chess-graph/id/doubled-pawns> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/doubled-pawns/s2> .
+<https://github.com/john1hsu/chess-graph/id/doubled-pawns> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/doubled-pawns/s3> .
+<https://github.com/john1hsu/chess-graph/id/doubled-pawns> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/doubled-pawns/s4> .
+<https://github.com/john1hsu/chess-graph/id/doubled-pawns> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/doubled-pawns/s5> .
+<https://github.com/john1hsu/chess-graph/id/doubled-pawns> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/doubled-pawns/s6> .
+<https://github.com/john1hsu/chess-graph/id/doubled-pawns> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/isolated-queens-pawn> .
+<https://github.com/john1hsu/chess-graph/id/doubled-pawns> <https://github.com/john1hsu/chess-graph/ontology#domain> "middlegame-strategy" .
+<https://github.com/john1hsu/chess-graph/id/doubled-pawns> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/saemisch-variation> .
+<https://github.com/john1hsu/chess-graph/id/doubled-pawns> <https://github.com/john1hsu/chess-graph/ontology#fen> "rnbqk2r/pppp1ppp/4pn2/8/2PP4/P1P5/4PPPP/R1BQKBNR b KQkq - 0 5" .
+<https://github.com/john1hsu/chess-graph/id/doubled-pawns> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/pawn-majority> .
+<https://github.com/john1hsu/chess-graph/id/doubled-pawns> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/doubled-pawns> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-18" .
 <https://github.com/john1hsu/chess-graph/id/dragon-variation> <http://purl.org/dc/terms/created> "2026-11-16" .
 <https://github.com/john1hsu/chess-graph/id/dragon-variation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Variation> .
 <https://github.com/john1hsu/chess-graph/id/dragon-variation> <http://www.w3.org/2000/01/rdf-schema#label> "Dragon Variation" .
@@ -8429,6 +8456,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/double-check/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/double-check/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/double-check/s5> <https://schema.org/url> "https://www.chess.com/fr/terms/double-check-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/doubled-pawns/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/doubled-pawns/s1> <http://purl.org/dc/terms/title> "doubled pawns" .
+<https://github.com/john1hsu/chess-graph/id/source/doubled-pawns/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/doubled-pawns/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/doubled-pawns/s1> <https://schema.org/url> "https://www.britannica.com/topic/doubled-pawns" .
+<https://github.com/john1hsu/chess-graph/id/source/doubled-pawns/s2> <http://purl.org/dc/terms/publisher> "Ivan Sokolov, New In Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/doubled-pawns/s2> <http://purl.org/dc/terms/title> "Winning Chess Middlegames, Volume 1: An Essential Guide to 1.d4 Pawn Structures (excerpt)" .
+<https://github.com/john1hsu/chess-graph/id/source/doubled-pawns/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/doubled-pawns/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/doubled-pawns/s2> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/9283.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/doubled-pawns/s3> <http://purl.org/dc/terms/publisher> "Sergey Kasparov, Russell Enterprises" .
+<https://github.com/john1hsu/chess-graph/id/source/doubled-pawns/s3> <http://purl.org/dc/terms/title> "Doubled Pawns: A Practical Guide" .
+<https://github.com/john1hsu/chess-graph/id/source/doubled-pawns/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/doubled-pawns/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/doubled-pawns/s3> <https://schema.org/url> "https://www.russell-enterprises.com/russell-enterprises/doubled-pawns" .
+<https://github.com/john1hsu/chess-graph/id/source/doubled-pawns/s4> <http://purl.org/dc/terms/publisher> "GM Gregory Serper, Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/doubled-pawns/s4> <http://purl.org/dc/terms/title> "The Truth About Doubled Pawns, Part 2" .
+<https://github.com/john1hsu/chess-graph/id/source/doubled-pawns/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/doubled-pawns/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/doubled-pawns/s4> <https://schema.org/url> "https://www.chess.com/article/view/the-truth-about-doubled-pawns-part-two" .
+<https://github.com/john1hsu/chess-graph/id/source/doubled-pawns/s5> <http://purl.org/dc/terms/publisher> "ChessBase Knowledge Base" .
+<https://github.com/john1hsu/chess-graph/id/source/doubled-pawns/s5> <http://purl.org/dc/terms/title> "Knowing your pawn structures" .
+<https://github.com/john1hsu/chess-graph/id/source/doubled-pawns/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/doubled-pawns/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/doubled-pawns/s5> <https://schema.org/url> "https://en.chessbase.com/support-kb/content/details/1149/Knowing_your_pawn_structures" .
+<https://github.com/john1hsu/chess-graph/id/source/doubled-pawns/s6> <http://purl.org/dc/terms/publisher> "Peter Lane, Exeter Chess Club" .
+<https://github.com/john1hsu/chess-graph/id/source/doubled-pawns/s6> <http://purl.org/dc/terms/title> "Doubled c-Pawns" .
+<https://github.com/john1hsu/chess-graph/id/source/doubled-pawns/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/doubled-pawns/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/doubled-pawns/s6> <https://schema.org/url> "https://exeterchessclub.org.uk/node/837" .
 <https://github.com/john1hsu/chess-graph/id/source/dragon-variation/s1> <http://purl.org/dc/terms/publisher> "Gawain Jones, Quality Chess (2015), publisher sample PDF hosted by New In Chess" .
 <https://github.com/john1hsu/chess-graph/id/source/dragon-variation/s1> <http://purl.org/dc/terms/title> "Grandmaster Repertoire 1: The Dragon, Volume One (sample pages)" .
 <https://github.com/john1hsu/chess-graph/id/source/dragon-variation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
