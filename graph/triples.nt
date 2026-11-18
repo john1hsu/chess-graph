@@ -4079,6 +4079,41 @@
 <https://github.com/john1hsu/chess-graph/id/mikhail-botvinnik> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/chess-olympiad> .
 <https://github.com/john1hsu/chess-graph/id/mikhail-botvinnik> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/mikhail-botvinnik> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> <http://www.w3.org/2000/01/rdf-schema#label> "Mikhail Chigorin" .
+<https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> <http://www.w3.org/2004/02/skos/core#altLabel> "Chigorin" .
+<https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> <http://www.w3.org/2004/02/skos/core#altLabel> "Mikhail Ivanovich Chigorin" .
+<https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> <http://www.w3.org/2004/02/skos/core#altLabel> "Mikhail Tchigorin" .
+<https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> <http://www.w3.org/2004/02/skos/core#altLabel> "Tchigorin" .
+<https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> <http://www.w3.org/2004/02/skos/core#altLabel> "Tjigorin" .
+<https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> <http://www.w3.org/2004/02/skos/core#altLabel> "Tschigorin" .
+<https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> <http://www.w3.org/2004/02/skos/core#definition> "Russian master (1850–1908), the strongest player in Russia from the early 1880s, who twice challenged Wilhelm Steinitz for the world title (Havana 1889 and 1892), shared first at New York 1889, took second at Hastings 1895, and as organiser, editor and player is regarded as the founder of the Russian school of chess." .
+<https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mikhail Chigorin" .
+<https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chigorin-defence> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/evans-gambit> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/kings-gambit> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/siegbert-tarrasch> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/soviet-chess-school> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s1> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s2> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s3> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s4> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s5> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s6> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s7> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s8> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s9> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> <https://github.com/john1hsu/chess-graph/ontology#domain> "players" .
+<https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> <https://github.com/john1hsu/chess-graph/ontology#moves> "1.d4 d5 2.c4 Nc6" .
+<https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/hastings-1895> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/london-1883> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/world-chess-championship-1889> .
+<https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-18" .
 <https://github.com/john1hsu/chess-graph/id/mikhail-tal> <http://purl.org/dc/terms/created> "2026-11-15" .
 <https://github.com/john1hsu/chess-graph/id/mikhail-tal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
 <https://github.com/john1hsu/chess-graph/id/mikhail-tal> <http://www.w3.org/2000/01/rdf-schema#label> "Mikhail Tal" .
@@ -9954,6 +9989,51 @@
 <https://github.com/john1hsu/chess-graph/id/source/mikhail-botvinnik/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/mikhail-botvinnik/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/mikhail-botvinnik/s5> <https://schema.org/url> "https://en.chessbase.com/post/ken-thompson-moscow-adventures-2" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s1> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s1> <http://purl.org/dc/terms/title> "Mikhail Chigorin (Tchigorin) (inductee page)" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s1> <https://schema.org/url> "https://worldchesshof.org/inductee/mikhail-chigorin-tchigorin/" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s2> <http://purl.org/dc/terms/publisher> "Encyclopaedia of Saint Petersburg" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s2> <http://purl.org/dc/terms/title> "Chigorin Mikhail Ivanovich" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s2> <https://schema.org/url> "https://encspb.ru/object/2804017103?lc=en" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s3> <http://purl.org/dc/terms/publisher> "Chess History (Edward Winter's Chess Notes)" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s3> <http://purl.org/dc/terms/title> "Mikhail Chigorin (by Edward Winter)" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s3> <https://schema.org/url> "https://www.chesshistory.com/winter/extra/chigorin.html" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s4> <http://purl.org/dc/terms/publisher> "chessgames.com" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s4> <http://purl.org/dc/terms/title> "Mikhail Chigorin (player page and biography)" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s4> <https://schema.org/url> "https://www.chessgames.com/player/mikhail_chigorin.html" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s5> <http://purl.org/dc/terms/publisher> "chessgames.com" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s5> <http://purl.org/dc/terms/title> "Steinitz - Chigorin Telegraph Match (1890-1891)" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s5> <https://schema.org/url> "https://www.chessgames.com/perl/chess.pl?tid=87184" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s6> <http://purl.org/dc/terms/publisher> "chessgames.com" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s6> <http://purl.org/dc/terms/title> "6th American Chess Congress, New York 1889" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s6> <https://schema.org/url> "https://chessgames.com/perl/chess.pl?tid=94026" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s7> <http://purl.org/dc/terms/publisher> "Russian Chess Federation" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s7> <http://purl.org/dc/terms/title> "Mikhail Chigorin (Person of the day, 12 November 2023)" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s7> <https://schema.org/url> "https://ruchess.ru/en/persons_of_day/mikhail_chigorin_/" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s8> <http://purl.org/dc/terms/publisher> "Chessentials" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s8> <http://purl.org/dc/terms/title> "Steinitz – Chigorin World Championship Rematch 1892" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s8> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s8> <https://schema.org/url> "https://chessentials.com/steinitz-chigorin-world-championship-rematch-1892/" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s9> <http://purl.org/dc/terms/publisher> "chessgames.com" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s9> <http://purl.org/dc/terms/title> "Chigorin - Gunsberg Match (1890)" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s9> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/mikhail-chigorin/s9> <https://schema.org/url> "https://chessgames.com/perl/chess.pl?tid=88002" .
 <https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s1> <http://purl.org/dc/terms/title> "Mikhail Nekhemyevich Tal" .
 <https://github.com/john1hsu/chess-graph/id/source/mikhail-tal/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

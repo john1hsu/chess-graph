@@ -6,7 +6,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:alexander-alekhine`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:boris-spassky`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:magnus-carlsen`, `kt:mikhail-botvinnik`, `kt:mikhail-tal`, `kt:tigran-petrosian`, `kt:viswanathan-anand`, `kt:vladimir-kramnik`, `kt:wilhelm-steinitz` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:the-turk`, `kt:herbert-simon` |
-| `kt:mikhail-chigorin` | `kt:hastings-1895`, `kt:london-1883`, `kt:evans-gambit`, `kt:wilhelm-steinitz` |
 | `kt:berlin-defence` | `kt:alphazero`, `kt:ruy-lopez`, `kt:vladimir-kramnik` |
 | `kt:david-bronstein` | `kt:kings-gambit`, `kt:bronstein-delay`, `kt:bronstein-delay` |
 | `kt:howard-staunton` | `kt:london-1851`, `kt:london-1851`, `kt:paul-morphy` |
@@ -67,6 +66,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
 | `kt:chess-set` | `kt:lewis-chessmen` |
 | `kt:chessdom` | `kt:top-chess-engine-championship` |
+| `kt:chigorin-defence` | `kt:mikhail-chigorin` |
 | `kt:chrest` | `kt:template-theory` |
 | `kt:club-argentino-de-ajedrez` | `kt:world-chess-championship-1927` |
 | `kt:cognitive-science` | `kt:cognitive-psychology-of-chess` |
@@ -245,6 +245,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:winawer-variation` | `kt:french-defence` |
 | `kt:wolfgang-von-kempelen` | `kt:the-turk` |
 | `kt:woodpecker-method` | `kt:puzzle-training` |
+| `kt:world-chess-championship-1889` | `kt:mikhail-chigorin` |
 | `kt:world-chess-championship-1894` | `kt:emanuel-lasker` |
 | `kt:world-chess-championship-1908` | `kt:siegbert-tarrasch` |
 | `kt:world-chess-championship-1921` | `kt:jose-raul-capablanca` |

@@ -14375,6 +14375,124 @@
       ]
     },
     {
+      "@id": "kt:mikhail-chigorin",
+      "@type": "kto:Player",
+      "skos:prefLabel": "Mikhail Chigorin",
+      "skos:definition": "Russian master (1850–1908), the strongest player in Russia from the early 1880s, who twice challenged Wilhelm Steinitz for the world title (Havana 1889 and 1892), shared first at New York 1889, took second at Hastings 1895, and as organiser, editor and player is regarded as the founder of the Russian school of chess.",
+      "kto:domain": "players",
+      "dcterms:created": "2026-11-18",
+      "kto:verified": "2026-11-18",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Mikhail Chigorin (Tchigorin) (inductee page)",
+          "dcterms:publisher": "World Chess Hall of Fame",
+          "schema:url": "https://worldchesshof.org/inductee/mikhail-chigorin-tchigorin/",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Chigorin Mikhail Ivanovich",
+          "dcterms:publisher": "Encyclopaedia of Saint Petersburg",
+          "schema:url": "https://encspb.ru/object/2804017103?lc=en",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Mikhail Chigorin (by Edward Winter)",
+          "dcterms:publisher": "Chess History (Edward Winter's Chess Notes)",
+          "schema:url": "https://www.chesshistory.com/winter/extra/chigorin.html",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Mikhail Chigorin (player page and biography)",
+          "dcterms:publisher": "chessgames.com",
+          "schema:url": "https://www.chessgames.com/player/mikhail_chigorin.html",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "Steinitz - Chigorin Telegraph Match (1890-1891)",
+          "dcterms:publisher": "chessgames.com",
+          "schema:url": "https://www.chessgames.com/perl/chess.pl?tid=87184",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "6th American Chess Congress, New York 1889",
+          "dcterms:publisher": "chessgames.com",
+          "schema:url": "https://chessgames.com/perl/chess.pl?tid=94026",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "Mikhail Chigorin (Person of the day, 12 November 2023)",
+          "dcterms:publisher": "Russian Chess Federation",
+          "schema:url": "https://ruchess.ru/en/persons_of_day/mikhail_chigorin_/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Steinitz – Chigorin World Championship Rematch 1892",
+          "dcterms:publisher": "Chessentials",
+          "schema:url": "https://chessentials.com/steinitz-chigorin-world-championship-rematch-1892/",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Chigorin - Gunsberg Match (1890)",
+          "dcterms:publisher": "chessgames.com",
+          "schema:url": "https://chessgames.com/perl/chess.pl?tid=88002",
+          "kto:sourceType": "database"
+        }
+      ],
+      "kto:file": "articles/players/mikhail-chigorin.md",
+      "skos:altLabel": [
+        "Mikhail Ivanovich Chigorin",
+        "Tchigorin",
+        "Mikhail Tchigorin",
+        "Tschigorin",
+        "Tjigorin",
+        "Chigorin"
+      ],
+      "kto:moves": "1.d4 d5 2.c4 Nc6",
+      "skos:broader": [
+        {
+          "@id": "kt:world-chess-championship"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:wilhelm-steinitz"
+        },
+        {
+          "@id": "kt:siegbert-tarrasch"
+        },
+        {
+          "@id": "kt:evans-gambit"
+        },
+        {
+          "@id": "kt:kings-gambit"
+        },
+        {
+          "@id": "kt:soviet-chess-school"
+        },
+        {
+          "@id": "kt:chigorin-defence"
+        }
+      ],
+      "kto:playedIn": [
+        {
+          "@id": "kt:world-chess-championship-1889"
+        },
+        {
+          "@id": "kt:hastings-1895"
+        },
+        {
+          "@id": "kt:london-1883"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:wilhelm-steinitz"
+        }
+      ]
+    },
+    {
       "@id": "kt:mikhail-tal",
       "@type": "kto:Player",
       "skos:prefLabel": "Mikhail Tal",

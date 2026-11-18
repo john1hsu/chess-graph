@@ -3632,6 +3632,36 @@
     ]
   },
   {
+    "id": "kt:mikhail-chigorin",
+    "title": "Mikhail Chigorin",
+    "aliases": [
+      "Mikhail Ivanovich Chigorin",
+      "Tchigorin",
+      "Mikhail Tchigorin",
+      "Tschigorin",
+      "Tjigorin",
+      "Chigorin"
+    ],
+    "type": "Player",
+    "domain": "players",
+    "file": "articles/players/mikhail-chigorin.md",
+    "created": "2026-11-18",
+    "verified": "2026-11-18",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://worldchesshof.org/inductee/mikhail-chigorin-tchigorin/",
+      "https://encspb.ru/object/2804017103?lc=en",
+      "https://www.chesshistory.com/winter/extra/chigorin.html",
+      "https://www.chessgames.com/player/mikhail_chigorin.html",
+      "https://www.chessgames.com/perl/chess.pl?tid=87184",
+      "https://chessgames.com/perl/chess.pl?tid=94026",
+      "https://ruchess.ru/en/persons_of_day/mikhail_chigorin_/",
+      "https://chessentials.com/steinitz-chigorin-world-championship-rematch-1892/",
+      "https://chessgames.com/perl/chess.pl?tid=88002"
+    ]
+  },
+  {
     "id": "kt:mikhail-tal",
     "title": "Mikhail Tal",
     "aliases": [
