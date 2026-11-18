@@ -6,8 +6,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:alexander-alekhine`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:boris-spassky`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:magnus-carlsen`, `kt:mikhail-botvinnik`, `kt:mikhail-tal`, `kt:tigran-petrosian`, `kt:viswanathan-anand`, `kt:vladimir-kramnik`, `kt:wilhelm-steinitz` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:the-turk`, `kt:herbert-simon` |
+| `kt:ju-wenjun` | `kt:norway-chess`, `kt:womens-world-chess-championship`, `kt:womens-world-chess-championship`, `kt:world-blitz-championship` |
 | `kt:howard-staunton` | `kt:london-1851`, `kt:london-1851`, `kt:paul-morphy` |
-| `kt:ju-wenjun` | `kt:womens-world-chess-championship`, `kt:womens-world-chess-championship`, `kt:world-blitz-championship` |
 | `kt:philidor-defence` | `kt:adams-versus-torre-new-orleans-1920`, `kt:opera-game`, `kt:francois-andre-danican-philidor` |
 | `kt:steven-j-edwards` | `kt:extended-position-description`, `kt:forsyth-edwards-notation`, `kt:portable-game-notation` |
 | `kt:albert-zobrist` | `kt:zobrist-hashing`, `kt:zobrist-hashing` |
@@ -37,6 +37,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alfred-binet` | `kt:cognitive-psychology-of-chess` |
 | `kt:allen-newell` | `kt:herbert-simon` |
 | `kt:antonin-novotny` | `kt:novotny-theme` |
+| `kt:armageddon` | `kt:norway-chess` |
 | `kt:arpad-elo` | `kt:elo-rating-system` |
 | `kt:artificial-intelligence` | `kt:computer-chess` |
 | `kt:as-suli` | `kt:shatranj` |
@@ -87,6 +88,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:european-individual-chess-championship` | `kt:european-chess-union` |
 | `kt:european-team-chess-championship` | `kt:european-chess-union` |
 | `kt:evgeny-sveshnikov` | `kt:sveshnikov-variation` |
+| `kt:fabiano-caruana` | `kt:norway-chess` |
 | `kt:fail-soft-alpha-beta` | `kt:aspiration-window` |
 | `kt:falkbeer-countergambit` | `kt:kings-gambit` |
 | `kt:federation-of-european-shogi-associations` | `kt:shogi` |
@@ -115,6 +117,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:grand-chess-tour` | `kt:saint-louis-chess-club` |
 | `kt:hans-berliner` | `kt:horizon-effect` |
 | `kt:harry-nelson-pillsbury` | `kt:hastings-1895` |
+| `kt:hikaru-nakamura` | `kt:norway-chess` |
 | `kt:history-heuristic` | `kt:move-ordering` |
 | `kt:hnefatafl` | `kt:lewis-chessmen` |
 | `kt:horatio-caro` | `kt:caro-kann-defence` |
@@ -187,6 +190,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:plachutta-theme` | `kt:novotny-theme` |
 | `kt:play-off` | `kt:tie-break` |
 | `kt:poisoned-pawn-variation` | `kt:najdorf-variation` |
+| `kt:praggnanandhaa-rameshbabu` | `kt:norway-chess` |
 | `kt:priority-and-anticipation` | `kt:codex-of-chess-composition` |
 | `kt:professional-chess-association` | `kt:chess-organizations` |
 | `kt:proof-game` | `kt:retrograde-analysis` |

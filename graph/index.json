@@ -4075,6 +4075,31 @@
     ]
   },
   {
+    "id": "kt:norway-chess",
+    "title": "Norway Chess",
+    "aliases": [
+      "Norway Chess tournament",
+      "Norway Chess Women"
+    ],
+    "type": "Event",
+    "domain": "events-and-organizations",
+    "file": "articles/events-and-organizations/norway-chess.md",
+    "created": "2026-11-18",
+    "verified": "2026-11-18",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://norwaychess.no/en/the-history/",
+      "https://norwaychess.no/en/the-concept/",
+      "https://norwaychess.no/en/?p=13520",
+      "https://www.fide.com/norway-chess-2026-praggnanandhaa-r-and-bibisara-assaubayeva-win-titles/",
+      "https://www.fide.com/?p=35555",
+      "https://www.chess.com/news/view/praggnanandhaa-wins-2026-norway-chess",
+      "https://en.chessbase.com/newsroom/post/norway-chess-2025-10",
+      "https://norwaychess.no/en/2018"
+    ]
+  },
+  {
     "id": "kt:novotny-theme",
     "title": "Novotny theme",
     "aliases": [

@@ -4579,6 +4579,36 @@
 <https://github.com/john1hsu/chess-graph/id/nnue> <https://github.com/john1hsu/chess-graph/ontology#fen> "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1" .
 <https://github.com/john1hsu/chess-graph/id/nnue> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/nnue> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/norway-chess> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/chess-graph/id/norway-chess> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Event> .
+<https://github.com/john1hsu/chess-graph/id/norway-chess> <http://www.w3.org/2000/01/rdf-schema#label> "Norway Chess" .
+<https://github.com/john1hsu/chess-graph/id/norway-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Norway Chess Women" .
+<https://github.com/john1hsu/chess-graph/id/norway-chess> <http://www.w3.org/2004/02/skos/core#altLabel> "Norway Chess tournament" .
+<https://github.com/john1hsu/chess-graph/id/norway-chess> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-tournament> .
+<https://github.com/john1hsu/chess-graph/id/norway-chess> <http://www.w3.org/2004/02/skos/core#definition> "An annual elite invitational tournament in Norway, founded in 2013, best known for its six-player double round robin in which a win scores three points and every drawn classical game is settled by an Armageddon game; since 2024 a parallel women's event has been played with an equal prize fund." .
+<https://github.com/john1hsu/chess-graph/id/norway-chess> <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway Chess" .
+<https://github.com/john1hsu/chess-graph/id/norway-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/armageddon> .
+<https://github.com/john1hsu/chess-graph/id/norway-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/gukesh-dommaraju> .
+<https://github.com/john1hsu/chess-graph/id/norway-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/round-robin> .
+<https://github.com/john1hsu/chess-graph/id/norway-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/tata-steel-chess-tournament> .
+<https://github.com/john1hsu/chess-graph/id/norway-chess> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/tie-break> .
+<https://github.com/john1hsu/chess-graph/id/norway-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/norway-chess/s1> .
+<https://github.com/john1hsu/chess-graph/id/norway-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/norway-chess/s2> .
+<https://github.com/john1hsu/chess-graph/id/norway-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/norway-chess/s3> .
+<https://github.com/john1hsu/chess-graph/id/norway-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/norway-chess/s4> .
+<https://github.com/john1hsu/chess-graph/id/norway-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/norway-chess/s5> .
+<https://github.com/john1hsu/chess-graph/id/norway-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/norway-chess/s6> .
+<https://github.com/john1hsu/chess-graph/id/norway-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/norway-chess/s7> .
+<https://github.com/john1hsu/chess-graph/id/norway-chess> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/norway-chess/s8> .
+<https://github.com/john1hsu/chess-graph/id/norway-chess> <https://github.com/john1hsu/chess-graph/ontology#domain> "events-and-organizations" .
+<https://github.com/john1hsu/chess-graph/id/norway-chess> <https://github.com/john1hsu/chess-graph/ontology#instanceOf> <https://github.com/john1hsu/chess-graph/id/chess-tournament> .
+<https://github.com/john1hsu/chess-graph/id/norway-chess> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/norway-chess> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-18" .
+<https://github.com/john1hsu/chess-graph/id/norway-chess> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/fabiano-caruana> .
+<https://github.com/john1hsu/chess-graph/id/norway-chess> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/hikaru-nakamura> .
+<https://github.com/john1hsu/chess-graph/id/norway-chess> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/ju-wenjun> .
+<https://github.com/john1hsu/chess-graph/id/norway-chess> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/magnus-carlsen> .
+<https://github.com/john1hsu/chess-graph/id/norway-chess> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/praggnanandhaa-rameshbabu> .
 <https://github.com/john1hsu/chess-graph/id/novotny-theme> <http://purl.org/dc/terms/created> "2026-11-16" .
 <https://github.com/john1hsu/chess-graph/id/novotny-theme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#ProblemTheme> .
 <https://github.com/john1hsu/chess-graph/id/novotny-theme> <http://www.w3.org/2000/01/rdf-schema#label> "Novotny theme" .
@@ -10768,6 +10798,46 @@
 <https://github.com/john1hsu/chess-graph/id/source/nnue/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/nnue/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/chess-graph/id/source/nnue/s5> <https://schema.org/url> "https://arxiv.org/pdf/2209.01506" .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s1> <http://purl.org/dc/terms/publisher> "Norway Chess (official site)" .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s1> <http://purl.org/dc/terms/title> "The history" .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s1> <https://schema.org/url> "https://norwaychess.no/en/the-history/" .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s2> <http://purl.org/dc/terms/publisher> "Norway Chess (official site)" .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s2> <http://purl.org/dc/terms/title> "The Concept" .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s2> <https://schema.org/url> "https://norwaychess.no/en/the-concept/" .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s3> <http://purl.org/dc/terms/publisher> "Norway Chess (official site, 3 October 2025)" .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s3> <http://purl.org/dc/terms/title> "Breaking Ties: The Story of Armageddon at Norway Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s3> <https://schema.org/url> "https://norwaychess.no/en/?p=13520" .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s4> <http://purl.org/dc/terms/publisher> "FIDE (fide.com news, June 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s4> <http://purl.org/dc/terms/title> "Norway Chess 2026: Praggnanandhaa R and Bibisara Assaubayeva win titles" .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s4> <https://schema.org/url> "https://www.fide.com/norway-chess-2026-praggnanandhaa-r-and-bibisara-assaubayeva-win-titles/" .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s5> <http://purl.org/dc/terms/publisher> "FIDE (fide.com news, 7 June 2025)" .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s5> <http://purl.org/dc/terms/title> "Magnus Carlsen and Anna Muzychuk triumph at Norway Chess 2025" .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s5> <https://schema.org/url> "https://www.fide.com/?p=35555" .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s6> <http://purl.org/dc/terms/publisher> "Chess.com News (Colin McGourty, 6 June 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s6> <http://purl.org/dc/terms/title> "Praggnanandhaa Wins Norway Chess With Stunning 4-Game Winning Streak" .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s6> <https://schema.org/url> "https://www.chess.com/news/view/praggnanandhaa-wins-2026-norway-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s7> <http://purl.org/dc/terms/publisher> "ChessBase News (Carlos Alberto Colodro, 7 June 2025)" .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s7> <http://purl.org/dc/terms/title> "Magnus Carlsen salvages draw in dramatic final round, wins seventh Norway Chess title" .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s7> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/norway-chess-2025-10" .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s8> <http://purl.org/dc/terms/publisher> "Norway Chess (official site, 7 June 2018)" .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s8> <http://purl.org/dc/terms/title> "Congratulations to Fabiano Caruana!" .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s8> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/norway-chess/s8> <https://schema.org/url> "https://norwaychess.no/en/2018" .
 <https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (updated 24 March 2024)" .
 <https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s1> <http://purl.org/dc/terms/title> "The Novotny and Plachutta Themes in Chess Play" .
 <https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

@@ -5527,6 +5527,116 @@
       ]
     },
     {
+      "@id": "kt:norway-chess",
+      "@type": "kto:Event",
+      "skos:prefLabel": "Norway Chess",
+      "skos:definition": "An annual elite invitational tournament in Norway, founded in 2013, best known for its six-player double round robin in which a win scores three points and every drawn classical game is settled by an Armageddon game; since 2024 a parallel women's event has been played with an equal prize fund.",
+      "kto:domain": "events-and-organizations",
+      "dcterms:created": "2026-11-18",
+      "kto:verified": "2026-11-18",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The history",
+          "dcterms:publisher": "Norway Chess (official site)",
+          "schema:url": "https://norwaychess.no/en/the-history/",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "The Concept",
+          "dcterms:publisher": "Norway Chess (official site)",
+          "schema:url": "https://norwaychess.no/en/the-concept/",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "Breaking Ties: The Story of Armageddon at Norway Chess",
+          "dcterms:publisher": "Norway Chess (official site, 3 October 2025)",
+          "schema:url": "https://norwaychess.no/en/?p=13520",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "Norway Chess 2026: Praggnanandhaa R and Bibisara Assaubayeva win titles",
+          "dcterms:publisher": "FIDE (fide.com news, June 2026)",
+          "schema:url": "https://www.fide.com/norway-chess-2026-praggnanandhaa-r-and-bibisara-assaubayeva-win-titles/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Magnus Carlsen and Anna Muzychuk triumph at Norway Chess 2025",
+          "dcterms:publisher": "FIDE (fide.com news, 7 June 2025)",
+          "schema:url": "https://www.fide.com/?p=35555",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Praggnanandhaa Wins Norway Chess With Stunning 4-Game Winning Streak",
+          "dcterms:publisher": "Chess.com News (Colin McGourty, 6 June 2026)",
+          "schema:url": "https://www.chess.com/news/view/praggnanandhaa-wins-2026-norway-chess",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Magnus Carlsen salvages draw in dramatic final round, wins seventh Norway Chess title",
+          "dcterms:publisher": "ChessBase News (Carlos Alberto Colodro, 7 June 2025)",
+          "schema:url": "https://en.chessbase.com/newsroom/post/norway-chess-2025-10",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Congratulations to Fabiano Caruana!",
+          "dcterms:publisher": "Norway Chess (official site, 7 June 2018)",
+          "schema:url": "https://norwaychess.no/en/2018",
+          "kto:sourceType": "primary-record"
+        }
+      ],
+      "kto:file": "articles/events-and-organizations/norway-chess.md",
+      "skos:altLabel": [
+        "Norway Chess tournament",
+        "Norway Chess Women"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess-tournament"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:round-robin"
+        },
+        {
+          "@id": "kt:tie-break"
+        },
+        {
+          "@id": "kt:armageddon"
+        },
+        {
+          "@id": "kt:tata-steel-chess-tournament"
+        },
+        {
+          "@id": "kt:gukesh-dommaraju"
+        }
+      ],
+      "kto:instanceOf": [
+        {
+          "@id": "kt:chess-tournament"
+        }
+      ],
+      "kto:wonBy": [
+        {
+          "@id": "kt:magnus-carlsen"
+        },
+        {
+          "@id": "kt:praggnanandhaa-rameshbabu"
+        },
+        {
+          "@id": "kt:hikaru-nakamura"
+        },
+        {
+          "@id": "kt:fabiano-caruana"
+        },
+        {
+          "@id": "kt:ju-wenjun"
+        }
+      ]
+    },
+    {
       "@id": "kt:round-robin",
       "@type": "kto:Rule",
       "skos:prefLabel": "Round robin",
