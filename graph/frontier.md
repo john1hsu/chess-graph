@@ -7,10 +7,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:alexander-alekhine`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:boris-spassky`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:magnus-carlsen`, `kt:mikhail-botvinnik`, `kt:mikhail-tal`, `kt:tigran-petrosian`, `kt:viswanathan-anand`, `kt:vladimir-kramnik`, `kt:wilhelm-steinitz` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:the-turk`, `kt:allen-newell`, `kt:herbert-simon` |
 | `kt:joseph-henry-blackburne` | `kt:london-1883`, `kt:zukertort-versus-blackburne-london-1883`, `kt:johannes-zukertort` |
+| `kt:numeric-annotation-glyphs` | `kt:chess-notation`, `kt:portable-game-notation`, `kt:annotating-your-games` |
 | `kt:albert-zobrist` | `kt:zobrist-hashing`, `kt:zobrist-hashing` |
 | `kt:alexander-kotov` | `kt:calculation`, `kt:candidate-moves` |
 | `kt:bratko-kopec-test` | `kt:extended-position-description`, `kt:steven-j-edwards` |
-| `kt:chess-notation` | `kt:david-forsyth`, `kt:descriptive-notation` |
 | `kt:chigorin-defence` | `kt:albin-countergambit`, `kt:mikhail-chigorin` |
 | `kt:counting-in-pawn-races` | `kt:queen-versus-pawn`, `kt:rule-of-the-square` |
 | `kt:deep-blue` | `kt:singular-extensions`, `kt:deep-blue-versus-kasparov` |
@@ -25,10 +25,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:marshall-attack` | `kt:berlin-defence`, `kt:ruy-lopez` |
 | `kt:max-euwe` | `kt:slav-defence`, `kt:alexander-alekhine` |
 | `kt:miguel-najdorf` | `kt:najdorf-variation`, `kt:blindfold-chess` |
-| `kt:numeric-annotation-glyphs` | `kt:portable-game-notation`, `kt:annotating-your-games` |
 | `kt:open-ruy-lopez` | `kt:berlin-defence`, `kt:ruy-lopez` |
 | `kt:origins-of-chess` | `kt:chaturanga`, `kt:history-of-chess` |
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
+| `kt:philipp-stamma` | `kt:algebraic-notation`, `kt:chess-notation` |
 | `kt:reshevsky-versus-petrosian-zurich-1953` | `kt:exchange-sacrifice`, `kt:sacrifice` |
 | `kt:restraint` | `kt:pawn-majority`, `kt:prophylaxis` |
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:zugzwang`, `kt:aron-nimzowitsch` |
@@ -190,7 +190,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pawn-storm` | `kt:king-safety` |
 | `kt:petroffs-defence` | `kt:open-games` |
 | `kt:petrosian-versus-spassky-moscow-1966-game-10` | `kt:tigran-petrosian` |
-| `kt:philipp-stamma` | `kt:algebraic-notation` |
 | `kt:piece-values` | `kt:material-advantage` |
 | `kt:pillsbury-versus-tarrasch-hastings-1895` | `kt:hastings-1895` |
 | `kt:pirc-defence` | `kt:philidor-defence` |

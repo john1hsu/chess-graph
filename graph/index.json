@@ -1356,6 +1356,31 @@
     ]
   },
   {
+    "id": "kt:chess-notation",
+    "title": "Chess notation",
+    "aliases": [
+      "Chess notation systems",
+      "Game notation",
+      "Move notation",
+      "Notation of chess games"
+    ],
+    "type": "Notation",
+    "domain": "rules-and-notation",
+    "file": "articles/rules-and-notation/chess-notation.md",
+    "created": "2026-11-19",
+    "verified": "2026-11-19",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://chesshistory.com/winter/extra/notation.html",
+      "https://rcc.fide.com/?p=880",
+      "https://rcc.fide.com/article8/",
+      "https://www.britannica.com/topic/chess",
+      "https://webfiles.iccf.com/rules/ICCF%20Playing%20Rules%20Guidelines%2001.01.2015.pdf",
+      "https://www.chess.com/article/view/the-creator-of-algebraic-chess-notation"
+    ]
+  },
+  {
     "id": "kt:chess-olympiad",
     "title": "Chess Olympiad",
     "aliases": [

@@ -17750,6 +17750,100 @@
       ]
     },
     {
+      "@id": "kt:chess-notation",
+      "@type": "kto:Notation",
+      "skos:prefLabel": "Chess notation",
+      "skos:definition": "The family of written systems used to record the moves of a chess game, describe positions and mark evaluations, from algebraic and descriptive move notation to numeric, figurine and position-description schemes; FIDE recognises only algebraic notation for its own events.",
+      "kto:domain": "rules-and-notation",
+      "dcterms:created": "2026-11-19",
+      "kto:verified": "2026-11-19",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Chess Notation",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://chesshistory.com/winter/extra/notation.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Appendix C. Algebraic Notation (FIDE Laws of Chess)",
+          "dcterms:publisher": "FIDE Rules Commission",
+          "schema:url": "https://rcc.fide.com/?p=880",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Article 8: The recording of the moves (FIDE Laws of Chess)",
+          "dcterms:publisher": "FIDE Rules Commission",
+          "schema:url": "https://rcc.fide.com/article8/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Chess",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/chess",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "ICCF Playing Rules Guidelines (valid from 1 January 2015)",
+          "dcterms:publisher": "International Correspondence Chess Federation",
+          "schema:url": "https://webfiles.iccf.com/rules/ICCF%20Playing%20Rules%20Guidelines%2001.01.2015.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "The Creator of Algebraic Chess Notation (Julio Becerra, 4 November 2009)",
+          "dcterms:publisher": "Chess.com",
+          "schema:url": "https://www.chess.com/article/view/the-creator-of-algebraic-chess-notation",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/rules-and-notation/chess-notation.md",
+      "skos:altLabel": [
+        "Chess notation systems",
+        "Game notation",
+        "Move notation",
+        "Notation of chess games"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:forsyth-edwards-notation"
+        },
+        {
+          "@id": "kt:portable-game-notation"
+        },
+        {
+          "@id": "kt:numeric-annotation-glyphs"
+        },
+        {
+          "@id": "kt:correspondence-chess"
+        },
+        {
+          "@id": "kt:annotating-your-games"
+        },
+        {
+          "@id": "kt:philipp-stamma"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:algebraic-notation"
+        },
+        {
+          "@id": "kt:descriptive-notation"
+        }
+      ],
+      "kto:governedBy": [
+        {
+          "@id": "kt:fide-laws-of-chess"
+        }
+      ]
+    },
+    {
       "@id": "kt:chess",
       "@type": "kto:Concept",
       "skos:prefLabel": "Chess",
