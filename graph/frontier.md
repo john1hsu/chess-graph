@@ -11,7 +11,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:albert-zobrist` | `kt:zobrist-hashing`, `kt:zobrist-hashing` |
 | `kt:alexander-kotov` | `kt:calculation`, `kt:candidate-moves` |
 | `kt:bratko-kopec-test` | `kt:extended-position-description`, `kt:steven-j-edwards` |
-| `kt:carlsen-versus-anand-sochi-2014-game-6` | `kt:magnus-carlsen`, `kt:zwischenzug` |
 | `kt:chigorin-defence` | `kt:albin-countergambit`, `kt:mikhail-chigorin` |
 | `kt:counting-in-pawn-races` | `kt:queen-versus-pawn`, `kt:rule-of-the-square` |
 | `kt:david-forsyth` | `kt:forsyth-edwards-notation`, `kt:steven-j-edwards` |
@@ -265,6 +264,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:world-chess-championship-1937` | `kt:alexander-alekhine` |
 | `kt:world-chess-championship-1951` | `kt:david-bronstein` |
 | `kt:world-chess-championship-2000` | `kt:berlin-defence` |
+| `kt:world-chess-championship-2014` | `kt:carlsen-versus-anand-sochi-2014-game-6` |
 | `kt:world-chess-championship-2018` | `kt:sveshnikov-variation` |
 | `kt:world-correspondence-chess-championship` | `kt:iccf` |
 | `kt:world-xiangqi-federation` | `kt:xiangqi` |

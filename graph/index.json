@@ -1048,6 +1048,34 @@
     ]
   },
   {
+    "id": "kt:carlsen-versus-anand-sochi-2014-game-6",
+    "title": "Carlsen versus Anand, Sochi 2014, game 6",
+    "aliases": [
+      "Carlsen vs Anand game 6",
+      "Carlsen–Anand 2014 game 6",
+      "Carlsen v Anand Sochi 2014",
+      "World Chess Championship 2014 game 6",
+      "Sochi 2014 game 6",
+      "The 26.Kd2 game"
+    ],
+    "type": "Game",
+    "domain": "history",
+    "file": "articles/history/carlsen-versus-anand-sochi-2014-game-6.md",
+    "created": "2026-11-19",
+    "verified": "2026-11-19",
+    "volatile": false,
+    "status": "historical",
+    "eco": "B41",
+    "source_urls": [
+      "https://theweekinchess.com/chessnews/events/world-chess-championship-2014/massively-relieved-carlsen-takes-the-lead-in-dramatic-world-championship-game-6",
+      "https://en.chessbase.com/post/sochi-g6-carlsen-won-anand-missed-big-chance",
+      "https://www.chess.com/news/magnus-carlsen-wins-dramatic-game-6-in-sochi-world-championship-5001",
+      "https://museum.fide.com/exhibits/scoresheet-of-game-6-of-2014-world-championship-match-anand-carlsen-carlsens-handwriting",
+      "https://museum.fide.com/champions/magnus-carlsen",
+      "https://museum.fide.com/exhibits/poster-of-the-world-chess-championship-match-between-carlsen-and-anand"
+    ]
+  },
+  {
     "id": "kt:caro-kann-defence",
     "title": "Caro-Kann Defence",
     "aliases": [

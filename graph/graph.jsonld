@@ -7268,6 +7268,106 @@
       ]
     },
     {
+      "@id": "kt:carlsen-versus-anand-sochi-2014-game-6",
+      "@type": "kto:Game",
+      "skos:prefLabel": "Carlsen versus Anand, Sochi 2014, game 6",
+      "skos:definition": "Magnus Carlsen's 38-move win with White over Viswanathan Anand in game 6 of the 2014 World Chess Championship match in Sochi (15 November 2014), a queenless Sicilian Kan remembered for the double blunder 26.Kd2? 26...a4?, when both players missed the tactic 26...Nxe5 and its in-between check 27...Nxc4+; the win gave Carlsen a 3½–2½ lead in a match he won 6½–4½.",
+      "kto:domain": "history",
+      "dcterms:created": "2026-11-19",
+      "kto:verified": "2026-11-19",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "World Chess Championship 2014 (6): massively relieved Carlsen takes the lead in dramatic World Championship game 6 (Mark Crowther, 15 November 2014)",
+          "dcterms:publisher": "The Week in Chess",
+          "schema:url": "https://theweekinchess.com/chessnews/events/world-chess-championship-2014/massively-relieved-carlsen-takes-the-lead-in-dramatic-world-championship-game-6",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "Sochi G6: Carlsen won, Anand missed big chance (Johannes Fischer, 15 November 2014)",
+          "dcterms:publisher": "ChessBase News",
+          "schema:url": "https://en.chessbase.com/post/sochi-g6-carlsen-won-anand-missed-big-chance",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Magnus Carlsen Wins Dramatic Game 6 In Sochi World Championship (Peter Doggers)",
+          "dcterms:publisher": "Chess.com News",
+          "schema:url": "https://www.chess.com/news/magnus-carlsen-wins-dramatic-game-6-in-sochi-world-championship-5001",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Scoresheet of Game 6 of 2014 World Championship Match Anand - Carlsen. Carlsen's handwriting",
+          "dcterms:publisher": "FIDE Open Chess Museum",
+          "schema:url": "https://museum.fide.com/exhibits/scoresheet-of-game-6-of-2014-world-championship-match-anand-carlsen-carlsens-handwriting",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Magnus Carlsen (World Champions)",
+          "dcterms:publisher": "FIDE Open Chess Museum",
+          "schema:url": "https://museum.fide.com/champions/magnus-carlsen",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "World Championship Match 2014 Poster",
+          "dcterms:publisher": "FIDE Open Chess Museum",
+          "schema:url": "https://museum.fide.com/exhibits/poster-of-the-world-chess-championship-match-between-carlsen-and-anand",
+          "kto:sourceType": "archive"
+        }
+      ],
+      "kto:file": "articles/history/carlsen-versus-anand-sochi-2014-game-6.md",
+      "skos:altLabel": [
+        "Carlsen vs Anand game 6",
+        "Carlsen–Anand 2014 game 6",
+        "Carlsen v Anand Sochi 2014",
+        "World Chess Championship 2014 game 6",
+        "Sochi 2014 game 6",
+        "The 26.Kd2 game"
+      ],
+      "kto:eco": "B41",
+      "kto:fen": "6rr/1k3p2/1pb1p1np/p1p1P2R/2P3R1/2P1B3/P1BK1PP1/8 b - - 5 26",
+      "skos:broader": [
+        {
+          "@id": "kt:world-chess-championship"
+        },
+        {
+          "@id": "kt:sicilian-defence"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:zwischenzug"
+        },
+        {
+          "@id": "kt:calculation"
+        },
+        {
+          "@id": "kt:time-management-in-games"
+        },
+        {
+          "@id": "kt:chess-endgame"
+        }
+      ],
+      "kto:playedBy": [
+        {
+          "@id": "kt:magnus-carlsen"
+        },
+        {
+          "@id": "kt:viswanathan-anand"
+        }
+      ],
+      "kto:playedIn": [
+        {
+          "@id": "kt:world-chess-championship-2014"
+        }
+      ],
+      "kto:exemplifies": [
+        {
+          "@id": "kt:zwischenzug"
+        }
+      ]
+    },
+    {
       "@id": "kt:chaturanga",
       "@type": "kto:Variant",
       "skos:prefLabel": "Chaturanga",

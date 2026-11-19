@@ -1180,6 +1180,38 @@
 <https://github.com/john1hsu/chess-graph/id/carlsbad-structure> <https://github.com/john1hsu/chess-graph/ontology#namedAfter> <https://github.com/john1hsu/chess-graph/id/carlsbad-1923> .
 <https://github.com/john1hsu/chess-graph/id/carlsbad-structure> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/carlsbad-structure> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-12" .
+<https://github.com/john1hsu/chess-graph/id/carlsen-versus-anand-sochi-2014-game-6> <http://purl.org/dc/terms/created> "2026-11-19" .
+<https://github.com/john1hsu/chess-graph/id/carlsen-versus-anand-sochi-2014-game-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Game> .
+<https://github.com/john1hsu/chess-graph/id/carlsen-versus-anand-sochi-2014-game-6> <http://www.w3.org/2000/01/rdf-schema#label> "Carlsen versus Anand, Sochi 2014, game 6" .
+<https://github.com/john1hsu/chess-graph/id/carlsen-versus-anand-sochi-2014-game-6> <http://www.w3.org/2004/02/skos/core#altLabel> "Carlsen v Anand Sochi 2014" .
+<https://github.com/john1hsu/chess-graph/id/carlsen-versus-anand-sochi-2014-game-6> <http://www.w3.org/2004/02/skos/core#altLabel> "Carlsen vs Anand game 6" .
+<https://github.com/john1hsu/chess-graph/id/carlsen-versus-anand-sochi-2014-game-6> <http://www.w3.org/2004/02/skos/core#altLabel> "Carlsen–Anand 2014 game 6" .
+<https://github.com/john1hsu/chess-graph/id/carlsen-versus-anand-sochi-2014-game-6> <http://www.w3.org/2004/02/skos/core#altLabel> "Sochi 2014 game 6" .
+<https://github.com/john1hsu/chess-graph/id/carlsen-versus-anand-sochi-2014-game-6> <http://www.w3.org/2004/02/skos/core#altLabel> "The 26.Kd2 game" .
+<https://github.com/john1hsu/chess-graph/id/carlsen-versus-anand-sochi-2014-game-6> <http://www.w3.org/2004/02/skos/core#altLabel> "World Chess Championship 2014 game 6" .
+<https://github.com/john1hsu/chess-graph/id/carlsen-versus-anand-sochi-2014-game-6> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/sicilian-defence> .
+<https://github.com/john1hsu/chess-graph/id/carlsen-versus-anand-sochi-2014-game-6> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/world-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/carlsen-versus-anand-sochi-2014-game-6> <http://www.w3.org/2004/02/skos/core#definition> "Magnus Carlsen's 38-move win with White over Viswanathan Anand in game 6 of the 2014 World Chess Championship match in Sochi (15 November 2014), a queenless Sicilian Kan remembered for the double blunder 26.Kd2? 26...a4?, when both players missed the tactic 26...Nxe5 and its in-between check 27...Nxc4+; the win gave Carlsen a 3½–2½ lead in a match he won 6½–4½." .
+<https://github.com/john1hsu/chess-graph/id/carlsen-versus-anand-sochi-2014-game-6> <http://www.w3.org/2004/02/skos/core#prefLabel> "Carlsen versus Anand, Sochi 2014, game 6" .
+<https://github.com/john1hsu/chess-graph/id/carlsen-versus-anand-sochi-2014-game-6> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/calculation> .
+<https://github.com/john1hsu/chess-graph/id/carlsen-versus-anand-sochi-2014-game-6> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-endgame> .
+<https://github.com/john1hsu/chess-graph/id/carlsen-versus-anand-sochi-2014-game-6> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/time-management-in-games> .
+<https://github.com/john1hsu/chess-graph/id/carlsen-versus-anand-sochi-2014-game-6> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/zwischenzug> .
+<https://github.com/john1hsu/chess-graph/id/carlsen-versus-anand-sochi-2014-game-6> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/carlsen-versus-anand-sochi-2014-game-6/s1> .
+<https://github.com/john1hsu/chess-graph/id/carlsen-versus-anand-sochi-2014-game-6> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/carlsen-versus-anand-sochi-2014-game-6/s2> .
+<https://github.com/john1hsu/chess-graph/id/carlsen-versus-anand-sochi-2014-game-6> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/carlsen-versus-anand-sochi-2014-game-6/s3> .
+<https://github.com/john1hsu/chess-graph/id/carlsen-versus-anand-sochi-2014-game-6> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/carlsen-versus-anand-sochi-2014-game-6/s4> .
+<https://github.com/john1hsu/chess-graph/id/carlsen-versus-anand-sochi-2014-game-6> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/carlsen-versus-anand-sochi-2014-game-6/s5> .
+<https://github.com/john1hsu/chess-graph/id/carlsen-versus-anand-sochi-2014-game-6> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/carlsen-versus-anand-sochi-2014-game-6/s6> .
+<https://github.com/john1hsu/chess-graph/id/carlsen-versus-anand-sochi-2014-game-6> <https://github.com/john1hsu/chess-graph/ontology#domain> "history" .
+<https://github.com/john1hsu/chess-graph/id/carlsen-versus-anand-sochi-2014-game-6> <https://github.com/john1hsu/chess-graph/ontology#eco> "B41" .
+<https://github.com/john1hsu/chess-graph/id/carlsen-versus-anand-sochi-2014-game-6> <https://github.com/john1hsu/chess-graph/ontology#exemplifies> <https://github.com/john1hsu/chess-graph/id/zwischenzug> .
+<https://github.com/john1hsu/chess-graph/id/carlsen-versus-anand-sochi-2014-game-6> <https://github.com/john1hsu/chess-graph/ontology#fen> "6rr/1k3p2/1pb1p1np/p1p1P2R/2P3R1/2P1B3/P1BK1PP1/8 b - - 5 26" .
+<https://github.com/john1hsu/chess-graph/id/carlsen-versus-anand-sochi-2014-game-6> <https://github.com/john1hsu/chess-graph/ontology#playedBy> <https://github.com/john1hsu/chess-graph/id/magnus-carlsen> .
+<https://github.com/john1hsu/chess-graph/id/carlsen-versus-anand-sochi-2014-game-6> <https://github.com/john1hsu/chess-graph/ontology#playedBy> <https://github.com/john1hsu/chess-graph/id/viswanathan-anand> .
+<https://github.com/john1hsu/chess-graph/id/carlsen-versus-anand-sochi-2014-game-6> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/world-chess-championship-2014> .
+<https://github.com/john1hsu/chess-graph/id/carlsen-versus-anand-sochi-2014-game-6> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/carlsen-versus-anand-sochi-2014-game-6> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-19" .
 <https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Opening> .
 <https://github.com/john1hsu/chess-graph/id/caro-kann-defence> <http://www.w3.org/2000/01/rdf-schema#label> "Caro-Kann Defence" .
@@ -7579,6 +7611,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/carlsbad-structure/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/carlsbad-structure/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/carlsbad-structure/s5> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/understanding-before-moving-96-queen-s-gambit-declined-3?page=0" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsen-versus-anand-sochi-2014-game-6/s1> <http://purl.org/dc/terms/publisher> "The Week in Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsen-versus-anand-sochi-2014-game-6/s1> <http://purl.org/dc/terms/title> "World Chess Championship 2014 (6): massively relieved Carlsen takes the lead in dramatic World Championship game 6 (Mark Crowther, 15 November 2014)" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsen-versus-anand-sochi-2014-game-6/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/carlsen-versus-anand-sochi-2014-game-6/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsen-versus-anand-sochi-2014-game-6/s1> <https://schema.org/url> "https://theweekinchess.com/chessnews/events/world-chess-championship-2014/massively-relieved-carlsen-takes-the-lead-in-dramatic-world-championship-game-6" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsen-versus-anand-sochi-2014-game-6/s2> <http://purl.org/dc/terms/publisher> "ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsen-versus-anand-sochi-2014-game-6/s2> <http://purl.org/dc/terms/title> "Sochi G6: Carlsen won, Anand missed big chance (Johannes Fischer, 15 November 2014)" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsen-versus-anand-sochi-2014-game-6/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/carlsen-versus-anand-sochi-2014-game-6/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsen-versus-anand-sochi-2014-game-6/s2> <https://schema.org/url> "https://en.chessbase.com/post/sochi-g6-carlsen-won-anand-missed-big-chance" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsen-versus-anand-sochi-2014-game-6/s3> <http://purl.org/dc/terms/publisher> "Chess.com News" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsen-versus-anand-sochi-2014-game-6/s3> <http://purl.org/dc/terms/title> "Magnus Carlsen Wins Dramatic Game 6 In Sochi World Championship (Peter Doggers)" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsen-versus-anand-sochi-2014-game-6/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/carlsen-versus-anand-sochi-2014-game-6/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsen-versus-anand-sochi-2014-game-6/s3> <https://schema.org/url> "https://www.chess.com/news/magnus-carlsen-wins-dramatic-game-6-in-sochi-world-championship-5001" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsen-versus-anand-sochi-2014-game-6/s4> <http://purl.org/dc/terms/publisher> "FIDE Open Chess Museum" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsen-versus-anand-sochi-2014-game-6/s4> <http://purl.org/dc/terms/title> "Scoresheet of Game 6 of 2014 World Championship Match Anand - Carlsen. Carlsen's handwriting" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsen-versus-anand-sochi-2014-game-6/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/carlsen-versus-anand-sochi-2014-game-6/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsen-versus-anand-sochi-2014-game-6/s4> <https://schema.org/url> "https://museum.fide.com/exhibits/scoresheet-of-game-6-of-2014-world-championship-match-anand-carlsen-carlsens-handwriting" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsen-versus-anand-sochi-2014-game-6/s5> <http://purl.org/dc/terms/publisher> "FIDE Open Chess Museum" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsen-versus-anand-sochi-2014-game-6/s5> <http://purl.org/dc/terms/title> "Magnus Carlsen (World Champions)" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsen-versus-anand-sochi-2014-game-6/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/carlsen-versus-anand-sochi-2014-game-6/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsen-versus-anand-sochi-2014-game-6/s5> <https://schema.org/url> "https://museum.fide.com/champions/magnus-carlsen" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsen-versus-anand-sochi-2014-game-6/s6> <http://purl.org/dc/terms/publisher> "FIDE Open Chess Museum" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsen-versus-anand-sochi-2014-game-6/s6> <http://purl.org/dc/terms/title> "World Championship Match 2014 Poster" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsen-versus-anand-sochi-2014-game-6/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/carlsen-versus-anand-sochi-2014-game-6/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/carlsen-versus-anand-sochi-2014-game-6/s6> <https://schema.org/url> "https://museum.fide.com/exhibits/poster-of-the-world-chess-championship-match-between-carlsen-and-anand" .
 <https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
 <https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s1> <http://purl.org/dc/terms/title> "The Caro-Kann Defence" .
 <https://github.com/john1hsu/chess-graph/id/source/caro-kann-defence/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
