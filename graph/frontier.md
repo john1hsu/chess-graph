@@ -75,6 +75,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:deepmind` | `kt:alphazero` |
 | `kt:ding-liren` | `kt:gukesh-dommaraju` |
 | `kt:ding-versus-gukesh-singapore-2024-game-14` | `kt:gukesh-dommaraju` |
+| `kt:donald-beal` | `kt:null-move-pruning` |
 | `kt:dutch-system` | `kt:swiss-system` |
 | `kt:edward-lasker` | `kt:descriptive-notation` |
 | `kt:edwin-z-adams` | `kt:adams-versus-torre-new-orleans-1920` |

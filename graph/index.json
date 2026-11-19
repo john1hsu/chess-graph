@@ -4373,6 +4373,33 @@
     ]
   },
   {
+    "id": "kt:null-move-pruning",
+    "title": "Null-move pruning",
+    "aliases": [
+      "Null move pruning",
+      "Null-move heuristic",
+      "Null move heuristic",
+      "Null-move search",
+      "NMP",
+      "Null-move forward pruning"
+    ],
+    "type": "Algorithm",
+    "domain": "computer-chess",
+    "file": "articles/computer-chess/null-move-pruning.md",
+    "created": "2026-11-19",
+    "verified": "2026-11-19",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://arxiv.org/pdf/0808.1125",
+      "https://content.iospress.com/articles/icga-journal/icg25305",
+      "https://content.iospress.com/articles/icga-journal/icg22302",
+      "https://project.dke.maastrichtuniversity.nl/games/files/phd/Beal_thesis.pdf",
+      "https://people.csail.mit.edu/heinz/dt/node20.html",
+      "https://people.csail.mit.edu/heinz/iccaj_db/node4.html"
+    ]
+  },
+  {
     "id": "kt:open-file",
     "title": "Open file",
     "aliases": [

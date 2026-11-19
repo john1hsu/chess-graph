@@ -1402,6 +1402,107 @@
       ]
     },
     {
+      "@id": "kt:null-move-pruning",
+      "@type": "kto:Algorithm",
+      "skos:prefLabel": "Null-move pruning",
+      "skos:definition": "A forward-pruning technique in chess engines that lets the side to move \"pass\" and searches the resulting position to reduced depth; if the opponent still cannot bring the score below beta, the node is cut off without searching any real moves, on the assumption that passing is almost never the best move.",
+      "kto:domain": "computer-chess",
+      "dcterms:created": "2026-11-19",
+      "kto:verified": "2026-11-19",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Verified Null-Move Pruning (ICGA Journal 25(3), 2002), author preprint",
+          "dcterms:publisher": "Omid David-Tabibi and Nathan S. Netanyahu, Bar-Ilan University (arXiv)",
+          "schema:url": "https://arxiv.org/pdf/0808.1125",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Verified null-move pruning, ICGA Journal vol. 25 no. 3, pp. 153-161 (abstract)",
+          "dcterms:publisher": "IOS Press",
+          "schema:url": "https://content.iospress.com/articles/icga-journal/icg25305",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Adaptive null-move pruning, ICGA Journal vol. 22 no. 3, pp. 123-132 (abstract)",
+          "dcterms:publisher": "E. A. Heinz, IOS Press",
+          "schema:url": "https://content.iospress.com/articles/icga-journal/icg22302",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Nature of Minimax Search (PhD thesis, Dissertation Series 99-3)",
+          "dcterms:publisher": "Donald F. Beal, University of Maastricht",
+          "schema:url": "https://project.dke.maastrichtuniversity.nl/games/files/phd/Beal_thesis.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Extended futility pruning and limited razoring: Introduction",
+          "dcterms:publisher": "Ernst A. Heinz, MIT CSAIL web pages",
+          "schema:url": "https://people.csail.mit.edu/heinz/dt/node20.html",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "ICCA Journal, Volume 16, Number 3 (September 1993), contents and abstracts",
+          "dcterms:publisher": "E. A. Heinz's ICCA Journal database, MIT CSAIL",
+          "schema:url": "https://people.csail.mit.edu/heinz/iccaj_db/node4.html",
+          "kto:sourceType": "archive"
+        }
+      ],
+      "kto:file": "articles/computer-chess/null-move-pruning.md",
+      "skos:altLabel": [
+        "Null move pruning",
+        "Null-move heuristic",
+        "Null move heuristic",
+        "Null-move search",
+        "NMP",
+        "Null-move forward pruning"
+      ],
+      "kto:fen": "8/8/8/3pK3/2kP4/8/8/8 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:game-tree-search"
+        },
+        {
+          "@id": "kt:alpha-beta-pruning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:zugzwang"
+        },
+        {
+          "@id": "kt:horizon-effect"
+        },
+        {
+          "@id": "kt:quiescence-search"
+        },
+        {
+          "@id": "kt:king-and-pawn-endgames"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:alpha-beta-pruning"
+        }
+      ],
+      "kto:counteredBy": [
+        {
+          "@id": "kt:zugzwang"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:donald-beal"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:quiescence-search"
+        }
+      ]
+    },
+    {
       "@id": "kt:opening-book",
       "@type": "kto:Concept",
       "skos:prefLabel": "Opening book",

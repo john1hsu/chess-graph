@@ -4914,6 +4914,37 @@
 <https://github.com/john1hsu/chess-graph/id/novotny-theme> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/novotny-theme> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/interference> .
 <https://github.com/john1hsu/chess-graph/id/novotny-theme> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-16" .
+<https://github.com/john1hsu/chess-graph/id/null-move-pruning> <http://purl.org/dc/terms/created> "2026-11-19" .
+<https://github.com/john1hsu/chess-graph/id/null-move-pruning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Algorithm> .
+<https://github.com/john1hsu/chess-graph/id/null-move-pruning> <http://www.w3.org/2000/01/rdf-schema#label> "Null-move pruning" .
+<https://github.com/john1hsu/chess-graph/id/null-move-pruning> <http://www.w3.org/2004/02/skos/core#altLabel> "NMP" .
+<https://github.com/john1hsu/chess-graph/id/null-move-pruning> <http://www.w3.org/2004/02/skos/core#altLabel> "Null move heuristic" .
+<https://github.com/john1hsu/chess-graph/id/null-move-pruning> <http://www.w3.org/2004/02/skos/core#altLabel> "Null move pruning" .
+<https://github.com/john1hsu/chess-graph/id/null-move-pruning> <http://www.w3.org/2004/02/skos/core#altLabel> "Null-move forward pruning" .
+<https://github.com/john1hsu/chess-graph/id/null-move-pruning> <http://www.w3.org/2004/02/skos/core#altLabel> "Null-move heuristic" .
+<https://github.com/john1hsu/chess-graph/id/null-move-pruning> <http://www.w3.org/2004/02/skos/core#altLabel> "Null-move search" .
+<https://github.com/john1hsu/chess-graph/id/null-move-pruning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> .
+<https://github.com/john1hsu/chess-graph/id/null-move-pruning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/game-tree-search> .
+<https://github.com/john1hsu/chess-graph/id/null-move-pruning> <http://www.w3.org/2004/02/skos/core#definition> "A forward-pruning technique in chess engines that lets the side to move \"pass\" and searches the resulting position to reduced depth; if the opponent still cannot bring the score below beta, the node is cut off without searching any real moves, on the assumption that passing is almost never the best move." .
+<https://github.com/john1hsu/chess-graph/id/null-move-pruning> <http://www.w3.org/2004/02/skos/core#prefLabel> "Null-move pruning" .
+<https://github.com/john1hsu/chess-graph/id/null-move-pruning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/horizon-effect> .
+<https://github.com/john1hsu/chess-graph/id/null-move-pruning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/king-and-pawn-endgames> .
+<https://github.com/john1hsu/chess-graph/id/null-move-pruning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/quiescence-search> .
+<https://github.com/john1hsu/chess-graph/id/null-move-pruning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/zugzwang> .
+<https://github.com/john1hsu/chess-graph/id/null-move-pruning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/null-move-pruning/s1> .
+<https://github.com/john1hsu/chess-graph/id/null-move-pruning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/null-move-pruning/s2> .
+<https://github.com/john1hsu/chess-graph/id/null-move-pruning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/null-move-pruning/s3> .
+<https://github.com/john1hsu/chess-graph/id/null-move-pruning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/null-move-pruning/s4> .
+<https://github.com/john1hsu/chess-graph/id/null-move-pruning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/null-move-pruning/s5> .
+<https://github.com/john1hsu/chess-graph/id/null-move-pruning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/null-move-pruning/s6> .
+<https://github.com/john1hsu/chess-graph/id/null-move-pruning> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/quiescence-search> .
+<https://github.com/john1hsu/chess-graph/id/null-move-pruning> <https://github.com/john1hsu/chess-graph/ontology#counteredBy> <https://github.com/john1hsu/chess-graph/id/zugzwang> .
+<https://github.com/john1hsu/chess-graph/id/null-move-pruning> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> .
+<https://github.com/john1hsu/chess-graph/id/null-move-pruning> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/donald-beal> .
+<https://github.com/john1hsu/chess-graph/id/null-move-pruning> <https://github.com/john1hsu/chess-graph/ontology#domain> "computer-chess" .
+<https://github.com/john1hsu/chess-graph/id/null-move-pruning> <https://github.com/john1hsu/chess-graph/ontology#fen> "8/8/8/3pK3/2kP4/8/8/8 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/null-move-pruning> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/null-move-pruning> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-19" .
 <https://github.com/john1hsu/chess-graph/id/open-file> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/chess-graph/id/open-file> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
 <https://github.com/john1hsu/chess-graph/id/open-file> <http://www.w3.org/2000/01/rdf-schema#label> "Open file" .
@@ -11618,6 +11649,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/novotny-theme/s7> <https://schema.org/url> "https://lichess.org/@/Mcie/blog/the-art-of-interference/VqdhinwI" .
+<https://github.com/john1hsu/chess-graph/id/source/null-move-pruning/s1> <http://purl.org/dc/terms/publisher> "Omid David-Tabibi and Nathan S. Netanyahu, Bar-Ilan University (arXiv)" .
+<https://github.com/john1hsu/chess-graph/id/source/null-move-pruning/s1> <http://purl.org/dc/terms/title> "Verified Null-Move Pruning (ICGA Journal 25(3), 2002), author preprint" .
+<https://github.com/john1hsu/chess-graph/id/source/null-move-pruning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/null-move-pruning/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/null-move-pruning/s1> <https://schema.org/url> "https://arxiv.org/pdf/0808.1125" .
+<https://github.com/john1hsu/chess-graph/id/source/null-move-pruning/s2> <http://purl.org/dc/terms/publisher> "IOS Press" .
+<https://github.com/john1hsu/chess-graph/id/source/null-move-pruning/s2> <http://purl.org/dc/terms/title> "Verified null-move pruning, ICGA Journal vol. 25 no. 3, pp. 153-161 (abstract)" .
+<https://github.com/john1hsu/chess-graph/id/source/null-move-pruning/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/null-move-pruning/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/null-move-pruning/s2> <https://schema.org/url> "https://content.iospress.com/articles/icga-journal/icg25305" .
+<https://github.com/john1hsu/chess-graph/id/source/null-move-pruning/s3> <http://purl.org/dc/terms/publisher> "E. A. Heinz, IOS Press" .
+<https://github.com/john1hsu/chess-graph/id/source/null-move-pruning/s3> <http://purl.org/dc/terms/title> "Adaptive null-move pruning, ICGA Journal vol. 22 no. 3, pp. 123-132 (abstract)" .
+<https://github.com/john1hsu/chess-graph/id/source/null-move-pruning/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/null-move-pruning/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/null-move-pruning/s3> <https://schema.org/url> "https://content.iospress.com/articles/icga-journal/icg22302" .
+<https://github.com/john1hsu/chess-graph/id/source/null-move-pruning/s4> <http://purl.org/dc/terms/publisher> "Donald F. Beal, University of Maastricht" .
+<https://github.com/john1hsu/chess-graph/id/source/null-move-pruning/s4> <http://purl.org/dc/terms/title> "The Nature of Minimax Search (PhD thesis, Dissertation Series 99-3)" .
+<https://github.com/john1hsu/chess-graph/id/source/null-move-pruning/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/null-move-pruning/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/null-move-pruning/s4> <https://schema.org/url> "https://project.dke.maastrichtuniversity.nl/games/files/phd/Beal_thesis.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/null-move-pruning/s5> <http://purl.org/dc/terms/publisher> "Ernst A. Heinz, MIT CSAIL web pages" .
+<https://github.com/john1hsu/chess-graph/id/source/null-move-pruning/s5> <http://purl.org/dc/terms/title> "Extended futility pruning and limited razoring: Introduction" .
+<https://github.com/john1hsu/chess-graph/id/source/null-move-pruning/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/null-move-pruning/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/null-move-pruning/s5> <https://schema.org/url> "https://people.csail.mit.edu/heinz/dt/node20.html" .
+<https://github.com/john1hsu/chess-graph/id/source/null-move-pruning/s6> <http://purl.org/dc/terms/publisher> "E. A. Heinz's ICCA Journal database, MIT CSAIL" .
+<https://github.com/john1hsu/chess-graph/id/source/null-move-pruning/s6> <http://purl.org/dc/terms/title> "ICCA Journal, Volume 16, Number 3 (September 1993), contents and abstracts" .
+<https://github.com/john1hsu/chess-graph/id/source/null-move-pruning/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/null-move-pruning/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/null-move-pruning/s6> <https://schema.org/url> "https://people.csail.mit.edu/heinz/iccaj_db/node4.html" .
 <https://github.com/john1hsu/chess-graph/id/source/open-file/s1> <http://purl.org/dc/terms/publisher> "Chess.com (Chess Terms)" .
 <https://github.com/john1hsu/chess-graph/id/source/open-file/s1> <http://purl.org/dc/terms/title> "Chess File" .
 <https://github.com/john1hsu/chess-graph/id/source/open-file/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
