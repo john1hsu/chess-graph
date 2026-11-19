@@ -4467,6 +4467,35 @@
 <https://github.com/john1hsu/chess-graph/id/magnus-carlsen> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/fide-world-cup> .
 <https://github.com/john1hsu/chess-graph/id/magnus-carlsen> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/magnus-carlsen> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-14" .
+<https://github.com/john1hsu/chess-graph/id/makruk> <http://purl.org/dc/terms/created> "2026-11-19" .
+<https://github.com/john1hsu/chess-graph/id/makruk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Variant> .
+<https://github.com/john1hsu/chess-graph/id/makruk> <http://www.w3.org/2000/01/rdf-schema#label> "Makruk" .
+<https://github.com/john1hsu/chess-graph/id/makruk> <http://www.w3.org/2004/02/skos/core#altLabel> "Mak ruk" .
+<https://github.com/john1hsu/chess-graph/id/makruk> <http://www.w3.org/2004/02/skos/core#altLabel> "Mak-ruk" .
+<https://github.com/john1hsu/chess-graph/id/makruk> <http://www.w3.org/2004/02/skos/core#altLabel> "Makrook" .
+<https://github.com/john1hsu/chess-graph/id/makruk> <http://www.w3.org/2004/02/skos/core#altLabel> "Thai chess" .
+<https://github.com/john1hsu/chess-graph/id/makruk> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-variants> .
+<https://github.com/john1hsu/chess-graph/id/makruk> <http://www.w3.org/2004/02/skos/core#definition> "The traditional chess of Thailand, a descendant of chaturanga played on an 8×8 board with a one-step diagonal queen (met), a silver-general-like bishop (khon), pawns that start on the third rank and promote on the sixth, and counting rules that limit how long the stronger side has to deliver mate." .
+<https://github.com/john1hsu/chess-graph/id/makruk> <http://www.w3.org/2004/02/skos/core#prefLabel> "Makruk" .
+<https://github.com/john1hsu/chess-graph/id/makruk> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/endgame-tablebases> .
+<https://github.com/john1hsu/chess-graph/id/makruk> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/janggi> .
+<https://github.com/john1hsu/chess-graph/id/makruk> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/pawn-promotion> .
+<https://github.com/john1hsu/chess-graph/id/makruk> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/shogi> .
+<https://github.com/john1hsu/chess-graph/id/makruk> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/stalemate> .
+<https://github.com/john1hsu/chess-graph/id/makruk> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/xiangqi> .
+<https://github.com/john1hsu/chess-graph/id/makruk> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/makruk/s1> .
+<https://github.com/john1hsu/chess-graph/id/makruk> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/makruk/s2> .
+<https://github.com/john1hsu/chess-graph/id/makruk> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/makruk/s3> .
+<https://github.com/john1hsu/chess-graph/id/makruk> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/makruk/s4> .
+<https://github.com/john1hsu/chess-graph/id/makruk> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/makruk/s5> .
+<https://github.com/john1hsu/chess-graph/id/makruk> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/makruk/s6> .
+<https://github.com/john1hsu/chess-graph/id/makruk> <https://github.com/john1hsu/chess-graph/ontology#alternativeTo> <https://github.com/john1hsu/chess-graph/id/sittuyin> .
+<https://github.com/john1hsu/chess-graph/id/makruk> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/chess> .
+<https://github.com/john1hsu/chess-graph/id/makruk> <https://github.com/john1hsu/chess-graph/ontology#domain> "variants-and-compositions" .
+<https://github.com/john1hsu/chess-graph/id/makruk> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/chaturanga> .
+<https://github.com/john1hsu/chess-graph/id/makruk> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/thai-sports-association-under-royal-patronage> .
+<https://github.com/john1hsu/chess-graph/id/makruk> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/makruk> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-19" .
 <https://github.com/john1hsu/chess-graph/id/material-advantage> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/material-advantage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
 <https://github.com/john1hsu/chess-graph/id/material-advantage> <http://www.w3.org/2000/01/rdf-schema#label> "Material advantage" .
@@ -11114,6 +11143,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s8> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/magnus-carlsen/s8> <https://schema.org/url> "https://en.chessbase.com/post/sochi-g6-carlsen-won-anand-missed-big-chance" .
+<https://github.com/john1hsu/chess-graph/id/source/makruk/s1> <http://purl.org/dc/terms/publisher> "T. Tudsuan and T. Thanatipanonda, Journal of Science Ladkrabang 35(1), 2026, pp. 112–129" .
+<https://github.com/john1hsu/chess-graph/id/source/makruk/s1> <http://purl.org/dc/terms/title> "Building Makruk Endgame Tablebases: A Computational Study of Ma-Bia Ngai and Khon-Bia Ngai Endgames" .
+<https://github.com/john1hsu/chess-graph/id/source/makruk/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/makruk/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/makruk/s1> <https://schema.org/url> "https://li01.tci-thaijo.org/index.php/science_kmitl/article/view/270913" .
+<https://github.com/john1hsu/chess-graph/id/source/makruk/s2> <http://purl.org/dc/terms/publisher> "P. Rodloytuk, Arts of Management Journal 8(3), 2024, pp. 15–38" .
+<https://github.com/john1hsu/chess-graph/id/source/makruk/s2> <http://purl.org/dc/terms/title> "Communicating the Soft Power of Thailand's Cultural Heritage through Traditional Sport (Thai Chess)" .
+<https://github.com/john1hsu/chess-graph/id/source/makruk/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/makruk/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/makruk/s2> <https://schema.org/url> "https://so02.tci-thaijo.org/index.php/jam/article/view/269725" .
+<https://github.com/john1hsu/chess-graph/id/source/makruk/s3> <http://purl.org/dc/terms/publisher> "PyChess" .
+<https://github.com/john1hsu/chess-graph/id/source/makruk/s3> <http://purl.org/dc/terms/title> "Makruk (variant guide)" .
+<https://github.com/john1hsu/chess-graph/id/source/makruk/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/makruk/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/makruk/s3> <https://schema.org/url> "https://www.pychess.org/variants/makruk" .
+<https://github.com/john1hsu/chess-graph/id/source/makruk/s4> <http://purl.org/dc/terms/publisher> "GNU XBoard project" .
+<https://github.com/john1hsu/chess-graph/id/source/makruk/s4> <http://purl.org/dc/terms/title> "Makruk (Thai Chess) — XBoard variant rules" .
+<https://github.com/john1hsu/chess-graph/id/source/makruk/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/makruk/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/makruk/s4> <https://schema.org/url> "https://www.gnu.org/software/xboard/whats_new/rules/Makruk.html" .
+<https://github.com/john1hsu/chess-graph/id/source/makruk/s5> <http://purl.org/dc/terms/publisher> "Hans Bodlaender, The Chess Variant Pages" .
+<https://github.com/john1hsu/chess-graph/id/source/makruk/s5> <http://purl.org/dc/terms/title> "Makruk: Thai Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/makruk/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/makruk/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/makruk/s5> <https://schema.org/url> "https://chessvariants.org/oriental.dir/thai.html" .
+<https://github.com/john1hsu/chess-graph/id/source/makruk/s6> <http://purl.org/dc/terms/publisher> "Peter Long (FM, FIDE Trainer, International Arbiter), ChessBase India, 18 March 2024" .
+<https://github.com/john1hsu/chess-graph/id/source/makruk/s6> <http://purl.org/dc/terms/title> "From Happenstance to First International Makruk Open Champion" .
+<https://github.com/john1hsu/chess-graph/id/source/makruk/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/makruk/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/makruk/s6> <https://schema.org/url> "https://chessbase.in/news/From-Happenstance-to-First-International-Makruk-Open-Champion" .
 <https://github.com/john1hsu/chess-graph/id/source/material-advantage/s1> <http://purl.org/dc/terms/publisher> "Nenad Tomašev, Ulrich Paquet, Demis Hassabis and Vladimir Kramnik, arXiv:2009.04374 (2020)" .
 <https://github.com/john1hsu/chess-graph/id/source/material-advantage/s1> <http://purl.org/dc/terms/title> "Assessing Game Balance with AlphaZero: Exploring Alternative Rule Sets in Chess" .
 <https://github.com/john1hsu/chess-graph/id/source/material-advantage/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

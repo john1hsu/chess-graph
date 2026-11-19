@@ -230,6 +230,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:simultaneous-exhibition` | `kt:blindfold-chess` |
 | `kt:sindarov-versus-caruana-candidates-2026` | `kt:javokhir-sindarov` |
 | `kt:sinquefield-cup` | `kt:saint-louis-chess-club` |
+| `kt:sittuyin` | `kt:makruk` |
 | `kt:skilled-memory-theory` | `kt:long-term-working-memory` |
 | `kt:solving-chess` | `kt:game-tree-search` |
 | `kt:spassky-versus-bronstein-leningrad-1960` | `kt:boris-spassky` |
@@ -241,6 +242,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:tan-zhongyi` | `kt:ju-wenjun` |
 | `kt:tarrasch-defence` | `kt:isolated-queens-pawn` |
 | `kt:team-chess` | `kt:chess-olympiad` |
+| `kt:thai-sports-association-under-royal-patronage` | `kt:makruk` |
 | `kt:the-exchange` | `kt:material-advantage` |
 | `kt:tie-break-regulations` | `kt:chess-olympiad` |
 | `kt:tony-marsland` | `kt:principal-variation-search` |

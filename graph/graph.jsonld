@@ -25365,6 +25365,107 @@
       ]
     },
     {
+      "@id": "kt:makruk",
+      "@type": "kto:Variant",
+      "skos:prefLabel": "Makruk",
+      "skos:definition": "The traditional chess of Thailand, a descendant of chaturanga played on an 8×8 board with a one-step diagonal queen (met), a silver-general-like bishop (khon), pawns that start on the third rank and promote on the sixth, and counting rules that limit how long the stronger side has to deliver mate.",
+      "kto:domain": "variants-and-compositions",
+      "dcterms:created": "2026-11-19",
+      "kto:verified": "2026-11-19",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Building Makruk Endgame Tablebases: A Computational Study of Ma-Bia Ngai and Khon-Bia Ngai Endgames",
+          "dcterms:publisher": "T. Tudsuan and T. Thanatipanonda, Journal of Science Ladkrabang 35(1), 2026, pp. 112–129",
+          "schema:url": "https://li01.tci-thaijo.org/index.php/science_kmitl/article/view/270913",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Communicating the Soft Power of Thailand's Cultural Heritage through Traditional Sport (Thai Chess)",
+          "dcterms:publisher": "P. Rodloytuk, Arts of Management Journal 8(3), 2024, pp. 15–38",
+          "schema:url": "https://so02.tci-thaijo.org/index.php/jam/article/view/269725",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Makruk (variant guide)",
+          "dcterms:publisher": "PyChess",
+          "schema:url": "https://www.pychess.org/variants/makruk",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "Makruk (Thai Chess) — XBoard variant rules",
+          "dcterms:publisher": "GNU XBoard project",
+          "schema:url": "https://www.gnu.org/software/xboard/whats_new/rules/Makruk.html",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "Makruk: Thai Chess",
+          "dcterms:publisher": "Hans Bodlaender, The Chess Variant Pages",
+          "schema:url": "https://chessvariants.org/oriental.dir/thai.html",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "From Happenstance to First International Makruk Open Champion",
+          "dcterms:publisher": "Peter Long (FM, FIDE Trainer, International Arbiter), ChessBase India, 18 March 2024",
+          "schema:url": "https://chessbase.in/news/From-Happenstance-to-First-International-Makruk-Open-Champion",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/variants-and-compositions/makruk.md",
+      "skos:altLabel": [
+        "Thai chess",
+        "Mak ruk",
+        "Makrook",
+        "Mak-ruk"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess-variants"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:shogi"
+        },
+        {
+          "@id": "kt:xiangqi"
+        },
+        {
+          "@id": "kt:janggi"
+        },
+        {
+          "@id": "kt:stalemate"
+        },
+        {
+          "@id": "kt:endgame-tablebases"
+        },
+        {
+          "@id": "kt:pawn-promotion"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:chaturanga"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:chess"
+        }
+      ],
+      "kto:sanctionedBy": [
+        {
+          "@id": "kt:thai-sports-association-under-royal-patronage"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:sittuyin"
+        }
+      ]
+    },
+    {
       "@id": "kt:novotny-theme",
       "@type": "kto:ProblemTheme",
       "skos:prefLabel": "Novotny theme",

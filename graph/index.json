@@ -3978,6 +3978,31 @@
     ]
   },
   {
+    "id": "kt:makruk",
+    "title": "Makruk",
+    "aliases": [
+      "Thai chess",
+      "Mak ruk",
+      "Makrook",
+      "Mak-ruk"
+    ],
+    "type": "Variant",
+    "domain": "variants-and-compositions",
+    "file": "articles/variants-and-compositions/makruk.md",
+    "created": "2026-11-19",
+    "verified": "2026-11-19",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://li01.tci-thaijo.org/index.php/science_kmitl/article/view/270913",
+      "https://so02.tci-thaijo.org/index.php/jam/article/view/269725",
+      "https://www.pychess.org/variants/makruk",
+      "https://www.gnu.org/software/xboard/whats_new/rules/Makruk.html",
+      "https://chessvariants.org/oriental.dir/thai.html",
+      "https://chessbase.in/news/From-Happenstance-to-First-International-Makruk-Open-Champion"
+    ]
+  },
+  {
     "id": "kt:material-advantage",
     "title": "Material advantage",
     "aliases": [
