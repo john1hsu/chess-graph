@@ -10992,6 +10992,109 @@
       ]
     },
     {
+      "@id": "kt:pawn-majority",
+      "@type": "kto:StrategicConcept",
+      "skos:prefLabel": "Pawn majority",
+      "skos:definition": "An imbalance in which one side has more pawns than the opponent on one sector of the board (queenside, kingside or centre), usually balanced by a minority elsewhere; its main value is the chance to create a passed pawn by advancing and exchanging on that wing.",
+      "kto:domain": "middlegame-strategy",
+      "dcterms:created": "2026-11-19",
+      "kto:verified": "2026-11-19",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Pawn Majority",
+          "dcterms:publisher": "Chess.com (Chess Terms)",
+          "schema:url": "https://www.chess.com/terms/pawn-majority-chess",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Understanding before Moving 77: Pawn Majorities (1)",
+          "dcterms:publisher": "IM Herman Grooten, ChessBase News",
+          "schema:url": "https://en.chessbase.com/newsroom/post/understanding-before-moving-77-pawn-majorities-1",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Nunn's Chess Endings (excerpt)",
+          "dcterms:publisher": "John Nunn (excerpt hosted by New In Chess)",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/5025.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Chess Fundamentals (1921), Project Gutenberg eBook #33870",
+          "dcterms:publisher": "José Raúl Capablanca; Project Gutenberg",
+          "schema:url": "https://gutenberg.org/cache/epub/33870/pg33870-images.html",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Chess Strategy, Project Gutenberg eBook #5614",
+          "dcterms:publisher": "Edward Lasker; Project Gutenberg",
+          "schema:url": "https://gutenberg.org/files/5614/5614-h/5614-h.htm",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "My System & Chess Praxis (excerpt)",
+          "dcterms:publisher": "Aron Nimzowitsch, tr. Robert Sherwood, New In Chess",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/9027.pdf",
+          "kto:sourceType": "book"
+        }
+      ],
+      "kto:file": "articles/middlegame-strategy/pawn-majority.md",
+      "skos:altLabel": [
+        "Queenside majority",
+        "Queenside pawn majority",
+        "Kingside majority",
+        "Kingside pawn majority",
+        "Central pawn majority",
+        "Pawn majorities"
+      ],
+      "kto:moves": "1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6",
+      "skos:broader": [
+        {
+          "@id": "kt:pawn-structure"
+        },
+        {
+          "@id": "kt:chess-strategy"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:passed-pawn"
+        },
+        {
+          "@id": "kt:minority-attack"
+        },
+        {
+          "@id": "kt:doubled-pawns"
+        },
+        {
+          "@id": "kt:breakthrough"
+        },
+        {
+          "@id": "kt:king-and-pawn-endgames"
+        },
+        {
+          "@id": "kt:ruy-lopez"
+        }
+      ],
+      "kto:leadsTo": [
+        {
+          "@id": "kt:passed-pawn"
+        },
+        {
+          "@id": "kt:outside-passed-pawn"
+        }
+      ],
+      "kto:counteredBy": [
+        {
+          "@id": "kt:minority-attack"
+        },
+        {
+          "@id": "kt:restraint"
+        }
+      ]
+    },
+    {
       "@id": "kt:pawn-structure",
       "@type": "kto:StrategicConcept",
       "skos:prefLabel": "Pawn structure",

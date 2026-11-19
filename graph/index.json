@@ -4617,6 +4617,33 @@
     ]
   },
   {
+    "id": "kt:pawn-majority",
+    "title": "Pawn majority",
+    "aliases": [
+      "Queenside majority",
+      "Queenside pawn majority",
+      "Kingside majority",
+      "Kingside pawn majority",
+      "Central pawn majority",
+      "Pawn majorities"
+    ],
+    "type": "StrategicConcept",
+    "domain": "middlegame-strategy",
+    "file": "articles/middlegame-strategy/pawn-majority.md",
+    "created": "2026-11-19",
+    "verified": "2026-11-19",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.chess.com/terms/pawn-majority-chess",
+      "https://en.chessbase.com/newsroom/post/understanding-before-moving-77-pawn-majorities-1",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/5025.pdf",
+      "https://gutenberg.org/cache/epub/33870/pg33870-images.html",
+      "https://gutenberg.org/files/5614/5614-h/5614-h.htm",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/9027.pdf"
+    ]
+  },
+  {
     "id": "kt:pawn-promotion",
     "title": "Pawn promotion",
     "aliases": [
