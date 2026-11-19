@@ -927,6 +927,41 @@
 <https://github.com/john1hsu/chess-graph/id/bobby-fischer> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/us-chess-championship> .
 <https://github.com/john1hsu/chess-graph/id/bobby-fischer> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/bobby-fischer> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/bodens-mate> <http://purl.org/dc/terms/created> "2026-11-19" .
+<https://github.com/john1hsu/chess-graph/id/bodens-mate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#MatingPattern> .
+<https://github.com/john1hsu/chess-graph/id/bodens-mate> <http://www.w3.org/2000/01/rdf-schema#label> "Boden's mate" .
+<https://github.com/john1hsu/chess-graph/id/bodens-mate> <http://www.w3.org/2004/02/skos/core#altLabel> "Boden mate" .
+<https://github.com/john1hsu/chess-graph/id/bodens-mate> <http://www.w3.org/2004/02/skos/core#altLabel> "Boden's Mate" .
+<https://github.com/john1hsu/chess-graph/id/bodens-mate> <http://www.w3.org/2004/02/skos/core#altLabel> "Bodens mate" .
+<https://github.com/john1hsu/chess-graph/id/bodens-mate> <http://www.w3.org/2004/02/skos/core#altLabel> "Criss-cross mate" .
+<https://github.com/john1hsu/chess-graph/id/bodens-mate> <http://www.w3.org/2004/02/skos/core#altLabel> "Crisscross mate" .
+<https://github.com/john1hsu/chess-graph/id/bodens-mate> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/checkmate> .
+<https://github.com/john1hsu/chess-graph/id/bodens-mate> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-tactics> .
+<https://github.com/john1hsu/chess-graph/id/bodens-mate> <http://www.w3.org/2004/02/skos/core#definition> "A checkmate by two bishops on crossing diagonals against a king, usually castled queenside, whose escape squares are blocked by its own pieces; it is named after Samuel Boden's 15-move win against Schulder, published in 1853, which ended with a queen sacrifice on c3 and ...Ba3 mate." .
+<https://github.com/john1hsu/chess-graph/id/bodens-mate> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boden's mate" .
+<https://github.com/john1hsu/chess-graph/id/bodens-mate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/back-rank-mate> .
+<https://github.com/john1hsu/chess-graph/id/bodens-mate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/bishop-pair> .
+<https://github.com/john1hsu/chess-graph/id/bodens-mate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/castling> .
+<https://github.com/john1hsu/chess-graph/id/bodens-mate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/removing-the-guard> .
+<https://github.com/john1hsu/chess-graph/id/bodens-mate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/sacrifice> .
+<https://github.com/john1hsu/chess-graph/id/bodens-mate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/smothered-mate> .
+<https://github.com/john1hsu/chess-graph/id/bodens-mate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s1> .
+<https://github.com/john1hsu/chess-graph/id/bodens-mate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s2> .
+<https://github.com/john1hsu/chess-graph/id/bodens-mate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s3> .
+<https://github.com/john1hsu/chess-graph/id/bodens-mate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s4> .
+<https://github.com/john1hsu/chess-graph/id/bodens-mate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s5> .
+<https://github.com/john1hsu/chess-graph/id/bodens-mate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s6> .
+<https://github.com/john1hsu/chess-graph/id/bodens-mate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s7> .
+<https://github.com/john1hsu/chess-graph/id/bodens-mate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s8> .
+<https://github.com/john1hsu/chess-graph/id/bodens-mate> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/blackburnes-mate> .
+<https://github.com/john1hsu/chess-graph/id/bodens-mate> <https://github.com/john1hsu/chess-graph/ontology#domain> "tactics" .
+<https://github.com/john1hsu/chess-graph/id/bodens-mate> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/schulder-versus-boden-1853> .
+<https://github.com/john1hsu/chess-graph/id/bodens-mate> <https://github.com/john1hsu/chess-graph/ontology#fen> "2k1r2r/ppp3pp/2n5/3B1b2/5P2/b1P1BQ2/P2N1P1P/2KR3R w - - 1 16" .
+<https://github.com/john1hsu/chess-graph/id/bodens-mate> <https://github.com/john1hsu/chess-graph/ontology#namedAfter> <https://github.com/john1hsu/chess-graph/id/samuel-boden> .
+<https://github.com/john1hsu/chess-graph/id/bodens-mate> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/bodens-mate> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/removing-the-guard> .
+<https://github.com/john1hsu/chess-graph/id/bodens-mate> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/sacrifice> .
+<https://github.com/john1hsu/chess-graph/id/bodens-mate> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-19" .
 <https://github.com/john1hsu/chess-graph/id/boris-spassky> <http://purl.org/dc/terms/created> "2026-11-14" .
 <https://github.com/john1hsu/chess-graph/id/boris-spassky> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
 <https://github.com/john1hsu/chess-graph/id/boris-spassky> <http://www.w3.org/2000/01/rdf-schema#label> "Boris Spassky" .
@@ -7407,6 +7442,46 @@
 <https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/bobby-fischer/s6> <https://schema.org/url> "https://chesshistory.com/winter/extra/byrnefischer.html" .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes" .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s1> <http://purl.org/dc/terms/title> "Boden's Mate" .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s1> <https://schema.org/url> "https://chesshistory.com/winter/extra/boden.html" .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s2> <http://purl.org/dc/terms/publisher> "Ward Farnsworth, chesstactics.org" .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s2> <http://purl.org/dc/terms/title> "Other Classic Mating Ideas: Boden's Mate, Figure 6.2.11.1 (Predator at the Chessboard)" .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s2> <https://schema.org/url> "https://www.chesstactics.org/mating-patterns/other-classic-mating-ideas/bodens-mate/6_2_11_1.html" .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s3> <http://purl.org/dc/terms/publisher> "Ward Farnsworth, chesstactics.org" .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s3> <http://purl.org/dc/terms/title> "Other Classic Mating Ideas: Boden's Mate, Figure 6.2.11.4 (Predator at the Chessboard)" .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s3> <https://schema.org/url> "https://www.chesstactics.org/mating-patterns/other-classic-mating-ideas/bodens-mate/6_2_11_4.html" .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s4> <http://purl.org/dc/terms/publisher> "Ward Farnsworth, chesstactics.org" .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s4> <http://purl.org/dc/terms/title> "Other Classic Mating Ideas: Boden's Mate, Figure 6.2.11.5 (Predator at the Chessboard)" .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s4> <https://schema.org/url> "https://www.chesstactics.org/mating-patterns/other-classic-mating-ideas/bodens-mate/6_2_11_5.html" .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s5> <http://purl.org/dc/terms/publisher> "Chess.com" .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s5> <http://purl.org/dc/terms/title> "Boden's Mate (Chess Terms)" .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s5> <https://schema.org/url> "https://www.chess.com/terms/bodens-mate-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s6> <http://purl.org/dc/terms/publisher> "ChessBase News (Edward Winter)" .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s6> <http://purl.org/dc/terms/title> "Edward Winter's Chess Explorations (72)" .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s6> <https://schema.org/url> "https://en.chessbase.com/post/edward-winter-s-che-explorations-72-" .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s7> <http://purl.org/dc/terms/publisher> "ChessKid (Jessica E. Prescott)" .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s7> <http://purl.org/dc/terms/title> "Boden's Crisscross Mate" .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s7> <https://schema.org/url> "https://www.chesskid.com/learn/articles/bodens-criss-cross-mate" .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s8> <http://purl.org/dc/terms/publisher> "Ward Farnsworth, chesstactics.org" .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s8> <http://purl.org/dc/terms/title> "Other Classic Mating Ideas: Boden's Mate, Figure 6.2.11.8 (Predator at the Chessboard)" .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s8> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/bodens-mate/s8> <https://schema.org/url> "https://www.chesstactics.org/mating-patterns/other-classic-mating-ideas/bodens-mate/6_2_11_8.html" .
 <https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s1> <http://purl.org/dc/terms/title> "Boris Spassky" .
 <https://github.com/john1hsu/chess-graph/id/source/boris-spassky/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

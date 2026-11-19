@@ -49,6 +49,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:baden-baden-1870` | `kt:adolf-anderssen` |
 | `kt:baku-acceleration` | `kt:swiss-system` |
 | `kt:berger-tables` | `kt:round-robin` |
+| `kt:blackburnes-mate` | `kt:bodens-mate` |
 | `kt:board-representation` | `kt:bitboards` |
 | `kt:botvinnik-versus-tal-moscow-1960-game-6` | `kt:mikhail-tal` |
 | `kt:capablanca-versus-blanco-havana-1913` | `kt:tempo` |
@@ -216,8 +217,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:saemisch-variation` | `kt:doubled-pawns` |
 | `kt:same-coloured-bishops` | `kt:opposite-coloured-bishops` |
 | `kt:samisch-variation` | `kt:nimzo-indian-defence` |
+| `kt:samuel-boden` | `kt:bodens-mate` |
 | `kt:samuel-reshevsky` | `kt:us-chess-championship` |
 | `kt:sargon` | `kt:static-exchange-evaluation` |
+| `kt:schulder-versus-boden-1853` | `kt:bodens-mate` |
 | `kt:scottish-chess-association` | `kt:david-forsyth` |
 | `kt:semi-closed-games` | `kt:chess-openings` |
 | `kt:semi-slav-defence` | `kt:slav-defence` |

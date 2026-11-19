@@ -19398,6 +19398,127 @@
       ]
     },
     {
+      "@id": "kt:bodens-mate",
+      "@type": "kto:MatingPattern",
+      "skos:prefLabel": "Boden's mate",
+      "skos:definition": "A checkmate by two bishops on crossing diagonals against a king, usually castled queenside, whose escape squares are blocked by its own pieces; it is named after Samuel Boden's 15-move win against Schulder, published in 1853, which ended with a queen sacrifice on c3 and ...Ba3 mate.",
+      "kto:domain": "tactics",
+      "dcterms:created": "2026-11-19",
+      "kto:verified": "2026-11-19",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Boden's Mate",
+          "dcterms:publisher": "Edward Winter, Chess Notes",
+          "schema:url": "https://chesshistory.com/winter/extra/boden.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Other Classic Mating Ideas: Boden's Mate, Figure 6.2.11.1 (Predator at the Chessboard)",
+          "dcterms:publisher": "Ward Farnsworth, chesstactics.org",
+          "schema:url": "https://www.chesstactics.org/mating-patterns/other-classic-mating-ideas/bodens-mate/6_2_11_1.html",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Other Classic Mating Ideas: Boden's Mate, Figure 6.2.11.4 (Predator at the Chessboard)",
+          "dcterms:publisher": "Ward Farnsworth, chesstactics.org",
+          "schema:url": "https://www.chesstactics.org/mating-patterns/other-classic-mating-ideas/bodens-mate/6_2_11_4.html",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Other Classic Mating Ideas: Boden's Mate, Figure 6.2.11.5 (Predator at the Chessboard)",
+          "dcterms:publisher": "Ward Farnsworth, chesstactics.org",
+          "schema:url": "https://www.chesstactics.org/mating-patterns/other-classic-mating-ideas/bodens-mate/6_2_11_5.html",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Boden's Mate (Chess Terms)",
+          "dcterms:publisher": "Chess.com",
+          "schema:url": "https://www.chess.com/terms/bodens-mate-chess",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Other Classic Mating Ideas: Boden's Mate, Figure 6.2.11.8 (Predator at the Chessboard)",
+          "dcterms:publisher": "Ward Farnsworth, chesstactics.org",
+          "schema:url": "https://www.chesstactics.org/mating-patterns/other-classic-mating-ideas/bodens-mate/6_2_11_8.html",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Edward Winter's Chess Explorations (72)",
+          "dcterms:publisher": "ChessBase News (Edward Winter)",
+          "schema:url": "https://en.chessbase.com/post/edward-winter-s-che-explorations-72-",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Boden's Crisscross Mate",
+          "dcterms:publisher": "ChessKid (Jessica E. Prescott)",
+          "schema:url": "https://www.chesskid.com/learn/articles/bodens-criss-cross-mate",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/tactics/bodens-mate.md",
+      "skos:altLabel": [
+        "Bodens mate",
+        "Boden's Mate",
+        "Criss-cross mate",
+        "Crisscross mate",
+        "Boden mate"
+      ],
+      "kto:fen": "2k1r2r/ppp3pp/2n5/3B1b2/5P2/b1P1BQ2/P2N1P1P/2KR3R w - - 1 16",
+      "skos:broader": [
+        {
+          "@id": "kt:checkmate"
+        },
+        {
+          "@id": "kt:chess-tactics"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:bishop-pair"
+        },
+        {
+          "@id": "kt:sacrifice"
+        },
+        {
+          "@id": "kt:removing-the-guard"
+        },
+        {
+          "@id": "kt:smothered-mate"
+        },
+        {
+          "@id": "kt:back-rank-mate"
+        },
+        {
+          "@id": "kt:castling"
+        }
+      ],
+      "kto:namedAfter": [
+        {
+          "@id": "kt:samuel-boden"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:schulder-versus-boden-1853"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:sacrifice"
+        },
+        {
+          "@id": "kt:removing-the-guard"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:blackburnes-mate"
+        }
+      ]
+    },
+    {
       "@id": "kt:chess-tactics",
       "@type": "kto:Concept",
       "skos:prefLabel": "Chess tactics",
