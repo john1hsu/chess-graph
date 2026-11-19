@@ -5072,6 +5072,33 @@
     ]
   },
   {
+    "id": "kt:queen-versus-rook",
+    "title": "Queen versus rook",
+    "aliases": [
+      "Queen against rook",
+      "Queen vs rook",
+      "Queen vs. rook",
+      "Queen versus rook endgame",
+      "Queen against a solitary rook",
+      "KQKR"
+    ],
+    "type": "EndgameType",
+    "domain": "endgames",
+    "file": "articles/endgames/queen-versus-rook.md",
+    "created": "2026-11-19",
+    "verified": "2026-11-19",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://centaur.reading.ac.uk/4550/1/2003a_ICGA_J_H_Reference_Fallible_Endgame_Play.pdf",
+      "https://cse.buffalo.edu/~regan/papers/pdf/HRdF10.pdf",
+      "https://en.chessbase.com/post/how-god-plays-chess",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/89025.pdf",
+      "https://www.chess.com/blog/catalanFischer/endgame-queen-vs-rook",
+      "https://chessprogramming.org/Triangulation"
+    ]
+  },
+  {
     "id": "kt:queens-gambit",
     "title": "Queen's Gambit",
     "aliases": [

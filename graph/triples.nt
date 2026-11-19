@@ -5695,6 +5695,38 @@
 <https://github.com/john1hsu/chess-graph/id/queen-versus-pawn> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/queen-versus-pawn> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/stalemate> .
 <https://github.com/john1hsu/chess-graph/id/queen-versus-pawn> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-18" .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-rook> <http://purl.org/dc/terms/created> "2026-11-19" .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-rook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#EndgameType> .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-rook> <http://www.w3.org/2000/01/rdf-schema#label> "Queen versus rook" .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-rook> <http://www.w3.org/2004/02/skos/core#altLabel> "KQKR" .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-rook> <http://www.w3.org/2004/02/skos/core#altLabel> "Queen against a solitary rook" .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-rook> <http://www.w3.org/2004/02/skos/core#altLabel> "Queen against rook" .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-rook> <http://www.w3.org/2004/02/skos/core#altLabel> "Queen versus rook endgame" .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-rook> <http://www.w3.org/2004/02/skos/core#altLabel> "Queen vs rook" .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-rook> <http://www.w3.org/2004/02/skos/core#altLabel> "Queen vs. rook" .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-rook> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-endgame> .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-rook> <http://www.w3.org/2004/02/skos/core#definition> "The pawnless endgame of king and queen against king and rook. The queen wins from almost every position, but the win can take up to 31 moves and demands a precise technique, so the defender's checks, forks and stalemate tricks make it one of the hardest basic wins to carry out in practice." .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-rook> <http://www.w3.org/2004/02/skos/core#prefLabel> "Queen versus rook" .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-rook> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/endgame-tablebases> .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-rook> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/fifty-move-rule> .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-rook> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/ken-thompson> .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-rook> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/queen-versus-pawn> .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-rook> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/rook-versus-pawn> .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-rook> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/queen-versus-rook/s1> .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-rook> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/queen-versus-rook/s2> .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-rook> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/queen-versus-rook/s3> .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-rook> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/queen-versus-rook/s4> .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-rook> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/queen-versus-rook/s5> .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-rook> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/queen-versus-rook/s6> .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-rook> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/stalemate> .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-rook> <https://github.com/john1hsu/chess-graph/ontology#domain> "endgames" .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-rook> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/browne-versus-belle-1978> .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-rook> <https://github.com/john1hsu/chess-graph/ontology#fen> "K3r3/8/5k2/Q7/8/8/8/8 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-rook> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-rook> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/fork> .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-rook> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/triangulation> .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-rook> <https://github.com/john1hsu/chess-graph/ontology#usesTechnique> <https://github.com/john1hsu/chess-graph/id/zugzwang> .
+<https://github.com/john1hsu/chess-graph/id/queen-versus-rook> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-19" .
 <https://github.com/john1hsu/chess-graph/id/queens-gambit-accepted> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/chess-graph/id/queens-gambit-accepted> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Opening> .
 <https://github.com/john1hsu/chess-graph/id/queens-gambit-accepted> <http://www.w3.org/2000/01/rdf-schema#label> "Queen's Gambit Accepted" .
@@ -12449,6 +12481,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/queen-versus-pawn/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/queen-versus-pawn/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/queen-versus-pawn/s4> <https://schema.org/url> "https://www.chess.com/article/view/queen-vs-pawn-on-7th" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-rook/s1> <http://purl.org/dc/terms/publisher> "G. McC. Haworth, ICGA Journal 26(2), pp. 81-91 (2003)" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-rook/s1> <http://purl.org/dc/terms/title> "Reference Fallible Endgame Play" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-rook/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-rook/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-rook/s1> <https://schema.org/url> "https://centaur.reading.ac.uk/4550/1/2003a_ICGA_J_H_Reference_Fallible_Endgame_Play.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-rook/s2> <http://purl.org/dc/terms/publisher> "G. Haworth, K. Regan and G. Di Fatta, Advances in Computer Games (ACG 2009), LNCS 6048, Springer (2010)" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-rook/s2> <http://purl.org/dc/terms/title> "Performance and Prediction: Bayesian Modelling of Fallible Choice in Chess" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-rook/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-rook/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-rook/s2> <https://schema.org/url> "https://cse.buffalo.edu/~regan/papers/pdf/HRdF10.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-rook/s3> <http://purl.org/dc/terms/publisher> "Frederic Friedel, ChessBase News (23 January 2018)" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-rook/s3> <http://purl.org/dc/terms/title> "How God plays chess" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-rook/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-rook/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-rook/s3> <https://schema.org/url> "https://en.chessbase.com/post/how-god-plays-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-rook/s4> <http://purl.org/dc/terms/publisher> "Mark Dvoretsky, revised by Karsten Müller and Alex Fishbein, Russell Enterprises (2025)" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-rook/s4> <http://purl.org/dc/terms/title> "Dvoretsky's Endgame Manual, Sixth Edition (sample pages: contents)" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-rook/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-rook/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-rook/s4> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/89025.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-rook/s5> <http://purl.org/dc/terms/publisher> "catalanFischer, Chess.com blog" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-rook/s5> <http://purl.org/dc/terms/title> "Endgame. Queen vs Rook" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-rook/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-rook/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-rook/s5> <https://schema.org/url> "https://www.chess.com/blog/catalanFischer/endgame-queen-vs-rook" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-rook/s6> <http://purl.org/dc/terms/publisher> "Chessprogramming wiki" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-rook/s6> <http://purl.org/dc/terms/title> "Triangulation" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-rook/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-rook/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/queen-versus-rook/s6> <https://schema.org/url> "https://chessprogramming.org/Triangulation" .
 <https://github.com/john1hsu/chess-graph/id/source/queens-gambit-accepted/s1> <http://purl.org/dc/terms/publisher> "Max Dlugy, Russell Enterprises (2023), excerpt PDF hosted by Chess Tigers" .
 <https://github.com/john1hsu/chess-graph/id/source/queens-gambit-accepted/s1> <http://purl.org/dc/terms/title> "The Queen's Gambit Accepted: A Modern Counterattack in an Ancient Opening (excerpt)" .
 <https://github.com/john1hsu/chess-graph/id/source/queens-gambit-accepted/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

@@ -18,6 +18,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:domination` | `kt:knight-versus-bishop`, `kt:trapped-piece` |
 | `kt:hou-yifan` | `kt:womens-world-chess-championship`, `kt:ju-wenjun` |
 | `kt:karpov-versus-unzicker-nice-1974` | `kt:prophylaxis`, `kt:anatoly-karpov` |
+| `kt:ken-thompson` | `kt:endgame-tablebases`, `kt:queen-versus-rook` |
 | `kt:kings-indian-defence` | `kt:soviet-chess-school`, `kt:david-bronstein` |
 | `kt:lionel-kieseritzky` | `kt:immortal-game`, `kt:london-1851` |
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position`, `kt:smothered-mate` |
@@ -51,6 +52,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:blackburnes-mate` | `kt:bodens-mate` |
 | `kt:board-representation` | `kt:bitboards` |
 | `kt:botvinnik-versus-tal-moscow-1960-game-6` | `kt:mikhail-tal` |
+| `kt:browne-versus-belle-1978` | `kt:queen-versus-rook` |
 | `kt:capablanca-versus-blanco-havana-1913` | `kt:tempo` |
 | `kt:capablanca-versus-tartakower-new-york-1924` | `kt:rook-on-the-seventh-rank` |
 | `kt:carlos-torre` | `kt:adams-versus-torre-new-orleans-1920` |
@@ -137,7 +139,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:kaissa` | `kt:bitboards` |
 | `kt:kasparov-versus-anand-riga-1995` | `kt:evans-gambit` |
 | `kt:kasparov-versus-topalov-wijk-aan-zee-1999` | `kt:garry-kasparov` |
-| `kt:ken-thompson` | `kt:endgame-tablebases` |
 | `kt:killer-heuristic` | `kt:move-ordering` |
 | `kt:king-activity` | `kt:king-safety` |
 | `kt:knight-versus-pawn` | `kt:queen-versus-pawn` |

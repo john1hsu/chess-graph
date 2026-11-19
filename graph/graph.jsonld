@@ -4005,6 +4005,108 @@
       ]
     },
     {
+      "@id": "kt:queen-versus-rook",
+      "@type": "kto:EndgameType",
+      "skos:prefLabel": "Queen versus rook",
+      "skos:definition": "The pawnless endgame of king and queen against king and rook. The queen wins from almost every position, but the win can take up to 31 moves and demands a precise technique, so the defender's checks, forks and stalemate tricks make it one of the hardest basic wins to carry out in practice.",
+      "kto:domain": "endgames",
+      "dcterms:created": "2026-11-19",
+      "kto:verified": "2026-11-19",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Reference Fallible Endgame Play",
+          "dcterms:publisher": "G. McC. Haworth, ICGA Journal 26(2), pp. 81-91 (2003)",
+          "schema:url": "https://centaur.reading.ac.uk/4550/1/2003a_ICGA_J_H_Reference_Fallible_Endgame_Play.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Performance and Prediction: Bayesian Modelling of Fallible Choice in Chess",
+          "dcterms:publisher": "G. Haworth, K. Regan and G. Di Fatta, Advances in Computer Games (ACG 2009), LNCS 6048, Springer (2010)",
+          "schema:url": "https://cse.buffalo.edu/~regan/papers/pdf/HRdF10.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "How God plays chess",
+          "dcterms:publisher": "Frederic Friedel, ChessBase News (23 January 2018)",
+          "schema:url": "https://en.chessbase.com/post/how-god-plays-chess",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Dvoretsky's Endgame Manual, Sixth Edition (sample pages: contents)",
+          "dcterms:publisher": "Mark Dvoretsky, revised by Karsten Müller and Alex Fishbein, Russell Enterprises (2025)",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/89025.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Endgame. Queen vs Rook",
+          "dcterms:publisher": "catalanFischer, Chess.com blog",
+          "schema:url": "https://www.chess.com/blog/catalanFischer/endgame-queen-vs-rook",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "Triangulation",
+          "dcterms:publisher": "Chessprogramming wiki",
+          "schema:url": "https://chessprogramming.org/Triangulation",
+          "kto:sourceType": "community"
+        }
+      ],
+      "kto:file": "articles/endgames/queen-versus-rook.md",
+      "skos:altLabel": [
+        "Queen against rook",
+        "Queen vs rook",
+        "Queen vs. rook",
+        "Queen versus rook endgame",
+        "Queen against a solitary rook",
+        "KQKR"
+      ],
+      "kto:fen": "K3r3/8/5k2/Q7/8/8/8/8 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-endgame"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:endgame-tablebases"
+        },
+        {
+          "@id": "kt:queen-versus-pawn"
+        },
+        {
+          "@id": "kt:rook-versus-pawn"
+        },
+        {
+          "@id": "kt:fifty-move-rule"
+        },
+        {
+          "@id": "kt:ken-thompson"
+        }
+      ],
+      "kto:usesTechnique": [
+        {
+          "@id": "kt:zugzwang"
+        },
+        {
+          "@id": "kt:triangulation"
+        },
+        {
+          "@id": "kt:fork"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:stalemate"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:browne-versus-belle-1978"
+        }
+      ]
+    },
+    {
       "@id": "kt:rook-endgames",
       "@type": "kto:EndgameType",
       "skos:prefLabel": "Rook endgames",
