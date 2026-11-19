@@ -3054,6 +3054,33 @@
     ]
   },
   {
+    "id": "kt:grand-chess-tour",
+    "title": "Grand Chess Tour",
+    "aliases": [
+      "GCT",
+      "Grand Chess Tour Finals",
+      "GCT Finals"
+    ],
+    "type": "Event",
+    "domain": "events-and-organizations",
+    "file": "articles/events-and-organizations/grand-chess-tour.md",
+    "created": "2026-11-19",
+    "verified": "2026-11-19",
+    "volatile": true,
+    "status": "current",
+    "source_urls": [
+      "https://grandchesstour.org/?p=6833",
+      "https://grandchesstour.org/news/grandmaster-praggnanandhaa-rameshbabu-crowned-winner-of-2026-gct-finals-and-overall-gct-champion/",
+      "https://grandchesstour.org/news/grandmaster-wesley-so-defends-title-wins-2026-sinquefield-cup/",
+      "https://www.fide.com/praggnanandhaa-rameshbabu-wins-grand-chess-tour-2026/",
+      "https://en.chessbase.com/newsroom/post/history-gct-michael-khodarkovsky",
+      "https://www.chess.com/news/view/caruana-wins-2025-grand-chess-tour-finals",
+      "https://www.chess.com/news/view/praggnanandhaa-wins-2026-grand-chess-tour",
+      "https://grandchesstour.org/players/magnus-carlsen/",
+      "https://www.stlpr.org/arts/2015-04-29/on-chess-super-tournament-sinquefield-cup-to-become-part-of-prestigious-international-tour"
+    ]
+  },
+  {
     "id": "kt:grandmaster-title",
     "title": "Grandmaster title",
     "aliases": [

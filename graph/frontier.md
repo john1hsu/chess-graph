@@ -8,13 +8,16 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:the-turk`, `kt:allen-newell`, `kt:herbert-simon` |
 | `kt:joseph-henry-blackburne` | `kt:london-1883`, `kt:zukertort-versus-blackburne-london-1883`, `kt:johannes-zukertort` |
 | `kt:numeric-annotation-glyphs` | `kt:chess-notation`, `kt:portable-game-notation`, `kt:annotating-your-games` |
+| `kt:sinquefield-cup` | `kt:grand-chess-tour`, `kt:grand-chess-tour`, `kt:saint-louis-chess-club` |
 | `kt:albert-zobrist` | `kt:zobrist-hashing`, `kt:zobrist-hashing` |
 | `kt:alexander-kotov` | `kt:calculation`, `kt:candidate-moves` |
+| `kt:armageddon` | `kt:grand-chess-tour`, `kt:norway-chess` |
 | `kt:bratko-kopec-test` | `kt:extended-position-description`, `kt:steven-j-edwards` |
 | `kt:chigorin-defence` | `kt:albin-countergambit`, `kt:mikhail-chigorin` |
 | `kt:counting-in-pawn-races` | `kt:queen-versus-pawn`, `kt:rule-of-the-square` |
 | `kt:deep-blue` | `kt:singular-extensions`, `kt:deep-blue-versus-kasparov` |
 | `kt:domination` | `kt:knight-versus-bishop`, `kt:trapped-piece` |
+| `kt:fabiano-caruana` | `kt:grand-chess-tour`, `kt:norway-chess` |
 | `kt:hou-yifan` | `kt:womens-world-chess-championship`, `kt:ju-wenjun` |
 | `kt:karpov-versus-unzicker-nice-1974` | `kt:prophylaxis`, `kt:anatoly-karpov` |
 | `kt:ken-thompson` | `kt:endgame-tablebases`, `kt:queen-versus-rook` |
@@ -29,6 +32,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:origins-of-chess` | `kt:chaturanga`, `kt:history-of-chess` |
 | `kt:pawn` | `kt:en-passant`, `kt:pawn-promotion` |
 | `kt:philipp-stamma` | `kt:algebraic-notation`, `kt:chess-notation` |
+| `kt:praggnanandhaa-rameshbabu` | `kt:grand-chess-tour`, `kt:norway-chess` |
 | `kt:reshevsky-versus-petrosian-zurich-1953` | `kt:exchange-sacrifice`, `kt:sacrifice` |
 | `kt:restraint` | `kt:pawn-majority`, `kt:prophylaxis` |
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:zugzwang`, `kt:aron-nimzowitsch` |
@@ -40,7 +44,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:adolf-albin` | `kt:albin-countergambit` |
 | `kt:alexander-morozevich` | `kt:albin-countergambit` |
 | `kt:antonin-novotny` | `kt:novotny-theme` |
-| `kt:armageddon` | `kt:norway-chess` |
 | `kt:arpad-elo` | `kt:elo-rating-system` |
 | `kt:artificial-intelligence` | `kt:computer-chess` |
 | `kt:as-suli` | `kt:shatranj` |
@@ -88,7 +91,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:european-individual-chess-championship` | `kt:european-chess-union` |
 | `kt:european-team-chess-championship` | `kt:european-chess-union` |
 | `kt:evgeny-sveshnikov` | `kt:sveshnikov-variation` |
-| `kt:fabiano-caruana` | `kt:norway-chess` |
 | `kt:fail-soft-alpha-beta` | `kt:aspiration-window` |
 | `kt:falkbeer-countergambit` | `kt:kings-gambit` |
 | `kt:federation-of-european-shogi-associations` | `kt:shogi` |
@@ -115,7 +117,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:giuoco-pianissimo` | `kt:italian-game` |
 | `kt:glicko-rating-system` | `kt:elo-rating-system` |
 | `kt:good-knight-versus-bad-bishop` | `kt:outpost` |
-| `kt:grand-chess-tour` | `kt:saint-louis-chess-club` |
 | `kt:hanham-variation` | `kt:philidor-defence` |
 | `kt:hans-berliner` | `kt:horizon-effect` |
 | `kt:harry-nelson-pillsbury` | `kt:hastings-1895` |
@@ -157,6 +158,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:leonardo-torres-y-quevedo` | `kt:claude-shannon` |
 | `kt:leonid-yarosh` | `kt:babson-task` |
 | `kt:levon-aronian` | `kt:fide-world-cup` |
+| `kt:london-chess-classic` | `kt:grand-chess-tour` |
 | `kt:london-rules` | `kt:world-chess-championship-1927` |
 | `kt:london-system` | `kt:carlsbad-structure` |
 | `kt:louis-paulsen` | `kt:paul-morphy` |
@@ -197,7 +199,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:play-off` | `kt:tie-break` |
 | `kt:poisoned-pawn` | `kt:trapped-piece` |
 | `kt:poisoned-pawn-variation` | `kt:najdorf-variation` |
-| `kt:praggnanandhaa-rameshbabu` | `kt:norway-chess` |
 | `kt:priority-and-anticipation` | `kt:codex-of-chess-composition` |
 | `kt:professional-chess-association` | `kt:chess-organizations` |
 | `kt:proof-game` | `kt:retrograde-analysis` |
@@ -231,7 +232,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:side-checks` | `kt:vancura-position` |
 | `kt:simultaneous-exhibition` | `kt:blindfold-chess` |
 | `kt:sindarov-versus-caruana-candidates-2026` | `kt:javokhir-sindarov` |
-| `kt:sinquefield-cup` | `kt:saint-louis-chess-club` |
 | `kt:sittuyin` | `kt:makruk` |
 | `kt:skilled-memory-theory` | `kt:long-term-working-memory` |
 | `kt:solving-chess` | `kt:game-tree-search` |

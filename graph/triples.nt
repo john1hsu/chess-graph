@@ -3436,6 +3436,39 @@
 <https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> <https://github.com/john1hsu/chess-graph/ontology#fen> "2b5/4k3/4p1p1/1pNpP2p/1P1P1K1P/6P1/8/8 b - - 0 1" .
 <https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/good-and-bad-bishops> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/grand-chess-tour> <http://purl.org/dc/terms/created> "2026-11-19" .
+<https://github.com/john1hsu/chess-graph/id/grand-chess-tour> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Event> .
+<https://github.com/john1hsu/chess-graph/id/grand-chess-tour> <http://www.w3.org/2000/01/rdf-schema#label> "Grand Chess Tour" .
+<https://github.com/john1hsu/chess-graph/id/grand-chess-tour> <http://www.w3.org/2004/02/skos/core#altLabel> "GCT Finals" .
+<https://github.com/john1hsu/chess-graph/id/grand-chess-tour> <http://www.w3.org/2004/02/skos/core#altLabel> "GCT" .
+<https://github.com/john1hsu/chess-graph/id/grand-chess-tour> <http://www.w3.org/2004/02/skos/core#altLabel> "Grand Chess Tour Finals" .
+<https://github.com/john1hsu/chess-graph/id/grand-chess-tour> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-tournament> .
+<https://github.com/john1hsu/chess-graph/id/grand-chess-tour> <http://www.w3.org/2004/02/skos/core#definition> "An annual circuit of elite invitational tournaments, launched in 2015 with backing from the Saint Louis Chess Club and inspired by Garry Kasparov, in which a fixed group of top grandmasters earn tour points across classical, rapid and blitz legs and the leaders meet in a knockout final." .
+<https://github.com/john1hsu/chess-graph/id/grand-chess-tour> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grand Chess Tour" .
+<https://github.com/john1hsu/chess-graph/id/grand-chess-tour> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/armageddon> .
+<https://github.com/john1hsu/chess-graph/id/grand-chess-tour> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/blitz-chess> .
+<https://github.com/john1hsu/chess-graph/id/grand-chess-tour> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/london-chess-classic> .
+<https://github.com/john1hsu/chess-graph/id/grand-chess-tour> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/norway-chess> .
+<https://github.com/john1hsu/chess-graph/id/grand-chess-tour> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/rapid-chess> .
+<https://github.com/john1hsu/chess-graph/id/grand-chess-tour> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/sinquefield-cup> .
+<https://github.com/john1hsu/chess-graph/id/grand-chess-tour> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s1> .
+<https://github.com/john1hsu/chess-graph/id/grand-chess-tour> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s2> .
+<https://github.com/john1hsu/chess-graph/id/grand-chess-tour> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s3> .
+<https://github.com/john1hsu/chess-graph/id/grand-chess-tour> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s4> .
+<https://github.com/john1hsu/chess-graph/id/grand-chess-tour> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s5> .
+<https://github.com/john1hsu/chess-graph/id/grand-chess-tour> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s6> .
+<https://github.com/john1hsu/chess-graph/id/grand-chess-tour> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s7> .
+<https://github.com/john1hsu/chess-graph/id/grand-chess-tour> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s8> .
+<https://github.com/john1hsu/chess-graph/id/grand-chess-tour> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s9> .
+<https://github.com/john1hsu/chess-graph/id/grand-chess-tour> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/garry-kasparov> .
+<https://github.com/john1hsu/chess-graph/id/grand-chess-tour> <https://github.com/john1hsu/chess-graph/ontology#domain> "events-and-organizations" .
+<https://github.com/john1hsu/chess-graph/id/grand-chess-tour> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/sinquefield-cup> .
+<https://github.com/john1hsu/chess-graph/id/grand-chess-tour> <https://github.com/john1hsu/chess-graph/ontology#organizedBy> <https://github.com/john1hsu/chess-graph/id/saint-louis-chess-club> .
+<https://github.com/john1hsu/chess-graph/id/grand-chess-tour> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/grand-chess-tour> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-19" .
+<https://github.com/john1hsu/chess-graph/id/grand-chess-tour> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/fabiano-caruana> .
+<https://github.com/john1hsu/chess-graph/id/grand-chess-tour> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/magnus-carlsen> .
+<https://github.com/john1hsu/chess-graph/id/grand-chess-tour> <https://github.com/john1hsu/chess-graph/ontology#wonBy> <https://github.com/john1hsu/chess-graph/id/praggnanandhaa-rameshbabu> .
 <https://github.com/john1hsu/chess-graph/id/grandmaster-title> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/chess-graph/id/grandmaster-title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Title> .
 <https://github.com/john1hsu/chess-graph/id/grandmaster-title> <http://www.w3.org/2000/01/rdf-schema#label> "Grandmaster title" .
@@ -10118,6 +10151,51 @@
 <https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/good-and-bad-bishops/s7> <https://schema.org/url> "https://www.chessprogramming.org/Bad_Bishop" .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s1> <http://purl.org/dc/terms/publisher> "Grand Chess Tour (official site, press release, 24 April 2015)" .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s1> <http://purl.org/dc/terms/title> "Inaugural Grand Chess Tour Unveiled In Saint Louis" .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s1> <https://schema.org/url> "https://grandchesstour.org/?p=6833" .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s2> <http://purl.org/dc/terms/publisher> "Grand Chess Tour (official site, August 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s2> <http://purl.org/dc/terms/title> "Grandmaster Praggnanandhaa Rameshbabu crowned winner of 2026 GCT Finals and overall GCT champion" .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s2> <https://schema.org/url> "https://grandchesstour.org/news/grandmaster-praggnanandhaa-rameshbabu-crowned-winner-of-2026-gct-finals-and-overall-gct-champion/" .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s3> <http://purl.org/dc/terms/publisher> "Grand Chess Tour (official site, 21 August 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s3> <http://purl.org/dc/terms/title> "Grandmaster Wesley So defends title, wins 2026 Sinquefield Cup" .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s3> <https://schema.org/url> "https://grandchesstour.org/news/grandmaster-wesley-so-defends-title-wins-2026-sinquefield-cup/" .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s4> <http://purl.org/dc/terms/publisher> "FIDE (fide.com news, 28 August 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s4> <http://purl.org/dc/terms/title> "Praggnanandhaa Rameshbabu wins Grand Chess Tour 2026" .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s4> <https://schema.org/url> "https://www.fide.com/praggnanandhaa-rameshbabu-wins-grand-chess-tour-2026/" .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s5> <http://purl.org/dc/terms/publisher> "ChessBase News (Sagar Shah, 16 May 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s5> <http://purl.org/dc/terms/title> "The history of Grand Chess Tour by CEO Michael Khodarkovsky" .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s5> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/history-gct-michael-khodarkovsky" .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s6> <http://purl.org/dc/terms/publisher> "Chess.com News (Anthony Levin, 4 October 2025)" .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s6> <http://purl.org/dc/terms/title> "2025 Grand Chess Tour Finals Day 6: Caruana Wins 2nd Grand Chess Tour Title" .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s6> <https://schema.org/url> "https://www.chess.com/news/view/caruana-wins-2025-grand-chess-tour-finals" .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s7> <http://purl.org/dc/terms/publisher> "Chess.com News (Anthony Levin, 28 August 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s7> <http://purl.org/dc/terms/title> "Praggnanandhaa Wins 2026 Grand Chess Tour, Wesley So Clinches 3rd" .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s7> <https://schema.org/url> "https://www.chess.com/news/view/praggnanandhaa-wins-2026-grand-chess-tour" .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s8> <http://purl.org/dc/terms/publisher> "Grand Chess Tour (official site, player page)" .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s8> <http://purl.org/dc/terms/title> "Magnus Carlsen" .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s8> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "official-project" .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s8> <https://schema.org/url> "https://grandchesstour.org/players/magnus-carlsen/" .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s9> <http://purl.org/dc/terms/publisher> "St. Louis Public Radio (29 April 2015)" .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s9> <http://purl.org/dc/terms/title> "Super-tournament Sinquefield Cup to become part of prestigious international tour" .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s9> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/chess-graph/id/source/grand-chess-tour/s9> <https://schema.org/url> "https://www.stlpr.org/arts/2015-04-29/on-chess-super-tournament-sinquefield-cup-to-become-part-of-prestigious-international-tour" .
 <https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s1> <http://purl.org/dc/terms/publisher> "FIDE Handbook (B.01)" .
 <https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s1> <http://purl.org/dc/terms/title> "FIDE Title Regulations effective from 1 January 2024" .
 <https://github.com/john1hsu/chess-graph/id/source/grandmaster-title/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

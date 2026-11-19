@@ -5813,6 +5813,130 @@
       ]
     },
     {
+      "@id": "kt:grand-chess-tour",
+      "@type": "kto:Event",
+      "skos:prefLabel": "Grand Chess Tour",
+      "skos:definition": "An annual circuit of elite invitational tournaments, launched in 2015 with backing from the Saint Louis Chess Club and inspired by Garry Kasparov, in which a fixed group of top grandmasters earn tour points across classical, rapid and blitz legs and the leaders meet in a knockout final.",
+      "kto:domain": "events-and-organizations",
+      "dcterms:created": "2026-11-19",
+      "kto:verified": "2026-11-19",
+      "kto:status": "current",
+      "kto:volatile": true,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Inaugural Grand Chess Tour Unveiled In Saint Louis",
+          "dcterms:publisher": "Grand Chess Tour (official site, press release, 24 April 2015)",
+          "schema:url": "https://grandchesstour.org/?p=6833",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "Grandmaster Praggnanandhaa Rameshbabu crowned winner of 2026 GCT Finals and overall GCT champion",
+          "dcterms:publisher": "Grand Chess Tour (official site, August 2026)",
+          "schema:url": "https://grandchesstour.org/news/grandmaster-praggnanandhaa-rameshbabu-crowned-winner-of-2026-gct-finals-and-overall-gct-champion/",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "Grandmaster Wesley So defends title, wins 2026 Sinquefield Cup",
+          "dcterms:publisher": "Grand Chess Tour (official site, 21 August 2026)",
+          "schema:url": "https://grandchesstour.org/news/grandmaster-wesley-so-defends-title-wins-2026-sinquefield-cup/",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "Praggnanandhaa Rameshbabu wins Grand Chess Tour 2026",
+          "dcterms:publisher": "FIDE (fide.com news, 28 August 2026)",
+          "schema:url": "https://www.fide.com/praggnanandhaa-rameshbabu-wins-grand-chess-tour-2026/",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "The history of Grand Chess Tour by CEO Michael Khodarkovsky",
+          "dcterms:publisher": "ChessBase News (Sagar Shah, 16 May 2026)",
+          "schema:url": "https://en.chessbase.com/newsroom/post/history-gct-michael-khodarkovsky",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "2025 Grand Chess Tour Finals Day 6: Caruana Wins 2nd Grand Chess Tour Title",
+          "dcterms:publisher": "Chess.com News (Anthony Levin, 4 October 2025)",
+          "schema:url": "https://www.chess.com/news/view/caruana-wins-2025-grand-chess-tour-finals",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Praggnanandhaa Wins 2026 Grand Chess Tour, Wesley So Clinches 3rd",
+          "dcterms:publisher": "Chess.com News (Anthony Levin, 28 August 2026)",
+          "schema:url": "https://www.chess.com/news/view/praggnanandhaa-wins-2026-grand-chess-tour",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Magnus Carlsen",
+          "dcterms:publisher": "Grand Chess Tour (official site, player page)",
+          "schema:url": "https://grandchesstour.org/players/magnus-carlsen/",
+          "kto:sourceType": "official-project"
+        },
+        {
+          "dcterms:title": "Super-tournament Sinquefield Cup to become part of prestigious international tour",
+          "dcterms:publisher": "St. Louis Public Radio (29 April 2015)",
+          "schema:url": "https://www.stlpr.org/arts/2015-04-29/on-chess-super-tournament-sinquefield-cup-to-become-part-of-prestigious-international-tour",
+          "kto:sourceType": "news"
+        }
+      ],
+      "kto:file": "articles/events-and-organizations/grand-chess-tour.md",
+      "skos:altLabel": [
+        "GCT",
+        "Grand Chess Tour Finals",
+        "GCT Finals"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:chess-tournament"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:sinquefield-cup"
+        },
+        {
+          "@id": "kt:norway-chess"
+        },
+        {
+          "@id": "kt:rapid-chess"
+        },
+        {
+          "@id": "kt:blitz-chess"
+        },
+        {
+          "@id": "kt:armageddon"
+        },
+        {
+          "@id": "kt:london-chess-classic"
+        }
+      ],
+      "kto:organizedBy": [
+        {
+          "@id": "kt:saint-louis-chess-club"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:garry-kasparov"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:sinquefield-cup"
+        }
+      ],
+      "kto:wonBy": [
+        {
+          "@id": "kt:magnus-carlsen"
+        },
+        {
+          "@id": "kt:fabiano-caruana"
+        },
+        {
+          "@id": "kt:praggnanandhaa-rameshbabu"
+        }
+      ]
+    },
+    {
       "@id": "kt:grandmaster-title",
       "@type": "kto:Title",
       "skos:prefLabel": "Grandmaster title",
