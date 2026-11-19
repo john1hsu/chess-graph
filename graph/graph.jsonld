@@ -15609,6 +15609,90 @@
       ]
     },
     {
+      "@id": "kt:howard-staunton",
+      "@type": "kto:Player",
+      "skos:prefLabel": "Howard Staunton",
+      "skos:definition": "English master, writer and organiser (1810–1874), regarded as the strongest player in the world from his 1843 match win over Saint-Amant until London 1851; author of The Chess-Player's Handbook, organiser of the first international tournament, and the name behind the Staunton chessmen and the Staunton Gambit.",
+      "kto:domain": "players",
+      "dcterms:created": "2026-11-19",
+      "kto:verified": "2026-11-19",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Howard Staunton",
+          "dcterms:publisher": "World Chess Hall of Fame",
+          "schema:url": "https://worldchesshof.org/?p=828",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Staunton, Howard (The Columbia Encyclopedia, 6th ed.)",
+          "dcterms:publisher": "Encyclopedia.com",
+          "schema:url": "https://encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/staunton-howard",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "The Staunton Standard: Evolution of the Modern Chess Set",
+          "dcterms:publisher": "World Chess Hall of Fame",
+          "schema:url": "https://worldchesshof.org/program/the-staunton-standard-evolution-of-the-modern-chess-set/",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "Staunton, Howard (Yorkshire Chess History, Stephen John Mann)",
+          "dcterms:publisher": "Yorkshire Chess History",
+          "schema:url": "https://www.mannchess.org.uk/People/Staunton,%20Howard.htm",
+          "kto:sourceType": "community"
+        },
+        {
+          "dcterms:title": "Remembering Howard Staunton (01-iv-1810 22-vi-1874)",
+          "dcterms:publisher": "British Chess News",
+          "schema:url": "https://britishchessnews.com/2020/06/22/remembering-howard-staunton-01-iv-1810-22-vi-1874/",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Remembering Howard Staunton on the 172nd Anniversary of the Great London 1851 Tournament",
+          "dcterms:publisher": "ChessBase News",
+          "schema:url": "https://en.chessbase.com/newsroom/post/remembering-howard-staunton-on-the-172nd-anniversary-of-the-great-london-1851-tournament",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/players/howard-staunton.md",
+      "skos:altLabel": [
+        "H. Staunton",
+        "Staunton"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:history-of-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:adolf-anderssen"
+        },
+        {
+          "@id": "kt:paul-morphy"
+        },
+        {
+          "@id": "kt:staunton-chess-set"
+        },
+        {
+          "@id": "kt:english-opening"
+        },
+        {
+          "@id": "kt:romantic-era"
+        },
+        {
+          "@id": "kt:hypermodernism"
+        }
+      ],
+      "kto:playedIn": [
+        {
+          "@id": "kt:london-1851"
+        }
+      ]
+    },
+    {
       "@id": "kt:javokhir-sindarov",
       "@type": "kto:Player",
       "skos:prefLabel": "Javokhir Sindarov",

@@ -3693,6 +3693,30 @@
 <https://github.com/john1hsu/chess-graph/id/horizon-effect> <https://github.com/john1hsu/chess-graph/ontology#fen> "5r1k/4Qpq1/4p3/1p1p2P1/2p2P2/1p2P3/3P4/BK6 b - - 0 1" .
 <https://github.com/john1hsu/chess-graph/id/horizon-effect> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/horizon-effect> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-08" .
+<https://github.com/john1hsu/chess-graph/id/howard-staunton> <http://purl.org/dc/terms/created> "2026-11-19" .
+<https://github.com/john1hsu/chess-graph/id/howard-staunton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
+<https://github.com/john1hsu/chess-graph/id/howard-staunton> <http://www.w3.org/2000/01/rdf-schema#label> "Howard Staunton" .
+<https://github.com/john1hsu/chess-graph/id/howard-staunton> <http://www.w3.org/2004/02/skos/core#altLabel> "H. Staunton" .
+<https://github.com/john1hsu/chess-graph/id/howard-staunton> <http://www.w3.org/2004/02/skos/core#altLabel> "Staunton" .
+<https://github.com/john1hsu/chess-graph/id/howard-staunton> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/history-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/howard-staunton> <http://www.w3.org/2004/02/skos/core#definition> "English master, writer and organiser (1810–1874), regarded as the strongest player in the world from his 1843 match win over Saint-Amant until London 1851; author of The Chess-Player's Handbook, organiser of the first international tournament, and the name behind the Staunton chessmen and the Staunton Gambit." .
+<https://github.com/john1hsu/chess-graph/id/howard-staunton> <http://www.w3.org/2004/02/skos/core#prefLabel> "Howard Staunton" .
+<https://github.com/john1hsu/chess-graph/id/howard-staunton> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/adolf-anderssen> .
+<https://github.com/john1hsu/chess-graph/id/howard-staunton> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/english-opening> .
+<https://github.com/john1hsu/chess-graph/id/howard-staunton> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/hypermodernism> .
+<https://github.com/john1hsu/chess-graph/id/howard-staunton> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/paul-morphy> .
+<https://github.com/john1hsu/chess-graph/id/howard-staunton> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/romantic-era> .
+<https://github.com/john1hsu/chess-graph/id/howard-staunton> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/staunton-chess-set> .
+<https://github.com/john1hsu/chess-graph/id/howard-staunton> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/howard-staunton/s1> .
+<https://github.com/john1hsu/chess-graph/id/howard-staunton> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/howard-staunton/s2> .
+<https://github.com/john1hsu/chess-graph/id/howard-staunton> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/howard-staunton/s3> .
+<https://github.com/john1hsu/chess-graph/id/howard-staunton> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/howard-staunton/s4> .
+<https://github.com/john1hsu/chess-graph/id/howard-staunton> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/howard-staunton/s5> .
+<https://github.com/john1hsu/chess-graph/id/howard-staunton> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/howard-staunton/s6> .
+<https://github.com/john1hsu/chess-graph/id/howard-staunton> <https://github.com/john1hsu/chess-graph/ontology#domain> "players" .
+<https://github.com/john1hsu/chess-graph/id/howard-staunton> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/london-1851> .
+<https://github.com/john1hsu/chess-graph/id/howard-staunton> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/howard-staunton> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-19" .
 <https://github.com/john1hsu/chess-graph/id/hypermodernism> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/hypermodernism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#School> .
 <https://github.com/john1hsu/chess-graph/id/hypermodernism> <http://www.w3.org/2000/01/rdf-schema#label> "Hypermodernism" .
@@ -10361,6 +10385,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/horizon-effect/s5> <https://schema.org/url> "https://www.chessprogramming.org/Horizon_Effect" .
+<https://github.com/john1hsu/chess-graph/id/source/howard-staunton/s1> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
+<https://github.com/john1hsu/chess-graph/id/source/howard-staunton/s1> <http://purl.org/dc/terms/title> "Howard Staunton" .
+<https://github.com/john1hsu/chess-graph/id/source/howard-staunton/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/howard-staunton/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/howard-staunton/s1> <https://schema.org/url> "https://worldchesshof.org/?p=828" .
+<https://github.com/john1hsu/chess-graph/id/source/howard-staunton/s2> <http://purl.org/dc/terms/publisher> "Encyclopedia.com" .
+<https://github.com/john1hsu/chess-graph/id/source/howard-staunton/s2> <http://purl.org/dc/terms/title> "Staunton, Howard (The Columbia Encyclopedia, 6th ed.)" .
+<https://github.com/john1hsu/chess-graph/id/source/howard-staunton/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/howard-staunton/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/howard-staunton/s2> <https://schema.org/url> "https://encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/staunton-howard" .
+<https://github.com/john1hsu/chess-graph/id/source/howard-staunton/s3> <http://purl.org/dc/terms/publisher> "World Chess Hall of Fame" .
+<https://github.com/john1hsu/chess-graph/id/source/howard-staunton/s3> <http://purl.org/dc/terms/title> "The Staunton Standard: Evolution of the Modern Chess Set" .
+<https://github.com/john1hsu/chess-graph/id/source/howard-staunton/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/howard-staunton/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/howard-staunton/s3> <https://schema.org/url> "https://worldchesshof.org/program/the-staunton-standard-evolution-of-the-modern-chess-set/" .
+<https://github.com/john1hsu/chess-graph/id/source/howard-staunton/s4> <http://purl.org/dc/terms/publisher> "Yorkshire Chess History" .
+<https://github.com/john1hsu/chess-graph/id/source/howard-staunton/s4> <http://purl.org/dc/terms/title> "Staunton, Howard (Yorkshire Chess History, Stephen John Mann)" .
+<https://github.com/john1hsu/chess-graph/id/source/howard-staunton/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/howard-staunton/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/howard-staunton/s4> <https://schema.org/url> "https://www.mannchess.org.uk/People/Staunton,%20Howard.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/howard-staunton/s5> <http://purl.org/dc/terms/publisher> "British Chess News" .
+<https://github.com/john1hsu/chess-graph/id/source/howard-staunton/s5> <http://purl.org/dc/terms/title> "Remembering Howard Staunton (01-iv-1810 22-vi-1874)" .
+<https://github.com/john1hsu/chess-graph/id/source/howard-staunton/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/howard-staunton/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/howard-staunton/s5> <https://schema.org/url> "https://britishchessnews.com/2020/06/22/remembering-howard-staunton-01-iv-1810-22-vi-1874/" .
+<https://github.com/john1hsu/chess-graph/id/source/howard-staunton/s6> <http://purl.org/dc/terms/publisher> "ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/howard-staunton/s6> <http://purl.org/dc/terms/title> "Remembering Howard Staunton on the 172nd Anniversary of the Great London 1851 Tournament" .
+<https://github.com/john1hsu/chess-graph/id/source/howard-staunton/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/howard-staunton/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/howard-staunton/s6> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/remembering-howard-staunton-on-the-172nd-anniversary-of-the-great-london-1851-tournament" .
 <https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s1> <http://purl.org/dc/terms/title> "Hypermodernism" .
 <https://github.com/john1hsu/chess-graph/id/source/hypermodernism/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

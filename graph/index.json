@@ -3286,6 +3286,29 @@
     ]
   },
   {
+    "id": "kt:howard-staunton",
+    "title": "Howard Staunton",
+    "aliases": [
+      "H. Staunton",
+      "Staunton"
+    ],
+    "type": "Player",
+    "domain": "players",
+    "file": "articles/players/howard-staunton.md",
+    "created": "2026-11-19",
+    "verified": "2026-11-19",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://worldchesshof.org/?p=828",
+      "https://encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/staunton-howard",
+      "https://worldchesshof.org/program/the-staunton-standard-evolution-of-the-modern-chess-set/",
+      "https://www.mannchess.org.uk/People/Staunton,%20Howard.htm",
+      "https://britishchessnews.com/2020/06/22/remembering-howard-staunton-01-iv-1810-22-vi-1874/",
+      "https://en.chessbase.com/newsroom/post/remembering-howard-staunton-on-the-172nd-anniversary-of-the-great-london-1851-tournament"
+    ]
+  },
+  {
     "id": "kt:hypermodernism",
     "title": "Hypermodernism",
     "aliases": [

@@ -6,7 +6,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:alexander-alekhine`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:boris-spassky`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:magnus-carlsen`, `kt:mikhail-botvinnik`, `kt:mikhail-tal`, `kt:tigran-petrosian`, `kt:viswanathan-anand`, `kt:vladimir-kramnik`, `kt:wilhelm-steinitz` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:the-turk`, `kt:allen-newell`, `kt:herbert-simon` |
-| `kt:howard-staunton` | `kt:london-1851`, `kt:london-1851`, `kt:paul-morphy` |
 | `kt:joseph-henry-blackburne` | `kt:london-1883`, `kt:zukertort-versus-blackburne-london-1883`, `kt:johannes-zukertort` |
 | `kt:albert-zobrist` | `kt:zobrist-hashing`, `kt:zobrist-hashing` |
 | `kt:alexander-kotov` | `kt:calculation`, `kt:candidate-moves` |
@@ -35,6 +34,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:zugzwang`, `kt:aron-nimzowitsch` |
 | `kt:san-remo-1930` | `kt:alekhine-versus-nimzowitsch-san-remo-1930`, `kt:alexander-alekhine` |
 | `kt:scout-algorithm` | `kt:principal-variation-search`, `kt:principal-variation-search` |
+| `kt:staunton-chess-set` | `kt:lewis-chessmen`, `kt:howard-staunton` |
 | `kt:world-chess-hall-of-fame` | `kt:saint-louis-chess-club`, `kt:sam-loyd` |
 | `kt:abstract-strategy-game` | `kt:chess` |
 | `kt:adolf-albin` | `kt:albin-countergambit` |
@@ -83,6 +83,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:edwin-z-adams` | `kt:adams-versus-torre-new-orleans-1920` |
 | `kt:englisch-versus-steinitz-london-1883` | `kt:bishop-pair` |
 | `kt:english-attack` | `kt:najdorf-variation` |
+| `kt:english-opening` | `kt:howard-staunton` |
 | `kt:european-chess-club-cup` | `kt:european-chess-union` |
 | `kt:european-individual-chess-championship` | `kt:european-chess-union` |
 | `kt:european-team-chess-championship` | `kt:european-chess-union` |
@@ -238,7 +239,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:spassky-versus-bronstein-leningrad-1960` | `kt:boris-spassky` |
 | `kt:spassky-versus-fischer-reykjavik-1972-game-17` | `kt:threefold-repetition` |
 | `kt:st-petersburg-1895-96` | `kt:hastings-1895` |
-| `kt:staunton-chess-set` | `kt:lewis-chessmen` |
 | `kt:stefan-meyer-kahlen` | `kt:universal-chess-interface` |
 | `kt:swiss-system-tournament` | `kt:chess-olympiad` |
 | `kt:tan-zhongyi` | `kt:ju-wenjun` |
