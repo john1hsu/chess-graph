@@ -11,9 +11,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:albert-zobrist` | `kt:zobrist-hashing`, `kt:zobrist-hashing` |
 | `kt:alexander-kotov` | `kt:calculation`, `kt:candidate-moves` |
 | `kt:bratko-kopec-test` | `kt:extended-position-description`, `kt:steven-j-edwards` |
+| `kt:chess-notation` | `kt:david-forsyth`, `kt:descriptive-notation` |
 | `kt:chigorin-defence` | `kt:albin-countergambit`, `kt:mikhail-chigorin` |
 | `kt:counting-in-pawn-races` | `kt:queen-versus-pawn`, `kt:rule-of-the-square` |
-| `kt:david-forsyth` | `kt:forsyth-edwards-notation`, `kt:steven-j-edwards` |
 | `kt:deep-blue` | `kt:singular-extensions`, `kt:deep-blue-versus-kasparov` |
 | `kt:domination` | `kt:knight-versus-bishop`, `kt:trapped-piece` |
 | `kt:hou-yifan` | `kt:womens-world-chess-championship`, `kt:ju-wenjun` |
@@ -62,7 +62,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chess-4-5` | `kt:iterative-deepening` |
 | `kt:chess-engine-communication-protocol` | `kt:universal-chess-interface` |
 | `kt:chess-equipment` | `kt:chess-clock` |
-| `kt:chess-notation` | `kt:descriptive-notation` |
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
 | `kt:chess-set` | `kt:lewis-chessmen` |
 | `kt:chessdom` | `kt:top-chess-engine-championship` |
@@ -175,6 +174,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mvv-lva` | `kt:move-ordering` |
 | `kt:nalimov-tablebases` | `kt:steven-j-edwards` |
 | `kt:negamax` | `kt:minimax` |
+| `kt:new-zealand-chess-championship` | `kt:david-forsyth` |
 | `kt:nodirbek-abdusattorov` | `kt:tata-steel-chess-tournament` |
 | `kt:opening-surprise` | `kt:opening-repertoire` |
 | `kt:otto-selz` | `kt:adriaan-de-groot` |
@@ -218,6 +218,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:samisch-variation` | `kt:nimzo-indian-defence` |
 | `kt:samuel-reshevsky` | `kt:us-chess-championship` |
 | `kt:sargon` | `kt:static-exchange-evaluation` |
+| `kt:scottish-chess-association` | `kt:david-forsyth` |
 | `kt:semi-closed-games` | `kt:chess-openings` |
 | `kt:semi-slav-defence` | `kt:slav-defence` |
 | `kt:sergey-karjakin` | `kt:world-rapid-championship` |

@@ -1869,6 +1869,27 @@
     ]
   },
   {
+    "id": "kt:david-forsyth",
+    "title": "David Forsyth",
+    "aliases": [
+      "D. Forsyth",
+      "David Forsyth (chess player)"
+    ],
+    "type": "Person",
+    "domain": "rules-and-notation",
+    "file": "articles/rules-and-notation/david-forsyth.md",
+    "created": "2026-11-19",
+    "verified": "2026-11-19",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://www.chessscotland.com/documents/history/biographies/forsyth.htm",
+      "https://chesshistory.com/winter/extra/notation.html",
+      "https://www.chessscotland.com/documents/history/SCA-Glasgow%20Weekly%20Herald%20columns.pdf",
+      "https://newzealandchess.co.nz/trophies-silver-rook.html"
+    ]
+  },
+  {
     "id": "kt:dead-position",
     "title": "Dead position",
     "aliases": [

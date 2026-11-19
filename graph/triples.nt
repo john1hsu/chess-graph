@@ -2095,6 +2095,29 @@
 <https://github.com/john1hsu/chess-graph/id/david-bronstein> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/world-chess-championship-1951> .
 <https://github.com/john1hsu/chess-graph/id/david-bronstein> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/david-bronstein> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-18" .
+<https://github.com/john1hsu/chess-graph/id/david-forsyth> <http://purl.org/dc/terms/created> "2026-11-19" .
+<https://github.com/john1hsu/chess-graph/id/david-forsyth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Person> .
+<https://github.com/john1hsu/chess-graph/id/david-forsyth> <http://www.w3.org/2000/01/rdf-schema#label> "David Forsyth" .
+<https://github.com/john1hsu/chess-graph/id/david-forsyth> <http://www.w3.org/2004/02/skos/core#altLabel> "D. Forsyth" .
+<https://github.com/john1hsu/chess-graph/id/david-forsyth> <http://www.w3.org/2004/02/skos/core#altLabel> "David Forsyth (chess player)" .
+<https://github.com/john1hsu/chess-graph/id/david-forsyth> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-notation> .
+<https://github.com/john1hsu/chess-graph/id/david-forsyth> <http://www.w3.org/2004/02/skos/core#definition> "Scottish solicitor, chess organiser and player (1854–1909) who devised the rank-by-rank method of recording chess positions first published in the Glasgow Weekly Herald in 1883, the basis of today's Forsyth–Edwards Notation; he later won the New Zealand championship in 1901." .
+<https://github.com/john1hsu/chess-graph/id/david-forsyth> <http://www.w3.org/2004/02/skos/core#prefLabel> "David Forsyth" .
+<https://github.com/john1hsu/chess-graph/id/david-forsyth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/blindfold-chess> .
+<https://github.com/john1hsu/chess-graph/id/david-forsyth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chess-problems> .
+<https://github.com/john1hsu/chess-graph/id/david-forsyth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/forsyth-edwards-notation> .
+<https://github.com/john1hsu/chess-graph/id/david-forsyth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/saavedra-position> .
+<https://github.com/john1hsu/chess-graph/id/david-forsyth> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/steven-j-edwards> .
+<https://github.com/john1hsu/chess-graph/id/david-forsyth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/david-forsyth/s1> .
+<https://github.com/john1hsu/chess-graph/id/david-forsyth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/david-forsyth/s2> .
+<https://github.com/john1hsu/chess-graph/id/david-forsyth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/david-forsyth/s3> .
+<https://github.com/john1hsu/chess-graph/id/david-forsyth> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/david-forsyth/s4> .
+<https://github.com/john1hsu/chess-graph/id/david-forsyth> <https://github.com/john1hsu/chess-graph/ontology#domain> "rules-and-notation" .
+<https://github.com/john1hsu/chess-graph/id/david-forsyth> <https://github.com/john1hsu/chess-graph/ontology#fen> "8/8/1KP5/3r4/8/8/8/k7 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/david-forsyth> <https://github.com/john1hsu/chess-graph/ontology#memberOf> <https://github.com/john1hsu/chess-graph/id/scottish-chess-association> .
+<https://github.com/john1hsu/chess-graph/id/david-forsyth> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/new-zealand-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/david-forsyth> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/david-forsyth> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-19" .
 <https://github.com/john1hsu/chess-graph/id/dead-position> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/dead-position> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Rule> .
 <https://github.com/john1hsu/chess-graph/id/dead-position> <http://www.w3.org/2000/01/rdf-schema#label> "Dead position" .
@@ -8549,6 +8572,26 @@
 <https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/david-bronstein/s6> <https://schema.org/url> "https://en.chessbase.com/post/david-bronstein-dies-at-82" .
+<https://github.com/john1hsu/chess-graph/id/source/david-forsyth/s1> <http://purl.org/dc/terms/publisher> "Chess Scotland, history archive" .
+<https://github.com/john1hsu/chess-graph/id/source/david-forsyth/s1> <http://purl.org/dc/terms/title> "David Forsyth (compiled by Alan McGowan)" .
+<https://github.com/john1hsu/chess-graph/id/source/david-forsyth/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/david-forsyth/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/david-forsyth/s1> <https://schema.org/url> "https://www.chessscotland.com/documents/history/biographies/forsyth.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/david-forsyth/s2> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/david-forsyth/s2> <http://purl.org/dc/terms/title> "Chess Notation (Chess Notes items including C.N. 5051, 5205 and 11884)" .
+<https://github.com/john1hsu/chess-graph/id/source/david-forsyth/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/david-forsyth/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/david-forsyth/s2> <https://schema.org/url> "https://chesshistory.com/winter/extra/notation.html" .
+<https://github.com/john1hsu/chess-graph/id/source/david-forsyth/s3> <http://purl.org/dc/terms/publisher> "Chess Scotland, history archive" .
+<https://github.com/john1hsu/chess-graph/id/source/david-forsyth/s3> <http://purl.org/dc/terms/title> "Scottish Chess Association – founded 2 February 1884 (Glasgow Weekly Herald chess columns, 1883–1884)" .
+<https://github.com/john1hsu/chess-graph/id/source/david-forsyth/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/david-forsyth/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
+<https://github.com/john1hsu/chess-graph/id/source/david-forsyth/s3> <https://schema.org/url> "https://www.chessscotland.com/documents/history/SCA-Glasgow%20Weekly%20Herald%20columns.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/david-forsyth/s4> <http://purl.org/dc/terms/publisher> "New Zealand Chess Federation" .
+<https://github.com/john1hsu/chess-graph/id/source/david-forsyth/s4> <http://purl.org/dc/terms/title> "The Silver Rook (New Zealand Championship trophy and list of winners)" .
+<https://github.com/john1hsu/chess-graph/id/source/david-forsyth/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/david-forsyth/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/david-forsyth/s4> <https://schema.org/url> "https://newzealandchess.co.nz/trophies-silver-rook.html" .
 <https://github.com/john1hsu/chess-graph/id/source/dead-position/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
 <https://github.com/john1hsu/chess-graph/id/source/dead-position/s1> <http://purl.org/dc/terms/title> "Laws of Chess, Article 5: The Completion of the Game" .
 <https://github.com/john1hsu/chess-graph/id/source/dead-position/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
