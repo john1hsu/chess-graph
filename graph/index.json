@@ -287,6 +287,27 @@
     ]
   },
   {
+    "id": "kt:allen-newell",
+    "title": "Allen Newell",
+    "aliases": [
+      "A. Newell"
+    ],
+    "type": "Person",
+    "domain": "training-and-improvement",
+    "file": "articles/training-and-improvement/allen-newell.md",
+    "created": "2026-11-19",
+    "verified": "2026-11-19",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://www.nasonline.org/wp-content/uploads/2024/06/newell-allen.pdf",
+      "https://history.computer.org/newell.html",
+      "https://aitopics.org/download/aiclassics:F75D75A1",
+      "https://www.computer.org/profiles/allen-newell",
+      "https://www.computerhistory.org/chess/stl-431e1a07cf7a1/"
+    ]
+  },
+  {
     "id": "kt:allumwandlung",
     "title": "Allumwandlung",
     "aliases": [

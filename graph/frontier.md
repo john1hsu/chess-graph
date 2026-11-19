@@ -5,7 +5,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:alexander-alekhine`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:boris-spassky`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:magnus-carlsen`, `kt:mikhail-botvinnik`, `kt:mikhail-tal`, `kt:tigran-petrosian`, `kt:viswanathan-anand`, `kt:vladimir-kramnik`, `kt:wilhelm-steinitz` |
-| `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:the-turk`, `kt:herbert-simon` |
+| `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:the-turk`, `kt:allen-newell`, `kt:herbert-simon` |
 | `kt:howard-staunton` | `kt:london-1851`, `kt:london-1851`, `kt:paul-morphy` |
 | `kt:joseph-henry-blackburne` | `kt:london-1883`, `kt:zukertort-versus-blackburne-london-1883`, `kt:johannes-zukertort` |
 | `kt:albert-zobrist` | `kt:zobrist-hashing`, `kt:zobrist-hashing` |
@@ -38,7 +38,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:abstract-strategy-game` | `kt:chess` |
 | `kt:adolf-albin` | `kt:albin-countergambit` |
 | `kt:alexander-morozevich` | `kt:albin-countergambit` |
-| `kt:allen-newell` | `kt:herbert-simon` |
 | `kt:antonin-novotny` | `kt:novotny-theme` |
 | `kt:armageddon` | `kt:norway-chess` |
 | `kt:arpad-elo` | `kt:elo-rating-system` |
@@ -177,6 +176,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:negamax` | `kt:minimax` |
 | `kt:new-zealand-chess-championship` | `kt:david-forsyth` |
 | `kt:nodirbek-abdusattorov` | `kt:tata-steel-chess-tournament` |
+| `kt:oliver-selfridge` | `kt:allen-newell` |
 | `kt:opening-surprise` | `kt:opening-repertoire` |
 | `kt:otto-selz` | `kt:adriaan-de-groot` |
 | `kt:outside-passed-pawn` | `kt:pawn-majority` |

@@ -315,6 +315,28 @@
 <https://github.com/john1hsu/chess-graph/id/algebraic-notation> <https://github.com/john1hsu/chess-graph/ontology#replaces> <https://github.com/john1hsu/chess-graph/id/descriptive-notation> .
 <https://github.com/john1hsu/chess-graph/id/algebraic-notation> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/algebraic-notation> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/allen-newell> <http://purl.org/dc/terms/created> "2026-11-19" .
+<https://github.com/john1hsu/chess-graph/id/allen-newell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Person> .
+<https://github.com/john1hsu/chess-graph/id/allen-newell> <http://www.w3.org/2000/01/rdf-schema#label> "Allen Newell" .
+<https://github.com/john1hsu/chess-graph/id/allen-newell> <http://www.w3.org/2004/02/skos/core#altLabel> "A. Newell" .
+<https://github.com/john1hsu/chess-graph/id/allen-newell> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/allen-newell> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/history-of-computer-chess> .
+<https://github.com/john1hsu/chess-graph/id/allen-newell> <http://www.w3.org/2004/02/skos/core#definition> "American computer scientist and cognitive psychologist (1927–1992) whose 1955 paper \"The Chess Machine\" and the goal-driven NSS chess program he built with Cliff Shaw and Herbert Simon treated chess as a laboratory for modelling selective, humanlike problem solving." .
+<https://github.com/john1hsu/chess-graph/id/allen-newell> <http://www.w3.org/2004/02/skos/core#prefLabel> "Allen Newell" .
+<https://github.com/john1hsu/chess-graph/id/allen-newell> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/alpha-beta-pruning> .
+<https://github.com/john1hsu/chess-graph/id/allen-newell> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/candidate-moves> .
+<https://github.com/john1hsu/chess-graph/id/allen-newell> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/claude-shannon> .
+<https://github.com/john1hsu/chess-graph/id/allen-newell> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/game-tree-search> .
+<https://github.com/john1hsu/chess-graph/id/allen-newell> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/herbert-simon> .
+<https://github.com/john1hsu/chess-graph/id/allen-newell> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/allen-newell/s1> .
+<https://github.com/john1hsu/chess-graph/id/allen-newell> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/allen-newell/s2> .
+<https://github.com/john1hsu/chess-graph/id/allen-newell> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/allen-newell/s3> .
+<https://github.com/john1hsu/chess-graph/id/allen-newell> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/allen-newell/s4> .
+<https://github.com/john1hsu/chess-graph/id/allen-newell> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/allen-newell/s5> .
+<https://github.com/john1hsu/chess-graph/id/allen-newell> <https://github.com/john1hsu/chess-graph/ontology#domain> "training-and-improvement" .
+<https://github.com/john1hsu/chess-graph/id/allen-newell> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/oliver-selfridge> .
+<https://github.com/john1hsu/chess-graph/id/allen-newell> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/allen-newell> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-19" .
 <https://github.com/john1hsu/chess-graph/id/allumwandlung> <http://purl.org/dc/terms/created> "2026-11-16" .
 <https://github.com/john1hsu/chess-graph/id/allumwandlung> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#ProblemTheme> .
 <https://github.com/john1hsu/chess-graph/id/allumwandlung> <http://www.w3.org/2000/01/rdf-schema#label> "Allumwandlung" .
@@ -6837,6 +6859,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
 <https://github.com/john1hsu/chess-graph/id/source/algebraic-notation/s6> <https://schema.org/url> "https://new.uschess.org/sites/default/files/media/documents/uschess-fide-rules-comparison.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/allen-newell/s1> <http://purl.org/dc/terms/publisher> "Herbert A. Simon, National Academy of Sciences" .
+<https://github.com/john1hsu/chess-graph/id/source/allen-newell/s1> <http://purl.org/dc/terms/title> "Allen Newell 1927–1992: A Biographical Memoir" .
+<https://github.com/john1hsu/chess-graph/id/source/allen-newell/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/allen-newell/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/allen-newell/s1> <https://schema.org/url> "https://www.nasonline.org/wp-content/uploads/2024/06/newell-allen.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/allen-newell/s2> <http://purl.org/dc/terms/publisher> "IEEE Computer Society" .
+<https://github.com/john1hsu/chess-graph/id/source/allen-newell/s2> <http://purl.org/dc/terms/title> "Allen Newell — Computer Pioneers" .
+<https://github.com/john1hsu/chess-graph/id/source/allen-newell/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/allen-newell/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/allen-newell/s2> <https://schema.org/url> "https://history.computer.org/newell.html" .
+<https://github.com/john1hsu/chess-graph/id/source/allen-newell/s3> <http://purl.org/dc/terms/publisher> "Allen Newell, J. C. Shaw and H. A. Simon, archived by AITopics (AAAI)" .
+<https://github.com/john1hsu/chess-graph/id/source/allen-newell/s3> <http://purl.org/dc/terms/title> "Chess-Playing Programs and the Problem of Complexity" .
+<https://github.com/john1hsu/chess-graph/id/source/allen-newell/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/allen-newell/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/allen-newell/s3> <https://schema.org/url> "https://aitopics.org/download/aiclassics:F75D75A1" .
+<https://github.com/john1hsu/chess-graph/id/source/allen-newell/s4> <http://purl.org/dc/terms/publisher> "IEEE Computer Society" .
+<https://github.com/john1hsu/chess-graph/id/source/allen-newell/s4> <http://purl.org/dc/terms/title> "Allen Newell" .
+<https://github.com/john1hsu/chess-graph/id/source/allen-newell/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/allen-newell/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/allen-newell/s4> <https://schema.org/url> "https://www.computer.org/profiles/allen-newell" .
+<https://github.com/john1hsu/chess-graph/id/source/allen-newell/s5> <http://purl.org/dc/terms/publisher> "Computer History Museum" .
+<https://github.com/john1hsu/chess-graph/id/source/allen-newell/s5> <http://purl.org/dc/terms/title> "Artificial Intelligence pioneers Allen Newell (right) and Herbert Simon — Mastering the Game" .
+<https://github.com/john1hsu/chess-graph/id/source/allen-newell/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/allen-newell/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/allen-newell/s5> <https://schema.org/url> "https://www.computerhistory.org/chess/stl-431e1a07cf7a1/" .
 <https://github.com/john1hsu/chess-graph/id/source/allumwandlung/s1> <http://purl.org/dc/terms/publisher> "Jeremy Morse; hosted by the British Chess Problem Society (The Problemist)" .
 <https://github.com/john1hsu/chess-graph/id/source/allumwandlung/s1> <http://purl.org/dc/terms/title> "Chess Problems: Tasks and Records (3rd edition), Chapter 14: Pawn Promotion" .
 <https://github.com/john1hsu/chess-graph/id/source/allumwandlung/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

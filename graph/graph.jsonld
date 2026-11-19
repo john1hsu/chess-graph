@@ -21842,6 +21842,83 @@
       ]
     },
     {
+      "@id": "kt:allen-newell",
+      "@type": "kto:Person",
+      "skos:prefLabel": "Allen Newell",
+      "skos:definition": "American computer scientist and cognitive psychologist (1927–1992) whose 1955 paper \"The Chess Machine\" and the goal-driven NSS chess program he built with Cliff Shaw and Herbert Simon treated chess as a laboratory for modelling selective, humanlike problem solving.",
+      "kto:domain": "training-and-improvement",
+      "dcterms:created": "2026-11-19",
+      "kto:verified": "2026-11-19",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Allen Newell 1927–1992: A Biographical Memoir",
+          "dcterms:publisher": "Herbert A. Simon, National Academy of Sciences",
+          "schema:url": "https://www.nasonline.org/wp-content/uploads/2024/06/newell-allen.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Allen Newell — Computer Pioneers",
+          "dcterms:publisher": "IEEE Computer Society",
+          "schema:url": "https://history.computer.org/newell.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Chess-Playing Programs and the Problem of Complexity",
+          "dcterms:publisher": "Allen Newell, J. C. Shaw and H. A. Simon, archived by AITopics (AAAI)",
+          "schema:url": "https://aitopics.org/download/aiclassics:F75D75A1",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Allen Newell",
+          "dcterms:publisher": "IEEE Computer Society",
+          "schema:url": "https://www.computer.org/profiles/allen-newell",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Artificial Intelligence pioneers Allen Newell (right) and Herbert Simon — Mastering the Game",
+          "dcterms:publisher": "Computer History Museum",
+          "schema:url": "https://www.computerhistory.org/chess/stl-431e1a07cf7a1/",
+          "kto:sourceType": "archive"
+        }
+      ],
+      "kto:file": "articles/training-and-improvement/allen-newell.md",
+      "skos:altLabel": [
+        "A. Newell"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:cognitive-psychology-of-chess"
+        },
+        {
+          "@id": "kt:history-of-computer-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:herbert-simon"
+        },
+        {
+          "@id": "kt:claude-shannon"
+        },
+        {
+          "@id": "kt:game-tree-search"
+        },
+        {
+          "@id": "kt:candidate-moves"
+        },
+        {
+          "@id": "kt:alpha-beta-pruning"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:oliver-selfridge"
+        }
+      ]
+    },
+    {
       "@id": "kt:anders-ericsson",
       "@type": "kto:Person",
       "skos:prefLabel": "Anders Ericsson",
