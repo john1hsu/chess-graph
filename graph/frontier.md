@@ -11,9 +11,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:sinquefield-cup` | `kt:grand-chess-tour`, `kt:grand-chess-tour`, `kt:saint-louis-chess-club` |
 | `kt:albert-zobrist` | `kt:zobrist-hashing`, `kt:zobrist-hashing` |
 | `kt:alexander-kotov` | `kt:calculation`, `kt:candidate-moves` |
+| `kt:alexander-morozevich` | `kt:albin-countergambit`, `kt:chigorin-defence` |
 | `kt:armageddon` | `kt:grand-chess-tour`, `kt:norway-chess` |
 | `kt:bratko-kopec-test` | `kt:extended-position-description`, `kt:steven-j-edwards` |
-| `kt:chigorin-defence` | `kt:albin-countergambit`, `kt:mikhail-chigorin` |
 | `kt:counting-in-pawn-races` | `kt:queen-versus-pawn`, `kt:rule-of-the-square` |
 | `kt:deep-blue` | `kt:singular-extensions`, `kt:deep-blue-versus-kasparov` |
 | `kt:domination` | `kt:knight-versus-bishop`, `kt:trapped-piece` |
@@ -42,7 +42,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:world-chess-hall-of-fame` | `kt:saint-louis-chess-club`, `kt:sam-loyd` |
 | `kt:abstract-strategy-game` | `kt:chess` |
 | `kt:adolf-albin` | `kt:albin-countergambit` |
-| `kt:alexander-morozevich` | `kt:albin-countergambit` |
 | `kt:antonin-novotny` | `kt:novotny-theme` |
 | `kt:arpad-elo` | `kt:elo-rating-system` |
 | `kt:artificial-intelligence` | `kt:computer-chess` |

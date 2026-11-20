@@ -1642,6 +1642,35 @@
     ]
   },
   {
+    "id": "kt:chigorin-defence",
+    "title": "Chigorin Defence",
+    "aliases": [
+      "Chigorin Defense",
+      "Tchigorin Defence",
+      "Tchigorin Defense",
+      "Queen's Gambit Declined Chigorin Defence",
+      "Queen's Gambit Chigorin",
+      "Chigorin Queen's Gambit"
+    ],
+    "type": "Variation",
+    "domain": "openings",
+    "file": "articles/openings/chigorin-defence.md",
+    "created": "2026-11-20",
+    "verified": "2026-11-20",
+    "volatile": false,
+    "status": "current",
+    "eco": "D07",
+    "source_urls": [
+      "https://www.newinchess.com/chigorin-defence",
+      "https://www.schweitzer-online.de/en/buch/Bronznik/Chigorin-Defence/9783959209427/A72899528/",
+      "https://www.chess.com/article/view/the-chigorin-queens-gambit-a-history",
+      "https://en.chessbase.com/post/review-libiszewski-s-chigorin-defence-calculated-risk-against-1-d4-d5-2-c4",
+      "https://en.chessbase.com/post/the-tactical-chigorin-a-review-2",
+      "https://theweekinchess.com/john-watson-reviews/opening-books-en-masse-part2",
+      "https://www.chessgames.com/perl/chessopening?eco=D07"
+    ]
+  },
+  {
     "id": "kt:chunking-theory",
     "title": "Chunking theory",
     "aliases": [

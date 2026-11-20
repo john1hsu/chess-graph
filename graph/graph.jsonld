@@ -12648,6 +12648,109 @@
       ]
     },
     {
+      "@id": "kt:chigorin-defence",
+      "@type": "kto:Variation",
+      "skos:prefLabel": "Chigorin Defence",
+      "skos:definition": "An unorthodox reply to the Queen's Gambit, 1.d4 d5 2.c4 Nc6, in which Black blocks the c-pawn to develop a knight at once, pressure d4 and prepare ...e5, accepting bishop-versus-knight imbalances for fast piece play; named after Mikhail Chigorin and revived in the 1990s by Alexander Morozevich.",
+      "kto:domain": "openings",
+      "dcterms:created": "2026-11-20",
+      "kto:verified": "2026-11-20",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Chigorin Defence (fully revised edition)",
+          "dcterms:publisher": "Valery Bronznik, Schachverlag R. Keilhack (2002), New In Chess product page",
+          "schema:url": "https://www.newinchess.com/chigorin-defence",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The Chigorin Defence: 1.d4-d5 2.c4-Nc6",
+          "dcterms:publisher": "Valery Bronznik, Joachim Beyer Verlag (2005), Schweitzer Fachinformationen catalogue page",
+          "schema:url": "https://www.schweitzer-online.de/en/buch/Bronznik/Chigorin-Defence/9783959209427/A72899528/",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The Chigorin Queen's Gambit: A History",
+          "dcterms:publisher": "GM Bryan Smith, Chess.com (2015)",
+          "schema:url": "https://www.chess.com/article/view/the-chigorin-queens-gambit-a-history",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Review: Libiszewski's Chigorin Defence – Calculated Risk against 1.d4 d5 2.c4",
+          "dcterms:publisher": "IM Hannes Langrock, ChessBase News (1 November 2026)",
+          "schema:url": "https://en.chessbase.com/post/review-libiszewski-s-chigorin-defence-calculated-risk-against-1-d4-d5-2-c4",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The Tactical Chigorin, a Review",
+          "dcterms:publisher": "Davide Nastasio, ChessBase News (21 October 2017)",
+          "schema:url": "https://en.chessbase.com/post/the-tactical-chigorin-a-review-2",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Opening Books en Masse Part 2",
+          "dcterms:publisher": "IM John Watson, The Week in Chess (12 February 2009)",
+          "schema:url": "https://theweekinchess.com/john-watson-reviews/opening-books-en-masse-part2",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Queen's Gambit Declined, Chigorin Defense (D07)",
+          "dcterms:publisher": "Chessgames.com",
+          "schema:url": "https://www.chessgames.com/perl/chessopening?eco=D07",
+          "kto:sourceType": "database"
+        }
+      ],
+      "kto:file": "articles/openings/chigorin-defence.md",
+      "skos:altLabel": [
+        "Chigorin Defense",
+        "Tchigorin Defence",
+        "Tchigorin Defense",
+        "Queen's Gambit Declined Chigorin Defence",
+        "Queen's Gambit Chigorin",
+        "Chigorin Queen's Gambit"
+      ],
+      "kto:eco": "D07",
+      "kto:moves": "1.d4 d5 2.c4 Nc6",
+      "skos:broader": [
+        {
+          "@id": "kt:queens-gambit"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:mikhail-chigorin"
+        },
+        {
+          "@id": "kt:bishop-pair"
+        },
+        {
+          "@id": "kt:knight-versus-bishop"
+        },
+        {
+          "@id": "kt:nimzo-indian-defence"
+        }
+      ],
+      "kto:namedAfter": [
+        {
+          "@id": "kt:mikhail-chigorin"
+        }
+      ],
+      "kto:championedBy": [
+        {
+          "@id": "kt:alexander-morozevich"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:queens-gambit-declined"
+        },
+        {
+          "@id": "kt:albin-countergambit"
+        }
+      ]
+    },
+    {
       "@id": "kt:closed-games",
       "@type": "kto:Concept",
       "skos:prefLabel": "Closed games",

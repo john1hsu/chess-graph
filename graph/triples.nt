@@ -1838,6 +1838,38 @@
 <https://github.com/john1hsu/chess-graph/id/chess> <https://github.com/john1hsu/chess-graph/ontology#sanctionedBy> <https://github.com/john1hsu/chess-graph/id/fide> .
 <https://github.com/john1hsu/chess-graph/id/chess> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/chess> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-13" .
+<https://github.com/john1hsu/chess-graph/id/chigorin-defence> <http://purl.org/dc/terms/created> "2026-11-20" .
+<https://github.com/john1hsu/chess-graph/id/chigorin-defence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Variation> .
+<https://github.com/john1hsu/chess-graph/id/chigorin-defence> <http://www.w3.org/2000/01/rdf-schema#label> "Chigorin Defence" .
+<https://github.com/john1hsu/chess-graph/id/chigorin-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "Chigorin Defense" .
+<https://github.com/john1hsu/chess-graph/id/chigorin-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "Chigorin Queen's Gambit" .
+<https://github.com/john1hsu/chess-graph/id/chigorin-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "Queen's Gambit Chigorin" .
+<https://github.com/john1hsu/chess-graph/id/chigorin-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "Queen's Gambit Declined Chigorin Defence" .
+<https://github.com/john1hsu/chess-graph/id/chigorin-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "Tchigorin Defence" .
+<https://github.com/john1hsu/chess-graph/id/chigorin-defence> <http://www.w3.org/2004/02/skos/core#altLabel> "Tchigorin Defense" .
+<https://github.com/john1hsu/chess-graph/id/chigorin-defence> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/queens-gambit> .
+<https://github.com/john1hsu/chess-graph/id/chigorin-defence> <http://www.w3.org/2004/02/skos/core#definition> "An unorthodox reply to the Queen's Gambit, 1.d4 d5 2.c4 Nc6, in which Black blocks the c-pawn to develop a knight at once, pressure d4 and prepare ...e5, accepting bishop-versus-knight imbalances for fast piece play; named after Mikhail Chigorin and revived in the 1990s by Alexander Morozevich." .
+<https://github.com/john1hsu/chess-graph/id/chigorin-defence> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chigorin Defence" .
+<https://github.com/john1hsu/chess-graph/id/chigorin-defence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/bishop-pair> .
+<https://github.com/john1hsu/chess-graph/id/chigorin-defence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/knight-versus-bishop> .
+<https://github.com/john1hsu/chess-graph/id/chigorin-defence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> .
+<https://github.com/john1hsu/chess-graph/id/chigorin-defence> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/nimzo-indian-defence> .
+<https://github.com/john1hsu/chess-graph/id/chigorin-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s1> .
+<https://github.com/john1hsu/chess-graph/id/chigorin-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s2> .
+<https://github.com/john1hsu/chess-graph/id/chigorin-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s3> .
+<https://github.com/john1hsu/chess-graph/id/chigorin-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s4> .
+<https://github.com/john1hsu/chess-graph/id/chigorin-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s5> .
+<https://github.com/john1hsu/chess-graph/id/chigorin-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s6> .
+<https://github.com/john1hsu/chess-graph/id/chigorin-defence> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s7> .
+<https://github.com/john1hsu/chess-graph/id/chigorin-defence> <https://github.com/john1hsu/chess-graph/ontology#alternativeTo> <https://github.com/john1hsu/chess-graph/id/albin-countergambit> .
+<https://github.com/john1hsu/chess-graph/id/chigorin-defence> <https://github.com/john1hsu/chess-graph/ontology#alternativeTo> <https://github.com/john1hsu/chess-graph/id/queens-gambit-declined> .
+<https://github.com/john1hsu/chess-graph/id/chigorin-defence> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/alexander-morozevich> .
+<https://github.com/john1hsu/chess-graph/id/chigorin-defence> <https://github.com/john1hsu/chess-graph/ontology#domain> "openings" .
+<https://github.com/john1hsu/chess-graph/id/chigorin-defence> <https://github.com/john1hsu/chess-graph/ontology#eco> "D07" .
+<https://github.com/john1hsu/chess-graph/id/chigorin-defence> <https://github.com/john1hsu/chess-graph/ontology#moves> "1.d4 d5 2.c4 Nc6" .
+<https://github.com/john1hsu/chess-graph/id/chigorin-defence> <https://github.com/john1hsu/chess-graph/ontology#namedAfter> <https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> .
+<https://github.com/john1hsu/chess-graph/id/chigorin-defence> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/chigorin-defence> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-20" .
 <https://github.com/john1hsu/chess-graph/id/chunking-theory> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/chunking-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#CognitiveConcept> .
 <https://github.com/john1hsu/chess-graph/id/chunking-theory> <http://www.w3.org/2000/01/rdf-schema#label> "Chunking theory" .
@@ -8576,6 +8608,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/chess960/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/chess960/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
 <https://github.com/john1hsu/chess-graph/id/source/chess960/s6> <https://schema.org/url> "https://www.chessprogramming.org/Chess960" .
+<https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s1> <http://purl.org/dc/terms/publisher> "Valery Bronznik, Schachverlag R. Keilhack (2002), New In Chess product page" .
+<https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s1> <http://purl.org/dc/terms/title> "Chigorin Defence (fully revised edition)" .
+<https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s1> <https://schema.org/url> "https://www.newinchess.com/chigorin-defence" .
+<https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s2> <http://purl.org/dc/terms/publisher> "Valery Bronznik, Joachim Beyer Verlag (2005), Schweitzer Fachinformationen catalogue page" .
+<https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s2> <http://purl.org/dc/terms/title> "The Chigorin Defence: 1.d4-d5 2.c4-Nc6" .
+<https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s2> <https://schema.org/url> "https://www.schweitzer-online.de/en/buch/Bronznik/Chigorin-Defence/9783959209427/A72899528/" .
+<https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s3> <http://purl.org/dc/terms/publisher> "GM Bryan Smith, Chess.com (2015)" .
+<https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s3> <http://purl.org/dc/terms/title> "The Chigorin Queen's Gambit: A History" .
+<https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s3> <https://schema.org/url> "https://www.chess.com/article/view/the-chigorin-queens-gambit-a-history" .
+<https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s4> <http://purl.org/dc/terms/publisher> "IM Hannes Langrock, ChessBase News (1 November 2026)" .
+<https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s4> <http://purl.org/dc/terms/title> "Review: Libiszewski's Chigorin Defence – Calculated Risk against 1.d4 d5 2.c4" .
+<https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s4> <https://schema.org/url> "https://en.chessbase.com/post/review-libiszewski-s-chigorin-defence-calculated-risk-against-1-d4-d5-2-c4" .
+<https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s5> <http://purl.org/dc/terms/publisher> "Davide Nastasio, ChessBase News (21 October 2017)" .
+<https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s5> <http://purl.org/dc/terms/title> "The Tactical Chigorin, a Review" .
+<https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s5> <https://schema.org/url> "https://en.chessbase.com/post/the-tactical-chigorin-a-review-2" .
+<https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s6> <http://purl.org/dc/terms/publisher> "IM John Watson, The Week in Chess (12 February 2009)" .
+<https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s6> <http://purl.org/dc/terms/title> "Opening Books en Masse Part 2" .
+<https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s6> <https://schema.org/url> "https://theweekinchess.com/john-watson-reviews/opening-books-en-masse-part2" .
+<https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s7> <http://purl.org/dc/terms/publisher> "Chessgames.com" .
+<https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s7> <http://purl.org/dc/terms/title> "Queen's Gambit Declined, Chigorin Defense (D07)" .
+<https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s7> <https://schema.org/url> "https://www.chessgames.com/perl/chessopening?eco=D07" .
 <https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s1> <http://purl.org/dc/terms/publisher> "Peter C. R. Lane and Fernand Gobet, University of Hertfordshire Research Archive" .
 <https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s1> <http://purl.org/dc/terms/title> "Perception in chess and beyond: Commentary on Linhares and Freitas (2010) (New Ideas in Psychology 29, 156-161)" .
 <https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
