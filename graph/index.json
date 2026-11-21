@@ -5620,6 +5620,35 @@
     ]
   },
   {
+    "id": "kt:saemisch-nimzowitsch-copenhagen-1923",
+    "title": "Sämisch versus Nimzowitsch, Copenhagen 1923",
+    "aliases": [
+      "Immortal Zugzwang Game",
+      "Immortal Zugzwang",
+      "Saemisch versus Nimzowitsch",
+      "Sämisch vs Nimzowitsch",
+      "Samisch v Nimzowitsch",
+      "Sämisch–Nimzowitsch 1923",
+      "Saemisch versus Nimzovich"
+    ],
+    "type": "Game",
+    "domain": "history",
+    "file": "articles/history/saemisch-nimzowitsch-copenhagen-1923.md",
+    "created": "2026-11-21",
+    "verified": "2026-11-21",
+    "volatile": false,
+    "status": "historical",
+    "eco": "E18",
+    "source_urls": [
+      "https://chesshistory.com/winter/extra/zugzwang.html",
+      "https://www.britannica.com/biography/Aron-Nimzowitsch",
+      "https://www.chesshistory.com/winter/extra/mysystem.html",
+      "https://chessgames.com/perl/chess.pl?tid=80023",
+      "https://www.chessgames.com/perl/chessgame?gid=1102400",
+      "https://m.washingtontimes.com/news/2025/sep/30/100-iconoclasts-system-still-packs-punch/"
+    ]
+  },
+  {
     "id": "kt:saint-louis-chess-club",
     "title": "Saint Louis Chess Club",
     "aliases": [

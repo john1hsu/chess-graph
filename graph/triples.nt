@@ -6311,6 +6311,39 @@
 <https://github.com/john1hsu/chess-graph/id/sacrifice> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/gambit> .
 <https://github.com/john1hsu/chess-graph/id/sacrifice> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/sacrifice> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/saemisch-nimzowitsch-copenhagen-1923> <http://purl.org/dc/terms/created> "2026-11-21" .
+<https://github.com/john1hsu/chess-graph/id/saemisch-nimzowitsch-copenhagen-1923> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Game> .
+<https://github.com/john1hsu/chess-graph/id/saemisch-nimzowitsch-copenhagen-1923> <http://www.w3.org/2000/01/rdf-schema#label> "Sämisch versus Nimzowitsch, Copenhagen 1923" .
+<https://github.com/john1hsu/chess-graph/id/saemisch-nimzowitsch-copenhagen-1923> <http://www.w3.org/2004/02/skos/core#altLabel> "Immortal Zugzwang Game" .
+<https://github.com/john1hsu/chess-graph/id/saemisch-nimzowitsch-copenhagen-1923> <http://www.w3.org/2004/02/skos/core#altLabel> "Immortal Zugzwang" .
+<https://github.com/john1hsu/chess-graph/id/saemisch-nimzowitsch-copenhagen-1923> <http://www.w3.org/2004/02/skos/core#altLabel> "Saemisch versus Nimzovich" .
+<https://github.com/john1hsu/chess-graph/id/saemisch-nimzowitsch-copenhagen-1923> <http://www.w3.org/2004/02/skos/core#altLabel> "Saemisch versus Nimzowitsch" .
+<https://github.com/john1hsu/chess-graph/id/saemisch-nimzowitsch-copenhagen-1923> <http://www.w3.org/2004/02/skos/core#altLabel> "Samisch v Nimzowitsch" .
+<https://github.com/john1hsu/chess-graph/id/saemisch-nimzowitsch-copenhagen-1923> <http://www.w3.org/2004/02/skos/core#altLabel> "Sämisch vs Nimzowitsch" .
+<https://github.com/john1hsu/chess-graph/id/saemisch-nimzowitsch-copenhagen-1923> <http://www.w3.org/2004/02/skos/core#altLabel> "Sämisch–Nimzowitsch 1923" .
+<https://github.com/john1hsu/chess-graph/id/saemisch-nimzowitsch-copenhagen-1923> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/hypermodernism> .
+<https://github.com/john1hsu/chess-graph/id/saemisch-nimzowitsch-copenhagen-1923> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/zugzwang> .
+<https://github.com/john1hsu/chess-graph/id/saemisch-nimzowitsch-copenhagen-1923> <http://www.w3.org/2004/02/skos/core#definition> "Aron Nimzowitsch's 25-move win with Black over Friedrich Sämisch at Copenhagen in March 1923, a Queen's Indian in which a queenside blockade and a kingside piece sacrifice left White, with nearly every piece still on the board, without a move that did not lose material; known since 1925 as the \"Immortal Zugzwang Game\", though whether the finish is a true zugzwang is disputed." .
+<https://github.com/john1hsu/chess-graph/id/saemisch-nimzowitsch-copenhagen-1923> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sämisch versus Nimzowitsch, Copenhagen 1923" .
+<https://github.com/john1hsu/chess-graph/id/saemisch-nimzowitsch-copenhagen-1923> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/alekhine-versus-nimzowitsch-san-remo-1930> .
+<https://github.com/john1hsu/chess-graph/id/saemisch-nimzowitsch-copenhagen-1923> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/blockade> .
+<https://github.com/john1hsu/chess-graph/id/saemisch-nimzowitsch-copenhagen-1923> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/emanuel-lasker> .
+<https://github.com/john1hsu/chess-graph/id/saemisch-nimzowitsch-copenhagen-1923> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/queens-indian-defence> .
+<https://github.com/john1hsu/chess-graph/id/saemisch-nimzowitsch-copenhagen-1923> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/saemisch-nimzowitsch-copenhagen-1923/s1> .
+<https://github.com/john1hsu/chess-graph/id/saemisch-nimzowitsch-copenhagen-1923> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/saemisch-nimzowitsch-copenhagen-1923/s2> .
+<https://github.com/john1hsu/chess-graph/id/saemisch-nimzowitsch-copenhagen-1923> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/saemisch-nimzowitsch-copenhagen-1923/s3> .
+<https://github.com/john1hsu/chess-graph/id/saemisch-nimzowitsch-copenhagen-1923> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/saemisch-nimzowitsch-copenhagen-1923/s4> .
+<https://github.com/john1hsu/chess-graph/id/saemisch-nimzowitsch-copenhagen-1923> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/saemisch-nimzowitsch-copenhagen-1923/s5> .
+<https://github.com/john1hsu/chess-graph/id/saemisch-nimzowitsch-copenhagen-1923> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/saemisch-nimzowitsch-copenhagen-1923/s6> .
+<https://github.com/john1hsu/chess-graph/id/saemisch-nimzowitsch-copenhagen-1923> <https://github.com/john1hsu/chess-graph/ontology#domain> "history" .
+<https://github.com/john1hsu/chess-graph/id/saemisch-nimzowitsch-copenhagen-1923> <https://github.com/john1hsu/chess-graph/ontology#eco> "E18" .
+<https://github.com/john1hsu/chess-graph/id/saemisch-nimzowitsch-copenhagen-1923> <https://github.com/john1hsu/chess-graph/ontology#exemplifies> <https://github.com/john1hsu/chess-graph/id/zugzwang> .
+<https://github.com/john1hsu/chess-graph/id/saemisch-nimzowitsch-copenhagen-1923> <https://github.com/john1hsu/chess-graph/ontology#fen> "6k1/3q2p1/p2bp2p/3p1r2/1p1Pp3/3bQ1PP/PP1B1rB1/1N2R1RK w - - 0 26" .
+<https://github.com/john1hsu/chess-graph/id/saemisch-nimzowitsch-copenhagen-1923> <https://github.com/john1hsu/chess-graph/ontology#playedBy> <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> .
+<https://github.com/john1hsu/chess-graph/id/saemisch-nimzowitsch-copenhagen-1923> <https://github.com/john1hsu/chess-graph/ontology#playedBy> <https://github.com/john1hsu/chess-graph/id/friedrich-saemisch> .
+<https://github.com/john1hsu/chess-graph/id/saemisch-nimzowitsch-copenhagen-1923> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/copenhagen-1923> .
+<https://github.com/john1hsu/chess-graph/id/saemisch-nimzowitsch-copenhagen-1923> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/saemisch-nimzowitsch-copenhagen-1923> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-21" .
 <https://github.com/john1hsu/chess-graph/id/saint-louis-chess-club> <http://purl.org/dc/terms/created> "2026-11-14" .
 <https://github.com/john1hsu/chess-graph/id/saint-louis-chess-club> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Organization> .
 <https://github.com/john1hsu/chess-graph/id/saint-louis-chess-club> <http://www.w3.org/2000/01/rdf-schema#label> "Saint Louis Chess Club" .
@@ -13243,6 +13276,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/sacrifice/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/sacrifice/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
 <https://github.com/john1hsu/chess-graph/id/source/sacrifice/s6> <https://schema.org/url> "https://www.chesshistory.com/winter/extra/combination.html" .
+<https://github.com/john1hsu/chess-graph/id/source/saemisch-nimzowitsch-copenhagen-1923/s1> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/saemisch-nimzowitsch-copenhagen-1923/s1> <http://purl.org/dc/terms/title> "Zugzwang" .
+<https://github.com/john1hsu/chess-graph/id/source/saemisch-nimzowitsch-copenhagen-1923/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/saemisch-nimzowitsch-copenhagen-1923/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/saemisch-nimzowitsch-copenhagen-1923/s1> <https://schema.org/url> "https://chesshistory.com/winter/extra/zugzwang.html" .
+<https://github.com/john1hsu/chess-graph/id/source/saemisch-nimzowitsch-copenhagen-1923/s2> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/saemisch-nimzowitsch-copenhagen-1923/s2> <http://purl.org/dc/terms/title> "Aron Nimzowitsch" .
+<https://github.com/john1hsu/chess-graph/id/source/saemisch-nimzowitsch-copenhagen-1923/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/saemisch-nimzowitsch-copenhagen-1923/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/saemisch-nimzowitsch-copenhagen-1923/s2> <https://schema.org/url> "https://www.britannica.com/biography/Aron-Nimzowitsch" .
+<https://github.com/john1hsu/chess-graph/id/source/saemisch-nimzowitsch-copenhagen-1923/s3> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/saemisch-nimzowitsch-copenhagen-1923/s3> <http://purl.org/dc/terms/title> "Nimzowitsch's My System" .
+<https://github.com/john1hsu/chess-graph/id/source/saemisch-nimzowitsch-copenhagen-1923/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/saemisch-nimzowitsch-copenhagen-1923/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/saemisch-nimzowitsch-copenhagen-1923/s3> <https://schema.org/url> "https://www.chesshistory.com/winter/extra/mysystem.html" .
+<https://github.com/john1hsu/chess-graph/id/source/saemisch-nimzowitsch-copenhagen-1923/s4> <http://purl.org/dc/terms/publisher> "chessgames.com" .
+<https://github.com/john1hsu/chess-graph/id/source/saemisch-nimzowitsch-copenhagen-1923/s4> <http://purl.org/dc/terms/title> "Copenhagen (1923), tournament page and crosstable" .
+<https://github.com/john1hsu/chess-graph/id/source/saemisch-nimzowitsch-copenhagen-1923/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/saemisch-nimzowitsch-copenhagen-1923/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/saemisch-nimzowitsch-copenhagen-1923/s4> <https://schema.org/url> "https://chessgames.com/perl/chess.pl?tid=80023" .
+<https://github.com/john1hsu/chess-graph/id/source/saemisch-nimzowitsch-copenhagen-1923/s5> <http://purl.org/dc/terms/publisher> "chessgames.com" .
+<https://github.com/john1hsu/chess-graph/id/source/saemisch-nimzowitsch-copenhagen-1923/s5> <http://purl.org/dc/terms/title> "Friedrich Saemisch vs Aron Nimzowitsch, Copenhagen 1923 (game record)" .
+<https://github.com/john1hsu/chess-graph/id/source/saemisch-nimzowitsch-copenhagen-1923/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/saemisch-nimzowitsch-copenhagen-1923/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
+<https://github.com/john1hsu/chess-graph/id/source/saemisch-nimzowitsch-copenhagen-1923/s5> <https://schema.org/url> "https://www.chessgames.com/perl/chessgame?gid=1102400" .
+<https://github.com/john1hsu/chess-graph/id/source/saemisch-nimzowitsch-copenhagen-1923/s6> <http://purl.org/dc/terms/publisher> "The Washington Times (David R. Sands)" .
+<https://github.com/john1hsu/chess-graph/id/source/saemisch-nimzowitsch-copenhagen-1923/s6> <http://purl.org/dc/terms/title> "Chess column on the centenary of Nimzowitsch's My System (30 September 2025)" .
+<https://github.com/john1hsu/chess-graph/id/source/saemisch-nimzowitsch-copenhagen-1923/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/saemisch-nimzowitsch-copenhagen-1923/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/saemisch-nimzowitsch-copenhagen-1923/s6> <https://schema.org/url> "https://m.washingtontimes.com/news/2025/sep/30/100-iconoclasts-system-still-packs-punch/" .
 <https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s1> <http://purl.org/dc/terms/publisher> "Robert W. Duffy, St. Louis Public Radio (St. Louis Beacon), 15 July 2008" .
 <https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s1> <http://purl.org/dc/terms/title> "Chess club makes bold move into West End quarters" .
 <https://github.com/john1hsu/chess-graph/id/source/saint-louis-chess-club/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

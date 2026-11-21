@@ -35,7 +35,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:praggnanandhaa-rameshbabu` | `kt:grand-chess-tour`, `kt:norway-chess` |
 | `kt:reshevsky-versus-petrosian-zurich-1953` | `kt:exchange-sacrifice`, `kt:sacrifice` |
 | `kt:restraint` | `kt:pawn-majority`, `kt:prophylaxis` |
-| `kt:saemisch-nimzowitsch-copenhagen-1923` | `kt:zugzwang`, `kt:aron-nimzowitsch` |
 | `kt:san-remo-1930` | `kt:alekhine-versus-nimzowitsch-san-remo-1930`, `kt:alexander-alekhine` |
 | `kt:scout-algorithm` | `kt:principal-variation-search`, `kt:principal-variation-search` |
 | `kt:staunton-chess-set` | `kt:lewis-chessmen`, `kt:howard-staunton` |
@@ -73,6 +72,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:club-argentino-de-ajedrez` | `kt:world-chess-championship-1927` |
 | `kt:cognitive-science` | `kt:cognitive-psychology-of-chess` |
 | `kt:colle-versus-ohanlon-nice-1930` | `kt:greek-gift-sacrifice` |
+| `kt:copenhagen-1923` | `kt:saemisch-nimzowitsch-copenhagen-1923` |
 | `kt:curt-von-bardeleben` | `kt:steinitz-von-bardeleben-hastings-1895` |
 | `kt:danish-gambit` | `kt:gambit` |
 | `kt:david-slate` | `kt:aspiration-window` |
@@ -110,6 +110,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:four-pawns-attack` | `kt:alekhines-defence` |
 | `kt:francois-antoine-de-legal` | `kt:francois-andre-danican-philidor` |
 | `kt:frank-marshall` | `kt:us-chess-championship` |
+| `kt:friedrich-saemisch` | `kt:saemisch-nimzowitsch-copenhagen-1923` |
 | `kt:game-of-the-century` | `kt:bobby-fischer` |
 | `kt:georges-barbier` | `kt:saavedra-position` |
 | `kt:gioachino-greco` | `kt:greek-gift-sacrifice` |
@@ -202,6 +203,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:professional-chess-association` | `kt:chess-organizations` |
 | `kt:proof-game` | `kt:retrograde-analysis` |
 | `kt:proof-number-search` | `kt:game-tree-search` |
+| `kt:queens-indian-defence` | `kt:saemisch-nimzowitsch-copenhagen-1923` |
 | `kt:reflexmate` | `kt:selfmate` |
 | `kt:reinforcement-learning` | `kt:alphazero` |
 | `kt:remi-coulom` | `kt:monte-carlo-tree-search` |

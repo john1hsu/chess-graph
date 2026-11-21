@@ -8923,6 +8923,107 @@
       ]
     },
     {
+      "@id": "kt:saemisch-nimzowitsch-copenhagen-1923",
+      "@type": "kto:Game",
+      "skos:prefLabel": "Sämisch versus Nimzowitsch, Copenhagen 1923",
+      "skos:definition": "Aron Nimzowitsch's 25-move win with Black over Friedrich Sämisch at Copenhagen in March 1923, a Queen's Indian in which a queenside blockade and a kingside piece sacrifice left White, with nearly every piece still on the board, without a move that did not lose material; known since 1925 as the \"Immortal Zugzwang Game\", though whether the finish is a true zugzwang is disputed.",
+      "kto:domain": "history",
+      "dcterms:created": "2026-11-21",
+      "kto:verified": "2026-11-21",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Zugzwang",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://chesshistory.com/winter/extra/zugzwang.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Aron Nimzowitsch",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/biography/Aron-Nimzowitsch",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Nimzowitsch's My System",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://www.chesshistory.com/winter/extra/mysystem.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Copenhagen (1923), tournament page and crosstable",
+          "dcterms:publisher": "chessgames.com",
+          "schema:url": "https://chessgames.com/perl/chess.pl?tid=80023",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "Friedrich Saemisch vs Aron Nimzowitsch, Copenhagen 1923 (game record)",
+          "dcterms:publisher": "chessgames.com",
+          "schema:url": "https://www.chessgames.com/perl/chessgame?gid=1102400",
+          "kto:sourceType": "database"
+        },
+        {
+          "dcterms:title": "Chess column on the centenary of Nimzowitsch's My System (30 September 2025)",
+          "dcterms:publisher": "The Washington Times (David R. Sands)",
+          "schema:url": "https://m.washingtontimes.com/news/2025/sep/30/100-iconoclasts-system-still-packs-punch/",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/history/saemisch-nimzowitsch-copenhagen-1923.md",
+      "skos:altLabel": [
+        "Immortal Zugzwang Game",
+        "Immortal Zugzwang",
+        "Saemisch versus Nimzowitsch",
+        "Sämisch vs Nimzowitsch",
+        "Samisch v Nimzowitsch",
+        "Sämisch–Nimzowitsch 1923",
+        "Saemisch versus Nimzovich"
+      ],
+      "kto:eco": "E18",
+      "kto:fen": "6k1/3q2p1/p2bp2p/3p1r2/1p1Pp3/3bQ1PP/PP1B1rB1/1N2R1RK w - - 0 26",
+      "skos:broader": [
+        {
+          "@id": "kt:zugzwang"
+        },
+        {
+          "@id": "kt:hypermodernism"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:alekhine-versus-nimzowitsch-san-remo-1930"
+        },
+        {
+          "@id": "kt:blockade"
+        },
+        {
+          "@id": "kt:queens-indian-defence"
+        },
+        {
+          "@id": "kt:emanuel-lasker"
+        }
+      ],
+      "kto:playedBy": [
+        {
+          "@id": "kt:friedrich-saemisch"
+        },
+        {
+          "@id": "kt:aron-nimzowitsch"
+        }
+      ],
+      "kto:playedIn": [
+        {
+          "@id": "kt:copenhagen-1923"
+        }
+      ],
+      "kto:exemplifies": [
+        {
+          "@id": "kt:zugzwang"
+        }
+      ]
+    },
+    {
       "@id": "kt:shatranj",
       "@type": "kto:Variant",
       "skos:prefLabel": "Shatranj",
