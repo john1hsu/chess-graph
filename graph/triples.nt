@@ -2486,6 +2486,31 @@
 <https://github.com/john1hsu/chess-graph/id/discovered-attack> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/double-check> .
 <https://github.com/john1hsu/chess-graph/id/discovered-attack> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/discovered-attack> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-09" .
+<https://github.com/john1hsu/chess-graph/id/domination> <http://purl.org/dc/terms/created> "2026-11-22" .
+<https://github.com/john1hsu/chess-graph/id/domination> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TacticalMotif> .
+<https://github.com/john1hsu/chess-graph/id/domination> <http://www.w3.org/2000/01/rdf-schema#label> "Domination" .
+<https://github.com/john1hsu/chess-graph/id/domination> <http://www.w3.org/2004/02/skos/core#altLabel> "Dominated piece" .
+<https://github.com/john1hsu/chess-graph/id/domination> <http://www.w3.org/2004/02/skos/core#altLabel> "Dominating a piece" .
+<https://github.com/john1hsu/chess-graph/id/domination> <http://www.w3.org/2004/02/skos/core#altLabel> "Piece domination" .
+<https://github.com/john1hsu/chess-graph/id/domination> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-tactics> .
+<https://github.com/john1hsu/chess-graph/id/domination> <http://www.w3.org/2004/02/skos/core#definition> "A situation in which a piece, often a strong one standing on an open board, has every square it can move to controlled by the opponent, so that it can be attacked and won, or left paralysed; the term is especially associated with endgame studies." .
+<https://github.com/john1hsu/chess-graph/id/domination> <http://www.w3.org/2004/02/skos/core#prefLabel> "Domination" .
+<https://github.com/john1hsu/chess-graph/id/domination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/knight-versus-bishop> .
+<https://github.com/john1hsu/chess-graph/id/domination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/pin> .
+<https://github.com/john1hsu/chess-graph/id/domination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/trapped-piece> .
+<https://github.com/john1hsu/chess-graph/id/domination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/zugzwang> .
+<https://github.com/john1hsu/chess-graph/id/domination> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/domination/s1> .
+<https://github.com/john1hsu/chess-graph/id/domination> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/domination/s2> .
+<https://github.com/john1hsu/chess-graph/id/domination> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/domination/s3> .
+<https://github.com/john1hsu/chess-graph/id/domination> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/domination/s4> .
+<https://github.com/john1hsu/chess-graph/id/domination> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/domination/s5> .
+<https://github.com/john1hsu/chess-graph/id/domination> <https://github.com/john1hsu/chess-graph/ontology#domain> "tactics" .
+<https://github.com/john1hsu/chess-graph/id/domination> <https://github.com/john1hsu/chess-graph/ontology#enables> <https://github.com/john1hsu/chess-graph/id/material-advantage> .
+<https://github.com/john1hsu/chess-graph/id/domination> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/anand-versus-gelfand-moscow-2012-game-8> .
+<https://github.com/john1hsu/chess-graph/id/domination> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/endgame-study> .
+<https://github.com/john1hsu/chess-graph/id/domination> <https://github.com/john1hsu/chess-graph/ontology#fen> "7R/7p/3NPk1r/3r4/1B6/1K6/8/8 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/domination> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/domination> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-22" .
 <https://github.com/john1hsu/chess-graph/id/double-check> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/chess-graph/id/double-check> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TacticalMotif> .
 <https://github.com/john1hsu/chess-graph/id/double-check> <http://www.w3.org/2000/01/rdf-schema#label> "Double check" .
@@ -9261,6 +9286,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/discovered-attack/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/discovered-attack/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/discovered-attack/s4> <https://schema.org/url> "https://www.chess.com/terms/discovered-attack-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/domination/s1> <http://purl.org/dc/terms/publisher> "Siegfried Hornecker, ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/domination/s1> <http://purl.org/dc/terms/title> "Study of the Month: Some classical dominations" .
+<https://github.com/john1hsu/chess-graph/id/source/domination/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/domination/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/domination/s1> <https://schema.org/url> "https://en.chessbase.com/post/study-of-the-month-some-classical-dominations" .
+<https://github.com/john1hsu/chess-graph/id/source/domination/s2> <http://purl.org/dc/terms/publisher> "Noam D. Elkies, Chess Horizons (republished at chabris.com, ACJ Extra)" .
+<https://github.com/john1hsu/chess-graph/id/source/domination/s2> <http://purl.org/dc/terms/title> "Endgame Explorations 3: Domination" .
+<https://github.com/john1hsu/chess-graph/id/source/domination/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/domination/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/domination/s2> <https://schema.org/url> "https://chabris.com/pub/acj/extra/Elkies/Elkies03.html" .
+<https://github.com/john1hsu/chess-graph/id/source/domination/s3> <http://purl.org/dc/terms/publisher> "Genrikh Kasparyan (publisher's synopsis, Blackwell's)" .
+<https://github.com/john1hsu/chess-graph/id/source/domination/s3> <http://purl.org/dc/terms/title> "Domination in 2545 Endgame Studies" .
+<https://github.com/john1hsu/chess-graph/id/source/domination/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/domination/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/domination/s3> <https://schema.org/url> "https://blackwells.co.uk/bookshop/product/Domination-in-2545-Endgame-Studies-by-Kasparyan-Ghenrikh-M/9780923891879" .
+<https://github.com/john1hsu/chess-graph/id/source/domination/s4> <http://purl.org/dc/terms/publisher> "Boroljub Zlatanovic, Thinkers Publishing (sample hosted by New In Chess)" .
+<https://github.com/john1hsu/chess-graph/id/source/domination/s4> <http://purl.org/dc/terms/title> "Bishop versus Knight: The Eternal Battle, Volume 1 (sample pages)" .
+<https://github.com/john1hsu/chess-graph/id/source/domination/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/domination/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/domination/s4> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/8435.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/domination/s5> <http://purl.org/dc/terms/publisher> "GM Karsten Müller, ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/domination/s5> <http://purl.org/dc/terms/title> "The sharpest endgame weapons" .
+<https://github.com/john1hsu/chess-graph/id/source/domination/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/domination/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/domination/s5> <https://schema.org/url> "https://en.chessbase.com/post/endgame-blog-karsten-mueller-965e" .
 <https://github.com/john1hsu/chess-graph/id/source/double-check/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
 <https://github.com/john1hsu/chess-graph/id/source/double-check/s1> <http://purl.org/dc/terms/title> "FIDE Laws of Chess (full text, applied from 1 January 2023)" .
 <https://github.com/john1hsu/chess-graph/id/source/double-check/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

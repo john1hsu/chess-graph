@@ -2211,6 +2211,29 @@
     ]
   },
   {
+    "id": "kt:domination",
+    "title": "Domination",
+    "aliases": [
+      "Dominating a piece",
+      "Piece domination",
+      "Dominated piece"
+    ],
+    "type": "TacticalMotif",
+    "domain": "tactics",
+    "file": "articles/tactics/domination.md",
+    "created": "2026-11-22",
+    "verified": "2026-11-22",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://en.chessbase.com/post/study-of-the-month-some-classical-dominations",
+      "https://chabris.com/pub/acj/extra/Elkies/Elkies03.html",
+      "https://blackwells.co.uk/bookshop/product/Domination-in-2545-Endgame-Studies-by-Kasparyan-Ghenrikh-M/9780923891879",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/8435.pdf",
+      "https://en.chessbase.com/post/endgame-blog-karsten-mueller-965e"
+    ]
+  },
+  {
     "id": "kt:double-check",
     "title": "Double check",
     "aliases": [
