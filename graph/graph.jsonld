@@ -11420,6 +11420,109 @@
       ]
     },
     {
+      "@id": "kt:pawn-chain",
+      "@type": "kto:StrategicConcept",
+      "skos:prefLabel": "Pawn chain",
+      "skos:definition": "A diagonal line of pawns in which each pawn protects the next, usually locked against an enemy chain; Nimzowitsch taught that the unprotected rear pawn, the base, is the natural target and that each side should play on the wing towards which its chain points.",
+      "kto:domain": "middlegame-strategy",
+      "dcterms:created": "2026-11-23",
+      "kto:verified": "2026-11-23",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "My System: A chess manual on totally new principles (excerpt)",
+          "dcterms:publisher": "Aron Nimzowitsch, Quality Chess (2007 edition)",
+          "schema:url": "https://qualitychess.co.uk/wp-content/uploads/2024/02/MySystem-excerpt.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "My System & Chess Praxis (sample pages)",
+          "dcterms:publisher": "Aron Nimzowitsch, transl. Robert Sherwood, New In Chess (2016)",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/9027.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The King's Indian Defence: Move by Move (sample pages)",
+          "dcterms:publisher": "Sam Collins, Everyman Chess (2017)",
+          "schema:url": "https://www.newinchess.com/media/wysiwyg/product_pdf/7736.pdf",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Pawn Chain",
+          "dcterms:publisher": "Chess.com, Chess Terms",
+          "schema:url": "https://www.chess.com/terms/pawn-chain-chess",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Understanding before Moving 72: Pawn chains in the French Defense (1)",
+          "dcterms:publisher": "IM Herman Grooten, ChessBase News (27 March 2022)",
+          "schema:url": "https://en.chessbase.com/newsroom/post/understanding-before-moving-72-pawn-chains-in-the-french-defense-1",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Understanding before Moving 73: Pawn chains in the French Defense (2)",
+          "dcterms:publisher": "IM Herman Grooten, ChessBase News (3 April 2022)",
+          "schema:url": "https://en.chessbase.com/newsroom/post/understanding-before-moving-73-pawn-chains-in-the-french-defense-2",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Sam Collins: The French Advance Structure (review)",
+          "dcterms:publisher": "Lukas Wedrychowski, ChessBase News (4 June 2013)",
+          "schema:url": "https://en.chessbase.com/post/sam-collins-the-french-advance-structure-050613",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/middlegame-strategy/pawn-chain.md",
+      "skos:altLabel": [
+        "Pawn chains",
+        "Chain of pawns",
+        "Base of the pawn chain",
+        "Head of the pawn chain"
+      ],
+      "kto:fen": "rnbqkbnr/pp3ppp/4p3/2ppP3/3P4/2P5/PP3PPP/RNBQKBNR b KQkq - 0 4",
+      "skos:broader": [
+        {
+          "@id": "kt:pawn-structure"
+        },
+        {
+          "@id": "kt:chess-strategy"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:french-defence"
+        },
+        {
+          "@id": "kt:kings-indian-defence"
+        },
+        {
+          "@id": "kt:blockade"
+        },
+        {
+          "@id": "kt:space-advantage"
+        },
+        {
+          "@id": "kt:breakthrough"
+        }
+      ],
+      "kto:championedBy": [
+        {
+          "@id": "kt:aron-nimzowitsch"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:pawn-structure"
+        }
+      ],
+      "kto:leadsTo": [
+        {
+          "@id": "kt:space-advantage"
+        }
+      ]
+    },
+    {
       "@id": "kt:pawn-majority",
       "@type": "kto:StrategicConcept",
       "skos:prefLabel": "Pawn majority",

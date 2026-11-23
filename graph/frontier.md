@@ -7,6 +7,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:alexander-alekhine`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:boris-spassky`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:magnus-carlsen`, `kt:mikhail-botvinnik`, `kt:mikhail-tal`, `kt:tigran-petrosian`, `kt:viswanathan-anand`, `kt:vladimir-kramnik`, `kt:wilhelm-steinitz` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:deep-blue-versus-kasparov`, `kt:the-turk`, `kt:allen-newell`, `kt:herbert-simon` |
 | `kt:joseph-henry-blackburne` | `kt:london-1883`, `kt:zukertort-versus-blackburne-london-1883`, `kt:johannes-zukertort` |
+| `kt:kings-indian-defence` | `kt:soviet-chess-school`, `kt:pawn-chain`, `kt:david-bronstein` |
 | `kt:numeric-annotation-glyphs` | `kt:chess-notation`, `kt:portable-game-notation`, `kt:annotating-your-games` |
 | `kt:sinquefield-cup` | `kt:grand-chess-tour`, `kt:grand-chess-tour`, `kt:saint-louis-chess-club` |
 | `kt:albert-zobrist` | `kt:zobrist-hashing`, `kt:zobrist-hashing` |
@@ -20,7 +21,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hou-yifan` | `kt:womens-world-chess-championship`, `kt:ju-wenjun` |
 | `kt:karpov-versus-unzicker-nice-1974` | `kt:prophylaxis`, `kt:anatoly-karpov` |
 | `kt:ken-thompson` | `kt:endgame-tablebases`, `kt:queen-versus-rook` |
-| `kt:kings-indian-defence` | `kt:soviet-chess-school`, `kt:david-bronstein` |
 | `kt:lionel-kieseritzky` | `kt:immortal-game`, `kt:london-1851` |
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position`, `kt:smothered-mate` |
 | `kt:marmaduke-wyvill` | `kt:london-1851`, `kt:london-1883` |

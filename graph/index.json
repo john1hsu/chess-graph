@@ -4866,6 +4866,32 @@
     ]
   },
   {
+    "id": "kt:pawn-chain",
+    "title": "Pawn chain",
+    "aliases": [
+      "Pawn chains",
+      "Chain of pawns",
+      "Base of the pawn chain",
+      "Head of the pawn chain"
+    ],
+    "type": "StrategicConcept",
+    "domain": "middlegame-strategy",
+    "file": "articles/middlegame-strategy/pawn-chain.md",
+    "created": "2026-11-23",
+    "verified": "2026-11-23",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://qualitychess.co.uk/wp-content/uploads/2024/02/MySystem-excerpt.pdf",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/9027.pdf",
+      "https://www.newinchess.com/media/wysiwyg/product_pdf/7736.pdf",
+      "https://www.chess.com/terms/pawn-chain-chess",
+      "https://en.chessbase.com/newsroom/post/understanding-before-moving-72-pawn-chains-in-the-french-defense-1",
+      "https://en.chessbase.com/newsroom/post/understanding-before-moving-73-pawn-chains-in-the-french-defense-2",
+      "https://en.chessbase.com/post/sam-collins-the-french-advance-structure-050613"
+    ]
+  },
+  {
     "id": "kt:pawn-majority",
     "title": "Pawn majority",
     "aliases": [

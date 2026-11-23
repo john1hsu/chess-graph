@@ -5460,6 +5460,36 @@
 <https://github.com/john1hsu/chess-graph/id/paul-morphy> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/first-american-chess-congress> .
 <https://github.com/john1hsu/chess-graph/id/paul-morphy> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/paul-morphy> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-17" .
+<https://github.com/john1hsu/chess-graph/id/pawn-chain> <http://purl.org/dc/terms/created> "2026-11-23" .
+<https://github.com/john1hsu/chess-graph/id/pawn-chain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
+<https://github.com/john1hsu/chess-graph/id/pawn-chain> <http://www.w3.org/2000/01/rdf-schema#label> "Pawn chain" .
+<https://github.com/john1hsu/chess-graph/id/pawn-chain> <http://www.w3.org/2004/02/skos/core#altLabel> "Base of the pawn chain" .
+<https://github.com/john1hsu/chess-graph/id/pawn-chain> <http://www.w3.org/2004/02/skos/core#altLabel> "Chain of pawns" .
+<https://github.com/john1hsu/chess-graph/id/pawn-chain> <http://www.w3.org/2004/02/skos/core#altLabel> "Head of the pawn chain" .
+<https://github.com/john1hsu/chess-graph/id/pawn-chain> <http://www.w3.org/2004/02/skos/core#altLabel> "Pawn chains" .
+<https://github.com/john1hsu/chess-graph/id/pawn-chain> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-strategy> .
+<https://github.com/john1hsu/chess-graph/id/pawn-chain> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/pawn-structure> .
+<https://github.com/john1hsu/chess-graph/id/pawn-chain> <http://www.w3.org/2004/02/skos/core#definition> "A diagonal line of pawns in which each pawn protects the next, usually locked against an enemy chain; Nimzowitsch taught that the unprotected rear pawn, the base, is the natural target and that each side should play on the wing towards which its chain points." .
+<https://github.com/john1hsu/chess-graph/id/pawn-chain> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pawn chain" .
+<https://github.com/john1hsu/chess-graph/id/pawn-chain> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/blockade> .
+<https://github.com/john1hsu/chess-graph/id/pawn-chain> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/breakthrough> .
+<https://github.com/john1hsu/chess-graph/id/pawn-chain> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/french-defence> .
+<https://github.com/john1hsu/chess-graph/id/pawn-chain> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/kings-indian-defence> .
+<https://github.com/john1hsu/chess-graph/id/pawn-chain> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/space-advantage> .
+<https://github.com/john1hsu/chess-graph/id/pawn-chain> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s1> .
+<https://github.com/john1hsu/chess-graph/id/pawn-chain> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s2> .
+<https://github.com/john1hsu/chess-graph/id/pawn-chain> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s3> .
+<https://github.com/john1hsu/chess-graph/id/pawn-chain> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s4> .
+<https://github.com/john1hsu/chess-graph/id/pawn-chain> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s5> .
+<https://github.com/john1hsu/chess-graph/id/pawn-chain> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s6> .
+<https://github.com/john1hsu/chess-graph/id/pawn-chain> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s7> .
+<https://github.com/john1hsu/chess-graph/id/pawn-chain> <https://github.com/john1hsu/chess-graph/ontology#championedBy> <https://github.com/john1hsu/chess-graph/id/aron-nimzowitsch> .
+<https://github.com/john1hsu/chess-graph/id/pawn-chain> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/pawn-structure> .
+<https://github.com/john1hsu/chess-graph/id/pawn-chain> <https://github.com/john1hsu/chess-graph/ontology#domain> "middlegame-strategy" .
+<https://github.com/john1hsu/chess-graph/id/pawn-chain> <https://github.com/john1hsu/chess-graph/ontology#fen> "rnbqkbnr/pp3ppp/4p3/2ppP3/3P4/2P5/PP3PPP/RNBQKBNR b KQkq - 0 4" .
+<https://github.com/john1hsu/chess-graph/id/pawn-chain> <https://github.com/john1hsu/chess-graph/ontology#leadsTo> <https://github.com/john1hsu/chess-graph/id/space-advantage> .
+<https://github.com/john1hsu/chess-graph/id/pawn-chain> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/pawn-chain> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-23" .
 <https://github.com/john1hsu/chess-graph/id/pawn-majority> <http://purl.org/dc/terms/created> "2026-11-19" .
 <https://github.com/john1hsu/chess-graph/id/pawn-majority> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#StrategicConcept> .
 <https://github.com/john1hsu/chess-graph/id/pawn-majority> <http://www.w3.org/2000/01/rdf-schema#label> "Pawn majority" .
@@ -12446,6 +12476,41 @@
 <https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
 <https://github.com/john1hsu/chess-graph/id/source/paul-morphy/s7> <https://schema.org/url> "https://lichess.org/study/embed/XNplF9gb/bH2PAcl3" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s1> <http://purl.org/dc/terms/publisher> "Aron Nimzowitsch, Quality Chess (2007 edition)" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s1> <http://purl.org/dc/terms/title> "My System: A chess manual on totally new principles (excerpt)" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s1> <https://schema.org/url> "https://qualitychess.co.uk/wp-content/uploads/2024/02/MySystem-excerpt.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s2> <http://purl.org/dc/terms/publisher> "Aron Nimzowitsch, transl. Robert Sherwood, New In Chess (2016)" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s2> <http://purl.org/dc/terms/title> "My System & Chess Praxis (sample pages)" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s2> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/9027.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s3> <http://purl.org/dc/terms/publisher> "Sam Collins, Everyman Chess (2017)" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s3> <http://purl.org/dc/terms/title> "The King's Indian Defence: Move by Move (sample pages)" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s3> <https://schema.org/url> "https://www.newinchess.com/media/wysiwyg/product_pdf/7736.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s4> <http://purl.org/dc/terms/publisher> "Chess.com, Chess Terms" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s4> <http://purl.org/dc/terms/title> "Pawn Chain" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s4> <https://schema.org/url> "https://www.chess.com/terms/pawn-chain-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s5> <http://purl.org/dc/terms/publisher> "IM Herman Grooten, ChessBase News (27 March 2022)" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s5> <http://purl.org/dc/terms/title> "Understanding before Moving 72: Pawn chains in the French Defense (1)" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s5> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/understanding-before-moving-72-pawn-chains-in-the-french-defense-1" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s6> <http://purl.org/dc/terms/publisher> "IM Herman Grooten, ChessBase News (3 April 2022)" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s6> <http://purl.org/dc/terms/title> "Understanding before Moving 73: Pawn chains in the French Defense (2)" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s6> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/understanding-before-moving-73-pawn-chains-in-the-french-defense-2" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s7> <http://purl.org/dc/terms/publisher> "Lukas Wedrychowski, ChessBase News (4 June 2013)" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s7> <http://purl.org/dc/terms/title> "Sam Collins: The French Advance Structure (review)" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/pawn-chain/s7> <https://schema.org/url> "https://en.chessbase.com/post/sam-collins-the-french-advance-structure-050613" .
 <https://github.com/john1hsu/chess-graph/id/source/pawn-majority/s1> <http://purl.org/dc/terms/publisher> "Chess.com (Chess Terms)" .
 <https://github.com/john1hsu/chess-graph/id/source/pawn-majority/s1> <http://purl.org/dc/terms/title> "Pawn Majority" .
 <https://github.com/john1hsu/chess-graph/id/source/pawn-majority/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
