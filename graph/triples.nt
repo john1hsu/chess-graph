@@ -1870,6 +1870,34 @@
 <https://github.com/john1hsu/chess-graph/id/chigorin-defence> <https://github.com/john1hsu/chess-graph/ontology#namedAfter> <https://github.com/john1hsu/chess-graph/id/mikhail-chigorin> .
 <https://github.com/john1hsu/chess-graph/id/chigorin-defence> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/chigorin-defence> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-20" .
+<https://github.com/john1hsu/chess-graph/id/chrest> <http://purl.org/dc/terms/created> "2026-11-24" .
+<https://github.com/john1hsu/chess-graph/id/chrest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#CognitiveConcept> .
+<https://github.com/john1hsu/chess-graph/id/chrest> <http://www.w3.org/2000/01/rdf-schema#label> "CHREST" .
+<https://github.com/john1hsu/chess-graph/id/chrest> <http://www.w3.org/2004/02/skos/core#altLabel> "CHREST cognitive architecture" .
+<https://github.com/john1hsu/chess-graph/id/chrest> <http://www.w3.org/2004/02/skos/core#altLabel> "CHREST model" .
+<https://github.com/john1hsu/chess-graph/id/chrest> <http://www.w3.org/2004/02/skos/core#altLabel> "Chunk Hierarchy REtrieval STructures" .
+<https://github.com/john1hsu/chess-graph/id/chrest> <http://www.w3.org/2004/02/skos/core#altLabel> "Chunk Hierarchy and REtrieval STructures" .
+<https://github.com/john1hsu/chess-graph/id/chrest> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-expertise> .
+<https://github.com/john1hsu/chess-graph/id/chrest> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/cognitive-psychology-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/chrest> <http://www.w3.org/2004/02/skos/core#definition> "A computational cognitive architecture, built mainly by Fernand Gobet and Peter Lane, that learns chess patterns as chunks in a discrimination network and simulates how players of different strength look at, recognise and remember positions." .
+<https://github.com/john1hsu/chess-graph/id/chrest> <http://www.w3.org/2004/02/skos/core#prefLabel> "CHREST" .
+<https://github.com/john1hsu/chess-graph/id/chrest> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/adriaan-de-groot> .
+<https://github.com/john1hsu/chess-graph/id/chrest> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/chunking-theory> .
+<https://github.com/john1hsu/chess-graph/id/chrest> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/template-theory> .
+<https://github.com/john1hsu/chess-graph/id/chrest> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/visualization> .
+<https://github.com/john1hsu/chess-graph/id/chrest> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chrest/s1> .
+<https://github.com/john1hsu/chess-graph/id/chrest> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chrest/s2> .
+<https://github.com/john1hsu/chess-graph/id/chrest> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chrest/s3> .
+<https://github.com/john1hsu/chess-graph/id/chrest> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/chrest/s4> .
+<https://github.com/john1hsu/chess-graph/id/chrest> <https://github.com/john1hsu/chess-graph/ontology#contrastsWith> <https://github.com/john1hsu/chess-graph/id/long-term-working-memory> .
+<https://github.com/john1hsu/chess-graph/id/chrest> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/fernand-gobet> .
+<https://github.com/john1hsu/chess-graph/id/chrest> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/peter-lane> .
+<https://github.com/john1hsu/chess-graph/id/chrest> <https://github.com/john1hsu/chess-graph/ontology#domain> "training-and-improvement" .
+<https://github.com/john1hsu/chess-graph/id/chrest> <https://github.com/john1hsu/chess-graph/ontology#fen> "6k1/5ppp/8/8/8/8/5PPP/5RK1 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/chrest> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/chunking-theory> .
+<https://github.com/john1hsu/chess-graph/id/chrest> <https://github.com/john1hsu/chess-graph/ontology#influencedBy> <https://github.com/john1hsu/chess-graph/id/epam> .
+<https://github.com/john1hsu/chess-graph/id/chrest> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/chrest> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-24" .
 <https://github.com/john1hsu/chess-graph/id/chunking-theory> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/chess-graph/id/chunking-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#CognitiveConcept> .
 <https://github.com/john1hsu/chess-graph/id/chunking-theory> <http://www.w3.org/2000/01/rdf-schema#label> "Chunking theory" .
@@ -8731,6 +8759,26 @@
 <https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s7> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "database" .
 <https://github.com/john1hsu/chess-graph/id/source/chigorin-defence/s7> <https://schema.org/url> "https://www.chessgames.com/perl/chessopening?eco=D07" .
+<https://github.com/john1hsu/chess-graph/id/source/chrest/s1> <http://purl.org/dc/terms/publisher> "Peter C. R. Lane, Fernand Gobet and Richard Ll. Smith, University of Hertfordshire Research Archive" .
+<https://github.com/john1hsu/chess-graph/id/source/chrest/s1> <http://purl.org/dc/terms/title> "Attention Mechanisms in the CHREST Cognitive Architecture" .
+<https://github.com/john1hsu/chess-graph/id/source/chrest/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chrest/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/chrest/s1> <https://schema.org/url> "https://uhra.herts.ac.uk/id/eprint/197/1/903377.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/chrest/s2> <http://purl.org/dc/terms/publisher> "Richard Ll. Smith, Fernand Gobet and Peter C. R. Lane, Brunel University Research Archive" .
+<https://github.com/john1hsu/chess-graph/id/source/chrest/s2> <http://purl.org/dc/terms/title> "Checking Chess Checks with Chunks: A Model of Simple Check Detection (Proceedings of the Ninth International Conference on Cognitive Modeling, 2009)" .
+<https://github.com/john1hsu/chess-graph/id/source/chrest/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chrest/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/chrest/s2> <https://schema.org/url> "https://bura.brunel.ac.uk/bitstream/2438/3503/1/Checking%20chess%20checks%20with%20chunks%3a%20A%20model%20of%20simple%20check%20detection.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/chrest/s3> <http://purl.org/dc/terms/publisher> "Fernand Gobet, Peter C. R. Lane and Martyn Lloyd-Kelly, via PubMed Central" .
+<https://github.com/john1hsu/chess-graph/id/source/chrest/s3> <http://purl.org/dc/terms/title> "Chunks, Schemata, and Retrieval Structures: Past and Current Computational Models (Frontiers in Psychology 6:1785, 2015)" .
+<https://github.com/john1hsu/chess-graph/id/source/chrest/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chrest/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/chess-graph/id/source/chrest/s3> <https://schema.org/url> "https://pmc.ncbi.nlm.nih.gov/articles/PMC4657374" .
+<https://github.com/john1hsu/chess-graph/id/source/chrest/s4> <http://purl.org/dc/terms/publisher> "Andrew J. Waters and Fernand Gobet, Brunel University Research Archive" .
+<https://github.com/john1hsu/chess-graph/id/source/chrest/s4> <http://purl.org/dc/terms/title> "Mental Imagery and Chunks: Empirical and Computational Findings" .
+<https://github.com/john1hsu/chess-graph/id/source/chrest/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/chrest/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/chrest/s4> <https://schema.org/url> "https://bura.brunel.ac.uk/bitstream/2438/1618/1/Mental%20imagery%20and%20chunks.pdf" .
 <https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s1> <http://purl.org/dc/terms/publisher> "Peter C. R. Lane and Fernand Gobet, University of Hertfordshire Research Archive" .
 <https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s1> <http://purl.org/dc/terms/title> "Perception in chess and beyond: Commentary on Linhares and Freitas (2010) (New Ideas in Psychology 29, 156-161)" .
 <https://github.com/john1hsu/chess-graph/id/source/chunking-theory/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

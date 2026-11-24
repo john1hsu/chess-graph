@@ -1671,6 +1671,29 @@
     ]
   },
   {
+    "id": "kt:chrest",
+    "title": "CHREST",
+    "aliases": [
+      "Chunk Hierarchy and REtrieval STructures",
+      "Chunk Hierarchy REtrieval STructures",
+      "CHREST cognitive architecture",
+      "CHREST model"
+    ],
+    "type": "CognitiveConcept",
+    "domain": "training-and-improvement",
+    "file": "articles/training-and-improvement/chrest.md",
+    "created": "2026-11-24",
+    "verified": "2026-11-24",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://uhra.herts.ac.uk/id/eprint/197/1/903377.pdf",
+      "https://bura.brunel.ac.uk/bitstream/2438/3503/1/Checking%20chess%20checks%20with%20chunks%3a%20A%20model%20of%20simple%20check%20detection.pdf",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4657374",
+      "https://bura.brunel.ac.uk/bitstream/2438/1618/1/Mental%20imagery%20and%20chunks.pdf"
+    ]
+  },
+  {
     "id": "kt:chunking-theory",
     "title": "Chunking theory",
     "aliases": [

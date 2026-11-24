@@ -68,7 +68,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chess-rating-systems` | `kt:elo-rating-system` |
 | `kt:chess-set` | `kt:lewis-chessmen` |
 | `kt:chessdom` | `kt:top-chess-engine-championship` |
-| `kt:chrest` | `kt:template-theory` |
 | `kt:club-argentino-de-ajedrez` | `kt:world-chess-championship-1927` |
 | `kt:cognitive-science` | `kt:cognitive-psychology-of-chess` |
 | `kt:colle-versus-ohanlon-nice-1930` | `kt:greek-gift-sacrifice` |
@@ -86,6 +85,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:englisch-versus-steinitz-london-1883` | `kt:bishop-pair` |
 | `kt:english-attack` | `kt:najdorf-variation` |
 | `kt:english-opening` | `kt:howard-staunton` |
+| `kt:epam` | `kt:chrest` |
 | `kt:european-chess-club-cup` | `kt:european-chess-union` |
 | `kt:european-individual-chess-championship` | `kt:european-chess-union` |
 | `kt:european-team-chess-championship` | `kt:european-chess-union` |
@@ -190,6 +190,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:passive-rook-defence` | `kt:philidor-position` |
 | `kt:paul-keres` | `kt:correspondence-chess` |
 | `kt:pawn-storm` | `kt:king-safety` |
+| `kt:peter-lane` | `kt:chrest` |
 | `kt:petroffs-defence` | `kt:open-games` |
 | `kt:petrosian-versus-spassky-moscow-1966-game-10` | `kt:tigran-petrosian` |
 | `kt:piece-values` | `kt:material-advantage` |

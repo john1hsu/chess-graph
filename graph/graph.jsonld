@@ -23294,6 +23294,94 @@
       ]
     },
     {
+      "@id": "kt:chrest",
+      "@type": "kto:CognitiveConcept",
+      "skos:prefLabel": "CHREST",
+      "skos:definition": "A computational cognitive architecture, built mainly by Fernand Gobet and Peter Lane, that learns chess patterns as chunks in a discrimination network and simulates how players of different strength look at, recognise and remember positions.",
+      "kto:domain": "training-and-improvement",
+      "dcterms:created": "2026-11-24",
+      "kto:verified": "2026-11-24",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Attention Mechanisms in the CHREST Cognitive Architecture",
+          "dcterms:publisher": "Peter C. R. Lane, Fernand Gobet and Richard Ll. Smith, University of Hertfordshire Research Archive",
+          "schema:url": "https://uhra.herts.ac.uk/id/eprint/197/1/903377.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Checking Chess Checks with Chunks: A Model of Simple Check Detection (Proceedings of the Ninth International Conference on Cognitive Modeling, 2009)",
+          "dcterms:publisher": "Richard Ll. Smith, Fernand Gobet and Peter C. R. Lane, Brunel University Research Archive",
+          "schema:url": "https://bura.brunel.ac.uk/bitstream/2438/3503/1/Checking%20chess%20checks%20with%20chunks%3a%20A%20model%20of%20simple%20check%20detection.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Chunks, Schemata, and Retrieval Structures: Past and Current Computational Models (Frontiers in Psychology 6:1785, 2015)",
+          "dcterms:publisher": "Fernand Gobet, Peter C. R. Lane and Martyn Lloyd-Kelly, via PubMed Central",
+          "schema:url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4657374",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Mental Imagery and Chunks: Empirical and Computational Findings",
+          "dcterms:publisher": "Andrew J. Waters and Fernand Gobet, Brunel University Research Archive",
+          "schema:url": "https://bura.brunel.ac.uk/bitstream/2438/1618/1/Mental%20imagery%20and%20chunks.pdf",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/training-and-improvement/chrest.md",
+      "skos:altLabel": [
+        "Chunk Hierarchy and REtrieval STructures",
+        "Chunk Hierarchy REtrieval STructures",
+        "CHREST cognitive architecture",
+        "CHREST model"
+      ],
+      "kto:fen": "6k1/5ppp/8/8/8/8/5PPP/5RK1 w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:cognitive-psychology-of-chess"
+        },
+        {
+          "@id": "kt:chess-expertise"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:template-theory"
+        },
+        {
+          "@id": "kt:chunking-theory"
+        },
+        {
+          "@id": "kt:visualization"
+        },
+        {
+          "@id": "kt:adriaan-de-groot"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:fernand-gobet"
+        },
+        {
+          "@id": "kt:peter-lane"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:epam"
+        },
+        {
+          "@id": "kt:chunking-theory"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:long-term-working-memory"
+        }
+      ]
+    },
+    {
       "@id": "kt:chunking-theory",
       "@type": "kto:CognitiveConcept",
       "skos:prefLabel": "Chunking theory",
