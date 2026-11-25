@@ -5428,6 +5428,32 @@
     ]
   },
   {
+    "id": "kt:reti-endgame-study",
+    "title": "Réti endgame study",
+    "aliases": [
+      "Reti endgame study",
+      "Réti study",
+      "Reti study",
+      "Réti's study",
+      "Réti 1921 study",
+      "Reti's king and pawn study"
+    ],
+    "type": "Game",
+    "domain": "variants-and-compositions",
+    "file": "articles/variants-and-compositions/reti-endgame-study.md",
+    "created": "2026-11-25",
+    "verified": "2026-11-25",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://www.jsbeasley.co.uk/ochess/reti_all.pdf",
+      "https://chesshistory.com/winter/extra/reti1.html",
+      "https://www.britannica.com/biography/Richard-Reti",
+      "https://www.chessprogramming.org/R%C3%A9ti_Endgame_Study",
+      "https://en.chessbase.com/post/study-of-the-month-2019-5"
+    ]
+  },
+  {
     "id": "kt:retrograde-analysis",
     "title": "Retrograde analysis",
     "aliases": [

@@ -6094,6 +6094,35 @@
 <https://github.com/john1hsu/chess-graph/id/removing-the-guard> <https://github.com/john1hsu/chess-graph/ontology#hasPart> <https://github.com/john1hsu/chess-graph/id/overloading> .
 <https://github.com/john1hsu/chess-graph/id/removing-the-guard> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/removing-the-guard> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-16" .
+<https://github.com/john1hsu/chess-graph/id/reti-endgame-study> <http://purl.org/dc/terms/created> "2026-11-25" .
+<https://github.com/john1hsu/chess-graph/id/reti-endgame-study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Game> .
+<https://github.com/john1hsu/chess-graph/id/reti-endgame-study> <http://www.w3.org/2000/01/rdf-schema#label> "Réti endgame study" .
+<https://github.com/john1hsu/chess-graph/id/reti-endgame-study> <http://www.w3.org/2004/02/skos/core#altLabel> "Reti endgame study" .
+<https://github.com/john1hsu/chess-graph/id/reti-endgame-study> <http://www.w3.org/2004/02/skos/core#altLabel> "Reti study" .
+<https://github.com/john1hsu/chess-graph/id/reti-endgame-study> <http://www.w3.org/2004/02/skos/core#altLabel> "Reti's king and pawn study" .
+<https://github.com/john1hsu/chess-graph/id/reti-endgame-study> <http://www.w3.org/2004/02/skos/core#altLabel> "Réti 1921 study" .
+<https://github.com/john1hsu/chess-graph/id/reti-endgame-study> <http://www.w3.org/2004/02/skos/core#altLabel> "Réti study" .
+<https://github.com/john1hsu/chess-graph/id/reti-endgame-study> <http://www.w3.org/2004/02/skos/core#altLabel> "Réti's study" .
+<https://github.com/john1hsu/chess-graph/id/reti-endgame-study> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/endgame-study> .
+<https://github.com/john1hsu/chess-graph/id/reti-endgame-study> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/king-and-pawn-endgames> .
+<https://github.com/john1hsu/chess-graph/id/reti-endgame-study> <http://www.w3.org/2004/02/skos/core#definition> "Richard Réti's famous 1921 composition (White Kh8, Pc6; Black Ka6, Ph5; White to play and draw), in which a king that seems hopelessly outside the square of Black's pawn saves the game by walking a diagonal that threatens two things at once: catching the h-pawn and supporting its own c-pawn." .
+<https://github.com/john1hsu/chess-graph/id/reti-endgame-study> <http://www.w3.org/2004/02/skos/core#prefLabel> "Réti endgame study" .
+<https://github.com/john1hsu/chess-graph/id/reti-endgame-study> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/passed-pawn> .
+<https://github.com/john1hsu/chess-graph/id/reti-endgame-study> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/pawn-promotion> .
+<https://github.com/john1hsu/chess-graph/id/reti-endgame-study> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/rule-of-the-square> .
+<https://github.com/john1hsu/chess-graph/id/reti-endgame-study> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/saavedra-position> .
+<https://github.com/john1hsu/chess-graph/id/reti-endgame-study> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/reti-endgame-study/s1> .
+<https://github.com/john1hsu/chess-graph/id/reti-endgame-study> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/reti-endgame-study/s2> .
+<https://github.com/john1hsu/chess-graph/id/reti-endgame-study> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/reti-endgame-study/s3> .
+<https://github.com/john1hsu/chess-graph/id/reti-endgame-study> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/reti-endgame-study/s4> .
+<https://github.com/john1hsu/chess-graph/id/reti-endgame-study> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/reti-endgame-study/s5> .
+<https://github.com/john1hsu/chess-graph/id/reti-endgame-study> <https://github.com/john1hsu/chess-graph/ontology#authoredBy> <https://github.com/john1hsu/chess-graph/id/richard-reti> .
+<https://github.com/john1hsu/chess-graph/id/reti-endgame-study> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/tempo> .
+<https://github.com/john1hsu/chess-graph/id/reti-endgame-study> <https://github.com/john1hsu/chess-graph/ontology#domain> "variants-and-compositions" .
+<https://github.com/john1hsu/chess-graph/id/reti-endgame-study> <https://github.com/john1hsu/chess-graph/ontology#fen> "7K/8/k1P5/7p/8/8/8/8 w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/reti-endgame-study> <https://github.com/john1hsu/chess-graph/ontology#namedAfter> <https://github.com/john1hsu/chess-graph/id/richard-reti> .
+<https://github.com/john1hsu/chess-graph/id/reti-endgame-study> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/reti-endgame-study> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-25" .
 <https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#ProblemGenre> .
 <https://github.com/john1hsu/chess-graph/id/retrograde-analysis> <http://www.w3.org/2000/01/rdf-schema#label> "Retrograde analysis" .
@@ -13149,6 +13178,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/removing-the-guard/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/removing-the-guard/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/removing-the-guard/s5> <https://schema.org/url> "https://chesskid.com/learn/articles/many-ways-to-remove-the-guard" .
+<https://github.com/john1hsu/chess-graph/id/source/reti-endgame-study/s1> <http://purl.org/dc/terms/publisher> "John Beasley (jsbeasley.co.uk)" .
+<https://github.com/john1hsu/chess-graph/id/source/reti-endgame-study/s1> <http://purl.org/dc/terms/title> "The Chess Endgame Studies of Richard Réti" .
+<https://github.com/john1hsu/chess-graph/id/source/reti-endgame-study/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/reti-endgame-study/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/reti-endgame-study/s1> <https://schema.org/url> "https://www.jsbeasley.co.uk/ochess/reti_all.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/reti-endgame-study/s2> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/reti-endgame-study/s2> <http://purl.org/dc/terms/title> "Richard Réti" .
+<https://github.com/john1hsu/chess-graph/id/source/reti-endgame-study/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/reti-endgame-study/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/reti-endgame-study/s2> <https://schema.org/url> "https://chesshistory.com/winter/extra/reti1.html" .
+<https://github.com/john1hsu/chess-graph/id/source/reti-endgame-study/s3> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/chess-graph/id/source/reti-endgame-study/s3> <http://purl.org/dc/terms/title> "Richard Réti" .
+<https://github.com/john1hsu/chess-graph/id/source/reti-endgame-study/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/reti-endgame-study/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/reti-endgame-study/s3> <https://schema.org/url> "https://www.britannica.com/biography/Richard-Reti" .
+<https://github.com/john1hsu/chess-graph/id/source/reti-endgame-study/s4> <http://purl.org/dc/terms/publisher> "Chess Programming Wiki" .
+<https://github.com/john1hsu/chess-graph/id/source/reti-endgame-study/s4> <http://purl.org/dc/terms/title> "Réti Endgame Study" .
+<https://github.com/john1hsu/chess-graph/id/source/reti-endgame-study/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/reti-endgame-study/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "community" .
+<https://github.com/john1hsu/chess-graph/id/source/reti-endgame-study/s4> <https://schema.org/url> "https://www.chessprogramming.org/R%C3%A9ti_Endgame_Study" .
+<https://github.com/john1hsu/chess-graph/id/source/reti-endgame-study/s5> <http://purl.org/dc/terms/publisher> "Siegfried Hornecker, ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/reti-endgame-study/s5> <http://purl.org/dc/terms/title> "Ready for Reti (Study of the Month, May 2019)" .
+<https://github.com/john1hsu/chess-graph/id/source/reti-endgame-study/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/reti-endgame-study/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/reti-endgame-study/s5> <https://schema.org/url> "https://en.chessbase.com/post/study-of-the-month-2019-5" .
 <https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s1> <http://purl.org/dc/terms/publisher> "World Federation for Chess Composition (WFCC)" .
 <https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s1> <http://purl.org/dc/terms/title> "Codex of Chess Compositions (version Vilnius 2019)" .
 <https://github.com/john1hsu/chess-graph/id/source/retrograde-analysis/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

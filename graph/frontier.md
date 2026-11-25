@@ -9,6 +9,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:joseph-henry-blackburne` | `kt:london-1883`, `kt:zukertort-versus-blackburne-london-1883`, `kt:johannes-zukertort` |
 | `kt:kings-indian-defence` | `kt:soviet-chess-school`, `kt:pawn-chain`, `kt:david-bronstein` |
 | `kt:numeric-annotation-glyphs` | `kt:chess-notation`, `kt:portable-game-notation`, `kt:annotating-your-games` |
+| `kt:richard-reti` | `kt:hypermodernism`, `kt:reti-endgame-study`, `kt:reti-endgame-study` |
 | `kt:sinquefield-cup` | `kt:grand-chess-tour`, `kt:grand-chess-tour`, `kt:saint-louis-chess-club` |
 | `kt:albert-zobrist` | `kt:zobrist-hashing`, `kt:zobrist-hashing` |
 | `kt:alexander-kotov` | `kt:calculation`, `kt:candidate-moves` |
@@ -208,12 +209,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:reflexmate` | `kt:selfmate` |
 | `kt:reinforcement-learning` | `kt:alphazero` |
 | `kt:remi-coulom` | `kt:monte-carlo-tree-search` |
-| `kt:reti-endgame-study` | `kt:rule-of-the-square` |
 | `kt:reti-opening` | `kt:hypermodernism` |
 | `kt:reti-versus-bogoljubow-new-york-1924` | `kt:hypermodernism` |
 | `kt:reti-versus-tartakower-vienna-1910` | `kt:double-check` |
 | `kt:retractor` | `kt:retrograde-analysis` |
-| `kt:richard-reti` | `kt:hypermodernism` |
 | `kt:robert-hyatt` | `kt:bitboards` |
 | `kt:rubinstein-variation` | `kt:nimzo-indian-defence` |
 | `kt:rudolf-huber` | `kt:universal-chess-interface` |
