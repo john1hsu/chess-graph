@@ -3792,6 +3792,30 @@
     ]
   },
   {
+    "id": "kt:ken-thompson",
+    "title": "Ken Thompson",
+    "aliases": [
+      "Kenneth Thompson",
+      "Kenneth Lane Thompson",
+      "Ken Thompson (computer scientist)"
+    ],
+    "type": "Person",
+    "domain": "computer-chess",
+    "file": "articles/computer-chess/ken-thompson.md",
+    "created": "2026-11-26",
+    "verified": "2026-11-26",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://www.computerhistory.org/chess/stl-43305190f1a84/",
+      "https://spectrum.ieee.org/in-1983-this-bell-labs-computer-was-the-first-machine-to-become-a-chess-master",
+      "https://amturing.acm.org/award_recipient/thompson_4588371",
+      "https://www.britannica.com/biography/Kenneth-Lane-Thompson",
+      "https://bell-labs.com/usr/dmr/www/ken-games.html",
+      "https://www.computerhistory.org/chess/brute-force-vs-knowledge/"
+    ]
+  },
+  {
     "id": "kt:key-squares",
     "title": "Key squares",
     "aliases": [

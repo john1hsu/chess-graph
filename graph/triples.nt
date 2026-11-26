@@ -4264,6 +4264,31 @@
 <https://github.com/john1hsu/chess-graph/id/ju-wenjun> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/womens-world-chess-championship> .
 <https://github.com/john1hsu/chess-graph/id/ju-wenjun> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/ju-wenjun> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-18" .
+<https://github.com/john1hsu/chess-graph/id/ken-thompson> <http://purl.org/dc/terms/created> "2026-11-26" .
+<https://github.com/john1hsu/chess-graph/id/ken-thompson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Person> .
+<https://github.com/john1hsu/chess-graph/id/ken-thompson> <http://www.w3.org/2000/01/rdf-schema#label> "Ken Thompson" .
+<https://github.com/john1hsu/chess-graph/id/ken-thompson> <http://www.w3.org/2004/02/skos/core#altLabel> "Ken Thompson (computer scientist)" .
+<https://github.com/john1hsu/chess-graph/id/ken-thompson> <http://www.w3.org/2004/02/skos/core#altLabel> "Kenneth Lane Thompson" .
+<https://github.com/john1hsu/chess-graph/id/ken-thompson> <http://www.w3.org/2004/02/skos/core#altLabel> "Kenneth Thompson" .
+<https://github.com/john1hsu/chess-graph/id/ken-thompson> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/computer-chess> .
+<https://github.com/john1hsu/chess-graph/id/ken-thompson> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/history-of-computer-chess> .
+<https://github.com/john1hsu/chess-graph/id/ken-thompson> <http://www.w3.org/2004/02/skos/core#definition> "American computer scientist (born 1943), co-creator of Unix, who with Joe Condon built the special-purpose chess machine Belle at Bell Labs, the 1980 world computer chess champion and the first computer to reach a master rating, and who later pioneered endgame databases." .
+<https://github.com/john1hsu/chess-graph/id/ken-thompson> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ken Thompson" .
+<https://github.com/john1hsu/chess-graph/id/ken-thompson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/belle> .
+<https://github.com/john1hsu/chess-graph/id/ken-thompson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/endgame-tablebases> .
+<https://github.com/john1hsu/chess-graph/id/ken-thompson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/queen-versus-rook> .
+<https://github.com/john1hsu/chess-graph/id/ken-thompson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/retrograde-analysis> .
+<https://github.com/john1hsu/chess-graph/id/ken-thompson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/transposition-table> .
+<https://github.com/john1hsu/chess-graph/id/ken-thompson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/world-computer-chess-championship> .
+<https://github.com/john1hsu/chess-graph/id/ken-thompson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/ken-thompson/s1> .
+<https://github.com/john1hsu/chess-graph/id/ken-thompson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/ken-thompson/s2> .
+<https://github.com/john1hsu/chess-graph/id/ken-thompson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/ken-thompson/s3> .
+<https://github.com/john1hsu/chess-graph/id/ken-thompson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/ken-thompson/s4> .
+<https://github.com/john1hsu/chess-graph/id/ken-thompson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/ken-thompson/s5> .
+<https://github.com/john1hsu/chess-graph/id/ken-thompson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/ken-thompson/s6> .
+<https://github.com/john1hsu/chess-graph/id/ken-thompson> <https://github.com/john1hsu/chess-graph/ontology#domain> "computer-chess" .
+<https://github.com/john1hsu/chess-graph/id/ken-thompson> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/ken-thompson> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-26" .
 <https://github.com/john1hsu/chess-graph/id/key-squares> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/chess-graph/id/key-squares> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Concept> .
 <https://github.com/john1hsu/chess-graph/id/key-squares> <http://www.w3.org/2000/01/rdf-schema#label> "Key squares" .
@@ -11253,6 +11278,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s9> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "primary-record" .
 <https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s9> <https://schema.org/url> "https://www.fide.com/magnus-carlsen-and-ju-wenjun-win-norway-chess-2024/" .
+<https://github.com/john1hsu/chess-graph/id/source/ken-thompson/s1> <http://purl.org/dc/terms/publisher> "Computer History Museum (Mastering the Game exhibit)" .
+<https://github.com/john1hsu/chess-graph/id/source/ken-thompson/s1> <http://purl.org/dc/terms/title> "Belle chess-playing computer" .
+<https://github.com/john1hsu/chess-graph/id/source/ken-thompson/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/ken-thompson/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/ken-thompson/s1> <https://schema.org/url> "https://www.computerhistory.org/chess/stl-43305190f1a84/" .
+<https://github.com/john1hsu/chess-graph/id/source/ken-thompson/s2> <http://purl.org/dc/terms/publisher> "Allison Marsh, IEEE Spectrum (Past Forward), 26 April 2019" .
+<https://github.com/john1hsu/chess-graph/id/source/ken-thompson/s2> <http://purl.org/dc/terms/title> "In 1983, This Bell Labs Computer Was the First Machine to Become a Chess Master" .
+<https://github.com/john1hsu/chess-graph/id/source/ken-thompson/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/ken-thompson/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/ken-thompson/s2> <https://schema.org/url> "https://spectrum.ieee.org/in-1983-this-bell-labs-computer-was-the-first-machine-to-become-a-chess-master" .
+<https://github.com/john1hsu/chess-graph/id/source/ken-thompson/s3> <http://purl.org/dc/terms/publisher> "Association for Computing Machinery (profile by Tom van Vleck)" .
+<https://github.com/john1hsu/chess-graph/id/source/ken-thompson/s3> <http://purl.org/dc/terms/title> "Kenneth Lane Thompson, A.M. Turing Award laureate profile" .
+<https://github.com/john1hsu/chess-graph/id/source/ken-thompson/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/ken-thompson/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/ken-thompson/s3> <https://schema.org/url> "https://amturing.acm.org/award_recipient/thompson_4588371" .
+<https://github.com/john1hsu/chess-graph/id/source/ken-thompson/s4> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica (William L. Hosch)" .
+<https://github.com/john1hsu/chess-graph/id/source/ken-thompson/s4> <http://purl.org/dc/terms/title> "Ken Thompson" .
+<https://github.com/john1hsu/chess-graph/id/source/ken-thompson/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/ken-thompson/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/ken-thompson/s4> <https://schema.org/url> "https://www.britannica.com/biography/Kenneth-Lane-Thompson" .
+<https://github.com/john1hsu/chess-graph/id/source/ken-thompson/s5> <http://purl.org/dc/terms/publisher> "Dennis M. Ritchie, hosted by Bell Labs" .
+<https://github.com/john1hsu/chess-graph/id/source/ken-thompson/s5> <http://purl.org/dc/terms/title> "Ken, Unix, and Games (ICGA Journal 24, no. 2, June 2001)" .
+<https://github.com/john1hsu/chess-graph/id/source/ken-thompson/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/ken-thompson/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/ken-thompson/s5> <https://schema.org/url> "https://bell-labs.com/usr/dmr/www/ken-games.html" .
+<https://github.com/john1hsu/chess-graph/id/source/ken-thompson/s6> <http://purl.org/dc/terms/publisher> "Computer History Museum (Mastering the Game exhibit)" .
+<https://github.com/john1hsu/chess-graph/id/source/ken-thompson/s6> <http://purl.org/dc/terms/title> "Brute Force vs Knowledge" .
+<https://github.com/john1hsu/chess-graph/id/source/ken-thompson/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/ken-thompson/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "archive" .
+<https://github.com/john1hsu/chess-graph/id/source/ken-thompson/s6> <https://schema.org/url> "https://www.computerhistory.org/chess/brute-force-vs-knowledge/" .
 <https://github.com/john1hsu/chess-graph/id/source/key-squares/s1> <http://purl.org/dc/terms/publisher> "José Raúl Capablanca, Harcourt, Brace and Howe; Project Gutenberg" .
 <https://github.com/john1hsu/chess-graph/id/source/key-squares/s1> <http://purl.org/dc/terms/title> "Chess Fundamentals (1921), Project Gutenberg eBook #33870" .
 <https://github.com/john1hsu/chess-graph/id/source/key-squares/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

@@ -919,6 +919,89 @@
       ]
     },
     {
+      "@id": "kt:ken-thompson",
+      "@type": "kto:Person",
+      "skos:prefLabel": "Ken Thompson",
+      "skos:definition": "American computer scientist (born 1943), co-creator of Unix, who with Joe Condon built the special-purpose chess machine Belle at Bell Labs, the 1980 world computer chess champion and the first computer to reach a master rating, and who later pioneered endgame databases.",
+      "kto:domain": "computer-chess",
+      "dcterms:created": "2026-11-26",
+      "kto:verified": "2026-11-26",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Belle chess-playing computer",
+          "dcterms:publisher": "Computer History Museum (Mastering the Game exhibit)",
+          "schema:url": "https://www.computerhistory.org/chess/stl-43305190f1a84/",
+          "kto:sourceType": "archive"
+        },
+        {
+          "dcterms:title": "In 1983, This Bell Labs Computer Was the First Machine to Become a Chess Master",
+          "dcterms:publisher": "Allison Marsh, IEEE Spectrum (Past Forward), 26 April 2019",
+          "schema:url": "https://spectrum.ieee.org/in-1983-this-bell-labs-computer-was-the-first-machine-to-become-a-chess-master",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Kenneth Lane Thompson, A.M. Turing Award laureate profile",
+          "dcterms:publisher": "Association for Computing Machinery (profile by Tom van Vleck)",
+          "schema:url": "https://amturing.acm.org/award_recipient/thompson_4588371",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Ken Thompson",
+          "dcterms:publisher": "Encyclopaedia Britannica (William L. Hosch)",
+          "schema:url": "https://www.britannica.com/biography/Kenneth-Lane-Thompson",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "Ken, Unix, and Games (ICGA Journal 24, no. 2, June 2001)",
+          "dcterms:publisher": "Dennis M. Ritchie, hosted by Bell Labs",
+          "schema:url": "https://bell-labs.com/usr/dmr/www/ken-games.html",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Brute Force vs Knowledge",
+          "dcterms:publisher": "Computer History Museum (Mastering the Game exhibit)",
+          "schema:url": "https://www.computerhistory.org/chess/brute-force-vs-knowledge/",
+          "kto:sourceType": "archive"
+        }
+      ],
+      "kto:file": "articles/computer-chess/ken-thompson.md",
+      "skos:altLabel": [
+        "Kenneth Thompson",
+        "Kenneth Lane Thompson",
+        "Ken Thompson (computer scientist)"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:history-of-computer-chess"
+        },
+        {
+          "@id": "kt:computer-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:belle"
+        },
+        {
+          "@id": "kt:endgame-tablebases"
+        },
+        {
+          "@id": "kt:retrograde-analysis"
+        },
+        {
+          "@id": "kt:transposition-table"
+        },
+        {
+          "@id": "kt:queen-versus-rook"
+        },
+        {
+          "@id": "kt:world-computer-chess-championship"
+        }
+      ]
+    },
+    {
       "@id": "kt:leela-chess-zero",
       "@type": "kto:Engine",
       "skos:prefLabel": "Leela Chess Zero",
