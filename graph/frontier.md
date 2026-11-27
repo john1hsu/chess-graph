@@ -21,6 +21,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fabiano-caruana` | `kt:grand-chess-tour`, `kt:norway-chess` |
 | `kt:hou-yifan` | `kt:womens-world-chess-championship`, `kt:ju-wenjun` |
 | `kt:karpov-versus-unzicker-nice-1974` | `kt:prophylaxis`, `kt:anatoly-karpov` |
+| `kt:knight-versus-pawn` | `kt:queen-versus-pawn`, `kt:two-knights-versus-pawn` |
 | `kt:lionel-kieseritzky` | `kt:immortal-game`, `kt:london-1851` |
 | `kt:luis-ramirez-de-lucena` | `kt:lucena-position`, `kt:smothered-mate` |
 | `kt:marmaduke-wyvill` | `kt:london-1851`, `kt:london-1883` |
@@ -40,6 +41,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:world-chess-hall-of-fame` | `kt:saint-louis-chess-club`, `kt:sam-loyd` |
 | `kt:abstract-strategy-game` | `kt:chess` |
 | `kt:adolf-albin` | `kt:albin-countergambit` |
+| `kt:alexey-troitzky` | `kt:two-knights-versus-pawn` |
 | `kt:anand-versus-gelfand-moscow-2012-game-8` | `kt:domination` |
 | `kt:antonin-novotny` | `kt:novotny-theme` |
 | `kt:arpad-elo` | `kt:elo-rating-system` |
@@ -144,7 +146,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:kasparov-versus-topalov-wijk-aan-zee-1999` | `kt:garry-kasparov` |
 | `kt:killer-heuristic` | `kt:move-ordering` |
 | `kt:king-activity` | `kt:king-safety` |
-| `kt:knight-versus-pawn` | `kt:queen-versus-pawn` |
 | `kt:knockout-tournament` | `kt:round-robin` |
 | `kt:kramnik-versus-anand-bonn-2008-game-3` | `kt:viswanathan-anand` |
 | `kt:kramnik-versus-kasparov-london-2000-game-2` | `kt:vladimir-kramnik` |

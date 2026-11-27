@@ -4614,6 +4614,103 @@
       ]
     },
     {
+      "@id": "kt:two-knights-versus-pawn",
+      "@type": "kto:EndgameType",
+      "skos:prefLabel": "Two knights versus pawn",
+      "skos:definition": "The endgame of king and two knights against king and pawn. Two knights alone cannot force mate, but the defender's pawn removes the stalemate defence, so the knights usually win when one knight can blockade the pawn on or behind the Troitzky line.",
+      "kto:domain": "endgames",
+      "dcterms:created": "2026-11-27",
+      "kto:verified": "2026-11-27",
+      "kto:status": "current",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Chess Fundamentals (1921), Project Gutenberg eBook #33870",
+          "dcterms:publisher": "José Raúl Capablanca; Project Gutenberg",
+          "schema:url": "https://gutenberg.org/cache/epub/33870/pg33870-images.html",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "The Saving 75-move rule",
+          "dcterms:publisher": "IA Amir Erfan Hashemi, FIDE Arbiters' Commission (April 2023)",
+          "schema:url": "https://arbiters.fide.com/wp-content/uploads/2023/06/The-Saving-75.pdf",
+          "kto:sourceType": "governing-body"
+        },
+        {
+          "dcterms:title": "Chess Endgame Records (v7, 2014-08-14)",
+          "dcterms:publisher": "Guy Haworth, University of Reading (dataset, first published December 2013)",
+          "schema:url": "https://reading-9.eprints-hosting.org/34268/2/chessendrecann.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Two knights and a pawn too many",
+          "dcterms:publisher": "Karsten Müller, ChessBase News (2019-05-21)",
+          "schema:url": "https://en.chessbase.com/newsroom/post/endgame-blog-karsten-mueller-1009e?page=0",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Troitzky: In Memoriam",
+          "dcterms:publisher": "Nagesh Havanur, ChessBase News (2016-03-21)",
+          "schema:url": "https://en.chessbase.com/post/troitzky-in-memoriam",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "The Troitzky Line",
+          "dcterms:publisher": "Sid Pickard, Chess Advocate vol. 7 no. 3, pp. 45-58; hosted by chessjournalism.org",
+          "schema:url": "https://chessjournalism.org/wp-content/uploads/2023/06/The-Troitzky-Line-by-Sid-Pickard-Chess-Advocate-Volume-7-Number-3-.pages-45-to-58.pdf",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/endgames/two-knights-versus-pawn.md",
+      "skos:altLabel": [
+        "Two knights endgame",
+        "Two knights against pawn",
+        "Two knights vs pawn",
+        "Two knights vs. pawn",
+        "Troitzky line",
+        "Troitsky line",
+        "KNNKP"
+      ],
+      "kto:fen": "8/8/8/5K2/7k/7p/7N/7N w - - 0 1",
+      "skos:broader": [
+        {
+          "@id": "kt:chess-endgame"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:stalemate"
+        },
+        {
+          "@id": "kt:endgame-tablebases"
+        },
+        {
+          "@id": "kt:blockade"
+        },
+        {
+          "@id": "kt:endgame-study"
+        },
+        {
+          "@id": "kt:knight-versus-pawn"
+        }
+      ],
+      "kto:developedBy": [
+        {
+          "@id": "kt:alexey-troitzky"
+        }
+      ],
+      "kto:governedBy": [
+        {
+          "@id": "kt:fifty-move-rule"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:blockade"
+        }
+      ]
+    },
+    {
       "@id": "kt:vancura-position",
       "@type": "kto:EndgameType",
       "skos:prefLabel": "Vancura position",

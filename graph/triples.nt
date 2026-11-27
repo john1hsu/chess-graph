@@ -14648,6 +14648,36 @@
 <https://github.com/john1hsu/chess-graph/id/source/triangulation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/triangulation/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
 <https://github.com/john1hsu/chess-graph/id/source/triangulation/s4> <https://schema.org/url> "https://gutenberg.org/files/5614/5614-h/5614-h.htm" .
+<https://github.com/john1hsu/chess-graph/id/source/two-knights-versus-pawn/s1> <http://purl.org/dc/terms/publisher> "José Raúl Capablanca; Project Gutenberg" .
+<https://github.com/john1hsu/chess-graph/id/source/two-knights-versus-pawn/s1> <http://purl.org/dc/terms/title> "Chess Fundamentals (1921), Project Gutenberg eBook #33870" .
+<https://github.com/john1hsu/chess-graph/id/source/two-knights-versus-pawn/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/two-knights-versus-pawn/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/two-knights-versus-pawn/s1> <https://schema.org/url> "https://gutenberg.org/cache/epub/33870/pg33870-images.html" .
+<https://github.com/john1hsu/chess-graph/id/source/two-knights-versus-pawn/s2> <http://purl.org/dc/terms/publisher> "IA Amir Erfan Hashemi, FIDE Arbiters' Commission (April 2023)" .
+<https://github.com/john1hsu/chess-graph/id/source/two-knights-versus-pawn/s2> <http://purl.org/dc/terms/title> "The Saving 75-move rule" .
+<https://github.com/john1hsu/chess-graph/id/source/two-knights-versus-pawn/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/two-knights-versus-pawn/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "governing-body" .
+<https://github.com/john1hsu/chess-graph/id/source/two-knights-versus-pawn/s2> <https://schema.org/url> "https://arbiters.fide.com/wp-content/uploads/2023/06/The-Saving-75.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/two-knights-versus-pawn/s3> <http://purl.org/dc/terms/publisher> "Guy Haworth, University of Reading (dataset, first published December 2013)" .
+<https://github.com/john1hsu/chess-graph/id/source/two-knights-versus-pawn/s3> <http://purl.org/dc/terms/title> "Chess Endgame Records (v7, 2014-08-14)" .
+<https://github.com/john1hsu/chess-graph/id/source/two-knights-versus-pawn/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/two-knights-versus-pawn/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/chess-graph/id/source/two-knights-versus-pawn/s3> <https://schema.org/url> "https://reading-9.eprints-hosting.org/34268/2/chessendrecann.pdf" .
+<https://github.com/john1hsu/chess-graph/id/source/two-knights-versus-pawn/s4> <http://purl.org/dc/terms/publisher> "Karsten Müller, ChessBase News (2019-05-21)" .
+<https://github.com/john1hsu/chess-graph/id/source/two-knights-versus-pawn/s4> <http://purl.org/dc/terms/title> "Two knights and a pawn too many" .
+<https://github.com/john1hsu/chess-graph/id/source/two-knights-versus-pawn/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/two-knights-versus-pawn/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/two-knights-versus-pawn/s4> <https://schema.org/url> "https://en.chessbase.com/newsroom/post/endgame-blog-karsten-mueller-1009e?page=0" .
+<https://github.com/john1hsu/chess-graph/id/source/two-knights-versus-pawn/s5> <http://purl.org/dc/terms/publisher> "Nagesh Havanur, ChessBase News (2016-03-21)" .
+<https://github.com/john1hsu/chess-graph/id/source/two-knights-versus-pawn/s5> <http://purl.org/dc/terms/title> "Troitzky: In Memoriam" .
+<https://github.com/john1hsu/chess-graph/id/source/two-knights-versus-pawn/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/two-knights-versus-pawn/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/two-knights-versus-pawn/s5> <https://schema.org/url> "https://en.chessbase.com/post/troitzky-in-memoriam" .
+<https://github.com/john1hsu/chess-graph/id/source/two-knights-versus-pawn/s6> <http://purl.org/dc/terms/publisher> "Sid Pickard, Chess Advocate vol. 7 no. 3, pp. 45-58; hosted by chessjournalism.org" .
+<https://github.com/john1hsu/chess-graph/id/source/two-knights-versus-pawn/s6> <http://purl.org/dc/terms/title> "The Troitzky Line" .
+<https://github.com/john1hsu/chess-graph/id/source/two-knights-versus-pawn/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/two-knights-versus-pawn/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/two-knights-versus-pawn/s6> <https://schema.org/url> "https://chessjournalism.org/wp-content/uploads/2023/06/The-Troitzky-Line-by-Sid-Pickard-Chess-Advocate-Volume-7-Number-3-.pages-45-to-58.pdf" .
 <https://github.com/john1hsu/chess-graph/id/source/underpromotion/s1> <http://purl.org/dc/terms/publisher> "FIDE Rules Commission" .
 <https://github.com/john1hsu/chess-graph/id/source/underpromotion/s1> <http://purl.org/dc/terms/title> "FIDE Laws of Chess (applied from 1 January 2023), full text: Articles 3.7.3.3–3.7.3.5, 4.4.4, 4.6 and 7.5.2" .
 <https://github.com/john1hsu/chess-graph/id/source/underpromotion/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
@@ -16087,6 +16117,37 @@
 <https://github.com/john1hsu/chess-graph/id/triangulation> <https://github.com/john1hsu/chess-graph/ontology#partOf> <https://github.com/john1hsu/chess-graph/id/corresponding-squares> .
 <https://github.com/john1hsu/chess-graph/id/triangulation> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
 <https://github.com/john1hsu/chess-graph/id/triangulation> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-11" .
+<https://github.com/john1hsu/chess-graph/id/two-knights-versus-pawn> <http://purl.org/dc/terms/created> "2026-11-27" .
+<https://github.com/john1hsu/chess-graph/id/two-knights-versus-pawn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#EndgameType> .
+<https://github.com/john1hsu/chess-graph/id/two-knights-versus-pawn> <http://www.w3.org/2000/01/rdf-schema#label> "Two knights versus pawn" .
+<https://github.com/john1hsu/chess-graph/id/two-knights-versus-pawn> <http://www.w3.org/2004/02/skos/core#altLabel> "KNNKP" .
+<https://github.com/john1hsu/chess-graph/id/two-knights-versus-pawn> <http://www.w3.org/2004/02/skos/core#altLabel> "Troitsky line" .
+<https://github.com/john1hsu/chess-graph/id/two-knights-versus-pawn> <http://www.w3.org/2004/02/skos/core#altLabel> "Troitzky line" .
+<https://github.com/john1hsu/chess-graph/id/two-knights-versus-pawn> <http://www.w3.org/2004/02/skos/core#altLabel> "Two knights against pawn" .
+<https://github.com/john1hsu/chess-graph/id/two-knights-versus-pawn> <http://www.w3.org/2004/02/skos/core#altLabel> "Two knights endgame" .
+<https://github.com/john1hsu/chess-graph/id/two-knights-versus-pawn> <http://www.w3.org/2004/02/skos/core#altLabel> "Two knights vs pawn" .
+<https://github.com/john1hsu/chess-graph/id/two-knights-versus-pawn> <http://www.w3.org/2004/02/skos/core#altLabel> "Two knights vs. pawn" .
+<https://github.com/john1hsu/chess-graph/id/two-knights-versus-pawn> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/chess-endgame> .
+<https://github.com/john1hsu/chess-graph/id/two-knights-versus-pawn> <http://www.w3.org/2004/02/skos/core#definition> "The endgame of king and two knights against king and pawn. Two knights alone cannot force mate, but the defender's pawn removes the stalemate defence, so the knights usually win when one knight can blockade the pawn on or behind the Troitzky line." .
+<https://github.com/john1hsu/chess-graph/id/two-knights-versus-pawn> <http://www.w3.org/2004/02/skos/core#prefLabel> "Two knights versus pawn" .
+<https://github.com/john1hsu/chess-graph/id/two-knights-versus-pawn> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/blockade> .
+<https://github.com/john1hsu/chess-graph/id/two-knights-versus-pawn> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/endgame-study> .
+<https://github.com/john1hsu/chess-graph/id/two-knights-versus-pawn> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/endgame-tablebases> .
+<https://github.com/john1hsu/chess-graph/id/two-knights-versus-pawn> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/knight-versus-pawn> .
+<https://github.com/john1hsu/chess-graph/id/two-knights-versus-pawn> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/stalemate> .
+<https://github.com/john1hsu/chess-graph/id/two-knights-versus-pawn> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/two-knights-versus-pawn/s1> .
+<https://github.com/john1hsu/chess-graph/id/two-knights-versus-pawn> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/two-knights-versus-pawn/s2> .
+<https://github.com/john1hsu/chess-graph/id/two-knights-versus-pawn> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/two-knights-versus-pawn/s3> .
+<https://github.com/john1hsu/chess-graph/id/two-knights-versus-pawn> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/two-knights-versus-pawn/s4> .
+<https://github.com/john1hsu/chess-graph/id/two-knights-versus-pawn> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/two-knights-versus-pawn/s5> .
+<https://github.com/john1hsu/chess-graph/id/two-knights-versus-pawn> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/two-knights-versus-pawn/s6> .
+<https://github.com/john1hsu/chess-graph/id/two-knights-versus-pawn> <https://github.com/john1hsu/chess-graph/ontology#dependsOn> <https://github.com/john1hsu/chess-graph/id/blockade> .
+<https://github.com/john1hsu/chess-graph/id/two-knights-versus-pawn> <https://github.com/john1hsu/chess-graph/ontology#developedBy> <https://github.com/john1hsu/chess-graph/id/alexey-troitzky> .
+<https://github.com/john1hsu/chess-graph/id/two-knights-versus-pawn> <https://github.com/john1hsu/chess-graph/ontology#domain> "endgames" .
+<https://github.com/john1hsu/chess-graph/id/two-knights-versus-pawn> <https://github.com/john1hsu/chess-graph/ontology#fen> "8/8/8/5K2/7k/7p/7N/7N w - - 0 1" .
+<https://github.com/john1hsu/chess-graph/id/two-knights-versus-pawn> <https://github.com/john1hsu/chess-graph/ontology#governedBy> <https://github.com/john1hsu/chess-graph/id/fifty-move-rule> .
+<https://github.com/john1hsu/chess-graph/id/two-knights-versus-pawn> <https://github.com/john1hsu/chess-graph/ontology#status> "current" .
+<https://github.com/john1hsu/chess-graph/id/two-knights-versus-pawn> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-27" .
 <https://github.com/john1hsu/chess-graph/id/underpromotion> <http://purl.org/dc/terms/created> "2026-11-15" .
 <https://github.com/john1hsu/chess-graph/id/underpromotion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#TacticalMotif> .
 <https://github.com/john1hsu/chess-graph/id/underpromotion> <http://www.w3.org/2000/01/rdf-schema#label> "Underpromotion" .

@@ -6751,6 +6751,34 @@
     ]
   },
   {
+    "id": "kt:two-knights-versus-pawn",
+    "title": "Two knights versus pawn",
+    "aliases": [
+      "Two knights endgame",
+      "Two knights against pawn",
+      "Two knights vs pawn",
+      "Two knights vs. pawn",
+      "Troitzky line",
+      "Troitsky line",
+      "KNNKP"
+    ],
+    "type": "EndgameType",
+    "domain": "endgames",
+    "file": "articles/endgames/two-knights-versus-pawn.md",
+    "created": "2026-11-27",
+    "verified": "2026-11-27",
+    "volatile": false,
+    "status": "current",
+    "source_urls": [
+      "https://gutenberg.org/cache/epub/33870/pg33870-images.html",
+      "https://arbiters.fide.com/wp-content/uploads/2023/06/The-Saving-75.pdf",
+      "https://reading-9.eprints-hosting.org/34268/2/chessendrecann.pdf",
+      "https://en.chessbase.com/newsroom/post/endgame-blog-karsten-mueller-1009e?page=0",
+      "https://en.chessbase.com/post/troitzky-in-memoriam",
+      "https://chessjournalism.org/wp-content/uploads/2023/06/The-Troitzky-Line-by-Sid-Pickard-Chess-Advocate-Volume-7-Number-3-.pages-45-to-58.pdf"
+    ]
+  },
+  {
     "id": "kt:underpromotion",
     "title": "Underpromotion",
     "aliases": [
