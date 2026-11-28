@@ -4234,6 +4234,36 @@
 <https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/world-chess-championship-1927> .
 <https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
 <https://github.com/john1hsu/chess-graph/id/jose-raul-capablanca> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-10" .
+<https://github.com/john1hsu/chess-graph/id/joseph-henry-blackburne> <http://purl.org/dc/terms/created> "2026-11-28" .
+<https://github.com/john1hsu/chess-graph/id/joseph-henry-blackburne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
+<https://github.com/john1hsu/chess-graph/id/joseph-henry-blackburne> <http://www.w3.org/2000/01/rdf-schema#label> "Joseph Henry Blackburne" .
+<https://github.com/john1hsu/chess-graph/id/joseph-henry-blackburne> <http://www.w3.org/2004/02/skos/core#altLabel> "Black Death of chess" .
+<https://github.com/john1hsu/chess-graph/id/joseph-henry-blackburne> <http://www.w3.org/2004/02/skos/core#altLabel> "Blackburne" .
+<https://github.com/john1hsu/chess-graph/id/joseph-henry-blackburne> <http://www.w3.org/2004/02/skos/core#altLabel> "J. H. Blackburne" .
+<https://github.com/john1hsu/chess-graph/id/joseph-henry-blackburne> <http://www.w3.org/2004/02/skos/core#altLabel> "Joseph Blackburne" .
+<https://github.com/john1hsu/chess-graph/id/joseph-henry-blackburne> <http://www.w3.org/2004/02/skos/core#altLabel> "The Black Death" .
+<https://github.com/john1hsu/chess-graph/id/joseph-henry-blackburne> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/chess-graph/id/history-of-chess> .
+<https://github.com/john1hsu/chess-graph/id/joseph-henry-blackburne> <http://www.w3.org/2004/02/skos/core#definition> "English master (1841–1924), Britain's leading player of the Victorian era: a celebrated blindfold and simultaneous performer, winner of Berlin 1881, tied first with Steinitz at Vienna 1873, and an attacking player nicknamed \"the Black Death\" who competed internationally from London 1862 to St Petersburg 1914." .
+<https://github.com/john1hsu/chess-graph/id/joseph-henry-blackburne> <http://www.w3.org/2004/02/skos/core#prefLabel> "Joseph Henry Blackburne" .
+<https://github.com/john1hsu/chess-graph/id/joseph-henry-blackburne> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/blackburne-shilling-gambit> .
+<https://github.com/john1hsu/chess-graph/id/joseph-henry-blackburne> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/blindfold-chess> .
+<https://github.com/john1hsu/chess-graph/id/joseph-henry-blackburne> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/emanuel-lasker> .
+<https://github.com/john1hsu/chess-graph/id/joseph-henry-blackburne> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/johannes-zukertort> .
+<https://github.com/john1hsu/chess-graph/id/joseph-henry-blackburne> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/romantic-era> .
+<https://github.com/john1hsu/chess-graph/id/joseph-henry-blackburne> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/chess-graph/id/wilhelm-steinitz> .
+<https://github.com/john1hsu/chess-graph/id/joseph-henry-blackburne> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/joseph-henry-blackburne/s1> .
+<https://github.com/john1hsu/chess-graph/id/joseph-henry-blackburne> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/joseph-henry-blackburne/s2> .
+<https://github.com/john1hsu/chess-graph/id/joseph-henry-blackburne> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/joseph-henry-blackburne/s3> .
+<https://github.com/john1hsu/chess-graph/id/joseph-henry-blackburne> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/joseph-henry-blackburne/s4> .
+<https://github.com/john1hsu/chess-graph/id/joseph-henry-blackburne> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/chess-graph/id/source/joseph-henry-blackburne/s5> .
+<https://github.com/john1hsu/chess-graph/id/joseph-henry-blackburne> <https://github.com/john1hsu/chess-graph/ontology#domain> "players" .
+<https://github.com/john1hsu/chess-graph/id/joseph-henry-blackburne> <https://github.com/john1hsu/chess-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/chess-graph/id/zukertort-versus-blackburne-london-1883> .
+<https://github.com/john1hsu/chess-graph/id/joseph-henry-blackburne> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/berlin-1881> .
+<https://github.com/john1hsu/chess-graph/id/joseph-henry-blackburne> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/hastings-1895> .
+<https://github.com/john1hsu/chess-graph/id/joseph-henry-blackburne> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/london-1883> .
+<https://github.com/john1hsu/chess-graph/id/joseph-henry-blackburne> <https://github.com/john1hsu/chess-graph/ontology#playedIn> <https://github.com/john1hsu/chess-graph/id/vienna-1873> .
+<https://github.com/john1hsu/chess-graph/id/joseph-henry-blackburne> <https://github.com/john1hsu/chess-graph/ontology#status> "historical" .
+<https://github.com/john1hsu/chess-graph/id/joseph-henry-blackburne> <https://github.com/john1hsu/chess-graph/ontology#verified> "2026-11-28" .
 <https://github.com/john1hsu/chess-graph/id/ju-wenjun> <http://purl.org/dc/terms/created> "2026-11-18" .
 <https://github.com/john1hsu/chess-graph/id/ju-wenjun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Player> .
 <https://github.com/john1hsu/chess-graph/id/ju-wenjun> <http://www.w3.org/2000/01/rdf-schema#label> "Ju Wenjun" .
@@ -11233,6 +11263,31 @@
 <https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
 <https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s6> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
 <https://github.com/john1hsu/chess-graph/id/source/jose-raul-capablanca/s6> <https://schema.org/url> "https://www.jeremysilman.com/?p=2476" .
+<https://github.com/john1hsu/chess-graph/id/source/joseph-henry-blackburne/s1> <http://purl.org/dc/terms/publisher> "McFarland" .
+<https://github.com/john1hsu/chess-graph/id/source/joseph-henry-blackburne/s1> <http://purl.org/dc/terms/title> "Joseph Henry Blackburne: A Chess Biography (Tim Harding, 2015)" .
+<https://github.com/john1hsu/chess-graph/id/source/joseph-henry-blackburne/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/joseph-henry-blackburne/s1> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "book" .
+<https://github.com/john1hsu/chess-graph/id/source/joseph-henry-blackburne/s1> <https://schema.org/url> "https://mcfarlandbooks.com/?p=22649" .
+<https://github.com/john1hsu/chess-graph/id/source/joseph-henry-blackburne/s2> <http://purl.org/dc/terms/publisher> "Edward Winter, Chess Notes (chesshistory.com)" .
+<https://github.com/john1hsu/chess-graph/id/source/joseph-henry-blackburne/s2> <http://purl.org/dc/terms/title> "Joseph Henry Blackburne" .
+<https://github.com/john1hsu/chess-graph/id/source/joseph-henry-blackburne/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/joseph-henry-blackburne/s2> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "reference" .
+<https://github.com/john1hsu/chess-graph/id/source/joseph-henry-blackburne/s2> <https://schema.org/url> "https://www.chesshistory.com/winter/extra/blackburne.html" .
+<https://github.com/john1hsu/chess-graph/id/source/joseph-henry-blackburne/s3> <http://purl.org/dc/terms/publisher> "Chess Mail" .
+<https://github.com/john1hsu/chess-graph/id/source/joseph-henry-blackburne/s3> <http://purl.org/dc/terms/title> "J. H. Blackburne: a short biography (Tim Harding)" .
+<https://github.com/john1hsu/chess-graph/id/source/joseph-henry-blackburne/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/joseph-henry-blackburne/s3> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/joseph-henry-blackburne/s3> <https://schema.org/url> "https://chessmail.com/blackburne/Blackburne-short-biog.html" .
+<https://github.com/john1hsu/chess-graph/id/source/joseph-henry-blackburne/s4> <http://purl.org/dc/terms/publisher> "ChessBase News" .
+<https://github.com/john1hsu/chess-graph/id/source/joseph-henry-blackburne/s4> <http://purl.org/dc/terms/title> "Joseph Henry 'The Black Death' Blackburne: The Grand Old Man of British Chess (Eugene Manlapao, 2023)" .
+<https://github.com/john1hsu/chess-graph/id/source/joseph-henry-blackburne/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/joseph-henry-blackburne/s4> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/joseph-henry-blackburne/s4> <https://schema.org/url> "https://en.chessbase.com/post/joseph-henry-the-black-death-blackburne-the-grand-old-man-of-british-chess" .
+<https://github.com/john1hsu/chess-graph/id/source/joseph-henry-blackburne/s5> <http://purl.org/dc/terms/publisher> "British Chess News" .
+<https://github.com/john1hsu/chess-graph/id/source/joseph-henry-blackburne/s5> <http://purl.org/dc/terms/title> "Death Anniversary of Joseph Blackburne (10-xii-1841 01-ix-1924)" .
+<https://github.com/john1hsu/chess-graph/id/source/joseph-henry-blackburne/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .
+<https://github.com/john1hsu/chess-graph/id/source/joseph-henry-blackburne/s5> <https://github.com/john1hsu/chess-graph/ontology#sourceType> "publication" .
+<https://github.com/john1hsu/chess-graph/id/source/joseph-henry-blackburne/s5> <https://schema.org/url> "https://britishchessnews.com/?p=10000211" .
 <https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s1> <http://purl.org/dc/terms/publisher> "FIDE Women's Grand Prix" .
 <https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s1> <http://purl.org/dc/terms/title> "Ju Wenjun (player profile)" .
 <https://github.com/john1hsu/chess-graph/id/source/ju-wenjun/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/chess-graph/ontology#Source> .

@@ -16613,6 +16613,101 @@
       ]
     },
     {
+      "@id": "kt:joseph-henry-blackburne",
+      "@type": "kto:Player",
+      "skos:prefLabel": "Joseph Henry Blackburne",
+      "skos:definition": "English master (1841–1924), Britain's leading player of the Victorian era: a celebrated blindfold and simultaneous performer, winner of Berlin 1881, tied first with Steinitz at Vienna 1873, and an attacking player nicknamed \"the Black Death\" who competed internationally from London 1862 to St Petersburg 1914.",
+      "kto:domain": "players",
+      "dcterms:created": "2026-11-28",
+      "kto:verified": "2026-11-28",
+      "kto:status": "historical",
+      "kto:volatile": false,
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Joseph Henry Blackburne: A Chess Biography (Tim Harding, 2015)",
+          "dcterms:publisher": "McFarland",
+          "schema:url": "https://mcfarlandbooks.com/?p=22649",
+          "kto:sourceType": "book"
+        },
+        {
+          "dcterms:title": "Joseph Henry Blackburne",
+          "dcterms:publisher": "Edward Winter, Chess Notes (chesshistory.com)",
+          "schema:url": "https://www.chesshistory.com/winter/extra/blackburne.html",
+          "kto:sourceType": "reference"
+        },
+        {
+          "dcterms:title": "J. H. Blackburne: a short biography (Tim Harding)",
+          "dcterms:publisher": "Chess Mail",
+          "schema:url": "https://chessmail.com/blackburne/Blackburne-short-biog.html",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Joseph Henry 'The Black Death' Blackburne: The Grand Old Man of British Chess (Eugene Manlapao, 2023)",
+          "dcterms:publisher": "ChessBase News",
+          "schema:url": "https://en.chessbase.com/post/joseph-henry-the-black-death-blackburne-the-grand-old-man-of-british-chess",
+          "kto:sourceType": "publication"
+        },
+        {
+          "dcterms:title": "Death Anniversary of Joseph Blackburne (10-xii-1841 01-ix-1924)",
+          "dcterms:publisher": "British Chess News",
+          "schema:url": "https://britishchessnews.com/?p=10000211",
+          "kto:sourceType": "publication"
+        }
+      ],
+      "kto:file": "articles/players/joseph-henry-blackburne.md",
+      "skos:altLabel": [
+        "J. H. Blackburne",
+        "Joseph Blackburne",
+        "Blackburne",
+        "The Black Death",
+        "Black Death of chess"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:history-of-chess"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:wilhelm-steinitz"
+        },
+        {
+          "@id": "kt:johannes-zukertort"
+        },
+        {
+          "@id": "kt:blindfold-chess"
+        },
+        {
+          "@id": "kt:romantic-era"
+        },
+        {
+          "@id": "kt:emanuel-lasker"
+        },
+        {
+          "@id": "kt:blackburne-shilling-gambit"
+        }
+      ],
+      "kto:playedIn": [
+        {
+          "@id": "kt:vienna-1873"
+        },
+        {
+          "@id": "kt:berlin-1881"
+        },
+        {
+          "@id": "kt:london-1883"
+        },
+        {
+          "@id": "kt:hastings-1895"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:zukertort-versus-blackburne-london-1883"
+        }
+      ]
+    },
+    {
       "@id": "kt:ju-wenjun",
       "@type": "kto:Player",
       "skos:prefLabel": "Ju Wenjun",

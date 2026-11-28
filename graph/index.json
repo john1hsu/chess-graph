@@ -3766,6 +3766,31 @@
     ]
   },
   {
+    "id": "kt:joseph-henry-blackburne",
+    "title": "Joseph Henry Blackburne",
+    "aliases": [
+      "J. H. Blackburne",
+      "Joseph Blackburne",
+      "Blackburne",
+      "The Black Death",
+      "Black Death of chess"
+    ],
+    "type": "Player",
+    "domain": "players",
+    "file": "articles/players/joseph-henry-blackburne.md",
+    "created": "2026-11-28",
+    "verified": "2026-11-28",
+    "volatile": false,
+    "status": "historical",
+    "source_urls": [
+      "https://mcfarlandbooks.com/?p=22649",
+      "https://www.chesshistory.com/winter/extra/blackburne.html",
+      "https://chessmail.com/blackburne/Blackburne-short-biog.html",
+      "https://en.chessbase.com/post/joseph-henry-the-black-death-blackburne-the-grand-old-man-of-british-chess",
+      "https://britishchessnews.com/?p=10000211"
+    ]
+  },
+  {
     "id": "kt:ju-wenjun",
     "title": "Ju Wenjun",
     "aliases": [

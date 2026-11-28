@@ -6,7 +6,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:world-chess-champion` | `kt:world-chess-championship`, `kt:alexander-alekhine`, `kt:anatoly-karpov`, `kt:bobby-fischer`, `kt:boris-spassky`, `kt:emanuel-lasker`, `kt:garry-kasparov`, `kt:gukesh-dommaraju`, `kt:jose-raul-capablanca`, `kt:magnus-carlsen`, `kt:mikhail-botvinnik`, `kt:mikhail-tal`, `kt:tigran-petrosian`, `kt:viswanathan-anand`, `kt:vladimir-kramnik`, `kt:wilhelm-steinitz` |
 | `kt:history-of-computer-chess` | `kt:claude-shannon`, `kt:computer-chess`, `kt:ken-thompson`, `kt:deep-blue-versus-kasparov`, `kt:the-turk`, `kt:allen-newell`, `kt:herbert-simon` |
-| `kt:joseph-henry-blackburne` | `kt:london-1883`, `kt:zukertort-versus-blackburne-london-1883`, `kt:johannes-zukertort` |
 | `kt:kings-indian-defence` | `kt:soviet-chess-school`, `kt:pawn-chain`, `kt:david-bronstein` |
 | `kt:numeric-annotation-glyphs` | `kt:chess-notation`, `kt:portable-game-notation`, `kt:annotating-your-games` |
 | `kt:richard-reti` | `kt:hypermodernism`, `kt:reti-endgame-study`, `kt:reti-endgame-study` |
@@ -53,6 +52,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:baku-acceleration` | `kt:swiss-system` |
 | `kt:belle` | `kt:ken-thompson` |
 | `kt:berger-tables` | `kt:round-robin` |
+| `kt:berlin-1881` | `kt:joseph-henry-blackburne` |
+| `kt:blackburne-shilling-gambit` | `kt:joseph-henry-blackburne` |
 | `kt:blackburnes-mate` | `kt:bodens-mate` |
 | `kt:board-representation` | `kt:bitboards` |
 | `kt:botvinnik-versus-tal-moscow-1960-game-6` | `kt:mikhail-tal` |
@@ -256,6 +257,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:us-womens-chess-championship` | `kt:us-chess-championship` |
 | `kt:vaishali-rameshbabu` | `kt:ju-wenjun` |
 | `kt:vera-menchik` | `kt:womens-world-chess-championship` |
+| `kt:vienna-1873` | `kt:joseph-henry-blackburne` |
 | `kt:viktor-korchnoi` | `kt:anatoly-karpov` |
 | `kt:walter-grimshaw` | `kt:grimshaw-theme` |
 | `kt:walter-kintsch` | `kt:long-term-working-memory` |
